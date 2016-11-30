@@ -7,7 +7,7 @@ from unitypack.environment import UnityEnvironment
 from PIL import Image, ImageOps
 
 
-def handle_asset(asset, textures, cards):
+def handle_asset(asset, textures, cards, filter_ids):
 	for obj in asset.objects.values():
 		if obj.type == "AssetBundle":
 			d = obj.read()
@@ -23,6 +23,8 @@ def handle_asset(asset, textures, cards):
 		elif obj.type == "GameObject":
 			d = obj.read()
 			cardid = d.name
+			if filter_ids and cardid not in filter_ids:
+				continue
 			if cardid in ("CardDefTemplate", "HiddenCard"):
 				# not a real card
 				cards[cardid] = {"path": "", "tile": ""}
@@ -50,7 +52,7 @@ def handle_asset(asset, textures, cards):
 			}
 
 
-def extract_info(files):
+def extract_info(files, filter_ids):
 	cards = {}
 	textures = {}
 	env = UnityEnvironment()
@@ -62,7 +64,7 @@ def extract_info(files):
 
 		for asset in bundle.assets:
 			print("Parsing %r" % (asset.name))
-			handle_asset(asset, textures, cards)
+			handle_asset(asset, textures, cards, filter_ids)
 
 	return cards, textures
 
@@ -208,14 +210,15 @@ def main():
 	p.add_argument("files", nargs="+")
 	args = p.parse_args(sys.argv[1:])
 
-	cards, textures = extract_info(args.files)
+	filter_ids = args.only.split(",") if args.only else []
+
+	cards, textures = extract_info(args.files, filter_ids)
 	paths = [card["path"] for card in cards.values()]
 	print("Found %i cards, %i textures including %i unique in use." % (
 		len(cards), len(textures), len(set(paths))
 	))
 
 	thumb_sizes = (256, 512)
-	filter_ids = args.only.split(",") if args.only else []
 
 	for id, values in sorted(cards.items()):
 		if filter_ids and id not in filter_ids:
