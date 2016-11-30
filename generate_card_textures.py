@@ -119,21 +119,24 @@ def generate_tile_image(img, tile):
 	tiled.paste(img, (0, 0))
 	tiled.paste(img, (img.width, 0))
 
-	x, y, width, height = get_rect(
-		tile["m_TexEnvs"]["_MainTex"]["m_Offset"]["x"],
-		tile["m_TexEnvs"]["_MainTex"]["m_Offset"]["y"],
-		tile["m_TexEnvs"]["_MainTex"]["m_Scale"]["x"],
-		tile["m_TexEnvs"]["_MainTex"]["m_Scale"]["y"],
-		tile["m_Floats"].get("_OffsetX", 0.0),
-		tile["m_Floats"].get("_OffsetY", 0.0),
-		tile["m_Floats"].get("_Scale", 1.0),
-		img.width
-	)
+	props = (-0.2, 0.25, 1, 1, 0, 0, 1, img.width)
+	if tile:
+		props = (
+			tile["m_TexEnvs"]["_MainTex"]["m_Offset"]["x"],
+			tile["m_TexEnvs"]["_MainTex"]["m_Offset"]["y"],
+			tile["m_TexEnvs"]["_MainTex"]["m_Scale"]["x"],
+			tile["m_TexEnvs"]["_MainTex"]["m_Scale"]["y"],
+			tile["m_Floats"].get("_OffsetX", 0.0),
+			tile["m_Floats"].get("_OffsetY", 0.0),
+			tile["m_Floats"].get("_Scale", 1.0),
+		)
+
+	x, y, width, height = get_rect(*props)
 
 	bar = tiled.crop((x, y, x + width, y + height))
 	bar = ImageOps.flip(bar)
 	# negative x scale means horizontal flip
-	if tile["m_TexEnvs"]["_MainTex"]["m_Scale"]["x"] < 0:
+	if props[2] < 0:
 		bar = ImageOps.mirror(bar)
 
 	return bar.resize((OUT_WIDTH, OUT_HEIGHT), Image.LANCZOS)
@@ -174,12 +177,11 @@ def do_texture(path, id, textures, values, thumb_sizes, args):
 		flipped.save(filename)
 
 	for ext in (".jpg", ".png", ".webp"):
-		if values["tile"]:
-			filename, exists = get_filename(args.outdir, args.tiles_dir, id, ext=ext)
-			if not (args.skip_existing and exists):
-				tile_texture = generate_tile_image(texture.image, values["tile"])
-				print("-> %r" % (filename))
-				tile_texture.save(filename)
+		filename, exists = get_filename(args.outdir, args.tiles_dir, id, ext=ext)
+		if not (args.skip_existing and exists):
+			tile_texture = generate_tile_image(texture.image, values["tile"])
+			print("-> %r" % (filename))
+			tile_texture.save(filename)
 
 		if ext == ".png":
 			# skip png generation for thumbnails
