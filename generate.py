@@ -54,7 +54,7 @@ def json_dump(obj, filename, pretty=False):
 	else:
 		kwargs = {"separators": (",", ":")}
 	with open(filename, "w", encoding="utf8") as f:
-		json.dump(obj, f, ensure_ascii=False, **kwargs)
+		json.dump(obj, f, ensure_ascii=False, sort_keys=True, **kwargs)
 
 
 def show_field(card, k, v):
