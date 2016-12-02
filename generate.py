@@ -85,12 +85,28 @@ def get_mechanics(card):
 	return ret
 
 
+def clean_card_description(text):
+	text = text.replace("_", NBSP)
+
+	if "@" in text:
+		text, collection_text = text.split("@")
+		text = text.strip()
+		collection_text = collection_text.strip()
+	else:
+		collection_text = ""
+
+	return text, collection_text
+
+
 def serialize_card(card):
+	text, collection_text = clean_card_description(card.description)
+
 	ret = {
 		"id": card.id,
 		"name": card.name,
 		"flavor": card.flavortext,
-		"text": card.description.replace("_", NBSP),
+		"text": text,
+		"collectionText": collection_text,
 		"textInPlay": card.playtext,
 		"howToEarn": card.how_to_earn,
 		"howToEarnGolden": card.how_to_earn_golden,
@@ -160,13 +176,21 @@ def export_all_locales_cards_to_file(cards, filename):
 	ret = []
 	for card in cards:
 		obj = serialize_card(card)
+		obj["collectionText"] = {}
 		for tag, key in tag_names.items():
 			value = card._localized_tags[tag]
 			if key == "text":
-				for k, v in value.items():
-					value[k] = v.replace("_", NBSP)
+				for locale, localized_value in value.items():
+					text, collection_text = clean_card_description(localized_value)
+					value[locale] = text
+					if collection_text:
+						obj["collectionText"][locale] = collection_text
 			if value:
 				obj[key] = value
+
+		if not obj["collectionText"]:
+			del obj["collectionText"]
+
 		ret.append(obj)
 
 	json_dump(ret, filename)
