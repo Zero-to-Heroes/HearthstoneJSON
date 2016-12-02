@@ -123,6 +123,12 @@ def serialize_card(card):
 	if card.entourage:
 		ret["entourage"] = card.entourage
 
+	if card.multiple_classes:
+		ret["classes"] = [c.name for c in card.classes]
+
+	if card.multi_class_group:
+		ret["multiClassGroup"] = card.multi_class_group.name
+
 	if card.requirements:
 		ret["playRequirements"] = {k.name: v for k, v in card.requirements.items()}
 
