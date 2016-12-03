@@ -233,6 +233,7 @@ def main():
 		default="hsdata",
 		help="Input hsdata directory"
 	)
+	parser.add_argument("--locale", type=str, nargs="*", help="Only generate one locale")
 	args = parser.parse_args(sys.argv[1:])
 
 	db, xml = load(os.path.join(args.input_dir, "CardDefs.xml"))
@@ -246,8 +247,13 @@ def main():
 	cards = db.values()
 	collectible_cards = [card for card in cards if card.collectible]
 
+	filter_locales = [loc.lower() for loc in args.locale or []]
+
 	for locale in Locale:
 		if locale.unused:
+			continue
+
+		if filter_locales and locale.name.lower() not in filter_locales:
 			continue
 
 		basedir = os.path.join(args.output_dir, locale.name)
@@ -265,13 +271,14 @@ def main():
 			write_cardbacks(dbf, filename, locale)
 
 	# Generate merged locales
-	basedir = os.path.join(args.output_dir, "all")
-	if not os.path.exists(basedir):
-		os.makedirs(basedir)
-	filename = os.path.join(basedir, "cards.json")
-	export_all_locales_cards_to_file(cards, filename)
-	filename = os.path.join(basedir, "cards.collectible.json")
-	export_all_locales_cards_to_file(collectible_cards, filename)
+	if "all" in filter_locales or not filter_locales:
+		basedir = os.path.join(args.output_dir, "all")
+		if not os.path.exists(basedir):
+			os.makedirs(basedir)
+		filename = os.path.join(basedir, "cards.json")
+		export_all_locales_cards_to_file(cards, filename)
+		filename = os.path.join(basedir, "cards.collectible.json")
+		export_all_locales_cards_to_file(collectible_cards, filename)
 
 
 if __name__ == "__main__":
