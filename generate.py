@@ -103,6 +103,7 @@ def serialize_card(card):
 
 	ret = {
 		"id": card.id,
+		"dbfId": card.dbf_id,
 		"name": card.name,
 		"flavor": card.flavortext,
 		"text": text,
