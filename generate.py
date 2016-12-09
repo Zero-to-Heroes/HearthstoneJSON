@@ -173,11 +173,12 @@ def export_all_locales_cards_to_file(cards, filename):
 		GameTag.TARGETING_ARROW_TEXT: "targetingArrowText",
 	}
 	ret = []
+
 	for card in cards:
 		obj = serialize_card(card)
 		obj["collectionText"] = {}
 		for tag, key in tag_names.items():
-			value = card.tags.get(tag, {})
+			value = card.strings.get(tag, {})
 			if key == "text":
 				for locale, localized_value in value.items():
 					text, collection_text = clean_card_description(localized_value)
