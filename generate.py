@@ -82,6 +82,10 @@ def get_mechanics(card):
 	if card.referenced_tags.get(GameTag.AUTOATTACK):
 		ret.append(GameTag.AUTOATTACK.name)
 
+	# Do the same for JADE_GOLEM
+	if card.referenced_tags.get(GameTag.JADE_GOLEM):
+		ret.append(GameTag.JADE_GOLEM.name)
+
 	return ret
 
 
