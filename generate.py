@@ -123,6 +123,7 @@ def serialize_card(card):
 		"set": card.card_set,
 		"type": card.type,
 		"collectible": card.collectible,
+		"elite": card.elite,
 		"attack": card.atk,
 		"cost": card.cost,
 		"durability": card.durability,
