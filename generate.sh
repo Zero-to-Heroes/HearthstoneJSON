@@ -14,7 +14,7 @@ ENUMS_CS="$OUTDIR/enums.cs"
 ENUMS_TS="$OUTDIR/enums.d.ts"
 
 HSDATA_URL="https://github.com/HearthSim/hs-data.git"
-HSDATA_DIR=${HSDATA:-"$BUILDDIR/hs-data"}
+HSDATA_DIR=${HSDATA:-$BUILDDIR/hs-data}
 
 # AWS configuration
 S3_BUCKET_NAME="api.hearthstonejson.com"
