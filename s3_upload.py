@@ -2,6 +2,7 @@
 
 import sys
 import boto3
+from argparse import ArgumentParser
 from pprint import pprint
 
 
@@ -77,9 +78,14 @@ def update_art_404_redirects(s3, bucket=ART_BUCKET):
 
 
 def main():
-	build = int(sys.argv[1])
+	parser = ArgumentParser()
+	parser.add_argument("--build", type=int, nargs=1)
+	parser.add_argument("dir", type=str, nargs="+")
+
+	args = parser.parse_args(sys.argv[1:])
 	s3 = boto3.client("s3")
-	update_website_configuration(s3, build)
+
+	update_website_configuration(s3, args.build[0])
 	update_art_404_redirects(s3)
 
 

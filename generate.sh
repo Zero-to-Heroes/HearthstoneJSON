@@ -8,7 +8,7 @@ HTMLDIR="$BUILDDIR/html"
 OUTDIR="$HTMLDIR/v1"
 PYTHON=${PYTHON:-python}
 GENERATE_BIN="$BASEDIR/generate.py"
-UPDATE_REDIRECTS_BIN="$BASEDIR/update_s3_configuration.py"
+S3_UPLOAD_BIN="$BASEDIR/s3_upload.py"
 ENUMS_JSON="$OUTDIR/enums.json"
 ENUMS_CS="$OUTDIR/enums.cs"
 ENUMS_TS="$OUTDIR/enums.d.ts"
@@ -40,15 +40,6 @@ function update_enums() {
 	"$PYTHON" -m hearthstone.enums --ts > "$ENUMS_TS"
 }
 
-function link_build() {
-	build="$1"
-	# ln -s --verbose --no-target-directory --force "$build" "$OUTDIR/latest"
-	touch latest
-	aws s3 cp latest "$S3_BUCKET/v1/latest" --website-redirect "/v1/$build/"
-	rm latest
-	"$PYTHON" "$UPDATE_REDIRECTS_BIN" "$build"
-}
-
 function update_build() {
 	build="$1"
 	git -C "$HSDATA_DIR" reset --hard "$build"
@@ -74,6 +65,7 @@ function upload_to_s3() {
 	build="$1"
 
 	aws s3 sync "$OUTDIR" "$S3_BUCKET/v1"
+	"$PYTHON" "$S3_UPLOAD_BIN" --build="$build" "$OUTDIR"
 }
 
 
@@ -88,15 +80,13 @@ if [[ -z $1 || $1 == "latest" ]]; then
 	update_build "$maxbuild"
 	update_enums
 	update_indexes
-	upload_to_s3
-	link_build "$maxbuild"
+	upload_to_s3 "$maxbuild"
 elif [[ $1 == "clean-upload" ]]; then
 	echo "Preparing for S3 upload"
 	update_enums
 	update_indexes
 	aws s3 rm "$S3_BUCKET" --recursive
-	upload_to_s3
-	link_build "$maxbuild"
+	upload_to_s3 "$maxbuild"
 elif [[ $1 == "sync-textures" ]]; then
 	echo "Syncing textures to S3"
 	if [[ -z $2 ]]; then
@@ -119,8 +109,7 @@ elif [[ $1 =~ ^[0-9]+$ ]]; then
 	if [[ $1 == $maxbuild ]]; then
 		update_enums
 	fi
-	upload_to_s3
-	link_build "$maxbuild"
+	upload_to_s3 "$maxbuild"
 else
 	>&2 echo "Usage: $0 [BUILD | latest | all | clean-upload]"
 fi
