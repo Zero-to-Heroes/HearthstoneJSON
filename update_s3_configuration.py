@@ -5,7 +5,11 @@ import boto3
 from pprint import pprint
 
 
-def update_website_configuration(s3, build, bucket="api.hearthstonejson.com"):
+API_BUCKET = "api.hearthstonejson.com"
+ART_BUCKET = "art.hearthstonejson.com"
+
+
+def update_website_configuration(s3, build, bucket=API_BUCKET):
 	print("Querying website configuration for %r" % (bucket))
 	orig_config = s3.get_bucket_website(Bucket=bucket)
 	pprint(orig_config)
@@ -34,7 +38,7 @@ def update_website_configuration(s3, build, bucket="api.hearthstonejson.com"):
 		print("Website configuration up-to-date")
 
 
-def update_art_404_redirects(s3, bucket="art.hearthstonejson.com"):
+def update_art_404_redirects(s3, bucket=ART_BUCKET):
 	orig_config = s3.get_bucket_website(Bucket=bucket)
 
 	if "ResponseMetadata" in orig_config:
