@@ -49,12 +49,17 @@ MECHANICS_TAGS = [
 
 def json_dump(obj, filename, pretty=False):
 	print("Writing to %r" % (filename))
+	kwargs = {
+		"ensure_ascii": False,
+		"separators": (",", ":"),
+		"sort_keys": True,
+	}
 	if pretty:
-		kwargs = {"sort_keys": True, "indent": "\t", "separators": (",", ": ")}
-	else:
-		kwargs = {"separators": (",", ":")}
+		kwargs["indent"] = "\t"
+		kwargs["separators"] = (",", ": ")
+
 	with open(filename, "w", encoding="utf8") as f:
-		json.dump(obj, f, ensure_ascii=False, sort_keys=True, **kwargs)
+		json.dump(obj, f, **kwargs)
 
 
 def show_field(card, k, v):
