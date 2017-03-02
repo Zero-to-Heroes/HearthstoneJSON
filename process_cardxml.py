@@ -78,6 +78,7 @@ class CardXMLProcessor:
 		"cards1.unity3d",
 		"cards2.unity3d",
 		"cardxml0.unity3d",
+		"dbf.unity3d",
 	]
 
 	tag_dbf_localized_columns = [
@@ -91,12 +92,19 @@ class CardXMLProcessor:
 
 	def __init__(self):
 		self._p = ArgumentParser()
-		self._p.add_argument("files", nargs="+", type=FileType("rb"))
+		self._p.add_argument("files", nargs="+", type=str)
 		self._p.add_argument("-o", "--outfile", nargs="?", type=FileType("wb"))
 		self._p.add_argument("--build", type=int, default=None)
 		self._p.add_argument("--dbf-dir", nargs="?", type=str)
 		self._p.add_argument("--manifest-csv", nargs="?", type=str)
 		self._p.add_argument("--raw", action="store_true")
+
+		# File inputs
+		self.manifest_csv = None
+		self.dbf_dir = None
+		self.card_dbf = None
+		self.card_tag_dbf = None
+		self.bundles = []
 
 		# The final dict of entities
 		self.entities = {}
@@ -123,29 +131,33 @@ class CardXMLProcessor:
 		sys.stderr.write("[ERROR] %s\n" % (msg))
 		exit(1)
 
-	def parse_bundle(self, f):
-		if os.path.basename(f.name) not in self.unity3d_filenames:
+	def parse_bundle(self, path):
+		if os.path.basename(path) not in self.unity3d_filenames:
 			# Only parse files that have a whitelisted name
-			f.close()
 			return
 
-		bundle = unitypack.load(f)
-		asset = bundle.assets[0]
-		self.info("Processing %r" % (asset))
+		with open(path, "rb") as f:
+			bundle = unitypack.load(f)
+			asset = bundle.assets[0]
+			self.info("Processing %r" % (asset))
 
-		for obj in asset.objects.values():
-			if obj.type == "TextAsset":
-				d = obj.read()
-				if d.name in IGNORE_LOCALES:
-					continue
-				if d.script.startswith("<CardDefs>"):
-					xml = ElementTree.fromstring(d.script)
-					self.parse_full_carddefs(xml, d.name)
-				elif d.script.startswith("<?xml "):
-					xml = ElementTree.fromstring(d.script.encode("utf-8"))
-					self.parse_single_entity_xml(xml, d.name, locale=None)
-				else:
-					self.error("Bad TextAsset: %r" % (d))
+			if os.path.basename(path) == "dbf.unity3d":
+				self.parse_dbf_unity_asset(asset)
+				return
+
+			for obj in asset.objects.values():
+				if obj.type == "TextAsset":
+					d = obj.read()
+					if d.name in IGNORE_LOCALES:
+						continue
+					if d.script.startswith("<CardDefs>"):
+						xml = ElementTree.fromstring(d.script)
+						self.parse_full_carddefs(xml, d.name)
+					elif d.script.startswith("<?xml "):
+						xml = ElementTree.fromstring(d.script.encode("utf-8"))
+						self.parse_single_entity_xml(xml, d.name, locale=None)
+					else:
+						self.error("Bad TextAsset: %r" % (d))
 
 	def parse_single_entity_xml(self, xml, id, locale=None):
 		"""
@@ -293,9 +305,7 @@ class CardXMLProcessor:
 		else:
 			self.entities[card_id].tags[tag] = value
 
-	def parse_dbf_unity(self, f):
-		bundle = unitypack.load(f)
-		asset = bundle.assets[0]
+	def parse_dbf_unity_asset(self, asset):
 		self.info("Processing DBFs as Unity3D bundle: %r" % (asset))
 		data = {}
 
@@ -413,33 +423,69 @@ class CardXMLProcessor:
 			if len(entourage) >= 34:
 				entity.entourage[i] = self.guids[entourage]
 
+	def autodetect_files_to_parse(self, dirname):
+		for basename, dirs, files in os.walk(dirname):
+			if basename.endswith("/DBF") and not self.dbf_dir:
+				self.dbf_dir = basename
+
+			for fname in files:
+				if fname in self.unity3d_filenames:
+					print("Adding %r to bundles" % (fname))
+					path = os.path.join(basename, fname)
+					self.bundles.append(path)
+				elif fname == "manifest.csv":
+					self.manifest_csv = os.path.join(basename, fname)
+
 	def run(self, args):
 		self.args = self._p.parse_args(args)
 
-		self.build = self.args.build or detect_build(self.args.files[0].name)
+		self.build = self.args.build or detect_build(self.args.files[0])
 		if self.build is None:
 			self.error("Could not detect build. Use --build.")
 
-		for f in self.args.files:
-			if self.args.raw:
-				self.parse_raw(f)
-			elif f.name == "dbf.unity3d":
-				self.parse_dbf_unity(f)
-			else:
-				self.parse_bundle(f)
-
 		if self.args.manifest_csv:
-			self.parse_manifest_csv(self.args.manifest_csv)
+			self.manifest_csv = self.args.manifest_csv
 
 		if self.args.dbf_dir:
-			path = os.path.join(self.args.dbf_dir, "CARD.xml")
+			self.dbf_dir = self.dbf_dir
+
+		for f in self.args.files:
+			if os.path.isdir(f):
+				self.info("%r is a directory. Autodetecting game files." % (f))
+				self.autodetect_files_to_parse(f)
+			else:
+				self.bundles.append(f)
+
+		if self.args.raw:
+			# Parse enUS.txt, frFR.txt, etc
+			for path in self.bundles:
+				if path.endswith((".txt", ".xml")):
+					with open(path, "rb") as f:
+						self.parse_raw(f)
+		else:
+			for path in self.bundles:
+				self.parse_bundle(path)
+
+		if self.dbf_dir:
+			path = os.path.join(self.dbf_dir, "CARD.xml")
 			if os.path.exists(path):
-				self.parse_card_dbf(path)
+				self.card_dbf = path
 
 			# Check for CARD_TAG.xml too
-			path = os.path.join(self.args.dbf_dir, "CARD_TAG.xml")
+			path = os.path.join(self.dbf_dir, "CARD_TAG.xml")
 			if os.path.exists(path):
-				self.parse_card_tag_dbf(path)
+				self.card_tag_dbf = path
+
+		if self.card_dbf:
+			self.parse_card_dbf(self.card_dbf)
+
+		if self.card_tag_dbf:
+			self.parse_card_tag_dbf(self.card_tag_dbf)
+
+		if self.manifest_csv:
+			if self.dbf_ids:
+				self.warn("Found %r but we already have a card database..." % (self.manifest_csv))
+			self.parse_manifest_csv(self.manifest_csv)
 
 		if not self.dbf_ids:
 			self.warn("No DBF database found. Specify one with --dbf-dir or --manifest-csv.")
