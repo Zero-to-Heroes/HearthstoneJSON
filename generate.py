@@ -214,8 +214,8 @@ def main():
 	parser.add_argument(
 		"-i", "--input-dir",
 		type=str,
+		required=True,
 		dest="input_dir",
-		default="hsdata",
 		help="Input hsdata directory"
 	)
 	parser.add_argument("--locale", type=str, nargs="*", help="Only generate one locale")
