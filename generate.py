@@ -118,7 +118,8 @@ def serialize_card(card):
 		"targetingArrowText": card.targeting_arrow_text,
 		"artist": card.artist,
 		"faction": card.faction,
-		"playerClass": card.card_class,
+		"playerClass": card.card_class,  # Deprecated 2017-03-06
+		"cardClass": card.card_class,
 		"race": card.race,
 		"rarity": card.rarity,
 		"set": card.card_set,
