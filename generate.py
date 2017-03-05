@@ -76,22 +76,18 @@ def show_field(card, k, v):
 	return bool(v)
 
 
-def get_mechanics(card):
-	ret = []
-	for tag in MECHANICS_TAGS:
-		value = card.tags.get(tag, 0)
-		if value:
-			ret.append(tag.name)
+def get_tags(card):
+	tags, referenced_tags = [], []
+	for gametag in MECHANICS_TAGS:
+		tag = card.tags.get(gametag, 0)
+		if tag:
+			tags.append(gametag.name)
 
-	# AUTOATTACK is only a referenced mechanic. Kinda weird.
-	if card.referenced_tags.get(GameTag.AUTOATTACK):
-		ret.append(GameTag.AUTOATTACK.name)
+		referenced_tag = card.referenced_tags.get(gametag, 0)
+		if referenced_tag:
+			referenced_tags.append(gametag.name)
 
-	# Do the same for JADE_GOLEM
-	if card.referenced_tags.get(GameTag.JADE_GOLEM):
-		ret.append(GameTag.JADE_GOLEM.name)
-
-	return ret
+	return tags, referenced_tags
 
 
 def clean_card_description(text):
@@ -142,9 +138,12 @@ def serialize_card(card):
 		if isinstance(v, IntEnum):
 			ret[k] = v.name
 
-	mechanics = get_mechanics(card)
-	if mechanics:
-		ret["mechanics"] = mechanics
+	tags, referenced_tags = get_tags(card)
+	if tags:
+		ret["mechanics"] = tags
+
+	if referenced_tags:
+		ret["referencedTags"] = referenced_tags
 
 	if card.entourage:
 		ret["entourage"] = card.entourage
