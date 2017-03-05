@@ -4,7 +4,6 @@ import json
 import sys
 from argparse import ArgumentParser
 from enum import IntEnum
-from hearthstone.dbf import Dbf
 from hearthstone.cardxml import load
 from hearthstone.enums import CardType, Faction, GameTag, Locale
 
@@ -203,27 +202,6 @@ def export_all_locales_cards_to_file(cards, filename):
 	json_dump(ret, filename)
 
 
-def write_cardbacks(dbf, filename, locale):
-	ret = []
-
-	for record in dbf.records:
-		name = record.get("NAME") or {}
-		description = record.get("DESCRIPTION") or {}
-		source_description = record.get("SOURCE_DESCRIPTION") or {}
-		ret.append({
-			"id": record["ID"],
-			"note_desc": record["NOTE_DESC"],
-			"source": record["SOURCE"],
-			"enabled": record["ENABLED"],
-			"name": name.get(locale.name, ""),
-			"prefab_name": record.get("PREFAB_NAME", ""),
-			"description": description.get(locale.name, ""),
-			"source_description": source_description.get(locale.name, ""),
-		})
-
-	json_dump(ret, filename)
-
-
 def main():
 	parser = ArgumentParser()
 	parser.add_argument(
@@ -244,12 +222,6 @@ def main():
 	args = parser.parse_args(sys.argv[1:])
 
 	db, xml = load(os.path.join(args.input_dir, "CardDefs.xml"))
-	dbf_path = os.path.join(args.input_dir, "DBF", "CARD_BACK.xml")
-	if not os.path.exists(dbf_path):
-		print("Skipping card back generation (%s does not exist)" % (dbf_path))
-		dbf = None
-	else:
-		dbf = Dbf.load(dbf_path)
 
 	cards = db.values()
 	collectible_cards = [card for card in cards if card.collectible]
@@ -272,10 +244,6 @@ def main():
 
 		filename = os.path.join(basedir, "cards.collectible.json")
 		export_cards_to_file(collectible_cards, filename, locale.name)
-
-		if dbf is not None:
-			filename = os.path.join(basedir, "cardbacks.json")
-			write_cardbacks(dbf, filename, locale)
 
 	# Generate merged locales
 	if "all" in filter_locales or not filter_locales:
