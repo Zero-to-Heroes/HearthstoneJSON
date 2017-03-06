@@ -12,6 +12,7 @@ NBSP = "\u00A0"
 MECHANICS_TAGS = [
 	GameTag.ADJACENT_BUFF,
 	GameTag.AI_MUST_PLAY,
+	GameTag.APPEAR_FUNCTIONALLY_DEAD,
 	GameTag.AURA,
 	GameTag.BATTLECRY,
 	GameTag.CHARGE,
@@ -30,6 +31,7 @@ MECHANICS_TAGS = [
 	GameTag.JADE_GOLEM,
 	GameTag.MORPH,
 	GameTag.POISONOUS,
+	GameTag.RECEIVES_DOUBLE_SPELLDAMAGE_BONUS,
 	GameTag.RITUAL,
 	GameTag.SECRET,
 	GameTag.SILENCE,
@@ -37,6 +39,7 @@ MECHANICS_TAGS = [
 	GameTag.TAG_ONE_TURN_EFFECT,
 	GameTag.TAUNT,
 	GameTag.TOPDECK,
+	GameTag.UNTOUCHABLE,
 	GameTag.WINDFURY,
 	GameTag.ImmuneToSpellpower,
 	GameTag.InvisibleDeathrattle,
