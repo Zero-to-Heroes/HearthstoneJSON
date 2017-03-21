@@ -180,15 +180,22 @@ def do_texture(path, id, textures, values, thumb_sizes, args):
 
 	for format in args.formats:
 		ext = "." + format
-		filename, exists = get_filename(args.outdir, args.tiles_dir, id, ext=ext)
-		if not (args.skip_existing and exists):
-			tile_texture = generate_tile_image(texture.image, values["tile"])
-			print("-> %r" % (filename))
-			tile_texture.save(filename)
+
+		if not args.skip_tiles:
+			filename, exists = get_filename(args.outdir, args.tiles_dir, id, ext=ext)
+			if not (args.skip_existing and exists):
+				tile_texture = generate_tile_image(texture.image, values["tile"])
+				print("-> %r" % (filename))
+				tile_texture.save(filename)
 
 		if ext == ".png":
 			# skip png generation for thumbnails
 			continue
+
+		if args.skip_thumbnails:
+			# --skip-thumbnails was specified
+			continue
+
 		for sz in thumb_sizes:
 			thumb_dir = "%ix" % (sz)
 			filename, exists = get_filename(args.outdir, thumb_dir, id, ext=ext)
@@ -208,6 +215,8 @@ def main():
 		"--formats", nargs="*", default=["jpg", "png", "webp"],
 		help="Which image formats to generate"
 	)
+	p.add_argument("--skip-tiles", action="store_true", help="Skip tiles generation")
+	p.add_argument("--skip-thumbnails", action="store_true", help="Skip thumbnail generation")
 	p.add_argument("--only", type=str, nargs="?", help="Extract specific IDs")
 	p.add_argument("--orig-dir", type=str, default="orig", help="Name of output for originals")
 	p.add_argument("--tiles-dir", type=str, default="tiles", help="Name of output for tiles")
