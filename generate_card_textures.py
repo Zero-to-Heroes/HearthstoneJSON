@@ -178,7 +178,8 @@ def do_texture(path, id, textures, values, thumb_sizes, args):
 		flipped = ImageOps.flip(texture.image).convert("RGB")
 		flipped.save(filename)
 
-	for ext in (".jpg", ".png", ".webp"):
+	for format in args.formats:
+		ext = "." + format
 		filename, exists = get_filename(args.outdir, args.tiles_dir, id, ext=ext)
 		if not (args.skip_existing and exists):
 			tile_texture = generate_tile_image(texture.image, values["tile"])
@@ -203,6 +204,10 @@ def main():
 	p = ArgumentParser()
 	p.add_argument("--outdir", nargs="?", default="")
 	p.add_argument("--skip-existing", action="store_true")
+	p.add_argument(
+		"--formats", nargs="*", default=["jpg", "png", "webp"],
+		help="Which image formats to generate"
+	)
 	p.add_argument("--only", type=str, nargs="?", help="Extract specific IDs")
 	p.add_argument("--orig-dir", type=str, default="orig", help="Name of output for originals")
 	p.add_argument("--tiles-dir", type=str, default="tiles", help="Name of output for tiles")
