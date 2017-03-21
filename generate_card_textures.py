@@ -1,10 +1,9 @@
 #!/usr/bin/env python
 import os
 import sys
-import unitypack
 from argparse import ArgumentParser
-from unitypack.environment import UnityEnvironment
 from PIL import Image, ImageOps
+from unitypack.environment import UnityEnvironment
 
 
 def handle_asset(asset, textures, cards, filter_ids):
@@ -60,7 +59,7 @@ def extract_info(files, filter_ids):
 	for file in files:
 		print("Reading %r" % (file))
 		f = open(file, "rb")
-		bundle = unitypack.load(f, env)
+		bundle = env.load(f)
 
 		for asset in bundle.assets:
 			print("Parsing %r" % (asset.name))
