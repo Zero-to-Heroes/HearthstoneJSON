@@ -333,7 +333,7 @@ class CardXMLProcessor:
 		data = {}
 
 		for obj in asset.objects.values():
-			if obj.class_id == 114 and obj.type in ("CardDbfAsset", "CardTagDbfAsset"):
+			if obj.class_id == 114 and obj.type in ("CardDbfAsset", "CardTagDbfAsset", "CardSetTimingDbfAsset"):
 				d = obj.read()
 				name = d["m_Name"]
 				records = d["Records"]
@@ -361,6 +361,16 @@ class CardXMLProcessor:
 			is_reference = record["m_IsReferenceTag"]
 			is_power = record["m_IsPowerKeywordTag"]
 			self.record_card_tag(dbf_id, tag, value, is_reference, is_power)
+
+		current_events = [
+			"pre_set_rotation_2017"
+		]
+		for record in data["CARD_SET_TIMING"]:
+			dbf_id = record["m_CardId"]
+			set_id = record["m_CardSetId"]
+			event_timing = record["m_EventTimingEvent"]
+			if event_timing == "always" or event_timing in current_events:
+				self.record_card_tag(dbf_id, GameTag.CARD_SET, set_id, 0, 0)
 
 	def generate_xml(self):
 		self.info("Processing %i entities" % (len(self.entities)))
