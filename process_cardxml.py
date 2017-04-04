@@ -37,6 +37,29 @@ def string_to_bool(s):
 	raise ValueError(s)
 
 
+def sort_bundles(old):
+	new = []
+
+	for i, bundle in enumerate(list(old)):
+		if "cardxml0.unity3d" in bundle:
+			new.append(old.pop(i))
+			break
+
+	for i, bundle in enumerate(list(old)):
+		if "cards0.unity3d" in bundle:
+			new.append(bundle)
+			break
+
+	for i, bundle in enumerate(list(old)):
+		if "dbf.unity3d" in bundle:
+			new.append(bundle)
+			break
+
+	new += old
+
+	return new
+
+
 def detect_build(path):
 	path_fragments = [x for x in path.split(os.path.sep) if x.isdigit()]
 	if not path_fragments:
@@ -316,6 +339,7 @@ class CardXMLProcessor:
 				records = d["Records"]
 				data[name] = records
 
+		assert data
 		for record in data["CARD"]:
 			id = record["m_ID"]
 			card_id = record["m_NoteMiniGuid"]
@@ -463,6 +487,7 @@ class CardXMLProcessor:
 					with open(path, "rb") as f:
 						self.parse_raw(f)
 		else:
+			self.bundles = sort_bundles(self.bundles)
 			for path in self.bundles:
 				self.parse_bundle(path)
 
