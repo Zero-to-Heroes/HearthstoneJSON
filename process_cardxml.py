@@ -363,7 +363,7 @@ class CardXMLProcessor:
 			self.record_card_tag(dbf_id, tag, value, is_reference, is_power)
 
 		current_events = [
-			"pre_set_rotation_2017"
+			"post_set_rotation_2017"
 		]
 		for record in data["CARD_SET_TIMING"]:
 			dbf_id = record["m_CardId"]
