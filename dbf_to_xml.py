@@ -2,7 +2,6 @@
 
 import os
 import sys
-import unitypack
 from argparse import ArgumentParser
 from hearthstone.dbf import Dbf
 
@@ -19,6 +18,8 @@ class DbfConverter:
 		sys.stderr.write("[INFO] %s\n" % (msg))
 
 	def parse_bundle(self, path):
+		import unitypack
+
 		with open(path, "rb") as f:
 			bundle = unitypack.load(f)
 			asset = bundle.assets[0]
@@ -47,6 +48,7 @@ class DbfConverter:
 			filename = os.path.join(self.args.outdir, dbf.name + ".xml")
 			with open(filename, "wb") as f:
 				f.write(dbf.to_xml())
+
 
 def main():
 	app = DbfConverter()
