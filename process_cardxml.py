@@ -454,7 +454,7 @@ class CardXMLProcessor:
 
 		# Clean the entourage guids into mini guids
 		for i, entourage in enumerate(entity.entourage):
-			if len(entourage) >= 34:
+			if len(entourage) >= 34 and entourage in self.guids:
 				entity.entourage[i] = self.guids[entourage]
 
 	def autodetect_files_to_parse(self, dirname):

@@ -16,6 +16,9 @@ MECHANICS_TAGS = [
 	GameTag.ADAPT,
 	GameTag.AURA,
 	GameTag.BATTLECRY,
+	GameTag.CANT_ATTACK,
+	GameTag.CANT_BE_TARGETED_BY_ABILITIES,
+	GameTag.CANT_BE_TARGETED_BY_HERO_POWERS,
 	GameTag.CHARGE,
 	GameTag.CHOOSE_ONE,
 	GameTag.COMBO,
@@ -27,8 +30,8 @@ MECHANICS_TAGS = [
 	GameTag.EVIL_GLOW,
 	GameTag.FORGETFUL,
 	GameTag.FREEZE,
-	GameTag.INSPIRE,
 	GameTag.IMMUNE,
+	GameTag.INSPIRE,
 	GameTag.JADE_GOLEM,
 	GameTag.MORPH,
 	GameTag.POISONOUS,
@@ -45,9 +48,6 @@ MECHANICS_TAGS = [
 	GameTag.WINDFURY,
 	GameTag.ImmuneToSpellpower,
 	GameTag.InvisibleDeathrattle,
-	GameTag.CANT_ATTACK,
-	GameTag.CANT_BE_TARGETED_BY_ABILITIES,
-	GameTag.CANT_BE_TARGETED_BY_HERO_POWERS,
 ]
 
 
