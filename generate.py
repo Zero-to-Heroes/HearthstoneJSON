@@ -96,15 +96,18 @@ def get_tags(card):
 
 def clean_card_description(text):
 	text = text.replace("_", NBSP)
+	count = text.count("@")
 
-	if "@" in text:
-		text, collection_text = text.split("@")
+	if not count:
+		return text, ""
+
+	parts = text.split("@")
+	if len(parts) == 2:
+		text, collection_text = parts
 		text = text.strip()
-		collection_text = collection_text.strip()
-	else:
-		collection_text = ""
-
-	return text, collection_text
+	elif len(parts) > 2:
+		collection_text = parts[0]
+	return  text, collection_text
 
 
 def serialize_card(card):
