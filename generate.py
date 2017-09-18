@@ -142,6 +142,7 @@ def serialize_card(card):
 		"elite": card.elite,
 		"attack": card.atk,
 		"cost": card.cost,
+		"armor": card.armor,
 		"durability": card.durability,
 		"health": card.health,
 		"overload": card.overload,
