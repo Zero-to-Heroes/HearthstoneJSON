@@ -31,10 +31,16 @@ def handle_asset(asset, textures, cards, filter_ids):
 			if len(d.component) < 2:
 				# Not a CardDef
 				continue
-			carddef = d.component[1][1].resolve()
+			script = d.component[1]
+			if isinstance(script, dict):  # Unity 5.6+
+				carddef = script["component"].resolve()
+			else:  # Unity <= 5.4
+				carddef = script[1].resolve()
+
 			if not isinstance(carddef, dict) or "m_PortraitTexturePath" not in carddef:
 				# Not a CardDef
 				continue
+
 			path = carddef["m_PortraitTexturePath"]
 			if not path:
 				# Sometimes there's multiple per cardid, we remove the ones without art
