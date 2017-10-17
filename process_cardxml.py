@@ -333,8 +333,8 @@ class CardXMLProcessor:
 		data = {}
 
 		for obj in asset.objects.values():
-			if obj.class_id == 114 and obj.type in ("CardDbfAsset", "CardTagDbfAsset", "CardSetTimingDbfAsset"):
-				d = obj.read()
+			d = obj.read()
+			if "Records" in d and "m_Name" in d:
 				name = d["m_Name"]
 				records = d["Records"]
 				data[name] = records
