@@ -119,6 +119,9 @@ def get_rect(ux, uy, usx, usy, sx, sy, ss, tex_dim=512):
 
 
 def generate_tile_image(img, tile):
+	if (img.width, img.height) != (512, 512):
+		img = img.resize((512, 512), Image.ANTIALIAS)
+
 	# tile the image horizontally (x2 is enough),
 	# some cards need to wrap around to create a bar (e.g. Muster for Battle),
 	# also discard alpha channel (e.g. Soulfire, Mortal Coil)
