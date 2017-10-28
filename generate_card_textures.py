@@ -18,6 +18,8 @@ def handle_asset(asset, textures, cards, filter_ids):
 				if not path.startswith("final/assets"):
 					continue
 				textures[path] = asset
+				# Also store a lookup by basename to deal with Unity 5.6
+				textures[os.path.basename(path)] = asset
 
 		elif obj.type == "GameObject":
 			d = obj.read()
@@ -172,6 +174,10 @@ def do_texture(path, id, textures, values, thumb_sizes, args):
 	if not path:
 		print("%r does not have a texture" % (id))
 		return
+
+	if path not in textures and ":" in path:
+		# Unity 5.6 compatibility hack
+		path = os.path.basename(path).split(":")[0]
 
 	if path not in textures:
 		print("Path %r not found for %r" % (path, id))
