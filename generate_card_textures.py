@@ -65,8 +65,9 @@ def extract_info(files, filter_ids):
 	for file in files:
 		print("Reading %r" % (file))
 		f = open(file, "rb")
-		bundle = env.load(f)
+		env.load(f)
 
+	for bundle in env.bundles.values():
 		for asset in bundle.assets:
 			print("Parsing %r" % (asset.name))
 			handle_asset(asset, textures, cards, filter_ids)
