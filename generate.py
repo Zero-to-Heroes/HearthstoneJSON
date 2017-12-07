@@ -42,6 +42,7 @@ MECHANICS_TAGS = [
 	GameTag.POISONOUS,
 	GameTag.QUEST,
 	GameTag.RECEIVES_DOUBLE_SPELLDAMAGE_BONUS,
+	GameTag.RECRUIT,
 	GameTag.RITUAL,
 	GameTag.SECRET,
 	GameTag.SILENCE,
@@ -113,7 +114,7 @@ def clean_card_description(text):
 		text = text.strip()
 	elif len(parts) > 2:
 		collection_text = parts[0]
-	return  text, collection_text
+	return text, collection_text
 
 
 def serialize_card(card):
