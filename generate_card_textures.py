@@ -7,6 +7,33 @@ from PIL import Image, ImageOps
 from unitypack.environment import UnityEnvironment
 
 
+guid_to_path = {}
+
+
+def handle_rad_node(path, guids, names, tree, node):
+	if len(node["folderName"]) > 0:
+		if len(path) > 0:
+			path = path + "/" + node["folderName"]
+		else:
+			path = node["folderName"]
+
+	for leaf in node["leaves"]:
+		guid = guids[leaf["guidIndex"]]
+		name = names[leaf["fileNameIndex"]]
+		guid_to_path[guid] = path + "/" + name
+
+	for child in node["children"]:
+		handle_rad_node(path, guids, names, tree, tree[child])
+
+
+def handle_rad(rad):
+	print("Handling RAD")
+	guids = rad["m_guids"]
+	names = rad["m_filenames"]
+	tree = rad["m_tree"]
+	handle_rad_node("", guids, names, tree, tree[0])
+
+
 def handle_asset(asset, textures, cards, filter_ids):
 	for obj in asset.objects.values():
 		if obj.type == "AssetBundle":
@@ -14,16 +41,21 @@ def handle_asset(asset, textures, cards, filter_ids):
 			for path, obj in d["m_Container"]:
 				path = path.lower()
 				asset = obj["asset"]
+				if path == "assets/rad/rad_base.asset":
+					handle_rad(asset.resolve())
 				if not path.startswith("final/"):
 					path = "final/" + path
 				if not path.startswith("final/assets"):
 					continue
 				textures[path] = asset
-				# Also store a lookup by basename to deal with Unity 5.6
-				textures[os.path.basename(path)] = asset
 
 		elif obj.type == "GameObject":
 			d = obj.read()
+
+			if d.name == "rad_base":
+				handle_rad(d)
+				continue
+
 			cardid = d.name
 			if filter_ids and cardid not in filter_ids:
 				continue
@@ -48,6 +80,13 @@ def handle_asset(asset, textures, cards, filter_ids):
 			if not path:
 				# Sometimes there's multiple per cardid, we remove the ones without art
 				continue
+
+			if ":" in path:
+				guid = path.split(":")[1]
+				if guid in guid_to_path:
+					path = guid_to_path[guid]
+				else:
+					print("WARN: Could not find %s in guid_to_path (path=%s)" % (guid, path))
 
 			path = "final/" + path
 
@@ -175,10 +214,6 @@ def do_texture(path, id, textures, values, thumb_sizes, args):
 	if not path:
 		print("%r does not have a texture" % (id))
 		return
-
-	if path not in textures and ":" in path:
-		# Unity 5.6 compatibility hack
-		path = os.path.basename(path).split(":")[0]
 
 	if path not in textures:
 		print("Path %r not found for %r" % (path, id))
