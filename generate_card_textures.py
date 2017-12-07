@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+import json
 import os
 import sys
 from argparse import ArgumentParser
@@ -236,6 +237,7 @@ def main():
 	p.add_argument("--orig-dir", type=str, default="orig", help="Name of output for originals")
 	p.add_argument("--tiles-dir", type=str, default="tiles", help="Name of output for tiles")
 	p.add_argument("--traceback", action="store_true", help="Raise errors during conversion")
+	p.add_argument("--json-only", action="store_true", help="Only write JSON cardinfo")
 	p.add_argument("files", nargs="+")
 	args = p.parse_args(sys.argv[1:])
 
@@ -252,8 +254,26 @@ def main():
 	for id, values in sorted(cards.items()):
 		if filter_ids and id not in filter_ids:
 			continue
-
 		path = values["path"]
+
+		if args.json_only:
+			tile = values["tile"]
+			d = {
+				"Name": id,
+				"PortraitPath": path,
+			}
+			if tile:
+				d["DcbTexScaleX"] = tile["m_TexEnvs"]["_MainTex"]["m_Scale"]["x"]
+				d["DcbTexScaleY"] = tile["m_TexEnvs"]["_MainTex"]["m_Scale"]["y"]
+				d["DcbTexOffsetX"] = tile["m_TexEnvs"]["_MainTex"]["m_Offset"]["x"]
+				d["DcbTexOffsetY"] = tile["m_TexEnvs"]["_MainTex"]["m_Offset"]["y"]
+				d["DcbShaderScale"] = tile["m_Floats"].get("_Scale", 1.0)
+				d["DcbShaderOffsetX"] = tile["m_Floats"].get("_OffsetX", 0.0)
+				d["DcbShaderOffsetY"] = tile["m_Floats"].get("_OffsetY", 0.0)
+			with open(id + ".json", "w") as f:
+				json.dump(d, f)
+			continue
+
 		try:
 			do_texture(path, id, textures, values, thumb_sizes, args)
 		except Exception as e:
