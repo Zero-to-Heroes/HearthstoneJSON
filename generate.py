@@ -57,6 +57,17 @@ MECHANICS_TAGS = [
 	GameTag.InvisibleDeathrattle,
 ]
 
+SPELLSTONE_STRINGS = {
+	"LOOT_043": "GAMEPLAY_AMETHYST_SPELLSTONE_%d",
+	"LOOT_051": "GAMEPLAY_JASPER_SPELLSTONE_%d",
+	"LOOT_064": "GAMEPLAY_SAPPHIRE_SPELLSTONE_%d",
+	"LOOT_091": "GAMEPLAY_PEARL_SPELLSTONE_%d",
+	"LOOT_103": "GAMEPLAY_RUBY_SPELLSTONE_%d",
+	"LOOT_503": "GAMEPLAY_ONYX_SPELLSTONE_%d",
+	"LOOT_507": "GAMEPLAY_DIAMOND_SPELLSTONE_%d",
+	"LOOT_526d": "GAMEPLAY_LOOT_526d_DARKNESS_%d",
+}
+
 
 def json_dump(obj, filename, pretty=False):
 	print("Writing to %r" % (filename))
@@ -101,12 +112,15 @@ def get_tags(card):
 	return tags, referenced_tags
 
 
-def clean_card_description(text):
+def clean_card_description(text, card_id):
 	text = text.replace("_", NBSP)
 	count = text.count("@")
 
 	if not count:
 		return text, ""
+
+	if card_id in SPELLSTONE_STRINGS:
+		return text, text.replace("@", "")
 
 	parts = text.split("@")
 	if len(parts) == 2:
@@ -118,7 +132,7 @@ def clean_card_description(text):
 
 
 def serialize_card(card):
-	text, collection_text = clean_card_description(card.description)
+	text, collection_text = clean_card_description(card.description, card.id)
 
 	ret = {
 		"id": card.id,
@@ -204,7 +218,7 @@ def export_all_locales_cards_to_file(cards, filename):
 			value = card.strings.get(tag, {})
 			if key == "text":
 				for locale, localized_value in value.items():
-					text, collection_text = clean_card_description(localized_value)
+					text, collection_text = clean_card_description(localized_value, card.id)
 					value[locale] = text
 					if collection_text:
 						obj["collectionText"][locale] = collection_text
