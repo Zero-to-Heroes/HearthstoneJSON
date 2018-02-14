@@ -160,6 +160,7 @@ def serialize_card(card):
 		"durability": card.durability,
 		"health": card.health,
 		"overload": card.overload,
+		"questReward": card.quest_reward,
 		"spellDamage": card.spell_damage,
 	}
 	ret = {k: v for k, v in ret.items() if show_field(card, k, v)}
