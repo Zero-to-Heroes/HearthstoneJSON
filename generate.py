@@ -6,6 +6,7 @@ from argparse import ArgumentParser
 from enum import IntEnum
 from hearthstone.cardxml import load
 from hearthstone.enums import CardType, Faction, GameTag, Locale
+from hearthstone.utils import SPELLSTONE_STRINGS
 
 
 NBSP = "\u00A0"
@@ -63,17 +64,6 @@ MECHANICS_TAGS = [
 	GameTag.ImmuneToSpellpower,
 	GameTag.InvisibleDeathrattle,
 ]
-
-SPELLSTONE_STRINGS = {
-	"LOOT_043": "GAMEPLAY_AMETHYST_SPELLSTONE_%d",
-	"LOOT_051": "GAMEPLAY_JASPER_SPELLSTONE_%d",
-	"LOOT_064": "GAMEPLAY_SAPPHIRE_SPELLSTONE_%d",
-	"LOOT_091": "GAMEPLAY_PEARL_SPELLSTONE_%d",
-	"LOOT_103": "GAMEPLAY_RUBY_SPELLSTONE_%d",
-	"LOOT_503": "GAMEPLAY_ONYX_SPELLSTONE_%d",
-	"LOOT_507": "GAMEPLAY_DIAMOND_SPELLSTONE_%d",
-	"LOOT_526d": "GAMEPLAY_LOOT_526d_DARKNESS_%d",
-}
 
 
 def json_dump(obj, filename, pretty=False):
