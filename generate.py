@@ -132,7 +132,7 @@ def serialize_card(card):
 	text, collection_text = clean_card_description(card.description, card.id)
 
 	ret = {
-		"id": card.id,
+		"id": card.card_id,
 		"dbfId": card.dbf_id,
 		"name": card.name,
 		"flavor": card.flavortext,
