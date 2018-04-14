@@ -1,24 +1,29 @@
 #!/usr/bin/env python
-import os
 import json
+import os
 import sys
 from argparse import ArgumentParser
 from enum import IntEnum
+
 from hearthstone.cardxml import load
 from hearthstone.enums import CardType, Faction, GameTag, Locale
 from hearthstone.utils import SPELLSTONE_STRINGS
 
 
 NBSP = "\u00A0"
+
 MECHANICS_TAGS = [
 	GameTag.ADJACENT_BUFF,
 	GameTag.AI_MUST_PLAY,
+	GameTag.AFFECTED_BY_SPELL_POWER,
 	GameTag.APPEAR_FUNCTIONALLY_DEAD,
 	GameTag.ADAPT,
 	GameTag.AURA,
+	GameTag.AUTOATTACK,
 	GameTag.BATTLECRY,
 	GameTag.CANT_ATTACK,
 	GameTag.CANT_BE_DESTROYED,
+	GameTag.CANT_BE_FATIGUED,
 	GameTag.CANT_BE_SILENCED,
 	GameTag.CANT_BE_TARGETED_BY_ABILITIES,
 	GameTag.CANT_BE_TARGETED_BY_HERO_POWERS,
@@ -32,17 +37,25 @@ MECHANICS_TAGS = [
 	GameTag.DEATHRATTLE,
 	GameTag.DISCOVER,
 	GameTag.DIVINE_SHIELD,
+	GameTag.DUNGEON_PASSIVE_BUFF,
 	GameTag.ENCHANTMENT_INVISIBLE,
 	GameTag.ECHO,
 	GameTag.ENRAGED,
 	GameTag.EVIL_GLOW,
+	GameTag.FINISH_ATTACK_SPELL_ON_DAMAGE,
 	GameTag.FORGETFUL,
 	GameTag.FREEZE,
 	GameTag.GHOSTLY,
+	GameTag.GRIMY_GOONS,
+	GameTag.HEROPOWER_DAMAGE,
+	GameTag.IGNORE_HIDE_STATS_FOR_BIG_CARD,
 	GameTag.IMMUNE,
 	GameTag.INSPIRE,
 	GameTag.JADE_GOLEM,
+	GameTag.JADE_LOTUS,
+	GameTag.KABAL,
 	GameTag.LIFESTEAL,
+	GameTag.MULTIPLY_BUFF_VALUE,
 	GameTag.MORPH,
 	GameTag.OVERLOAD,
 	GameTag.POISONOUS,
@@ -53,12 +66,15 @@ MECHANICS_TAGS = [
 	GameTag.RUSH,
 	GameTag.SECRET,
 	GameTag.SILENCE,
+	GameTag.SPARE_PART,
 	GameTag.SPELLPOWER,
 	GameTag.START_OF_GAME,
 	GameTag.STEALTH,
+	GameTag.SUMMONED,
 	GameTag.TAG_ONE_TURN_EFFECT,
 	GameTag.TAUNT,
 	GameTag.TOPDECK,
+	GameTag.TRIGGER_VISUAL,
 	GameTag.UNTOUCHABLE,
 	GameTag.WINDFURY,
 	GameTag.ImmuneToSpellpower,
