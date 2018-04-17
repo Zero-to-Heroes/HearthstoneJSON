@@ -7,6 +7,7 @@ PROJECTURL="https://github.com/HearthSim/hearthstonejson.git"
 HTMLDIR="$BUILDDIR/html"
 OUTDIR="$HTMLDIR/v1"
 PYTHON=${PYTHON:-python}
+GENERATE_STRINGS_BIN="$BASEDIR/generate_strings.py"
 GENERATE_BIN="$BASEDIR/generate.py"
 S3_UPLOAD_BIN="$BASEDIR/s3_upload.py"
 ENUMS_JSON="$OUTDIR/enums.json"
@@ -38,6 +39,10 @@ function update_enums() {
 	"$PYTHON" -m hearthstone.enums > "$ENUMS_JSON"
 	"$PYTHON" -m hearthstone.enums --cs > "$ENUMS_CS"
 	"$PYTHON" -m hearthstone.enums --ts > "$ENUMS_TS"
+}
+
+function update_strings() {
+	"$PYTHON" "$GENERATE_STRINGS_BIN" -o "$OUTDIR/strings"
 }
 
 function update_build() {
@@ -79,11 +84,13 @@ if [[ -z $1 || $1 == "latest" ]]; then
 	echo "Updating latest build"
 	update_build "$maxbuild"
 	update_enums
+	update_strings
 	update_indexes
 	upload_to_s3 "$maxbuild"
 elif [[ $1 == "clean-upload" ]]; then
 	echo "Preparing for S3 upload"
 	update_enums
+	update_strings
 	update_indexes
 	aws s3 rm "$S3_BUCKET" --recursive
 	upload_to_s3 "$maxbuild"
@@ -100,6 +107,7 @@ elif [[ $1 == "all" ]]; then
 		echo $build
 		update_build "$build"
 	done
+	update_strings
 	update_indexes
 	exit 1
 elif [[ $1 =~ ^[0-9]+$ ]]; then
@@ -107,6 +115,7 @@ elif [[ $1 =~ ^[0-9]+$ ]]; then
 	update_build "$1"
 	update_indexes "$1"
 	if [[ $1 == $maxbuild ]]; then
+		update_strings
 		update_enums
 	fi
 	upload_to_s3 "$maxbuild"
