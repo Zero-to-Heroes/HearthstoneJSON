@@ -57,7 +57,7 @@ def handle_asset(asset, textures, cards, filter_ids):
 				continue
 
 			cardid = d.name
-			if filter_ids and cardid not in filter_ids:
+			if filter_ids and cardid.lower() not in filter_ids:
 				continue
 			if cardid in ("CardDefTemplate", "HiddenCard"):
 				# not a real card
@@ -268,7 +268,9 @@ def main():
 	)
 	p.add_argument("--skip-tiles", action="store_true", help="Skip tiles generation")
 	p.add_argument("--skip-thumbnails", action="store_true", help="Skip thumbnail generation")
-	p.add_argument("--only", type=str, nargs="?", help="Extract specific IDs")
+	p.add_argument(
+		"--only", type=str, nargs="?", help="Extract specific CardIDs (case-insensitive)"
+	)
 	p.add_argument("--orig-dir", type=str, default="orig", help="Name of output for originals")
 	p.add_argument("--tiles-dir", type=str, default="tiles", help="Name of output for tiles")
 	p.add_argument("--traceback", action="store_true", help="Raise errors during conversion")
@@ -276,7 +278,7 @@ def main():
 	p.add_argument("files", nargs="+")
 	args = p.parse_args(sys.argv[1:])
 
-	filter_ids = args.only.split(",") if args.only else []
+	filter_ids = args.only.lower().split(",") if args.only else []
 
 	cards, textures = extract_info(args.files, filter_ids)
 	paths = [card["path"] for card in cards.values()]
@@ -287,7 +289,7 @@ def main():
 	thumb_sizes = (256, 512)
 
 	for id, values in sorted(cards.items()):
-		if filter_ids and id not in filter_ids:
+		if filter_ids and id.lower() not in filter_ids:
 			continue
 		path = values["path"]
 
