@@ -1,25 +1,23 @@
 #!/bin/bash
 set -e
 
-BASEDIR="$(readlink -f $(dirname $0))"
+BASEDIR="$(readlink -f "$(dirname "$0")")"
 BUILDDIR="$BASEDIR/build"
-PROJECTURL="https://github.com/HearthSim/hearthstonejson.git"
 HTMLDIR="$BUILDDIR/html"
 OUTDIR="$HTMLDIR/v1"
 PYTHON=${PYTHON:-python}
 GENERATE_STRINGS_BIN="$BASEDIR/generate_strings.py"
-GENERATE_BIN="$BASEDIR/generate.py"
+GENERATE_BIN="$BASEDIR/generate_hearthstonejson.py"
 S3_UPLOAD_BIN="$BASEDIR/s3_upload.py"
 ENUMS_JSON="$OUTDIR/enums.json"
 ENUMS_CS="$OUTDIR/enums.cs"
 ENUMS_TS="$OUTDIR/enums.d.ts"
 
 HSDATA_URL="https://github.com/HearthSim/hs-data.git"
-HSDATA_DIR=${HSDATA:-$BUILDDIR/hs-data}
+HSDATA_DIR="$BASEDIR/hsdata.git"
 
 # AWS configuration
 S3_BUCKET_NAME="api.hearthstonejson.com"
-S3_BUCKET="s3://$S3_BUCKET_NAME"
 S3_ART_BUCKET_NAME="art.hearthstonejson.com"
 
 
@@ -69,7 +67,7 @@ function update_indexes() {
 function upload_to_s3() {
 	build="$1"
 
-	aws s3 sync "$OUTDIR" "$S3_BUCKET/v1"
+	aws s3 sync "$OUTDIR" "s3://$S3_BUCKET_NAME/v1"
 	"$PYTHON" "$S3_UPLOAD_BIN" --build="$build" "$OUTDIR"
 }
 
@@ -92,7 +90,7 @@ elif [[ $1 == "clean-upload" ]]; then
 	update_enums
 	update_strings
 	update_indexes
-	aws s3 rm "$S3_BUCKET" --recursive
+	aws s3 rm "s3://$S3_BUCKET_NAME" --recursive
 	upload_to_s3 "$maxbuild"
 elif [[ $1 == "sync-textures" ]]; then
 	echo "Syncing textures to S3"

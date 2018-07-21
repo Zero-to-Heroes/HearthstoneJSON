@@ -18,7 +18,6 @@ BUILDDIR="$BASEDIR/build"
 PROCESSED_DIR="$BUILDDIR/processed/$BUILD"
 
 # Git repositories
-HEARTHSTONEJSON_GIT="$BUILDDIR/HearthstoneJSON"
 SUNWELL_GIT="$BUILDDIR/Sunwell"
 HSFONTS_GIT="$BUILDDIR/hs-fonts.git"
 HSCODE_GIT="$BASEDIR/hscode.git"
@@ -37,7 +36,7 @@ HS_RAW_BUILDDIR="/mnt/home/data/ngdp/hsb/$BUILD"
 CARDARTDIR="$BUILDDIR/card-art"
 
 # HearthstoneJSON file generator
-HEARTHSTONEJSON_BIN="$HEARTHSTONEJSON_GIT/generate.sh"
+HEARTHSTONEJSON_BIN="$BASEDIR/generate_hearthstonejson.sh"
 
 # HearthstoneJSON generated files directory
 HSJSONDIR="$HOME/projects/HearthstoneJSON/build/html/v1/$BUILD"
@@ -69,16 +68,13 @@ PROTO_EXTRACTOR_BIN="$BASEDIR/proto-extractor/build/mono-extractor.exe"
 COMMIT_BIN="$BASEDIR/commit.sh"
 
 # CardDefs.xml processing
-PROCESS_CARDXML_BIN="$HEARTHSTONEJSON_GIT/process_cardxml.py"
+PROCESS_CARDXML_BIN="$BASEDIR/process_cardxml.py"
 
 # Card texture extraction/generation script
-TEXTUREGEN_BIN="$HEARTHSTONEJSON_GIT/generate_card_textures.py"
-
-# Card texture generate script
-TEXTURESYNC_BIN="$HEARTHSTONEJSON_GIT/generate.sh"
+TEXTUREGEN_BIN="$BASEDIR/generate_card_textures.py"
 
 # Smartdiff generation script
-SMARTDIFF_BIN="$BASEDIR/smartdiff_cardxml.py"
+SMARTDIFF_BIN="$BASEDIR/scripts/smartdiff_cardxml.py"
 
 # Smartdiff output file
 SMARTDIFF_OUT="$HOME/smartdiff-$BUILD.txt"
@@ -100,11 +96,7 @@ function upgrade_venv() {
 
 function update_repositories() {
 	echo "Updating repositories"
-	repos=("$HEARTHSTONEJSON_GIT" "$SUNWELL_GIT" "$HSFONTS_GIT" "$HSDATA_GIT" "$HSCODE_GIT" "$HSPROTO_GIT")
-
-	if [[ ! -d "$HEARTHSTONEJSON_GIT" ]]; then
-		git clone git@github.com:HearthSim/HearthstoneJSON.git "$HEARTHSTONEJSON_GIT"
-	fi
+	repos=("$SUNWELL_GIT" "$HSFONTS_GIT" "$HSDATA_GIT" "$HSCODE_GIT" "$HSPROTO_GIT")
 
 	if [[ ! -d "$SUNWELL_GIT" ]]; then
 		git clone git@github.com:HearthSim/Sunwell.git "$SUNWELL_GIT"
@@ -274,7 +266,7 @@ function update_hearthstonejson() {
 function extract_card_textures() {
 	echo "Extracting card textures"
 	"$TEXTUREGEN_BIN" "$HSBUILDDIR/Data/Win/"{rad_base,card,premiummaterials,shared}*.unity3d --outdir="$CARDARTDIR" --skip-existing
-	"$TEXTURESYNC_BIN" sync-textures "$CARDARTDIR"
+	"$HEARTHSTONEJSON_BIN" sync-textures "$CARDARTDIR"
 }
 
 
