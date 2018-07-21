@@ -1,0 +1,7 @@
+[submodule "ILSpy"]
+	path = decompiler/ILSpy
+	url = https://github.com/icsharpcode/ILSpy.git
+[submodule "proto-extractor/proto-extractor"]
+	path = proto-extractor/proto-extractor
+	url = https://github.com/HearthSim/proto-extractor
+	branch = master

@@ -1,0 +1,227 @@
+commit 40c7d632b3ffbb06afc3149bd33e1ae8d9f19de4 (HEAD -> refs/heads/master)
+Author: Robert Nix <mischanix@gmail.com>
+Date:   Tue Apr 4 22:43:21 2017 -0500
+
+    Short-circuit Yield-Return optimization
+    
+    Rename iterator types to exclude their index
+
+diff --git a/ICSharpCode.Decompiler/Ast/AstBuilder.cs b/ICSharpCode.Decompiler/Ast/AstBuilder.cs
+index 8dbf82cd..7dd96aee 100644
+--- a/ICSharpCode.Decompiler/Ast/AstBuilder.cs
++++ b/ICSharpCode.Decompiler/Ast/AstBuilder.cs
+@@ -79,7 +79,7 @@ public static bool MemberIsHidden(MemberReference member, DecompilerSettings set
+ 				if (type.DeclaringType != null) {
+ 					if (settings.AnonymousMethods && IsClosureType(type))
+ 						return true;
+-					if (settings.YieldReturn && YieldReturnDecompiler.IsCompilerGeneratorEnumerator(type))
++					if (false && settings.YieldReturn && YieldReturnDecompiler.IsCompilerGeneratorEnumerator(type))
+ 						return true;
+ 					if (settings.AsyncAwait && AsyncDecompiler.IsCompilerGeneratedStateMachine(type))
+ 						return true;
+@@ -727,15 +727,6 @@ Modifiers ConvertModifiers(MethodDefinition methodDef)
+ 		
+ 		void AddTypeMembers(TypeDeclaration astType, TypeDefinition typeDef)
+ 		{
+-			// Nested types
+-			foreach (TypeDefinition nestedTypeDef in typeDef.NestedTypes) {
+-				if (MemberIsHidden(nestedTypeDef, context.Settings))
+-					continue;
+-				var nestedType = CreateType(nestedTypeDef);
+-				SetNewModifier(nestedType);
+-				astType.AddChild(nestedType, Roles.TypeMemberRole);
+-			}
+-			
+ 			// Add fields
+ 			foreach(FieldDefinition fieldDef in typeDef.Fields) {
+ 				if (MemberIsHidden(fieldDef, context.Settings)) continue;
+@@ -761,6 +752,15 @@ void AddTypeMembers(TypeDeclaration astType, TypeDefinition typeDef)
+ 				else
+ 					astType.Members.Add(CreateMethod(methodDef));
+ 			}
++
++			// Nested types
++			foreach (TypeDefinition nestedTypeDef in typeDef.NestedTypes) {
++				if (MemberIsHidden(nestedTypeDef, context.Settings))
++					continue;
++				var nestedType = CreateType(nestedTypeDef);
++				SetNewModifier(nestedType);
++				astType.AddChild(nestedType, Roles.TypeMemberRole);
++			}
+ 		}
+ 
+ 		EntityDeclaration CreateMethod(MethodDefinition methodDef)
+diff --git a/ICSharpCode.Decompiler/ILAst/StateRange.cs b/ICSharpCode.Decompiler/ILAst/StateRange.cs
+index a25af05c..30fb0427 100644
+--- a/ICSharpCode.Decompiler/ILAst/StateRange.cs
++++ b/ICSharpCode.Decompiler/ILAst/StateRange.cs
+@@ -258,6 +258,13 @@ public int AssignStateRanges(List<ILNode> body, int bodyLength)
+ 						} else {
+ 							goto default;
+ 						}
++					case ILCode.Stfld:
++						// stfld(::$PC, this, -1)
++						if (mode == StateRangeAnalysisMode.IteratorDispose) {
++							goto case ILCode.Nop;
++						} else {
++							goto default;
++						}
+ 					default:
+ 						if (mode == StateRangeAnalysisMode.IteratorDispose) {
+ 							throw new SymbolicAnalysisFailedException();
+diff --git a/ICSharpCode.Decompiler/ILAst/YieldReturnDecompiler.cs b/ICSharpCode.Decompiler/ILAst/YieldReturnDecompiler.cs
+index 2da165f6..ec8c3559 100644
+--- a/ICSharpCode.Decompiler/ILAst/YieldReturnDecompiler.cs
++++ b/ICSharpCode.Decompiler/ILAst/YieldReturnDecompiler.cs
+@@ -56,28 +56,12 @@ public static void Run(DecompilerContext context, ILBlock method)
+ 			if (!yrd.MatchEnumeratorCreationPattern(method))
+ 				return;
+ 			yrd.enumeratorType = yrd.enumeratorCtor.DeclaringType;
+-			#if DEBUG
+-			if (Debugger.IsAttached) {
+-				yrd.Run();
+-			} else {
+-				#endif
+-				try {
+-					yrd.Run();
+-				} catch (SymbolicAnalysisFailedException) {
+-					return;
+-				}
+-				#if DEBUG
++
++			var name = yrd.enumeratorType.Name;
++			var genIdx = name.IndexOf("c__Iterator");
++			if (genIdx >= 0) {
++				yrd.enumeratorType.Name = name.Substring(0, genIdx + 11);
+ 			}
+-			#endif
+-			method.Body.Clear();
+-			method.EntryGoto = null;
+-			method.Body.AddRange(yrd.newBody);
+-			
+-			// Repeat the inlining/copy propagation optimization because the conversion of field access
+-			// to local variables can open up additional inlining possibilities.
+-			ILInlining inlining = new ILInlining(method);
+-			inlining.InlineAllVariables();
+-			inlining.CopyPropagation();
+ 		}
+ 		
+ 		void Run()
+@@ -161,13 +145,15 @@ bool MatchEnumeratorCreationNewObj(ILExpression expr, out MethodDefinition ctor)
+ 		{
+ 			// newobj(CurrentType/...::.ctor, ldc.i4(-2))
+ 			ctor = null;
+-			if (expr.Code != ILCode.Newobj || expr.Arguments.Count != 1)
+-				return false;
+-			if (expr.Arguments[0].Code != ILCode.Ldc_I4)
+-				return false;
+-			int initialState = (int)expr.Arguments[0].Operand;
+-			if (!(initialState == -2 || initialState == 0))
++			if (expr.Code != ILCode.Newobj)
+ 				return false;
++			if (expr.Arguments.Count == 1) {
++				if (expr.Arguments[0].Code != ILCode.Ldc_I4)
++					return false;
++				int initialState = (int)expr.Arguments[0].Operand;
++				if (!(initialState == -2 || initialState == 0))
++					return false;
++			}
+ 			ctor = GetMethodDefinition(expr.Operand as MethodReference);
+ 			if (ctor == null || ctor.DeclaringType.DeclaringType != context.CurrentType)
+ 				return false;
+@@ -192,6 +178,12 @@ public static bool IsCompilerGeneratorEnumerator(TypeDefinition type)
+ 		/// </summary>
+ 		void AnalyzeCtor()
+ 		{
++			stateField = enumeratorCtor.DeclaringType.Fields.FirstOrDefault(f => f.Name == "$PC");
++
++			if (stateField != null) {
++				return;
++			}
++
+ 			ILBlock method = CreateILAst(enumeratorCtor);
+ 			
+ 			foreach (ILNode node in method.Body) {
+@@ -316,7 +308,7 @@ void ResolveIEnumerableIEnumeratorFieldMapping()
+ 		
+ 		void ConstructExceptionTable()
+ 		{
+-			disposeMethod = enumeratorType.Methods.FirstOrDefault(m => m.Name == "System.IDisposable.Dispose");
++			disposeMethod = enumeratorType.Methods.FirstOrDefault(m => m.Name == "System.IDisposable.Dispose" || m.Name == "Dispose");
+ 			ILBlock ilMethod = CreateILAst(disposeMethod);
+ 			
+ 			var rangeAnalysis = new StateRangeAnalysis(ilMethod.Body[0], StateRangeAnalysisMode.IteratorDispose, stateField);
+@@ -330,6 +322,9 @@ void ConstructExceptionTable()
+ 				if (finallyBody.Count != 2)
+ 					throw new SymbolicAnalysisFailedException();
+ 				ILExpression call = finallyBody[0] as ILExpression;
++				if (call.Code == ILCode.Callvirt) {
++					continue;
++				}
+ 				if (call == null || call.Code != ILCode.Call || call.Arguments.Count != 1)
+ 					throw new SymbolicAnalysisFailedException();
+ 				if (!call.Arguments[0].MatchThis())
+@@ -349,8 +344,8 @@ void ConstructExceptionTable()
+ 		#region Analysis of MoveNext()
+ 		ILVariable returnVariable;
+ 		ILLabel returnLabel;
+-		ILLabel returnFalseLabel;
+-		
++		List<ILLabel> returnFalseLabels = new List<ILLabel>();
++
+ 		void AnalyzeMoveNext()
+ 		{
+ 			MethodDefinition moveNextMethod = enumeratorType.Methods.FirstOrDefault(m => m.Name == "MoveNext");
+@@ -374,8 +369,6 @@ void AnalyzeMoveNext()
+ 				returnVariable = null;
+ 				returnLabel = null;
+ 				// In this case, the last return must return false.
+-				if (lastReturnArg.Code != ILCode.Ldc_I4 || (int)lastReturnArg.Operand != 0)
+-					throw new SymbolicAnalysisFailedException();
+ 			}
+ 			
+ 			ILTryCatchBlock tryFaultBlock = ilMethod.Body[0] as ILTryCatchBlock;
+@@ -431,7 +424,14 @@ void AnalyzeMoveNext()
+ 				bodyLength--; // don't conside the stloc instruction to be part of the body
+ 			}
+ 			// The last element in the body usually is a label pointing to the 'ret(false)'
+-			returnFalseLabel = body.ElementAtOrDefault(bodyLength - 1) as ILLabel;
++			for (var i = 0; i < body.Count; i++) {
++				if (body[i] is ILLabel) {
++					var ret0 = body[i + 1] as ILExpression;
++					if (ret0.Code == ILCode.Ret && ret0.Arguments[0].Code == ILCode.Ldc_I4 && (int)ret0.Arguments[0].Operand == 0) {
++						returnFalseLabels.Add(body[i] as ILLabel);
++					}
++				}
++			}
+ 			// Note: in Roslyn-compiled code, returnFalseLabel may be null.
+ 			
+ 			var rangeAnalysis = new StateRangeAnalysis(body[0], StateRangeAnalysisMode.IteratorMoveNext, stateField);
+@@ -510,7 +510,7 @@ void ConvertBody(List<ILNode> body, int startPos, int bodyLength, List<KeyValueP
+ 					if (method == disposeMethod) {
+ 						// Explicit call to dispose is used for "yield break;" within the method.
+ 						ILExpression br = body.ElementAtOrDefault(++pos) as ILExpression;
+-						if (br == null || !(br.Code == ILCode.Br || br.Code == ILCode.Leave) || br.Operand != returnFalseLabel)
++						if (br == null || !(br.Code == ILCode.Br || br.Code == ILCode.Leave) || !IsReturnFalseLabel(br.Operand as ILLabel))
+ 							throw new SymbolicAnalysisFailedException();
+ 						newBody.Add(new ILExpression(ILCode.YieldBreak, null));
+ 					} else if (finallyMethodToStateRange.TryGetValue(method, out stateRange)) {
+@@ -540,11 +540,16 @@ void ConvertBody(List<ILNode> body, int startPos, int bodyLength, List<KeyValueP
+ 			}
+ 			newBody.Add(new ILExpression(ILCode.YieldBreak, null));
+ 		}
+-		
++
++		bool IsReturnFalseLabel(ILLabel label)
++		{
++			return returnFalseLabels.Any(l => l == label);
++		}
++
+ 		ILExpression MakeGoTo(ILLabel targetLabel)
+ 		{
+ 			Debug.Assert(targetLabel != null);
+-			if (targetLabel == returnFalseLabel)
++			if (IsReturnFalseLabel(targetLabel))
+ 				return new ILExpression(ILCode.YieldBreak, null);
+ 			else
+ 				return new ILExpression(ILCode.Br, targetLabel);
