@@ -9,7 +9,6 @@ from unitypack.environment import UnityEnvironment
 
 guid_to_path = {}
 
-
 def main():
 	p = ArgumentParser()
 	p.add_argument("--outdir", nargs="?", default="")
@@ -24,7 +23,7 @@ def main():
 	filter_ids = args.only.lower().split(",") if args.only else []
 
 	cards = extract_info(args.files, filter_ids)
-	print("Found %d cards" % len(cards))
+	# print("Found %d cards" % len(cards))
 	# print(cards)
 	with open('./sound_effects.json', 'w') as resultFile:
 		resultFile.write(json.dumps(cards))
@@ -36,18 +35,18 @@ def extract_info(files, filter_ids):
 	env = UnityEnvironment()
 
 	for file in files:
-		print("Reading %r" % (file))
+		# print("Reading %r" % (file))
 		f = open(file, "rb")
 		env.load(f)
 
 	for bundle in env.bundles.values():
 		for asset in bundle.assets:
-			print("Parsing %r" % (asset.name))
+			# print("Parsing %r" % (asset.name))
 			handle_asset(asset, audioClips, cards, filter_ids)
 
 	for bundle in env.bundles.values():
 		for asset in bundle.assets:
-			print("Parsing %r" % (asset.name))
+			# print("Parsing %r" % (asset.name))
 			handle_gameobject(asset, audioClips, cards, filter_ids)
 
 	return cards
@@ -80,11 +79,18 @@ def handle_gameobject(asset, audioClips, cards, filter_ids):
 				continue
 
 			cardid = d.name
+
+			# if cardid != "EX1_312":
+			# if cardid != "EX1_407":
+			# if "EX" not in cardid:
+			if cardid != "EX1_277":
+				continue
+
 			if filter_ids and cardid.lower() not in filter_ids:
 				continue
 			if cardid in ("CardDefTemplate", "HiddenCard"):
 				# not a real card
-				cards[cardid] = {"path": "", "tile": ""}
+				# cards[cardid] = {"path": "", "tile": ""}
 				continue
 			if len(d.component) < 2:
 				# Not a CardDef
@@ -94,25 +100,126 @@ def handle_gameobject(asset, audioClips, cards, filter_ids):
 				carddef = script["component"].resolve()
 			else:  # Unity <= 5.4
 				carddef = script[1].resolve()
-			
+
 			if not isinstance(carddef, dict) or "m_PlayEffectDef" not in carddef:
 				# Not a CardDef
 				continue
-			
+
 			# print("cardDef %s" % (carddef))
 			card = {}
 			card["play"] = extract_sound_file_names(audioClips, carddef, "m_PlayEffectDef")
 			card["attack"] = extract_sound_file_names(audioClips, carddef, "m_AttackEffectDef")
 			card["death"] = extract_sound_file_names(audioClips, carddef, "m_DeathEffectDef")
+			spellSounds = extract_spell_sounds(audioClips, carddef)
+			for spellSound in spellSounds:
+				card[spellSound] = [spellSound + ".ogg"]
 
-			if len(card["play"]) + len(card["attack"]) + len(card["death"]) > 0:
-				cards[cardid] = card
+			# if cardid == "EX1_277":
+			# 	print("Arcane missles: %s" % (card))
+			# if cardid == "EX1_312":
+			# 	print("Twisting Nether: %s" % (card))
+			# if cardid == "EX1_407":
+			# 	print("Brawl: %s" % (card))
 
+			cards[cardid] = card
+			# print(card)
+
+def extract_spell_sounds(audioClips, carddef):
+	otherPlayAudio = carddef["m_PlayEffectDef"]["m_SpellPath"]
+	if otherPlayAudio and ":" in otherPlayAudio:
+		guid = otherPlayAudio.split(":")[1]
+		if guid in guid_to_path:
+			playEffectPath = "final/" + guid_to_path[guid]
+			# print("playEffectPath=%s" % (playEffectPath))
+			audioClip = audioClips[playEffectPath.lower()].resolve()
+			cardAudios = []
+			findAudios(audioClip, cardAudios, 0, [])
+			# print("card audios: %s" % cardAudios)
+			return cardAudios
+		else:
+			print("WARN: Could not find %s in guid_to_path (path=%s)" % (guid, otherPlayAudio))
+	print("Could not extract guid from %s" % carddef)
+	return []
+
+
+def findAudios(audioClip, cardAudios, level, iteratedValues):
+	if hasattr(audioClip, "component"):
+		for index, elem in enumerate(audioClip.component):
+			print("\t" * level, "considering with component %s: %s" % (index, elem))
+			try:
+				resolved = elem.resolve()
+				if hasattr(resolved, "m_AudioClip") and resolved["m_AudioClip"] is not None:
+					add_to_audio(cardAudios, resolve["m_AudioClip"])
+				if elem.path_id not in iteratedValues:
+					iteratedValues.append(elem.path_id)
+					findAudios(resolved, cardAudios, level + 1, iteratedValues)
+			except:
+				findAudios(elem, cardAudios, level + 1, iteratedValues)
+		return
+	if isinstance(audioClip, dict):
+		for index, (key, value) in enumerate(audioClip.items()):
+			if not isinstance(value, dict) or len(value.items()) < 3:
+				print("\t" * level, "considering %s: (%s, %s)" % (index, key, value))
+			else:
+				print("\t" * level, "considering %s: %s (dict)" % (index, key))
+			if key == "m_AudioClip":
+				add_to_audio(cardAudios, value)
+			try:
+				resolved = value.resolve()
+				if hasattr(resolved, "m_AudioClip") and resolved["m_AudioClip"] is not None:
+					add_to_audio(cardAudios, resolved["m_AudioClip"])
+				if value.path_id not in iteratedValues:
+					iteratedValues.append(value.path_id)
+					findAudios(resolved, cardAudios, level + 1, iteratedValues)
+			except:
+				findAudios(value, cardAudios, level + 1, iteratedValues)
+		return
+	if hasattr(audioClip, "m_AudioClip") and audioClip["m_AudioClip"] is not None:
+		add_to_audio(cardAudios, audioClip["m_AudioClip"])
+		return
+	if isinstance(audioClip, list):
+		print("\t" * level, "Found list: %s" % (len(audioClip)))
+		for elem in audioClip:
+			print("\t" * level, "considering list element: %s" % elem)
+			try:
+				resolved = elem.resolve()
+				if hasattr(resolved, "m_AudioClip") and resolved["m_AudioClip"] is not None:
+					add_to_audio(cardAudios, audioClip["m_AudioClip"])
+				if elem.path_id not in iteratedValues:
+					iteratedValues.append(elem.path_id)
+					findAudios(resolved, cardAudios, level + 1, iteratedValues)
+			except:
+				findAudios(elem, cardAudios, level + 1, iteratedValues)
+		return
+	if hasattr(audioClip, "_obj"):
+		findAudios(audioClip._obj, cardAudios, level + 1, iteratedValues)
+		return
+	if type(audioClip) in (int, float, bool, str):
+		return
+	if audioClip is None:
+		return
+	try:
+		resolved = elem.resolve()
+		if hasattr(resolved, "m_AudioClip") and resolved["m_AudioClip"] is not None:
+			add_to_audio(cardAudios, resolved["m_AudioClip"])
+		if elem.path_id not in iteratedValues:
+			iteratedValues.append(elem.path_id)
+			findAudios(resolved, cardAudios, level + 1, iteratedValues)
+		return
+	except:
+		return
+	print("\t" * level, "unparsable %s" % (audioClip))
+	dump(audioClip, level)
+
+def add_to_audio(cardAudios, audioElement):
+	trimmed = audioElement.split(".")[0]
+	if len(trimmed) > 0 and trimmed not in cardAudios:
+		cardAudios.append(trimmed)
 
 def extract_sound_file_names(audioClips, carddef, node):
 	path = carddef[node]
 	if not path:
-		return
+		return []
 
 	path = path["m_SoundSpellPaths"]
 
@@ -162,16 +269,16 @@ def handle_rad_node(path, guids, names, tree, node):
 
 
 def handle_rad(rad):
-	print("Handling RAD")
+	# print("Handling RAD")
 	guids = rad["m_guids"]
 	names = rad["m_filenames"]
 	tree = rad["m_tree"]
 	handle_rad_node("", guids, names, tree, tree[0])
 
 
-def dump(obj):
+def dump(obj, level):
   for attr in dir(obj):
-    print("obj.%s = %r" % (attr, getattr(obj, attr)))
+    print("\t" * level, "obj.%s = %r" % (attr, getattr(obj, attr)))
 
 if __name__ == "__main__":
 	main()
