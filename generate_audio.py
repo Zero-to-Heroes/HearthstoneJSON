@@ -41,12 +41,12 @@ def extract_info(files, filter_ids):
 
 	for bundle in env.bundles.values():
 		for asset in bundle.assets:
-			# print("Parsing %r" % (asset.name))
+			print("Parsing %r" % (asset.name))
 			handle_asset(asset, audioClips, cards, filter_ids)
 
 	for bundle in env.bundles.values():
 		for asset in bundle.assets:
-			# print("Parsing %r" % (asset.name))
+			print("Handling %r" % (asset.name))
 			handle_gameobject(asset, audioClips, cards, filter_ids)
 
 	return cards
@@ -126,9 +126,12 @@ def extract_spell_sounds(audioClips, carddef):
 		if guid in guid_to_path:
 			playEffectPath = "final/" + guid_to_path[guid]
 			# print("playEffectPath=%s" % (playEffectPath))
-			audioClip = audioClips[playEffectPath.lower()].resolve()
 			cardAudios = []
-			findAudios(audioClip, cardAudios, 0, [])
+			try:
+				audioClip = audioClips[playEffectPath.lower()].resolve()
+				findAudios(audioClip, cardAudios, 0, [])
+			except:
+				print("Could not find audio asset %r" % (playEffectPath.lower()))
 			# print("card audios: %s" % cardAudios)
 			return cardAudios
 		# else:
@@ -230,18 +233,21 @@ def extract_sound_file_names(audioClips, carddef, node):
 			playEffectPath = "final/" + playEffectPath
 			# print()
 			# print("Handling %s" % (playEffectPath))
-			audioClip = audioClips[playEffectPath.lower()].resolve()
-			audioGameObject = audioClip.component[1]["component"].resolve()
-			# dump(audioGameObject)
-			# print("m_CardSoundData %s" % (audioGameObject["m_CardSoundData"]))
-			# print("m_AudioSource %s" % (audioGameObject["m_CardSoundData"]["m_AudioSource"]))
-			# dump(audioGameObject["m_CardSoundData"]["m_AudioSource"])
-			if audioGameObject["m_CardSoundData"]["m_AudioSource"] is not None:
-				audioSource = audioGameObject["m_CardSoundData"]["m_AudioSource"].resolve()
-				audioClipGuid = audioSource.game_object.resolve().component[2]["component"].resolve()["m_AudioClip"]
-				audioFileName = audioClipGuid.split(":")[0].split(".")[0]
-				if audioFileName and len(audioFileName) > 1:
-					result.append(audioFileName + ".ogg")
+			try:
+				audioClip = audioClips[playEffectPath.lower()].resolve()
+				audioGameObject = audioClip.component[1]["component"].resolve()
+				# dump(audioGameObject)
+				# print("m_CardSoundData %s" % (audioGameObject["m_CardSoundData"]))
+				# print("m_AudioSource %s" % (audioGameObject["m_CardSoundData"]["m_AudioSource"]))
+				# dump(audioGameObject["m_CardSoundData"]["m_AudioSource"])
+				if audioGameObject["m_CardSoundData"]["m_AudioSource"] is not None:
+					audioSource = audioGameObject["m_CardSoundData"]["m_AudioSource"].resolve()
+					audioClipGuid = audioSource.game_object.resolve().component[2]["component"].resolve()["m_AudioClip"]
+					audioFileName = audioClipGuid.split(":")[0].split(".")[0]
+					if audioFileName and len(audioFileName) > 1:
+						result.append(audioFileName + ".ogg")
+			except:
+				print("Could not find audio asset to build component sound %r" % (playEffectPath.lower()))
 
 	return result
 	test = guid_to_path
