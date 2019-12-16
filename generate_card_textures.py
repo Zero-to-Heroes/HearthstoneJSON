@@ -112,7 +112,12 @@ def extract_info(files, filter_ids):
 	for bundle in env.bundles.values():
 		for asset in bundle.assets:
 			print("Parsing %r" % (asset.name))
-			handle_asset(asset, textures, cards, filter_ids)
+
+			try:
+				handle_asset(asset, textures, cards, filter_ids)
+			except:
+				print("could not handle %s" % (id))
+				continue
 
 	return cards, textures
 

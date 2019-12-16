@@ -41,12 +41,15 @@ def extract_info(files, filter_ids):
 
 	for bundle in env.bundles.values():
 		for asset in bundle.assets:
-			print("Parsing %r" % (asset.name))
-			handle_asset(asset, audioClips, cards, filter_ids)
+			# print("Parsing %r" % (asset.name))
+			try:
+				handle_asset(asset, audioClips, cards, filter_ids)
+			except:
+				print("Could not handle asset %s" % asset)
 
 	for bundle in env.bundles.values():
 		for asset in bundle.assets:
-			print("Handling %r" % (asset.name))
+			# print("Handling %r" % (asset.name))
 			handle_gameobject(asset, audioClips, cards, filter_ids)
 
 	return cards
@@ -54,6 +57,7 @@ def extract_info(files, filter_ids):
 
 def handle_asset(asset, audioClips, cards, filter_ids):
 	for obj in asset.objects.values():
+		# try:
 		if obj.type == "AssetBundle":
 			d = obj.read()
 
@@ -68,56 +72,70 @@ def handle_asset(asset, audioClips, cards, filter_ids):
 					# print(path)
 					continue
 				audioClips[path] = asset
+		# except:
+		# 	print("caught exception, continuing")
 
 def handle_gameobject(asset, audioClips, cards, filter_ids):
 	for obj in asset.objects.values():
-		if obj.type == "GameObject":
-			d = obj.read()
+		try:
+			if obj.type == "GameObject":
+				d = obj.read()
 
-			if d.name == "rad_base":
-				handle_rad(d)
-				continue
+				if d.name == "rad_base":
+					handle_rad(d)
+					continue
 
-			cardid = d.name
+				cardid = d.name
 
-			if filter_ids and cardid.lower() not in filter_ids:
-				continue
-			if cardid in ("CardDefTemplate", "HiddenCard"):
-				# not a real card
-				# cards[cardid] = {"path": "", "tile": ""}
-				continue
-			if len(d.component) < 2:
-				# Not a CardDef
-				continue
-			script = d.component[1]
-			if isinstance(script, dict):  # Unity 5.6+
-				carddef = script["component"].resolve()
-			else:  # Unity <= 5.4
-				carddef = script[1].resolve()
+				# if cardid != "DAL_609":
+				# 	continue
 
-			if not isinstance(carddef, dict) or "m_PlayEffectDef" not in carddef:
-				# Not a CardDef
-				continue
+				# print("handling card: %s" % (cardid))
 
-			print("handling card: %s" % (cardid))
-			# print("cardDef %s" % (carddef))
-			card = {}
-			card["play"] = extract_sound_file_names(audioClips, carddef, "m_PlayEffectDef")
-			card["attack"] = extract_sound_file_names(audioClips, carddef, "m_AttackEffectDef")
-			card["death"] = extract_sound_file_names(audioClips, carddef, "m_DeathEffectDef")
-			spellSounds = extract_spell_sounds(audioClips, carddef)
-			for spellSound in spellSounds:
-				card[spellSound] = [spellSound + ".ogg"]
+				if filter_ids and cardid.lower() not in filter_ids:
+					continue
+				if cardid in ("CardDefTemplate", "HiddenCard"):
+					# not a real card
+					# cards[cardid] = {"path": "", "tile": ""}
+					continue
+				if len(d.component) < 2:
+					# Not a CardDef
+					continue
+				script = d.component[1]
+				if isinstance(script, dict):  # Unity 5.6+
+					carddef = script["component"].resolve()
+				else:  # Unity <= 5.4
+					carddef = script[1].resolve()
 
-			# if cardid == "EX1_277":
-			# 	print("Arcane missles: %s" % (card))
-			# if cardid == "EX1_312":
-			# 	print("Twisting Nether: %s" % (card))
-			# if cardid == "EX1_407":
-			# 	print("Brawl: %s" % (card))
+				if not isinstance(carddef, dict) or "m_PlayEffectDef" not in carddef:
+					# Not a CardDef
+					# print("not a carddef")
+					continue
 
-			cards[cardid] = card
-			# print(card)
+				# print("cardDef %s" % (carddef))
+				card = {}
+				card["play"] = extract_sound_file_names(audioClips, carddef, "m_PlayEffectDef")
+				card["attack"] = extract_sound_file_names(audioClips, carddef, "m_AttackEffectDef")
+				card["death"] = extract_sound_file_names(audioClips, carddef, "m_DeathEffectDef")
+				spellSounds = extract_spell_sounds(audioClips, carddef)
+				for spellSound in spellSounds:
+					card[spellSound] = [spellSound + ".ogg"]
+
+				# if cardid == "EX1_277":
+				# 	print("Arcane missles: %s" % (card))
+				# if cardid == "EX1_312":
+				# 	print("Twisting Nether: %s" % (card))
+				# if cardid == "EX1_407":
+				# 	print("Brawl: %s" % (card))
+
+				cards[cardid] = card
+				# print(card)
+
+				if cardid == "DAL_609":
+					print(card)
+					print(cards[cardid])
+		except:
+			print("caught exception, continuing")
 
 def extract_spell_sounds(audioClips, carddef):
 	otherPlayAudio = carddef["m_PlayEffectDef"]["m_SpellPath"]
@@ -261,7 +279,7 @@ def handle_rad_node(path, guids, names, tree, node):
 			path = node["folderName"]
 
 	for leaf in node["leaves"]:
-		guid = guids[leaf["guidIndex"]]
+		guid = guids[leaf["guidIndex"]]["GUID"]
 		name = names[leaf["fileNameIndex"]]
 		guid_to_path[guid] = path + "/" + name
 
@@ -270,7 +288,7 @@ def handle_rad_node(path, guids, names, tree, node):
 
 
 def handle_rad(rad):
-	# print("Handling RAD")
+	print("Handling RAD")
 	guids = rad["m_guids"]
 	names = rad["m_filenames"]
 	tree = rad["m_tree"]
