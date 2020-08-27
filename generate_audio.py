@@ -54,13 +54,13 @@ def extract_info(files, filter_ids):
 
 def handle_asset(asset, audioClips, cards, filter_ids):
 	for obj in asset.objects.values():
-		# try:
 		if obj.type == "AssetBundle":
 			d = obj.read()
 
 			for path, obj in d["m_Container"]:
 				path = path.lower()
 				asset = obj["asset"]
+				# Debug stuff
 				if "SCH_224" in path:
 					print("Consider adding to audioClips %s, %s" % (path, asset))
 				if path == "assets/rad/rad_base.asset" or path == "assets/rad/rad_enus.asset":
@@ -71,27 +71,17 @@ def handle_asset(asset, audioClips, cards, filter_ids):
 					print("not handling path %s" % path)
 					continue
 				audioClips[path] = asset
-		else:
-			print("Skipping %S" % obj.type)
-		# except:
-		# 	print("caught exception, continuing")
+		# else:
+		# 	print("Skipping %s" % obj.type)
 
 def handle_gameobject(asset, audioClips, cards, filter_ids):
 	for obj in asset.objects.values():
-		# try:
 		if obj.type == "GameObject":
 			d = obj.read()
 
-			# if "rad" in d.name:
-			# 	print("considering rad %s " % d.name)
-
-			# if d.name == "rad_base" or d.name == "rad_enus":
-			# 	print("will handle rad %s" % d.name)
-			# 	handle_rad(d)
-			# 	continue
-
 			cardid = d.name
 
+			# Debug stuff
 			if cardid != "SCH_224":
 				continue
 
@@ -102,7 +92,6 @@ def handle_gameobject(asset, audioClips, cards, filter_ids):
 				continue
 			if cardid in ("CardDefTemplate", "HiddenCard"):
 				# not a real card
-				# cards[cardid] = {"path": "", "tile": ""}
 				continue
 			if len(d.component) < 2:
 				# Not a CardDef
@@ -115,12 +104,8 @@ def handle_gameobject(asset, audioClips, cards, filter_ids):
 
 			if not isinstance(carddef, dict) or "m_PlayEffectDef" not in carddef:
 				# Not a CardDef
-				# print("not a carddef")
 				continue
 
-			# print("cardDef %s" % (carddef))
-			# print("cardDef %s" % (carddef["m_PlayEffectDef"]))
-			# dump(carddef, 1)
 			card = {}
 			card["play"] = extract_sound_file_names(audioClips, carddef, "m_PlayEffectDef")
 			card["attack"] = extract_sound_file_names(audioClips, carddef, "m_AttackEffectDef")
@@ -130,9 +115,6 @@ def handle_gameobject(asset, audioClips, cards, filter_ids):
 				card[spellSound] = [spellSound + ".ogg"]
 
 			cards[cardid] = card
-			# print(card)
-		# except:
-		# 	print("caught exception, continuing")
 
 
 def extract_sound_file_names(audioClips, carddef, node):
@@ -148,32 +130,24 @@ def extract_sound_file_names(audioClips, carddef, node):
 		if ":" in updatedPath:
 			guid = updatedPath.split(":")[1]
 			print("guid %s" % guid)
+			# The issue is that for all the newest cards (scholomancer and the previous expansion), no
+			# asset is loaded in guid_to_path that corresponds to that guid
 			if guid in guid_to_path:
 				updatedPath = guid_to_path[guid]
 				print("updated path (%s // %s)" % (playEffectPath, updatedPath))
-			# else:
-				# print("WARN: Could not find %s in guid_to_path (path=%s)" % (guid, playEffectPath))
 		if updatedPath and len(updatedPath) > 1:
 			updatedPath = "final/" + updatedPath
-			# print()
-			# print("Handling %s" % (playEffectPath))
 			try:
 				audioClip = audioClips[updatedPath.lower()].resolve()
 			except:
 				continue
 			audioGameObject = audioClip.component[1]["component"].resolve()
-			# dump(audioGameObject)
-			# print("m_CardSoundData %s" % (audioGameObject["m_CardSoundData"]))
-			# print("m_AudioSource %s" % (audioGameObject["m_CardSoundData"]["m_AudioSource"]))
-			# dump(audioGameObject["m_CardSoundData"]["m_AudioSource"])
 			if audioGameObject["m_CardSoundData"]["m_AudioSource"] is not None:
 				audioSource = audioGameObject["m_CardSoundData"]["m_AudioSource"].resolve()
 				audioClipGuid = audioSource.game_object.resolve().component[2]["component"].resolve()["m_AudioClip"]
 				audioFileName = audioClipGuid.split(":")[0].split(".")[0]
 				if audioFileName and len(audioFileName) > 1:
 					result.append(audioFileName + ".ogg")
-			# except:
-			# 	print("Could not find audio asset to build component sound %r" % (playEffectPath.lower()))
 
 	return result
 	test = guid_to_path

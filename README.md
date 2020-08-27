@@ -16,6 +16,10 @@ To generate the files, just run:
 
 * `./bootstrap.sh`
 * `./generate.py`
+* `./generate_audio.py /d/Games/Hearthstone/Data/**/*.unity3d`
+
+The `generate_audio` currently fails to find the sound files associated to the cards in Scholomance (and the previous expansion).
+More specifically, in the `extract_sound_file_names` method, the `guid_to_path` doesn't contain the `guid` from these cards.
 
 Files will be generated in the `out` directory.
 
