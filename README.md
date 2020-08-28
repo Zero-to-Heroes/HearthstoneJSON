@@ -18,10 +18,10 @@ To generate the files, just run:
 * `./generate.py`
 * `./generate_audio.py /d/Games/Hearthstone/Data/**/*.unity3d`
 
-The `generate_audio` currently fails to find the sound files associated to the cards in Scholomance (and the previous expansion).
-More specifically, in the `extract_sound_file_names` method, the `guid_to_path` doesn't contain the `guid` from these cards.
-
 Files will be generated in the `out` directory.
+
+The `generate_audio` outputs a `sound_effects.json` file that maps the card IDs to the name of the sound files that are played for specific events (typically play / attack / death for minions).
+The files themselves can be obtained by running the unityextract script from the unitypack project
 
 
 ## License
