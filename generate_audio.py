@@ -2,57 +2,93 @@
 import json
 import os
 import sys
+import unitypack
+import yaml
+
 from argparse import ArgumentParser
 from PIL import Image, ImageOps
 from unitypack.environment import UnityEnvironment
-
+from unitypack.asset import Asset
+from unitypack.object import ObjectPointer
+from unitypack.utils import extract_audioclip_samples
 
 guid_to_path = {}
 
+
 def main():
 	p = ArgumentParser()
-	p.add_argument("--outdir", nargs="?", default="")
-	p.add_argument("--skip-existing", action="store_true")
-	p.add_argument(
-		"--only", type=str, nargs="?", help="Extract specific CardIDs (case-insensitive)"
-	)
-	p.add_argument("--traceback", action="store_true", help="Raise errors during conversion")
 	p.add_argument("files", nargs="+")
+	p.add_argument("-s", "--strip", action="store_true", help="Strip extractable data")
 	args = p.parse_args(sys.argv[1:])
 
-	filter_ids = args.only.lower().split(",") if args.only else []
+	yaml.add_representer(Asset, asset_representer)
+	yaml.add_representer(ObjectPointer, objectpointer_representer)
 
-	cards = extract_info(args.files, filter_ids)
-	# print("Found %d cards" % len(cards))
-	# print(cards)
+	for k, v in unitypack.engine.__dict__.items():
+		if isinstance(v, type) and issubclass(v, unitypack.engine.object.Object):
+			yaml.add_representer(v, unityobj_representer)
+
+	audioClips = {}
+
+	for file in args.files:
+		if file.endswith(".assets"):
+			with open(file, "rb") as f:
+				asset = Asset.from_file(f)
+				populate_guid_to_path(asset, audioClips)
+			continue
+
+		with open(file, "rb") as f:
+			bundle = unitypack.load(f)
+
+			for asset in bundle.assets:
+				populate_guid_to_path(asset, audioClips)
+
+	cards = extract_info(args.files)
 	with open('./sound_effects.json', 'w') as resultFile:
 		resultFile.write(json.dumps(cards))
 
 
-def extract_info(files, filter_ids):
-	cards = {}
+def populate_guid_to_path(asset, audioClips):
+	for id, obj in asset.objects.items():
+		try:
+			d = obj.read()
+
+			for asset_info in d["m_assets"]:
+				guid = asset_info["Guid"]
+				path = asset_info["Path"]
+				path = path.lower()
+				if not path.startswith("final/"):
+					path = "final/" + path
+				if not path.startswith("final/assets"):
+					print("not handling path %s" % path)
+					continue
+				guid_to_path[guid] = path
+				audioClips[path] = asset_info
+		except:
+			continue
+
+
+def extract_info(files):
 	audioClips = {}
+	cards = {}
 	env = UnityEnvironment()
 
 	for file in files:
-		# print("Reading %r" % (file))
 		f = open(file, "rb")
 		env.load(f)
 
 	for bundle in env.bundles.values():
 		for asset in bundle.assets:
-			# print("Parsing %r" % (asset.name))
-			handle_asset(asset, audioClips, cards, filter_ids)
+			handle_asset(asset, audioClips, cards)
 
 	for bundle in env.bundles.values():
 		for asset in bundle.assets:
-			# print("Handling %r" % (asset.name))
-			handle_gameobject(asset, audioClips, cards, filter_ids)
+			handle_gameobject(asset, audioClips, cards)
 
 	return cards
 
 
-def handle_asset(asset, audioClips, cards, filter_ids):
+def handle_asset(asset, audioClips, cards):
 	for obj in asset.objects.values():
 		if obj.type == "AssetBundle":
 			d = obj.read()
@@ -60,9 +96,6 @@ def handle_asset(asset, audioClips, cards, filter_ids):
 			for path, obj in d["m_Container"]:
 				path = path.lower()
 				asset = obj["asset"]
-				# Debug stuff
-				if "SCH_224" in path:
-					print("Consider adding to audioClips %s, %s" % (path, asset))
 				if path == "assets/rad/rad_base.asset" or path == "assets/rad/rad_enus.asset":
 					handle_rad(asset.resolve())
 				if not path.startswith("final/"):
@@ -71,25 +104,14 @@ def handle_asset(asset, audioClips, cards, filter_ids):
 					print("not handling path %s" % path)
 					continue
 				audioClips[path] = asset
-		# else:
-		# 	print("Skipping %s" % obj.type)
 
-def handle_gameobject(asset, audioClips, cards, filter_ids):
+
+def handle_gameobject(asset, audioClips, cards):
 	for obj in asset.objects.values():
 		if obj.type == "GameObject":
 			d = obj.read()
-
 			cardid = d.name
 
-			# Debug stuff
-			if cardid != "SCH_224":
-				continue
-
-			print("\nhandling card: %s" % (cardid))
-			dump(d, 1)
-
-			if filter_ids and cardid.lower() not in filter_ids:
-				continue
 			if cardid in ("CardDefTemplate", "HiddenCard"):
 				# not a real card
 				continue
@@ -129,17 +151,15 @@ def extract_sound_file_names(audioClips, carddef, node):
 		updatedPath = playEffectPath
 		if ":" in updatedPath:
 			guid = updatedPath.split(":")[1]
-			print("guid %s" % guid)
-			# The issue is that for all the newest cards (scholomancer and the previous expansion), no
-			# asset is loaded in guid_to_path that corresponds to that guid
 			if guid in guid_to_path:
 				updatedPath = guid_to_path[guid]
-				print("updated path (%s // %s)" % (playEffectPath, updatedPath))
 		if updatedPath and len(updatedPath) > 1:
-			updatedPath = "final/" + updatedPath
+			if not updatedPath.startswith("final/"):
+				updatedPath = "final/" + updatedPath
 			try:
 				audioClip = audioClips[updatedPath.lower()].resolve()
-			except:
+			except Exception as e:
+				print("Could not resolve audio clip %s" % e)
 				continue
 			audioGameObject = audioClip.component[1]["component"].resolve()
 			if audioGameObject["m_CardSoundData"]["m_AudioSource"] is not None:
@@ -150,33 +170,28 @@ def extract_sound_file_names(audioClips, carddef, node):
 					result.append(audioFileName + ".ogg")
 
 	return result
-	test = guid_to_path
 
 def extract_spell_sounds(audioClips, carddef):
 	otherPlayAudio = carddef["m_PlayEffectDef"]["m_SpellPath"]
 	if otherPlayAudio and ":" in otherPlayAudio:
 		guid = otherPlayAudio.split(":")[1]
-		if guid in guid_to_path:
-			playEffectPath = "final/" + guid_to_path[guid]
-			# print("playEffectPath=%s" % (playEffectPath))
-			cardAudios = []
-			# try:
-			audioClip = audioClips[playEffectPath.lower()].resolve()
-			findAudios(audioClip, cardAudios, 0, [])
-			# except:
-			# 	print("Could not find audio asset %r" % (playEffectPath.lower()))
-			# print("card audios: %s" % cardAudios)
-			return cardAudios
-		# else:
-		# 	print("WARN: Could not find %s in guid_to_path (path=%s)" % (guid, otherPlayAudio))
-	# print("Could not extract guid from %s" % carddef)
+		try:
+			if guid in guid_to_path:
+				playEffectPath = guid_to_path[guid]
+				if not playEffectPath.startswith("final/"):
+					playEffectPath = "final/" + playEffectPath
+				cardAudios = []
+				audioClip = audioClips[playEffectPath.lower()].resolve()
+				findAudios(audioClip, cardAudios, 0, [])
+				return cardAudios
+		except:
+			return []
 	return []
 
 
 def findAudios(audioClip, cardAudios, level, iteratedValues):
 	if hasattr(audioClip, "component"):
 		for index, elem in enumerate(audioClip.component):
-			# print("\t" * level, "considering with component %s: %s" % (index, elem))
 			try:
 				resolved = elem.resolve()
 				if hasattr(resolved, "m_AudioClip") and resolved["m_AudioClip"] is not None:
@@ -189,10 +204,6 @@ def findAudios(audioClip, cardAudios, level, iteratedValues):
 		return
 	if isinstance(audioClip, dict):
 		for index, (key, value) in enumerate(audioClip.items()):
-			# if not isinstance(value, dict) or len(value.items()) < 3:
-				# print("\t" * level, "considering %s: (%s, %s)" % (index, key, value))
-			# else:
-				# print("\t" * level, "considering %s: %s (dict)" % (index, key))
 			if key == "m_AudioClip":
 				add_to_audio(cardAudios, value)
 			try:
@@ -209,9 +220,7 @@ def findAudios(audioClip, cardAudios, level, iteratedValues):
 		add_to_audio(cardAudios, audioClip["m_AudioClip"])
 		return
 	if isinstance(audioClip, list):
-		# print("\t" * level, "Found list: %s" % (len(audioClip)))
 		for elem in audioClip:
-			# print("\t" * level, "considering list element: %s" % elem)
 			try:
 				resolved = elem.resolve()
 				if hasattr(resolved, "m_AudioClip") and resolved["m_AudioClip"] is not None:
@@ -239,13 +248,13 @@ def findAudios(audioClip, cardAudios, level, iteratedValues):
 		return
 	except:
 		return
-	# print("\t" * level, "unparsable %s" % (audioClip))
-	# dump(audioClip, level)
+
 
 def add_to_audio(cardAudios, audioElement):
 	trimmed = audioElement.split(".")[0]
 	if len(trimmed) > 0 and trimmed not in cardAudios:
 		cardAudios.append(trimmed)
+
 
 def handle_rad_node(path, guids, names, tree, node):
 	if len(node["folderName"]) > 0:
@@ -277,6 +286,19 @@ def handle_rad(rad):
 def dump(obj, level):
   for attr in dir(obj):
     print("\t" * level, "obj.%s = %r" % (attr, getattr(obj, attr)))
+
+
+def asset_representer(dumper, data):
+	return dumper.represent_scalar("!asset", data.name)
+
+
+def objectpointer_representer(dumper, data):
+	return dumper.represent_sequence("!PPtr", [data.file_id, data.path_id])
+
+
+def unityobj_representer(dumper, data):
+	return dumper.represent_mapping("!unitypack:%s" % (data.__class__.__name__), data._obj)
+
 
 if __name__ == "__main__":
 	main()
