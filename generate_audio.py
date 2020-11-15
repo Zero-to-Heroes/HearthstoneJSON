@@ -3,7 +3,6 @@ import json
 import os
 import sys
 import unitypack
-import yaml
 
 from argparse import ArgumentParser
 from PIL import Image, ImageOps
@@ -19,28 +18,27 @@ def main():
 	p = ArgumentParser()
 	p.add_argument("files", nargs="+")
 	p.add_argument("-s", "--strip", action="store_true", help="Strip extractable data")
+	p.add_argument("--as-asset", action="store_true", help="Force open files as Asset format")
 	args = p.parse_args(sys.argv[1:])
-
-	yaml.add_representer(Asset, asset_representer)
-	yaml.add_representer(ObjectPointer, objectpointer_representer)
-
-	for k, v in unitypack.engine.__dict__.items():
-		if isinstance(v, type) and issubclass(v, unitypack.engine.object.Object):
-			yaml.add_representer(v, unityobj_representer)
 
 	audioClips = {}
 
 	for file in args.files:
-		if file.endswith(".assets"):
+		# print("\nhandling file %s" % file)
+		if args.as_asset or file.endswith(".assets"):
+			# print("handling asset %s" % file)
 			with open(file, "rb") as f:
+				# print("doing it %s" % file)
 				asset = Asset.from_file(f)
 				populate_guid_to_path(asset, audioClips)
 			continue
 
 		with open(file, "rb") as f:
+			# print("handling bundle %s" % file)
 			bundle = unitypack.load(f)
 
 			for asset in bundle.assets:
+				# print("handling bundle asset %s" % asset)
 				populate_guid_to_path(asset, audioClips)
 
 	cards = extract_info(args.files)
@@ -52,19 +50,32 @@ def populate_guid_to_path(asset, audioClips):
 	for id, obj in asset.objects.items():
 		try:
 			d = obj.read()
+			# print("m_assets %s " % d)
 
 			for asset_info in d["m_assets"]:
+				print("asset_info %s" % asset_info)
 				guid = asset_info["Guid"]
+				print("print %s" % guid)
 				path = asset_info["Path"]
+				print("path %s" % path)
 				path = path.lower()
+				print("path lower %s" % path)
 				if not path.startswith("final/"):
 					path = "final/" + path
 				if not path.startswith("final/assets"):
-					print("not handling path %s" % path)
+					# print("not handling path (%s : %s)" % (path, guid))
 					continue
+				# print("handling guid in populate_guid_to_path %s : %s" % (guid, path))
+				if guid == '4d4020cf2e9fe0b47bd47e669a5a7265':
+					print("handling 4d4020cf2e9fe0b47bd47e669a5a7265 in populate_guid_to_path %s" % (path))
+				if path == "Assets/Game/Cards/021 Gilneas/GILA_612/Death.prefab":
+					print("handling path in populate_guid_to_path %s" % (path))
+				if "GILA_612" in path:
+					print("handling GILA_612 in populate_guid_to_path %s, %s" % (guid, path))
 				guid_to_path[guid] = path
 				audioClips[path] = asset_info
-		except:
+		except Exception as e:
+			# print("could not populate guid %s" % e)
 			continue
 
 
@@ -94,15 +105,28 @@ def handle_asset(asset, audioClips, cards):
 			d = obj.read()
 
 			for path, obj in d["m_Container"]:
-				path = path.lower()
+				finalPath = path.lower()
 				asset = obj["asset"]
-				if path == "assets/rad/rad_base.asset" or path == "assets/rad/rad_enus.asset":
+				if finalPath == "assets/rad/rad_base.asset" or finalPath == "assets/rad/rad_enus.asset":
 					handle_rad(asset.resolve())
-				if not path.startswith("final/"):
-					path = "final/" + path
-				if not path.startswith("final/assets"):
-					print("not handling path %s" % path)
-					continue
+				if not finalPath.startswith("final/"):
+					finalPath = "final/" + finalPath
+				# print("handling path in handle_asset %s, %s" % (path.lower(), finalPath))
+				# try:
+				# 	print("path for %s " % guid_to_path[path.lower()])
+				# except:
+				# 	print("do nothing")
+				# if not finalPath.startswith("final/assets"):
+					# print("not handling path in handle_asset %s" % finalPath)
+					# continue
+
+				if path == "Assets/Game/Cards/021 Gilneas/GILA_612/Death.prefab":
+					print("handling path in handle_asset %s" % (path))
+				if "GILA_612" in path:
+					print("handling GILA_612 in handle_asset %s" % (path))
+				if "4d4020cf2e9fe0b47bd47e669a5a7265" in finalPath:
+					print("handling 4d4020cf2e9fe0b47bd47e669a5a7265 in handle_asset %s, %s" % (path, asset))
+				audioClips[finalPath] = asset
 				audioClips[path] = asset
 
 
@@ -147,20 +171,35 @@ def extract_sound_file_names(audioClips, carddef, node):
 	path = path["m_SoundSpellPaths"]
 
 	result = []
+	guid = ''
 	for playEffectPath in path:
+		# print("playEffectPath %s, %s" % (playEffectPath, path))
 		updatedPath = playEffectPath
 		if ":" in updatedPath:
 			guid = updatedPath.split(":")[1]
+			# print("guid %s" % (guid))
 			if guid in guid_to_path:
 				updatedPath = guid_to_path[guid]
+				if guid == '4d4020cf2e9fe0b47bd47e669a5a7265':
+					print("Mapped 4d4020cf2e9fe0b47bd47e669a5a7265 %s" % updatedPath)
+				# print("updatedPath %s" % (updatedPath))
 		if updatedPath and len(updatedPath) > 1:
 			if not updatedPath.startswith("final/"):
 				updatedPath = "final/" + updatedPath
 			try:
 				audioClip = audioClips[updatedPath.lower()].resolve()
 			except Exception as e:
-				print("Could not resolve audio clip %s" % e)
-				continue
+				if guid == '4d4020cf2e9fe0b47bd47e669a5a7265':
+					print("Could not resolve audio clip (%s : %s : %s : %s)" % (e, updatedPath, guid, path))
+				try :
+					hop = audioClips[guid]
+					# print("hop %s" % hop)
+					audioClip = audioClips[guid].resolve()
+				except Exception as f:
+					if guid == '4d4020cf2e9fe0b47bd47e669a5a7265':
+						print("Could not resolve audio clip from retry (%s)" % (f))
+					# print("%s %s %s %s" % "e")
+					continue
 			audioGameObject = audioClip.component[1]["component"].resolve()
 			if audioGameObject["m_CardSoundData"]["m_AudioSource"] is not None:
 				audioSource = audioGameObject["m_CardSoundData"]["m_AudioSource"].resolve()
@@ -266,10 +305,10 @@ def handle_rad_node(path, guids, names, tree, node):
 	# print("handling rad node %s" % path)
 	for leaf in node["leaves"]:
 		guid = guids[leaf["guidIndex"]]["GUID"]
-		if guid == "2506aa06cb6227c4b9ff287a0b41dc80":
-			print("GOT IT!!!!!!!!")
 		name = names[leaf["fileNameIndex"]]
 		guid_to_path[guid] = path + "/" + name
+		if guid == "4d4020cf2e9fe0b47bd47e669a5a7265":
+			print("GOT IT!!!!!!!! %s" % (guid_to_path[guid]))
 
 	for child in node["children"]:
 		handle_rad_node(path, guids, names, tree, tree[child])
@@ -278,6 +317,7 @@ def handle_rad_node(path, guids, names, tree, node):
 def handle_rad(rad):
 	print("Handling RAD")
 	guids = rad["m_guids"]
+	# print("guids %s" % guids)
 	names = rad["m_filenames"]
 	tree = rad["m_tree"]
 	handle_rad_node("", guids, names, tree, tree[0])
