@@ -2,36 +2,133 @@
 import json
 import os
 import sys
+import unitypack
 from argparse import ArgumentParser
 from PIL import Image, ImageOps
 from unitypack.environment import UnityEnvironment
+from collections import OrderedDict
+from unitypack.environment import UnityEnvironment
+from unitypack.asset import Asset
+from unitypack.object import ObjectPointer
+from unitypack.utils import extract_audioclip_samples
 
 
 guid_to_path = {}
 
 
-def handle_rad_node(path, guids, names, tree, node):
-	if len(node["folderName"]) > 0:
-		if len(path) > 0:
-			path = path + "/" + node["folderName"]
-		else:
-			path = node["folderName"]
+def main():
+	p = ArgumentParser()
+	p.add_argument("--outdir", nargs="?", default="")
+	p.add_argument("--skip-existing", action="store_true")
+	p.add_argument(
+		"--formats", nargs="*", default=["jpg", "png", "webp"],
+		help="Which image formats to generate"
+	)
+	p.add_argument("--skip-tiles", action="store_true", help="Skip tiles generation")
+	p.add_argument("--skip-thumbnails", action="store_true", help="Skip thumbnail generation")
+	p.add_argument(
+		"--only", type=str, nargs="?", help="Extract specific CardIDs (case-insensitive)"
+	)
+	p.add_argument("--orig-dir", type=str, default="orig", help="Name of output for originals")
+	p.add_argument("--tiles-dir", type=str, default="tiles", help="Name of output for tiles")
+	p.add_argument("--traceback", action="store_true", help="Raise errors during conversion")
+	p.add_argument("--json-only", action="store_true", help="Only write JSON cardinfo")
+	p.add_argument("files", nargs="+")
+	args = p.parse_args(sys.argv[1:])
 
-	for leaf in node["leaves"]:
-		guid = guids[leaf["guidIndex"]]
-		name = names[leaf["fileNameIndex"]]
-		guid_to_path[guid] = path + "/" + name
+	for file in args.files:
+		if file.endswith(".assets") or file.endswith(".asset"):
+			with open(file, "rb") as f:
+				asset = Asset.from_file(f)
+				populate_guid_to_path(asset)
+			continue
 
-	for child in node["children"]:
-		handle_rad_node(path, guids, names, tree, tree[child])
+		with open(file, "rb") as f:
+			bundle = unitypack.load(f)
+
+			for asset in bundle.assets:
+				populate_guid_to_path(asset)
+
+	filter_ids = args.only.lower().split(",") if args.only else []
+
+	cards, textures = extract_info(args.files, filter_ids)
+	paths = [card["path"] for card in cards.values()]
+	print("Found %i cards, %i textures including %i unique in use." % (
+		len(cards), len(textures), len(set(paths))
+	))
+
+	thumb_sizes = (256, 512)
+
+	for id, values in sorted(cards.items()):
+		if filter_ids and id.lower() not in filter_ids:
+			continue
+		path = values["path"]
+
+		if args.json_only:
+			tile = values["tile"]
+			d = {
+				"Name": id,
+				"PortraitPath": path,
+			}
+			if tile:
+				d["DcbTexScaleX"] = tile["m_TexEnvs"]["_MainTex"]["m_Scale"]["x"]
+				d["DcbTexScaleY"] = tile["m_TexEnvs"]["_MainTex"]["m_Scale"]["y"]
+				d["DcbTexOffsetX"] = tile["m_TexEnvs"]["_MainTex"]["m_Offset"]["x"]
+				d["DcbTexOffsetY"] = tile["m_TexEnvs"]["_MainTex"]["m_Offset"]["y"]
+				d["DcbShaderScale"] = tile["m_Floats"].get("_Scale", 1.0)
+				d["DcbShaderOffsetX"] = tile["m_Floats"].get("_OffsetX", 0.0)
+				d["DcbShaderOffsetY"] = tile["m_Floats"].get("_OffsetY", 0.0)
+			with open(id + ".json", "w") as f:
+				json.dump(d, f)
+			continue
+
+		try:
+			do_texture(path, id, textures, values, thumb_sizes, args)
+		except Exception as e:
+			sys.stderr.write("ERROR on %r (%r): %s (Use --traceback for details)\n" % (path, id, e))
+			if args.traceback:
+				raise
 
 
-def handle_rad(rad):
-	print("Handling RAD")
-	guids = rad["m_guids"]
-	names = rad["m_filenames"]
-	tree = rad["m_tree"]
-	handle_rad_node("", guids, names, tree, tree[0])
+def populate_guid_to_path(asset):
+	for id, obj in asset.objects.items():
+		try:
+			d = obj.read()
+
+			for asset_info in d["m_assets"]:
+				guid = asset_info["Guid"]
+				path = asset_info["Path"]
+				path = path.lower()
+				if guid == "6893f0e0abdd51d4888a2035ea78055f":
+					print("handling guid_to_path %s " % guid)
+				if not path.startswith("final/"):
+					path = "final/" + path
+				if not path.startswith("final/assets"):
+					print("not handling path in guid_to_path %s" % path)
+					continue
+				guid_to_path[guid] = path
+		except:
+			continue
+
+
+def extract_info(files, filter_ids):
+	textures = {}
+	cards = {}
+	env = UnityEnvironment()
+
+	for file in files:
+		f = open(file, "rb")
+		env.load(f)
+
+	for bundle in env.bundles.values():
+		for asset in bundle.assets:
+			handle_asset(asset, textures, cards, filter_ids)
+
+	for bundle in env.bundles.values():
+		for asset in bundle.assets:
+			handle_gameobject(asset, textures, cards, filter_ids)
+
+	return cards, textures
 
 
 def handle_asset(asset, textures, cards, filter_ids):
@@ -39,24 +136,25 @@ def handle_asset(asset, textures, cards, filter_ids):
 		if obj.type == "AssetBundle":
 			d = obj.read()
 			for path, obj in d["m_Container"]:
-				path = path.lower()
+				finalPath = path.lower()
 				asset = obj["asset"]
-				if path == "assets/rad/rad_base.asset":
+				if finalPath == "assets/rad/rad_base.asset" or finalPath == "assets/rad/rad_enus.asset":
 					handle_rad(asset.resolve())
-				if not path.startswith("final/"):
-					path = "final/" + path
-				if not path.startswith("final/assets"):
-					continue
+				if not finalPath.startswith("final/"):
+					finalPath = "final/" + finalPath
+				# if not finalPath.startswith("final/assets"):
+				# 	print("not handling path in handle assets %s" % finalPath)
+				# 	continue
+				textures[finalPath] = asset
 				textures[path] = asset
 
-		elif obj.type == "GameObject":
+
+def handle_gameobject(asset, textures, cards, filter_ids):
+	for obj in asset.objects.values():
+		if obj.type == "GameObject":
 			d = obj.read()
-
-			if d.name == "rad_base":
-				handle_rad(d)
-				continue
-
 			cardid = d.name
+
 			if filter_ids and cardid.lower() not in filter_ids:
 				continue
 			if cardid in ("CardDefTemplate", "HiddenCard"):
@@ -86,9 +184,9 @@ def handle_asset(asset, textures, cards, filter_ids):
 				if guid in guid_to_path:
 					path = guid_to_path[guid]
 				else:
-					print("WARN: Could not find %s in guid_to_path (path=%s)" % (guid, path))
-
-			path = "final/" + path
+					path = guid
+					if guid == "6893f0e0abdd51d4888a2035ea78055f":
+						print("WARN: Could not find %s in handle_gameobject (path=%s)" % (guid, path))
 
 			tile = carddef.get("m_DeckCardBarPortrait")
 			if tile:
@@ -99,27 +197,31 @@ def handle_asset(asset, textures, cards, filter_ids):
 			}
 
 
-def extract_info(files, filter_ids):
-	cards = {}
-	textures = {}
-	env = UnityEnvironment()
+def handle_rad_node(path, guids, names, tree, node):
+	if len(node["folderName"]) > 0:
+		if len(path) > 0:
+			path = path + "/" + node["folderName"]
+		else:
+			path = node["folderName"]
 
-	for file in files:
-		print("Reading %r" % (file))
-		f = open(file, "rb")
-		env.load(f)
+	for leaf in node["leaves"]:
+		guid = guids[leaf["guidIndex"]]["GUID"]
+		name = names[leaf["fileNameIndex"]]
+		guid_to_path[guid] = path + "/" + name
+		if guid == "6893f0e0abdd51d4888a2035ea78055f":
+			print("handling %s, %s" % (guid, name))
 
-	for bundle in env.bundles.values():
-		for asset in bundle.assets:
-			print("Parsing %r" % (asset.name))
+	for child in node["children"]:
+		handle_rad_node(path, guids, names, tree, tree[child])
 
-			try:
-				handle_asset(asset, textures, cards, filter_ids)
-			except:
-				print("could not handle %s" % (id))
-				continue
 
-	return cards, textures
+def handle_rad(rad):
+	print("Handling RAD")
+	guids = rad["m_guids"]
+	names = rad["m_filenames"]
+	tree = rad["m_tree"]
+	handle_rad_node("", guids, names, tree, tree[0])
+
 
 
 # Deck tile generation
@@ -215,13 +317,16 @@ def get_filename(basedir, dirname, name, ext=".png"):
 
 
 def do_texture(path, id, textures, values, thumb_sizes, args):
-	print("Parsing %r (%r)" % (id, path))
+	if id == "YOD_035":
+		print("Parsing %r (%r)" % (id, path))
 	if not path:
-		print("%r does not have a texture" % (id))
+		if id == "YOD_035":
+			print("%r does not have a texture" % (id))
 		return
 
 	if path not in textures:
-		print("Path %r not found for %r" % (path, id))
+		if id == "YOD_035":
+			print("Path %r not found for %r" % (path, id))
 		return
 
 	pptr = textures[path]
@@ -262,66 +367,6 @@ def do_texture(path, id, textures, values, thumb_sizes, args):
 				print("-> %r" % (filename))
 				thumb_texture.save(filename)
 
-
-def main():
-	p = ArgumentParser()
-	p.add_argument("--outdir", nargs="?", default="")
-	p.add_argument("--skip-existing", action="store_true")
-	p.add_argument(
-		"--formats", nargs="*", default=["jpg", "png", "webp"],
-		help="Which image formats to generate"
-	)
-	p.add_argument("--skip-tiles", action="store_true", help="Skip tiles generation")
-	p.add_argument("--skip-thumbnails", action="store_true", help="Skip thumbnail generation")
-	p.add_argument(
-		"--only", type=str, nargs="?", help="Extract specific CardIDs (case-insensitive)"
-	)
-	p.add_argument("--orig-dir", type=str, default="orig", help="Name of output for originals")
-	p.add_argument("--tiles-dir", type=str, default="tiles", help="Name of output for tiles")
-	p.add_argument("--traceback", action="store_true", help="Raise errors during conversion")
-	p.add_argument("--json-only", action="store_true", help="Only write JSON cardinfo")
-	p.add_argument("files", nargs="+")
-	args = p.parse_args(sys.argv[1:])
-
-	filter_ids = args.only.lower().split(",") if args.only else []
-
-	cards, textures = extract_info(args.files, filter_ids)
-	paths = [card["path"] for card in cards.values()]
-	print("Found %i cards, %i textures including %i unique in use." % (
-		len(cards), len(textures), len(set(paths))
-	))
-
-	thumb_sizes = (256, 512)
-
-	for id, values in sorted(cards.items()):
-		if filter_ids and id.lower() not in filter_ids:
-			continue
-		path = values["path"]
-
-		if args.json_only:
-			tile = values["tile"]
-			d = {
-				"Name": id,
-				"PortraitPath": path,
-			}
-			if tile:
-				d["DcbTexScaleX"] = tile["m_TexEnvs"]["_MainTex"]["m_Scale"]["x"]
-				d["DcbTexScaleY"] = tile["m_TexEnvs"]["_MainTex"]["m_Scale"]["y"]
-				d["DcbTexOffsetX"] = tile["m_TexEnvs"]["_MainTex"]["m_Offset"]["x"]
-				d["DcbTexOffsetY"] = tile["m_TexEnvs"]["_MainTex"]["m_Offset"]["y"]
-				d["DcbShaderScale"] = tile["m_Floats"].get("_Scale", 1.0)
-				d["DcbShaderOffsetX"] = tile["m_Floats"].get("_OffsetX", 0.0)
-				d["DcbShaderOffsetY"] = tile["m_Floats"].get("_OffsetY", 0.0)
-			with open(id + ".json", "w") as f:
-				json.dump(d, f)
-			continue
-
-		try:
-			do_texture(path, id, textures, values, thumb_sizes, args)
-		except Exception as e:
-			sys.stderr.write("ERROR on %r (%r): %s (Use --traceback for details)\n" % (path, id, e))
-			if args.traceback:
-				raise
 
 
 if __name__ == "__main__":
