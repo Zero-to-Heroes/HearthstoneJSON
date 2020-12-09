@@ -53,25 +53,24 @@ def populate_guid_to_path(asset, audioClips):
 			# print("m_assets %s " % d)
 
 			for asset_info in d["m_assets"]:
-				print("asset_info %s" % asset_info)
 				guid = asset_info["Guid"]
-				print("print %s" % guid)
+				# print("print %s" % guid)
 				path = asset_info["Path"]
-				print("path %s" % path)
+				# print("path %s" % path)
 				path = path.lower()
-				print("path lower %s" % path)
+				# print("path lower %s" % path)
 				if not path.startswith("final/"):
 					path = "final/" + path
 				if not path.startswith("final/assets"):
 					# print("not handling path (%s : %s)" % (path, guid))
 					continue
 				# print("handling guid in populate_guid_to_path %s : %s" % (guid, path))
-				if guid == '4d4020cf2e9fe0b47bd47e669a5a7265':
-					print("handling 4d4020cf2e9fe0b47bd47e669a5a7265 in populate_guid_to_path %s" % (path))
-				if path == "Assets/Game/Cards/021 Gilneas/GILA_612/Death.prefab":
-					print("handling path in populate_guid_to_path %s" % (path))
-				if "GILA_612" in path:
-					print("handling GILA_612 in populate_guid_to_path %s, %s" % (guid, path))
+				# if guid == '4d4020cf2e9fe0b47bd47e669a5a7265':
+				# 	print("handling 4d4020cf2e9fe0b47bd47e669a5a7265 in populate_guid_to_path %s" % (path))
+				# if path == "Assets/Game/Cards/021 Gilneas/GILA_612/Death.prefab":
+				# 	print("handling path in populate_guid_to_path %s" % (path))
+				# if "GILA_612" in path:
+				# 	print("handling GILA_612 in populate_guid_to_path %s, %s" % (guid, path))
 				guid_to_path[guid] = path
 				audioClips[path] = asset_info
 		except Exception as e:
@@ -111,21 +110,12 @@ def handle_asset(asset, audioClips, cards):
 					handle_rad(asset.resolve())
 				if not finalPath.startswith("final/"):
 					finalPath = "final/" + finalPath
-				# print("handling path in handle_asset %s, %s" % (path.lower(), finalPath))
-				# try:
-				# 	print("path for %s " % guid_to_path[path.lower()])
-				# except:
-				# 	print("do nothing")
-				# if not finalPath.startswith("final/assets"):
-					# print("not handling path in handle_asset %s" % finalPath)
-					# continue
-
-				if path == "Assets/Game/Cards/021 Gilneas/GILA_612/Death.prefab":
-					print("handling path in handle_asset %s" % (path))
-				if "GILA_612" in path:
-					print("handling GILA_612 in handle_asset %s" % (path))
-				if "4d4020cf2e9fe0b47bd47e669a5a7265" in finalPath:
-					print("handling 4d4020cf2e9fe0b47bd47e669a5a7265 in handle_asset %s, %s" % (path, asset))
+				# if path == "Assets/Game/Cards/021 Gilneas/GILA_612/Death.prefab":
+				# 	print("handling path in handle_asset %s" % (path))
+				# if "GILA_612" in path:
+				# 	print("handling GILA_612 in handle_asset %s" % (path))
+				# if "4d4020cf2e9fe0b47bd47e669a5a7265" in finalPath:
+				# 	print("handling 4d4020cf2e9fe0b47bd47e669a5a7265 in handle_asset %s, %s" % (path, asset))
 				audioClips[finalPath] = asset
 				audioClips[path] = asset
 
@@ -180,8 +170,6 @@ def extract_sound_file_names(audioClips, carddef, node):
 			# print("guid %s" % (guid))
 			if guid in guid_to_path:
 				updatedPath = guid_to_path[guid]
-				if guid == '4d4020cf2e9fe0b47bd47e669a5a7265':
-					print("Mapped 4d4020cf2e9fe0b47bd47e669a5a7265 %s" % updatedPath)
 				# print("updatedPath %s" % (updatedPath))
 		if updatedPath and len(updatedPath) > 1:
 			if not updatedPath.startswith("final/"):
@@ -317,7 +305,6 @@ def handle_rad_node(path, guids, names, tree, node):
 def handle_rad(rad):
 	print("Handling RAD")
 	guids = rad["m_guids"]
-	# print("guids %s" % guids)
 	names = rad["m_filenames"]
 	tree = rad["m_tree"]
 	handle_rad_node("", guids, names, tree, tree[0])
