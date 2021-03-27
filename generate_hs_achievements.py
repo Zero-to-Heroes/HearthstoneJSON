@@ -4,12 +4,10 @@ import os
 import sys
 from argparse import ArgumentParser
 
-import yaml
-
 import unitypack
+import yaml
 from unitypack.asset import Asset
 from unitypack.object import ObjectPointer
-
 
 
 def main():
@@ -70,32 +68,36 @@ def handle_asset(asset):
 		if isinstance(d, dict):
 			# print("is dict! %s: %s" % (id, d))
 			if "m_Name" in d and d["m_Name"] is not "":
-				print("name %s" % d["m_Name"])
 				if d["m_Name"] == "ACHIEVEMENT":
+					print("name %s" % d["m_Name"])
 					records = d["Records"]
 					result["achievements"] = handle_records(records, "achievement")
 					if is_complete(result):
 						print("job's done")
 						return result
 				if d["m_Name"] == "ACHIEVEMENT_SECTION":
+					print("name %s" % d["m_Name"])
 					records = d["Records"]
 					result["sections"] = handle_records(records, "section")
 					if is_complete(result):
 						print("job's done")
 						return result
 				if d["m_Name"] == "ACHIEVEMENT_SECTION_ITEM":
+					print("name %s" % d["m_Name"])
 					records = d["Records"]
 					result["sectionItems"] = handle_records(records, "section-item")
 					if is_complete(result):
 						print("job's done")
 						return result
 				if d["m_Name"] == "ACHIEVEMENT_CATEGORY":
+					print("name %s" % d["m_Name"])
 					records = d["Records"]
 					result["categories"] = handle_records(records, "category")
 					if is_complete(result):
 						print("job's done")
 						return result
 				if d["m_Name"] == "ACHIEVEMENT_SUBCATEGORY":
+					print("name %s" % d["m_Name"])
 					records = d["Records"]
 					result["subCategories"] = handle_records(records, "subcategory")
 					if is_complete(result):
@@ -109,7 +111,7 @@ def handle_asset(asset):
 
 
 def is_complete(result):
-	print("is complete? %s" % ("achievements" in result))
+	# print("is complete? %s" % ("achievements" in result))
 	return ("achievements" in result) and ("sections" in result) and ("sectionItems" in result) and ("categories" in result) and ("subCategories" in result)
 
 
@@ -121,21 +123,24 @@ def handle_records(records, blockType):
 
 
 def handle_record(record, blockType):
-	# print("handling achievement %s" % record["m_name"]["m_locValues"][0])
+	result = {}
 	if blockType == "achievement":
-		result = {
-			"id": record["m_ID"],
-			"sectionId": record["m_achievementSectionId"],
-			"sortOrder": record["m_sortOrder"],
-			"enabled": record["m_enabled"],
-			"name": record["m_name"]["m_locValues"][0],
-			"description": record["m_description"]["m_locValues"][0],
-			"quota": record["m_quota"],
-			"points": record["m_points"],
-			"rewardTrackXp": record["m_rewardTrackXp"],
-			"rewardListId": record["m_rewardListId"],
-			"nextTierId": record["m_nextTierId"],
-		}
+		try:
+			result = {
+				"id": record["m_ID"],
+				"sectionId": record["m_achievementSectionId"],
+				"sortOrder": record["m_sortOrder"],
+				"enabled": record["m_enabled"],
+				"name": record["m_name"]["m_locValues"][0],
+				"description": record["m_description"]["m_locValues"][0],
+				"quota": record["m_quota"],
+				"points": record["m_points"],
+				"rewardTrackXp": record["m_rewardTrackXp"],
+				"rewardListId": record["m_rewardListId"],
+				"nextTierId": record["m_nextTierId"],
+			}
+		except Exception as e:
+			print("could not process achievement %s, %s, %s, %s, %s" % (record["m_ID"], record["m_achievementSectionId"], record["m_name"], record["m_description"], e))
 	elif blockType == "section-item":
 		result = {
 			"id": record["m_ID"],
