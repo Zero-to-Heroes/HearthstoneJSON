@@ -1,5 +1,3 @@
-# Ultimately not needed, because we can use Blizzard's API for that
-
 #!/usr/bin/env python
 import json
 import os

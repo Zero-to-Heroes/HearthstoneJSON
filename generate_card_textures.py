@@ -2,16 +2,15 @@
 import json
 import os
 import sys
-import unitypack
 from argparse import ArgumentParser
-from PIL import Image, ImageOps
-from unitypack.environment import UnityEnvironment
 from collections import OrderedDict
-from unitypack.environment import UnityEnvironment
+
+import unitypack
+from PIL import Image, ImageOps
 from unitypack.asset import Asset
+from unitypack.environment import UnityEnvironment
 from unitypack.object import ObjectPointer
 from unitypack.utils import extract_audioclip_samples
-
 
 guid_to_path = {}
 
@@ -317,16 +316,10 @@ def get_filename(basedir, dirname, name, ext=".png"):
 
 
 def do_texture(path, id, textures, values, thumb_sizes, args):
-	if id == "YOD_035":
-		print("Parsing %r (%r)" % (id, path))
 	if not path:
-		if id == "YOD_035":
-			print("%r does not have a texture" % (id))
 		return
 
 	if path not in textures:
-		if id == "YOD_035":
-			print("Path %r not found for %r" % (path, id))
 		return
 
 	pptr = textures[path]
