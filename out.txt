@@ -1,0 +1,658 @@
+!!python/object/apply:collections.OrderedDict
+- - - m_ID
+    - 0
+  - - m_cardId
+    - 46996
+  - - m_cardSetId
+    - 1125
+  - - m_eventTimingEvent
+    - pre_set_rotation_2019
+
+!!python/object/apply:collections.OrderedDict
+- - - m_ID
+    - 0
+  - - m_cardId
+    - 46996
+  - - m_cardSetId
+    - 4
+  - - m_eventTimingEvent
+    - post_set_rotation_2019
+
+Handling tag: 199, 12
+Handling tag: 203, 3
+Handling tag: 202, 4
+Handling tag: 48, 3
+Handling tag: 47, 4
+Handling tag: 45, 6
+Handling tag: 200, 14
+Handling tag: 114, 0
+Handling tag: 201, 3
+Handling tag: 251, 6
+Handling tag: 330, 0
+Handling tag: 331, 0
+Handling tag: 218, 1
+Handling tag: 1440, 2
+considering DS1h_292, 1, <b>Hero Power</b>
+Deal $2 damage to the enemy hero.@<b>Hero Power</b>
+Deal $2 damage.
+considering AT_132_HUNTER, 1, <b>Hero Power</b>
+Deal $3 damage to the enemy hero.@<b>Hero Power</b>
+Deal $3 damage.
+considering DS1h_292_H1, 1, <b>Hero Power</b>
+Deal $2 damage to the enemy hero.@<b>Hero Power</b>
+Deal $2 damage.
+considering DS1h_292_H1_AT_132, 1, <b>Hero Power</b>
+Deal $3 damage to the enemy hero.@<b>Hero Power</b>
+Deal $3 damage.
+considering CFM_602, 1, <b>Choose One -</b> Summon a{1} {0} <b>Jade Golem</b>; or Shuffle 3 copies of this card into your deck.@<b>Choose One -</b> Summon a <b>Jade Golem</b>; or Shuffle 3 copies of this card into your deck.
+considering CFM_312, 1, <b>Battlecry:</b> Summon a{1} {0} <b>Jade Golem</b>. Give it <b>Taunt</b>. @<b>Battlecry:</b> Summon a <b>Jade Golem</b>. Give it <b>Taunt</b>.
+considering CFM_707, 1, Deal $4 damage. Summon a{1} {0} <b>Jade Golem</b>.@Deal $4 damage. Summon a <b>Jade Golem</b>.
+considering CFM_713, 1, Summon a{1} {0} <b>Jade Golem</b>. Gain an empty Mana Crystal.@Summon a <b>Jade Golem</b>. Gain an empty Mana Crystal.
+considering CFM_715, 1, <b>Battlecry:</b> Summon a{1} {0} <b>Jade Golem</b>.@<b>Battlecry:</b> Summon a <b>Jade Golem</b>.
+considering CFM_717, 1, <b>Battlecry:</b> Summon a{1} {0} <b>Jade Golem</b>.
+<b><b>Overload</b>:</b> (1)@<b>Battlecry:</b> Summon a <b>Jade Golem</b>.
+<b><b>Overload</b>:</b> (1)
+considering CFM_902, 1, <b>Battlecry and Deathrattle:</b> Summon a{1} {0} <b>Jade Golem</b>. @ <b>Battlecry and Deathrattle:</b> Summon a <b>Jade Golem</b>.
+considering CFM_691, 1, <b>Stealth</b>
+<b>Deathrattle:</b> Summon a{1} {0} <b>Jade Golem</b>.@<b>Stealth</b>
+<b>Deathrattle:</b> Summon a <b>Jade Golem</b>.
+considering CFM_690, 1, Deal $2 damage.
+<b>Combo:</b> Summon a{1} {0} <b>Jade Golem</b>.@Deal $2 damage.
+<b>Combo:</b> Summon a <b>Jade Golem</b>.
+considering CFM_343, 1, [x]<b>Taunt</b>
+<b>Battlecry:</b> Summon a{1}
+{0} <b>Jade Golem</b>.@[x]<b>Taunt</b>
+<b>Battlecry:</b> Summon a
+<b>Jade Golem</b>.
+considering CFM_621t21, 1, Transform a random enemy minion into a 1/1 Sheep.@Polymorph a random enemy minion.
+considering TB_BossRumble_002hp, 1, <b>Hero Power</b>
+Summon a {0} <b>Jade Golem</b>.@Summon a <b>Jade Golem</b>.
+considering LOOT_051, 1, Deal $2 damage to a minion. @<i>(Gain 3 Armor to upgrade.)</i>
+considering LOOT_051t1, 1, Deal $4 damage to a minion. @
+considering LOOT_064, 1, Summon 1 copy of a friendly minion. @<i>(<b>Overload</b> 3 Mana Crystals to upgrade.)</i>
+considering LOOT_064t1, 1, Summon 2 copies of a friendly minion. @
+considering LOOT_091t1, 1, Summon a 4/4 Spirit with <b>Taunt</b>. @
+considering LOOT_091, 1, Summon a 2/2 Spirit with <b>Taunt</b>. @<i>(Restore 3 Health to upgrade.)</i>
+considering LOOT_103t1, 1, Add 2 random Mage spells to your hand.
+@
+considering LOOT_103, 1, Add 1 random Mage spell to your hand. @<i>(Play 2 Elementals to upgrade.)</i>
+considering ICC_047t, 2, <b>Secret Deathrattle:</b> Deal 3 damage to all minions; or Give them +2/+2.@<b>Secret Deathrattle:</b> Give +2/+2 to all minions.@<b>Secret Deathrattle:</b> Deal 3 damage to all minions.
+considering ICCA08_030p, 1, <b>Hero Power</b>
+Deal @ damage to the enemy hero. +1 Damage each time.
+considering ICC_828t2, 1, <b>Taunt</b>
+  <b>Poisonous</b>@<b>Taunt</b>, <b>Poisonous</b>
+considering LOOT_503, 1, Destroy 1 random enemy minion.
+@<i>(Play 3 <b>Deathrattle</b> cards to upgrade.)</i>
+considering LOOT_503t, 1, Destroy up to 2 random enemy minions.
+@
+considering LOOT_507, 1, Resurrect 2 different friendly minions. @<i>(Cast 4 spells to upgrade.)</i>
+considering LOOT_507t, 1, Resurrect 3 different friendly minions. @
+considering LOOTA_817, 1, [x]<b>Adapt</b> a friendly minion.
+Repeat for each boss
+you've defeated this run.@<b>Adapt</b> a friendly minion {0} |4(time, times).
+considering FB_LK005, 1, <b>Hero Power</b>
+Deal @ damage to the enemy hero. +1 Damage each time.
+considering ICC_828t3, 1, <b>Stealth</b>
+ <b>Poisonous</b>@<b>Stealth</b>, <b>Poisonous</b>
+considering GILA_601, 1, Deal @ damage to the enemies opposite of this minion.
+considering LOOT_526d, 1, @
+considering TRL_316, 2, [x]<b>Battlecry:</b> If your Hero Power
+dealt 8 damage this game,
+summon Ragnaros the
+Firelord.@ <i>({0} left!)</i>@ <i>(Ready!)</i>
+considering ICC_828t4, 1, <b>Divine Shield</b>
+ <b>Poisonous</b>@<b>Divine Shield</b>, <b>Poisonous</b>
+considering ICC_828t5, 1, <b>Echo</b>
+<b>Rush</b>@<b>Echo</b>, <b>Rush</b>
+considering ICC_828t6, 1, <b>Poisonous</b>
+<b>Rush</b>@<b>Poisonous</b>, <b>Rush</b>
+considering ICC_828t7, 1, <b>Lifesteal</b>
+<b>Rush</b>@<b>Lifesteal</b>, <b>Rush</b>
+considering TRL_545, 2, [x]<b>Battlecry:</b> If you've restored
+10 Health this game, gain
++4/+4 and <b>Taunt</b>.@ <i>({0} left!)</i>@ <i>(Ready!)</i>
+considering TOT_109t, 1, @
+considering DAL_007, 1, Summon @ 1/1 |4(Imp, Imps). <i>(Upgrades each turn!)</i>
+considering DAL_008, 1, Gain @ Armor.
+<i>(Upgrades each turn!)</i>
+considering DAL_009, 1, Deal $@ damage
+to all minions.
+<i>(Upgrades each turn!)</i>
+considering DAL_010, 1, Choose a minion. Shuffle @ |4(copy, copies) of it into your deck.
+<i>(Upgrades each turn!)</i>
+considering DAL_011, 1, Reduce the Attack of an enemy minion by
+@ until your next turn. <i>(Upgrades each turn!)</i>
+considering DAL_357t, 1, When you restore 5 Health, awaken this minion.
+<i>(@ left!)</i>
+considering DAL_799, 2, <b>Rush</b>. <b>Battlecry:</b> If you've restored 5 Health this game, summon a copy of this.@ <i>({0} left!)</i>@ <i>(Ready!)</i>
+considering TRLA_065p, 1, <b>Hero Power</b>
+Deal $2 damage to the enemy hero.@<b>Hero Power</b>
+Deal $2 damage.
+considering DALA_BOSS_07p, 1, [x]<b>Passive Hero Power</b>
+After taking 15 damage,
+Belnaara will take flight.
+<i>(@ damage remaining)</i>
+considering DALA_BOSS_45p, 1, [x]<b>Hero Power</b>
+Deal @ damage to
+the enemy hero.
+<i>(increases each use)</i>
+considering DALA_BOSS_69p, 1, <b>Hero Power</b>
+Give your Hero
+<b>Spell Damage +1</b>.
+<i>(+@ currently)</i>
+considering DALA_726, 4, [x]Deal $@ damage. Draw
+@ |4(card, cards). Gain @ Armor.
+Summon @ <b>Boom |4(Bot, Bots)</b>.
+<i>(Upgrades each turn!)</i>
+considering DALA_BOSS_45px, 1, [x]<b>Hero Power</b>
+Deal @ damage to
+the enemy hero.
+<i>(increases each use)</i>
+considering DALA_BOSS_69px, 1, <b>Hero Power</b>
+Give your Hero
+<b>Spell Damage +1</b>.
+<i>(+@ currently)</i>
+considering ULDA_804t, 1, When @ friendly minions die, summon a random minion.
+considering DALA_BOSS_07p2, 1, [x]<b>Passive Hero Power</b>
+Belnaara will land in 2 turns.
+<i>(@ turns remaining)</i>
+considering ULDA_301, 1, <b>Discover</b> a card and gain a Mana Crystal for each <b>Boss</b> you've defeated this run.@<b>Discover</b> {0} |4(card, cards).
+Gain {0} Mana |4(Crystal, Crystals).
+considering ULDA_302, 1, [x]<b>Start of Game:</b> Draw this.
+Gain @ Mana |4(Crystal, Crystals).
+<i>(Upgrades each time
+a friendly minion dies)</i>.
+considering ULDA_BOSS_03p, 2, [x]<b>Passive Hero Power</b>
+After you play a <b>Lackey</b>, give it
++@/+@ <i>(upgrades each time
+you play a <b>Lackey</b>)</i>.
+considering ULDA_BOSS_52p1, 1, [x]<b>Hero Power</b>
+Restore $@ Health to your
+Hero. Reduce by 1 for every
+  friendly minion that dies. 
+considering ULDA_BOSS_60p, 1, [x]<b>Hero Power</b>
+Deal $@ damage to a random
+enemy <i>(upgrades whenever a
+friendly minion dies)</i>.
+considering ULDA_BOSS_75p, 1, [x]<b>Hero Power</b>
+Deal $@ damage to a minion and
+gain 1 bonus damage. If it dies,
+lose all bonus damage.
+considering DRG_600, 1, [x]<b>Battlecry:</b> Summon
+1 random Demon.
+<i>(@)</i>
+considering DRG_600t2, 1, [x]<b>Battlecry:</b> Summon
+2 random Demons.
+<i>(@)</i>
+considering DRG_650, 1, [x]<b>Battlecry:</b> Draw 1 minion.
+Give it +4/+4.
+<i>(@)</i>
+considering DRG_650t2, 1, [x]<b>Battlecry:</b> Draw 2 minions.
+Give them +4/+4.
+<i>(@)</i>
+considering DRG_660, 1, [x]<b>Battlecry:</b> Destroy 1
+random enemy minion.
+<i>(@)</i>
+considering DRG_660t2, 1, [x]<b>Battlecry:</b> Destroy 2
+random enemy minions.
+<i>(@)</i>
+considering DRG_610, 1, [x]<b>Battlecry:</b> Draw 1 card.
+It costs (0).
+<i>(@)</i>
+considering DRG_610t2, 1, [x]<b>Battlecry:</b> Draw 2 cards.
+They cost (0).
+<i>(@)</i>
+considering DRG_620, 1, [x]<b>Battlecry:</b> Summon two
+2/2 Storms with <b>Rush</b>.
+<i>(@)</i>
+considering DRG_620t2, 1, [x]<b>Battlecry:</b> Summon two
+4/4 Storms with <b>Rush</b>.
+<i>(@)</i>
+considering ULDA_207, 1, [x]Deal $@ damage split
+randomly among all enemies
+<i>(improves for each spell
+you've cast this game)</i>.
+considering ULDA_204, 1, Deal $@ damage.
+<b>Combo:</b> Shuffle a copy of this card into your deck that deals 2 more damage.
+considering DS1h_292_H2, 1, <b>Hero Power</b>
+Deal $2 damage to the enemy hero.@<b>Hero Power</b>
+Deal $2 damage.
+considering TB_LEAGUE_REVIVAL_RenoAIHp, 1, <b>Hero Power</b>
+Randomly deal @ damage. (Increases Each Turn!)
+considering ULDA_BOSS_60px, 1, [x]<b>Hero Power</b>
+Deal $@ damage to a random
+enemy <i>(upgrades whenever a
+friendly minion dies)</i>.
+considering ULDA_BOSS_75px, 1, [x]<b>Hero Power</b>
+Deal $@ damage to a minion and
+gain 2 bonus damage. If it dies,
+lose all bonus damage.
+considering TB_BaconShop_Triples_01, 1, <b>Discover</b> a minion
+from <b>Tavern Tier @</b>.
+considering DRG_086e, 1, It's a mystery...@{0} is inside! <i>(Only you can see this.)</i>
+considering TB_BaconShop_HP_047t, 1, <b>Discover</b> a minion
+from <b>Tavern Tier @</b>.
+considering DS1h_292_H3, 1, <b>Hero Power</b>
+Deal $2 damage to the enemy hero.@<b>Hero Power</b>
+Deal $2 damage.
+considering AT_132_HUNTER_H1, 1, <b>Hero Power</b>
+Deal $3 damage to the enemy hero.@<b>Hero Power</b>
+Deal $3 damage.
+considering DS1h_292_H3_AT_132, 1, <b>Hero Power</b>
+Deal $3 damage to the enemy hero.@<b>Hero Power</b>
+Deal $3 damage.
+considering HERO_05bp, 1, <b>Hero Power</b>
+Deal $2 damage to the enemy hero.@<b>Hero Power</b>
+Deal $2 damage.
+considering HERO_05bp2, 1, <b>Hero Power</b>
+Deal $3 damage to the enemy hero.@<b>Hero Power</b>
+Deal $3 damage.
+considering DS1h_292_H1, 1, <b>Hero Power</b>
+Deal $2 damage to the enemy hero.@<b>Hero Power</b>
+Deal $2 damage.
+considering DS1h_292_H1_AT_132, 1, <b>Hero Power</b>
+Deal $3 damage to the enemy hero.@<b>Hero Power</b>
+Deal $3 damage.
+considering CFM_602, 1, <b>Choose One -</b> Summon a{1} {0} <b>Jade Golem</b>; or Shuffle 3 copies of this card into your deck.@<b>Choose One -</b> Summon a <b>Jade Golem</b>; or Shuffle 3 copies of this card into your deck.
+considering CFM_312, 1, <b>Battlecry:</b> Summon a{1} {0} <b>Jade Golem</b>. Give it <b>Taunt</b>. @<b>Battlecry:</b> Summon a <b>Jade Golem</b>. Give it <b>Taunt</b>.
+considering CFM_707, 1, Deal $4 damage. Summon a{1} {0} <b>Jade Golem</b>.@Deal $4 damage. Summon a <b>Jade Golem</b>.
+considering CFM_713, 1, Summon a{1} {0} <b>Jade Golem</b>. Gain an empty Mana Crystal.@Summon a <b>Jade Golem</b>. Gain an empty Mana Crystal.
+considering CFM_715, 1, <b>Battlecry:</b> Summon a{1} {0} <b>Jade Golem</b>.@<b>Battlecry:</b> Summon a <b>Jade Golem</b>.
+considering CFM_717, 1, <b>Battlecry:</b> Summon a{1} {0} <b>Jade Golem</b>.
+<b><b>Overload</b>:</b> (1)@<b>Battlecry:</b> Summon a <b>Jade Golem</b>.
+<b><b>Overload</b>:</b> (1)
+considering CFM_902, 1, <b>Battlecry and Deathrattle:</b> Summon a{1} {0} <b>Jade Golem</b>. @ <b>Battlecry and Deathrattle:</b> Summon a <b>Jade Golem</b>.
+considering CFM_691, 1, <b>Stealth</b>
+<b>Deathrattle:</b> Summon a{1} {0} <b>Jade Golem</b>.@<b>Stealth</b>
+<b>Deathrattle:</b> Summon a <b>Jade Golem</b>.
+considering CFM_690, 1, Deal $2 damage.
+<b>Combo:</b> Summon a{1} {0} <b>Jade Golem</b>.@Deal $2 damage.
+<b>Combo:</b> Summon a <b>Jade Golem</b>.
+considering CFM_343, 1, [x]<b>Taunt</b>
+<b>Battlecry:</b> Summon a{1}
+{0} <b>Jade Golem</b>.@[x]<b>Taunt</b>
+<b>Battlecry:</b> Summon a
+<b>Jade Golem</b>.
+considering CFM_621t21, 1, Transform a random enemy minion into a 1/1 Sheep.@Polymorph a random enemy minion.
+considering TB_BossRumble_002hp, 1, <b>Hero Power</b>
+Summon a {0} <b>Jade Golem</b>.@Summon a <b>Jade Golem</b>.
+considering LOOT_051, 1, Deal $2 damage to a minion. @<i>(Gain 3 Armor to upgrade.)</i>
+considering LOOT_051t1, 1, Deal $4 damage to a minion. @
+considering LOOT_064, 1, Summon 1 copy of a friendly minion. @<i>(<b>Overload</b> 3 Mana Crystals to upgrade.)</i>
+considering LOOT_064t1, 1, Summon 2 copies of a friendly minion. @
+considering LOOT_091t1, 1, Summon a 4/4 Spirit with <b>Taunt</b>. @
+considering LOOT_091, 1, Summon a 2/2 Spirit with <b>Taunt</b>. @<i>(Restore 3 Health to upgrade.)</i>
+considering LOOT_103t1, 1, Add 2 random Mage spells to your hand.
+@
+considering LOOT_103, 1, Add 1 random Mage spell to your hand. @<i>(Play 2 Elementals to upgrade.)</i>
+considering ICC_047t, 2, <b>Secret Deathrattle:</b> Deal 3 damage to all minions; or Give them +2/+2.@<b>Secret Deathrattle:</b> Give +2/+2 to all minions.@<b>Secret Deathrattle:</b> Deal 3 damage to all minions.
+considering ICCA08_030p, 1, <b>Hero Power</b>
+Deal @ damage to the enemy hero. +1 Damage each time.
+considering ICC_828t2, 1, <b>Taunt</b>
+  <b>Poisonous</b>@<b>Taunt</b>, <b>Poisonous</b>
+considering LOOT_503, 1, Destroy 1 random enemy minion.
+@<i>(Play 3 <b>Deathrattle</b> cards to upgrade.)</i>
+considering LOOT_503t, 1, Destroy up to 2 random enemy minions.
+@
+considering LOOT_507, 1, Resurrect 2 different friendly minions. @<i>(Cast 4 spells to upgrade.)</i>
+considering LOOT_507t, 1, Resurrect 3 different friendly minions. @
+considering LOOTA_817, 1, [x]<b>Adapt</b> a friendly minion.
+Repeat for each boss
+you've defeated this run.@<b>Adapt</b> a friendly minion {0} |4(time, times).
+considering FB_LK005, 1, <b>Hero Power</b>
+Deal @ damage to the enemy hero. +1 Damage each time.
+considering ICC_828t3, 1, <b>Stealth</b>
+ <b>Poisonous</b>@<b>Stealth</b>, <b>Poisonous</b>
+considering GILA_601, 1, Deal @ damage to the enemies opposite of this minion.
+considering LOOT_526d, 1, @
+considering TRL_316, 2, [x]<b>Battlecry:</b> If your Hero Power
+dealt 8 damage this game,
+summon Ragnaros the
+Firelord.@ <i>({0} left!)</i>@ <i>(Ready!)</i>
+considering ICC_828t4, 1, <b>Divine Shield</b>
+ <b>Poisonous</b>@<b>Divine Shield</b>, <b>Poisonous</b>
+considering ICC_828t5, 1, <b>Echo</b>
+<b>Rush</b>@<b>Echo</b>, <b>Rush</b>
+considering ICC_828t6, 1, <b>Poisonous</b>
+<b>Rush</b>@<b>Poisonous</b>, <b>Rush</b>
+considering ICC_828t7, 1, <b>Lifesteal</b>
+<b>Rush</b>@<b>Lifesteal</b>, <b>Rush</b>
+considering TRL_545, 2, [x]<b>Battlecry:</b> If you've restored
+10 Health this game, gain
++4/+4 and <b>Taunt</b>.@ <i>({0} left!)</i>@ <i>(Ready!)</i>
+considering TOT_109t, 1, @
+considering DAL_007, 1, Summon @ 1/1 |4(Imp, Imps). <i>(Upgrades each turn!)</i>
+considering DAL_008, 1, Gain @ Armor.
+<i>(Upgrades each turn!)</i>
+considering DAL_009, 1, Deal $@ damage
+to all minions.
+<i>(Upgrades each turn!)</i>
+considering DAL_010, 1, Choose a minion. Shuffle @ |4(copy, copies) of it into your deck.
+<i>(Upgrades each turn!)</i>
+considering DAL_011, 1, Reduce the Attack of an enemy minion by
+@ until your next turn. <i>(Upgrades each turn!)</i>
+considering DAL_357t, 1, <b>Dormant</b>
+When you restore 5 Health, awaken this minion.
+<i>(@ left!)</i>
+considering DAL_799, 2, <b>Rush</b>. <b>Battlecry:</b> If you've restored 5 Health this game, summon a copy of this.@ <i>({0} left!)</i>@ <i>(Ready!)</i>
+considering TRLA_065p, 1, <b>Hero Power</b>
+Deal $2 damage to the enemy hero.@<b>Hero Power</b>
+Deal $2 damage.
+considering DALA_BOSS_07p, 1, [x]<b>Passive Hero Power</b>
+After taking 15 damage,
+Belnaara will take flight.
+<i>(@ damage remaining)</i>
+considering DALA_BOSS_45p, 1, [x]<b>Hero Power</b>
+Deal @ damage to
+the enemy hero.
+<i>(increases each use)</i>
+considering DALA_BOSS_69p, 1, <b>Hero Power</b>
+Give your Hero
+<b>Spell Damage +1</b>.
+<i>(+@ currently)</i>
+considering DALA_726, 4, [x]Deal $@ damage. Draw
+@ |4(card, cards). Gain @ Armor.
+Summon @ <b>Boom |4(Bot, Bots)</b>.
+<i>(Upgrades each turn!)</i>
+considering DALA_BOSS_45px, 1, [x]<b>Hero Power</b>
+Deal @ damage to
+the enemy hero.
+<i>(increases each use)</i>
+considering DALA_BOSS_69px, 1, <b>Hero Power</b>
+Give your Hero
+<b>Spell Damage +1</b>.
+<i>(+@ currently)</i>
+considering ULDA_804t, 1, When @ friendly minions die, summon a random minion.
+considering DALA_BOSS_07p2, 1, [x]<b>Passive Hero Power</b>
+Belnaara will land in 2 turns.
+<i>(@ turns remaining)</i>
+considering ULDA_301, 1, <b>Discover</b> a card and gain a Mana Crystal for each <b>Boss</b> you've defeated this run.@<b>Discover</b> {0} |4(card, cards).
+Gain {0} Mana |4(Crystal, Crystals).
+considering ULDA_302, 1, [x]<b>Start of Game:</b> Draw this.
+Gain @ Mana |4(Crystal, Crystals).
+<i>(Upgrades each time
+a friendly minion dies)</i>.
+considering ULDA_BOSS_03p, 2, [x]<b>Passive Hero Power</b>
+After you play a <b>Lackey</b>, give it
++@/+@ <i>(upgrades each time
+you play a <b>Lackey</b>)</i>.
+considering ULDA_BOSS_52p1, 1, [x]<b>Hero Power</b>
+Restore $@ Health to your
+Hero. Reduce by 1 for every
+  friendly minion that dies. 
+considering ULDA_BOSS_60p, 1, [x]<b>Hero Power</b>
+Deal $@ damage to a random
+enemy <i>(upgrades whenever a
+friendly minion dies)</i>.
+considering ULDA_BOSS_75p, 1, [x]<b>Hero Power</b>
+Deal $@ damage to a minion and
+gain 1 bonus damage. If it dies,
+lose all bonus damage.
+considering DRG_600, 1, [x]<b>Battlecry:</b> Summon
+1 random Demon.
+<i>(@)</i>
+considering DRG_600t2, 1, [x]<b>Battlecry:</b> Summon
+2 random Demons.
+<i>(@)</i>
+considering DRG_650, 1, [x]<b>Battlecry:</b> Draw 1 minion.
+Give it +4/+4.
+<i>(@)</i>
+considering DRG_650t2, 1, [x]<b>Battlecry:</b> Draw 2 minions.
+Give them +4/+4.
+<i>(@)</i>
+considering DRG_660, 1, [x]<b>Battlecry:</b> Destroy 1
+random enemy minion.
+<i>(@)</i>
+considering DRG_660t2, 1, [x]<b>Battlecry:</b> Destroy 2
+random enemy minions.
+<i>(@)</i>
+considering DRG_610, 1, [x]<b>Battlecry:</b> Draw 1 card.
+It costs (0).
+<i>(@)</i>
+considering DRG_610t2, 1, [x]<b>Battlecry:</b> Draw 2 cards.
+They cost (0).
+<i>(@)</i>
+considering DRG_620, 1, [x]<b>Battlecry:</b> Summon two
+2/2 Storms with <b>Rush</b>.
+<i>(@)</i>
+considering DRG_620t2, 1, [x]<b>Battlecry:</b> Summon two
+4/4 Storms with <b>Rush</b>.
+<i>(@)</i>
+considering ULDA_207, 1, [x]Deal $@ damage split
+randomly among all enemies
+<i>(improves for each spell
+you've cast this game)</i>.
+considering ULDA_204, 1, Deal $@ damage.
+<b>Combo:</b> Shuffle a copy of this card into your deck that deals 2 more damage.
+considering DS1h_292_H2, 1, <b>Hero Power</b>
+Deal $2 damage to the enemy hero.@<b>Hero Power</b>
+Deal $2 damage.
+considering TB_LEAGUE_REVIVAL_RenoAIHp, 1, <b>Hero Power</b>
+Randomly deal @ damage. (Increases Each Turn!)
+considering BT_481, 1, [x]<b>Battlecry:</b> Summon two
+random @-Cost minions.
+<i>(Upgrades each time a
+friendly minion dies!)</i>
+considering DRGA_BOSS_31t, 1, [x]<b>Auto-Attack:</b> Deal @
+damage to enemies
+opposite this minion.
+<i>(Increases each turn!)</i>
+considering ULDA_BOSS_60px, 1, [x]<b>Hero Power</b>
+Deal $@ damage to a random
+enemy <i>(upgrades whenever a
+friendly minion dies)</i>.
+considering ULDA_BOSS_75px, 1, [x]<b>Hero Power</b>
+Deal $@ damage to a minion and
+gain 2 bonus damage. If it dies,
+lose all bonus damage.
+considering TB_BaconShop_Triples_01, 1, <b>Discover</b> a minion
+from <b>Tavern Tier @</b>.
+considering DRG_086e, 1, It's a mystery...@{0} is inside! <i>(Only you can see this.)</i>
+considering SCH_703, 2, <b>Battlecry:</b> For each Soul Fragment in your deck, summon a 3/3 Soul with <b>Rush</b>.@ <i>(@)</i>
+considering SCH_351e, 1, This might be an illusion that dies when it takes damage.@{0}
+considering TB_BaconShop_HP_047t, 1, <b>Discover</b> a minion
+from <b>Tavern Tier @</b>.
+considering DS1h_292_H3, 1, <b>Hero Power</b>
+Deal $2 damage to the enemy hero.@<b>Hero Power</b>
+Deal $2 damage.
+considering AT_132_HUNTER_H1, 1, <b>Hero Power</b>
+Deal $3 damage to the enemy hero.@<b>Hero Power</b>
+Deal $3 damage.
+considering DMF_004, 2, [x]<b>Battlecry:</b> If you've cast
+10 spells this game, spin
+the Wheel of Yogg-Saron.@
+<i>({0} left!)</i>@
+<i>(Ready!)</i>
+considering DRGA_BOSS_07p2, 2, <b>Passive Hero Power</b>
+Invoke Galakrond 5 times to finish the ritual.@ <i>({0} left!)</i>@
+considering DRGA_BOSS_07p3, 2, <b>Passive Hero Power</b>
+Invoke Galakrond 5 times to finish the ritual.@ <i>({0} left!)</i>@
+considering BT_737e, 1, <b>Dormant</b>. Awaken in @ |4(turn, turns).
+considering DS1h_292_H3_AT_132, 1, <b>Hero Power</b>
+Deal $3 damage to the enemy hero.@<b>Hero Power</b>
+Deal $3 damage.
+considering BT_850e, 1, <b>Dormant</b>. Awaken after @ |4(Warder dies, Warders die).
+considering LOOT_526e, 1, <b>Dormant</b>. Awaken when your opponent draws @ |4(Candle, Candles).
+considering Prologue_DemonicPortal, 1, [x]Each turn, summons
+Unstable Energy. Destroy
+30 to stabilize the portal
+and win! <i>(@ left!)</i>
+considering DMF_109, 1, <b>Battlecry:</b> Draw @ |4(card, cards).
+<i>(Upgraded for each
+friendly <b>Secret</b> that has
+triggered this game!)</i>
+considering DMF_254t3, 1, [x]<b>Piece of C'Thun (@/4)</b>
+Deal $7 damage randomly
+split among all enemies.
+considering DMF_254t4, 1, <b>Piece of C'Thun (@/4)</b>
+Deal $3 damage to all minions.
+considering DMF_254t5, 1, [x]<b>Piece of C'Thun (@/4)</b>
+Summon a 6/6 C'Thun's
+Body with <b>Taunt</b>.
+considering DMF_254t7, 1, <b>Piece of C'Thun (@/4)</b>
+Destroy a minion.
+considering TB_BaconShop_HP_065, 1, [x]<b>Passive Hero Power</b>
+After you <b>Refresh</b> 5 times,
+Bob always has 7 minions.
+<i>(@ left!)</i>
+considering BTA_BOSS_16t, 1, <b>Spell Damage +@</b>
+<b>Deathrattle:</b> Go <b>Dormant</b> for 3 turns.
+considering BTA_BOSS_16t2, 2, [x]After you summon
+a minion, give it +@/+@.
+<b>Deathrattle:</b> Go <b>Dormant</b>
+for 3 turns.
+considering TB_BaconShop_HP_068e, 1, <b>Dormant</b>. Awaken in @ |4(turn, turns).
+considering BTA_09e, 1, <b>Dormant</b>. Awakens after @ |4(Demon dies, Demons die).
+considering BTA_BOSS_06te, 1, Play @ |4(Spare Part, Spare Parts) to Repair
+considering TB_BaconShop_HP_074, 1, [x]<b>Hero Power</b>
+ Dig for a Golden minion!
+<i>(@ |4(Dig, Digs) left.)</i>
+considering TB_BaconShop_HP_076, 1, [x]<b>Hero Power</b>
+Gain @ Gold this turn.
+Increases each turn.
+<i>(Once per game.)</i>
+considering BTA_BOSS_16se, 1, <b>Dormant</b>. Awaken in @ |4(turn, turns).
+considering BAR_879e, 1, It's a secret...@{0} is inside! <i>(Only you can see this.)</i>
+considering BAR_547, 2, [x]<b>Battlecry:</b> If you've dealt 10
+damage with your Hero Power
+ this game, deal 10 damage
+to all enemies.@ <i>({0} left!)</i>@ <i>(Ready!)</i>
+considering PVPDR_SCH_Warlockt5, 1, <b>Battlecry:</b> Add @ |4(Demon, Demons) to your hand. |4(It costs, They cost) (3) less. <i>(Improves during run)</i>
+considering TB_BaconShop_HP_087, 1, [x]<b>Passive Hero Power</b>
+After you kill 25 enemy
+minions, get Sulfuras.
+<i>(@ left!)</i>
+considering TB_BaconShop_HP_101t2, 1, <b>Discover</b> a minion
+from <b>Tavern Tier @</b>.
+considering TB_BaconShop_HP_102, 1, [x]<b>Hero Power</b>
+If you have two copies of
+a minion, find the third.
+<i>(@ |4(Wish, Wishes) left!)</i>
+considering TB_BBR3_BOSS_03p1, 1, [x]<b>Hero Power</b>
+Restore $@ Health to your
+Hero. Reduce by 1 for every
+  friendly minion that dies. 
+considering PVPDR_SCH_DemonHuntert2e1, 1, <b>Dormant</b>. Awaken in @ |4(turn, turns).
+considering HERO_05dbp, 1, <b>Hero Power</b>
+Deal $2 damage to the enemy hero.@<b>Hero Power</b>
+Deal $2 damage.
+considering HERO_05dbp2, 1, <b>Hero Power</b>
+Deal $3 damage to the enemy hero.@<b>Hero Power</b>
+Deal $3 damage.
+considering Story_04_ExhaustedRecruit, 1, <b>Dormant</b>
+When you restore 5 Health, awaken this minion.
+<i>(@ left!)</i>
+considering TB_BaconShop_HP_104, 1, [x]<b>Hero Power</b>
+At end of turn, give a friendly
+minion +1/+1. Repeat @ |4(time, times).
+<i>(Upgrades after each use!)</i>
+considering Story_04_Infectione, 1, This minion will transform into a Skeleton in @ turns.
+considering TB_BaconShop_HP_106, 1, [x]<b>Passive Hero Power</b>
+Every 4 turns, <b>Discover</b>
+a Darkmoon Prize.
+<i>(@ |4(turn, turns) left!)</i>
+considering PVPDR_YOP_DemonHuntert1e1, 1, <b>Dormant</b>. Awaken in @ |4(turn, turns).
+considering PVPDR_YOP_DemonHuntert2, 1, <b>Battlecry:</b> Draw @ <b>Outcast</b> |4(card, cards).
+ |4(It costs, They cost) (1) less. <i>(Improves during run)</i>
+considering PVPDR_YOP_PriestT2, 1, <b>Taunt</b>. <b>Battlecry:</b> Add @ |4(Dragon, Dragons) to your hand.
+|4(It costs, They cost) (2) less. <i>(Improves during run)</i>
+considering PVPDR_YOP_PaladinT1, 1, <b>Rush</b>. <b>Battlecry:</b> Cast @ random |4(blessing, blessings) on this minion.
+<i>(Improves during run)</i>
+considering PVPDR_YOP_WarriorT1, 1, <b>Battlecry:</b> Gain 5 Armor. Shuffle @ |4(Bomb, Bombs) into your opponent’s deck. <i>(Improves during run)</i>
+considering PVPDR_YOP_RogueT1, 1, <b>Battlecry:</b> Return @ random enemy |4(minion, minions) to |4(its, their) owner's hand. <i>(Improves during run)</i>
+considering PVPDR_YOP_MageT1, 1, Spin the Wheel of Yogg-Saron. Costs (@) less.
+<i>(Improves during run)</i>
+considering PVPDR_YOP_ShamanT1, 1, <b>Battlecry:</b> Add @ non-basic |4(Totem, Totems) to your hand.
+|4(It costs, They cost) (2) less.
+<i>(Improves during run)</i>
+considering PVPDR_YOP_DruidT1, 3, <b>Taunt</b>. <b>Battlecry:</b> Draw @ |4(card, cards), deal @ damage, and gain @ Armor.
+<i>(Improves during run)</i>
+considering PVPDR_YOP_HunterT1, 1, <b>Battlecry:</b> Trigger @ random friendly minion's <b>Deathrattle</b>.
+<i>(Improves during run)</i>
+considering VAN_HERO_05bp, 1, <b>Hero Power</b>
+Deal $2 damage to the enemy hero.@<b>Hero Power</b>
+Deal $2 damage.
+considering VAN_HERO_05bp2, 1, <b>Hero Power</b>
+Deal $3 damage to the enemy hero.@<b>Hero Power</b>
+Deal $3 damage.
+considering BG20_GEM, 2, Give a friendly minion +@/+@.
+considering BG20_206, 1, After you spend 3 Gold, gain a <b>Blood Gem</b>.
+<i>(@ Gold left!)</i>
+considering BG20_206_G, 1, [x]After you spend 3 Gold,
+gain 2 <b>Blood Gems</b>.
+<i>(@ Gold left!)</i>
+considering Story_05_MekkatorqueE, 1, <b>Dormant</b>. Awaken in @ |4(turn, turns).
+considering BAR_763t0, 1, <b>@ Gold Coins</b>
+considering BAR_763t1, 1, <b>@ Healing Potion</b>
+considering BAR_763t9, 1, <b>@ Golden Goblet</b>
+considering BAR_763t2, 1, <b>@ Iron Dagger</b>
+considering BAR_763t3, 1, <b>@ Hand Axe</b>
+considering BAR_763t4, 1, <b>@ Linen Bandage</b>
+considering BAR_763t5, 1, <b>@ Very Nice Hat</b>
+considering BAR_763t6, 1, <b>@ Elixir of Vigor</b>
+considering BAR_763t7, 1, <b>@ Stormwind Cheddar</b>
+considering BAR_763t8, 1, <b>@ Jade Locket</b>
+considering BAR_763t10, 1, <b>@ Cute Doll</b>
+considering BAR_763t11, 1, <b>@ Gnomish Shield</b>
+considering BAR_763t12, 1, <b>@ Captivating Pipes</b>
+considering BAR_763t13, 1, <b>@ Goblin Fishing Pole</b>
+considering BAR_763t14, 1, <b>@ Loyal Pet Whistle</b>
+considering BAR_763t15, 1, <b>@ Alliance Mace</b>
+considering BAR_763t16, 1, <b>@ Ruby Crown</b>
+considering BAR_763t17, 1, <b>@ Arcane Scroll</b>
+considering BAR_763t18, 1, <b>@ Potion of Night</b>
+considering BAR_763t19, 1, <b>@ Angry Crystal</b>
+considering BAR_763t20, 1, <b>@ Sapphire Wand</b>
+considering BAR_763t21, 1, <b>@ Shadowy Gem</b>
+considering BAR_763t22, 1, <b>@ Draught of Angels</b>
+considering BAR_763t23, 1, <b>@ Sphere of Wisdom</b>
+considering BAR_763t24, 1, <b>@ Tiger Amulet</b>
+considering BAR_763t25, 1, <b>@ Everburning Candle</b>
+considering BAR_763t26, 1, <b>@ Gilnean Dagger</b>
+considering BG20_106e, 1, +@ Attack.
+considering BG20_HERO_102p, 1, [x]<b>Hero Power</b>
+Give +@ Attack to the next
+minion you buy this turn.
+<i>(Upgrades each turn!)</i>
+considering Story_07_Alexstrasza, 1, If your hero dies, resurrect them. <i>(@ Times Remaining)</i>
+<b>Deathrattle:</b> Go <b>Dormant</b> for 2 turns.
+considering BOM_01_Merc_Dormant_01, 1, <b>Dormant</b>. Awaken in @ |4(turn, turns).
+considering Story_08_Plantinge, 1, <b>Dormant</b>. Awaken in @ |4(turn, turns).
+considering BG20_GEMe2, 2, +@/+@.
+considering Story_08_Malfurion_005e, 1, <b>Dormant</b>. Awaken in @ |4(turn, turns).
+considering BG20_GEMt, 2, Give a friendly minions +@/+@.
+!!python/object/apply:collections.OrderedDict
+- - - m_ID
+    - 0
+  - - m_cardId
+    - 46996
+  - - m_cardSetId
+    - 1125
+  - - m_eventTimingEvent
+    - post_set_rotation_2021
+
+!!python/object/apply:collections.OrderedDict
+- - - m_ID
+    - 0
+  - - m_cardId
+    - 46996
+  - - m_cardSetId
+    - 4
+  - - m_eventTimingEvent
+    - pre_set_rotation_2021
+
+Handling tag: 199, 12
+Handling tag: 203, 3
+Handling tag: 202, 4
+Handling tag: 48, 3
+Handling tag: 47, 4
+Handling tag: 45, 6
+Handling tag: 200, 14
+Handling tag: 114, 0
+Handling tag: 201, 3
+Handling tag: 251, 6
+Handling tag: 330, 0
+Handling tag: 331, 0
+Handling tag: 218, 1
+Handling tag: 1440, 3
+unhandled attributes {'m_cardTextBuilderType', 'm_longGuid', 'm_craftingEvent', 'm_howToGetDiamondCard', 'm_gameplayEvent', 'm_suggestionWeight', 'm_creditsCardName', 'm_shortName', 'm_howToGetGoldCard', 'm_goldenCraftingEvent', 'm_featuredCardsEvent', 'm_watermarkTextureOverride', 'm_targetArrowText', 'm_howToGetCard', 'm_changeVersion'}
