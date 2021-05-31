@@ -9,6 +9,7 @@ import yaml
 from unitypack.asset import Asset
 from unitypack.object import ObjectPointer
 
+cardBacks = []
 
 def main():
 	p = ArgumentParser()
@@ -27,11 +28,10 @@ def main():
 		yaml.add_representer(unitypack.engine.text.TextAsset, textasset_representer)
 		yaml.add_representer(unitypack.engine.texture.Texture2D, texture2d_representer)
 
-	result = build_card_backs(args.files)
-	# print("achievements: %s" % achievements)
+	build_card_backs(args.files)
 
-	with open('./card_backs.json', 'w') as resultFile:
-		resultFile.write(json.dumps(result))
+	with open('./ref/card_backs.json', 'w') as resultFile:
+		resultFile.write(json.dumps(cardBacks))
 
 
 def build_card_backs(files):
@@ -39,50 +39,37 @@ def build_card_backs(files):
 		if file.endswith(".assets"):
 			with open(file, "rb") as f:
 				asset = Asset.from_file(f)
-				result = handle_asset(asset)
-				if result is not None:
-					print("found results, exiting")
-					return result
+				handle_asset(asset)
 			continue
 
 		with open(file, "rb") as f:
 			bundle = unitypack.load(f)
 			for asset in bundle.assets:
-				result = handle_asset(asset)
-				if result is not None:
-					print("found resultss, exiting")
-					return result
+				handle_asset(asset)
 
 
 def handle_asset(asset):
-	result = {}
 	for id, obj in asset.objects.items():
-		try:
-			d = obj.read()
-		except Exception as e:
-			print("Could not read asset %s, %s" % (asset, e))
+		if obj.type == "AnimationClip":
+			# There are issues reading animation clips, and we don't need them for cards
 			continue
+		
+		d = obj.read()
 		# Not sure why, but if you don't do this you end up with read errors. Maybe the tree needs to be
 		# fully traversed first so that references are resolved or something?
-		output = yaml.dump(d)
+		# output = yaml.dump(d)
 		if isinstance(d, dict):
 			# print("is dict! %s: %s" % (id, d))
 			if "m_Name" in d and d["m_Name"] is not "":
-				print("name %s" % d["m_Name"])
 				if d["m_Name"] == "CARD_BACK":
 					records = d["Records"]
-					result = handle_records(records)
-					return result
-	return
+					handle_records(records)
 
 
 def handle_records(records):
-	result = []
 	for record in records:
 		print("handling record")
-		result.append(handle_record(record))
-	return result
-
+		handle_record(record)
 
 def handle_record(record):
 	result = {
@@ -92,7 +79,8 @@ def handle_record(record):
 		"name": record["m_name"]["m_locValues"][0],
 		"description": record["m_description"]["m_locValues"][0],
 	}
-	return result
+	cardBacks.append(result)
+
 
 def asset_representer(dumper, data):
 	return dumper.represent_scalar("!asset", data.name)

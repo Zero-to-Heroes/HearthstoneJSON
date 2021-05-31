@@ -42,7 +42,7 @@ def main():
 				populate_guid_to_path(asset, audioClips)
 
 	cards = extract_info(args.files)
-	with open('./sound_effects.json', 'w') as resultFile:
+	with open('./ref/sound_effects.json', 'w') as resultFile:
 		resultFile.write(json.dumps(cards))
 
 
