@@ -83,14 +83,14 @@ def handle_asset(asset):
 					a = 1
 				elif d["m_Name"] in ["BOARD"]:
 					# Same here, we can probably use this to build the BOARD enum
-					output = yaml.dump(d)
-					print(output)
+					# output = yaml.dump(d)
+					# print(output)
 					records = d["Records"]
 					handle_boards(records)
 				elif d["m_Name"] in ["SCENARIO"]:
 					# Same here, can probably use it to build the Scenario enum instead of mapping everything by hand
-					output = yaml.dump(d)
-					print(output)
+					# output = yaml.dump(d)
+					# print(output)
 					if "Records" in d:
 						records = d["Records"]
 						handle_scenarios(records)

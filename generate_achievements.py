@@ -30,7 +30,7 @@ def main():
 	result = build_achievements(args.files)
 	# print("achievements: %s" % achievements)
 
-	with open('./hs-achievement.json', 'w') as resultFile:
+	with open('./ref/achievements.json', 'w') as resultFile:
 		resultFile.write(json.dumps(result))
 
 
@@ -57,14 +57,14 @@ def build_achievements(files):
 def handle_asset(asset):
 	result = {}
 	for id, obj in asset.objects.items():
-		try:
-			d = obj.read()
-		except Exception as e:
-			print("Could not read asset %s, %s" % (asset, e))
+		if obj.type == "AnimationClip":
+			# There are issues reading animation clips, and we don't need them for cards
 			continue
+
+		d = obj.read()
 		# Not sure why, but if you don't do this you end up with read errors. Maybe the tree needs to be
 		# fully traversed first so that references are resolved or something?
-		output = yaml.dump(d)
+		# output = yaml.dump(d)
 		if isinstance(d, dict):
 			# print("is dict! %s: %s" % (id, d))
 			if "m_Name" in d and d["m_Name"] is not "":
