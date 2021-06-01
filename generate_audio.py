@@ -5,6 +5,7 @@ import sys
 from argparse import ArgumentParser
 
 import unitypack
+import yaml
 from PIL import Image, ImageOps
 from unitypack.asset import Asset
 from unitypack.environment import UnityEnvironment
@@ -13,7 +14,8 @@ from unitypack.utils import extract_audioclip_samples
 
 guid_to_path = {}
 
-
+# ./generate_audio.py /e/t/*unity3d > out.txt
+# works, but super slow
 def main():
 	p = ArgumentParser()
 	p.add_argument("files", nargs="+")
@@ -21,79 +23,75 @@ def main():
 	p.add_argument("--as-asset", action="store_true", help="Force open files as Asset format")
 	args = p.parse_args(sys.argv[1:])
 
-	audioClips = {}
+	for k, v in unitypack.engine.__dict__.items():
+		if isinstance(v, type) and issubclass(v, unitypack.engine.object.Object):
+			yaml.add_representer(v, unityobj_representer)
 
-	for file in args.files:
-		# print("\nhandling file %s" % file)
-		if args.as_asset or file.endswith(".assets"):
-			# print("handling asset %s" % file)
-			with open(file, "rb") as f:
-				# print("doing it %s" % file)
-				asset = Asset.from_file(f)
-				populate_guid_to_path(asset, audioClips)
-			continue
-
-		with open(file, "rb") as f:
-			# print("handling bundle %s" % file)
-			bundle = unitypack.load(f)
-
-			for asset in bundle.assets:
-				# print("handling bundle asset %s" % asset)
-				populate_guid_to_path(asset, audioClips)
+	if args.strip:
+		yaml.add_representer(unitypack.engine.mesh.Mesh, mesh_representer)
+		yaml.add_representer(unitypack.engine.movie.MovieTexture, movietexture_representer)
+		yaml.add_representer(unitypack.engine.text.Shader, shader_representer)
+		yaml.add_representer(unitypack.engine.text.TextAsset, textasset_representer)
+		yaml.add_representer(unitypack.engine.texture.Texture2D, texture2d_representer)
 
 	cards = extract_info(args.files)
 	with open('./ref/sound_effects.json', 'w') as resultFile:
 		resultFile.write(json.dumps(cards))
 
 
-def populate_guid_to_path(asset, audioClips):
-	for id, obj in asset.objects.items():
-		try:
-			d = obj.read()
-			# print("m_assets %s " % d)
+# def populate_guid_to_path(asset, audioClips):
+# 	for id, obj in asset.objects.items():
+# 		try:
+# 			d = obj.read()
 
-			for asset_info in d["m_assets"]:
-				guid = asset_info["Guid"]
-				# print("print %s" % guid)
-				path = asset_info["Path"]
-				# print("path %s" % path)
-				path = path.lower()
-				# print("path lower %s" % path)
-				if not path.startswith("final/"):
-					path = "final/" + path
-				if not path.startswith("final/assets"):
-					# print("not handling path (%s : %s)" % (path, guid))
-					continue
-				# print("handling guid in populate_guid_to_path %s : %s" % (guid, path))
-				# if guid == '4d4020cf2e9fe0b47bd47e669a5a7265':
-				# 	print("handling 4d4020cf2e9fe0b47bd47e669a5a7265 in populate_guid_to_path %s" % (path))
-				# if path == "Assets/Game/Cards/021 Gilneas/GILA_612/Death.prefab":
-				# 	print("handling path in populate_guid_to_path %s" % (path))
-				# if "GILA_612" in path:
-				# 	print("handling GILA_612 in populate_guid_to_path %s, %s" % (guid, path))
-				guid_to_path[guid] = path
-				audioClips[path] = asset_info
-		except Exception as e:
-			# print("could not populate guid %s" % e)
-			continue
+# 			for asset_info in d["m_assets"]:
+# 				guid = asset_info["Guid"]
+# 				print("\t\tHandling asset type: %s" % obj.type)
+# 				path = asset_info["Path"]
+# 				path = path.lower()
+# 				if not path.startswith("final/"):
+# 					path = "final/" + path
+# 				if not path.startswith("final/assets"):
+# 					continue
+# 				guid_to_path[guid] = path
+# 				audioClips[path] = asset_info
+# 		except Exception as e:
+# 			continue
 
 
 def extract_info(files):
 	audioClips = {}
 	cards = {}
+	print("Creating unity environment")
 	env = UnityEnvironment()
 
+	print("Loading files")
 	for file in files:
+		# print("\tloading %s" % file)
 		f = open(file, "rb")
 		env.load(f)
 
+	print("handling rads")
 	for bundle in env.bundles.values():
+		# print("\tbundle rad %s" % bundle.path)
+		if "rad_base" in bundle.path or "rad_enus" in bundle.path:
+			for asset in bundle.assets:
+				handle_rad_asset(asset, audioClips, cards)
+
+	print("handling asset caching")
+	for bundle in env.bundles.values():
+		# print("\tbundle asset %s" % bundle.path)
+		# if "sound" in bundle.path:
 		for asset in bundle.assets:
 			handle_asset(asset, audioClips, cards)
 
+	print("parsing game objects")
 	for bundle in env.bundles.values():
-		for asset in bundle.assets:
-			handle_gameobject(asset, audioClips, cards)
+		# print("\tbundle gameobject %s" % bundle.path)
+		if ("card" in bundle.path or "initial_base" in bundle.path) and ("cardtexture" not in bundle.path):
+			# print(yaml.dump(bundle))		
+			for asset in bundle.assets:
+				handle_gameobject(asset, audioClips, cards)
 
 	return cards
 
@@ -102,7 +100,19 @@ def handle_asset(asset, audioClips, cards):
 	for obj in asset.objects.values():
 		if obj.type == "AssetBundle":
 			d = obj.read()
+			for path, obj in d["m_Container"]:
+				finalPath = path.lower()
+				asset = obj["asset"]
+				if not finalPath.startswith("final/"):
+					finalPath = "final/" + finalPath
+				audioClips[finalPath] = asset
+				audioClips[path] = asset
 
+
+def handle_rad_asset(asset, audioClips, cards):
+	for obj in asset.objects.values():
+		if obj.type == "AssetBundle":
+			d = obj.read()
 			for path, obj in d["m_Container"]:
 				finalPath = path.lower()
 				asset = obj["asset"]
@@ -110,17 +120,12 @@ def handle_asset(asset, audioClips, cards):
 					handle_rad(asset.resolve())
 				if not finalPath.startswith("final/"):
 					finalPath = "final/" + finalPath
-				# if path == "Assets/Game/Cards/021 Gilneas/GILA_612/Death.prefab":
-				# 	print("handling path in handle_asset %s" % (path))
-				# if "GILA_612" in path:
-				# 	print("handling GILA_612 in handle_asset %s" % (path))
-				# if "4d4020cf2e9fe0b47bd47e669a5a7265" in finalPath:
-				# 	print("handling 4d4020cf2e9fe0b47bd47e669a5a7265 in handle_asset %s, %s" % (path, asset))
 				audioClips[finalPath] = asset
 				audioClips[path] = asset
 
 
 def handle_gameobject(asset, audioClips, cards):
+	assigned = 0
 	for obj in asset.objects.values():
 		if obj.type == "GameObject":
 			d = obj.read()
@@ -142,11 +147,6 @@ def handle_gameobject(asset, audioClips, cards):
 				# Not a CardDef
 				continue
 
-			# if cardid != "CS2_029": # Fireball
-			# 	continue
-
-			# dump(carddef, 1)
-			# print("Handling card %s " % cardid)
 			card = {}
 			playSounds = extract_sound_file_names(audioClips, carddef, "m_PlayEffectDef")
 			if len(playSounds) > 0:
@@ -168,6 +168,10 @@ def handle_gameobject(asset, audioClips, cards):
 			# print("emoteSounds %s" % emoteSounds)
 			for emoteSound in emoteSounds:
 				card[emoteSound["key"]] = [emoteSound["value"]]
+
+			if assigned == 0:
+				# print("\t\t\tassigned card")
+				assigned = 1
 
 			cards[cardid] = card
 
@@ -195,16 +199,15 @@ def extract_sound_file_names(audioClips, carddef, node):
 				updatedPath = "final/" + updatedPath
 			try:
 				audioClip = audioClips[updatedPath.lower()].resolve()
+				# print("\t\t\t could process %s" % (updatedPath))
 			except Exception as e:
-				if guid == '4d4020cf2e9fe0b47bd47e669a5a7265':
-					print("Could not resolve audio clip (%s : %s : %s : %s)" % (e, updatedPath, guid, path))
 				try :
-					hop = audioClips[guid]
-					# print("hop %s" % hop)
+					# print("\t\t\t could not process %s" % (updatedPath))
 					audioClip = audioClips[guid].resolve()
+					# print("\t\t\t could process %s" % (updatedPath))
 				except Exception as f:
-					if guid == '4d4020cf2e9fe0b47bd47e669a5a7265':
-						print("Could not resolve audio clip from retry (%s)" % (f))
+					# print("\t\t\t\t could not process at all %s, %s" % (updatedPath, f))
+					result.append(guid)
 					# print("%s %s %s %s" % "e")
 					continue
 			audioGameObject = audioClip.component[1]["component"].resolve()
@@ -234,13 +237,15 @@ def extract_spell_sounds(audioClips, carddef):
 			try:
 				# print("\t\t will process %s" % updatedPath)
 				audioClip = audioClips[playEffectPath.lower()].resolve()
+				# print("\t\t\t could process %s" % (playEffectPath))
 			except Exception as e:
 				try :
-					# print("\t\t\t could not process %s, %s" % (updatedPath, e))
+					# print("\t\t\t could not process %s, %s" % (playEffectPath, e))
 					audioClip = audioClips[guid].resolve()
+					# print("\t\t\t could process %s" % (playEffectPath))
 				except Exception as f:
-					# print("\t\t\t\t could not process at all %s, %s" % (updatedPath, f))
-					return []
+					# print("\t\t\t\t could not process at all %s, %s" % (playEffectPath, f))
+					return [guid]
 			findAudios(audioClip, cardAudios, 0, [])
 			return cardAudios
 		# except Exception as e:
@@ -281,12 +286,13 @@ def extract_emote_sound(audioClips, updatedPath):
 		if not updatedPath.startswith("final/"):
 			updatedPath = "final/" + updatedPath
 		try:
-			# print("\t\t will process %s" % updatedPath)
 			audioClip = audioClips[updatedPath.lower()].resolve()
+			# print("\t\t\t could process %s" % (updatedPath))
 		except Exception as e:
 			try :
 				# print("\t\t\t could not process %s, %s" % (updatedPath, e))
 				audioClip = audioClips[guid].resolve()
+				# print("\t\t\t could process %s" % (updatedPath))
 			except Exception as f:
 				# print("\t\t\t\t could not process at all %s, %s" % (updatedPath, f))
 				return ''
@@ -304,12 +310,14 @@ def extract_emote_sound(audioClips, updatedPath):
 				if audioFileName and len(audioFileName) > 1:
 					return audioFileName + ".ogg"
 		except Exception as e:
-			print("issue handling card with audioclip component %s " % (audioClip.component))
-			print("%s" % e)
+			print("\t\t\tissue handling card with audioclip component %s " % (audioClip.component))
+			print("\t\t\t%s" % e)
 	return ''
 
 
 def findAudios(audioClip, cardAudios, level, iteratedValues):
+	# TODO: temp test to check the speed without this recursive digging
+	return
 	# print("\t finding audios %s" % audioClip)
 	if hasattr(audioClip, "component"):
 		for index, elem in enumerate(audioClip.component):
@@ -317,7 +325,7 @@ def findAudios(audioClip, cardAudios, level, iteratedValues):
 			try:
 				resolved = elem.resolve()
 				if hasattr(resolved, "m_AudioClip") and resolved["m_AudioClip"] is not None:
-					add_to_audio(cardAudios, resolve["m_AudioClip"])
+					add_to_audio(cardAudios, resolved["m_AudioClip"])
 				if elem.path_id not in iteratedValues:
 					iteratedValues.append(elem.path_id)
 					findAudios(resolved, cardAudios, level + 1, iteratedValues)
@@ -366,18 +374,18 @@ def findAudios(audioClip, cardAudios, level, iteratedValues):
 	if audioClip is None:
 		# print("\t\t invalid None")
 		return
-	try:
-		# print("\t resolving elem %s" % elem)
-		resolved = elem.resolve()
-		if hasattr(resolved, "m_AudioClip") and resolved["m_AudioClip"] is not None:
-			add_to_audio(cardAudios, resolved["m_AudioClip"])
-		if elem.path_id not in iteratedValues:
-			# print("\t\t itearting on path id %s" % elem.path_id)
-			iteratedValues.append(elem.path_id)
-			findAudios(resolved, cardAudios, level + 1, iteratedValues)
-		return
-	except:
-		return
+	# try:
+	# 	# print("\t resolving elem %s" % elem)
+	# 	resolved = elem.resolve()
+	# 	if hasattr(resolved, "m_AudioClip") and resolved["m_AudioClip"] is not None:
+	# 		add_to_audio(cardAudios, resolved["m_AudioClip"])
+	# 	if elem.path_id not in iteratedValues:
+	# 		# print("\t\t itearting on path id %s" % elem.path_id)
+	# 		iteratedValues.append(elem.path_id)
+	# 		findAudios(resolved, cardAudios, level + 1, iteratedValues)
+	# 	return
+	# except:
+	# 	return
 
 
 def add_to_audio(cardAudios, audioElement):
@@ -399,8 +407,6 @@ def handle_rad_node(path, guids, names, tree, node):
 		guid = guids[leaf["guidIndex"]]["GUID"]
 		name = names[leaf["fileNameIndex"]]
 		guid_to_path[guid] = path + "/" + name
-		if guid == "b2f0dc3d643ccc149905ba94455a5d55":
-			print("GOT IT!!!!!!!! %s" % (guid_to_path[guid]))
 
 	for child in node["children"]:
 		handle_rad_node(path, guids, names, tree, tree[child])
@@ -419,16 +425,41 @@ def dump(obj, level):
     print("\t" * level, "obj.%s = %r" % (attr, getattr(obj, attr)))
 
 
+
 def asset_representer(dumper, data):
 	return dumper.represent_scalar("!asset", data.name)
+yaml.add_representer(Asset, asset_representer)
 
 
 def objectpointer_representer(dumper, data):
 	return dumper.represent_sequence("!PPtr", [data.file_id, data.path_id])
+yaml.add_representer(ObjectPointer, objectpointer_representer)
 
 
 def unityobj_representer(dumper, data):
 	return dumper.represent_mapping("!unitypack:%s" % (data.__class__.__name__), data._obj)
+
+
+def shader_representer(dumper, data):
+	return dumper.represent_mapping("!unitypack:stripped:Shader", {data.name: None})
+
+
+def textasset_representer(dumper, data):
+	return dumper.represent_mapping("!unitypack:stripped:TextAsset", {data.name: None})
+
+
+def texture2d_representer(dumper, data):
+	return dumper.represent_mapping("!unitypack:stripped:Texture2D", {data.name: None})
+
+
+def mesh_representer(dumper, data):
+	return dumper.represent_mapping("!unitypack:stripped:Mesh", {data.name: None})
+
+
+def movietexture_representer(dumper, data):
+	obj = data._obj.copy()
+	obj["m_MovieData"] = "<stripped>"
+	return dumper.represent_mapping("!unitypack:stripped:MovieTexture", obj)
 
 
 if __name__ == "__main__":
