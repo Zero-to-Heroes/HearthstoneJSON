@@ -325,6 +325,8 @@ def findAudios(audioClip, cardAudios, level, iteratedValues):
 			try:
 				resolved = elem.resolve()
 				if hasattr(resolved, "m_AudioClip") and resolved["m_AudioClip"] is not None:
+					print("found clip 1")
+					print(yaml.dump(resolved))
 					add_to_audio(cardAudios, resolved["m_AudioClip"])
 				if elem.path_id not in iteratedValues:
 					iteratedValues.append(elem.path_id)
@@ -336,10 +338,14 @@ def findAudios(audioClip, cardAudios, level, iteratedValues):
 		for index, (key, value) in enumerate(audioClip.items()):
 			# print("\t\t audioClip %s, %s, %s" % (index, key, value))
 			if key == "m_AudioClip":
+				print("found clip 2")
+				print(yaml.dump(value))
 				add_to_audio(cardAudios, value)
 			try:
 				resolved = value.resolve()
 				if hasattr(resolved, "m_AudioClip") and resolved["m_AudioClip"] is not None:
+					print("found clip 3")
+					print(yaml.dump(resolved))
 					add_to_audio(cardAudios, resolved["m_AudioClip"])
 				if value.path_id not in iteratedValues:
 					iteratedValues.append(value.path_id)
@@ -349,6 +355,8 @@ def findAudios(audioClip, cardAudios, level, iteratedValues):
 		return
 	if hasattr(audioClip, "m_AudioClip") and audioClip["m_AudioClip"] is not None:
 		# print("\t\t has m_AudioClip %s" % (audioClip["m_AudioClip"]))
+		print("found clip 4")
+		print(yaml.dump(audioClip["m_AudioClip"]))
 		add_to_audio(cardAudios, audioClip["m_AudioClip"])
 		return
 	if isinstance(audioClip, list):
@@ -357,6 +365,8 @@ def findAudios(audioClip, cardAudios, level, iteratedValues):
 			try:
 				resolved = elem.resolve()
 				if hasattr(resolved, "m_AudioClip") and resolved["m_AudioClip"] is not None:
+					print("found clip 5")
+					print(yaml.dump(resolved["m_AudioClip"]))
 					add_to_audio(cardAudios, audioClip["m_AudioClip"])
 				if elem.path_id not in iteratedValues:
 					iteratedValues.append(elem.path_id)
