@@ -200,9 +200,6 @@ def handle_card_sets(records):
 
 def handle_card_set(record):
 	cardId = str(record["m_cardId"])
-	if cardId == "46996":
-		output = yaml.dump(record)
-		print(output)
 	existingCard = get_card(cardId)
 	# I don't know why, but it looks like that the set ID can be assigned more than once
 	# Maybe just keeping the first one is not good enough, I'll check
@@ -218,8 +215,6 @@ def handle_card_tags(records):
 
 def handle_card_tag(record):
 	cardId = str(record["m_cardId"])
-	if cardId == "59491":
-		print("Handling tag: %s, %s" % (record["m_tagId"], record["m_tagValue"]))
 	existingCard = get_card(cardId)
 	found = 0
 	# Patch updates seem to simply re-add the tag, instead of overriding the previous 
@@ -306,8 +301,6 @@ def clean_card_description(text, card_id):
 
 	if not count:
 		return text, ""
-		
-	print("considering %s, %s, %s" % (card_id, count, text))
 
 	if card_id in SPELLSTONES:
 		return text.replace("@", ""), text.replace("@", "")
