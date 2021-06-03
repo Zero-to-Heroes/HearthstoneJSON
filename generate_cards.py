@@ -101,7 +101,8 @@ def main():
 
 	build_cards(args.files)
 	print("unhandled attributes %s" % unhandledAttributes)
-	with open('./reference_cards.json', 'w') as resultFile:
+	print("new card %s" % cards[63264])
+	with open('./ref/reference_cards.json', 'w') as resultFile:
 		resultFile.write(json.dumps(cards))
 
 
@@ -251,6 +252,10 @@ def handle_record(record):
 	# print("Handling new record")
 	# print(yaml.dump(record))
 	cardId = str(record["m_ID"])
+	print("Handling card %s" % cardId)
+	if cardId == "63264":
+		print("\tHandling new card")
+		print(yaml.dump(record))
 	result = get_card(cardId)
 	for k, v in record.items():
 		if k == "m_ID":
@@ -281,6 +286,8 @@ def handle_record(record):
 		
 	# print("result %s" % result)
 	cards[cardId] = result
+	if cardId == "63264":
+		print("\tHandled new card %s" % cards[cardId])
 
 
 def get_card(cardId):
