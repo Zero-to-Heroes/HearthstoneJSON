@@ -72,6 +72,7 @@ def handle_records(records):
 		handle_record(record)
 
 def handle_record(record):
+	print(yaml.dump(record))
 	result = {
 		"id": record["m_ID"],
 		"sortOrder": record["m_sortOrder"],
