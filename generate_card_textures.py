@@ -44,7 +44,6 @@ def main():
 
 		with open(file, "rb") as f:
 			bundle = unitypack.load(f)
-
 			for asset in bundle.assets:
 				populate_guid_to_path(asset)
 
@@ -93,13 +92,10 @@ def populate_guid_to_path(asset):
 	for id, obj in asset.objects.items():
 		try:
 			d = obj.read()
-
 			for asset_info in d["m_assets"]:
 				guid = asset_info["Guid"]
 				path = asset_info["Path"]
 				path = path.lower()
-				if guid == "6893f0e0abdd51d4888a2035ea78055f":
-					print("handling guid_to_path %s " % guid)
 				if not path.startswith("final/"):
 					path = "final/" + path
 				if not path.startswith("final/assets"):
@@ -135,16 +131,7 @@ def handle_asset(asset, textures, cards, filter_ids):
 		if obj.type == "AssetBundle":
 			d = obj.read()
 			for path, obj in d["m_Container"]:
-				finalPath = path.lower()
 				asset = obj["asset"]
-				if finalPath == "assets/rad/rad_base.asset" or finalPath == "assets/rad/rad_enus.asset":
-					handle_rad(asset.resolve())
-				if not finalPath.startswith("final/"):
-					finalPath = "final/" + finalPath
-				# if not finalPath.startswith("final/assets"):
-				# 	print("not handling path in handle assets %s" % finalPath)
-				# 	continue
-				textures[finalPath] = asset
 				textures[path] = asset
 
 
@@ -194,33 +181,6 @@ def handle_gameobject(asset, textures, cards, filter_ids):
 				"path": path.lower(),
 				"tile": tile.saved_properties if tile else {},
 			}
-
-
-def handle_rad_node(path, guids, names, tree, node):
-	if len(node["folderName"]) > 0:
-		if len(path) > 0:
-			path = path + "/" + node["folderName"]
-		else:
-			path = node["folderName"]
-
-	for leaf in node["leaves"]:
-		guid = guids[leaf["guidIndex"]]["GUID"]
-		name = names[leaf["fileNameIndex"]]
-		guid_to_path[guid] = path + "/" + name
-		if guid == "6893f0e0abdd51d4888a2035ea78055f":
-			print("handling %s, %s" % (guid, name))
-
-	for child in node["children"]:
-		handle_rad_node(path, guids, names, tree, tree[child])
-
-
-def handle_rad(rad):
-	print("Handling RAD")
-	guids = rad["m_guids"]
-	names = rad["m_filenames"]
-	tree = rad["m_tree"]
-	handle_rad_node("", guids, names, tree, tree[0])
-
 
 
 # Deck tile generation
