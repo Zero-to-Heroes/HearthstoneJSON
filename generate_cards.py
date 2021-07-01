@@ -225,8 +225,8 @@ def handle_card_tag(record):
 			item["isReference"] = record["m_isReferenceTag"]
 			item["isPowerKeyword"] = record["m_isPowerKeywordTag"]
 			found = 1
-			# if cardId == "30":
-			# 	print("Updated: %s, %s, %s" % (item, record, existingCard))
+			if cardId == "61072":
+				print("Updated: %s, %s, %s" % (item, record, existingCard))
 			break
 		
 	if found == 0:
@@ -237,9 +237,12 @@ def handle_card_tag(record):
 			"isPowerKeyword": record["m_isPowerKeywordTag"]
 		}
 		existingTags = existingCard["tags"]
-		# print("handling tag %s, %s" % (tag, existingCard))
+		if cardId == "61072":
+			print("handling tag %s, %s" % (tag, existingCard))
 		existingTags.append(tag)
-	# print("added tag %s, %s" % (existingCard, existingTags))
+		
+	if cardId == "61072":
+		print("added tag %s, %s" % (existingCard, existingTags))
 	cards[cardId] = existingCard
 
 

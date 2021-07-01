@@ -111,11 +111,18 @@ def handle_record(record):
 			# print(yaml.dump(resolved))
 			# dump(resolved, 1)
 
-			print("id: %s" % record["m_ID"])
+			print("\n\nid: %s" % record["m_ID"])
 
 			script = resolved.component[1]["component"].resolve()
 			print("script")
 			print(yaml.dump(script))
+
+			gameobject = script["m_GameObject"].resolve()
+			print("\n\ngameobject: %s" % gameobject.name)
+			print(yaml.dump(gameobject))
+
+			print(yaml.dump(gameobject.component[0]["component"].resolve()))
+			print(yaml.dump(gameobject.component[1]["component"].resolve()))
 
 			mesh = script["m_CardBackMesh"].resolve()
 
@@ -124,31 +131,38 @@ def handle_record(record):
 			print("Mesh: %s" % mesh.name)
 
 			material = script["m_CardBackMaterial"].resolve()
-			print("material: %s" % material.name)
+			print("\n\nmaterial: %s" % material.name)
 			print(yaml.dump(material))
 			dump(material, 1)
 
 			shader = material.shader.resolve()
-			print("shader: %s" % shader.name)
+			props = shader.__dict__["_obj"]["m_ParsedForm"]
+			shaderName = props["m_Name"].replace("/", "_")
+			print("\n\nshader: %s" % shaderName)
+
 			print(yaml.dump(shader))
-			# dump(shader, 1)
+			dump(shader, 1)
+			print("props %s" % props)
+			print("name2 %s" % props["m_Name"])
 			
-			try:
-				material = script["m_CardBackMaterial1"].resolve()
-				print("material1: %s" % material.name)
-				print(yaml.dump(material))
-			except:
-				a = 1
+			# Could this be used for the animated version?
+			# try:
+			# 	material = script["m_CardBackMaterial1"].resolve()
+			# 	print("material1: %s" % material.name)
+			# 	print(yaml.dump(material))
+			# except:
+			# 	a = 1
 
 			texture = script["m_CardBackTexture"].resolve()
 			# print(yaml.dump(texture))
 			# dump(texture, 1)
-			print("texture: %s" % texture.name)
+			print("\n\ntexture: %s" % texture.name)
 			
 			result = {
 				"id": record["m_ID"],
 				"mesh": mesh.name,
 				"texture": texture.name,
+				"shader": shaderName,
 			}
 			cardBacks.append(result)
 			# raise ValueError("the end")
@@ -203,8 +217,11 @@ def movietexture_representer(dumper, data):
 
 
 def dump(obj, level):
-  for attr in dir(obj):
-    print("\t" * level, "obj.%s = %r" % (attr, getattr(obj, attr)))
+	for attr in dir(obj):
+		try:
+			print("\t" * level, "obj.%s = %r" % (attr, getattr(obj, attr)))
+		except:
+			a = 1
 
 if __name__ == "__main__":
 	main()
