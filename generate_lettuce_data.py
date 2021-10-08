@@ -13,7 +13,8 @@ NBSP = "\u00A0"
 
 data = {
 	"bountySets": [],
-	"equipmentTiers": []
+	"equipmentTiers": [],
+	"mercenaryLevels": [],
 }
 
 def main():
@@ -93,11 +94,30 @@ def handle_asset(asset):
 					# print(output)
 					records = d["Records"]
 					handle_lettuce_equipment_tiers(records)
-				elif d["m_Name"] in ["LETTUCE_MERCENARY_LEVEL", "LETTUCE_BOUNTY_FINAL_REWARDS", "LETTUCE_MERCENARY", "LETTUCE_EQUIPMENT_MODIFIER_DATA", "LETTUCE_MERCENARY_ABILITY", "MODIFIED_LETTUCE_ABILITY_VALUE", "LETTUCE_BOUNTY", "LETTUCE_EQUIPMENT", "LETTUCE_ABILITY_TIER", ]:
+				if d["m_Name"] in ["LETTUCE_MERCENARY_LEVEL"]:
+					a = 1
+					# output = yaml.dump(d)
+					# print(output)
+					records = d["Records"]
+					handle_lettuce_mercenary_levels(records)
+				elif d["m_Name"] in ["LETTUCE_BOUNTY_FINAL_REWARDS", "LETTUCE_MERCENARY", "LETTUCE_EQUIPMENT_MODIFIER_DATA", "LETTUCE_MERCENARY_ABILITY", "MODIFIED_LETTUCE_ABILITY_VALUE", "LETTUCE_BOUNTY", "LETTUCE_EQUIPMENT", "LETTUCE_ABILITY_TIER", ]:
 					a = 1
 					output = yaml.dump(d)
 					print(output)
 
+					
+
+def handle_lettuce_mercenary_levels(records):
+	for record in records:
+		handle_lettuce_mercenary_level(record)
+
+
+def handle_lettuce_mercenary_level(record):
+	level = {
+		"currentLevel": record["m_level"],
+		"xpToNext": record["m_totalXpRequired"],
+	}
+	data["mercenaryLevels"].append(level)
 					
 
 def handle_lettuce_equipment_tiers(records):
