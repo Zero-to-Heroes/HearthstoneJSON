@@ -134,7 +134,7 @@ def handle_asset(asset):
 		if isinstance(d, dict):
 			# print("is dict! %s: %s" % (id, d))
 			if "m_Name" in d and d["m_Name"] is not "":
-				# print("considering %s" % d["m_Name"])
+				print("considering %s" % d["m_Name"])
 				# Has some data, but not everything (eg cost is not there, neither is collectible attribute)
 				if d["m_Name"] == "CARD":
 					# Not sure why, but if you don't do this you end up with read errors. Maybe the tree needs to be
@@ -254,7 +254,7 @@ def handle_record(record):
 	# print("Handling new record")
 	# print(yaml.dump(record))
 	cardId = str(record["m_ID"])
-	# print("Handling card %s" % cardId)
+	print("\tHandling card %s" % cardId)
 	# if cardId == "63264":
 	# 	print("\tHandling new card")
 	# 	print(yaml.dump(record))
