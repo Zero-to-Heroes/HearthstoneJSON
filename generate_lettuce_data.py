@@ -12,9 +12,18 @@ from unitypack.object import ObjectPointer
 NBSP = "\u00A0"
 
 data = {
+	"mercenarySpecializations": [],
 	"bountySets": [],
 	"equipmentTiers": [],
+	"equipmentModifiers": [],
 	"mercenaryLevels": [],
+	"bountyFinalRewards": [],
+	"mercenaries": [],
+	"bounties": [],
+	"abilityTiers": [],
+	"mercenaryAbilities": [],
+	"mercenaryEquipments": [],
+	"mercenaryArtVariations": [],
 }
 
 def main():
@@ -35,7 +44,7 @@ def main():
 		yaml.add_representer(unitypack.engine.texture.Texture2D, texture2d_representer)
 
 	build_data(args.files)
-	with open('./ref/reference_cards.json', 'w') as resultFile:
+	with open('./ref/mercenaries_data.json', 'w') as resultFile:
 		resultFile.write(json.dumps(data))
 
 
@@ -72,45 +81,211 @@ def handle_asset(asset):
 				if d["m_Name"] in ["LETTUCE_ABILITY"]:
 					# This seems to be a simple listing of all lvl 1 abilities
 					a = 1
-					# output = yaml.dump(d)
-					# print(output)
-					# records = d["Records"]
-					# handle_lettuce_abilities(records)
-				if d["m_Name"] in ["LETTUCE_MERCENARY_SPECIALIZATION"]:
-					# List of all mercs ability categories or races? There are things like orc, shadow, attack, etc.
+				elif d["m_Name"] in ["LETTUCE_MERCENARY_SPECIALIZATION"]:
 					a = 1
-				if d["m_Name"] in ["LETTUCE_MERCENARY_LEVEL_STATS"]:
+					# List of all mercs ability categories or races? There are things like orc, shadow, attack, etc.
+					# Each specialization only links to one single mercenary, so maybe this could be used as a substitute 
+					# for mercenaryId?
+					records = d["Records"]
+					handle_lettuce_mercenary_specializations(records)
+				elif d["m_Name"] in ["LETTUCE_MERCENARY_LEVEL_STATS"]:
 					# The stats (atk / health) of all mercenaries, level by level
 					a = 1
-				if d["m_Name"] in ["LETTUCE_BOUNTY_SET"]:
+				elif d["m_Name"] in ["LETTUCE_BOUNTY_SET"]:
 					a = 1
 					# output = yaml.dump(d)
 					# print(output)
 					records = d["Records"]
 					handle_lettuce_bounty_sets(records)
-				if d["m_Name"] in ["LETTUCE_EQUIPMENT_TIER"]:
+				elif d["m_Name"] in ["LETTUCE_EQUIPMENT_TIER"]:
 					a = 1
-					# output = yaml.dump(d)
-					# print(output)
+					# Here is the mapping between equipment ID and card ID!
 					records = d["Records"]
 					handle_lettuce_equipment_tiers(records)
-				if d["m_Name"] in ["LETTUCE_MERCENARY_LEVEL"]:
+				elif d["m_Name"] in ["LETTUCE_MERCENARY_LEVEL"]:
 					a = 1
 					# output = yaml.dump(d)
 					# print(output)
 					records = d["Records"]
 					handle_lettuce_mercenary_levels(records)
-				elif d["m_Name"] in ["LETTUCE_BOUNTY_FINAL_REWARDS", "LETTUCE_MERCENARY", "LETTUCE_EQUIPMENT_MODIFIER_DATA", "LETTUCE_MERCENARY_ABILITY", "MODIFIED_LETTUCE_ABILITY_VALUE", "LETTUCE_BOUNTY", "LETTUCE_EQUIPMENT", "LETTUCE_ABILITY_TIER", ]:
+				elif d["m_Name"] in ["LETTUCE_BOUNTY_FINAL_REWARDS"]:
+					a = 1
+					# output = yaml.dump(d)
+					# print(output)
+					records = d["Records"]
+					handle_lettuce_bounty_final_rewards(records)
+				elif d["m_Name"] in ["LETTUCE_MERCENARY"]:
+					a = 1
+					# This seems to be a simple mapping between ID and merc name.
+					# Doesn't look like there is any DBF id in there though?
+					records = d["Records"]
+					handle_lettuce_mercenaries(records)
+				elif d["m_Name"] in ["LETTUCE_EQUIPMENT_MODIFIER_DATA"]:
+					a = 1
+					# This seems to be a simple mapping between ID and merc name.
+					# Doesn't look like there is any DBF id in there though?
+					records = d["Records"]
+					handle_lettuce_equipment_modifier_datas(records)
+				elif d["m_Name"] in ["LETTUCE_MERCENARY_ABILITY"]:
+					a = 1
+					# Mapping between abilityId, specializationId, and min merc level
+					records = d["Records"]
+					handle_lettuce_mercenary_abilities(records)
+				elif d["m_Name"] in ["MODIFIED_LETTUCE_ABILITY_VALUE"]:
+					# How each ability affects health, cooldown, speed, etc.
+					# Might be interesting to add, but I still don't have a mapping
+					# between an ability ID and a dbfCardId
+					a = 1
+				elif d["m_Name"] in ["LETTUCE_BOUNTY"]:
+					a = 1
+					records = d["Records"]
+					handle_lettuce_bounties(records)
+				elif d["m_Name"] in ["LETTUCE_EQUIPMENT"]:
+					# List of equipments + name (somewhat, it is Sharpened Axe LETL_501 or LETL_265_01 - Swiftfeather Bow 1)
+					a = 1
+				elif d["m_Name"] in ["LETTUCE_MERCENARY_EQUIPMENT"]:
+					a = 1
+					# output = yaml.dump(d)
+					# print(output)
+					records = d["Records"]
+					handle_lettuce_mercenary_equipments(records)
+				elif d["m_Name"] in ["LETTUCE_ABILITY_TIER"]:
+					a = 1
+					# Here is the mapping between ability ID and card ID!
+					# No mapping between ability ID and merc ID though
+					records = d["Records"]
+					handle_lettuce_ability_tiers(records)
+				elif d["m_Name"] in ["MERCENARY_ART_VARIATION"]:
+					a = 1
+					# Mapping between a merc ID and a card ID
+					records = d["Records"]
+					handle_lettuce_mercenary_art_variations(records)
+				elif d["m_Name"] in ["MERCENARY_ART_VARIATION_PREMIUM"]:
+					a = 1
+					# No card ID here, so not sure what to do with the info
+				elif d["m_Name"] in [""]:
 					a = 1
 					output = yaml.dump(d)
 					print(output)
 
+
+def handle_lettuce_mercenary_art_variations(records):
+	for record in records:
+		handle_lettuce_mercenary_art_variation(record)
+
+def handle_lettuce_mercenary_art_variation(record):
+	mercenaryArtVariation = {
+		"id": record["m_ID"],
+		"mercenaryId": record["m_lettuceMercenaryId"],
+		"cardId": record["m_cardId"],
+		"defaultVariation": record["m_defaultVariation"],
+	}
+	data["mercenaryArtVariations"].append(mercenaryArtVariation)
+
+
+def handle_lettuce_mercenary_equipments(records):
+	for record in records:
+		handle_lettuce_mercenary_equipment(record)
+
+def handle_lettuce_mercenary_equipment(record):
+	mercenaryEquipment = {
+		"id": record["m_ID"],
+		"mercenaryId": record["m_lettuceMercenaryId"],
+		"equipmentId": record["m_lettuceEquipmentId"],
+	}
+	data["mercenaryEquipments"].append(mercenaryEquipment)
+
+
+def handle_lettuce_mercenary_abilities(records):
+	for record in records:
+		handle_lettuce_mercenary_ability(record)
+
+def handle_lettuce_mercenary_ability(record):
+	mercenaryAbility = {
+		"id": record["m_ID"],
+		"specializationId": record["m_lettuceMercenarySpecializationId"],
+		"abilityId": record["m_lettuceAbilityId"],
+		"mercenaryRequiredLevelId": record["m_lettuceMercenaryLevelIdRequiredId"],
+	}
+	data["mercenaryAbilities"].append(mercenaryAbility)
+
+
+def handle_lettuce_ability_tiers(records):
+	for record in records:
+		handle_lettuce_ability_tier(record)
+
+def handle_lettuce_ability_tier(record):
+	abilityTier = {
+		"id": record["m_ID"],
+		"abilityId": record["m_lettuceAbilityId"],
+		"tier": record["m_tier"],
+		"cardId": record["m_cardId"],
+		"coinCraftCost": record["m_coinCraftCost"],
+	}
+	data["abilityTiers"].append(abilityTier)
+
+
+def handle_lettuce_mercenary_specializations(records):
+	for record in records:
+		handle_lettuce_mercenary_specialization(record)
+
+def handle_lettuce_mercenary_specialization(record):
+	spec = {
+		"id": record["m_ID"],
+		"mercenaryId": record["m_lettuceMercenaryId"],
+		"name": record["m_name"]["m_locValues"][0] if len(record["m_name"]["m_locValues"]) > 0 else ""
+	}
+	data["mercenarySpecializations"].append(spec)
+
+
+def handle_lettuce_bounties(records):
+	for record in records:
+		handle_lettuce_bounty(record)
+
+def handle_lettuce_bounty(record):
+	bounty = {
+		"id": record["m_ID"],
+		"name": record["m_noteDesc"],
+		"level": record["m_bountyLevel"],
+		"enabled": record["m_enabled"],
+		"setId": record["m_bountySetId"],
+		"difficultyMode": record["m_difficultyMode"],
+		"heroic": record["m_heroic"],
+		"finalBossCardId": record["m_finalBossCardId"],
+		"sortOrder": record["m_sortOrder"],
+		"requiredCompletedBountyId": record["m_requiredCompletedBountyId"]
+	}
+	data["bounties"].append(bounty)
+
+
+def handle_lettuce_mercenaries(records):
+	for record in records:
+		handle_lettuce_mercenary(record)
+
+def handle_lettuce_mercenary(record):
+	mercenary = {
+		"id": record["m_ID"],
+		"name": record["m_noteDesc"]
+	}
+	data["mercenaries"].append(mercenary)
+
+
+def handle_lettuce_bounty_final_rewards(records):
+	for record in records:
+		handle_lettuce_bounty_final_reward(record)
+
+def handle_lettuce_bounty_final_reward(record):
+	bountyReward = {
+		"id": record["m_ID"],
+		"bountyId": record["m_lettuceBountyId"],
+		"rewardMercenaryId": record["m_rewardMercenaryId"]
+	}
+	data["bountyFinalRewards"].append(bountyReward)
 					
 
 def handle_lettuce_mercenary_levels(records):
 	for record in records:
 		handle_lettuce_mercenary_level(record)
-
 
 def handle_lettuce_mercenary_level(record):
 	level = {
@@ -124,21 +299,34 @@ def handle_lettuce_equipment_tiers(records):
 	for record in records:
 		handle_lettuce_equipment_tier(record)
 
-
 def handle_lettuce_equipment_tier(record):
 	equipment = {
+		"id": record["m_ID"],
 		"equipmentId": record["m_lettuceEquipmentId"],
 		"tier": record["m_tier"],
 		"cardId": record["m_cardId"],
 		"coinCraftCost": record["m_coinCraftCost"],
 	}
 	data["equipmentTiers"].append(equipment)
+	
+
+def handle_lettuce_equipment_modifier_datas(records):
+	for record in records:
+		handle_lettuce_equipment_modifier_data(record)
+
+def handle_lettuce_equipment_modifier_data(record):
+	equipment = {
+		"id": record["m_ID"],
+		"tier": record["m_lettuceEquipmentTierId"],
+		"attack": record["m_mercenaryAttackChange"],
+		"health": record["m_mercenaryHealthChange"],
+	}
+	data["equipmentModifiers"].append(equipment)
 
 
 def handle_lettuce_bounty_sets(records):
 	for record in records:
 		handle_lettuce_bounty_set(record)
-
 
 def handle_lettuce_bounty_set(record):
 	bountySet = {}
