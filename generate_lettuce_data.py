@@ -24,6 +24,9 @@ data = {
 	"mercenaryAbilities": [],
 	"mercenaryEquipments": [],
 	"mercenaryArtVariations": [],
+	"mercenaryVisitors": [],
+	"mercenaryVisitorTaskChains": [],
+	"mercenaryVisitorTasks": [],
 }
 
 def main():
@@ -80,7 +83,25 @@ def handle_asset(asset):
 				print("considering %s" % d["m_Name"])
 				if d["m_Name"] in ["LETTUCE_ABILITY"]:
 					# This seems to be a simple listing of all lvl 1 abilities
+					output = yaml.dump(d)
+					print(output)
 					a = 1
+				elif d["m_Name"] in ["MERCENARY_VISITOR"]:
+					a = 1
+					records = d["Records"]
+					handle_lettuce_mercenary_visitors(records)
+				elif d["m_Name"] in ["VISITOR_TASK_CHAIN"]:
+					a = 1
+					records = d["Records"]
+					handle_lettuce_mercenary_visitor_task_chains(records)
+				elif d["m_Name"] in ["VISITOR_TASK"]:
+					a = 1
+					records = d["Records"]
+					handle_lettuce_mercenary_visitor_tasks(records)
+				elif d["m_Name"] in ["REWARD_ITEM"]:
+					a = 1
+					records = d["Records"]
+					handle_lettuce_mercenary_reward_items(records)
 				elif d["m_Name"] in ["LETTUCE_MERCENARY_SPECIALIZATION"]:
 					a = 1
 					# List of all mercs ability categories or races? There are things like orc, shadow, attack, etc.
@@ -167,6 +188,60 @@ def handle_asset(asset):
 					a = 1
 					output = yaml.dump(d)
 					print(output)
+
+
+def handle_lettuce_mercenary_reward_items(records):
+	for record in records:
+		handle_lettuce_mercenary_reward_item(record)
+
+def handle_lettuce_mercenary_reward_item(record):
+	# Don't handle it for now
+	a = 1
+	# task = {
+	# }
+	# data["mercenaryRewardItems"].append(task)
+
+
+def handle_lettuce_mercenary_visitor_tasks(records):
+	for record in records:
+		handle_lettuce_mercenary_visitor_task(record)
+
+def handle_lettuce_mercenary_visitor_task(record):
+	task = {
+		"id": record["m_ID"],
+		"mercenaryVisitorId": record["m_mercenaryVisitorId"],
+		"title": record["m_taskTitle"]["m_locValues"][0] if len(record["m_taskTitle"]["m_locValues"]) > 0 else "",
+		"description": record["m_taskDescription"]["m_locValues"][0] if len(record["m_taskDescription"]["m_locValues"]) > 0 else "",
+		"quota": record["m_quota"],
+		"rewardListId": record["m_rewardListId"],
+	}
+	data["mercenaryVisitorTasks"].append(task)
+
+
+def handle_lettuce_mercenary_visitor_task_chains(records):
+	for record in records:
+		handle_lettuce_mercenary_visitor_task_chain(record)
+
+def handle_lettuce_mercenary_visitor_task_chain(record):
+	visitor = {
+		"id": record["m_ID"],
+		"mercenaryVisitorId": record["m_mercenaryVisitorId"],
+	}
+	data["mercenaryVisitorTaskChains"].append(visitor)
+
+
+def handle_lettuce_mercenary_visitors(records):
+	for record in records:
+		handle_lettuce_mercenary_visitor(record)
+
+def handle_lettuce_mercenary_visitor(record):
+	visitor = {
+		"id": record["m_ID"],
+		"mercenaryId": record["m_mercenaryId"],
+		"visitorType": record["m_visitorType"],
+		"taskChainId": record["m_taskChainId"],
+	}
+	data["mercenaryVisitors"].append(visitor)
 
 
 def handle_lettuce_mercenary_art_variations(records):

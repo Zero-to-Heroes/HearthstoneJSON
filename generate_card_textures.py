@@ -24,12 +24,14 @@ def main():
 		help="Which image formats to generate"
 	)
 	p.add_argument("--skip-tiles", action="store_true", help="Skip tiles generation")
+	p.add_argument("--skip-coins", action="store_true", help="Skip coins generation")
 	p.add_argument("--skip-thumbnails", action="store_true", help="Skip thumbnail generation")
 	p.add_argument(
 		"--only", type=str, nargs="?", help="Extract specific CardIDs (case-insensitive)"
 	)
 	p.add_argument("--orig-dir", type=str, default="orig", help="Name of output for originals")
 	p.add_argument("--tiles-dir", type=str, default="tiles", help="Name of output for tiles")
+	p.add_argument("--coins-dir", type=str, default="coins", help="Name of output for coins")
 	p.add_argument("--traceback", action="store_true", help="Raise errors during conversion")
 	p.add_argument("--json-only", action="store_true", help="Only write JSON cardinfo")
 	p.add_argument("files", nargs="+")
@@ -177,9 +179,16 @@ def handle_gameobject(asset, textures, cards, filter_ids):
 			tile = carddef.get("m_DeckCardBarPortrait")
 			if tile:
 				tile = tile.resolve()
+
+			mercenary_coin = carddef.get("m_MercenaryCoinPortrait")
+			if mercenary_coin:
+				mercenary_coin = mercenary_coin.resolve()
+
+
 			cards[cardid] = {
 				"path": path.lower(),
 				"tile": tile.saved_properties if tile else {},
+				"mercenary_coin": mercenary_coin.saved_properties if mercenary_coin else {},
 			}
 
 
@@ -261,6 +270,41 @@ def generate_tile_image(img, tile):
 	return bar.resize((OUT_WIDTH, OUT_HEIGHT), Image.LANCZOS)
 
 
+def generate_coin_image(img, coin, filename):
+	if not coin:
+		print("\tno coin for image")
+		return
+
+	print("handling coin %s: %s" % (filename, coin))
+	if (img.width, img.height) != (512, 512):
+		img = img.resize((512, 512), Image.ANTIALIAS)
+		
+	rgbImage = Image.new("RGB", (img.width, img.height))
+
+	# props = (-0.2, 0.25, 1, 1, 0, 0, 1, img.width)
+	if coin:
+		props = (
+			coin["m_TexEnvs"]["_MainTex"]["m_Offset"]["x"],
+			coin["m_TexEnvs"]["_MainTex"]["m_Offset"]["y"],
+			coin["m_TexEnvs"]["_MainTex"]["m_Scale"]["x"],
+			coin["m_TexEnvs"]["_MainTex"]["m_Scale"]["y"],
+			coin["m_Floats"].get("_OffsetX", 0.0),
+			coin["m_Floats"].get("_OffsetY", 0.0),
+			coin["m_Floats"].get("_Scale", 1.0),
+		)
+		# print("props %s" % props)
+
+	x, y, width, height = get_rect(*props)
+
+	bar = rgbImage.crop((x, y, x + width, y + height))
+	bar = ImageOps.flip(bar)
+	# negative x scale means horizontal flip
+	if props[2] < 0:
+		bar = ImageOps.mirror(bar)
+
+	return bar.resize((OUT_WIDTH, OUT_HEIGHT), Image.LANCZOS)
+
+
 def get_dir(basedir, dirname):
 	ret = os.path.join(basedir, dirname)
 	if not os.path.exists(ret):
@@ -287,6 +331,9 @@ def do_texture(path, id, textures, values, thumb_sizes, args):
 	flipped = None
 
 	filename, exists = get_filename(args.outdir, args.orig_dir, id, ext=".png")
+	if not "SWL" in filename:
+		return
+	
 	if not (args.skip_existing and exists):
 		print("-> %r" % (filename))
 		flipped = ImageOps.flip(texture.image).convert("RGB")
@@ -295,12 +342,19 @@ def do_texture(path, id, textures, values, thumb_sizes, args):
 	for format in args.formats:
 		ext = "." + format
 
-		if not args.skip_tiles:
-			filename, exists = get_filename(args.outdir, args.tiles_dir, id, ext=ext)
-			if not (args.skip_existing and exists):
-				tile_texture = generate_tile_image(texture.image, values["tile"])
-				print("-> %r" % (filename))
-				tile_texture.save(filename)
+		# if not args.skip_tiles:
+		# 	filename, exists = get_filename(args.outdir, args.tiles_dir, id, ext=ext)
+		# 	if not (args.skip_existing and exists):
+		# 		tile_texture = generate_tile_image(texture.image, values["tile"])
+		# 		print("-> %r" % (filename))
+		# 		tile_texture.save(filename)
+				
+		# if not args.skip_coin:
+		filename, exists = get_filename(args.outdir, args.coins_dir, id, ext=ext)
+		if not (args.skip_existing and exists):
+			print("-> %r" % (filename))
+			coin = generate_coin_image(texture.image, values["mercenary_coin"], filename)
+			coin.save(filename)
 
 		if ext == ".png":
 			# skip png generation for thumbnails
