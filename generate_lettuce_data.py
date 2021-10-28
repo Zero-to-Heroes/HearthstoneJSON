@@ -96,6 +96,8 @@ def handle_asset(asset):
 					handle_lettuce_mercenary_visitor_task_chains(records)
 				elif d["m_Name"] in ["VISITOR_TASK"]:
 					a = 1
+					output = yaml.dump(d)
+					print(output)
 					records = d["Records"]
 					handle_lettuce_mercenary_visitor_tasks(records)
 				elif d["m_Name"] in ["REWARD_ITEM"]:
