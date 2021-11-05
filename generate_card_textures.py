@@ -16,32 +16,17 @@ def main():
 	p.add_argument("src")
 	p.add_argument("--outdir", nargs="?", default="")
 	p.add_argument("--skip-existing", action="store_true")
+	p.add_argument("--orig-dir", type=str, default="orig", help="Name of output for originals")
+	p.add_argument("--tiles-dir", type=str, default="tiles", help="Name of output for tiles")
 	p.add_argument(
 		"--formats", nargs="*", default=["jpg", "png", "webp"],
 		help="Which image formats to generate"
 	)
-	p.add_argument("--skip-tiles", action="store_true", help="Skip tiles generation")
-	p.add_argument("--skip-thumbnails", action="store_true", help="Skip thumbnail generation")
-	p.add_argument(
-		"--only", type=str, nargs="?", help="Extract specific CardIDs (case-insensitive)"
-	)
-	p.add_argument("--orig-dir", type=str, default="orig", help="Name of output for originals")
-	p.add_argument("--tiles-dir", type=str, default="tiles", help="Name of output for tiles")
-	p.add_argument("--traceback", action="store_true", help="Raise errors during conversion")
-	p.add_argument("--json-only", action="store_true", help="Only write JSON cardinfo")
 	args = p.parse_args(sys.argv[1:])
 	generate_card_textures(args.src, args)
 
 
 def generate_card_textures(src, args):
-	# for root, dirs, files in os.walk(src):
-	# 	for file_name in files:
-	# 		# generate file_path
-	# 		file_path = os.path.join(root, file_name)
-	# 		# load that file via UnityPy.load
-	# 		env = UnityPy.load(file_path)
-	# 		populate_guid_to_path(env)
-
 	cards, textures = extract_info(src)
 	paths = [card["path"] for card in cards.values()]
 	print("Found %i cards, %i textures including %i unique in use." % (
@@ -49,45 +34,13 @@ def generate_card_textures(src, args):
 	))
 
 	thumb_sizes = (256, 512)
-
 	for id, values in sorted(cards.items()):
 		path = values["path"]
-
 		try:
 			do_texture(path, id, textures, values, thumb_sizes, args)
 		except Exception as e:
 			sys.stderr.write("ERROR on %r (%r): %s\n" % (path, id, e))
 			raise
-
-
-def populate_guid_to_path(env):
-	for obj in env.objects:
-		print("checking type %s %s " % (obj.type, obj.type == ClassIDType.AssetBundle))
-		if obj.serialized_type.nodes:
-			# save decoded data
-			try:
-				tree = obj.read_typetree()
-				print("tree %s" % (json.dumps(tree)))
-			except:
-				print("could not read %s" % obj.type)
-				continue
-			if "m_assets" in tree:
-				for asset_info in tree["m_assets"]:
-					print("asset_info %s" % (json.dumps(asset_info)))
-					continue
-					guid = asset_info["guid"]
-					path = asset_info["Path"]
-					path = path.lower()
-					if not path.startswith("final/"):
-						path = "final/" + path
-					if not path.startswith("final/assets"):
-						print("not handling path in guid_to_path %s" % path)
-						continue
-					guid_to_path[guid] = path
-		else:
-			data = obj.read()
-			print("data %s" % data.raw_data)
-
 
 
 def extract_info(src):
@@ -116,41 +69,23 @@ def extract_info(src):
 def handle_asset(env, textures):
 	for obj in env.objects:
 		if obj.type == ClassIDType.AssetBundle:
-			# print("assetbundle %s" % obj)
 			data = obj.read()
-			# print("data %s" % data)
 			container = data.m_Container
-			# print("container %s" % container)				
 			for path, asset in container.items():
-				# print("considering %s, %s" % (path, asset))
-				# asset = obj["asset"]
 				textures[path] = asset.asset
 
 
 def handle_gameobject(asset, cards):
 	for obj in asset.objects:
 		if obj.type == ClassIDType.GameObject:
-
 			data = obj.read()
 			cardid = data.name
 
-			# if cardid != "CS1_042":
-			# 	continue
-
 			print("cardid: %s" % cardid)
-			# print("d %s" % data)
-			# print("components %s" % data.m_Components)
 			if len(data.m_Components) < 2:
 				continue
 
 			carddef = data.m_Components[1].read()
-			# print("monoBehavior %s" % monoBehavior)
-			# carddef = monoBehavior.read()
-
-
-			# print("carddef %s" % carddef)
-			# print(carddef.to_dict())
-
 			path = carddef.get("m_PortraitTexturePath")
 			if not path:
 				# Sometimes there's multiple per cardid, we remove the ones without art
@@ -158,21 +93,17 @@ def handle_gameobject(asset, cards):
 
 			if ":" in path:
 				guid = path.split(":")[1]
-				# print("guid %s" % guid)
 				path = guid
 
 			tile = carddef.get("m_DeckCardBarPortrait")
-			# print("tile %s" % tile)
 			if tile:
 				tile = tile.read()
-				# print("tile %s" % tile.to_dict())
 
 
 			cards[cardid] = {
 				"path": path.lower(),
 				"tile": tile.get("m_SavedProperties") if tile else {},
 			}
-			# print("cards %s" % cards)
 
 
 # Deck tile generation
@@ -275,14 +206,11 @@ def do_texture(path, id, textures, values, thumb_sizes, args):
 		return
 
 	pptr = textures[path]
-	print("pptr %s" % pptr)
 	
 	texture = pptr.read()
-	print("texture %s" % texture)
 	flipped = None
 
 	filename, exists = get_filename(args.outdir, args.orig_dir, id, ext=".png")
-	print("filename %s" % filename)
 
 	if not (args.skip_existing and exists):
 		print("-> %r" % (filename))
@@ -302,10 +230,6 @@ def do_texture(path, id, textures, values, thumb_sizes, args):
 
 		if ext == ".png":
 			# skip png generation for thumbnails
-			continue
-
-		if args.skip_thumbnails:
-			# --skip-thumbnails was specified
 			continue
 
 		for sz in thumb_sizes:
