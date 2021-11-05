@@ -3,20 +3,17 @@ import json
 import os
 import sys
 from argparse import ArgumentParser
-from collections import OrderedDict
 
-import unitypack
+import UnityPy
 from PIL import Image, ImageOps
-from unitypack.asset import Asset
-from unitypack.environment import UnityEnvironment
-from unitypack.object import ObjectPointer
-from unitypack.utils import extract_audioclip_samples
+from UnityPy.enums import ClassIDType
 
 guid_to_path = {}
 
 
 def main():
 	p = ArgumentParser()
+	p.add_argument("src")
 	p.add_argument("--outdir", nargs="?", default="")
 	p.add_argument("--skip-existing", action="store_true")
 	p.add_argument(
@@ -24,34 +21,28 @@ def main():
 		help="Which image formats to generate"
 	)
 	p.add_argument("--skip-tiles", action="store_true", help="Skip tiles generation")
-	p.add_argument("--skip-coins", action="store_true", help="Skip coins generation")
 	p.add_argument("--skip-thumbnails", action="store_true", help="Skip thumbnail generation")
 	p.add_argument(
 		"--only", type=str, nargs="?", help="Extract specific CardIDs (case-insensitive)"
 	)
 	p.add_argument("--orig-dir", type=str, default="orig", help="Name of output for originals")
 	p.add_argument("--tiles-dir", type=str, default="tiles", help="Name of output for tiles")
-	p.add_argument("--coins-dir", type=str, default="coins", help="Name of output for coins")
 	p.add_argument("--traceback", action="store_true", help="Raise errors during conversion")
 	p.add_argument("--json-only", action="store_true", help="Only write JSON cardinfo")
-	p.add_argument("files", nargs="+")
 	args = p.parse_args(sys.argv[1:])
+	generate_card_textures(args.src, args)
 
-	for file in args.files:
-		if file.endswith(".assets") or file.endswith(".asset"):
-			with open(file, "rb") as f:
-				asset = Asset.from_file(f)
-				populate_guid_to_path(asset)
-			continue
 
-		with open(file, "rb") as f:
-			bundle = unitypack.load(f)
-			for asset in bundle.assets:
-				populate_guid_to_path(asset)
+def generate_card_textures(src, args):
+	# for root, dirs, files in os.walk(src):
+	# 	for file_name in files:
+	# 		# generate file_path
+	# 		file_path = os.path.join(root, file_name)
+	# 		# load that file via UnityPy.load
+	# 		env = UnityPy.load(file_path)
+	# 		populate_guid_to_path(env)
 
-	filter_ids = args.only.lower().split(",") if args.only else []
-
-	cards, textures = extract_info(args.files, filter_ids)
+	cards, textures = extract_info(src)
 	paths = [card["path"] for card in cards.values()]
 	print("Found %i cards, %i textures including %i unique in use." % (
 		len(cards), len(textures), len(set(paths))
@@ -60,136 +51,128 @@ def main():
 	thumb_sizes = (256, 512)
 
 	for id, values in sorted(cards.items()):
-		if filter_ids and id.lower() not in filter_ids:
-			continue
 		path = values["path"]
-
-		if args.json_only:
-			tile = values["tile"]
-			d = {
-				"Name": id,
-				"PortraitPath": path,
-			}
-			if tile:
-				d["DcbTexScaleX"] = tile["m_TexEnvs"]["_MainTex"]["m_Scale"]["x"]
-				d["DcbTexScaleY"] = tile["m_TexEnvs"]["_MainTex"]["m_Scale"]["y"]
-				d["DcbTexOffsetX"] = tile["m_TexEnvs"]["_MainTex"]["m_Offset"]["x"]
-				d["DcbTexOffsetY"] = tile["m_TexEnvs"]["_MainTex"]["m_Offset"]["y"]
-				d["DcbShaderScale"] = tile["m_Floats"].get("_Scale", 1.0)
-				d["DcbShaderOffsetX"] = tile["m_Floats"].get("_OffsetX", 0.0)
-				d["DcbShaderOffsetY"] = tile["m_Floats"].get("_OffsetY", 0.0)
-			with open(id + ".json", "w") as f:
-				json.dump(d, f)
-			continue
 
 		try:
 			do_texture(path, id, textures, values, thumb_sizes, args)
 		except Exception as e:
-			sys.stderr.write("ERROR on %r (%r): %s (Use --traceback for details)\n" % (path, id, e))
-			if args.traceback:
-				raise
+			sys.stderr.write("ERROR on %r (%r): %s\n" % (path, id, e))
+			raise
 
 
-def populate_guid_to_path(asset):
-	for id, obj in asset.objects.items():
-		try:
-			d = obj.read()
-			for asset_info in d["m_assets"]:
-				guid = asset_info["Guid"]
-				path = asset_info["Path"]
-				path = path.lower()
-				if not path.startswith("final/"):
-					path = "final/" + path
-				if not path.startswith("final/assets"):
-					print("not handling path in guid_to_path %s" % path)
+def populate_guid_to_path(env):
+	for obj in env.objects:
+		print("checking type %s %s " % (obj.type, obj.type == ClassIDType.AssetBundle))
+		if obj.serialized_type.nodes:
+			# save decoded data
+			try:
+				tree = obj.read_typetree()
+				print("tree %s" % (json.dumps(tree)))
+			except:
+				print("could not read %s" % obj.type)
+				continue
+			if "m_assets" in tree:
+				for asset_info in tree["m_assets"]:
+					print("asset_info %s" % (json.dumps(asset_info)))
 					continue
-				guid_to_path[guid] = path
-		except:
-			continue
+					guid = asset_info["guid"]
+					path = asset_info["Path"]
+					path = path.lower()
+					if not path.startswith("final/"):
+						path = "final/" + path
+					if not path.startswith("final/assets"):
+						print("not handling path in guid_to_path %s" % path)
+						continue
+					guid_to_path[guid] = path
+		else:
+			data = obj.read()
+			print("data %s" % data.raw_data)
 
 
-def extract_info(files, filter_ids):
+
+def extract_info(src):
 	textures = {}
 	cards = {}
-	env = UnityEnvironment()
 
-	for file in files:
-		f = open(file, "rb")
-		env.load(f)
+	for root, dirs, files in os.walk(src):
+		for file_name in files:
+			# generate file_path
+			file_path = os.path.join(root, file_name)
+			# load that file via UnityPy.load
+			env = UnityPy.load(file_path)
+			handle_asset(env, textures)
 
-	for bundle in env.bundles.values():
-		for asset in bundle.assets:
-			handle_asset(asset, textures, cards, filter_ids)
-
-	for bundle in env.bundles.values():
-		for asset in bundle.assets:
-			handle_gameobject(asset, textures, cards, filter_ids)
+	for root, dirs, files in os.walk(src):
+		for file_name in files:
+			# generate file_path
+			file_path = os.path.join(root, file_name)
+			# load that file via UnityPy.load
+			env = UnityPy.load(file_path)
+			handle_gameobject(env, cards)
 
 	return cards, textures
 
 
-def handle_asset(asset, textures, cards, filter_ids):
-	for obj in asset.objects.values():
-		if obj.type == "AssetBundle":
-			d = obj.read()
-			for path, obj in d["m_Container"]:
-				asset = obj["asset"]
-				textures[path] = asset
+def handle_asset(env, textures):
+	for obj in env.objects:
+		if obj.type == ClassIDType.AssetBundle:
+			# print("assetbundle %s" % obj)
+			data = obj.read()
+			# print("data %s" % data)
+			container = data.m_Container
+			# print("container %s" % container)				
+			for path, asset in container.items():
+				# print("considering %s, %s" % (path, asset))
+				# asset = obj["asset"]
+				textures[path] = asset.asset
 
 
-def handle_gameobject(asset, textures, cards, filter_ids):
-	for obj in asset.objects.values():
-		if obj.type == "GameObject":
-			d = obj.read()
-			cardid = d.name
+def handle_gameobject(asset, cards):
+	for obj in asset.objects:
+		if obj.type == ClassIDType.GameObject:
 
-			if filter_ids and cardid.lower() not in filter_ids:
-				continue
-			if cardid in ("CardDefTemplate", "HiddenCard"):
-				# not a real card
-				cards[cardid] = {"path": "", "tile": ""}
-				continue
-			if len(d.component) < 2:
-				# Not a CardDef
-				continue
-			script = d.component[1]
-			if isinstance(script, dict):  # Unity 5.6+
-				carddef = script["component"].resolve()
-			else:  # Unity <= 5.4
-				carddef = script[1].resolve()
+			data = obj.read()
+			cardid = data.name
 
-			if not isinstance(carddef, dict) or "m_PortraitTexturePath" not in carddef:
-				# Not a CardDef
+			# if cardid != "CS1_042":
+			# 	continue
+
+			print("cardid: %s" % cardid)
+			# print("d %s" % data)
+			# print("components %s" % data.m_Components)
+			if len(data.m_Components) < 2:
 				continue
 
-			path = carddef["m_PortraitTexturePath"]
+			monoBehavior = data.m_Components[1]
+			# print("monoBehavior %s" % monoBehavior)
+			carddef = monoBehavior.read()
+
+
+			# print("carddef %s" % carddef)
+			# print(carddef.to_dict())
+
+			path = carddef.get("m_PortraitTexturePath")
 			if not path:
 				# Sometimes there's multiple per cardid, we remove the ones without art
 				continue
 
 			if ":" in path:
 				guid = path.split(":")[1]
-				if guid in guid_to_path:
-					path = guid_to_path[guid]
-				else:
-					path = guid
-					if guid == "6893f0e0abdd51d4888a2035ea78055f":
-						print("WARN: Could not find %s in handle_gameobject (path=%s)" % (guid, path))
+				# print("guid %s" % guid)
+				path = guid
 
 			tile = carddef.get("m_DeckCardBarPortrait")
+			# print("tile %s" % tile)
 			if tile:
-				tile = tile.resolve()
-
-			mercenary_coin = carddef.get("m_MercenaryCoinPortrait")
-			if mercenary_coin:
-				mercenary_coin = mercenary_coin.resolve()
+				tile = tile.read()
+				# print("tile %s" % tile.to_dict())
 
 
 			cards[cardid] = {
 				"path": path.lower(),
-				"tile": tile.saved_properties if tile else {},
-				"mercenary_coin": mercenary_coin.saved_properties if mercenary_coin else {},
+				"tile": tile.get("m_SavedProperties") if tile else {},
 			}
+			# print("cards %s" % cards)
 
 
 # Deck tile generation
@@ -250,53 +233,18 @@ def generate_tile_image(img, tile):
 	props = (-0.2, 0.25, 1, 1, 0, 0, 1, img.width)
 	if tile:
 		props = (
-			tile["m_TexEnvs"]["_MainTex"]["m_Offset"]["x"],
-			tile["m_TexEnvs"]["_MainTex"]["m_Offset"]["y"],
-			tile["m_TexEnvs"]["_MainTex"]["m_Scale"]["x"],
-			tile["m_TexEnvs"]["_MainTex"]["m_Scale"]["y"],
-			tile["m_Floats"].get("_OffsetX", 0.0),
-			tile["m_Floats"].get("_OffsetY", 0.0),
-			tile["m_Floats"].get("_Scale", 1.0),
+			tile.m_TexEnvs["_MainTex"].m_Offset.X,
+			tile.m_TexEnvs["_MainTex"].m_Offset.Y,
+			tile.m_TexEnvs["_MainTex"].m_Scale.X,
+			tile.m_TexEnvs["_MainTex"].m_Scale.Y,
+			tile.m_Floats.get("_OffsetX", 0.0),
+			tile.m_Floats.get("_OffsetY", 0.0),
+			tile.m_Floats.get("_Scale", 1.0),
+			img.width
 		)
 
 	x, y, width, height = get_rect(*props)
-
-	bar = tiled.crop((x, y, x + width, y + height))
-	bar = ImageOps.flip(bar)
-	# negative x scale means horizontal flip
-	if props[2] < 0:
-		bar = ImageOps.mirror(bar)
-
-	return bar.resize((OUT_WIDTH, OUT_HEIGHT), Image.LANCZOS)
-
-
-def generate_coin_image(img, coin, filename):
-	if not coin:
-		print("\tno coin for image")
-		return
-
-	print("handling coin %s: %s" % (filename, coin))
-	if (img.width, img.height) != (512, 512):
-		img = img.resize((512, 512), Image.ANTIALIAS)
-		
-	rgbImage = Image.new("RGB", (img.width, img.height))
-
-	# props = (-0.2, 0.25, 1, 1, 0, 0, 1, img.width)
-	if coin:
-		props = (
-			coin["m_TexEnvs"]["_MainTex"]["m_Offset"]["x"],
-			coin["m_TexEnvs"]["_MainTex"]["m_Offset"]["y"],
-			coin["m_TexEnvs"]["_MainTex"]["m_Scale"]["x"],
-			coin["m_TexEnvs"]["_MainTex"]["m_Scale"]["y"],
-			coin["m_Floats"].get("_OffsetX", 0.0),
-			coin["m_Floats"].get("_OffsetY", 0.0),
-			coin["m_Floats"].get("_Scale", 1.0),
-		)
-		# print("props %s" % props)
-
-	x, y, width, height = get_rect(*props)
-
-	bar = rgbImage.crop((x, y, x + width, y + height))
+	bar = ImageOps.flip(tiled).crop((x, y, x + width, y + height))
 	bar = ImageOps.flip(bar)
 	# negative x scale means horizontal flip
 	if props[2] < 0:
@@ -327,34 +275,30 @@ def do_texture(path, id, textures, values, thumb_sizes, args):
 		return
 
 	pptr = textures[path]
-	texture = pptr.resolve()
+	print("pptr %s" % pptr)
+	
+	texture = pptr.read()
+	print("texture %s" % texture)
 	flipped = None
 
 	filename, exists = get_filename(args.outdir, args.orig_dir, id, ext=".png")
-	if not "SWL" in filename:
-		return
-	
+	print("filename %s" % filename)
+
 	if not (args.skip_existing and exists):
 		print("-> %r" % (filename))
-		flipped = ImageOps.flip(texture.image).convert("RGB")
+		flipped = ImageOps.scale(texture.image, 1).convert("RGB")
 		flipped.save(filename)
 
 	for format in args.formats:
 		ext = "." + format
 
-		# if not args.skip_tiles:
-		# 	filename, exists = get_filename(args.outdir, args.tiles_dir, id, ext=ext)
-		# 	if not (args.skip_existing and exists):
-		# 		tile_texture = generate_tile_image(texture.image, values["tile"])
-		# 		print("-> %r" % (filename))
-		# 		tile_texture.save(filename)
+		if not args.skip_tiles:
+			filename, exists = get_filename(args.outdir, args.tiles_dir, id, ext=ext)
+			if not (args.skip_existing and exists):
+				tile_texture = generate_tile_image(texture.image, values["tile"])
+				print("-> %r" % (filename))
+				tile_texture.save(filename)
 				
-		# if not args.skip_coin:
-		filename, exists = get_filename(args.outdir, args.coins_dir, id, ext=ext)
-		if not (args.skip_existing and exists):
-			print("-> %r" % (filename))
-			coin = generate_coin_image(texture.image, values["mercenary_coin"], filename)
-			coin.save(filename)
 
 		if ext == ".png":
 			# skip png generation for thumbnails
@@ -369,7 +313,7 @@ def do_texture(path, id, textures, values, thumb_sizes, args):
 			filename, exists = get_filename(args.outdir, thumb_dir, id, ext=ext)
 			if not (args.skip_existing and exists):
 				if not flipped:
-					flipped = ImageOps.flip(texture.image).convert("RGB")
+					flipped = ImageOps.scale(texture.image, 1).convert("RGB")
 				thumb_texture = flipped.resize((sz, sz))
 				print("-> %r" % (filename))
 				thumb_texture.save(filename)

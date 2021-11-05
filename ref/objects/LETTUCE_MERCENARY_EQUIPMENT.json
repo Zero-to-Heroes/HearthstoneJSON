@@ -1,0 +1,929 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 2622517426874837930
+    },
+    "m_Name": "LETTUCE_MERCENARY_EQUIPMENT",
+    "Records": [
+        {
+            "m_ID": 1,
+            "m_lettuceMercenaryId": 1,
+            "m_lettuceEquipmentId": 4
+        },
+        {
+            "m_ID": 2,
+            "m_lettuceMercenaryId": 1,
+            "m_lettuceEquipmentId": 6
+        },
+        {
+            "m_ID": 3,
+            "m_lettuceMercenaryId": 1,
+            "m_lettuceEquipmentId": 5
+        },
+        {
+            "m_ID": 17,
+            "m_lettuceMercenaryId": 2,
+            "m_lettuceEquipmentId": 7
+        },
+        {
+            "m_ID": 18,
+            "m_lettuceMercenaryId": 2,
+            "m_lettuceEquipmentId": 9
+        },
+        {
+            "m_ID": 19,
+            "m_lettuceMercenaryId": 2,
+            "m_lettuceEquipmentId": 8
+        },
+        {
+            "m_ID": 20,
+            "m_lettuceMercenaryId": 3,
+            "m_lettuceEquipmentId": 12
+        },
+        {
+            "m_ID": 21,
+            "m_lettuceMercenaryId": 3,
+            "m_lettuceEquipmentId": 11
+        },
+        {
+            "m_ID": 22,
+            "m_lettuceMercenaryId": 3,
+            "m_lettuceEquipmentId": 10
+        },
+        {
+            "m_ID": 23,
+            "m_lettuceMercenaryId": 4,
+            "m_lettuceEquipmentId": 13
+        },
+        {
+            "m_ID": 24,
+            "m_lettuceMercenaryId": 4,
+            "m_lettuceEquipmentId": 127
+        },
+        {
+            "m_ID": 192,
+            "m_lettuceMercenaryId": 4,
+            "m_lettuceEquipmentId": 14
+        },
+        {
+            "m_ID": 26,
+            "m_lettuceMercenaryId": 5,
+            "m_lettuceEquipmentId": 198
+        },
+        {
+            "m_ID": 242,
+            "m_lettuceMercenaryId": 5,
+            "m_lettuceEquipmentId": 197
+        },
+        {
+            "m_ID": 243,
+            "m_lettuceMercenaryId": 5,
+            "m_lettuceEquipmentId": 199
+        },
+        {
+            "m_ID": 27,
+            "m_lettuceMercenaryId": 6,
+            "m_lettuceEquipmentId": 228
+        },
+        {
+            "m_ID": 28,
+            "m_lettuceMercenaryId": 6,
+            "m_lettuceEquipmentId": 132
+        },
+        {
+            "m_ID": 197,
+            "m_lettuceMercenaryId": 6,
+            "m_lettuceEquipmentId": 134
+        },
+        {
+            "m_ID": 29,
+            "m_lettuceMercenaryId": 7,
+            "m_lettuceEquipmentId": 203
+        },
+        {
+            "m_ID": 252,
+            "m_lettuceMercenaryId": 7,
+            "m_lettuceEquipmentId": 204
+        },
+        {
+            "m_ID": 253,
+            "m_lettuceMercenaryId": 7,
+            "m_lettuceEquipmentId": 205
+        },
+        {
+            "m_ID": 173,
+            "m_lettuceMercenaryId": 8,
+            "m_lettuceEquipmentId": 105
+        },
+        {
+            "m_ID": 174,
+            "m_lettuceMercenaryId": 8,
+            "m_lettuceEquipmentId": 104
+        },
+        {
+            "m_ID": 175,
+            "m_lettuceMercenaryId": 8,
+            "m_lettuceEquipmentId": 106
+        },
+        {
+            "m_ID": 30,
+            "m_lettuceMercenaryId": 9,
+            "m_lettuceEquipmentId": 111
+        },
+        {
+            "m_ID": 183,
+            "m_lettuceMercenaryId": 9,
+            "m_lettuceEquipmentId": 112
+        },
+        {
+            "m_ID": 184,
+            "m_lettuceMercenaryId": 9,
+            "m_lettuceEquipmentId": 113
+        },
+        {
+            "m_ID": 33,
+            "m_lettuceMercenaryId": 11,
+            "m_lettuceEquipmentId": 135
+        },
+        {
+            "m_ID": 198,
+            "m_lettuceMercenaryId": 11,
+            "m_lettuceEquipmentId": 136
+        },
+        {
+            "m_ID": 199,
+            "m_lettuceMercenaryId": 11,
+            "m_lettuceEquipmentId": 137
+        },
+        {
+            "m_ID": 34,
+            "m_lettuceMercenaryId": 12,
+            "m_lettuceEquipmentId": 23
+        },
+        {
+            "m_ID": 35,
+            "m_lettuceMercenaryId": 12,
+            "m_lettuceEquipmentId": 24
+        },
+        {
+            "m_ID": 36,
+            "m_lettuceMercenaryId": 12,
+            "m_lettuceEquipmentId": 25
+        },
+        {
+            "m_ID": 40,
+            "m_lettuceMercenaryId": 14,
+            "m_lettuceEquipmentId": 31
+        },
+        {
+            "m_ID": 41,
+            "m_lettuceMercenaryId": 14,
+            "m_lettuceEquipmentId": 29
+        },
+        {
+            "m_ID": 42,
+            "m_lettuceMercenaryId": 14,
+            "m_lettuceEquipmentId": 30
+        },
+        {
+            "m_ID": 43,
+            "m_lettuceMercenaryId": 15,
+            "m_lettuceEquipmentId": 34
+        },
+        {
+            "m_ID": 44,
+            "m_lettuceMercenaryId": 15,
+            "m_lettuceEquipmentId": 33
+        },
+        {
+            "m_ID": 45,
+            "m_lettuceMercenaryId": 15,
+            "m_lettuceEquipmentId": 32
+        },
+        {
+            "m_ID": 47,
+            "m_lettuceMercenaryId": 17,
+            "m_lettuceEquipmentId": 36
+        },
+        {
+            "m_ID": 235,
+            "m_lettuceMercenaryId": 17,
+            "m_lettuceEquipmentId": 190
+        },
+        {
+            "m_ID": 236,
+            "m_lettuceMercenaryId": 17,
+            "m_lettuceEquipmentId": 191
+        },
+        {
+            "m_ID": 48,
+            "m_lettuceMercenaryId": 18,
+            "m_lettuceEquipmentId": 140
+        },
+        {
+            "m_ID": 200,
+            "m_lettuceMercenaryId": 18,
+            "m_lettuceEquipmentId": 138
+        },
+        {
+            "m_ID": 201,
+            "m_lettuceMercenaryId": 18,
+            "m_lettuceEquipmentId": 139
+        },
+        {
+            "m_ID": 49,
+            "m_lettuceMercenaryId": 19,
+            "m_lettuceEquipmentId": 200
+        },
+        {
+            "m_ID": 244,
+            "m_lettuceMercenaryId": 19,
+            "m_lettuceEquipmentId": 201
+        },
+        {
+            "m_ID": 245,
+            "m_lettuceMercenaryId": 19,
+            "m_lettuceEquipmentId": 202
+        },
+        {
+            "m_ID": 50,
+            "m_lettuceMercenaryId": 20,
+            "m_lettuceEquipmentId": 157
+        },
+        {
+            "m_ID": 217,
+            "m_lettuceMercenaryId": 20,
+            "m_lettuceEquipmentId": 153
+        },
+        {
+            "m_ID": 218,
+            "m_lettuceMercenaryId": 20,
+            "m_lettuceEquipmentId": 152
+        },
+        {
+            "m_ID": 229,
+            "m_lettuceMercenaryId": 21,
+            "m_lettuceEquipmentId": 185
+        },
+        {
+            "m_ID": 230,
+            "m_lettuceMercenaryId": 21,
+            "m_lettuceEquipmentId": 186
+        },
+        {
+            "m_ID": 231,
+            "m_lettuceMercenaryId": 21,
+            "m_lettuceEquipmentId": 184
+        },
+        {
+            "m_ID": 51,
+            "m_lettuceMercenaryId": 22,
+            "m_lettuceEquipmentId": 172
+        },
+        {
+            "m_ID": 221,
+            "m_lettuceMercenaryId": 22,
+            "m_lettuceEquipmentId": 173
+        },
+        {
+            "m_ID": 222,
+            "m_lettuceMercenaryId": 22,
+            "m_lettuceEquipmentId": 174
+        },
+        {
+            "m_ID": 52,
+            "m_lettuceMercenaryId": 23,
+            "m_lettuceEquipmentId": 42
+        },
+        {
+            "m_ID": 53,
+            "m_lettuceMercenaryId": 23,
+            "m_lettuceEquipmentId": 41
+        },
+        {
+            "m_ID": 54,
+            "m_lettuceMercenaryId": 23,
+            "m_lettuceEquipmentId": 43
+        },
+        {
+            "m_ID": 55,
+            "m_lettuceMercenaryId": 24,
+            "m_lettuceEquipmentId": 44
+        },
+        {
+            "m_ID": 56,
+            "m_lettuceMercenaryId": 24,
+            "m_lettuceEquipmentId": 46
+        },
+        {
+            "m_ID": 57,
+            "m_lettuceMercenaryId": 24,
+            "m_lettuceEquipmentId": 45
+        },
+        {
+            "m_ID": 58,
+            "m_lettuceMercenaryId": 25,
+            "m_lettuceEquipmentId": 207
+        },
+        {
+            "m_ID": 250,
+            "m_lettuceMercenaryId": 25,
+            "m_lettuceEquipmentId": 206
+        },
+        {
+            "m_ID": 251,
+            "m_lettuceMercenaryId": 25,
+            "m_lettuceEquipmentId": 208
+        },
+        {
+            "m_ID": 237,
+            "m_lettuceMercenaryId": 26,
+            "m_lettuceEquipmentId": 192
+        },
+        {
+            "m_ID": 238,
+            "m_lettuceMercenaryId": 26,
+            "m_lettuceEquipmentId": 193
+        },
+        {
+            "m_ID": 337,
+            "m_lettuceMercenaryId": 26,
+            "m_lettuceEquipmentId": 48
+        },
+        {
+            "m_ID": 227,
+            "m_lettuceMercenaryId": 28,
+            "m_lettuceEquipmentId": 234
+        },
+        {
+            "m_ID": 228,
+            "m_lettuceMercenaryId": 28,
+            "m_lettuceEquipmentId": 182
+        },
+        {
+            "m_ID": 335,
+            "m_lettuceMercenaryId": 28,
+            "m_lettuceEquipmentId": 183
+        },
+        {
+            "m_ID": 63,
+            "m_lettuceMercenaryId": 35,
+            "m_lettuceEquipmentId": 178
+        },
+        {
+            "m_ID": 64,
+            "m_lettuceMercenaryId": 35,
+            "m_lettuceEquipmentId": 179
+        },
+        {
+            "m_ID": 65,
+            "m_lettuceMercenaryId": 35,
+            "m_lettuceEquipmentId": 180
+        },
+        {
+            "m_ID": 205,
+            "m_lettuceMercenaryId": 38,
+            "m_lettuceEquipmentId": 142
+        },
+        {
+            "m_ID": 206,
+            "m_lettuceMercenaryId": 38,
+            "m_lettuceEquipmentId": 147
+        },
+        {
+            "m_ID": 207,
+            "m_lettuceMercenaryId": 38,
+            "m_lettuceEquipmentId": 144
+        },
+        {
+            "m_ID": 67,
+            "m_lettuceMercenaryId": 40,
+            "m_lettuceEquipmentId": 56
+        },
+        {
+            "m_ID": 68,
+            "m_lettuceMercenaryId": 40,
+            "m_lettuceEquipmentId": 57
+        },
+        {
+            "m_ID": 69,
+            "m_lettuceMercenaryId": 40,
+            "m_lettuceEquipmentId": 58
+        },
+        {
+            "m_ID": 70,
+            "m_lettuceMercenaryId": 41,
+            "m_lettuceEquipmentId": 59
+        },
+        {
+            "m_ID": 71,
+            "m_lettuceMercenaryId": 41,
+            "m_lettuceEquipmentId": 60
+        },
+        {
+            "m_ID": 72,
+            "m_lettuceMercenaryId": 41,
+            "m_lettuceEquipmentId": 61
+        },
+        {
+            "m_ID": 73,
+            "m_lettuceMercenaryId": 42,
+            "m_lettuceEquipmentId": 62
+        },
+        {
+            "m_ID": 74,
+            "m_lettuceMercenaryId": 42,
+            "m_lettuceEquipmentId": 63
+        },
+        {
+            "m_ID": 75,
+            "m_lettuceMercenaryId": 42,
+            "m_lettuceEquipmentId": 64
+        },
+        {
+            "m_ID": 76,
+            "m_lettuceMercenaryId": 43,
+            "m_lettuceEquipmentId": 67
+        },
+        {
+            "m_ID": 77,
+            "m_lettuceMercenaryId": 43,
+            "m_lettuceEquipmentId": 66
+        },
+        {
+            "m_ID": 78,
+            "m_lettuceMercenaryId": 43,
+            "m_lettuceEquipmentId": 65
+        },
+        {
+            "m_ID": 239,
+            "m_lettuceMercenaryId": 44,
+            "m_lettuceEquipmentId": 194
+        },
+        {
+            "m_ID": 240,
+            "m_lettuceMercenaryId": 44,
+            "m_lettuceEquipmentId": 195
+        },
+        {
+            "m_ID": 241,
+            "m_lettuceMercenaryId": 44,
+            "m_lettuceEquipmentId": 196
+        },
+        {
+            "m_ID": 80,
+            "m_lettuceMercenaryId": 45,
+            "m_lettuceEquipmentId": 69
+        },
+        {
+            "m_ID": 81,
+            "m_lettuceMercenaryId": 45,
+            "m_lettuceEquipmentId": 70
+        },
+        {
+            "m_ID": 348,
+            "m_lettuceMercenaryId": 45,
+            "m_lettuceEquipmentId": 68
+        },
+        {
+            "m_ID": 82,
+            "m_lettuceMercenaryId": 49,
+            "m_lettuceEquipmentId": 71
+        },
+        {
+            "m_ID": 83,
+            "m_lettuceMercenaryId": 49,
+            "m_lettuceEquipmentId": 72
+        },
+        {
+            "m_ID": 84,
+            "m_lettuceMercenaryId": 49,
+            "m_lettuceEquipmentId": 73
+        },
+        {
+            "m_ID": 85,
+            "m_lettuceMercenaryId": 50,
+            "m_lettuceEquipmentId": 74
+        },
+        {
+            "m_ID": 86,
+            "m_lettuceMercenaryId": 50,
+            "m_lettuceEquipmentId": 75
+        },
+        {
+            "m_ID": 191,
+            "m_lettuceMercenaryId": 50,
+            "m_lettuceEquipmentId": 126
+        },
+        {
+            "m_ID": 89,
+            "m_lettuceMercenaryId": 52,
+            "m_lettuceEquipmentId": 128
+        },
+        {
+            "m_ID": 193,
+            "m_lettuceMercenaryId": 52,
+            "m_lettuceEquipmentId": 78
+        },
+        {
+            "m_ID": 194,
+            "m_lettuceMercenaryId": 52,
+            "m_lettuceEquipmentId": 129
+        },
+        {
+            "m_ID": 90,
+            "m_lettuceMercenaryId": 53,
+            "m_lettuceEquipmentId": 210
+        },
+        {
+            "m_ID": 254,
+            "m_lettuceMercenaryId": 53,
+            "m_lettuceEquipmentId": 79
+        },
+        {
+            "m_ID": 255,
+            "m_lettuceMercenaryId": 53,
+            "m_lettuceEquipmentId": 209
+        },
+        {
+            "m_ID": 91,
+            "m_lettuceMercenaryId": 54,
+            "m_lettuceEquipmentId": 82
+        },
+        {
+            "m_ID": 92,
+            "m_lettuceMercenaryId": 54,
+            "m_lettuceEquipmentId": 85
+        },
+        {
+            "m_ID": 93,
+            "m_lettuceMercenaryId": 54,
+            "m_lettuceEquipmentId": 81
+        },
+        {
+            "m_ID": 94,
+            "m_lettuceMercenaryId": 55,
+            "m_lettuceEquipmentId": 83
+        },
+        {
+            "m_ID": 95,
+            "m_lettuceMercenaryId": 55,
+            "m_lettuceEquipmentId": 84
+        },
+        {
+            "m_ID": 96,
+            "m_lettuceMercenaryId": 55,
+            "m_lettuceEquipmentId": 80
+        },
+        {
+            "m_ID": 97,
+            "m_lettuceMercenaryId": 56,
+            "m_lettuceEquipmentId": 88
+        },
+        {
+            "m_ID": 98,
+            "m_lettuceMercenaryId": 56,
+            "m_lettuceEquipmentId": 87
+        },
+        {
+            "m_ID": 311,
+            "m_lettuceMercenaryId": 56,
+            "m_lettuceEquipmentId": 86
+        },
+        {
+            "m_ID": 100,
+            "m_lettuceMercenaryId": 57,
+            "m_lettuceEquipmentId": 91
+        },
+        {
+            "m_ID": 101,
+            "m_lettuceMercenaryId": 57,
+            "m_lettuceEquipmentId": 90
+        },
+        {
+            "m_ID": 102,
+            "m_lettuceMercenaryId": 57,
+            "m_lettuceEquipmentId": 89
+        },
+        {
+            "m_ID": 103,
+            "m_lettuceMercenaryId": 60,
+            "m_lettuceEquipmentId": 130
+        },
+        {
+            "m_ID": 195,
+            "m_lettuceMercenaryId": 60,
+            "m_lettuceEquipmentId": 92
+        },
+        {
+            "m_ID": 196,
+            "m_lettuceMercenaryId": 60,
+            "m_lettuceEquipmentId": 131
+        },
+        {
+            "m_ID": 105,
+            "m_lettuceMercenaryId": 62,
+            "m_lettuceEquipmentId": 94
+        },
+        {
+            "m_ID": 178,
+            "m_lettuceMercenaryId": 62,
+            "m_lettuceEquipmentId": 109
+        },
+        {
+            "m_ID": 179,
+            "m_lettuceMercenaryId": 62,
+            "m_lettuceEquipmentId": 108
+        },
+        {
+            "m_ID": 107,
+            "m_lettuceMercenaryId": 63,
+            "m_lettuceEquipmentId": 96
+        },
+        {
+            "m_ID": 259,
+            "m_lettuceMercenaryId": 63,
+            "m_lettuceEquipmentId": 215
+        },
+        {
+            "m_ID": 260,
+            "m_lettuceMercenaryId": 63,
+            "m_lettuceEquipmentId": 214
+        },
+        {
+            "m_ID": 232,
+            "m_lettuceMercenaryId": 64,
+            "m_lettuceEquipmentId": 189
+        },
+        {
+            "m_ID": 233,
+            "m_lettuceMercenaryId": 64,
+            "m_lettuceEquipmentId": 187
+        },
+        {
+            "m_ID": 234,
+            "m_lettuceMercenaryId": 64,
+            "m_lettuceEquipmentId": 188
+        },
+        {
+            "m_ID": 214,
+            "m_lettuceMercenaryId": 69,
+            "m_lettuceEquipmentId": 154
+        },
+        {
+            "m_ID": 215,
+            "m_lettuceMercenaryId": 69,
+            "m_lettuceEquipmentId": 155
+        },
+        {
+            "m_ID": 216,
+            "m_lettuceMercenaryId": 69,
+            "m_lettuceEquipmentId": 156
+        },
+        {
+            "m_ID": 180,
+            "m_lettuceMercenaryId": 93,
+            "m_lettuceEquipmentId": 116
+        },
+        {
+            "m_ID": 185,
+            "m_lettuceMercenaryId": 93,
+            "m_lettuceEquipmentId": 115
+        },
+        {
+            "m_ID": 186,
+            "m_lettuceMercenaryId": 93,
+            "m_lettuceEquipmentId": 114
+        },
+        {
+            "m_ID": 181,
+            "m_lettuceMercenaryId": 94,
+            "m_lettuceEquipmentId": 117
+        },
+        {
+            "m_ID": 187,
+            "m_lettuceMercenaryId": 94,
+            "m_lettuceEquipmentId": 217
+        },
+        {
+            "m_ID": 188,
+            "m_lettuceMercenaryId": 94,
+            "m_lettuceEquipmentId": 141
+        },
+        {
+            "m_ID": 182,
+            "m_lettuceMercenaryId": 95,
+            "m_lettuceEquipmentId": 120
+        },
+        {
+            "m_ID": 189,
+            "m_lettuceMercenaryId": 95,
+            "m_lettuceEquipmentId": 121
+        },
+        {
+            "m_ID": 190,
+            "m_lettuceMercenaryId": 95,
+            "m_lettuceEquipmentId": 118
+        },
+        {
+            "m_ID": 208,
+            "m_lettuceMercenaryId": 97,
+            "m_lettuceEquipmentId": 143
+        },
+        {
+            "m_ID": 209,
+            "m_lettuceMercenaryId": 97,
+            "m_lettuceEquipmentId": 145
+        },
+        {
+            "m_ID": 210,
+            "m_lettuceMercenaryId": 97,
+            "m_lettuceEquipmentId": 146
+        },
+        {
+            "m_ID": 223,
+            "m_lettuceMercenaryId": 98,
+            "m_lettuceEquipmentId": 175
+        },
+        {
+            "m_ID": 224,
+            "m_lettuceMercenaryId": 98,
+            "m_lettuceEquipmentId": 177
+        },
+        {
+            "m_ID": 225,
+            "m_lettuceMercenaryId": 98,
+            "m_lettuceEquipmentId": 176
+        },
+        {
+            "m_ID": 211,
+            "m_lettuceMercenaryId": 99,
+            "m_lettuceEquipmentId": 150
+        },
+        {
+            "m_ID": 212,
+            "m_lettuceMercenaryId": 99,
+            "m_lettuceEquipmentId": 149
+        },
+        {
+            "m_ID": 213,
+            "m_lettuceMercenaryId": 99,
+            "m_lettuceEquipmentId": 148
+        },
+        {
+            "m_ID": 219,
+            "m_lettuceMercenaryId": 100,
+            "m_lettuceEquipmentId": 158
+        },
+        {
+            "m_ID": 220,
+            "m_lettuceMercenaryId": 100,
+            "m_lettuceEquipmentId": 159
+        },
+        {
+            "m_ID": 283,
+            "m_lettuceMercenaryId": 100,
+            "m_lettuceEquipmentId": 218
+        },
+        {
+            "m_ID": 256,
+            "m_lettuceMercenaryId": 102,
+            "m_lettuceEquipmentId": 212
+        },
+        {
+            "m_ID": 257,
+            "m_lettuceMercenaryId": 102,
+            "m_lettuceEquipmentId": 213
+        },
+        {
+            "m_ID": 258,
+            "m_lettuceMercenaryId": 102,
+            "m_lettuceEquipmentId": 211
+        },
+        {
+            "m_ID": 294,
+            "m_lettuceMercenaryId": 149,
+            "m_lettuceEquipmentId": 225
+        },
+        {
+            "m_ID": 295,
+            "m_lettuceMercenaryId": 149,
+            "m_lettuceEquipmentId": 223
+        },
+        {
+            "m_ID": 296,
+            "m_lettuceMercenaryId": 149,
+            "m_lettuceEquipmentId": 224
+        },
+        {
+            "m_ID": 303,
+            "m_lettuceMercenaryId": 155,
+            "m_lettuceEquipmentId": 36
+        },
+        {
+            "m_ID": 304,
+            "m_lettuceMercenaryId": 155,
+            "m_lettuceEquipmentId": 190
+        },
+        {
+            "m_ID": 305,
+            "m_lettuceMercenaryId": 155,
+            "m_lettuceEquipmentId": 191
+        },
+        {
+            "m_ID": 308,
+            "m_lettuceMercenaryId": 156,
+            "m_lettuceEquipmentId": 219
+        },
+        {
+            "m_ID": 309,
+            "m_lettuceMercenaryId": 156,
+            "m_lettuceEquipmentId": 226
+        },
+        {
+            "m_ID": 310,
+            "m_lettuceMercenaryId": 156,
+            "m_lettuceEquipmentId": 227
+        },
+        {
+            "m_ID": 315,
+            "m_lettuceMercenaryId": 159,
+            "m_lettuceEquipmentId": 230
+        },
+        {
+            "m_ID": 318,
+            "m_lettuceMercenaryId": 159,
+            "m_lettuceEquipmentId": 232
+        },
+        {
+            "m_ID": 319,
+            "m_lettuceMercenaryId": 159,
+            "m_lettuceEquipmentId": 231
+        },
+        {
+            "m_ID": 338,
+            "m_lettuceMercenaryId": 231,
+            "m_lettuceEquipmentId": 36
+        },
+        {
+            "m_ID": 339,
+            "m_lettuceMercenaryId": 231,
+            "m_lettuceEquipmentId": 190
+        },
+        {
+            "m_ID": 340,
+            "m_lettuceMercenaryId": 231,
+            "m_lettuceEquipmentId": 191
+        },
+        {
+            "m_ID": 375,
+            "m_lettuceMercenaryId": 236,
+            "m_lettuceEquipmentId": 244
+        },
+        {
+            "m_ID": 376,
+            "m_lettuceMercenaryId": 236,
+            "m_lettuceEquipmentId": 245
+        },
+        {
+            "m_ID": 377,
+            "m_lettuceMercenaryId": 236,
+            "m_lettuceEquipmentId": 246
+        },
+        {
+            "m_ID": 372,
+            "m_lettuceMercenaryId": 237,
+            "m_lettuceEquipmentId": 241
+        },
+        {
+            "m_ID": 373,
+            "m_lettuceMercenaryId": 237,
+            "m_lettuceEquipmentId": 243
+        },
+        {
+            "m_ID": 374,
+            "m_lettuceMercenaryId": 237,
+            "m_lettuceEquipmentId": 242
+        },
+        {
+            "m_ID": 381,
+            "m_lettuceMercenaryId": 239,
+            "m_lettuceEquipmentId": 36
+        },
+        {
+            "m_ID": 382,
+            "m_lettuceMercenaryId": 239,
+            "m_lettuceEquipmentId": 190
+        },
+        {
+            "m_ID": 383,
+            "m_lettuceMercenaryId": 239,
+            "m_lettuceEquipmentId": 191
+        }
+    ]
+}

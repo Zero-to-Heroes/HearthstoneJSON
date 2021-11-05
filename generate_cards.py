@@ -4,10 +4,8 @@ import os
 import sys
 from argparse import ArgumentParser
 
-import unitypack
+import UnityPy
 import yaml
-from unitypack.asset import Asset
-from unitypack.object import ObjectPointer
 
 NBSP = "\u00A0"
 
@@ -84,117 +82,105 @@ unhandledAttributes = set()
 
 def main():
 	p = ArgumentParser()
-	p.add_argument("files", nargs="+")
+	p.add_argument("src")
 	p.add_argument("-s", "--strip", action="store_true", help="Strip extractable data")
 	args = p.parse_args(sys.argv[1:])
 
-	for k, v in unitypack.engine.__dict__.items():
-		if isinstance(v, type) and issubclass(v, unitypack.engine.object.Object):
-			yaml.add_representer(v, unityobj_representer)
-
-	if args.strip:
-		yaml.add_representer(unitypack.engine.mesh.Mesh, mesh_representer)
-		yaml.add_representer(unitypack.engine.movie.MovieTexture, movietexture_representer)
-		yaml.add_representer(unitypack.engine.text.Shader, shader_representer)
-		yaml.add_representer(unitypack.engine.text.TextAsset, textasset_representer)
-		yaml.add_representer(unitypack.engine.texture.Texture2D, texture2d_representer)
-
-	build_cards(args.files)
+	build_cards(args.src)
 	print("unhandled attributes %s" % unhandledAttributes)
 	with open('./ref/reference_cards.json', 'w') as resultFile:
 		resultFile.write(json.dumps(cards))
 
 
-def build_cards(files):
-	for file in files:
-		if file.endswith(".assets"):
-			with open(file, "rb") as f:
-				asset = Asset.from_file(f)
-				handle_asset(asset)
-			continue
-
-		with open(file, "rb") as f:
-			bundle = unitypack.load(f)
-			for asset in bundle.assets:
-				handle_asset(asset)
+def build_cards(src):
+	for root, dirs, files in os.walk(src):
+		for file_name in files:
+			# generate file_path
+			file_path = os.path.join(root, file_name)
+			# load that file via UnityPy.load
+			env = UnityPy.load(file_path)
+			handle_asset(env)
 
 
-def handle_asset(asset):
-	for id, obj in asset.objects.items():
-		if obj.type == "AnimationClip":
-			# There are issues reading animation clips, and we don't need them for cards
-			continue
+def handle_asset(env):
+	for obj in env.objects:
+		# if obj.type is "ClassIDType.MonoBehaviour":
+		# 	continue
 
-		try: 
-			d = obj.read()
-		except Exception as e:
-			print("Could not read asset %s, %s, %s, %s" % (id, obj, asset, e))
-			raise e
+		if obj.serialized_type.nodes:
+			# save decoded data
+			try:
+				tree = obj.read_typetree()
+			except:
+				print("could not read %s" % obj.type)
+				continue
 
-		if isinstance(d, dict):
-			# print("is dict! %s: %s" % (id, d))
-			if "m_Name" in d and d["m_Name"] is not "":
-				print("considering %s" % d["m_Name"])
+			if "m_Name" in tree and tree["m_Name"] is not "":
+				print("considering %s" % tree["m_Name"])
 				# Has some data, but not everything (eg cost is not there, neither is collectible attribute)
-				if d["m_Name"] == "CARD":
+				if tree["m_Name"] in ["ACHIEVEMENT", "ACHIEVEMENT_SECTION", "ACHIEVEMENT_SECTION_ITEM", "ACHIEVEMENT_SUBCATEGORY", "ACHIEVEMENT_CATEGORY", "BOARD", "CARD", "CARD_BACK", "CARD_SET_TIMING", "CARD_TAG", "LETTUCE_ABILITY_TIER", "LETTUCE_BOUNTY", "LETTUCE_BOUNTY_FINAL_REWARDS", "LETTUCE_BOUNTY_SET", "LETTUCE_EQUIPMENT_MODIFIER_DATA", "LETTUCE_EQUIPMENT_TIER", "LETTUCE_MERCENARY", "LETTUCE_MERCENARY_ABILITY", "LETTUCE_MERCENARY_EQUIPMENT", "LETTUCE_MERCENARY_LEVEL", "LETTUCE_MERCENARY_SPECIALIZATION", "MERCENARY_ART_VARIATION", "MERCENARY_ART_VARIATION_PREMIUM", "MERCENARY_VISITOR", "REWARD_ITEM", "VISITOR_TASK", "VISITOR_TASK_CHAIN", "SCENARIO"]:
 					# Not sure why, but if you don't do this you end up with read errors. Maybe the tree needs to be
 					# fully traversed first so that references are resolved or something?
 					# output = yaml.dump(d)
-					records = d["Records"]
-					handle_records(records)
+					name = tree["m_Name"]
+					fp = os.path.join(f"ref/objects", f"{name}.json")
+					with open(fp, "wt", encoding = "utf8") as f:
+						json.dump(tree, f, ensure_ascii = False, indent = 4)
+					# records = tree["Records"]
+					# handle_records(records)
 				# Internal oading stuff?
-				if d["m_Name"].startswith("carddef_"):
+				elif tree["m_Name"].startswith("carddef_"):
 					a = 1
 				# Only has the name and property hashes
-				elif d["m_Name"] == "CardDef":
+				elif tree["m_Name"] == "CardDef":
 					# Do nothing
 					a = 1
-				elif d["m_Name"] == "cards_map":
+				elif tree["m_Name"] == "cards_map":
 					# This is a mapping between the card ID and its prefab. Might be useful at some point later?
 					a = 1
-				elif d["m_Name"] == "DECK_CARD":
+				elif tree["m_Name"] == "DECK_CARD":
 					# Looks like this gives the topCard for each deck? Didn't look deeply into it
 					a = 1
-				elif d["m_Name"] in ["Card", "CardDbfAsset", "CardSetDbfAsset", "CardTagDbfAsset", "CardHeroDbfAsset", "DeckCardDbfAsset"]:
+				elif tree["m_Name"] in ["Card", "CardDbfAsset", "CardSetDbfAsset", "CardTagDbfAsset", "CardHeroDbfAsset", "DeckCardDbfAsset"]:
 					# These are actually not really interesting, just keeping them here to see I have gone through them
 					a = 1
-				elif d["m_Name"] in ["tags_metadata"]:
+				elif tree["m_Name"] in ["tags_metadata"]:
 					# not the tag names mappings, just some metadata about tags and tag groups
 					a = 1
-				elif d["m_Name"] in ["BOOSTER"]:
+				elif tree["m_Name"] in ["BOOSTER"]:
 					# This is actually interesting, and has all the info about booster sets. Maybe use this to build the 
 					# BoosterType enum?
 					a = 1
-				elif d["m_Name"] in ["BOARD"]:
+				elif tree["m_Name"] in ["BOARD"]:
 					# Same here, we can probably use this to build the BOARD enum
 					a = 1
-				elif d["m_Name"] in ["SCENARIO"]:
+				elif tree["m_Name"] in ["SCENARIO"]:
 					# Same here, can probably use it to build the Scenario enum instead of mapping everything by hand
 					a = 1
-				elif d["m_Name"] in ["CARD_CHANGE"]:
+				elif tree["m_Name"] in ["CARD_CHANGE"]:
 					# Looks like the list of cards that have undergone some kind of change (naturalize is there for instance)
 					# but there is also a lot of non-usable data, so probably best to ignore it for now
 					a = 1
 					# output = yaml.dump(d)
 					# print(output)
-				elif d["m_Name"] in ["LETTUCE_ABILITY", "LETTUCE_MERCENARY_SPECIALIZATION", "LETTUCE_MERCENARY_LEVEL_STATS", "LETTUCE_BOUNTY_SET", "LETTUCE_EQUIPMENT_TIER", "LETTUCE_MERCENARY_LEVEL", "LETTUCE_BOUNTY_FINAL_REWARDS", "LETTUCE_MERCENARY", "LETTUCE_EQUIPMENT_MODIFIER_DATA", "LETTUCE_MERCENARY_ABILITY", "MODIFIED_LETTUCE_ABILITY_VALUE", "LETTUCE_BOUNTY", "LETTUCE_EQUIPMENT", "LETTUCE_ABILITY_TIER", ]:
+				elif tree["m_Name"] in ["LETTUCE_ABILITY", "LETTUCE_MERCENARY_SPECIALIZATION", "LETTUCE_MERCENARY_LEVEL_STATS", "LETTUCE_BOUNTY_SET", "LETTUCE_EQUIPMENT_TIER", "LETTUCE_MERCENARY_LEVEL", "LETTUCE_BOUNTY_FINAL_REWARDS", "LETTUCE_MERCENARY", "LETTUCE_EQUIPMENT_MODIFIER_DATA", "LETTUCE_MERCENARY_ABILITY", "MODIFIED_LETTUCE_ABILITY_VALUE", "LETTUCE_BOUNTY", "LETTUCE_EQUIPMENT", "LETTUCE_ABILITY_TIER", ]:
 					a = 1
-					output = yaml.dump(d)
-					print(output)
-				elif d["m_Name"] in ["CARD_SET", "MINISET"]:
-					a = 1
-				elif d["m_Name"] in ["CARD_SET_TIMING"]:
 					# output = yaml.dump(d)
 					# print(output)
-					records = d["Records"]
+				elif tree["m_Name"] in ["CARD_SET", "MINISET"]:
+					a = 1
+				elif tree["m_Name"] in ["CARD_SET_TIMING"]:
+					# output = yaml.dump(d)
+					# print(output)
+					records = tree["Records"]
 					handle_card_sets(records)
-				elif d["m_Name"] in ["XP_PER_GAME_TYPE"]:
+				elif tree["m_Name"] in ["XP_PER_GAME_TYPE"]:
 					# Nothing interesting here, just a gameId <-> rewardTrackId mapping
 					a = 1
-				elif d["m_Name"] in ["CARD_TAG"]:
+				elif tree["m_Name"] in ["CARD_TAG"]:
 					# output = yaml.dump(d)
 					# print(output)
-					records = d["Records"]
+					records = tree["Records"]
 					handle_card_tags(records)
 
 
@@ -258,7 +244,7 @@ def handle_record(record):
 	# print("Handling new record")
 	# print(yaml.dump(record))
 	cardId = str(record["m_ID"])
-	print("\tHandling card %s" % cardId)
+	# print("\tHandling card %s" % cardId)
 	# if cardId == "63264":
 	# 	print("\tHandling new card")
 	# 	print(yaml.dump(record))
@@ -352,47 +338,6 @@ def clean_card_description(text, card_id):
 			return text.replace("@", "###"), text.replace("@", "###")
 
 	return text, collection_text
-
-
-def asset_representer(dumper, data):
-	return dumper.represent_scalar("!asset", data.name)
-yaml.add_representer(Asset, asset_representer)
-
-
-def objectpointer_representer(dumper, data):
-	return dumper.represent_sequence("!PPtr", [data.file_id, data.path_id])
-yaml.add_representer(ObjectPointer, objectpointer_representer)
-
-
-def unityobj_representer(dumper, data):
-	return dumper.represent_mapping("!unitypack:%s" % (data.__class__.__name__), data._obj)
-
-
-def shader_representer(dumper, data):
-	return dumper.represent_mapping("!unitypack:stripped:Shader", {data.name: None})
-
-
-def textasset_representer(dumper, data):
-	return dumper.represent_mapping("!unitypack:stripped:TextAsset", {data.name: None})
-
-
-def texture2d_representer(dumper, data):
-	return dumper.represent_mapping("!unitypack:stripped:Texture2D", {data.name: None})
-
-
-def mesh_representer(dumper, data):
-	return dumper.represent_mapping("!unitypack:stripped:Mesh", {data.name: None})
-
-
-def movietexture_representer(dumper, data):
-	obj = data._obj.copy()
-	obj["m_MovieData"] = "<stripped>"
-	return dumper.represent_mapping("!unitypack:stripped:MovieTexture", obj)
-
-
-def dump(obj, level):
-  for attr in dir(obj):
-    print("\t" * level, "obj.%s = %r" % (attr, getattr(obj, attr)))
 
 if __name__ == "__main__":
 	main()

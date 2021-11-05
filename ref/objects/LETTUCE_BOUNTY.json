@@ -1,0 +1,1687 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -3744601697634983993
+    },
+    "m_Name": "LETTUCE_BOUNTY",
+    "Records": [
+        {
+            "m_ID": 47,
+            "m_noteDesc": "Tutorial",
+            "m_bountyLevel": 1,
+            "m_enabled": 1,
+            "m_event": "always",
+            "m_bossNameOverride": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_comingSoonText": {
+                "m_locales": [
+                    0,
+                    3,
+                    5,
+                    6,
+                    2,
+                    10,
+                    14,
+                    4,
+                    12,
+                    11,
+                    7,
+                    15,
+                    9,
+                    8
+                ],
+                "m_locValues": [
+                    "[PH] Coming Soon",
+                    "[PH] Coming Soon",
+                    "[PH] Coming Soon",
+                    "[PH] Coming Soon",
+                    "[PH] Coming Soon",
+                    "[PH] Coming Soon",
+                    "[PH] Coming Soon",
+                    "[PH] Coming Soon",
+                    "[PH] Coming Soon",
+                    "[PH] Coming Soon",
+                    "[PH] Coming Soon",
+                    "[PH] Coming Soon",
+                    "[PH] Coming Soon",
+                    "[PH] Coming Soon"
+                ],
+                "m_locId": 2758000
+            },
+            "m_bountySetId": 3,
+            "m_difficultyMode": 0,
+            "m_heroic": 0,
+            "m_finalBossCardId": 72798,
+            "m_sortOrder": 0,
+            "m_requiredCompletedBountyId": 0
+        },
+        {
+            "m_ID": 57,
+            "m_noteDesc": "Ferocious Quilboar",
+            "m_bountyLevel": 4,
+            "m_enabled": 1,
+            "m_event": "always",
+            "m_bossNameOverride": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_comingSoonText": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_bountySetId": 5,
+            "m_difficultyMode": 0,
+            "m_heroic": 0,
+            "m_finalBossCardId": 73026,
+            "m_sortOrder": 1,
+            "m_requiredCompletedBountyId": 0
+        },
+        {
+            "m_ID": 58,
+            "m_noteDesc": "Air Elemental",
+            "m_bountyLevel": 6,
+            "m_enabled": 1,
+            "m_event": "always",
+            "m_bossNameOverride": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_comingSoonText": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_bountySetId": 5,
+            "m_difficultyMode": 0,
+            "m_heroic": 0,
+            "m_finalBossCardId": 73085,
+            "m_sortOrder": 2,
+            "m_requiredCompletedBountyId": 57
+        },
+        {
+            "m_ID": 59,
+            "m_noteDesc": "Serena Bloodfeather",
+            "m_bountyLevel": 7,
+            "m_enabled": 1,
+            "m_event": "always",
+            "m_bossNameOverride": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_comingSoonText": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_bountySetId": 5,
+            "m_difficultyMode": 0,
+            "m_heroic": 0,
+            "m_finalBossCardId": 73096,
+            "m_sortOrder": 3,
+            "m_requiredCompletedBountyId": 58
+        },
+        {
+            "m_ID": 60,
+            "m_noteDesc": "Apothecary Helbrim",
+            "m_bountyLevel": 8,
+            "m_enabled": 1,
+            "m_event": "always",
+            "m_bossNameOverride": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_comingSoonText": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_bountySetId": 5,
+            "m_difficultyMode": 0,
+            "m_heroic": 0,
+            "m_finalBossCardId": 73374,
+            "m_sortOrder": 4,
+            "m_requiredCompletedBountyId": 59
+        },
+        {
+            "m_ID": 61,
+            "m_noteDesc": "Sunwalker Proudhoof",
+            "m_bountyLevel": 10,
+            "m_enabled": 1,
+            "m_event": "always",
+            "m_bossNameOverride": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_comingSoonText": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_bountySetId": 5,
+            "m_difficultyMode": 0,
+            "m_heroic": 0,
+            "m_finalBossCardId": 73384,
+            "m_sortOrder": 5,
+            "m_requiredCompletedBountyId": 60
+        },
+        {
+            "m_ID": 62,
+            "m_noteDesc": "Barak Kodobane",
+            "m_bountyLevel": 13,
+            "m_enabled": 1,
+            "m_event": "always",
+            "m_bossNameOverride": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_comingSoonText": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_bountySetId": 5,
+            "m_difficultyMode": 0,
+            "m_heroic": 0,
+            "m_finalBossCardId": 73386,
+            "m_sortOrder": 6,
+            "m_requiredCompletedBountyId": 61
+        },
+        {
+            "m_ID": 63,
+            "m_noteDesc": "Mad Bomber",
+            "m_bountyLevel": 15,
+            "m_enabled": 1,
+            "m_event": "always",
+            "m_bossNameOverride": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_comingSoonText": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_bountySetId": 5,
+            "m_difficultyMode": 0,
+            "m_heroic": 0,
+            "m_finalBossCardId": 73395,
+            "m_sortOrder": 7,
+            "m_requiredCompletedBountyId": 62
+        },
+        {
+            "m_ID": 64,
+            "m_noteDesc": "Plaguemaw the Rotting",
+            "m_bountyLevel": 17,
+            "m_enabled": 1,
+            "m_event": "always",
+            "m_bossNameOverride": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_comingSoonText": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_bountySetId": 5,
+            "m_difficultyMode": 0,
+            "m_heroic": 0,
+            "m_finalBossCardId": 73404,
+            "m_sortOrder": 8,
+            "m_requiredCompletedBountyId": 63
+        },
+        {
+            "m_ID": 65,
+            "m_noteDesc": "Neeru Fireblade",
+            "m_bountyLevel": 18,
+            "m_enabled": 1,
+            "m_event": "always",
+            "m_bossNameOverride": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_comingSoonText": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_bountySetId": 5,
+            "m_difficultyMode": 0,
+            "m_heroic": 0,
+            "m_finalBossCardId": 73410,
+            "m_sortOrder": 9,
+            "m_requiredCompletedBountyId": 64
+        },
+        {
+            "m_ID": 67,
+            "m_noteDesc": "Raven the Hunter",
+            "m_bountyLevel": 20,
+            "m_enabled": 1,
+            "m_event": "always",
+            "m_bossNameOverride": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_comingSoonText": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_bountySetId": 6,
+            "m_difficultyMode": 0,
+            "m_heroic": 0,
+            "m_finalBossCardId": 75051,
+            "m_sortOrder": 1,
+            "m_requiredCompletedBountyId": 0
+        },
+        {
+            "m_ID": 68,
+            "m_noteDesc": "The Anointed Blades",
+            "m_bountyLevel": 21,
+            "m_enabled": 1,
+            "m_event": "always",
+            "m_bossNameOverride": {
+                "m_locales": [
+                    0,
+                    3,
+                    5,
+                    6,
+                    2,
+                    10,
+                    14,
+                    4,
+                    12,
+                    11,
+                    7,
+                    15,
+                    9,
+                    8
+                ],
+                "m_locValues": [
+                    "The Anointed Blades",
+                    "Die Gesalbten Klingen",
+                    "Las hojas ungidas",
+                    "Las Espadas Elegidas",
+                    "Les lames consacrées",
+                    "Lame Consacrate",
+                    "聖油の刃",
+                    "구세주의 검",
+                    "Namaszczone ostrza",
+                    "Lâminas Ungidas",
+                    "Освященные клинки",
+                    "หน่วยอนอยท์เบลด",
+                    "淬油之刃",
+                    "聖佑之刃"
+                ],
+                "m_locId": 2810028
+            },
+            "m_comingSoonText": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_bountySetId": 6,
+            "m_difficultyMode": 0,
+            "m_heroic": 0,
+            "m_finalBossCardId": 75076,
+            "m_sortOrder": 2,
+            "m_requiredCompletedBountyId": 67
+        },
+        {
+            "m_ID": 69,
+            "m_noteDesc": "Fallen Guardians",
+            "m_bountyLevel": 23,
+            "m_enabled": 1,
+            "m_event": "always",
+            "m_bossNameOverride": {
+                "m_locales": [
+                    0,
+                    3,
+                    5,
+                    6,
+                    2,
+                    10,
+                    14,
+                    4,
+                    12,
+                    11,
+                    7,
+                    15,
+                    9,
+                    8
+                ],
+                "m_locValues": [
+                    "Fallen Guardians",
+                    "Gefallene Wächter",
+                    "Guardianes caídos",
+                    "Guardianes caídos",
+                    "Les Gardiens déchus",
+                    "Guardiani Caduti",
+                    "堕落せし守護者",
+                    "타락한 수호자",
+                    "Upadli strażnicy",
+                    "Guardiões Caídos",
+                    "Падшие стражи",
+                    "ผู้พิทักษ์หลงผิด",
+                    "堕落的守卫",
+                    "墮落守護者"
+                ],
+                "m_locId": 2810029
+            },
+            "m_comingSoonText": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_bountySetId": 6,
+            "m_difficultyMode": 0,
+            "m_heroic": 0,
+            "m_finalBossCardId": 75082,
+            "m_sortOrder": 3,
+            "m_requiredCompletedBountyId": 68
+        },
+        {
+            "m_ID": 70,
+            "m_noteDesc": "Xavian Satyr",
+            "m_bountyLevel": 25,
+            "m_enabled": 1,
+            "m_event": "always",
+            "m_bossNameOverride": {
+                "m_locales": [
+                    0,
+                    3,
+                    5,
+                    6,
+                    2,
+                    10,
+                    14,
+                    4,
+                    12,
+                    11,
+                    7,
+                    15,
+                    9,
+                    8
+                ],
+                "m_locValues": [
+                    "Xaravan",
+                    "Xaravan",
+                    "Xaravan",
+                    "Xaravan",
+                    "Xaravan",
+                    "Xaravan",
+                    "ザラヴァン",
+                    "자라반",
+                    "Xaravan",
+                    "Xaravan",
+                    "Зараван",
+                    "ซาราแวน",
+                    "哈拉梵",
+                    "薩拉凡"
+                ],
+                "m_locId": 2810030
+            },
+            "m_comingSoonText": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_bountySetId": 6,
+            "m_difficultyMode": 0,
+            "m_heroic": 0,
+            "m_finalBossCardId": 75132,
+            "m_sortOrder": 4,
+            "m_requiredCompletedBountyId": 69
+        },
+        {
+            "m_ID": 71,
+            "m_noteDesc": "Corrupted Ancient",
+            "m_bountyLevel": 27,
+            "m_enabled": 1,
+            "m_event": "always",
+            "m_bossNameOverride": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_comingSoonText": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_bountySetId": 6,
+            "m_difficultyMode": 0,
+            "m_heroic": 0,
+            "m_finalBossCardId": 75145,
+            "m_sortOrder": 5,
+            "m_requiredCompletedBountyId": 70
+        },
+        {
+            "m_ID": 72,
+            "m_noteDesc": "Lord Banehollow",
+            "m_bountyLevel": 28,
+            "m_enabled": 1,
+            "m_event": "always",
+            "m_bossNameOverride": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_comingSoonText": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_bountySetId": 6,
+            "m_difficultyMode": 0,
+            "m_heroic": 0,
+            "m_finalBossCardId": 75192,
+            "m_sortOrder": 6,
+            "m_requiredCompletedBountyId": 71
+        },
+        {
+            "m_ID": 73,
+            "m_noteDesc": "Snowclaw",
+            "m_bountyLevel": 30,
+            "m_enabled": 1,
+            "m_event": "always",
+            "m_bossNameOverride": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_comingSoonText": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_bountySetId": 7,
+            "m_difficultyMode": 0,
+            "m_heroic": 0,
+            "m_finalBossCardId": 76958,
+            "m_sortOrder": 0,
+            "m_requiredCompletedBountyId": 0
+        },
+        {
+            "m_ID": 74,
+            "m_noteDesc": "Yeti Hunter Ranel",
+            "m_bountyLevel": 30,
+            "m_enabled": 1,
+            "m_event": "always",
+            "m_bossNameOverride": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_comingSoonText": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_bountySetId": 7,
+            "m_difficultyMode": 0,
+            "m_heroic": 0,
+            "m_finalBossCardId": 77162,
+            "m_sortOrder": 1,
+            "m_requiredCompletedBountyId": 73
+        },
+        {
+            "m_ID": 75,
+            "m_noteDesc": "Avalanchan",
+            "m_bountyLevel": 30,
+            "m_enabled": 1,
+            "m_event": "always",
+            "m_bossNameOverride": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_comingSoonText": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_bountySetId": 7,
+            "m_difficultyMode": 0,
+            "m_heroic": 0,
+            "m_finalBossCardId": 77167,
+            "m_sortOrder": 2,
+            "m_requiredCompletedBountyId": 74
+        },
+        {
+            "m_ID": 76,
+            "m_noteDesc": "Ursula Windfury",
+            "m_bountyLevel": 30,
+            "m_enabled": 1,
+            "m_event": "always",
+            "m_bossNameOverride": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_comingSoonText": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_bountySetId": 7,
+            "m_difficultyMode": 0,
+            "m_heroic": 0,
+            "m_finalBossCardId": 77202,
+            "m_sortOrder": 3,
+            "m_requiredCompletedBountyId": 75
+        },
+        {
+            "m_ID": 77,
+            "m_noteDesc": "Icehowl",
+            "m_bountyLevel": 30,
+            "m_enabled": 1,
+            "m_event": "always",
+            "m_bossNameOverride": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_comingSoonText": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_bountySetId": 7,
+            "m_difficultyMode": 0,
+            "m_heroic": 0,
+            "m_finalBossCardId": 77224,
+            "m_sortOrder": 4,
+            "m_requiredCompletedBountyId": 76
+        },
+        {
+            "m_ID": 78,
+            "m_noteDesc": "Ahune",
+            "m_bountyLevel": 30,
+            "m_enabled": 1,
+            "m_event": "always",
+            "m_bossNameOverride": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_comingSoonText": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_bountySetId": 7,
+            "m_difficultyMode": 0,
+            "m_heroic": 0,
+            "m_finalBossCardId": 77259,
+            "m_sortOrder": 5,
+            "m_requiredCompletedBountyId": 77
+        },
+        {
+            "m_ID": 79,
+            "m_noteDesc": "Coren Direbrew",
+            "m_bountyLevel": 30,
+            "m_enabled": 1,
+            "m_event": "always",
+            "m_bossNameOverride": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_comingSoonText": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_bountySetId": 8,
+            "m_difficultyMode": 0,
+            "m_heroic": 0,
+            "m_finalBossCardId": 77265,
+            "m_sortOrder": 0,
+            "m_requiredCompletedBountyId": 0
+        },
+        {
+            "m_ID": 80,
+            "m_noteDesc": "High Justice Grimstone",
+            "m_bountyLevel": 30,
+            "m_enabled": 1,
+            "m_event": "always",
+            "m_bossNameOverride": {
+                "m_locales": [
+                    0,
+                    3,
+                    5,
+                    6,
+                    2,
+                    10,
+                    14,
+                    4,
+                    12,
+                    11,
+                    7,
+                    15,
+                    9,
+                    8
+                ],
+                "m_locValues": [
+                    "High Justice Grimstone",
+                    "Oberrichter Grimmstein",
+                    "Alto justiciero Pedrasiniestra",
+                    "Alto justiciero Pedrasiniestra",
+                    "Juge supérieur Mornepierre",
+                    "Gran Giudice Tetrapietra",
+                    "グリムストーン判事長",
+                    "대법관 그림스톤",
+                    "Najwyższy Sędzia Groźnoskały",
+                    "Supremo Juiz Durólito",
+                    "Судья Мрачнокамень",
+                    "ผู้พิพากษากริมสโตน",
+                    "裁决者格里斯通",
+                    "裁決者格里斯通"
+                ],
+                "m_locId": 2808292
+            },
+            "m_comingSoonText": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_bountySetId": 8,
+            "m_difficultyMode": 0,
+            "m_heroic": 0,
+            "m_finalBossCardId": 77274,
+            "m_sortOrder": 1,
+            "m_requiredCompletedBountyId": 79
+        },
+        {
+            "m_ID": 81,
+            "m_noteDesc": "Emperor Thaurissan",
+            "m_bountyLevel": 30,
+            "m_enabled": 1,
+            "m_event": "always",
+            "m_bossNameOverride": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_comingSoonText": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_bountySetId": 8,
+            "m_difficultyMode": 0,
+            "m_heroic": 0,
+            "m_finalBossCardId": 77276,
+            "m_sortOrder": 2,
+            "m_requiredCompletedBountyId": 80
+        },
+        {
+            "m_ID": 82,
+            "m_noteDesc": "Garr",
+            "m_bountyLevel": 30,
+            "m_enabled": 1,
+            "m_event": "always",
+            "m_bossNameOverride": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_comingSoonText": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_bountySetId": 8,
+            "m_difficultyMode": 0,
+            "m_heroic": 0,
+            "m_finalBossCardId": 77282,
+            "m_sortOrder": 3,
+            "m_requiredCompletedBountyId": 81
+        },
+        {
+            "m_ID": 83,
+            "m_noteDesc": "Baron Geddon",
+            "m_bountyLevel": 30,
+            "m_enabled": 1,
+            "m_event": "always",
+            "m_bossNameOverride": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_comingSoonText": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_bountySetId": 8,
+            "m_difficultyMode": 0,
+            "m_heroic": 0,
+            "m_finalBossCardId": 77288,
+            "m_sortOrder": 4,
+            "m_requiredCompletedBountyId": 82
+        },
+        {
+            "m_ID": 84,
+            "m_noteDesc": "Majordomo Executus",
+            "m_bountyLevel": 30,
+            "m_enabled": 1,
+            "m_event": "always",
+            "m_bossNameOverride": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_comingSoonText": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_bountySetId": 8,
+            "m_difficultyMode": 0,
+            "m_heroic": 0,
+            "m_finalBossCardId": 77292,
+            "m_sortOrder": 5,
+            "m_requiredCompletedBountyId": 83
+        },
+        {
+            "m_ID": 85,
+            "m_noteDesc": "Ferocious Quilboar Heroic",
+            "m_bountyLevel": 5,
+            "m_enabled": 1,
+            "m_event": "always",
+            "m_bossNameOverride": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_comingSoonText": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_bountySetId": 5,
+            "m_difficultyMode": 2,
+            "m_heroic": 1,
+            "m_finalBossCardId": 73026,
+            "m_sortOrder": 1,
+            "m_requiredCompletedBountyId": 0
+        },
+        {
+            "m_ID": 86,
+            "m_noteDesc": "Air Elemental Heroic",
+            "m_bountyLevel": 8,
+            "m_enabled": 1,
+            "m_event": "always",
+            "m_bossNameOverride": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_comingSoonText": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_bountySetId": 5,
+            "m_difficultyMode": 0,
+            "m_heroic": 1,
+            "m_finalBossCardId": 73085,
+            "m_sortOrder": 2,
+            "m_requiredCompletedBountyId": 57
+        },
+        {
+            "m_ID": 87,
+            "m_noteDesc": "Serena Bloodfeather Heroic",
+            "m_bountyLevel": 10,
+            "m_enabled": 1,
+            "m_event": "always",
+            "m_bossNameOverride": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_comingSoonText": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_bountySetId": 5,
+            "m_difficultyMode": 0,
+            "m_heroic": 1,
+            "m_finalBossCardId": 73096,
+            "m_sortOrder": 3,
+            "m_requiredCompletedBountyId": 58
+        },
+        {
+            "m_ID": 88,
+            "m_noteDesc": "Apothecary Helbrim Heroic",
+            "m_bountyLevel": 15,
+            "m_enabled": 1,
+            "m_event": "always",
+            "m_bossNameOverride": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_comingSoonText": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_bountySetId": 5,
+            "m_difficultyMode": 0,
+            "m_heroic": 1,
+            "m_finalBossCardId": 73374,
+            "m_sortOrder": 4,
+            "m_requiredCompletedBountyId": 59
+        },
+        {
+            "m_ID": 89,
+            "m_noteDesc": "Sunwalker Proudhoof Heroic",
+            "m_bountyLevel": 15,
+            "m_enabled": 1,
+            "m_event": "always",
+            "m_bossNameOverride": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_comingSoonText": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_bountySetId": 5,
+            "m_difficultyMode": 0,
+            "m_heroic": 1,
+            "m_finalBossCardId": 73384,
+            "m_sortOrder": 5,
+            "m_requiredCompletedBountyId": 60
+        },
+        {
+            "m_ID": 90,
+            "m_noteDesc": "Barak Kodobane Heroic",
+            "m_bountyLevel": 20,
+            "m_enabled": 1,
+            "m_event": "always",
+            "m_bossNameOverride": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_comingSoonText": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_bountySetId": 5,
+            "m_difficultyMode": 0,
+            "m_heroic": 1,
+            "m_finalBossCardId": 73386,
+            "m_sortOrder": 6,
+            "m_requiredCompletedBountyId": 61
+        },
+        {
+            "m_ID": 91,
+            "m_noteDesc": "Mad Bomber Heroic",
+            "m_bountyLevel": 20,
+            "m_enabled": 1,
+            "m_event": "always",
+            "m_bossNameOverride": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_comingSoonText": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_bountySetId": 5,
+            "m_difficultyMode": 0,
+            "m_heroic": 1,
+            "m_finalBossCardId": 73395,
+            "m_sortOrder": 7,
+            "m_requiredCompletedBountyId": 62
+        },
+        {
+            "m_ID": 92,
+            "m_noteDesc": "Plaguemaw the Rotting Heroic",
+            "m_bountyLevel": 25,
+            "m_enabled": 1,
+            "m_event": "always",
+            "m_bossNameOverride": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_comingSoonText": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_bountySetId": 5,
+            "m_difficultyMode": 0,
+            "m_heroic": 1,
+            "m_finalBossCardId": 73404,
+            "m_sortOrder": 8,
+            "m_requiredCompletedBountyId": 63
+        },
+        {
+            "m_ID": 93,
+            "m_noteDesc": "Neeru Fireblade Heroic",
+            "m_bountyLevel": 25,
+            "m_enabled": 1,
+            "m_event": "always",
+            "m_bossNameOverride": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_comingSoonText": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_bountySetId": 5,
+            "m_difficultyMode": 0,
+            "m_heroic": 1,
+            "m_finalBossCardId": 73410,
+            "m_sortOrder": 9,
+            "m_requiredCompletedBountyId": 64
+        },
+        {
+            "m_ID": 94,
+            "m_noteDesc": "Raven the Hunter Heroic",
+            "m_bountyLevel": 26,
+            "m_enabled": 1,
+            "m_event": "always",
+            "m_bossNameOverride": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_comingSoonText": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_bountySetId": 6,
+            "m_difficultyMode": 0,
+            "m_heroic": 1,
+            "m_finalBossCardId": 75051,
+            "m_sortOrder": 1,
+            "m_requiredCompletedBountyId": 0
+        },
+        {
+            "m_ID": 95,
+            "m_noteDesc": "The Annointed Blade Heroic",
+            "m_bountyLevel": 27,
+            "m_enabled": 1,
+            "m_event": "always",
+            "m_bossNameOverride": {
+                "m_locales": [
+                    0,
+                    3,
+                    5,
+                    6,
+                    2,
+                    10,
+                    14,
+                    4,
+                    12,
+                    11,
+                    7,
+                    15,
+                    9,
+                    8
+                ],
+                "m_locValues": [
+                    "The Annointed Blades",
+                    "Die Gesalbten Klingen",
+                    "Las hojas ungidas",
+                    "Las Espadas Elegidas",
+                    "Les lames consacrées",
+                    "Lame Consacrate",
+                    "聖油の刃",
+                    "구세주의 검",
+                    "Namaszczone ostrza",
+                    "Lâminas Ungidas",
+                    "Освященные клинки",
+                    "หน่วยอนอยท์เบลด",
+                    "淬油之刃",
+                    "聖佑之刃"
+                ],
+                "m_locId": 2810031
+            },
+            "m_comingSoonText": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_bountySetId": 6,
+            "m_difficultyMode": 0,
+            "m_heroic": 1,
+            "m_finalBossCardId": 75076,
+            "m_sortOrder": 2,
+            "m_requiredCompletedBountyId": 67
+        },
+        {
+            "m_ID": 96,
+            "m_noteDesc": "Fallen Guardians Heroic",
+            "m_bountyLevel": 28,
+            "m_enabled": 1,
+            "m_event": "always",
+            "m_bossNameOverride": {
+                "m_locales": [
+                    0,
+                    3,
+                    5,
+                    6,
+                    2,
+                    10,
+                    14,
+                    4,
+                    12,
+                    11,
+                    7,
+                    15,
+                    9,
+                    8
+                ],
+                "m_locValues": [
+                    "Fallen Guardians",
+                    "Gefallene Wächter",
+                    "Guardianes caídos",
+                    "Guardianes caídos",
+                    "Les Gardiens déchus",
+                    "Guardiani Caduti",
+                    "堕落せし守護者",
+                    "타락한 수호자",
+                    "Upadli strażnicy",
+                    "Guardiões Caídos",
+                    "Падшие стражи",
+                    "ผู้พิทักษ์หลงผิด",
+                    "堕落的守卫",
+                    "墮落守護者"
+                ],
+                "m_locId": 2810032
+            },
+            "m_comingSoonText": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_bountySetId": 6,
+            "m_difficultyMode": 0,
+            "m_heroic": 1,
+            "m_finalBossCardId": 75082,
+            "m_sortOrder": 3,
+            "m_requiredCompletedBountyId": 68
+        },
+        {
+            "m_ID": 97,
+            "m_noteDesc": "Xavian Satyr Heroic",
+            "m_bountyLevel": 29,
+            "m_enabled": 1,
+            "m_event": "always",
+            "m_bossNameOverride": {
+                "m_locales": [
+                    0,
+                    3,
+                    5,
+                    6,
+                    2,
+                    10,
+                    14,
+                    4,
+                    12,
+                    11,
+                    7,
+                    15,
+                    9,
+                    8
+                ],
+                "m_locValues": [
+                    "Xaravan",
+                    "Xaravan",
+                    "Xaravan",
+                    "Xaravan",
+                    "Xaravan",
+                    "Xaravan",
+                    "ザラヴァン",
+                    "자라반",
+                    "Xaravan",
+                    "Xaravan",
+                    "Зараван",
+                    "ซาราแวน",
+                    "哈拉梵",
+                    "薩拉凡"
+                ],
+                "m_locId": 2810033
+            },
+            "m_comingSoonText": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_bountySetId": 6,
+            "m_difficultyMode": 0,
+            "m_heroic": 1,
+            "m_finalBossCardId": 75132,
+            "m_sortOrder": 4,
+            "m_requiredCompletedBountyId": 69
+        },
+        {
+            "m_ID": 98,
+            "m_noteDesc": "Corrupted Ancient Heroic",
+            "m_bountyLevel": 29,
+            "m_enabled": 1,
+            "m_event": "always",
+            "m_bossNameOverride": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_comingSoonText": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_bountySetId": 6,
+            "m_difficultyMode": 0,
+            "m_heroic": 1,
+            "m_finalBossCardId": 75145,
+            "m_sortOrder": 5,
+            "m_requiredCompletedBountyId": 70
+        },
+        {
+            "m_ID": 99,
+            "m_noteDesc": "Lord Banehollow Heroic",
+            "m_bountyLevel": 29,
+            "m_enabled": 1,
+            "m_event": "always",
+            "m_bossNameOverride": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_comingSoonText": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_bountySetId": 6,
+            "m_difficultyMode": 0,
+            "m_heroic": 1,
+            "m_finalBossCardId": 75192,
+            "m_sortOrder": 6,
+            "m_requiredCompletedBountyId": 71
+        },
+        {
+            "m_ID": 100,
+            "m_noteDesc": "Snowclaw Heroic",
+            "m_bountyLevel": 30,
+            "m_enabled": 1,
+            "m_event": "always",
+            "m_bossNameOverride": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_comingSoonText": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_bountySetId": 7,
+            "m_difficultyMode": 0,
+            "m_heroic": 1,
+            "m_finalBossCardId": 76958,
+            "m_sortOrder": 0,
+            "m_requiredCompletedBountyId": 0
+        },
+        {
+            "m_ID": 101,
+            "m_noteDesc": "Yeti Hunter Ranel Heroic",
+            "m_bountyLevel": 30,
+            "m_enabled": 1,
+            "m_event": "always",
+            "m_bossNameOverride": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_comingSoonText": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_bountySetId": 7,
+            "m_difficultyMode": 0,
+            "m_heroic": 1,
+            "m_finalBossCardId": 77162,
+            "m_sortOrder": 1,
+            "m_requiredCompletedBountyId": 73
+        },
+        {
+            "m_ID": 102,
+            "m_noteDesc": "Avalanchan Heroic",
+            "m_bountyLevel": 30,
+            "m_enabled": 1,
+            "m_event": "always",
+            "m_bossNameOverride": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_comingSoonText": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_bountySetId": 7,
+            "m_difficultyMode": 0,
+            "m_heroic": 1,
+            "m_finalBossCardId": 77167,
+            "m_sortOrder": 2,
+            "m_requiredCompletedBountyId": 74
+        },
+        {
+            "m_ID": 103,
+            "m_noteDesc": "Ursula Windfury Heroic",
+            "m_bountyLevel": 30,
+            "m_enabled": 1,
+            "m_event": "always",
+            "m_bossNameOverride": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_comingSoonText": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_bountySetId": 7,
+            "m_difficultyMode": 0,
+            "m_heroic": 1,
+            "m_finalBossCardId": 77202,
+            "m_sortOrder": 3,
+            "m_requiredCompletedBountyId": 75
+        },
+        {
+            "m_ID": 104,
+            "m_noteDesc": "Icehowl Heroic",
+            "m_bountyLevel": 30,
+            "m_enabled": 1,
+            "m_event": "always",
+            "m_bossNameOverride": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_comingSoonText": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_bountySetId": 7,
+            "m_difficultyMode": 0,
+            "m_heroic": 1,
+            "m_finalBossCardId": 77224,
+            "m_sortOrder": 4,
+            "m_requiredCompletedBountyId": 76
+        },
+        {
+            "m_ID": 105,
+            "m_noteDesc": "Ahune Heroic",
+            "m_bountyLevel": 30,
+            "m_enabled": 1,
+            "m_event": "always",
+            "m_bossNameOverride": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_comingSoonText": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_bountySetId": 7,
+            "m_difficultyMode": 0,
+            "m_heroic": 1,
+            "m_finalBossCardId": 77259,
+            "m_sortOrder": 5,
+            "m_requiredCompletedBountyId": 77
+        },
+        {
+            "m_ID": 106,
+            "m_noteDesc": "Coren Direbrew Heroic",
+            "m_bountyLevel": 30,
+            "m_enabled": 1,
+            "m_event": "always",
+            "m_bossNameOverride": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_comingSoonText": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_bountySetId": 8,
+            "m_difficultyMode": 0,
+            "m_heroic": 1,
+            "m_finalBossCardId": 77265,
+            "m_sortOrder": 0,
+            "m_requiredCompletedBountyId": 0
+        },
+        {
+            "m_ID": 107,
+            "m_noteDesc": "High Justice Grimstone Heroic",
+            "m_bountyLevel": 30,
+            "m_enabled": 1,
+            "m_event": "always",
+            "m_bossNameOverride": {
+                "m_locales": [
+                    0,
+                    3,
+                    5,
+                    6,
+                    2,
+                    10,
+                    14,
+                    4,
+                    12,
+                    11,
+                    7,
+                    15,
+                    9,
+                    8
+                ],
+                "m_locValues": [
+                    "High Justice Grimstone",
+                    "Oberrichter Grimmstein",
+                    "Alto justiciero Pedrasiniestra",
+                    "Alto justiciero Pedrasiniestra",
+                    "Juge supérieur Mornepierre",
+                    "Gran Giudice Tetrapietra",
+                    "グリムストーン判事長",
+                    "대법관 그림스톤",
+                    "Najwyższy Sędzia Groźnoskały",
+                    "Supremo Juiz Durólito",
+                    "Судья Мрачнокамень",
+                    "ผู้พิพากษากริมสโตน",
+                    "裁决者格里斯通",
+                    "裁決者格里斯通"
+                ],
+                "m_locId": 2809566
+            },
+            "m_comingSoonText": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_bountySetId": 8,
+            "m_difficultyMode": 0,
+            "m_heroic": 1,
+            "m_finalBossCardId": 77274,
+            "m_sortOrder": 1,
+            "m_requiredCompletedBountyId": 79
+        },
+        {
+            "m_ID": 108,
+            "m_noteDesc": "Emperor Thaurissan Heroic",
+            "m_bountyLevel": 30,
+            "m_enabled": 1,
+            "m_event": "always",
+            "m_bossNameOverride": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_comingSoonText": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_bountySetId": 8,
+            "m_difficultyMode": 0,
+            "m_heroic": 1,
+            "m_finalBossCardId": 77276,
+            "m_sortOrder": 2,
+            "m_requiredCompletedBountyId": 80
+        },
+        {
+            "m_ID": 109,
+            "m_noteDesc": "Garr Heroic",
+            "m_bountyLevel": 30,
+            "m_enabled": 1,
+            "m_event": "always",
+            "m_bossNameOverride": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_comingSoonText": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_bountySetId": 8,
+            "m_difficultyMode": 0,
+            "m_heroic": 1,
+            "m_finalBossCardId": 77282,
+            "m_sortOrder": 3,
+            "m_requiredCompletedBountyId": 81
+        },
+        {
+            "m_ID": 110,
+            "m_noteDesc": "Baron Geddon Heroic",
+            "m_bountyLevel": 30,
+            "m_enabled": 1,
+            "m_event": "always",
+            "m_bossNameOverride": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_comingSoonText": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_bountySetId": 8,
+            "m_difficultyMode": 0,
+            "m_heroic": 1,
+            "m_finalBossCardId": 77288,
+            "m_sortOrder": 4,
+            "m_requiredCompletedBountyId": 82
+        },
+        {
+            "m_ID": 111,
+            "m_noteDesc": "Majordomo Executus Heroic",
+            "m_bountyLevel": 30,
+            "m_enabled": 1,
+            "m_event": "always",
+            "m_bossNameOverride": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_comingSoonText": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_bountySetId": 8,
+            "m_difficultyMode": 0,
+            "m_heroic": 1,
+            "m_finalBossCardId": 77292,
+            "m_sortOrder": 5,
+            "m_requiredCompletedBountyId": 83
+        },
+        {
+            "m_ID": 114,
+            "m_noteDesc": "Highlord Omokk",
+            "m_bountyLevel": 30,
+            "m_enabled": 1,
+            "m_event": "always",
+            "m_bossNameOverride": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_comingSoonText": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_bountySetId": 8,
+            "m_difficultyMode": 0,
+            "m_heroic": 0,
+            "m_finalBossCardId": 80316,
+            "m_sortOrder": 6,
+            "m_requiredCompletedBountyId": 84
+        },
+        {
+            "m_ID": 115,
+            "m_noteDesc": "Highlord Omokk Heroic",
+            "m_bountyLevel": 30,
+            "m_enabled": 1,
+            "m_event": "always",
+            "m_bossNameOverride": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_comingSoonText": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_bountySetId": 8,
+            "m_difficultyMode": 0,
+            "m_heroic": 1,
+            "m_finalBossCardId": 80316,
+            "m_sortOrder": 6,
+            "m_requiredCompletedBountyId": 84
+        },
+        {
+            "m_ID": 116,
+            "m_noteDesc": "General Drakkisath",
+            "m_bountyLevel": 30,
+            "m_enabled": 1,
+            "m_event": "always",
+            "m_bossNameOverride": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_comingSoonText": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_bountySetId": 8,
+            "m_difficultyMode": 0,
+            "m_heroic": 0,
+            "m_finalBossCardId": 80416,
+            "m_sortOrder": 7,
+            "m_requiredCompletedBountyId": 84
+        },
+        {
+            "m_ID": 117,
+            "m_noteDesc": "General Drakkisath Heroic",
+            "m_bountyLevel": 30,
+            "m_enabled": 1,
+            "m_event": "always",
+            "m_bossNameOverride": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_comingSoonText": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_bountySetId": 8,
+            "m_difficultyMode": 0,
+            "m_heroic": 1,
+            "m_finalBossCardId": 80416,
+            "m_sortOrder": 7,
+            "m_requiredCompletedBountyId": 84
+        },
+        {
+            "m_ID": 118,
+            "m_noteDesc": "Rend Blackhand",
+            "m_bountyLevel": 30,
+            "m_enabled": 1,
+            "m_event": "always",
+            "m_bossNameOverride": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_comingSoonText": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_bountySetId": 8,
+            "m_difficultyMode": 0,
+            "m_heroic": 0,
+            "m_finalBossCardId": 80528,
+            "m_sortOrder": 8,
+            "m_requiredCompletedBountyId": 116
+        },
+        {
+            "m_ID": 119,
+            "m_noteDesc": "Rend Blackhand Heroic",
+            "m_bountyLevel": 30,
+            "m_enabled": 1,
+            "m_event": "always",
+            "m_bossNameOverride": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_comingSoonText": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_bountySetId": 8,
+            "m_difficultyMode": 0,
+            "m_heroic": 1,
+            "m_finalBossCardId": 80528,
+            "m_sortOrder": 8,
+            "m_requiredCompletedBountyId": 116
+        }
+    ]
+}
