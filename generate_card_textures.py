@@ -143,9 +143,9 @@ def handle_gameobject(asset, cards):
 			if len(data.m_Components) < 2:
 				continue
 
-			monoBehavior = data.m_Components[1]
+			carddef = data.m_Components[1].read()
 			# print("monoBehavior %s" % monoBehavior)
-			carddef = monoBehavior.read()
+			# carddef = monoBehavior.read()
 
 
 			# print("carddef %s" % carddef)
