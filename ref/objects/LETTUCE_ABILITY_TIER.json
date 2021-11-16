@@ -6339,13 +6339,6 @@
             "m_coinCraftCost": 100
         },
         {
-            "m_ID": 2366,
-            "m_lettuceAbilityId": 640,
-            "m_tier": 2,
-            "m_cardId": 78220,
-            "m_coinCraftCost": 100
-        },
-        {
             "m_ID": 2369,
             "m_lettuceAbilityId": 641,
             "m_tier": 2,
@@ -6722,6 +6715,41 @@
             "m_tier": 5,
             "m_cardId": 80260,
             "m_coinCraftCost": 150
+        },
+        {
+            "m_ID": 2564,
+            "m_lettuceAbilityId": 689,
+            "m_tier": 1,
+            "m_cardId": 72778,
+            "m_coinCraftCost": 100
+        },
+        {
+            "m_ID": 2565,
+            "m_lettuceAbilityId": 689,
+            "m_tier": 2,
+            "m_cardId": 72777,
+            "m_coinCraftCost": 100
+        },
+        {
+            "m_ID": 2566,
+            "m_lettuceAbilityId": 689,
+            "m_tier": 3,
+            "m_cardId": 71543,
+            "m_coinCraftCost": 100
+        },
+        {
+            "m_ID": 2567,
+            "m_lettuceAbilityId": 689,
+            "m_tier": 4,
+            "m_cardId": 76422,
+            "m_coinCraftCost": 100
+        },
+        {
+            "m_ID": 2568,
+            "m_lettuceAbilityId": 689,
+            "m_tier": 5,
+            "m_cardId": 76423,
+            "m_coinCraftCost": 100
         }
     ]
 }
