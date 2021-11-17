@@ -219,13 +219,11 @@ def do_texture(path, id, textures, values, thumb_sizes, args):
 
 	for format in args.formats:
 		ext = "." + format
-
-		if not args.skip_tiles:
-			filename, exists = get_filename(args.outdir, args.tiles_dir, id, ext=ext)
-			if not (args.skip_existing and exists):
-				tile_texture = generate_tile_image(texture.image, values["tile"])
-				print("-> %r" % (filename))
-				tile_texture.save(filename)
+		filename, exists = get_filename(args.outdir, args.tiles_dir, id, ext=ext)
+		if not (args.skip_existing and exists):
+			tile_texture = generate_tile_image(texture.image, values["tile"])
+			print("-> %r" % (filename))
+			tile_texture.save(filename)
 				
 
 		if ext == ".png":
