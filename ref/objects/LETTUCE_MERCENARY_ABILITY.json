@@ -247,13 +247,13 @@
         {
             "m_ID": 100,
             "m_lettuceMercenarySpecializationId": 33,
-            "m_lettuceAbilityId": 47,
+            "m_lettuceAbilityId": 93,
             "m_lettuceMercenaryLevelIdRequiredId": 1
         },
         {
             "m_ID": 103,
             "m_lettuceMercenarySpecializationId": 33,
-            "m_lettuceAbilityId": 93,
+            "m_lettuceAbilityId": 47,
             "m_lettuceMercenaryLevelIdRequiredId": 5
         },
         {
@@ -1709,6 +1709,24 @@
             "m_lettuceMercenaryLevelIdRequiredId": 15
         },
         {
+            "m_ID": 851,
+            "m_lettuceMercenarySpecializationId": 297,
+            "m_lettuceAbilityId": 680,
+            "m_lettuceMercenaryLevelIdRequiredId": 1
+        },
+        {
+            "m_ID": 852,
+            "m_lettuceMercenarySpecializationId": 297,
+            "m_lettuceAbilityId": 681,
+            "m_lettuceMercenaryLevelIdRequiredId": 5
+        },
+        {
+            "m_ID": 853,
+            "m_lettuceMercenarySpecializationId": 297,
+            "m_lettuceAbilityId": 682,
+            "m_lettuceMercenaryLevelIdRequiredId": 15
+        },
+        {
             "m_ID": 854,
             "m_lettuceMercenarySpecializationId": 298,
             "m_lettuceAbilityId": 47,
@@ -1724,6 +1742,24 @@
             "m_ID": 856,
             "m_lettuceMercenarySpecializationId": 298,
             "m_lettuceAbilityId": 62,
+            "m_lettuceMercenaryLevelIdRequiredId": 15
+        },
+        {
+            "m_ID": 864,
+            "m_lettuceMercenarySpecializationId": 300,
+            "m_lettuceAbilityId": 671,
+            "m_lettuceMercenaryLevelIdRequiredId": 1
+        },
+        {
+            "m_ID": 865,
+            "m_lettuceMercenarySpecializationId": 300,
+            "m_lettuceAbilityId": 672,
+            "m_lettuceMercenaryLevelIdRequiredId": 5
+        },
+        {
+            "m_ID": 866,
+            "m_lettuceMercenarySpecializationId": 300,
+            "m_lettuceAbilityId": 673,
             "m_lettuceMercenaryLevelIdRequiredId": 15
         }
     ]

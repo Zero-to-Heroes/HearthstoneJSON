@@ -425,20 +425,20 @@
             "m_mercenaryHealthChange": 0
         },
         {
-            "m_ID": 758,
-            "m_lettuceEquipmentTierId": 108,
+            "m_ID": 1021,
+            "m_lettuceEquipmentTierId": 1019,
             "m_mercenaryAttackChange": 0,
             "m_mercenaryHealthChange": 0
         },
         {
-            "m_ID": 760,
-            "m_lettuceEquipmentTierId": 109,
+            "m_ID": 1022,
+            "m_lettuceEquipmentTierId": 1020,
             "m_mercenaryAttackChange": 0,
             "m_mercenaryHealthChange": 0
         },
         {
-            "m_ID": 762,
-            "m_lettuceEquipmentTierId": 713,
+            "m_ID": 1023,
+            "m_lettuceEquipmentTierId": 1021,
             "m_mercenaryAttackChange": 0,
             "m_mercenaryHealthChange": 0
         },
@@ -2705,20 +2705,50 @@
             "m_mercenaryHealthChange": 0
         },
         {
-            "m_ID": 764,
+            "m_ID": 1273,
+            "m_lettuceEquipmentTierId": 717,
+            "m_mercenaryAttackChange": 0,
+            "m_mercenaryHealthChange": 0
+        },
+        {
+            "m_ID": 1275,
+            "m_lettuceEquipmentTierId": 1014,
+            "m_mercenaryAttackChange": 0,
+            "m_mercenaryHealthChange": 0
+        },
+        {
+            "m_ID": 1277,
+            "m_lettuceEquipmentTierId": 1015,
+            "m_mercenaryAttackChange": 0,
+            "m_mercenaryHealthChange": 0
+        },
+        {
+            "m_ID": 1279,
+            "m_lettuceEquipmentTierId": 1016,
+            "m_mercenaryAttackChange": 0,
+            "m_mercenaryHealthChange": 0
+        },
+        {
+            "m_ID": 1281,
             "m_lettuceEquipmentTierId": 719,
             "m_mercenaryAttackChange": 0,
             "m_mercenaryHealthChange": 0
         },
         {
-            "m_ID": 766,
+            "m_ID": 1283,
             "m_lettuceEquipmentTierId": 720,
             "m_mercenaryAttackChange": 0,
             "m_mercenaryHealthChange": 0
         },
         {
-            "m_ID": 768,
-            "m_lettuceEquipmentTierId": 721,
+            "m_ID": 1285,
+            "m_lettuceEquipmentTierId": 1017,
+            "m_mercenaryAttackChange": 0,
+            "m_mercenaryHealthChange": 0
+        },
+        {
+            "m_ID": 1287,
+            "m_lettuceEquipmentTierId": 1018,
             "m_mercenaryAttackChange": 0,
             "m_mercenaryHealthChange": 0
         },
@@ -3644,25 +3674,241 @@
             "m_ID": 975,
             "m_lettuceEquipmentTierId": 998,
             "m_mercenaryAttackChange": 1,
-            "m_mercenaryHealthChange": 2
+            "m_mercenaryHealthChange": 4
         },
         {
             "m_ID": 976,
             "m_lettuceEquipmentTierId": 999,
             "m_mercenaryAttackChange": 1,
-            "m_mercenaryHealthChange": 4
+            "m_mercenaryHealthChange": 6
         },
         {
             "m_ID": 977,
             "m_lettuceEquipmentTierId": 1000,
             "m_mercenaryAttackChange": 2,
-            "m_mercenaryHealthChange": 6
+            "m_mercenaryHealthChange": 8
         },
         {
             "m_ID": 978,
             "m_lettuceEquipmentTierId": 1001,
             "m_mercenaryAttackChange": 2,
-            "m_mercenaryHealthChange": 8
+            "m_mercenaryHealthChange": 10
+        },
+        {
+            "m_ID": 1214,
+            "m_lettuceEquipmentTierId": 1022,
+            "m_mercenaryAttackChange": 1,
+            "m_mercenaryHealthChange": 2
+        },
+        {
+            "m_ID": 1255,
+            "m_lettuceEquipmentTierId": 1058,
+            "m_mercenaryAttackChange": 0,
+            "m_mercenaryHealthChange": 0
+        },
+        {
+            "m_ID": 1257,
+            "m_lettuceEquipmentTierId": 1059,
+            "m_mercenaryAttackChange": 0,
+            "m_mercenaryHealthChange": 0
+        },
+        {
+            "m_ID": 1259,
+            "m_lettuceEquipmentTierId": 1060,
+            "m_mercenaryAttackChange": 0,
+            "m_mercenaryHealthChange": 0
+        },
+        {
+            "m_ID": 1218,
+            "m_lettuceEquipmentTierId": 1026,
+            "m_mercenaryAttackChange": 1,
+            "m_mercenaryHealthChange": 2
+        },
+        {
+            "m_ID": 1261,
+            "m_lettuceEquipmentTierId": 1061,
+            "m_mercenaryAttackChange": 0,
+            "m_mercenaryHealthChange": 0
+        },
+        {
+            "m_ID": 1263,
+            "m_lettuceEquipmentTierId": 1062,
+            "m_mercenaryAttackChange": 0,
+            "m_mercenaryHealthChange": 0
+        },
+        {
+            "m_ID": 1265,
+            "m_lettuceEquipmentTierId": 1063,
+            "m_mercenaryAttackChange": 0,
+            "m_mercenaryHealthChange": 0
+        },
+        {
+            "m_ID": 1219,
+            "m_lettuceEquipmentTierId": 1027,
+            "m_mercenaryAttackChange": 1,
+            "m_mercenaryHealthChange": 2
+        },
+        {
+            "m_ID": 1267,
+            "m_lettuceEquipmentTierId": 1064,
+            "m_mercenaryAttackChange": 0,
+            "m_mercenaryHealthChange": 0
+        },
+        {
+            "m_ID": 1269,
+            "m_lettuceEquipmentTierId": 1065,
+            "m_mercenaryAttackChange": 0,
+            "m_mercenaryHealthChange": 0
+        },
+        {
+            "m_ID": 1271,
+            "m_lettuceEquipmentTierId": 1066,
+            "m_mercenaryAttackChange": 0,
+            "m_mercenaryHealthChange": 0
+        },
+        {
+            "m_ID": 1220,
+            "m_lettuceEquipmentTierId": 1028,
+            "m_mercenaryAttackChange": 0,
+            "m_mercenaryHealthChange": 0
+        },
+        {
+            "m_ID": 1223,
+            "m_lettuceEquipmentTierId": 1031,
+            "m_mercenaryAttackChange": 0,
+            "m_mercenaryHealthChange": 0
+        },
+        {
+            "m_ID": 1224,
+            "m_lettuceEquipmentTierId": 1032,
+            "m_mercenaryAttackChange": 0,
+            "m_mercenaryHealthChange": 0
+        },
+        {
+            "m_ID": 1225,
+            "m_lettuceEquipmentTierId": 1033,
+            "m_mercenaryAttackChange": 0,
+            "m_mercenaryHealthChange": 0
+        },
+        {
+            "m_ID": 1221,
+            "m_lettuceEquipmentTierId": 1029,
+            "m_mercenaryAttackChange": 0,
+            "m_mercenaryHealthChange": 0
+        },
+        {
+            "m_ID": 1226,
+            "m_lettuceEquipmentTierId": 1034,
+            "m_mercenaryAttackChange": 0,
+            "m_mercenaryHealthChange": 0
+        },
+        {
+            "m_ID": 1227,
+            "m_lettuceEquipmentTierId": 1035,
+            "m_mercenaryAttackChange": 0,
+            "m_mercenaryHealthChange": 0
+        },
+        {
+            "m_ID": 1228,
+            "m_lettuceEquipmentTierId": 1036,
+            "m_mercenaryAttackChange": 0,
+            "m_mercenaryHealthChange": 0
+        },
+        {
+            "m_ID": 1222,
+            "m_lettuceEquipmentTierId": 1030,
+            "m_mercenaryAttackChange": 0,
+            "m_mercenaryHealthChange": 0
+        },
+        {
+            "m_ID": 1229,
+            "m_lettuceEquipmentTierId": 1037,
+            "m_mercenaryAttackChange": 0,
+            "m_mercenaryHealthChange": 0
+        },
+        {
+            "m_ID": 1230,
+            "m_lettuceEquipmentTierId": 1038,
+            "m_mercenaryAttackChange": 0,
+            "m_mercenaryHealthChange": 0
+        },
+        {
+            "m_ID": 1231,
+            "m_lettuceEquipmentTierId": 1039,
+            "m_mercenaryAttackChange": 0,
+            "m_mercenaryHealthChange": 0
+        },
+        {
+            "m_ID": 1232,
+            "m_lettuceEquipmentTierId": 1040,
+            "m_mercenaryAttackChange": 0,
+            "m_mercenaryHealthChange": 0
+        },
+        {
+            "m_ID": 1233,
+            "m_lettuceEquipmentTierId": 1041,
+            "m_mercenaryAttackChange": 0,
+            "m_mercenaryHealthChange": 0
+        },
+        {
+            "m_ID": 1234,
+            "m_lettuceEquipmentTierId": 1042,
+            "m_mercenaryAttackChange": 0,
+            "m_mercenaryHealthChange": 0
+        },
+        {
+            "m_ID": 1235,
+            "m_lettuceEquipmentTierId": 1043,
+            "m_mercenaryAttackChange": 0,
+            "m_mercenaryHealthChange": 0
+        },
+        {
+            "m_ID": 1236,
+            "m_lettuceEquipmentTierId": 1044,
+            "m_mercenaryAttackChange": 0,
+            "m_mercenaryHealthChange": 0
+        },
+        {
+            "m_ID": 1237,
+            "m_lettuceEquipmentTierId": 1045,
+            "m_mercenaryAttackChange": 0,
+            "m_mercenaryHealthChange": 0
+        },
+        {
+            "m_ID": 1238,
+            "m_lettuceEquipmentTierId": 1046,
+            "m_mercenaryAttackChange": 0,
+            "m_mercenaryHealthChange": 0
+        },
+        {
+            "m_ID": 1239,
+            "m_lettuceEquipmentTierId": 1047,
+            "m_mercenaryAttackChange": 0,
+            "m_mercenaryHealthChange": 0
+        },
+        {
+            "m_ID": 1245,
+            "m_lettuceEquipmentTierId": 1048,
+            "m_mercenaryAttackChange": 0,
+            "m_mercenaryHealthChange": 0
+        },
+        {
+            "m_ID": 1247,
+            "m_lettuceEquipmentTierId": 1049,
+            "m_mercenaryAttackChange": 0,
+            "m_mercenaryHealthChange": 0
+        },
+        {
+            "m_ID": 1242,
+            "m_lettuceEquipmentTierId": 1050,
+            "m_mercenaryAttackChange": 0,
+            "m_mercenaryHealthChange": 0
+        },
+        {
+            "m_ID": 1243,
+            "m_lettuceEquipmentTierId": 1051,
+            "m_mercenaryAttackChange": 0,
+            "m_mercenaryHealthChange": 0
         }
     ]
 }

@@ -1682,6 +1682,190 @@
             "m_finalBossCardId": 80528,
             "m_sortOrder": 8,
             "m_requiredCompletedBountyId": 116
+        },
+        {
+            "m_ID": 120,
+            "m_noteDesc": "Nefarian",
+            "m_bountyLevel": 30,
+            "m_enabled": 1,
+            "m_event": "always",
+            "m_bossNameOverride": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_comingSoonText": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_bountySetId": 8,
+            "m_difficultyMode": 0,
+            "m_heroic": 0,
+            "m_finalBossCardId": 81560,
+            "m_sortOrder": 12,
+            "m_requiredCompletedBountyId": 122
+        },
+        {
+            "m_ID": 121,
+            "m_noteDesc": "Vaelastrasz",
+            "m_bountyLevel": 30,
+            "m_enabled": 1,
+            "m_event": "always",
+            "m_bossNameOverride": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_comingSoonText": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_bountySetId": 8,
+            "m_difficultyMode": 0,
+            "m_heroic": 0,
+            "m_finalBossCardId": 81566,
+            "m_sortOrder": 10,
+            "m_requiredCompletedBountyId": 123
+        },
+        {
+            "m_ID": 122,
+            "m_noteDesc": "Chromaggus ",
+            "m_bountyLevel": 30,
+            "m_enabled": 1,
+            "m_event": "always",
+            "m_bossNameOverride": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_comingSoonText": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_bountySetId": 8,
+            "m_difficultyMode": 0,
+            "m_heroic": 0,
+            "m_finalBossCardId": 81865,
+            "m_sortOrder": 11,
+            "m_requiredCompletedBountyId": 121
+        },
+        {
+            "m_ID": 123,
+            "m_noteDesc": "Razorgore",
+            "m_bountyLevel": 30,
+            "m_enabled": 1,
+            "m_event": "always",
+            "m_bossNameOverride": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_comingSoonText": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_bountySetId": 8,
+            "m_difficultyMode": 0,
+            "m_heroic": 0,
+            "m_finalBossCardId": 82008,
+            "m_sortOrder": 9,
+            "m_requiredCompletedBountyId": 118
+        },
+        {
+            "m_ID": 124,
+            "m_noteDesc": "Razorgore Heroic",
+            "m_bountyLevel": 30,
+            "m_enabled": 1,
+            "m_event": "always",
+            "m_bossNameOverride": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_comingSoonText": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_bountySetId": 8,
+            "m_difficultyMode": 0,
+            "m_heroic": 1,
+            "m_finalBossCardId": 82008,
+            "m_sortOrder": 9,
+            "m_requiredCompletedBountyId": 118
+        },
+        {
+            "m_ID": 125,
+            "m_noteDesc": "Chromaggus Heroic",
+            "m_bountyLevel": 30,
+            "m_enabled": 1,
+            "m_event": "always",
+            "m_bossNameOverride": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_comingSoonText": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_bountySetId": 8,
+            "m_difficultyMode": 0,
+            "m_heroic": 1,
+            "m_finalBossCardId": 81865,
+            "m_sortOrder": 11,
+            "m_requiredCompletedBountyId": 121
+        },
+        {
+            "m_ID": 126,
+            "m_noteDesc": "Vaelastrasz Heroic",
+            "m_bountyLevel": 30,
+            "m_enabled": 1,
+            "m_event": "always",
+            "m_bossNameOverride": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_comingSoonText": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_bountySetId": 8,
+            "m_difficultyMode": 0,
+            "m_heroic": 1,
+            "m_finalBossCardId": 81566,
+            "m_sortOrder": 10,
+            "m_requiredCompletedBountyId": 123
+        },
+        {
+            "m_ID": 127,
+            "m_noteDesc": "Nefarian Heroic",
+            "m_bountyLevel": 30,
+            "m_enabled": 1,
+            "m_event": "always",
+            "m_bossNameOverride": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_comingSoonText": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_bountySetId": 8,
+            "m_difficultyMode": 0,
+            "m_heroic": 1,
+            "m_finalBossCardId": 81560,
+            "m_sortOrder": 12,
+            "m_requiredCompletedBountyId": 122
         }
     ]
 }

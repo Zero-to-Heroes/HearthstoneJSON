@@ -3065,6 +3065,45 @@
             }
         },
         {
+            "m_ID": 297,
+            "m_lettuceMercenaryId": 238,
+            "m_name": {
+                "m_locales": [
+                    0,
+                    3,
+                    5,
+                    6,
+                    2,
+                    10,
+                    14,
+                    4,
+                    12,
+                    11,
+                    7,
+                    15,
+                    9,
+                    8
+                ],
+                "m_locValues": [
+                    "Combo",
+                    "Combo",
+                    "Combo",
+                    "Combo",
+                    "Combo",
+                    "Combo",
+                    "コンボ",
+                    "연계",
+                    "Kombinacja",
+                    "Combo",
+                    "Серия приемов",
+                    "คอมโบ",
+                    "连击",
+                    "連擊"
+                ],
+                "m_locId": 2817386
+            }
+        },
+        {
             "m_ID": 298,
             "m_lettuceMercenaryId": 239,
             "m_name": {
@@ -3101,6 +3140,45 @@
                     "人類"
                 ],
                 "m_locId": 2818430
+            }
+        },
+        {
+            "m_ID": 300,
+            "m_lettuceMercenaryId": 242,
+            "m_name": {
+                "m_locales": [
+                    0,
+                    3,
+                    5,
+                    6,
+                    2,
+                    10,
+                    14,
+                    4,
+                    12,
+                    11,
+                    7,
+                    15,
+                    9,
+                    8
+                ],
+                "m_locValues": [
+                    "Uncategorized",
+                    "Nicht kategorisiert",
+                    "Sin categorizar",
+                    "Sin categoría",
+                    "Hors catégorie",
+                    "Nessuna categoria",
+                    "未分類",
+                    "카테고리 없음",
+                    "Bez kategorii",
+                    "Sem categoria",
+                    "Разное",
+                    "ไม่มีประเภท",
+                    "其他",
+                    "未分類"
+                ],
+                "m_locId": 2818875
             }
         }
     ]

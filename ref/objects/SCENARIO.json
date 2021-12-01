@@ -72671,7 +72671,7 @@
             "m_gameSaveDataProgressSubkeyId": 0,
             "m_gameSaveDataProgressMax": 0,
             "m_hideBossHeroPowerInUi": 0,
-            "m_scriptObject": ""
+            "m_scriptObject": "SCENARIO-4429 (1).asset:c899ff0400244ef08c16cbf022d7eabf"
         },
         {
             "m_ID": 4478,
@@ -72780,12 +72780,12 @@
                 "m_locValues": [
                     "We Don't Talk About It",
                     "Streng geheim",
-                    "No nos andamos con rodeos",
+                    "Nadie habla sobre Campos de Batalla",
                     "No hablamos de esas cosas",
                     "On n’en parle pas",
                     "Non parliamone",
                     "ここだけの話",
-                    "얘기하면 안 돼요",
+                    "그건 얘기하면 안 돼요",
                     "Nie gadamy o tym",
                     "Não falamos sobre isso",
                     "Мы об этом не говорим",
@@ -73401,7 +73401,7 @@
                     "Kryjówka w Martwej Kopalni",
                     "Sala do Mastro das Minas Mortas",
                     "Мертвые копи: мачтовая мастерская",
-                    "ห้องเสากระโดง\nเรือเดดไมน์ส",
+                    "ห้องเสากระโดง\nเรือเดดไมนส์",
                     "死亡矿井舱室",
                     "死亡礦坑船桅室"
                 ],
@@ -73896,6 +73896,69 @@
             "m_gameSaveDataProgressMax": 0,
             "m_hideBossHeroPowerInUi": 0,
             "m_scriptObject": "SCENARIO-4486.asset:bbc3521de1f34c10bf032aa3652e4cd5"
+        },
+        {
+            "m_ID": 4689,
+            "m_noteDesc": "22.0 Arena Season",
+            "m_players": 2,
+            "m_player1HeroCardId": 0,
+            "m_player2HeroCardId": 0,
+            "m_isTutorial": 0,
+            "m_isExpert": 0,
+            "m_isCoop": 0,
+            "m_oneSimPerPlayer": 0,
+            "m_boardLayout": 0,
+            "m_adventureId": 0,
+            "m_wingId": 0,
+            "m_sortOrder": 0,
+            "m_modeId": 0,
+            "m_clientPlayer2HeroCardId": 0,
+            "m_clientPlayer2HeroPowerCardId": 0,
+            "m_name": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_shortName": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_description": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_shortDescription": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_opponentName": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_completedDescription": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_player1DeckId": 0,
+            "m_deckRulesetId": 0,
+            "m_ruleType": 0,
+            "m_chooseHeroText": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            },
+            "m_tbTexture": "",
+            "m_tbTexturePhone": "",
+            "m_tbTexturePhoneOffsetY": 0.0,
+            "m_gameSaveDataProgressSubkeyId": 0,
+            "m_gameSaveDataProgressMax": 0,
+            "m_hideBossHeroPowerInUi": 0,
+            "m_scriptObject": "SCENARIO-4689.asset:b3f3dd02f9e946a0820c9b406a704e7e"
         }
     ]
 }

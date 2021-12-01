@@ -7285,6 +7285,432 @@
             }
         },
         {
+            "m_ID": 328,
+            "m_name": {
+                "m_locales": [
+                    0,
+                    3,
+                    5,
+                    6,
+                    2,
+                    10,
+                    14,
+                    4,
+                    12,
+                    11,
+                    7,
+                    15,
+                    9,
+                    8
+                ],
+                "m_locValues": [
+                    "Neutral",
+                    "Neutral",
+                    "Neutral",
+                    "Neutral",
+                    "Neutre",
+                    "Generiche",
+                    "中立",
+                    "중립",
+                    "Neutralne",
+                    "Neutro",
+                    "Общие",
+                    "เป็นกลาง",
+                    "中立",
+                    "中立"
+                ],
+                "m_locId": 2814092
+            }
+        },
+        {
+            "m_ID": 329,
+            "m_name": {
+                "m_locales": [],
+                "m_locValues": [],
+                "m_locId": 0
+            }
+        },
+        {
+            "m_ID": 331,
+            "m_name": {
+                "m_locales": [
+                    0,
+                    3,
+                    5,
+                    6,
+                    2,
+                    10,
+                    14,
+                    4,
+                    12,
+                    11,
+                    7,
+                    15,
+                    9,
+                    8
+                ],
+                "m_locValues": [
+                    "Shaman",
+                    "Schamane",
+                    "Chamán",
+                    "Chamán",
+                    "Chaman",
+                    "Sciamano",
+                    "シャーマン",
+                    "주술사",
+                    "Szaman",
+                    "Xamã",
+                    "Шаман",
+                    "ชาแมน",
+                    "萨满祭司",
+                    "薩滿"
+                ],
+                "m_locId": 2815227
+            }
+        },
+        {
+            "m_ID": 332,
+            "m_name": {
+                "m_locales": [
+                    0,
+                    3,
+                    5,
+                    6,
+                    2,
+                    10,
+                    14,
+                    4,
+                    12,
+                    11,
+                    7,
+                    15,
+                    9,
+                    8
+                ],
+                "m_locValues": [
+                    "Warrior",
+                    "Krieger",
+                    "Guerrero",
+                    "Guerrero",
+                    "Guerrier",
+                    "Guerriero",
+                    "ウォリアー",
+                    "전사",
+                    "Wojownik",
+                    "Guerreiro",
+                    "Воин",
+                    "วอริเออร์",
+                    "战士",
+                    "戰士"
+                ],
+                "m_locId": 2815228
+            }
+        },
+        {
+            "m_ID": 333,
+            "m_name": {
+                "m_locales": [
+                    0,
+                    3,
+                    5,
+                    6,
+                    2,
+                    10,
+                    14,
+                    4,
+                    12,
+                    11,
+                    7,
+                    15,
+                    9,
+                    8
+                ],
+                "m_locValues": [
+                    "Rogue",
+                    "Schurke",
+                    "Pícaro",
+                    "Pícaro",
+                    "Voleur",
+                    "Ladro",
+                    "ローグ",
+                    "도적",
+                    "Łotr",
+                    "Ladino",
+                    "Разбойник",
+                    "โร้ก",
+                    "潜行者",
+                    "盜賊"
+                ],
+                "m_locId": 2815229
+            }
+        },
+        {
+            "m_ID": 334,
+            "m_name": {
+                "m_locales": [
+                    0,
+                    3,
+                    5,
+                    6,
+                    2,
+                    10,
+                    14,
+                    4,
+                    12,
+                    11,
+                    7,
+                    15,
+                    9,
+                    8
+                ],
+                "m_locValues": [
+                    "Paladin",
+                    "Paladin",
+                    "Paladín",
+                    "Paladín",
+                    "Paladin",
+                    "Paladino",
+                    "パラディン",
+                    "성기사",
+                    "Paladyn",
+                    "Paladino",
+                    "Паладин",
+                    "พาลาดิน",
+                    "圣骑士",
+                    "聖騎士"
+                ],
+                "m_locId": 2815230
+            }
+        },
+        {
+            "m_ID": 335,
+            "m_name": {
+                "m_locales": [
+                    0,
+                    3,
+                    5,
+                    6,
+                    2,
+                    10,
+                    14,
+                    4,
+                    12,
+                    11,
+                    7,
+                    15,
+                    9,
+                    8
+                ],
+                "m_locValues": [
+                    "Hunter",
+                    "Jäger",
+                    "Cazador",
+                    "Cazador",
+                    "Chasseur",
+                    "Cacciatore",
+                    "ハンター",
+                    "사냥꾼",
+                    "Łowca",
+                    "Caçador",
+                    "Охотник",
+                    "ฮันเตอร์",
+                    "猎人",
+                    "獵人"
+                ],
+                "m_locId": 2815231
+            }
+        },
+        {
+            "m_ID": 336,
+            "m_name": {
+                "m_locales": [
+                    0,
+                    3,
+                    5,
+                    6,
+                    2,
+                    10,
+                    14,
+                    4,
+                    12,
+                    11,
+                    7,
+                    15,
+                    9,
+                    8
+                ],
+                "m_locValues": [
+                    "Druid",
+                    "Druide",
+                    "Druida",
+                    "Druida",
+                    "Druide",
+                    "Druido",
+                    "ドルイド",
+                    "드루이드",
+                    "Druid",
+                    "Druida",
+                    "Друид",
+                    "ดรูอิด",
+                    "德鲁伊",
+                    "德魯伊"
+                ],
+                "m_locId": 2815232
+            }
+        },
+        {
+            "m_ID": 337,
+            "m_name": {
+                "m_locales": [
+                    0,
+                    3,
+                    5,
+                    6,
+                    2,
+                    10,
+                    14,
+                    4,
+                    12,
+                    11,
+                    7,
+                    15,
+                    9,
+                    8
+                ],
+                "m_locValues": [
+                    "Warlock",
+                    "Hexenmeister",
+                    "Brujo",
+                    "Brujo",
+                    "Démoniste",
+                    "Stregone",
+                    "ウォーロック",
+                    "흑마법사",
+                    "Czarnoksiężnik",
+                    "Bruxo",
+                    "Чернокнижник",
+                    "วอร์ล็อค",
+                    "术士",
+                    "術士"
+                ],
+                "m_locId": 2815233
+            }
+        },
+        {
+            "m_ID": 338,
+            "m_name": {
+                "m_locales": [
+                    0,
+                    3,
+                    5,
+                    6,
+                    2,
+                    10,
+                    14,
+                    4,
+                    12,
+                    11,
+                    7,
+                    15,
+                    9,
+                    8
+                ],
+                "m_locValues": [
+                    "Mage",
+                    "Magier",
+                    "Mago",
+                    "Mago",
+                    "Mage",
+                    "Mago",
+                    "メイジ",
+                    "마법사",
+                    "Mag",
+                    "Mago",
+                    "Маг",
+                    "เมจ",
+                    "法师",
+                    "法師"
+                ],
+                "m_locId": 2815234
+            }
+        },
+        {
+            "m_ID": 339,
+            "m_name": {
+                "m_locales": [
+                    0,
+                    3,
+                    5,
+                    6,
+                    2,
+                    10,
+                    14,
+                    4,
+                    12,
+                    11,
+                    7,
+                    15,
+                    9,
+                    8
+                ],
+                "m_locValues": [
+                    "Priest",
+                    "Priester",
+                    "Sacerdote",
+                    "Sacerdote",
+                    "Prêtre",
+                    "Sacerdote",
+                    "プリースト",
+                    "사제",
+                    "Kapłan",
+                    "Sacerdote",
+                    "Жрец",
+                    "พรีสต์",
+                    "牧师",
+                    "牧師"
+                ],
+                "m_locId": 2815235
+            }
+        },
+        {
+            "m_ID": 340,
+            "m_name": {
+                "m_locales": [
+                    0,
+                    3,
+                    5,
+                    6,
+                    2,
+                    10,
+                    14,
+                    4,
+                    12,
+                    11,
+                    7,
+                    15,
+                    9,
+                    8
+                ],
+                "m_locValues": [
+                    "Demon Hunter",
+                    "Dämonenjäger",
+                    "Cazador de demonios",
+                    "Cazador de demonios",
+                    "Chasseur de démons",
+                    "Cacciatore di Demoni",
+                    "デーモンハンター",
+                    "악마사냥꾼",
+                    "Łowca demonów",
+                    "Caçador de Demônios",
+                    "Охотник на демонов",
+                    "ดีมอนฮันเตอร์",
+                    "恶魔猎手",
+                    "惡魔獵人"
+                ],
+                "m_locId": 2815236
+            }
+        },
+        {
             "m_ID": 366,
             "m_name": {
                 "m_locales": [
@@ -7434,6 +7860,44 @@
                     "塔姆辛‧羅姆"
                 ],
                 "m_locId": 2820087
+            }
+        },
+        {
+            "m_ID": 371,
+            "m_name": {
+                "m_locales": [
+                    0,
+                    3,
+                    5,
+                    6,
+                    2,
+                    10,
+                    14,
+                    4,
+                    12,
+                    11,
+                    7,
+                    15,
+                    9,
+                    8
+                ],
+                "m_locValues": [
+                    "Scabbs Cutterbutter",
+                    "Schnipps Butterbeil",
+                    "Scabbs Cortamanteca",
+                    "Scabbs Cortamanteca",
+                    "Tchak Coupebeurre",
+                    "Scabb Tranciaburro",
+                    "スキャブス・カッターバター",
+                    "스캡스 커터버터",
+                    "Skubas Rachciach",
+                    "Sarno Cortatorta",
+                    "Скаббс Маслорез",
+                    "สแคบส์ คัตเตอร์บัตเตอร์",
+                    "斯卡布斯·刀油",
+                    "史蓋伯斯‧油切"
+                ],
+                "m_locId": 2821740
             }
         }
     ]

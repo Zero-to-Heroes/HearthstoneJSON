@@ -15,6 +15,7 @@
             "m_noteDesc": "Rexxar",
             "m_rarityId": 5,
             "m_collectible": 1,
+            "m_acquireType": 1,
             "m_defaultArtVariationAcquirableFromPacks": 1,
             "m_coinCraftCost": 500
         },
@@ -23,6 +24,7 @@
             "m_noteDesc": "Lord Jaraxxus",
             "m_rarityId": 5,
             "m_collectible": 1,
+            "m_acquireType": 1,
             "m_defaultArtVariationAcquirableFromPacks": 1,
             "m_coinCraftCost": 500
         },
@@ -31,6 +33,7 @@
             "m_noteDesc": "Kurtrus Ashfallen",
             "m_rarityId": 3,
             "m_collectible": 1,
+            "m_acquireType": 1,
             "m_defaultArtVariationAcquirableFromPacks": 1,
             "m_coinCraftCost": 100
         },
@@ -39,6 +42,7 @@
             "m_noteDesc": "Tirion Fordring",
             "m_rarityId": 4,
             "m_collectible": 1,
+            "m_acquireType": 1,
             "m_defaultArtVariationAcquirableFromPacks": 1,
             "m_coinCraftCost": 300
         },
@@ -47,6 +51,7 @@
             "m_noteDesc": "Prophet Velen",
             "m_rarityId": 4,
             "m_collectible": 1,
+            "m_acquireType": 1,
             "m_defaultArtVariationAcquirableFromPacks": 1,
             "m_coinCraftCost": 300
         },
@@ -55,6 +60,7 @@
             "m_noteDesc": "Grommash Hellscream",
             "m_rarityId": 5,
             "m_collectible": 1,
+            "m_acquireType": 2,
             "m_defaultArtVariationAcquirableFromPacks": 0,
             "m_coinCraftCost": 500
         },
@@ -63,6 +69,7 @@
             "m_noteDesc": "Scabbs Cutterbutter",
             "m_rarityId": 3,
             "m_collectible": 1,
+            "m_acquireType": 1,
             "m_defaultArtVariationAcquirableFromPacks": 1,
             "m_coinCraftCost": 100
         },
@@ -71,6 +78,7 @@
             "m_noteDesc": "Natalie Seline",
             "m_rarityId": 4,
             "m_collectible": 1,
+            "m_acquireType": 1,
             "m_defaultArtVariationAcquirableFromPacks": 1,
             "m_coinCraftCost": 300
         },
@@ -79,6 +87,7 @@
             "m_noteDesc": "Varian Wrynn",
             "m_rarityId": 4,
             "m_collectible": 1,
+            "m_acquireType": 1,
             "m_defaultArtVariationAcquirableFromPacks": 1,
             "m_coinCraftCost": 300
         },
@@ -87,6 +96,7 @@
             "m_noteDesc": "Rokara",
             "m_rarityId": 3,
             "m_collectible": 1,
+            "m_acquireType": 2,
             "m_defaultArtVariationAcquirableFromPacks": 0,
             "m_coinCraftCost": 100
         },
@@ -95,6 +105,7 @@
             "m_noteDesc": "Illidan Stormrage",
             "m_rarityId": 5,
             "m_collectible": 1,
+            "m_acquireType": 1,
             "m_defaultArtVariationAcquirableFromPacks": 1,
             "m_coinCraftCost": 500
         },
@@ -103,6 +114,7 @@
             "m_noteDesc": "Millhouse Manastorm",
             "m_rarityId": 3,
             "m_collectible": 1,
+            "m_acquireType": 2,
             "m_defaultArtVariationAcquirableFromPacks": 0,
             "m_coinCraftCost": 100
         },
@@ -111,6 +123,7 @@
             "m_noteDesc": "Sylvanas Windrunner",
             "m_rarityId": 5,
             "m_collectible": 1,
+            "m_acquireType": 1,
             "m_defaultArtVariationAcquirableFromPacks": 1,
             "m_coinCraftCost": 500
         },
@@ -118,8 +131,9 @@
             "m_ID": 17,
             "m_noteDesc": "Valeera Sanguinar",
             "m_rarityId": 5,
-            "m_collectible": 0,
-            "m_defaultArtVariationAcquirableFromPacks": 0,
+            "m_collectible": 1,
+            "m_acquireType": 1,
+            "m_defaultArtVariationAcquirableFromPacks": 1,
             "m_coinCraftCost": 500
         },
         {
@@ -127,6 +141,7 @@
             "m_noteDesc": "Cariel Roame",
             "m_rarityId": 3,
             "m_collectible": 1,
+            "m_acquireType": 2,
             "m_defaultArtVariationAcquirableFromPacks": 0,
             "m_coinCraftCost": 100
         },
@@ -135,6 +150,7 @@
             "m_noteDesc": "Xyrella",
             "m_rarityId": 3,
             "m_collectible": 1,
+            "m_acquireType": 2,
             "m_defaultArtVariationAcquirableFromPacks": 0,
             "m_coinCraftCost": 100
         },
@@ -143,6 +159,7 @@
             "m_noteDesc": "Ragnaros",
             "m_rarityId": 5,
             "m_collectible": 1,
+            "m_acquireType": 1,
             "m_defaultArtVariationAcquirableFromPacks": 1,
             "m_coinCraftCost": 500
         },
@@ -151,6 +168,7 @@
             "m_noteDesc": "Bru'kan",
             "m_rarityId": 3,
             "m_collectible": 1,
+            "m_acquireType": 1,
             "m_defaultArtVariationAcquirableFromPacks": 1,
             "m_coinCraftCost": 100
         },
@@ -159,6 +177,7 @@
             "m_noteDesc": "Baron Geddon",
             "m_rarityId": 4,
             "m_collectible": 1,
+            "m_acquireType": 1,
             "m_defaultArtVariationAcquirableFromPacks": 1,
             "m_coinCraftCost": 300
         },
@@ -167,6 +186,7 @@
             "m_noteDesc": "Alexstrasza",
             "m_rarityId": 5,
             "m_collectible": 1,
+            "m_acquireType": 1,
             "m_defaultArtVariationAcquirableFromPacks": 1,
             "m_coinCraftCost": 500
         },
@@ -175,6 +195,7 @@
             "m_noteDesc": "Brightwing",
             "m_rarityId": 4,
             "m_collectible": 1,
+            "m_acquireType": 1,
             "m_defaultArtVariationAcquirableFromPacks": 1,
             "m_coinCraftCost": 300
         },
@@ -183,6 +204,7 @@
             "m_noteDesc": "Gruul",
             "m_rarityId": 4,
             "m_collectible": 1,
+            "m_acquireType": 1,
             "m_defaultArtVariationAcquirableFromPacks": 1,
             "m_coinCraftCost": 300
         },
@@ -191,6 +213,7 @@
             "m_noteDesc": "Cairne Bloodhoof",
             "m_rarityId": 4,
             "m_collectible": 1,
+            "m_acquireType": 1,
             "m_defaultArtVariationAcquirableFromPacks": 1,
             "m_coinCraftCost": 300
         },
@@ -199,6 +222,7 @@
             "m_noteDesc": "Guff Runetotem",
             "m_rarityId": 3,
             "m_collectible": 1,
+            "m_acquireType": 1,
             "m_defaultArtVariationAcquirableFromPacks": 1,
             "m_coinCraftCost": 100
         },
@@ -207,6 +231,7 @@
             "m_noteDesc": "Medivh",
             "m_rarityId": 5,
             "m_collectible": 0,
+            "m_acquireType": 0,
             "m_defaultArtVariationAcquirableFromPacks": 0,
             "m_coinCraftCost": 500
         },
@@ -215,6 +240,7 @@
             "m_noteDesc": "Varden Dawngrasp",
             "m_rarityId": 3,
             "m_collectible": 1,
+            "m_acquireType": 1,
             "m_defaultArtVariationAcquirableFromPacks": 1,
             "m_coinCraftCost": 100
         },
@@ -223,6 +249,7 @@
             "m_noteDesc": "Old Murk-Eye",
             "m_rarityId": 3,
             "m_collectible": 1,
+            "m_acquireType": 1,
             "m_defaultArtVariationAcquirableFromPacks": 1,
             "m_coinCraftCost": 100
         },
@@ -231,6 +258,7 @@
             "m_noteDesc": "Morgl the Oracle",
             "m_rarityId": 3,
             "m_collectible": 1,
+            "m_acquireType": 1,
             "m_defaultArtVariationAcquirableFromPacks": 1,
             "m_coinCraftCost": 100
         },
@@ -239,6 +267,7 @@
             "m_noteDesc": "King Mukla",
             "m_rarityId": 4,
             "m_collectible": 1,
+            "m_acquireType": 1,
             "m_defaultArtVariationAcquirableFromPacks": 1,
             "m_coinCraftCost": 300
         },
@@ -247,6 +276,7 @@
             "m_noteDesc": "King Krush",
             "m_rarityId": 4,
             "m_collectible": 1,
+            "m_acquireType": 1,
             "m_defaultArtVariationAcquirableFromPacks": 1,
             "m_coinCraftCost": 300
         },
@@ -255,6 +285,7 @@
             "m_noteDesc": "Tavish Stormpike",
             "m_rarityId": 3,
             "m_collectible": 1,
+            "m_acquireType": 1,
             "m_defaultArtVariationAcquirableFromPacks": 1,
             "m_coinCraftCost": 100
         },
@@ -263,6 +294,7 @@
             "m_noteDesc": "Tamsin Roame",
             "m_rarityId": 3,
             "m_collectible": 1,
+            "m_acquireType": 1,
             "m_defaultArtVariationAcquirableFromPacks": 1,
             "m_coinCraftCost": 100
         },
@@ -271,6 +303,7 @@
             "m_noteDesc": "Thrall",
             "m_rarityId": 5,
             "m_collectible": 1,
+            "m_acquireType": 1,
             "m_defaultArtVariationAcquirableFromPacks": 1,
             "m_coinCraftCost": 500
         },
@@ -279,6 +312,7 @@
             "m_noteDesc": "Garrosh Hellscream",
             "m_rarityId": 5,
             "m_collectible": 1,
+            "m_acquireType": 1,
             "m_defaultArtVariationAcquirableFromPacks": 1,
             "m_coinCraftCost": 500
         },
@@ -287,6 +321,7 @@
             "m_noteDesc": "Saurfang",
             "m_rarityId": 4,
             "m_collectible": 1,
+            "m_acquireType": 1,
             "m_defaultArtVariationAcquirableFromPacks": 1,
             "m_coinCraftCost": 300
         },
@@ -295,6 +330,7 @@
             "m_noteDesc": "Blademaster Samuro",
             "m_rarityId": 3,
             "m_collectible": 1,
+            "m_acquireType": 2,
             "m_defaultArtVariationAcquirableFromPacks": 0,
             "m_coinCraftCost": 100
         },
@@ -303,6 +339,7 @@
             "m_noteDesc": "Mannoroth",
             "m_rarityId": 4,
             "m_collectible": 1,
+            "m_acquireType": 1,
             "m_defaultArtVariationAcquirableFromPacks": 1,
             "m_coinCraftCost": 300
         },
@@ -311,6 +348,7 @@
             "m_noteDesc": "Rathorian",
             "m_rarityId": 3,
             "m_collectible": 1,
+            "m_acquireType": 1,
             "m_defaultArtVariationAcquirableFromPacks": 1,
             "m_coinCraftCost": 100
         },
@@ -319,6 +357,7 @@
             "m_noteDesc": "Mutanus",
             "m_rarityId": 4,
             "m_collectible": 1,
+            "m_acquireType": 1,
             "m_defaultArtVariationAcquirableFromPacks": 1,
             "m_coinCraftCost": 300
         },
@@ -327,6 +366,7 @@
             "m_noteDesc": "Warmaster Voone",
             "m_rarityId": 4,
             "m_collectible": 1,
+            "m_acquireType": 1,
             "m_defaultArtVariationAcquirableFromPacks": 1,
             "m_coinCraftCost": 300
         },
@@ -335,6 +375,7 @@
             "m_noteDesc": "Gul'dan",
             "m_rarityId": 5,
             "m_collectible": 1,
+            "m_acquireType": 1,
             "m_defaultArtVariationAcquirableFromPacks": 1,
             "m_coinCraftCost": 500
         },
@@ -343,6 +384,7 @@
             "m_noteDesc": "Vol'jin",
             "m_rarityId": 4,
             "m_collectible": 1,
+            "m_acquireType": 1,
             "m_defaultArtVariationAcquirableFromPacks": 1,
             "m_coinCraftCost": 300
         },
@@ -351,6 +393,7 @@
             "m_noteDesc": "Lady Anacondra",
             "m_rarityId": 3,
             "m_collectible": 1,
+            "m_acquireType": 1,
             "m_defaultArtVariationAcquirableFromPacks": 1,
             "m_coinCraftCost": 100
         },
@@ -359,6 +402,7 @@
             "m_noteDesc": "Malfurion Stormrage",
             "m_rarityId": 5,
             "m_collectible": 1,
+            "m_acquireType": 1,
             "m_defaultArtVariationAcquirableFromPacks": 1,
             "m_coinCraftCost": 500
         },
@@ -367,15 +411,17 @@
             "m_noteDesc": "Tyrande",
             "m_rarityId": 4,
             "m_collectible": 1,
+            "m_acquireType": 2,
             "m_defaultArtVariationAcquirableFromPacks": 0,
             "m_coinCraftCost": 300
         },
         {
             "m_ID": 71,
-            "m_noteDesc": "Trigore the Lasher",
+            "m_noteDesc": "Trigore",
             "m_rarityId": 3,
-            "m_collectible": 0,
-            "m_defaultArtVariationAcquirableFromPacks": 0,
+            "m_collectible": 1,
+            "m_acquireType": 1,
+            "m_defaultArtVariationAcquirableFromPacks": 1,
             "m_coinCraftCost": 100
         },
         {
@@ -383,6 +429,7 @@
             "m_noteDesc": "Anduin Wrynn",
             "m_rarityId": 5,
             "m_collectible": 1,
+            "m_acquireType": 1,
             "m_defaultArtVariationAcquirableFromPacks": 1,
             "m_coinCraftCost": 500
         },
@@ -391,6 +438,7 @@
             "m_noteDesc": "Uther",
             "m_rarityId": 5,
             "m_collectible": 1,
+            "m_acquireType": 1,
             "m_defaultArtVariationAcquirableFromPacks": 1,
             "m_coinCraftCost": 500
         },
@@ -399,6 +447,7 @@
             "m_noteDesc": "Cornelius Roame",
             "m_rarityId": 3,
             "m_collectible": 1,
+            "m_acquireType": 2,
             "m_defaultArtVariationAcquirableFromPacks": 0,
             "m_coinCraftCost": 100
         },
@@ -407,6 +456,7 @@
             "m_noteDesc": "Jaina Proudmoore",
             "m_rarityId": 5,
             "m_collectible": 1,
+            "m_acquireType": 1,
             "m_defaultArtVariationAcquirableFromPacks": 1,
             "m_coinCraftCost": 500
         },
@@ -415,6 +465,7 @@
             "m_noteDesc": "Antonidas",
             "m_rarityId": 4,
             "m_collectible": 1,
+            "m_acquireType": 1,
             "m_defaultArtVariationAcquirableFromPacks": 1,
             "m_coinCraftCost": 300
         },
@@ -423,6 +474,7 @@
             "m_noteDesc": "Lich King",
             "m_rarityId": 5,
             "m_collectible": 1,
+            "m_acquireType": 1,
             "m_defaultArtVariationAcquirableFromPacks": 1,
             "m_coinCraftCost": 500
         },
@@ -431,6 +483,7 @@
             "m_noteDesc": "Blink Fox",
             "m_rarityId": 3,
             "m_collectible": 1,
+            "m_acquireType": 1,
             "m_defaultArtVariationAcquirableFromPacks": 1,
             "m_coinCraftCost": 100
         },
@@ -439,6 +492,7 @@
             "m_noteDesc": "Diablo",
             "m_rarityId": 5,
             "m_collectible": 1,
+            "m_acquireType": 1,
             "m_defaultArtVariationAcquirableFromPacks": 1,
             "m_coinCraftCost": 500
         },
@@ -447,6 +501,7 @@
             "m_noteDesc": "Razorfen Beastmaster",
             "m_rarityId": 1,
             "m_collectible": 0,
+            "m_acquireType": 0,
             "m_defaultArtVariationAcquirableFromPacks": 0,
             "m_coinCraftCost": 50
         },
@@ -455,6 +510,7 @@
             "m_noteDesc": "Razorboar",
             "m_rarityId": 1,
             "m_collectible": 0,
+            "m_acquireType": 0,
             "m_defaultArtVariationAcquirableFromPacks": 0,
             "m_coinCraftCost": 50
         },
@@ -463,6 +519,7 @@
             "m_noteDesc": "Death's Head Cultist",
             "m_rarityId": 1,
             "m_collectible": 0,
+            "m_acquireType": 0,
             "m_defaultArtVariationAcquirableFromPacks": 0,
             "m_coinCraftCost": 50
         },
@@ -471,6 +528,7 @@
             "m_noteDesc": "Razormane Battleguard",
             "m_rarityId": 1,
             "m_collectible": 0,
+            "m_acquireType": 0,
             "m_defaultArtVariationAcquirableFromPacks": 0,
             "m_coinCraftCost": 50
         },
@@ -479,6 +537,7 @@
             "m_noteDesc": "Razormane Raider",
             "m_rarityId": 1,
             "m_collectible": 0,
+            "m_acquireType": 0,
             "m_defaultArtVariationAcquirableFromPacks": 0,
             "m_coinCraftCost": 50
         },
@@ -487,6 +546,7 @@
             "m_noteDesc": "Rimetongue",
             "m_rarityId": 1,
             "m_collectible": 0,
+            "m_acquireType": 0,
             "m_defaultArtVariationAcquirableFromPacks": 0,
             "m_coinCraftCost": 50
         },
@@ -495,6 +555,7 @@
             "m_noteDesc": "Injured Marauder",
             "m_rarityId": 1,
             "m_collectible": 0,
+            "m_acquireType": 0,
             "m_defaultArtVariationAcquirableFromPacks": 0,
             "m_coinCraftCost": 50
         },
@@ -503,6 +564,7 @@
             "m_noteDesc": "Kolkar Pack Runner",
             "m_rarityId": 1,
             "m_collectible": 0,
+            "m_acquireType": 0,
             "m_defaultArtVariationAcquirableFromPacks": 0,
             "m_coinCraftCost": 50
         },
@@ -511,6 +573,7 @@
             "m_noteDesc": "Hecklefang Hyena",
             "m_rarityId": 1,
             "m_collectible": 0,
+            "m_acquireType": 0,
             "m_defaultArtVariationAcquirableFromPacks": 0,
             "m_coinCraftCost": 50
         },
@@ -519,6 +582,7 @@
             "m_noteDesc": "Scavenging Hyena",
             "m_rarityId": 1,
             "m_collectible": 0,
+            "m_acquireType": 0,
             "m_defaultArtVariationAcquirableFromPacks": 0,
             "m_coinCraftCost": 50
         },
@@ -527,6 +591,7 @@
             "m_noteDesc": "Hyena Alpha",
             "m_rarityId": 1,
             "m_collectible": 0,
+            "m_acquireType": 0,
             "m_defaultArtVariationAcquirableFromPacks": 0,
             "m_coinCraftCost": 50
         },
@@ -535,6 +600,7 @@
             "m_noteDesc": "Pit Snake",
             "m_rarityId": 1,
             "m_collectible": 0,
+            "m_acquireType": 0,
             "m_defaultArtVariationAcquirableFromPacks": 0,
             "m_coinCraftCost": 50
         },
@@ -543,6 +609,7 @@
             "m_noteDesc": "Burrowing Scorpid",
             "m_rarityId": 1,
             "m_collectible": 0,
+            "m_acquireType": 0,
             "m_defaultArtVariationAcquirableFromPacks": 0,
             "m_coinCraftCost": 50
         },
@@ -551,6 +618,7 @@
             "m_noteDesc": "Starving Buzzard",
             "m_rarityId": 1,
             "m_collectible": 0,
+            "m_acquireType": 0,
             "m_defaultArtVariationAcquirableFromPacks": 0,
             "m_coinCraftCost": 50
         },
@@ -559,6 +627,7 @@
             "m_noteDesc": "Thickhide Kodo",
             "m_rarityId": 1,
             "m_collectible": 0,
+            "m_acquireType": 0,
             "m_defaultArtVariationAcquirableFromPacks": 0,
             "m_coinCraftCost": 50
         },
@@ -567,6 +636,7 @@
             "m_noteDesc": "Venomous Scorpid",
             "m_rarityId": 1,
             "m_collectible": 0,
+            "m_acquireType": 0,
             "m_defaultArtVariationAcquirableFromPacks": 0,
             "m_coinCraftCost": 50
         },
@@ -575,6 +645,7 @@
             "m_noteDesc": "Stonetusk Boar",
             "m_rarityId": 1,
             "m_collectible": 0,
+            "m_acquireType": 0,
             "m_defaultArtVariationAcquirableFromPacks": 0,
             "m_coinCraftCost": 50
         },
@@ -583,6 +654,7 @@
             "m_noteDesc": "Fire Fly",
             "m_rarityId": 1,
             "m_collectible": 0,
+            "m_acquireType": 0,
             "m_defaultArtVariationAcquirableFromPacks": 0,
             "m_coinCraftCost": 50
         },
@@ -591,6 +663,7 @@
             "m_noteDesc": "Kindling Elemental",
             "m_rarityId": 1,
             "m_collectible": 0,
+            "m_acquireType": 0,
             "m_defaultArtVariationAcquirableFromPacks": 0,
             "m_coinCraftCost": 50
         },
@@ -599,6 +672,7 @@
             "m_noteDesc": "Primordial Protector",
             "m_rarityId": 1,
             "m_collectible": 0,
+            "m_acquireType": 0,
             "m_defaultArtVariationAcquirableFromPacks": 0,
             "m_coinCraftCost": 50
         },
@@ -607,6 +681,7 @@
             "m_noteDesc": "Glacial Shard",
             "m_rarityId": 1,
             "m_collectible": 0,
+            "m_acquireType": 0,
             "m_defaultArtVariationAcquirableFromPacks": 0,
             "m_coinCraftCost": 50
         },
@@ -615,6 +690,7 @@
             "m_noteDesc": "Forbidden Ancient",
             "m_rarityId": 1,
             "m_collectible": 0,
+            "m_acquireType": 0,
             "m_defaultArtVariationAcquirableFromPacks": 0,
             "m_coinCraftCost": 50
         },
@@ -623,6 +699,7 @@
             "m_noteDesc": "Cookie, the Cook",
             "m_rarityId": 3,
             "m_collectible": 1,
+            "m_acquireType": 0,
             "m_defaultArtVariationAcquirableFromPacks": 1,
             "m_coinCraftCost": 100
         },
@@ -631,6 +708,7 @@
             "m_noteDesc": "Kazakus",
             "m_rarityId": 5,
             "m_collectible": 0,
+            "m_acquireType": 0,
             "m_defaultArtVariationAcquirableFromPacks": 0,
             "m_coinCraftCost": 500
         },
@@ -639,6 +717,7 @@
             "m_noteDesc": "Sneed",
             "m_rarityId": 4,
             "m_collectible": 1,
+            "m_acquireType": 0,
             "m_defaultArtVariationAcquirableFromPacks": 1,
             "m_coinCraftCost": 300
         },
@@ -647,6 +726,7 @@
             "m_noteDesc": "Edwin, Defias Kingpin",
             "m_rarityId": 5,
             "m_collectible": 1,
+            "m_acquireType": 0,
             "m_defaultArtVariationAcquirableFromPacks": 1,
             "m_coinCraftCost": 500
         },
@@ -655,6 +735,7 @@
             "m_noteDesc": "Doubling Imp",
             "m_rarityId": 1,
             "m_collectible": 0,
+            "m_acquireType": 0,
             "m_defaultArtVariationAcquirableFromPacks": 0,
             "m_coinCraftCost": 50
         },
@@ -663,6 +744,7 @@
             "m_noteDesc": "Mad Summoner",
             "m_rarityId": 1,
             "m_collectible": 0,
+            "m_acquireType": 0,
             "m_defaultArtVariationAcquirableFromPacks": 0,
             "m_coinCraftCost": 50
         },
@@ -671,6 +753,7 @@
             "m_noteDesc": "Satyr Overseer",
             "m_rarityId": 1,
             "m_collectible": 0,
+            "m_acquireType": 0,
             "m_defaultArtVariationAcquirableFromPacks": 0,
             "m_coinCraftCost": 50
         },
@@ -679,6 +762,7 @@
             "m_noteDesc": "Dread Infernal",
             "m_rarityId": 1,
             "m_collectible": 0,
+            "m_acquireType": 0,
             "m_defaultArtVariationAcquirableFromPacks": 0,
             "m_coinCraftCost": 50
         },
@@ -687,6 +771,7 @@
             "m_noteDesc": "Blood Imp",
             "m_rarityId": 1,
             "m_collectible": 0,
+            "m_acquireType": 0,
             "m_defaultArtVariationAcquirableFromPacks": 0,
             "m_coinCraftCost": 50
         },
@@ -695,6 +780,7 @@
             "m_noteDesc": "Jumbo Imp",
             "m_rarityId": 1,
             "m_collectible": 0,
+            "m_acquireType": 0,
             "m_defaultArtVariationAcquirableFromPacks": 0,
             "m_coinCraftCost": 50
         },
@@ -703,6 +789,7 @@
             "m_noteDesc": "Berserk Owlbeast",
             "m_rarityId": 1,
             "m_collectible": 0,
+            "m_acquireType": 0,
             "m_defaultArtVariationAcquirableFromPacks": 0,
             "m_coinCraftCost": 50
         },
@@ -711,6 +798,7 @@
             "m_noteDesc": "Maniac Owlbeast",
             "m_rarityId": 1,
             "m_collectible": 0,
+            "m_acquireType": 0,
             "m_defaultArtVariationAcquirableFromPacks": 0,
             "m_coinCraftCost": 50
         },
@@ -719,6 +807,7 @@
             "m_noteDesc": "Ancient of Lore",
             "m_rarityId": 1,
             "m_collectible": 0,
+            "m_acquireType": 0,
             "m_defaultArtVariationAcquirableFromPacks": 0,
             "m_coinCraftCost": 50
         },
@@ -727,6 +816,7 @@
             "m_noteDesc": "Ancient of War",
             "m_rarityId": 1,
             "m_collectible": 0,
+            "m_acquireType": 0,
             "m_defaultArtVariationAcquirableFromPacks": 0,
             "m_coinCraftCost": 50
         },
@@ -735,6 +825,7 @@
             "m_noteDesc": "Ancient of Blossoms",
             "m_rarityId": 1,
             "m_collectible": 0,
+            "m_acquireType": 0,
             "m_defaultArtVariationAcquirableFromPacks": 0,
             "m_coinCraftCost": 50
         },
@@ -743,6 +834,7 @@
             "m_noteDesc": "Ancient",
             "m_rarityId": 1,
             "m_collectible": 0,
+            "m_acquireType": 0,
             "m_defaultArtVariationAcquirableFromPacks": 0,
             "m_coinCraftCost": 50
         },
@@ -751,6 +843,7 @@
             "m_noteDesc": "Treant",
             "m_rarityId": 1,
             "m_collectible": 0,
+            "m_acquireType": 0,
             "m_defaultArtVariationAcquirableFromPacks": 0,
             "m_coinCraftCost": 50
         },
@@ -759,6 +852,7 @@
             "m_noteDesc": "Tur Ragepaw",
             "m_rarityId": 1,
             "m_collectible": 0,
+            "m_acquireType": 0,
             "m_defaultArtVariationAcquirableFromPacks": 0,
             "m_coinCraftCost": 50
         },
@@ -767,6 +861,7 @@
             "m_noteDesc": "Furbolg Totemic",
             "m_rarityId": 1,
             "m_collectible": 0,
+            "m_acquireType": 0,
             "m_defaultArtVariationAcquirableFromPacks": 0,
             "m_coinCraftCost": 50
         },
@@ -775,6 +870,7 @@
             "m_noteDesc": "Furbolg Ursa",
             "m_rarityId": 1,
             "m_collectible": 0,
+            "m_acquireType": 0,
             "m_defaultArtVariationAcquirableFromPacks": 0,
             "m_coinCraftCost": 50
         },
@@ -783,6 +879,7 @@
             "m_noteDesc": "Furbolg Den Watcher",
             "m_rarityId": 1,
             "m_collectible": 0,
+            "m_acquireType": 0,
             "m_defaultArtVariationAcquirableFromPacks": 0,
             "m_coinCraftCost": 50
         },
@@ -791,6 +888,7 @@
             "m_noteDesc": "Furbolg Shaman",
             "m_rarityId": 1,
             "m_collectible": 0,
+            "m_acquireType": 0,
             "m_defaultArtVariationAcquirableFromPacks": 0,
             "m_coinCraftCost": 50
         },
@@ -799,6 +897,7 @@
             "m_noteDesc": "Furbolg Pathfinder",
             "m_rarityId": 1,
             "m_collectible": 0,
+            "m_acquireType": 0,
             "m_defaultArtVariationAcquirableFromPacks": 0,
             "m_coinCraftCost": 50
         },
@@ -807,6 +906,7 @@
             "m_noteDesc": "Furbolg Warrior",
             "m_rarityId": 1,
             "m_collectible": 0,
+            "m_acquireType": 0,
             "m_defaultArtVariationAcquirableFromPacks": 0,
             "m_coinCraftCost": 50
         },
@@ -815,6 +915,7 @@
             "m_noteDesc": "Frostsaber Stalker",
             "m_rarityId": 1,
             "m_collectible": 0,
+            "m_acquireType": 0,
             "m_defaultArtVariationAcquirableFromPacks": 0,
             "m_coinCraftCost": 50
         },
@@ -823,6 +924,7 @@
             "m_noteDesc": "Evasive Chimera",
             "m_rarityId": 1,
             "m_collectible": 0,
+            "m_acquireType": 0,
             "m_defaultArtVariationAcquirableFromPacks": 0,
             "m_coinCraftCost": 50
         },
@@ -831,6 +933,7 @@
             "m_noteDesc": "Altered Beast",
             "m_rarityId": 1,
             "m_collectible": 0,
+            "m_acquireType": 0,
             "m_defaultArtVariationAcquirableFromPacks": 0,
             "m_coinCraftCost": 50
         },
@@ -839,6 +942,7 @@
             "m_noteDesc": "Chillwind Yeti",
             "m_rarityId": 1,
             "m_collectible": 0,
+            "m_acquireType": 0,
             "m_defaultArtVariationAcquirableFromPacks": 0,
             "m_coinCraftCost": 50
         },
@@ -847,6 +951,7 @@
             "m_noteDesc": "Shardtooth Bear",
             "m_rarityId": 1,
             "m_collectible": 0,
+            "m_acquireType": 0,
             "m_defaultArtVariationAcquirableFromPacks": 0,
             "m_coinCraftCost": 50
         },
@@ -855,6 +960,7 @@
             "m_noteDesc": "Ironbeak Owl",
             "m_rarityId": 1,
             "m_collectible": 0,
+            "m_acquireType": 0,
             "m_defaultArtVariationAcquirableFromPacks": 0,
             "m_coinCraftCost": 50
         },
@@ -863,6 +969,7 @@
             "m_noteDesc": "Rimerazor Shardling",
             "m_rarityId": 1,
             "m_collectible": 0,
+            "m_acquireType": 0,
             "m_defaultArtVariationAcquirableFromPacks": 0,
             "m_coinCraftCost": 50
         },
@@ -871,6 +978,7 @@
             "m_noteDesc": "Cruelbite Spriggan",
             "m_rarityId": 1,
             "m_collectible": 0,
+            "m_acquireType": 0,
             "m_defaultArtVariationAcquirableFromPacks": 0,
             "m_coinCraftCost": 50
         },
@@ -879,6 +987,7 @@
             "m_noteDesc": "Rimerazor Slasher",
             "m_rarityId": 1,
             "m_collectible": 0,
+            "m_acquireType": 0,
             "m_defaultArtVariationAcquirableFromPacks": 0,
             "m_coinCraftCost": 50
         },
@@ -887,6 +996,7 @@
             "m_noteDesc": "Raging Snowsurge",
             "m_rarityId": 1,
             "m_collectible": 0,
+            "m_acquireType": 0,
             "m_defaultArtVariationAcquirableFromPacks": 0,
             "m_coinCraftCost": 50
         },
@@ -895,6 +1005,7 @@
             "m_noteDesc": "Wall of Living Frost",
             "m_rarityId": 1,
             "m_collectible": 0,
+            "m_acquireType": 0,
             "m_defaultArtVariationAcquirableFromPacks": 0,
             "m_coinCraftCost": 50
         },
@@ -903,6 +1014,7 @@
             "m_noteDesc": "Icehowl Coldsnap",
             "m_rarityId": 1,
             "m_collectible": 0,
+            "m_acquireType": 0,
             "m_defaultArtVariationAcquirableFromPacks": 0,
             "m_coinCraftCost": 50
         },
@@ -911,6 +1023,7 @@
             "m_noteDesc": "Hulking Owlbeast",
             "m_rarityId": 1,
             "m_collectible": 0,
+            "m_acquireType": 0,
             "m_defaultArtVariationAcquirableFromPacks": 0,
             "m_coinCraftCost": 50
         },
@@ -919,6 +1032,7 @@
             "m_noteDesc": "Dragon Egg",
             "m_rarityId": 1,
             "m_collectible": 0,
+            "m_acquireType": 0,
             "m_defaultArtVariationAcquirableFromPacks": 0,
             "m_coinCraftCost": 50
         },
@@ -927,6 +1041,7 @@
             "m_noteDesc": "Dragon Consort",
             "m_rarityId": 1,
             "m_collectible": 0,
+            "m_acquireType": 0,
             "m_defaultArtVariationAcquirableFromPacks": 0,
             "m_coinCraftCost": 50
         },
@@ -935,6 +1050,7 @@
             "m_noteDesc": "Hungry Dragon",
             "m_rarityId": 1,
             "m_collectible": 0,
+            "m_acquireType": 0,
             "m_defaultArtVariationAcquirableFromPacks": 0,
             "m_coinCraftCost": 50
         },
@@ -943,6 +1059,7 @@
             "m_noteDesc": "Drakonid Crusher",
             "m_rarityId": 1,
             "m_collectible": 0,
+            "m_acquireType": 0,
             "m_defaultArtVariationAcquirableFromPacks": 0,
             "m_coinCraftCost": 50
         },
@@ -951,6 +1068,7 @@
             "m_noteDesc": "Dragonkin Sorcerer",
             "m_rarityId": 1,
             "m_collectible": 0,
+            "m_acquireType": 0,
             "m_defaultArtVariationAcquirableFromPacks": 0,
             "m_coinCraftCost": 50
         },
@@ -959,6 +1077,7 @@
             "m_noteDesc": "Twilight Whelp",
             "m_rarityId": 1,
             "m_collectible": 0,
+            "m_acquireType": 0,
             "m_defaultArtVariationAcquirableFromPacks": 0,
             "m_coinCraftCost": 50
         },
@@ -967,6 +1086,7 @@
             "m_noteDesc": "Volcanic Drake",
             "m_rarityId": 1,
             "m_collectible": 0,
+            "m_acquireType": 0,
             "m_defaultArtVariationAcquirableFromPacks": 0,
             "m_coinCraftCost": 50
         },
@@ -975,6 +1095,7 @@
             "m_noteDesc": "Faerie Dragon",
             "m_rarityId": 1,
             "m_collectible": 0,
+            "m_acquireType": 0,
             "m_defaultArtVariationAcquirableFromPacks": 0,
             "m_coinCraftCost": 50
         },
@@ -983,6 +1104,7 @@
             "m_noteDesc": "Ancient Corehound",
             "m_rarityId": 1,
             "m_collectible": 0,
+            "m_acquireType": 0,
             "m_defaultArtVariationAcquirableFromPacks": 0,
             "m_coinCraftCost": 50
         },
@@ -991,6 +1113,7 @@
             "m_noteDesc": "Molten Giant",
             "m_rarityId": 1,
             "m_collectible": 0,
+            "m_acquireType": 0,
             "m_defaultArtVariationAcquirableFromPacks": 0,
             "m_coinCraftCost": 50
         },
@@ -999,6 +1122,7 @@
             "m_noteDesc": "Fire Lord",
             "m_rarityId": 1,
             "m_collectible": 0,
+            "m_acquireType": 0,
             "m_defaultArtVariationAcquirableFromPacks": 0,
             "m_coinCraftCost": 50
         },
@@ -1007,6 +1131,7 @@
             "m_noteDesc": "Fire Sworn",
             "m_rarityId": 1,
             "m_collectible": 0,
+            "m_acquireType": 0,
             "m_defaultArtVariationAcquirableFromPacks": 0,
             "m_coinCraftCost": 50
         },
@@ -1015,6 +1140,7 @@
             "m_noteDesc": "Flamewaker Sentinel",
             "m_rarityId": 1,
             "m_collectible": 0,
+            "m_acquireType": 0,
             "m_defaultArtVariationAcquirableFromPacks": 0,
             "m_coinCraftCost": 50
         },
@@ -1023,6 +1149,7 @@
             "m_noteDesc": "Flamewaker Herald",
             "m_rarityId": 1,
             "m_collectible": 0,
+            "m_acquireType": 0,
             "m_defaultArtVariationAcquirableFromPacks": 0,
             "m_coinCraftCost": 50
         },
@@ -1031,6 +1158,7 @@
             "m_noteDesc": "Flamewaker",
             "m_rarityId": 1,
             "m_collectible": 0,
+            "m_acquireType": 0,
             "m_defaultArtVariationAcquirableFromPacks": 0,
             "m_coinCraftCost": 50
         },
@@ -1039,6 +1167,7 @@
             "m_noteDesc": "Lava Elemental",
             "m_rarityId": 1,
             "m_collectible": 0,
+            "m_acquireType": 0,
             "m_defaultArtVariationAcquirableFromPacks": 0,
             "m_coinCraftCost": 50
         },
@@ -1047,6 +1176,7 @@
             "m_noteDesc": "Grim Patron",
             "m_rarityId": 1,
             "m_collectible": 0,
+            "m_acquireType": 0,
             "m_defaultArtVariationAcquirableFromPacks": 0,
             "m_coinCraftCost": 50
         },
@@ -1055,6 +1185,7 @@
             "m_noteDesc": "Axe Flinger",
             "m_rarityId": 1,
             "m_collectible": 0,
+            "m_acquireType": 0,
             "m_defaultArtVariationAcquirableFromPacks": 0,
             "m_coinCraftCost": 50
         },
@@ -1063,6 +1194,7 @@
             "m_noteDesc": "Fireguard Destroyer",
             "m_rarityId": 1,
             "m_collectible": 0,
+            "m_acquireType": 0,
             "m_defaultArtVariationAcquirableFromPacks": 0,
             "m_coinCraftCost": 50
         },
@@ -1071,6 +1203,7 @@
             "m_noteDesc": "Lava Spawn",
             "m_rarityId": 1,
             "m_collectible": 0,
+            "m_acquireType": 0,
             "m_defaultArtVariationAcquirableFromPacks": 0,
             "m_coinCraftCost": 50
         },
@@ -1079,6 +1212,7 @@
             "m_noteDesc": "Toki",
             "m_rarityId": 5,
             "m_collectible": 0,
+            "m_acquireType": 0,
             "m_defaultArtVariationAcquirableFromPacks": 0,
             "m_coinCraftCost": 500
         },
@@ -1087,6 +1221,7 @@
             "m_noteDesc": "Eudora",
             "m_rarityId": 4,
             "m_collectible": 1,
+            "m_acquireType": 0,
             "m_defaultArtVariationAcquirableFromPacks": 1,
             "m_coinCraftCost": 300
         },
@@ -1095,16 +1230,36 @@
             "m_noteDesc": "Mr. Smite",
             "m_rarityId": 3,
             "m_collectible": 1,
+            "m_acquireType": 0,
             "m_defaultArtVariationAcquirableFromPacks": 1,
             "m_coinCraftCost": 100
+        },
+        {
+            "m_ID": 238,
+            "m_noteDesc": "Vanessa VanCleef",
+            "m_rarityId": 4,
+            "m_collectible": 1,
+            "m_acquireType": 3,
+            "m_defaultArtVariationAcquirableFromPacks": 0,
+            "m_coinCraftCost": 300
         },
         {
             "m_ID": 239,
             "m_noteDesc": "Lady Prestor",
             "m_rarityId": 5,
             "m_collectible": 0,
+            "m_acquireType": 0,
             "m_defaultArtVariationAcquirableFromPacks": 0,
             "m_coinCraftCost": 500
+        },
+        {
+            "m_ID": 242,
+            "m_noteDesc": "Sky Admiral Rogers",
+            "m_rarityId": 4,
+            "m_collectible": 1,
+            "m_acquireType": 1,
+            "m_defaultArtVariationAcquirableFromPacks": 1,
+            "m_coinCraftCost": 300
         }
     ]
 }

@@ -57,6 +57,9 @@ def handle_gameobject(env, audioClips, cards):
 			data = obj.read()
 			cardid = data.name
 
+			# if cardid != "HERO_01":
+			# 	continue
+
 			print("cardid: %s" % cardid)
 			if len(data.m_Components) < 2:
 				continue
@@ -91,10 +94,10 @@ def handle_gameobject(env, audioClips, cards):
 
 def extract_sound_file_names(audioClips, carddef, node):
 	result = []
-	try:
-		path = carddef.get(node)
-		path = path["m_SoundSpellPaths"]
-		for play_effect_path in path:
+	path = carddef.get(node)
+	path = path["m_SoundSpellPaths"]
+	for play_effect_path in path:
+		try:
 			if ":" in play_effect_path:
 				play_effect_path = play_effect_path.split(":")[1]
 				pptr = audioClips[play_effect_path]
@@ -111,8 +114,9 @@ def extract_sound_file_names(audioClips, carddef, node):
 					audio_file_name = audio_clip_guid.split(":")[0].split(".")[0]
 					if audio_file_name and len(audio_file_name) > 1:
 						result.append(audio_file_name + ".ogg")
-	except:
-		print("\tERROR when processing %s" % carddef.name)
+		except Exception as e:
+			print("\tERROR when processing %s" % carddef.name)
+			print(e)
 	return result
 
 
@@ -140,7 +144,7 @@ def extract_emote_sound(audioClips, updatedPath):
 			updatedPath = updatedPath.split(":")[1]
 			pptr = audioClips[updatedPath]
 			audio_clip = pptr.read()
-			if len(audio_clip.m_Components) < 2:
+			if len(audio_clip.m_Components) >= 2:
 				audio_game_object = audio_clip.m_Components[1].read()
 				card_sound_data = audio_game_object.get("m_CardSoundData")
 				audio_source_pptr = card_sound_data["m_AudioSource"]

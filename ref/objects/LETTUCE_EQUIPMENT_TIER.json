@@ -798,31 +798,31 @@
             "m_ID": 107,
             "m_lettuceEquipmentId": 36,
             "m_tier": 1,
-            "m_cardId": 73835,
+            "m_cardId": 80987,
             "m_coinCraftCost": 0,
             "m_showTextOnMerc": 0
         },
         {
-            "m_ID": 108,
+            "m_ID": 1019,
             "m_lettuceEquipmentId": 36,
             "m_tier": 2,
-            "m_cardId": 73834,
+            "m_cardId": 80986,
             "m_coinCraftCost": 100,
             "m_showTextOnMerc": 0
         },
         {
-            "m_ID": 109,
+            "m_ID": 1020,
             "m_lettuceEquipmentId": 36,
             "m_tier": 3,
-            "m_cardId": 73833,
+            "m_cardId": 80985,
             "m_coinCraftCost": 150,
             "m_showTextOnMerc": 0
         },
         {
-            "m_ID": 713,
+            "m_ID": 1021,
             "m_lettuceEquipmentId": 36,
             "m_tier": 4,
-            "m_cardId": 70881,
+            "m_cardId": 80852,
             "m_coinCraftCost": 175,
             "m_showTextOnMerc": 0
         },
@@ -4286,33 +4286,65 @@
             "m_ID": 717,
             "m_lettuceEquipmentId": 190,
             "m_tier": 1,
-            "m_cardId": 73839,
+            "m_cardId": 80884,
             "m_coinCraftCost": 0,
-            "m_showTextOnMerc": 0
+            "m_showTextOnMerc": 1
+        },
+        {
+            "m_ID": 1014,
+            "m_lettuceEquipmentId": 190,
+            "m_tier": 2,
+            "m_cardId": 80887,
+            "m_coinCraftCost": 100,
+            "m_showTextOnMerc": 1
+        },
+        {
+            "m_ID": 1015,
+            "m_lettuceEquipmentId": 190,
+            "m_tier": 3,
+            "m_cardId": 80888,
+            "m_coinCraftCost": 150,
+            "m_showTextOnMerc": 1
+        },
+        {
+            "m_ID": 1016,
+            "m_lettuceEquipmentId": 190,
+            "m_tier": 4,
+            "m_cardId": 80889,
+            "m_coinCraftCost": 175,
+            "m_showTextOnMerc": 1
         },
         {
             "m_ID": 719,
             "m_lettuceEquipmentId": 191,
-            "m_tier": 2,
-            "m_cardId": 73842,
+            "m_tier": 1,
+            "m_cardId": 80885,
             "m_coinCraftCost": 0,
-            "m_showTextOnMerc": 0
+            "m_showTextOnMerc": 1
         },
         {
             "m_ID": 720,
             "m_lettuceEquipmentId": 191,
-            "m_tier": 3,
-            "m_cardId": 73843,
-            "m_coinCraftCost": 150,
-            "m_showTextOnMerc": 0
+            "m_tier": 2,
+            "m_cardId": 80891,
+            "m_coinCraftCost": 100,
+            "m_showTextOnMerc": 1
         },
         {
-            "m_ID": 721,
+            "m_ID": 1017,
+            "m_lettuceEquipmentId": 191,
+            "m_tier": 3,
+            "m_cardId": 80892,
+            "m_coinCraftCost": 150,
+            "m_showTextOnMerc": 1
+        },
+        {
+            "m_ID": 1018,
             "m_lettuceEquipmentId": 191,
             "m_tier": 4,
-            "m_cardId": 73844,
+            "m_cardId": 80893,
             "m_coinCraftCost": 175,
-            "m_showTextOnMerc": 0
+            "m_showTextOnMerc": 1
         },
         {
             "m_ID": 723,
@@ -5567,6 +5599,294 @@
             "m_lettuceEquipmentId": 246,
             "m_tier": 4,
             "m_cardId": 80561,
+            "m_coinCraftCost": 175,
+            "m_showTextOnMerc": 1
+        },
+        {
+            "m_ID": 1022,
+            "m_lettuceEquipmentId": 247,
+            "m_tier": 1,
+            "m_cardId": 81982,
+            "m_coinCraftCost": 0,
+            "m_showTextOnMerc": 0
+        },
+        {
+            "m_ID": 1058,
+            "m_lettuceEquipmentId": 247,
+            "m_tier": 2,
+            "m_cardId": 81981,
+            "m_coinCraftCost": 100,
+            "m_showTextOnMerc": 0
+        },
+        {
+            "m_ID": 1059,
+            "m_lettuceEquipmentId": 247,
+            "m_tier": 3,
+            "m_cardId": 81980,
+            "m_coinCraftCost": 150,
+            "m_showTextOnMerc": 0
+        },
+        {
+            "m_ID": 1060,
+            "m_lettuceEquipmentId": 247,
+            "m_tier": 4,
+            "m_cardId": 81917,
+            "m_coinCraftCost": 175,
+            "m_showTextOnMerc": 0
+        },
+        {
+            "m_ID": 1026,
+            "m_lettuceEquipmentId": 248,
+            "m_tier": 1,
+            "m_cardId": 81990,
+            "m_coinCraftCost": 0,
+            "m_showTextOnMerc": 0
+        },
+        {
+            "m_ID": 1061,
+            "m_lettuceEquipmentId": 248,
+            "m_tier": 2,
+            "m_cardId": 81989,
+            "m_coinCraftCost": 100,
+            "m_showTextOnMerc": 0
+        },
+        {
+            "m_ID": 1062,
+            "m_lettuceEquipmentId": 248,
+            "m_tier": 3,
+            "m_cardId": 81987,
+            "m_coinCraftCost": 150,
+            "m_showTextOnMerc": 0
+        },
+        {
+            "m_ID": 1063,
+            "m_lettuceEquipmentId": 248,
+            "m_tier": 4,
+            "m_cardId": 81918,
+            "m_coinCraftCost": 175,
+            "m_showTextOnMerc": 0
+        },
+        {
+            "m_ID": 1027,
+            "m_lettuceEquipmentId": 249,
+            "m_tier": 1,
+            "m_cardId": 81997,
+            "m_coinCraftCost": 0,
+            "m_showTextOnMerc": 0
+        },
+        {
+            "m_ID": 1064,
+            "m_lettuceEquipmentId": 249,
+            "m_tier": 2,
+            "m_cardId": 81995,
+            "m_coinCraftCost": 100,
+            "m_showTextOnMerc": 0
+        },
+        {
+            "m_ID": 1065,
+            "m_lettuceEquipmentId": 249,
+            "m_tier": 3,
+            "m_cardId": 81993,
+            "m_coinCraftCost": 150,
+            "m_showTextOnMerc": 0
+        },
+        {
+            "m_ID": 1066,
+            "m_lettuceEquipmentId": 249,
+            "m_tier": 4,
+            "m_cardId": 81919,
+            "m_coinCraftCost": 175,
+            "m_showTextOnMerc": 0
+        },
+        {
+            "m_ID": 1028,
+            "m_lettuceEquipmentId": 250,
+            "m_tier": 1,
+            "m_cardId": 81930,
+            "m_coinCraftCost": 0,
+            "m_showTextOnMerc": 0
+        },
+        {
+            "m_ID": 1031,
+            "m_lettuceEquipmentId": 250,
+            "m_tier": 2,
+            "m_cardId": 81929,
+            "m_coinCraftCost": 100,
+            "m_showTextOnMerc": 0
+        },
+        {
+            "m_ID": 1032,
+            "m_lettuceEquipmentId": 250,
+            "m_tier": 3,
+            "m_cardId": 81928,
+            "m_coinCraftCost": 150,
+            "m_showTextOnMerc": 0
+        },
+        {
+            "m_ID": 1033,
+            "m_lettuceEquipmentId": 250,
+            "m_tier": 4,
+            "m_cardId": 81867,
+            "m_coinCraftCost": 175,
+            "m_showTextOnMerc": 0
+        },
+        {
+            "m_ID": 1029,
+            "m_lettuceEquipmentId": 251,
+            "m_tier": 1,
+            "m_cardId": 81924,
+            "m_coinCraftCost": 0,
+            "m_showTextOnMerc": 0
+        },
+        {
+            "m_ID": 1034,
+            "m_lettuceEquipmentId": 251,
+            "m_tier": 2,
+            "m_cardId": 81923,
+            "m_coinCraftCost": 100,
+            "m_showTextOnMerc": 0
+        },
+        {
+            "m_ID": 1035,
+            "m_lettuceEquipmentId": 251,
+            "m_tier": 3,
+            "m_cardId": 81922,
+            "m_coinCraftCost": 150,
+            "m_showTextOnMerc": 0
+        },
+        {
+            "m_ID": 1036,
+            "m_lettuceEquipmentId": 251,
+            "m_tier": 4,
+            "m_cardId": 81868,
+            "m_coinCraftCost": 175,
+            "m_showTextOnMerc": 0
+        },
+        {
+            "m_ID": 1030,
+            "m_lettuceEquipmentId": 252,
+            "m_tier": 1,
+            "m_cardId": 81927,
+            "m_coinCraftCost": 0,
+            "m_showTextOnMerc": 0
+        },
+        {
+            "m_ID": 1037,
+            "m_lettuceEquipmentId": 252,
+            "m_tier": 2,
+            "m_cardId": 81926,
+            "m_coinCraftCost": 100,
+            "m_showTextOnMerc": 0
+        },
+        {
+            "m_ID": 1038,
+            "m_lettuceEquipmentId": 252,
+            "m_tier": 3,
+            "m_cardId": 81925,
+            "m_coinCraftCost": 150,
+            "m_showTextOnMerc": 0
+        },
+        {
+            "m_ID": 1039,
+            "m_lettuceEquipmentId": 252,
+            "m_tier": 4,
+            "m_cardId": 81866,
+            "m_coinCraftCost": 175,
+            "m_showTextOnMerc": 0
+        },
+        {
+            "m_ID": 1040,
+            "m_lettuceEquipmentId": 253,
+            "m_tier": 1,
+            "m_cardId": 81933,
+            "m_coinCraftCost": 0,
+            "m_showTextOnMerc": 0
+        },
+        {
+            "m_ID": 1041,
+            "m_lettuceEquipmentId": 253,
+            "m_tier": 2,
+            "m_cardId": 81932,
+            "m_coinCraftCost": 100,
+            "m_showTextOnMerc": 0
+        },
+        {
+            "m_ID": 1042,
+            "m_lettuceEquipmentId": 253,
+            "m_tier": 3,
+            "m_cardId": 81931,
+            "m_coinCraftCost": 150,
+            "m_showTextOnMerc": 0
+        },
+        {
+            "m_ID": 1043,
+            "m_lettuceEquipmentId": 253,
+            "m_tier": 4,
+            "m_cardId": 81875,
+            "m_coinCraftCost": 175,
+            "m_showTextOnMerc": 0
+        },
+        {
+            "m_ID": 1044,
+            "m_lettuceEquipmentId": 254,
+            "m_tier": 1,
+            "m_cardId": 81940,
+            "m_coinCraftCost": 0,
+            "m_showTextOnMerc": 0
+        },
+        {
+            "m_ID": 1045,
+            "m_lettuceEquipmentId": 254,
+            "m_tier": 2,
+            "m_cardId": 81939,
+            "m_coinCraftCost": 100,
+            "m_showTextOnMerc": 0
+        },
+        {
+            "m_ID": 1046,
+            "m_lettuceEquipmentId": 254,
+            "m_tier": 3,
+            "m_cardId": 81938,
+            "m_coinCraftCost": 150,
+            "m_showTextOnMerc": 0
+        },
+        {
+            "m_ID": 1047,
+            "m_lettuceEquipmentId": 254,
+            "m_tier": 4,
+            "m_cardId": 81878,
+            "m_coinCraftCost": 175,
+            "m_showTextOnMerc": 0
+        },
+        {
+            "m_ID": 1048,
+            "m_lettuceEquipmentId": 255,
+            "m_tier": 1,
+            "m_cardId": 81947,
+            "m_coinCraftCost": 0,
+            "m_showTextOnMerc": 1
+        },
+        {
+            "m_ID": 1049,
+            "m_lettuceEquipmentId": 255,
+            "m_tier": 2,
+            "m_cardId": 81946,
+            "m_coinCraftCost": 100,
+            "m_showTextOnMerc": 1
+        },
+        {
+            "m_ID": 1050,
+            "m_lettuceEquipmentId": 255,
+            "m_tier": 3,
+            "m_cardId": 81945,
+            "m_coinCraftCost": 150,
+            "m_showTextOnMerc": 1
+        },
+        {
+            "m_ID": 1051,
+            "m_lettuceEquipmentId": 255,
+            "m_tier": 4,
+            "m_cardId": 81880,
             "m_coinCraftCost": 175,
             "m_showTextOnMerc": 1
         }

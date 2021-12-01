@@ -824,13 +824,13 @@
             "m_ID": 176,
             "m_lettuceMercenaryId": 71,
             "m_cardId": 70932,
-            "m_defaultVariation": 1
+            "m_defaultVariation": 0
         },
         {
             "m_ID": 177,
             "m_lettuceMercenaryId": 71,
             "m_cardId": 70933,
-            "m_defaultVariation": 0
+            "m_defaultVariation": 1
         },
         {
             "m_ID": 178,
@@ -1547,6 +1547,24 @@
             "m_defaultVariation": 0
         },
         {
+            "m_ID": 416,
+            "m_lettuceMercenaryId": 238,
+            "m_cardId": 79828,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 417,
+            "m_lettuceMercenaryId": 238,
+            "m_cardId": 79829,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 418,
+            "m_lettuceMercenaryId": 238,
+            "m_cardId": 79830,
+            "m_defaultVariation": 0
+        },
+        {
             "m_ID": 419,
             "m_lettuceMercenaryId": 239,
             "m_cardId": 80835,
@@ -1562,6 +1580,24 @@
             "m_ID": 421,
             "m_lettuceMercenaryId": 239,
             "m_cardId": 80835,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 425,
+            "m_lettuceMercenaryId": 242,
+            "m_cardId": 79825,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 426,
+            "m_lettuceMercenaryId": 242,
+            "m_cardId": 79826,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 427,
+            "m_lettuceMercenaryId": 242,
+            "m_cardId": 79827,
             "m_defaultVariation": 0
         }
     ]
