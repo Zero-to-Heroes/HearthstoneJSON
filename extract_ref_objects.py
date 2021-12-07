@@ -6,7 +6,9 @@ from argparse import ArgumentParser
 
 import UnityPy
 
-total_handled = 0
+local_state = {
+	"total_handled": 0,
+}
 nodes_to_parse = ["ACHIEVEMENT", "ACHIEVEMENT_SECTION", "ACHIEVEMENT_SECTION_ITEM", "ACHIEVEMENT_SUBCATEGORY", "ACHIEVEMENT_CATEGORY", "BOARD", "CARD", "CARD_BACK", "CARD_SET_TIMING", "CARD_TAG", "LETTUCE_ABILITY_TIER", "LETTUCE_BOUNTY", "LETTUCE_BOUNTY_FINAL_REWARDS", "LETTUCE_BOUNTY_SET", "LETTUCE_EQUIPMENT_MODIFIER_DATA", "LETTUCE_EQUIPMENT_TIER", "LETTUCE_MERCENARY", "LETTUCE_MERCENARY_ABILITY", "LETTUCE_MERCENARY_EQUIPMENT", "LETTUCE_MERCENARY_LEVEL", "LETTUCE_MERCENARY_SPECIALIZATION", "MERCENARY_ART_VARIATION", "MERCENARY_ART_VARIATION_PREMIUM", "MERCENARY_VISITOR", "REWARD_ITEM", "VISITOR_TASK", "VISITOR_TASK_CHAIN", "SCENARIO"]
 
 def main():
@@ -18,10 +20,10 @@ def main():
 
 def extract_ref_objects(src):
 	for root, dirs, files in os.walk(src):
-		if len(nodes_to_parse) == total_handled:
+		if len(nodes_to_parse) == local_state["total_handled"]:
 			return
 		for file_name in files:
-			if len(nodes_to_parse) == total_handled:
+			if len(nodes_to_parse) == local_state["total_handled"]:
 				return
 			# generate file_path
 			file_path = os.path.join(root, file_name)
@@ -32,7 +34,7 @@ def extract_ref_objects(src):
 
 def handle_asset(env):
 	for obj in env.objects:
-		if len(nodes_to_parse) == total_handled:
+		if len(nodes_to_parse) == local_state["total_handled"]:
 			return
 
 		if obj.serialized_type.nodes:
@@ -44,10 +46,11 @@ def handle_asset(env):
 				continue
 
 			if "m_Name" in tree and tree["m_Name"] is not "":
-				print("considering %s" % tree["m_Name"])
+				if (tree["m_Name"] == tree["m_Name"].upper()):
+					print("considering %s" % tree["m_Name"])
 				# Has some data, but not everything (eg cost is not there, neither is collectible attribute)
 				if tree["m_Name"] in nodes_to_parse:
-					total_handled = total_handled + 1
+					local_state["total_handled"] = local_state["total_handled"] + 1
 					try:
 						# Only save the data if it has records
 						tree["Records"]
