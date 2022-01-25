@@ -6,6 +6,7 @@ from argparse import ArgumentParser
 
 import UnityPy
 from PIL import Image, ImageOps
+from UnityPy import Environment
 from UnityPy.enums import ClassIDType
 
 guid_to_path = {}
@@ -14,10 +15,10 @@ guid_to_path = {}
 def main():
 	p = ArgumentParser()
 	p.add_argument("src")
-	p.add_argument("--outdir", nargs="?", default="")
+	p.add_argument("--outdir", nargs="?", default="out")
 	p.add_argument("--skip-existing", action="store_true")
 	p.add_argument("--orig-dir", type=str, default="orig", help="Name of output for originals")
-	p.add_argument("--tiles-dir", type=str, default="tiles", help="Name of output for tiles")
+	p.add_argument("--tiles-dir", type=str, default="tiles2", help="Name of output for tiles")
 	p.add_argument(
 		"--formats", nargs="*", default=["jpg", "png", "webp"],
 		help="Which image formats to generate"
@@ -55,6 +56,10 @@ def extract_info(src):
 			env = UnityPy.load(file_path)
 			handle_asset(env, textures)
 
+	# env = UnityPy.load(src)
+	# handle_asset(env, textures)
+	# handle_gameobject(env, cards)
+
 	for root, dirs, files in os.walk(src):
 		for file_name in files:
 			# generate file_path
@@ -75,12 +80,25 @@ def handle_asset(env, textures):
 				textures[path] = asset.asset
 
 
-def handle_gameobject(asset, cards):
+def handle_gameobject(asset: Environment, cards):
 	for obj in asset.objects:
+		if obj.type == ClassIDType.Material:
+			# print("handling material %s" % (obj.path_id))
+			if obj.path_id == "6630156047043168089":
+				data = obj.read()
+				print("data %s" % (data))
+				print(data.dump_typetree_structure())
+
+
+		# continue
 		if obj.type == ClassIDType.GameObject:
-			data = obj.read()
+			data = obj.read()	
 			cardid = data.name
 
+			# if cardid != "CS2_058":
+			# 	continue
+
+			# json.dump(data, sys.stdout, ensure_ascii = False, indent = 4)
 			print("cardid: %s" % cardid)
 			if len(data.m_Components) < 2:
 				continue
@@ -95,11 +113,17 @@ def handle_gameobject(asset, cards):
 				guid = path.split(":")[1]
 				path = guid
 
+			# print("carddef: %s" % carddef)
 			tile = carddef.get("m_DeckCardBarPortrait")
+			# print("tile prop: %s" % tile)
 			if tile:
 				tile = tile.read()
+			# else:
+			# 	raise TypeError("stopping")
 
 
+			# print("tile obj: %s" % tile)
+			# print("building tile for %s" % cardid)
 			cards[cardid] = {
 				"path": path.lower(),
 				"tile": tile.get("m_SavedProperties") if tile else {},
@@ -162,6 +186,7 @@ def generate_tile_image(img, tile):
 	tiled.paste(img, (img.width, 0))
 
 	props = (-0.2, 0.25, 1, 1, 0, 0, 1, img.width)
+	print("default props: %s" % (props,))
 	if tile:
 		props = (
 			tile.m_TexEnvs["_MainTex"].m_Offset.X,
@@ -173,8 +198,10 @@ def generate_tile_image(img, tile):
 			tile.m_Floats.get("_Scale", 1.0),
 			img.width
 		)
+		print("tile props: %s" % (props,))
 
 	x, y, width, height = get_rect(*props)
+	print("x: %s, y: %s, width: %s, height: %s" % (x, y, width, height))
 	bar = ImageOps.flip(tiled).crop((x, y, x + width, y + height))
 	bar = ImageOps.flip(bar)
 	# negative x scale means horizontal flip
