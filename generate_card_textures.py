@@ -8,6 +8,7 @@ import UnityPy
 from PIL import Image, ImageOps
 from UnityPy import Environment
 from UnityPy.enums import ClassIDType
+import faulthandler; faulthandler.enable()
 
 guid_to_path = {}
 
@@ -18,7 +19,7 @@ def main():
 	p.add_argument("--outdir", nargs="?", default="out")
 	p.add_argument("--skip-existing", action="store_true")
 	p.add_argument("--orig-dir", type=str, default="orig", help="Name of output for originals")
-	p.add_argument("--tiles-dir", type=str, default="tiles2", help="Name of output for tiles")
+	p.add_argument("--tiles-dir", type=str, default="tiles", help="Name of output for tiles")
 	p.add_argument(
 		"--formats", nargs="*", default=["jpg", "png", "webp"],
 		help="Which image formats to generate"
@@ -48,25 +49,25 @@ def extract_info(src):
 	textures = {}
 	cards = {}
 
-	for root, dirs, files in os.walk(src):
-		for file_name in files:
-			# generate file_path
-			file_path = os.path.join(root, file_name)
-			# load that file via UnityPy.load
-			env = UnityPy.load(file_path)
-			handle_asset(env, textures)
+	env = UnityPy.load(src)
+	handle_asset(env, textures)
+	handle_gameobject(env, cards)
 
-	# env = UnityPy.load(src)
-	# handle_asset(env, textures)
-	# handle_gameobject(env, cards)
+	# for root, dirs, files in os.walk(src):
+	# 	for file_name in files:
+	# 		# generate file_path
+	# 		file_path = os.path.join(root, file_name)
+	# 		# load that file via UnityPy.load
+	# 		env = UnityPy.load(file_path)
+	# 		handle_asset(env, textures)
 
-	for root, dirs, files in os.walk(src):
-		for file_name in files:
-			# generate file_path
-			file_path = os.path.join(root, file_name)
-			# load that file via UnityPy.load
-			env = UnityPy.load(file_path)
-			handle_gameobject(env, cards)
+	# for root, dirs, files in os.walk(src):
+	# 	for file_name in files:
+	# 		# generate file_path
+	# 		file_path = os.path.join(root, file_name)
+	# 		# load that file via UnityPy.load
+	# 		env = UnityPy.load(file_path)
+	# 		handle_gameobject(env, cards)
 
 	return cards, textures
 
@@ -82,28 +83,25 @@ def handle_asset(env, textures):
 
 def handle_gameobject(asset: Environment, cards):
 	for obj in asset.objects:
-		if obj.type == ClassIDType.Material:
-			# print("handling material %s" % (obj.path_id))
-			if obj.path_id == "6630156047043168089":
-				data = obj.read()
-				print("data %s" % (data))
-				print(data.dump_typetree_structure())
-
-
 		# continue
 		if obj.type == ClassIDType.GameObject:
 			data = obj.read()	
 			cardid = data.name
 
-			# if cardid != "CS2_058":
+			# if cardid != "BAR_546":
 			# 	continue
 
 			# json.dump(data, sys.stdout, ensure_ascii = False, indent = 4)
-			print("cardid: %s" % cardid)
+			# print("cardid: %s" % cardid)
 			if len(data.m_Components) < 2:
 				continue
 
 			carddef = data.m_Components[1].read()
+			# print("carddef.type %s" % (type(carddef).__name__))
+			if type(carddef).__name__ == "NodeHelper":
+				# print("skipping %s" % (cardid))
+				continue
+
 			path = carddef.get("m_PortraitTexturePath")
 			if not path:
 				# Sometimes there's multiple per cardid, we remove the ones without art
@@ -118,6 +116,8 @@ def handle_gameobject(asset: Environment, cards):
 			# print("tile prop: %s" % tile)
 			if tile:
 				tile = tile.read()
+				if not tile:
+					raise TypeError("could not read tile")
 			# else:
 			# 	raise TypeError("stopping")
 
@@ -185,8 +185,9 @@ def generate_tile_image(img, tile):
 	tiled.paste(img, (0, 0))
 	tiled.paste(img, (img.width, 0))
 
+	# props = (-0.13, 0.13, 1, 1, 0, 0, 1.1, img.width)
 	props = (-0.2, 0.25, 1, 1, 0, 0, 1, img.width)
-	print("default props: %s" % (props,))
+	# print("default props: %s" % (props,))
 	if tile:
 		props = (
 			tile.m_TexEnvs["_MainTex"].m_Offset.X,
@@ -198,10 +199,10 @@ def generate_tile_image(img, tile):
 			tile.m_Floats.get("_Scale", 1.0),
 			img.width
 		)
-		print("tile props: %s" % (props,))
+		# print("tile props: %s" % (props,))
 
 	x, y, width, height = get_rect(*props)
-	print("x: %s, y: %s, width: %s, height: %s" % (x, y, width, height))
+	# print("x: %s, y: %s, width: %s, height: %s" % (x, y, width, height))
 	bar = ImageOps.flip(tiled).crop((x, y, x + width, y + height))
 	bar = ImageOps.flip(bar)
 	# negative x scale means horizontal flip
