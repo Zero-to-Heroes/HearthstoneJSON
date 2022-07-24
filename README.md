@@ -6,16 +6,14 @@ used to generate [HearthstoneJSON.com](https://hearthstonejson.com)
 ## Requirements
 
 - Python >= 3.4
-- [python-hearthstone](https://github.com/HearthSim/python-hearthstone.git)
 
 ## Generate
 
 To generate the files, just run:
 
-- `./bootstrap.sh`
-- `./generate.py`
-- `./generate_audio.py /e/t/**/*.unity3d`
-- `./generate_card_backs.py /e/t/**/*.unity3d`
+- `pip install -r requirements.txt`
+- `./generate_audio.py /e/Games/Hearthstone/Data/Win`
+- `./generate_card_backs.py /e/Games/Hearthstone/Data/Win`
 
 Files will be generated in the `out` directory.
 
@@ -29,5 +27,5 @@ The full license text is available in the `LICENSE` file.
 
 ## Community
 
-This is a [HearthSim](https://hearthsim.info) project. All development
-happens on our IRC channel `#hearthsim` on [Freenode](https://freenode.net).
+This is a tool used by [Firestone](https://www.firestoneapp.com/).  
+You can come say hi on [our Discord](https://discord.gg/FhEHn8w)
