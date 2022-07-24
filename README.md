@@ -23,7 +23,6 @@ The files themselves can be obtained by running the unityextract script from the
 ## License
 
 This project is licensed under the terms of the MIT license.
-The full license text is available in the `LICENSE` file.
 
 ## Community
 
