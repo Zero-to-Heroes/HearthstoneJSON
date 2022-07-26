@@ -84,50 +84,56 @@ def handle_asset(env, textures):
 def handle_gameobject(asset: Environment, cards):
 	for obj in asset.objects:
 		# continue
-		if obj.type == ClassIDType.GameObject:
-			data = obj.read()	
-			cardid = data.name
+		try:
+			if obj.type == ClassIDType.GameObject:
+				data = obj.read()	
+				cardid = data.name
 
-			# if cardid != "BAR_546":
-			# 	continue
+				# if cardid != "BAR_546":
+				# 	continue
 
-			# json.dump(data, sys.stdout, ensure_ascii = False, indent = 4)
-			# print("cardid: %s" % cardid)
-			if len(data.m_Components) < 2:
-				continue
+				# json.dump(data, sys.stdout, ensure_ascii = False, indent = 4)
+				# print("cardid: %s" % cardid)
+				if len(data.m_Components) < 2:
+					continue
 
-			carddef = data.m_Components[1].read()
-			# print("carddef.type %s" % (type(carddef).__name__))
-			if type(carddef).__name__ == "NodeHelper":
-				# print("skipping %s" % (cardid))
-				continue
+				carddef = data.m_Components[1].read()
+				# print("carddef.type %s" % (type(carddef).__name__))
+				if type(carddef).__name__ == "NodeHelper":
+					# print("skipping %s" % (cardid))
+					continue
 
-			path = carddef.get("m_PortraitTexturePath")
-			if not path:
-				# Sometimes there's multiple per cardid, we remove the ones without art
-				continue
+				path = carddef.get("m_PortraitTexturePath")
+				if not path:
+					# Sometimes there's multiple per cardid, we remove the ones without art
+					continue
 
-			if ":" in path:
-				guid = path.split(":")[1]
-				path = guid
+				if ":" in path:
+					guid = path.split(":")[1]
+					path = guid
 
-			# print("carddef: %s" % carddef)
-			tile = carddef.get("m_DeckCardBarPortrait")
-			# print("tile prop: %s" % tile)
-			if tile:
-				tile = tile.read()
-				if not tile:
-					raise TypeError("could not read tile")
-			# else:
-			# 	raise TypeError("stopping")
+				# print("carddef: %s" % carddef)
+				tile = carddef.get("m_DeckCardBarPortrait")
+				# print("tile prop: %s" % tile)
+				if tile:
+					tile = tile.read()
+					if not tile:
+						raise TypeError("could not read tile")
+				# else:
+				# 	raise TypeError("stopping")
 
 
-			# print("tile obj: %s" % tile)
-			# print("building tile for %s" % cardid)
-			cards[cardid] = {
-				"path": path.lower(),
-				"tile": tile.get("m_SavedProperties") if tile else {},
-			}
+				# print("tile obj: %s" % tile)
+				# print("building tile for %s" % cardid)
+				cards[cardid] = {
+					"path": path.lower(),
+					"tile": tile.get("m_SavedProperties") if tile else {},
+				}
+		except Exception as e:
+			with open("error_asset", "wb") as f:
+  				f.write(obj.assets_file.save())
+			print("ERROR!")
+			print(e)
 
 
 # Deck tile generation
