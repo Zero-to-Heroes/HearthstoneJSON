@@ -2,6 +2,7 @@
 import json
 import os
 import sys
+import yaml
 from argparse import ArgumentParser
 
 import UnityPy
@@ -23,21 +24,25 @@ def extract_info(src):
 	audioClips = {}
 	cards = {}
 
-	for root, dirs, files in os.walk(src):
-		for file_name in files:
-			# generate file_path
-			file_path = os.path.join(root, file_name)
-			# load that file via UnityPy.load
-			env = UnityPy.load(file_path)
-			handle_asset(env, audioClips, cards)
+	env = UnityPy.load(src)
+	handle_asset(env, audioClips, cards)
+	handle_gameobject(env, audioClips, cards)
 
-	for root, dirs, files in os.walk(src):
-		for file_name in files:
-			# generate file_path
-			file_path = os.path.join(root, file_name)
-			# load that file via UnityPy.load
-			env = UnityPy.load(file_path)
-			handle_gameobject(env, audioClips, cards)
+	# for root, dirs, files in os.walk(src):
+	# 	for file_name in files:
+	# 		# generate file_path
+	# 		file_path = os.path.join(root, file_name)
+	# 		# load that file via UnityPy.load
+	# 		env = UnityPy.load(file_path)
+	# 		handle_asset(env, audioClips, cards)
+
+	# for root, dirs, files in os.walk(src):
+	# 	for file_name in files:
+	# 		# generate file_path
+	# 		file_path = os.path.join(root, file_name)
+	# 		# load that file via UnityPy.load
+	# 		env = UnityPy.load(file_path)
+	# 		handle_gameobject(env, audioClips, cards)
 
 	return cards
 
@@ -57,23 +62,38 @@ def handle_gameobject(env, audioClips, cards):
 			data = obj.read()
 			cardid = data.name
 
-			# if cardid != "HERO_01":
+			# if cardid != "REV_000":
 			# 	continue
 
 			print("cardid: %s" % cardid)
+			# print(obj.dump_typetree())
 			if len(data.m_Components) < 2:
 				continue
 
 			monoBehavior = data.m_Components[1]
 			carddef = monoBehavior.read()
-			
-			play_effect_def = carddef.get("m_PlayEffectDef")
+			print("carddef %s " % type(carddef).__name__)
+			if type(carddef).__name__ == "NodeHelper":
+				print(carddef)
+			# else:
+			# 	print(carddef)			
+			# print(carddef.dump_typetree())
+			try:
+				play_effect_def = carddef.get("m_PlayEffectDef")
+			except:
+				try:
+					play_effect_def = carddef["m_PlayEffectDef"]
+				except:
+					continue
+
 			if not play_effect_def:
+				print("no play_effect_def")
 				# Sometimes there's multiple per cardid, we remove the ones without art
 				continue
 
 			card = {}
 			play_sounds = extract_sound_file_names(audioClips, carddef, "m_PlayEffectDef")
+			# print(json.dumps(play_sounds))
 			if len(play_sounds) > 0:
 				card["BASIC_play"] = play_sounds
 
@@ -95,25 +115,32 @@ def handle_gameobject(env, audioClips, cards):
 def extract_sound_file_names(audioClips, carddef, node):
 	result = []
 	path = carddef.get(node)
+	print(path)
 	path = path["m_SoundSpellPaths"]
 	for play_effect_path in path:
 		try:
 			if ":" in play_effect_path:
 				play_effect_path = play_effect_path.split(":")[1]
+				print(json.dumps(play_effect_path))	
 				pptr = audioClips[play_effect_path]
 				audio_clip = pptr.read()
 				audio_game_object = audio_clip.m_Components[1].read()
 				card_sound_data = audio_game_object.get("m_CardSoundData")
 				audio_source_pptr = card_sound_data["m_AudioSource"]
+				print(audio_source_pptr)	
 				if audio_source_pptr is not None:
 					audio_source = audio_source_pptr.read()
-					game_object = audio_source.get("m_GameObject").read()
+					# print("audio_source")
+					# print(audio_source)
+					game_object = audio_source["m_GameObject"].read()
 					components = game_object.m_Components
 					monobehavior = components[2].read()
 					audio_clip_guid = monobehavior.get("m_AudioClip")
 					audio_file_name = audio_clip_guid.split(":")[0].split(".")[0]
 					if audio_file_name and len(audio_file_name) > 1:
 						result.append(audio_file_name + ".ogg")
+				else:
+					print("no audio_source_pptr")
 		except Exception as e:
 			print("\tERROR when processing %s" % carddef.name)
 			print(e)
@@ -168,6 +195,10 @@ def add_to_audio(cardAudios, audioElement):
 	if len(trimmed) > 0 and trimmed not in cardAudios:
 		cardAudios.append(trimmed)
 
+
+def dump(obj, level=1):
+	for attr in dir(obj):
+		print("\t" * level, "obj.%s = %r" % (attr, getattr(obj, attr)))
 
 if __name__ == "__main__":
 	main()
