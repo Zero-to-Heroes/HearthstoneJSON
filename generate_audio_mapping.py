@@ -46,10 +46,10 @@ def handle_gameobject(env, audioClips, cards):
 			data = obj.read()
 			cardid = data.name
 
-			# if cardid != "AT_114":
+			# if cardid != "DRGA_BOSS_08h":
 			# 	continue
 
-			print("cardid: %s" % cardid)
+			# print("cardid: %s" % cardid)
 			# print(obj.dump_typetree())
 			if len(data.m_Components) < 2:
 				continue
@@ -71,35 +71,35 @@ def handle_gameobject(env, audioClips, cards):
 					continue
 
 			if not play_effect_def:
-				print("no play_effect_def")
+				# print("no play_effect_def")
 				# Sometimes there's multiple per cardid, we remove the ones without art
 				continue
 
 			card = {}
 
-			play_sounds = extract_sound_file_names(audioClips, carddef, "m_PlayEffectDef")
+			play_sounds = extract_sound_file_names(audioClips, carddef, "m_PlayEffectDef", cardid)
 			# print("play sounds")
 			# print(play_sounds)
 			if len(play_sounds) > 0:
 				card["BASIC_play"] = play_sounds
 
 			# print("will extract attack")
-			attack_sounds = extract_sound_file_names(audioClips, carddef, "m_AttackEffectDef")
+			attack_sounds = extract_sound_file_names(audioClips, carddef, "m_AttackEffectDef", cardid)
 			if len(attack_sounds) > 0:
 				card["BASIC_attack"] = attack_sounds
 
-			death_sounds = extract_sound_file_names(audioClips, carddef, "m_DeathEffectDef")
+			death_sounds = extract_sound_file_names(audioClips, carddef, "m_DeathEffectDef", cardid)
 			if len(death_sounds) > 0:
 				card["BASIC_death"] = death_sounds
 				
-			emote_sounds = extract_emote_sounds(audioClips, carddef)
+			emote_sounds = extract_emote_sounds(audioClips, carddef, cardid)
 			for emoteSound in emote_sounds:
 				card[emoteSound["key"]] = [emoteSound["value"]]
 
 			cards[cardid] = card
 
 
-def extract_sound_file_names(audioClips, carddef, node):
+def extract_sound_file_names(audioClips, carddef, node, card_id):
 	result = {}
 	path = carddef.get(node)
 	# print("path")
@@ -109,7 +109,7 @@ def extract_sound_file_names(audioClips, carddef, node):
 		# print("considering path %s" % play_effect_path)
 		try:
 			if ":" in play_effect_path:
-				effectKey = play_effect_path.split(":")[0].split(".prefab")[0]
+				effectKey = play_effect_path.split(":")[0].split(".prefab")[0].replace(" ", "")
 				# print("effectKey %s" % effectKey)				
 				if effectKey in result:
 					effect = result[effectKey]
@@ -120,18 +120,33 @@ def extract_sound_file_names(audioClips, carddef, node):
 					}
 				# print('effect %s' % effect)
 				result[effectKey] = effect
-
 				play_effect_path = play_effect_path.split(":")[1]
 				# print(json.dumps(play_effect_path))	
 				pptr = audioClips[play_effect_path]
+				# print("pptr")
+				# print(pptr)
 				audio_clip = pptr.read()
+				# print("audio_clip")
+				# print(audio_clip.dump_typetree())
 				audio_game_object = audio_clip.m_Components[1].read()
 				card_sound_data = audio_game_object.get("m_CardSoundData")
+				# print(card_sound_data)
 				audio_source_pptr = card_sound_data["m_AudioSource"]
 				if audio_source_pptr is not None:
-					audio_source = audio_source_pptr.read()
+					# print("audio_source_pptr")
+					# print(audio_source_pptr)
+					try:
+						# This can happen because some spells have a pointer leading to nothing because they inherit a base card object
+						audio_source = audio_source_pptr.read()
+					except:
+						effect["mainSounds"].append(effectKey + ".ogg")
+						continue
+					# print("audio_source")
+					# print(audio_source)
 					game_object = audio_source["m_GameObject"].read()
 					components = game_object.m_Components
+					# print("components")
+					# print(components)
 					monobehavior = components[2].read()
 					# print("monobehvior")
 					# print(monobehavior.dump_typetree())
@@ -141,7 +156,7 @@ def extract_sound_file_names(audioClips, carddef, node):
 					audio_file_name = audio_clip_guid.split(":")[0].split(".")[0]
 					# print("audio_file_name %s" % audio_file_name)
 					if audio_file_name and len(audio_file_name) > 1:
-						effect["mainSounds"].append(audio_file_name + ".ogg")
+						effect["mainSounds"].append(audio_file_name.replace(" ", "") + ".ogg")
 
 					# "Random" audio clips
 					random_clips = monobehavior.get("m_RandomClips")
@@ -153,58 +168,72 @@ def extract_sound_file_names(audioClips, carddef, node):
 							# print("\taudio_file_name %s" % random_audio_file_name)
 							if random_audio_file_name and len(random_audio_file_name) > 1:
 								effect["randomSounds"].append({
-									"sound": random_audio_file_name + ".ogg",
+									"sound": random_audio_file_name.replace(" ", "") + ".ogg",
 									"weight": clip["m_Weight"]
 								})
 				else:
 					print("no audio_source_pptr")
 		except Exception as e:
-			print("\tERROR when processing %s" % carddef.name)
+			print("\tERROR when processing extract_sound_file_names %s, %s" % (card_id, carddef.name))
 			print(e)
 	return result
 
 
-def extract_emote_sounds(audioClips, carddef):
+def extract_emote_sounds(audioClips, carddef, card_id):
 	sounds = []
 	try:
 		emoteSounds = carddef.get("m_EmoteDefs")
 		for emoteSound in emoteSounds:
 			updatedPath = emoteSound["m_emoteSoundSpellPath"]
-			soundInfo = extract_emote_sound(audioClips, updatedPath)
+			soundInfo = extract_emote_sound(audioClips, updatedPath, card_id)
 			if len(soundInfo) > 0:
 				sound = {}
 				sound["key"] = emoteSound["m_emoteGameStringKey"]
 				sound["value"] = soundInfo
 				sounds.append(sound)
-	except:
-		print("\tERROR when processing %s" % carddef.name)
+	except Exception as e:
+		print("\tERROR when processing extract_emote_sounds %s, %s" % (card_id, carddef.name))
+		print(e)
 
 	return sounds
 
 
-def extract_emote_sound(audioClips, updatedPath):
+def extract_emote_sound(audioClips, updatedPath, card_id):
 	try:
 		if ":" in updatedPath:
+			# print("considering path %s" % updatedPath)
 			updatedPath = updatedPath.split(":")[1]
+			# print("considering updatedPath %s" % updatedPath)
+			# print("is in? %s" % (updatedPath in audioClips))
+			if updatedPath not in audioClips:
+				return ''
 			pptr = audioClips[updatedPath]
+			# print('pptr')
+			# print(pptr)
 			audio_clip = pptr.read()
-			if len(audio_clip.m_Components) >= 2:
+			if audio_clip is not None and len(audio_clip.m_Components) >= 2:
+				# print(audio_clip.m_Components[1])
 				audio_game_object = audio_clip.m_Components[1].read()
 				card_sound_data = audio_game_object.get("m_CardSoundData")
 				audio_source_pptr = card_sound_data["m_AudioSource"]
 
 				if audio_source_pptr is not None:
+					# print(audio_source_pptr)
 					audio_source = audio_source_pptr.read()
-					game_object = audio_source.get("m_GameObject").read()
+					# print(audio_source["m_GameObject"])
+					game_object = audio_source["m_GameObject"].read()
 					components = game_object.m_Components
 					if len(components) > 2:
+						# print(components[2])
+						# print(components[2].dump_typetree())
 						monobehavior = components[2].read()
 						audio_clip_guid = monobehavior.get("m_AudioClip")
 						audio_file_name = audio_clip_guid.split(":")[0].split(".")[0]
 						if audio_file_name and len(audio_file_name) > 1:
 							return audio_file_name + ".ogg"
-	except:
-		print("\tERROR when processing %s" % updatedPath)
+	except Exception as e:
+		print("\tERROR when processing extract_emote_sound %s, %s" % (card_id, updatedPath))
+		print(e)
 	return ''
 
 def add_to_audio(cardAudios, audioElement):

@@ -59,7 +59,8 @@ def export_obj(obj):
 		with open(wav_file_name, "wb") as f:
 			f.write(data)
 		sound = AudioSegment.from_wav(wav_file_name)
-		ogg_file_name = f"out/sounds/{os.path.splitext(name)[0] + '.ogg'}"
+		base_file_name = os.path.splitext(name)[0].replace(" ", "")
+		ogg_file_name = f"out/sounds/{base_file_name}.ogg"
 		sound.export(ogg_file_name, format="ogg")
 
 
