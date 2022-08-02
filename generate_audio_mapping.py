@@ -110,7 +110,7 @@ def extract_sound_file_names(audioClips, carddef, node, card_id):
 		try:
 			if ":" in play_effect_path:
 				effectKey = play_effect_path.split(":")[0].split(".prefab")[0].replace(" ", "")
-				# print("effectKey %s" % effectKey)				
+				print("effectKey %s" % effectKey)
 				if effectKey in result:
 					effect = result[effectKey]
 				else:
@@ -188,8 +188,8 @@ def extract_emote_sounds(audioClips, carddef, card_id):
 			soundInfo = extract_emote_sound(audioClips, updatedPath, card_id)
 			if len(soundInfo) > 0:
 				sound = {}
-				sound["key"] = emoteSound["m_emoteGameStringKey"]
-				sound["value"] = soundInfo
+				sound["key"] = emoteSound["m_emoteGameStringKey"].replace(" ", "")
+				sound["value"] = soundInfo.replace(" ", "")
 				sounds.append(sound)
 	except Exception as e:
 		print("\tERROR when processing extract_emote_sounds %s, %s" % (card_id, carddef.name))
@@ -228,7 +228,7 @@ def extract_emote_sound(audioClips, updatedPath, card_id):
 						# print(components[2].dump_typetree())
 						monobehavior = components[2].read()
 						audio_clip_guid = monobehavior.get("m_AudioClip")
-						audio_file_name = audio_clip_guid.split(":")[0].split(".")[0]
+						audio_file_name = audio_clip_guid.split(":")[0].split(".")[0].replace(" ", "")
 						if audio_file_name and len(audio_file_name) > 1:
 							return audio_file_name + ".ogg"
 	except Exception as e:

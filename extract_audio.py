@@ -54,7 +54,7 @@ def export_obj(obj):
 	samples = data.samples
 	# print("samples %s" % len(samples))
 	for name, data in samples.items():
-		print("sample %s, %s" % (name, len(data)))
+		# print("sample %s, %s" % (name, len(data)))
 		wav_file_name = f"out/sounds_wav/{name}"
 		with open(wav_file_name, "wb") as f:
 			f.write(data)
