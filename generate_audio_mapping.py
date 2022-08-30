@@ -46,7 +46,7 @@ def handle_gameobject(env, audioClips, cards):
 			data = obj.read()
 			cardid = data.name
 
-			# if cardid != "DRGA_BOSS_08h":
+			# if cardid != "HERO_10a":
 			# 	continue
 
 			# print("cardid: %s" % cardid)
@@ -94,7 +94,11 @@ def handle_gameobject(env, audioClips, cards):
 				
 			emote_sounds = extract_emote_sounds(audioClips, carddef, cardid)
 			for emoteSound in emote_sounds:
-				card[emoteSound["key"]] = [emoteSound["value"]]
+				card[emoteSound["key"]] = {
+					emoteSound["key"]: {
+						"mainSounds": [emoteSound["value"]]
+					}
+				}
 
 			cards[cardid] = card
 
