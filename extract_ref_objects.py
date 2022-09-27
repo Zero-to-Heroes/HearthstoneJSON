@@ -6,6 +6,23 @@ from argparse import ArgumentParser
 
 import UnityPy
 
+locales = [
+	'deDE',
+	'enUS',
+	'esES',
+	'esMX',
+	'frFR',
+	'itIT',
+	'jaJP',
+	'koKR',
+	'plPL',
+	'ptBR',
+	'ruRU',
+	'thTH',
+	'zhCN',
+	'zhTW',
+]
+
 local_state = {
 	"total_handled": 0,
 }
@@ -164,11 +181,11 @@ def main():
 
 def extract_ref_objects(src):
 	for root, dirs, files in os.walk(src):
-		if len(nodes_to_parse) == local_state["total_handled"]:
-			return
+		# if len(nodes_to_parse) == local_state["total_handled"]:
+		# 	return
 		for file_name in files:
-			if len(nodes_to_parse) == local_state["total_handled"]:
-				return
+			# if len(nodes_to_parse) == local_state["total_handled"]:
+			# 	return
 			# generate file_path
 			file_path = os.path.join(root, file_name)
 			# load that file via UnityPy.load
@@ -177,9 +194,9 @@ def extract_ref_objects(src):
 
 
 def handle_asset(env):
-	for obj in env.objects:
-		if len(nodes_to_parse) == local_state["total_handled"]:
-			return
+	for path, obj in env.container.items():
+		# if len(nodes_to_parse) == local_state["total_handled"]:
+		# 	return
 
 		if obj.serialized_type.nodes:
 			# save decoded data
@@ -194,6 +211,15 @@ def handle_asset(env):
 					print("considering %s" % tree["m_Name"])
 				# Has some data, but not everything (eg cost is not there, neither is collectible attribute)
 				if tree["m_Name"] in nodes_to_parse:
+					# print("parsing %s" % tree["m_Name"])
+					# print("path %s" % path)
+					name = tree["m_Name"]
+					currentLoc = ''
+					for loc in locales:
+						if loc.lower() in path.lower():
+							currentLoc = loc
+					locName = name + "-" + currentLoc
+
 					local_state["total_handled"] = local_state["total_handled"] + 1
 					try:
 						# Only save the data if it has records
@@ -205,10 +231,17 @@ def handle_asset(env):
 					# Not sure why, but if you don't do this you end up with read errors. Maybe the tree needs to be
 					# fully traversed first so that references are resolved or something?
 					# output = yaml.dump(d)
-					name = tree["m_Name"]
-					fp = os.path.join(f"ref/objects", f"{name}.json")
+					fp = os.path.join(f"ref/objects", f"{locName}.json")
 					with open(fp, "wt", encoding = "utf8") as f:
 						json.dump(tree, f, ensure_ascii = False, indent = 4)
+
+					# Store the reference (enUS) without the loc suffix, so that we only explicitly support locs if we want to
+					# print("is ref? %s, %s" % (currentLoc.lower(), currentLoc.lower() == "enus"))
+					if currentLoc.lower() == "enus":
+						fp = os.path.join(f"ref/objects", f"{name}.json")
+						with open(fp, "wt", encoding = "utf8") as f:
+							json.dump(tree, f, ensure_ascii = False, indent = 4)
+
 
 
 if __name__ == "__main__":
