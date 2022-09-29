@@ -46,7 +46,7 @@ def handle_gameobject(env, audioClips, cards):
 			data = obj.read()
 			cardid = data.name
 
-			# if cardid != "HERO_10a":
+			# if cardid != "MAW_034":
 			# 	continue
 
 			# print("cardid: %s" % cardid)

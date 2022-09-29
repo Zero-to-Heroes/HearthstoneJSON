@@ -9,8 +9,29 @@ import UnityPy
 from pydub import AudioSegment
 from UnityPy.enums import ClassIDType
 
+locales = [
+	'deDE',
+	'enUS',
+	'esES',
+	'esMX',
+	'frFR',
+	'itIT',
+	'jaJP',
+	'koKR',
+	'plPL',
+	'ptBR',
+	'ruRU',
+	'thTH',
+	'zhCN',
+	'zhTW',
+]
 
 def main():
+	os.makedirs(os.path.dirname(f"out/sounds_wav/"), exist_ok=True)
+	os.makedirs(os.path.dirname(f"out/sounds/common/"), exist_ok=True)
+	for loc in locales:
+		os.makedirs(os.path.dirname(f"out/sounds/{loc}/"), exist_ok=True)
+		
 	p = ArgumentParser()
 	p.add_argument("src")
 	args = p.parse_args(sys.argv[1:])
@@ -19,30 +40,38 @@ def main():
 			# generate file_path
 			file_path = os.path.join(root, file_name)
 			# load that file via UnityPy.load
+			print("loading %s" % file_path)
+			current_loc = 'common'
+			for loc in locales:
+				if ("_" + loc.lower()) in file_path.lower():
+					current_loc = loc
+
 			env = UnityPy.load(file_path)
-			extract_assets(env)
+			extract_assets(env, current_loc)
 
 
 
-def extract_assets(env):
+def extract_assets(env, current_loc):
 	# iterate over assets
 	for asset in env.assets:
 		# assets without container / internal path will be ignored for now
 		if not asset.container:
 			continue
 
-		items = asset.container.items()
-		# print("items %s" % items)
-		for key, obj in items:
+		if hasattr(asset, "path"):
+			print("considering %s" % asset.path)
+
+		for path, obj in asset.container.items():
+			# print("considering further %s, %s" % (path, obj))
 			if obj.type == ClassIDType.AudioClip:
 				# print("asset %s" % asset)
 				# print("key %s" % key)
 				# print("obj %s" % obj)
-				export_obj(obj)
+				export_obj(path, obj, current_loc)
 				# return
 
 
-def export_obj(obj):
+def export_obj(path, obj, current_loc):
 	try:
 		data = obj.read()
 	except:
@@ -56,11 +85,21 @@ def export_obj(obj):
 	for name, data in samples.items():
 		# print("sample %s, %s" % (name, len(data)))
 		wav_file_name = f"out/sounds_wav/{name}"
+		if os.path.exists(wav_file_name):
+			print("\t file already exists, continuing")
+			continue
+
 		with open(wav_file_name, "wb") as f:
+			# print("extracting wav file %s from %s" % (wav_file_name, path))
 			f.write(data)
 		sound = AudioSegment.from_wav(wav_file_name)
+		
+		for loc in locales:
+			if ("/" + loc.lower() + "/") in path.lower():
+				current_loc = loc		
 		base_file_name = os.path.splitext(name)[0].replace(" ", "")
-		ogg_file_name = f"out/sounds/{base_file_name}.ogg"
+		ogg_file_name = f"out/sounds/{current_loc}/{base_file_name}.ogg"
+		print("\t exporting ogg file %s" % ogg_file_name)
 		sound.export(ogg_file_name, format="ogg")
 
 
