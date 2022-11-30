@@ -58,8 +58,8 @@ def extract_assets(env, current_loc):
 		if not asset.container:
 			continue
 
-		if hasattr(asset, "path"):
-			print("considering %s" % asset.path)
+		# if hasattr(asset, "path"):
+		# 	print("considering %s" % asset.path)
 
 		for path, obj in asset.container.items():
 			# print("considering further %s, %s" % (path, obj))
