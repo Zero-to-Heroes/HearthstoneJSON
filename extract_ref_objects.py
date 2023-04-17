@@ -85,6 +85,7 @@ nodes_to_parse = [
 	"DECK_TEMPLATE", 
 	"DRAFT_CONTENT",
 	"EXTERNAL_URL",
+	"EventMap",
 	"FIXED_REWARD_ACTION",
 	"FIXED_REWARD_MAP",
 	"FIXED_REWARD", 
@@ -224,9 +225,17 @@ def handle_asset(env):
 			if "m_Name" in tree and tree["m_Name"] is not "":
 				if (tree["m_Name"] == tree["m_Name"].upper()) and tree["m_Name"] not in nodes_to_parse:
 					print("considering %s" % tree["m_Name"])
+				if ("Event" in tree["m_Name"]) and tree["m_Name"] not in nodes_to_parse:
+					print("considering %s" % tree["m_Name"])
+				# if tree["m_Name"] in ["EventMap"]:
+				# 	print("parsing %s, %s" % (tree["m_Name"], path))
+				# 	fp = os.path.join(f"ref/objects", f"EventMap.json")
+				# 	with open(fp, "wt", encoding = "utf8") as f:
+				# 		json.dump(tree, f, ensure_ascii = False, indent = 4)
+
 				# Has some data, but not everything (eg cost is not there, neither is collectible attribute)
 				if tree["m_Name"] in nodes_to_parse:
-					# print("parsing %s" % tree["m_Name"])
+					print("parsing %s, %s" % (tree["m_Name"], path))
 					# print("path %s" % path)
 					name = tree["m_Name"]
 					currentLoc = ''
@@ -240,7 +249,8 @@ def handle_asset(env):
 						# Only save the data if it has records
 						tree["Records"]
 					except:
-						continue
+						if tree["m_Name"] not in ["EventMap"]:
+							continue	
 
 					# print("\tprocessing")
 					# Not sure why, but if you don't do this you end up with read errors. Maybe the tree needs to be
