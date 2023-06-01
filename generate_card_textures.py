@@ -9,11 +9,12 @@ from PIL import Image, ImageOps
 from UnityPy import Environment
 from UnityPy.enums import ClassIDType
 import faulthandler; faulthandler.enable()
-
-guid_to_path = {}
-
+from UnityPy.helpers import TypeTreeHelper
+from UnityPy.classes import PPtr
 
 def main():
+	TypeTreeHelper.read_typetree_c = False
+
 	p = ArgumentParser()
 	p.add_argument("src")
 	p.add_argument("--outdir", nargs="?", default="out")
@@ -29,7 +30,24 @@ def main():
 
 
 def generate_card_textures(src, args):
-	cards, textures = extract_info(src)
+	for root, dirs, files in os.walk(src):
+		for file_name in files:
+			print(f"file_name: {file_name}")
+			# generate file_path
+			file_path = os.path.join(root, file_name)
+			# load that file via UnityPy.load
+			env = UnityPy.load(file_path)
+			for path,obj in env.container.items():
+				# if obj.type.name in ["Texture2D"]:
+				# data = obj.read()
+				# create dest based on original path
+				dest = os.path.join("", *path.split("/"))
+				# correct extension
+				dest, ext = os.path.splitext(dest)
+				dest = dest + ".png"
+				print(f"\tdest: {dest}, path: {path}, path_id: {obj.path_id}")
+
+	cards, textures, env = extract_info(src)
 	paths = [card["path"] for card in cards.values()]
 	print("Found %i cards, %i textures including %i unique in use." % (
 		len(cards), len(textures), len(set(paths))
@@ -39,7 +57,7 @@ def generate_card_textures(src, args):
 	for id, values in sorted(cards.items()):
 		path = values["path"]
 		try:
-			do_texture(path, id, textures, values, thumb_sizes, args)
+			do_texture(env, path, id, textures, values, thumb_sizes, args)
 		except Exception as e:
 			sys.stderr.write("ERROR on %r (%r): %s\n" % (path, id, e))
 			raise
@@ -50,26 +68,22 @@ def extract_info(src):
 	cards = {}
 
 	env = UnityPy.load(src)
+
+	for path,obj in env.container.items():
+		if obj.type.name in ["Texture2D"]:
+			
+			# data = obj.read()
+			# create dest based on original path
+			dest = os.path.join("", *path.split("/"))
+			# correct extension
+			dest, ext = os.path.splitext(dest)
+			dest = dest + ".png"
+			print(f"dest: {dest}, path: {path}, path_id: {obj.path_id}")
+
 	handle_asset(env, textures)
 	handle_gameobject(env, cards)
 
-	# for root, dirs, files in os.walk(src):
-	# 	for file_name in files:
-	# 		# generate file_path
-	# 		file_path = os.path.join(root, file_name)
-	# 		# load that file via UnityPy.load
-	# 		env = UnityPy.load(file_path)
-	# 		handle_asset(env, textures)
-
-	# for root, dirs, files in os.walk(src):
-	# 	for file_name in files:
-	# 		# generate file_path
-	# 		file_path = os.path.join(root, file_name)
-	# 		# load that file via UnityPy.load
-	# 		env = UnityPy.load(file_path)
-	# 		handle_gameobject(env, cards)
-
-	return cards, textures
+	return cards, textures, env
 
 
 def handle_asset(env, textures):
@@ -84,16 +98,20 @@ def handle_asset(env, textures):
 def handle_gameobject(asset: Environment, cards):
 	for obj in asset.objects:
 		# continue
+		cardid = ''
 		try:
 			if obj.type == ClassIDType.GameObject:
 				data = obj.read()	
 				cardid = data.name
 
-				# if cardid != "BAR_546":
+				# BG20_HERO_101_Buddy should have some custom props
+				# errors: LT24_818H3 LT24_820H
+				# if cardid != "AT_042a":
+				# if cardid != "BAR_541":
 				# 	continue
 
 				# json.dump(data, sys.stdout, ensure_ascii = False, indent = 4)
-				# print("cardid: %s" % cardid)
+				print("cardid: %s" % cardid)
 				if len(data.m_Components) < 2:
 					continue
 
@@ -125,14 +143,39 @@ def handle_gameobject(asset: Environment, cards):
 
 				# print("tile obj: %s" % tile)
 				# print("building tile for %s" % cardid)
+				# json.dump(tile, sys.stdout, ensure_ascii = False, indent = 4)
 				cards[cardid] = {
 					"path": path.lower(),
 					"tile": tile.get("m_SavedProperties") if tile else {},
 				}
+				# print("built tile for %s" % cards[cardid])
+				m_tex: PPtr = cards[cardid]['tile'].m_TexEnvs[''].m_Texture
+				# print(f"search file name: {os.path.basename(m_tex.external_name.lower())}, from {m_tex.assets_file}")
+				file = m_tex.assets_file.environment.cabs.get(m_tex.external_name.lower())
+				print(f"m_tex: file_id: {m_tex.file_id}, assets_file: {m_tex.assets_file}, path_id: {m_tex.path_id}, type: {m_tex.type}, external_name: {m_tex.external_name}, index: {m_tex.index}, dict: {m_tex.__dict__}")
+				# print("m_Texture: %s" % m_tex)
+				# print(f"found file: {file}")
+				# build a list of all the objects contained in the cab file
+				# objects: dict = {}
+				# for cab in asset.cabs.values():
+				# 	# print(f"cab: {cab}")
+				# 	try:
+				# 		cabObjects: dict = cab.objects
+				# 		objects.update(cabObjects)
+				# 	except:
+				# 		continue
+				cabFile = asset.cabs.get(m_tex.external_name.lower())
+				print(f"found cabFile: {cabFile}")
+				# print(f"found cabFile.objects: {cabFile.objects}, {m_tex.path_id}")
+				# print(f"all objects: {objects}")
+				obj = cabFile.objects[m_tex.path_id]
+				print(f"found obj: {obj}")
+				read = obj.read()
+				print(f"found read: {read}")
 		except Exception as e:
 			with open("error_asset", "wb") as f:
-  				f.write(obj.assets_file.save())
-			print("ERROR!")
+				f.write(obj.assets_file.save())
+			print(f"ERROR for {cardid}")
 			print(e)
 
 
@@ -180,7 +223,7 @@ def get_rect(ux, uy, usx, usy, sx, sy, ss, tex_dim=512):
 	return (x, y, width, height)
 
 
-def generate_tile_image(img, tile):
+def generate_tile_image(env: Environment, img, tile):
 	if (img.width, img.height) != (512, 512):
 		img = img.resize((512, 512), Image.ANTIALIAS)
 
@@ -191,20 +234,34 @@ def generate_tile_image(img, tile):
 	tiled.paste(img, (0, 0))
 	tiled.paste(img, (img.width, 0))
 
+	print("tile: %s" % tile)
 	# props = (-0.13, 0.13, 1, 1, 0, 0, 1.1, img.width)
 	props = (-0.2, 0.25, 1, 1, 0, 0, 1, img.width)
-	# print("default props: %s" % (props,))
-	if tile:
-		props = (
-			tile.m_TexEnvs["_MainTex"].m_Offset.X,
-			tile.m_TexEnvs["_MainTex"].m_Offset.Y,
-			tile.m_TexEnvs["_MainTex"].m_Scale.X,
-			tile.m_TexEnvs["_MainTex"].m_Scale.Y,
-			tile.m_Floats.get("_OffsetX", 0.0),
-			tile.m_Floats.get("_OffsetY", 0.0),
-			tile.m_Floats.get("_Scale", 1.0),
-			img.width
-		)
+	# TODO: fix this
+	# if tile:
+	# 	print("texEnvs: %s" % tile.m_TexEnvs)
+	# 	print("texEnvs 2: %s" % tile.m_TexEnvs[''])
+	# 	texEnvs = tile.m_TexEnvs['']
+	# 	m_Texture: PPtr = texEnvs.m_Texture
+	# 	tex = m_Texture.read()
+	# 	print("m_Texture: %s" % m_Texture)
+	# 	m_Offset = texEnvs.m_Offset
+	# 	print("m_Offset: %s" % m_Offset)
+	# 	m_Scale = texEnvs.m_Scale
+	# 	print("m_Scale: %s" % m_Scale)
+	# 	m_Floats = tile.m_Floats
+	# 	print("m_Floats: %s" % m_Floats)
+	# 	print("tex: %s" % tex)
+	# 	props = (
+	# 		tile.m_TexEnvs["_MainTex"].m_Offset.X,
+	# 		tile.m_TexEnvs["_MainTex"].m_Offset.Y,
+	# 		tile.m_TexEnvs["_MainTex"].m_Scale.X,
+	# 		tile.m_TexEnvs["_MainTex"].m_Scale.Y,
+	# 		tile.m_Floats.get("_OffsetX", 0.0),
+	# 		tile.m_Floats.get("_OffsetY", 0.0),
+	# 		tile.m_Floats.get("_Scale", 1.0),
+	# 		img.width
+	# 	)
 		# print("tile props: %s" % (props,))
 
 	x, y, width, height = get_rect(*props)
@@ -232,7 +289,7 @@ def get_filename(basedir, dirname, name, ext=".png"):
 	return path, os.path.exists(path)
 
 
-def do_texture(path, id, textures, values, thumb_sizes, args):
+def do_texture(env: Environment, path, id, textures, values, thumb_sizes, args):
 	if not path:
 		return
 
@@ -255,7 +312,8 @@ def do_texture(path, id, textures, values, thumb_sizes, args):
 		ext = "." + format
 		filename, exists = get_filename(args.outdir, args.tiles_dir, id, ext=ext)
 		if not (args.skip_existing and exists):
-			tile_texture = generate_tile_image(texture.image, values["tile"])
+			print("will build texture for %r" % (filename))
+			tile_texture = generate_tile_image(env, texture.image, values["tile"])
 			print("-> %r" % (filename))
 			tile_texture.save(filename)
 				
