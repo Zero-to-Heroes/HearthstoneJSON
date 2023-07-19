@@ -22,7 +22,7 @@ def main():
 	p.add_argument("--orig-dir", type=str, default="orig", help="Name of output for originals")
 	p.add_argument("--tiles-dir", type=str, default="tiles", help="Name of output for tiles")
 	p.add_argument(
-		"--formats", nargs="*", default=["jpg", "png", "webp"],
+		"--formats", nargs="*", default=["jpg"],
 		help="Which image formats to generate"
 	)
 	args = p.parse_args(sys.argv[1:])
@@ -32,7 +32,7 @@ def main():
 def generate_card_textures(src, args):
 	for root, dirs, files in os.walk(src):
 		for file_name in files:
-			print(f"file_name: {file_name}")
+			# print(f"file_name: {file_name}")
 			# generate file_path
 			file_path = os.path.join(root, file_name)
 			# load that file via UnityPy.load
@@ -45,7 +45,7 @@ def generate_card_textures(src, args):
 				# correct extension
 				dest, ext = os.path.splitext(dest)
 				dest = dest + ".png"
-				print(f"\tdest: {dest}, path: {path}, path_id: {obj.path_id}")
+				# print(f"\tdest: {dest}, path: {path}, path_id: {obj.path_id}")
 
 	cards, textures, env = extract_info(src)
 	paths = [card["path"] for card in cards.values()]
@@ -78,7 +78,7 @@ def extract_info(src):
 			# correct extension
 			dest, ext = os.path.splitext(dest)
 			dest = dest + ".png"
-			print(f"dest: {dest}, path: {path}, path_id: {obj.path_id}")
+			# print(f"dest: {dest}, path: {path}, path_id: {obj.path_id}")
 
 	handle_asset(env, textures)
 	handle_gameobject(env, cards)
@@ -107,7 +107,7 @@ def handle_gameobject(asset: Environment, cards):
 				# BG20_HERO_101_Buddy should have some custom props
 				# errors: LT24_818H3 LT24_820H
 				# if cardid != "AT_042a":
-				# if cardid != "BAR_541":
+				# if cardid != "BG_GVG_085" and cardid != "BG_GVG_085_G":
 				# 	continue
 
 				# json.dump(data, sys.stdout, ensure_ascii = False, indent = 4)
