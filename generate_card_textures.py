@@ -99,84 +99,87 @@ def handle_gameobject(asset: Environment, cards):
 	for obj in asset.objects:
 		# continue
 		cardid = ''
-		try:
-			if obj.type == ClassIDType.GameObject:
-				data = obj.read()	
-				cardid = data.name
+		# try:
+		if obj.type == ClassIDType.GameObject:
+			data = obj.read()	
+			cardid = data.name
 
-				# BG20_HERO_101_Buddy should have some custom props
-				# errors: LT24_818H3 LT24_820H
-				# if cardid != "AT_042a":
-				# if cardid != "BG_GVG_085" and cardid != "BG_GVG_085_G":
-				# 	continue
+			# if cardid != "TTN_469" and cardid != "TTN_078":
+			# 	continue
 
-				# json.dump(data, sys.stdout, ensure_ascii = False, indent = 4)
-				print("cardid: %s" % cardid)
-				if len(data.m_Components) < 2:
-					continue
+			# json.dump(data, sys.stdout, ensure_ascii = False, indent = 4)
+			print("cardid: %s" % cardid)
+			if len(data.m_Components) < 2:
+				continue
 
-				carddef = data.m_Components[1].read()
-				# print("carddef.type %s" % (type(carddef).__name__))
-				if type(carddef).__name__ == "NodeHelper":
-					# print("skipping %s" % (cardid))
-					continue
+			carddef = data.m_Components[1].read()
+			# print("carddef.type %s" % (type(carddef).__name__))
+			if type(carddef).__name__ == "NodeHelper":
+				# print("skipping %s" % (cardid))
+				continue
 
-				path = carddef.get("m_PortraitTexturePath")
-				if not path:
-					# Sometimes there's multiple per cardid, we remove the ones without art
-					continue
+			path = carddef.get("m_PortraitTexturePath")
+			if not path:
+				# Sometimes there's multiple per cardid, we remove the ones without art
+				continue
 
-				if ":" in path:
-					guid = path.split(":")[1]
-					path = guid
+			if ":" in path:
+				guid = path.split(":")[1]
+				path = guid
 
-				# print("carddef: %s" % carddef)
-				tile = carddef.get("m_DeckCardBarPortrait")
-				# print("tile prop: %s" % tile)
-				if tile:
-					tile = tile.read()
-					if not tile:
-						raise TypeError("could not read tile")
-				# else:
-				# 	raise TypeError("stopping")
+			print("carddef: %s" % carddef)
+			tile = carddef.get("m_DeckCardBarPortrait")
+			print("tile prop: %s" % tile)
+			if tile:
+				tile = tile.read()
+				if not tile:
+					raise TypeError("could not read tile")
+			# else:
+			# 	raise TypeError("stopping")
 
 
-				# print("tile obj: %s" % tile)
-				# print("building tile for %s" % cardid)
-				# json.dump(tile, sys.stdout, ensure_ascii = False, indent = 4)
-				cards[cardid] = {
-					"path": path.lower(),
-					"tile": tile.get("m_SavedProperties") if tile else {},
-				}
-				# print("built tile for %s" % cards[cardid])
-				m_tex: PPtr = cards[cardid]['tile'].m_TexEnvs[''].m_Texture
-				# print(f"search file name: {os.path.basename(m_tex.external_name.lower())}, from {m_tex.assets_file}")
-				file = m_tex.assets_file.environment.cabs.get(m_tex.external_name.lower())
-				print(f"m_tex: file_id: {m_tex.file_id}, assets_file: {m_tex.assets_file}, path_id: {m_tex.path_id}, type: {m_tex.type}, external_name: {m_tex.external_name}, index: {m_tex.index}, dict: {m_tex.__dict__}")
-				# print("m_Texture: %s" % m_tex)
-				# print(f"found file: {file}")
-				# build a list of all the objects contained in the cab file
-				# objects: dict = {}
-				# for cab in asset.cabs.values():
-				# 	# print(f"cab: {cab}")
-				# 	try:
-				# 		cabObjects: dict = cab.objects
-				# 		objects.update(cabObjects)
-				# 	except:
-				# 		continue
-				cabFile = asset.cabs.get(m_tex.external_name.lower())
-				print(f"found cabFile: {cabFile}")
-				# print(f"found cabFile.objects: {cabFile.objects}, {m_tex.path_id}")
-				# print(f"all objects: {objects}")
-				obj = cabFile.objects[m_tex.path_id]
-				print(f"found obj: {obj}")
-				read = obj.read()
-				print(f"found read: {read}")
-		except Exception as e:
-			with open("error_asset", "wb") as f:
-				f.write(obj.assets_file.save())
-			print(f"ERROR for {cardid}")
-			print(e)
+			# print("tile obj: %s" % tile)
+			# print("building tile for %s" % cardid)
+			# json.dump(tile, sys.stdout, ensure_ascii = False, indent = 4)
+			tileInfo = {}
+			try:
+				tileInfo = tile.get("m_SavedProperties")
+			except:
+				print("could not get tileInfo for %s" % cardid)
+
+			cards[cardid] = {
+				"path": path.lower(),
+				"tile": tileInfo,
+			}
+			# print("built tile for %s" % cards[cardid])
+			m_tex: PPtr = cards[cardid]['tile'].m_TexEnvs[''].m_Texture
+			# print(f"search file name: {os.path.basename(m_tex.external_name.lower())}, from {m_tex.assets_file}")
+			# file = m_tex.assets_file.environment.cabs.get(m_tex.external_name.lower())
+			# print(f"m_tex: file_id: {m_tex.file_id}, assets_file: {m_tex.assets_file}, path_id: {m_tex.path_id}, type: {m_tex.type}, external_name: {m_tex.external_name}, index: {m_tex.index}, dict: {m_tex.__dict__}")
+			# print("m_Texture: %s" % m_tex)
+			# print(f"found file: {file}")
+			# build a list of all the objects contained in the cab file
+			# objects: dict = {}
+			# for cab in asset.cabs.values():
+			# 	# print(f"cab: {cab}")
+			# 	try:
+			# 		cabObjects: dict = cab.objects
+			# 		objects.update(cabObjects)
+			# 	except:
+			# 		continue
+			# cabFile = asset.cabs.get(m_tex.external_name.lower())
+			# print(f"found cabFile: {cabFile}")
+			# # print(f"found cabFile.objects: {cabFile.objects}, {m_tex.path_id}")
+			# # print(f"all objects: {objects}")
+			# obj = cabFile.objects[m_tex.path_id]
+			# print(f"found obj: {obj}")
+			# read = obj.read()
+			# print(f"found read: {read}")
+		# except Exception as e:
+		# 	with open("error_asset", "wb") as f:
+		# 		f.write(obj.assets_file.save())
+		# 	print(f"ERROR for {cardid}")
+		# 	print(e)
 
 
 # Deck tile generation
