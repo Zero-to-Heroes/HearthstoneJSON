@@ -108,7 +108,7 @@ def handle_gameobject(asset: Environment, cards):
 			# 	continue
 
 			# json.dump(data, sys.stdout, ensure_ascii = False, indent = 4)
-			print("cardid: %s" % cardid)
+			# print("cardid: %s" % cardid)
 			if len(data.m_Components) < 2:
 				continue
 
@@ -152,7 +152,7 @@ def handle_gameobject(asset: Environment, cards):
 				"tile": tileInfo,
 			}
 			# print("built tile for %s" % cards[cardid])
-			m_tex: PPtr = cards[cardid]['tile'].m_TexEnvs[''].m_Texture
+			# m_tex: PPtr = cards[cardid]['tile'].m_TexEnvs[''].m_Texture
 			# print(f"search file name: {os.path.basename(m_tex.external_name.lower())}, from {m_tex.assets_file}")
 			# file = m_tex.assets_file.environment.cabs.get(m_tex.external_name.lower())
 			# print(f"m_tex: file_id: {m_tex.file_id}, assets_file: {m_tex.assets_file}, path_id: {m_tex.path_id}, type: {m_tex.type}, external_name: {m_tex.external_name}, index: {m_tex.index}, dict: {m_tex.__dict__}")
