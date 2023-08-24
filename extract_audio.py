@@ -10,8 +10,8 @@ from pydub import AudioSegment
 from UnityPy.enums import ClassIDType
 
 locales = [
-	'deDE',
 	'enUS',
+	'deDE',
 	'esES',
 	'esMX',
 	'frFR',
@@ -28,9 +28,11 @@ locales = [
 
 def main():
 	os.makedirs(os.path.dirname(f"out/sounds_wav/"), exist_ok=True)
+	os.makedirs(os.path.dirname(f"out/sounds_wav/common/"), exist_ok=True)
 	os.makedirs(os.path.dirname(f"out/sounds/common/"), exist_ok=True)
 	for loc in locales:
 		os.makedirs(os.path.dirname(f"out/sounds/{loc}/"), exist_ok=True)
+		os.makedirs(os.path.dirname(f"out/sounds_wav/{loc}/"), exist_ok=True)
 		
 	p = ArgumentParser()
 	p.add_argument("src")
@@ -39,14 +41,13 @@ def main():
 		for file_name in files:
 			# generate file_path
 			file_path = os.path.join(root, file_name)
-			# load that file via UnityPy.load
-			print("loading %s" % file_path)
+			env = UnityPy.load(file_path)
+
 			current_loc = 'common'
 			for loc in locales:
-				if ("_" + loc.lower()) in file_path.lower():
+				if ("_" + loc.lower() + "/") in file_path.lower():
 					current_loc = loc
 
-			env = UnityPy.load(file_path)
 			extract_assets(env, current_loc)
 
 
@@ -80,27 +81,39 @@ def export_obj(path, obj, current_loc):
 
 	# print("data %s" % data)
 	# print("m_AudioData %s" % data.m_AudioData)
-	samples = data.samples
+	samples = []
+	try:
+		samples = data.samples
+	except Exception as e:
+		print("could not extract samples from %s " % data)
+		print("exception %s " % e)
+		return
+	
+	for loc in locales:
+		if ("/" + loc.lower() + "/") in path.lower():
+			current_loc = loc		
+	
 	# print("samples %s" % len(samples))
 	for name, data in samples.items():
 		# print("sample %s, %s" % (name, len(data)))
-		wav_file_name = f"out/sounds_wav/{name}"
+		base_file_name = os.path.splitext(name)[0].replace(" ", "")
+		wav_file_name = f"out/sounds_wav/{current_loc}/{base_file_name}.wav"
+		ogg_file_name = f"out/sounds/{current_loc}/{base_file_name}.ogg"
 		if os.path.exists(wav_file_name):
-			print("\t file already exists, continuing")
+			# print("\t file already exists, continuing")
 			continue
 
-		with open(wav_file_name, "wb") as f:
-			# print("extracting wav file %s from %s" % (wav_file_name, path))
-			f.write(data)
-		sound = AudioSegment.from_wav(wav_file_name)
-		
-		for loc in locales:
-			if ("/" + loc.lower() + "/") in path.lower():
-				current_loc = loc		
-		base_file_name = os.path.splitext(name)[0].replace(" ", "")
-		ogg_file_name = f"out/sounds/{current_loc}/{base_file_name}.ogg"
-		print("\t exporting ogg file %s" % ogg_file_name)
-		sound.export(ogg_file_name, format="ogg")
+		try:
+			with open(wav_file_name, "wb") as f:
+				print("extracting wav file %s from %s" % (wav_file_name, path))
+				f.write(data)
+
+			print("\t exporting ogg file %s" % ogg_file_name)
+			sound = AudioSegment.from_wav(wav_file_name)		
+			sound.export(ogg_file_name, format="ogg")
+		except Exception as e:
+			print("could not extract wav file %s from %s" % (wav_file_name, path))
+			print("exception %s " % e)
 
 
 if __name__ == '__main__':
