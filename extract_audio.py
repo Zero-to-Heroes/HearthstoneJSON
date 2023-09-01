@@ -26,6 +26,25 @@ locales = [
 	'zhTW',
 ]
 
+import sys
+
+class Logger(object):
+    def __init__(self, logFile):
+        self.terminal = sys.stdout
+        self.log = open(logFile, "a")
+   
+    def write(self, message):
+        self.terminal.write(message)
+        self.log.write(message)  
+
+    def flush(self):
+        # this flush method is needed for python 3 compatibility.
+        # this handles the flush command by doing nothing.
+        # you might want to specify some extra behavior here.
+        pass    
+
+sys.stdout = Logger("extract_audio.log")
+
 def main():
 	os.makedirs(os.path.dirname(f"out/sounds_wav/"), exist_ok=True)
 	os.makedirs(os.path.dirname(f"out/sounds_wav/common/"), exist_ok=True)
@@ -39,14 +58,21 @@ def main():
 	args = p.parse_args(sys.argv[1:])
 	for root, dirs, files in os.walk(args.src):
 		for file_name in files:
+			# if "sound" not in file_name.lower():
+			# 	# print("skipping %s" % file_name)
+			# 	continue
+
 			# generate file_path
 			file_path = os.path.join(root, file_name)
 			env = UnityPy.load(file_path)
+			print("handling %s" % file_path)
 
 			current_loc = 'common'
 			for loc in locales:
-				if ("_" + loc.lower() + "/") in file_path.lower():
+				if ("_" + loc.lower() + "-") in file_path.lower():
 					current_loc = loc
+					print("current_loc %s" % current_loc)
+					print("file path %s" % file_path)
 
 			extract_assets(env, current_loc)
 
@@ -97,8 +123,15 @@ def export_obj(path, obj, current_loc):
 	for name, data in samples.items():
 		# print("sample %s, %s" % (name, len(data)))
 		base_file_name = os.path.splitext(name)[0].replace(" ", "")
+		# if "VO_EX1_383_Play_01" not in base_file_name:
+		# 	continue
+
 		wav_file_name = f"out/sounds_wav/{current_loc}/{base_file_name}.wav"
 		ogg_file_name = f"out/sounds/{current_loc}/{base_file_name}.ogg"
+		print("base_file_name %s" % base_file_name)
+		print("wav_file_name %s" % wav_file_name)
+		print("locale %s" % current_loc)
+		print("path %s" % path)
 		if os.path.exists(wav_file_name):
 			# print("\t file already exists, continuing")
 			continue
