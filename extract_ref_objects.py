@@ -23,9 +23,9 @@ locales = [
 	'zhTW',
 ]
 
-local_state = {
-	"total_handled": 0,
-}
+# local_state = {
+# 	"total_handled": 0,
+# }
 
 
 nodes_to_parse = [
@@ -70,6 +70,7 @@ nodes_to_parse = [
 	"CARD_SET", 
 	"CARD_TAG", 
 	"CARD",
+	"CARDS",
 	"CHARACTER_DIALOG_ITEMS", 
 	"CHARACTER_DIALOG", 
 	"CLASS_EXCLUSIONS",
@@ -188,6 +189,8 @@ nodes_to_parse = [
 	"XP_PER_TIME_GAME_TYPE_MULTIPLIER", 
 ]
 
+ignored = []
+
 def main():
 	p = ArgumentParser()
 	p.add_argument("src")
@@ -207,6 +210,10 @@ def extract_ref_objects(src):
 			# load that file via UnityPy.load
 			env = UnityPy.load(file_path)
 			handle_asset(env)
+			
+			
+	with open('.ignored.log', 'w') as resultFile:
+		resultFile.write(json.dumps(ignored))
 
 
 def handle_asset(env):
@@ -224,9 +231,11 @@ def handle_asset(env):
 
 			if "m_Name" in tree and tree["m_Name"] is not "":
 				if (tree["m_Name"] == tree["m_Name"].upper()) and tree["m_Name"] not in nodes_to_parse:
-					print("considering %s" % tree["m_Name"])
-				if ("Event" in tree["m_Name"]) and tree["m_Name"] not in nodes_to_parse:
-					print("considering %s" % tree["m_Name"])
+					ignored.append(tree["m_Name"])
+					# print("ignoring %s" % tree["m_Name"])
+
+				# if ("Event" in tree["m_Name"]) and tree["m_Name"] not in nodes_to_parse:
+				# 	print("ignoring %s" % tree["m_Name"])
 				# if tree["m_Name"] in ["EventMap"]:
 				# 	print("parsing %s, %s" % (tree["m_Name"], path))
 				# 	fp = os.path.join(f"ref/objects", f"EventMap.json")
@@ -241,14 +250,15 @@ def handle_asset(env):
 					currentLoc = ''
 					for loc in locales:
 						if loc.lower() in path.lower():
-							currentLoc = loc
-					locName = name + "-" + currentLoc
+							currentLoc = "-" + loc
+					locName = name + currentLoc
 
-					local_state["total_handled"] = local_state["total_handled"] + 1
+					# local_state["total_handled"] = local_state["total_handled"] + 1
 					try:
 						# Only save the data if it has records
 						tree["Records"]
 					except:
+						print("no records for %s" % tree["m_Name"])
 						if tree["m_Name"] not in ["EventMap"]:
 							continue	
 
