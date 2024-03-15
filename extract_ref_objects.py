@@ -248,7 +248,9 @@ def handle_asset(env):
 
 			if "m_Name" in tree and tree["m_Name"] is not "":
 				if (tree["m_Name"] == tree["m_Name"].upper()) and tree["m_Name"] not in nodes_to_parse:
-					ignored.append(tree["m_Name"])
+					# Only add it if it doesn't start with VO_
+					if not tree["m_Name"].startswith("VO_"):
+						ignored.append(tree["m_Name"])
 					# print("ignoring %s" % tree["m_Name"])
 
 				# if ("Event" in tree["m_Name"]) and tree["m_Name"] not in nodes_to_parse:
