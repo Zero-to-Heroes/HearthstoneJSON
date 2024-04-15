@@ -77,6 +77,7 @@ nodes_to_parse = [
 	"CLASS", 
 	"CLIENT_STRING",
 	"COIN", 
+	"COUNTERPART_CARDS", 
 	"CREDITS_YEAR",
 	"DECK",
 	"DECK_CARD", 
