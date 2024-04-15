@@ -226,8 +226,13 @@ def extract_ref_objects(src):
 			# generate file_path
 			file_path = os.path.join(root, file_name)
 			# load that file via UnityPy.load
-			env = UnityPy.load(file_path)
-			handle_asset(env)
+			try:
+				print(f"Processing {file_path}")
+				env = UnityPy.load(file_path)
+				handle_asset(env)
+			except Exception as e:
+				print(f"Error processing {file_path}: {e}")
+				continue
 			
 			
 	with open('.ignored.log', 'w') as resultFile:
