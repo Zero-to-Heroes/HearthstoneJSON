@@ -39,10 +39,30 @@ def main():
 def extract_info(src):
 	audioClips = {}
 	cards = {}
+	
+	for root, dirs, files in os.walk(src):
+		for file_name in files:
+			file_path = os.path.join(root, file_name)
+			try:
+				env = UnityPy.load(file_path)
+				handle_asset(env, audioClips, cards)
+			except Exception as e:
+				print(f"Error processing {file_path}: {e}")
+				continue
+			
+	for root, dirs, files in os.walk(src):
+		for file_name in files:
+			file_path = os.path.join(root, file_name)
+			try:
+				env = UnityPy.load(file_path)
+				handle_gameobject(env, audioClips, cards)
+			except Exception as e:
+				print(f"Error processing {file_path}: {e}")
+				continue
 
-	env = UnityPy.load(src)
-	handle_asset(env, audioClips, cards)
-	handle_gameobject(env, audioClips, cards)
+	# env = UnityPy.load(src)
+	# handle_asset(env, audioClips, cards)
+	# handle_gameobject(env, audioClips, cards)
 
 	return cards
 

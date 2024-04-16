@@ -218,16 +218,9 @@ def main():
 
 def extract_ref_objects(src):
 	for root, dirs, files in os.walk(src):
-		# if len(nodes_to_parse) == local_state["total_handled"]:
-		# 	return
 		for file_name in files:
-			# if len(nodes_to_parse) == local_state["total_handled"]:
-			# 	return
-			# generate file_path
 			file_path = os.path.join(root, file_name)
-			# load that file via UnityPy.load
 			try:
-				print(f"Processing {file_path}")
 				env = UnityPy.load(file_path)
 				handle_asset(env)
 			except Exception as e:
