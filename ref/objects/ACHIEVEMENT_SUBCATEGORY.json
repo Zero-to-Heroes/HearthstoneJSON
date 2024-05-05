@@ -1,0 +1,1464 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -4200343869971017103
+    },
+    "m_Name": "ACHIEVEMENT_SUBCATEGORY",
+    "Records": [
+        {
+            "m_ID": 1,
+            "m_achievementCategoryId": 1,
+            "m_name": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_icon": "",
+            "m_sortOrder": 0
+        },
+        {
+            "m_ID": 2,
+            "m_achievementCategoryId": 2,
+            "m_name": {
+                "m_locValues": [
+                    "General",
+                    "Allgemein",
+                    "General",
+                    "General",
+                    "Général",
+                    "Generale",
+                    "全般",
+                    "일반",
+                    "Ogólne",
+                    "Geral",
+                    "Общие",
+                    "ทั่วไป",
+                    "综合",
+                    "綜合"
+                ],
+                "m_locId": 2730758
+            },
+            "m_icon": "CLASSIC",
+            "m_sortOrder": 900
+        },
+        {
+            "m_ID": 3,
+            "m_achievementCategoryId": 2,
+            "m_name": {
+                "m_locValues": [
+                    "Darkmoon Faire",
+                    "Dunkelmond-Wahnsinn",
+                    "Feria de la Luna Negra",
+                    "Feria de la Luna Negra",
+                    "Foire de Sombrelune",
+                    "Fiera di Lunacupa",
+                    "ダークムーン・フェア",
+                    "다크문 축제",
+                    "Festyn Lunomroku",
+                    "Feira de Negraluna",
+                    "Ярмарка безумия",
+                    "Darkmoon Faire",
+                    "暗月马戏团",
+                    "暗月馬戲團"
+                ],
+                "m_locId": 2730759
+            },
+            "m_icon": "DMF",
+            "m_sortOrder": 101
+        },
+        {
+            "m_ID": 61,
+            "m_achievementCategoryId": 2,
+            "m_name": {
+                "m_locValues": [
+                    "Classic",
+                    "Klassik",
+                    "Clásico",
+                    "Clásicos",
+                    "Classique",
+                    "Classico",
+                    "クラシック",
+                    "클래식",
+                    "Klasyczne",
+                    "Clássico",
+                    "Классический формат",
+                    "คลาสสิค",
+                    "经典",
+                    "經典"
+                ],
+                "m_locId": 2755158
+            },
+            "m_icon": "CLASSICFORMAT",
+            "m_sortOrder": 800
+        },
+        {
+            "m_ID": 62,
+            "m_achievementCategoryId": 2,
+            "m_name": {
+                "m_locValues": [
+                    "Core (Gryphon)",
+                    "Kern (Greif)",
+                    "Núcleo (grifo)",
+                    "Esencial (Grifo)",
+                    "Fondamental (Griffon)",
+                    "Set Principale (Grifone)",
+                    "コア（グリフォン）",
+                    "핵심 (그리핀)",
+                    "Bazowe (Rok Gryfa)",
+                    "Núcleo (Grifo)",
+                    "Базовый набор (год Грифона)",
+                    "ชุดหลัก (กริฟฟอน)",
+                    "核心（狮鹫年）",
+                    "核心(獅鷲獸)"
+                ],
+                "m_locId": 2755159
+            },
+            "m_icon": "GRYPHON",
+            "m_sortOrder": 700
+        },
+        {
+            "m_ID": 63,
+            "m_achievementCategoryId": 2,
+            "m_name": {
+                "m_locValues": [
+                    "Barrens",
+                    "Brachland",
+                    "Baldíos",
+                    "Baldíos",
+                    "Tarides",
+                    "Savane",
+                    "大荒野",
+                    "불모의 땅",
+                    "Pustkowia",
+                    "Sertões",
+                    "Степи",
+                    "Barrens",
+                    "贫瘠之地",
+                    "貧瘠之地"
+                ],
+                "m_locId": 2755160
+            },
+            "m_icon": "BAR",
+            "m_sortOrder": 100
+        },
+        {
+            "m_ID": 149,
+            "m_achievementCategoryId": 2,
+            "m_name": {
+                "m_locValues": [
+                    "Stormwind",
+                    "Sturmwind",
+                    "Ventormenta",
+                    "Ventormenta",
+                    "Hurlevent",
+                    "Roccavento",
+                    "ストームウィンド",
+                    "스톰윈드",
+                    "Wichrogród",
+                    "Ventobravo",
+                    "Штормград",
+                    "Stormwind",
+                    "暴风城",
+                    "暴風城"
+                ],
+                "m_locId": 2763097
+            },
+            "m_icon": "SW",
+            "m_sortOrder": 99
+        },
+        {
+            "m_ID": 157,
+            "m_achievementCategoryId": 2,
+            "m_name": {
+                "m_locValues": [
+                    "Alterac Valley",
+                    "Alteractal",
+                    "Valle de Alterac",
+                    "Valle de Alterac",
+                    "Vallée d’Alterac",
+                    "Valle d'Alterac",
+                    "アルタラックの谷",
+                    "알터랙 계곡",
+                    "Dolina Alterak",
+                    "Vale Alterac",
+                    "Альтеракская долина",
+                    "Alterac Valley",
+                    "奥特兰克",
+                    "奧特蘭克山谷"
+                ],
+                "m_locId": 2814091
+            },
+            "m_icon": "AV",
+            "m_sortOrder": 98
+        },
+        {
+            "m_ID": 160,
+            "m_achievementCategoryId": 2,
+            "m_name": {
+                "m_locValues": [
+                    "Sunken City",
+                    "Versunkene Stadt",
+                    "Ciudad Sumergida",
+                    "Ciudad Sumergida",
+                    "Cité engloutie",
+                    "Città Sommersa",
+                    "海底都市",
+                    "가라앉은 도시",
+                    "Zatopione Miasto",
+                    "Cidade Submersa",
+                    "Затонувший город",
+                    "Sunken City",
+                    "沉没之城",
+                    "海底歷險記"
+                ],
+                "m_locId": 2815660
+            },
+            "m_icon": "TSC",
+            "m_sortOrder": 97
+        },
+        {
+            "m_ID": 168,
+            "m_achievementCategoryId": 2,
+            "m_name": {
+                "m_locValues": [
+                    "Core (Hydra)",
+                    "Kern (Hydra)",
+                    "Núcleo (hidra)",
+                    "Esencial (Hidra)",
+                    "Fondamental (Hydre)",
+                    "Set Principale (Idra)",
+                    "コア（ヒドラ）",
+                    "핵심 (히드라)",
+                    "Bazowe (Rok Hydry)",
+                    "Núcleo (Hidra)",
+                    "Базовый набор (год Гидры)",
+                    "ชุดหลัก (ไฮดร้า)",
+                    "核心（多头蛇年）",
+                    "核心(多頭蛇)"
+                ],
+                "m_locId": 2834491
+            },
+            "m_icon": "HYDRA",
+            "m_sortOrder": 699
+        },
+        {
+            "m_ID": 167,
+            "m_achievementCategoryId": 2,
+            "m_name": {
+                "m_locValues": [
+                    "Castle Nathria",
+                    "Schloss Nathria",
+                    "Castillo de Nathria",
+                    "Castillo Nathria",
+                    "Château Nathria",
+                    "Castello di Nathria",
+                    "ナスリア城",
+                    "나스리아 성채",
+                    "Twierdza Nathria",
+                    "Castelo de Nathria",
+                    "Замок Нафрия",
+                    "Castle Nathria",
+                    "纳斯利亚堡",
+                    "古堡懸案"
+                ],
+                "m_locId": 2832877
+            },
+            "m_icon": "REV",
+            "m_sortOrder": 96
+        },
+        {
+            "m_ID": 169,
+            "m_achievementCategoryId": 2,
+            "m_name": {
+                "m_locValues": [
+                    "Lich King",
+                    "Lichkönig",
+                    "Rey Exánime",
+                    "Rey Exánime",
+                    "Roi-liche",
+                    "Re dei Lich",
+                    "リッチキング",
+                    "리치 왕",
+                    "Król Lisz",
+                    "Lich Rei",
+                    "Король-лич",
+                    "Lich King",
+                    "巫妖王",
+                    "巫妖王"
+                ],
+                "m_locId": 2849286
+            },
+            "m_icon": "RLK",
+            "m_sortOrder": 95
+        },
+        {
+            "m_ID": 172,
+            "m_achievementCategoryId": 2,
+            "m_name": {
+                "m_locValues": [
+                    "Festival of Legends",
+                    "Festival der Legenden",
+                    "El Festival Legendario",
+                    "Festival de Leyendas",
+                    "La fête des légendes",
+                    "Festival delle Leggende",
+                    "集え！レジェンド・フェス",
+                    "전설노래자랑",
+                    "Festiwal Legend",
+                    "Festival das Lendas",
+                    "Фестиваль легенд",
+                    "Festival of Legends",
+                    "传奇音乐节",
+                    "傳說音樂祭"
+                ],
+                "m_locId": 2858538
+            },
+            "m_icon": "ETC",
+            "m_sortOrder": 94
+        },
+        {
+            "m_ID": 178,
+            "m_achievementCategoryId": 2,
+            "m_name": {
+                "m_locValues": [
+                    "Core (Wolf)",
+                    "Kern (Wolf)",
+                    "Esencial (lobo)",
+                    "Esencial (Lobo)",
+                    "Fondamental (Loup)",
+                    "Set Principale (Lupo)",
+                    "コア（オオカミ）",
+                    "핵심 (늑대)",
+                    "Bazowe (Wilk)",
+                    "Essencial (Lobo)",
+                    "Основные (волк)",
+                    "ชุดหลัก (หมาป่า)",
+                    "核心（独狼年）",
+                    "核心(嘯狼)"
+                ],
+                "m_locId": 2869437
+            },
+            "m_icon": "WOLF",
+            "m_sortOrder": 698
+        },
+        {
+            "m_ID": 174,
+            "m_achievementCategoryId": 2,
+            "m_name": {
+                "m_locValues": [
+                    "Titans",
+                    "Titanen",
+                    "Los Titanes",
+                    "Titanes",
+                    "Titans",
+                    "Titani",
+                    "タイタンの目醒め",
+                    "티탄",
+                    "Tytani",
+                    "Titãs",
+                    "Титаны",
+                    "Titans",
+                    "泰坦诸神",
+                    "泰坦創世紀"
+                ],
+                "m_locId": 2868755
+            },
+            "m_icon": "TTN",
+            "m_sortOrder": 93
+        },
+        {
+            "m_ID": 185,
+            "m_achievementCategoryId": 2,
+            "m_name": {
+                "m_locValues": [
+                    "Badlands",
+                    "Ödland",
+                    "Tierras Inhóspitas",
+                    "Tierras Inhóspitas",
+                    "Terres Ingrates",
+                    "Maleterre",
+                    "バッドランド",
+                    "황야의 땅",
+                    "Bezludzie",
+                    "Ermos",
+                    "Бесплодные земли",
+                    "Badlands",
+                    "荒芜之地",
+                    "荒蕪之地"
+                ],
+                "m_locId": 2876580
+            },
+            "m_icon": "WW",
+            "m_sortOrder": 92
+        },
+        {
+            "m_ID": 215,
+            "m_achievementCategoryId": 2,
+            "m_name": {
+                "m_locValues": [
+                    "Whizbang",
+                    "Wurbelfitz",
+                    "Mirífico",
+                    "Fizbang",
+                    "Mystifix",
+                    "Frizzabombe",
+                    "ウィズバン",
+                    "위즈뱅",
+                    "Świstomig",
+                    "Rojão",
+                    "Чудастер",
+                    "Whizbang",
+                    "威兹班",
+                    "威茲邦"
+                ],
+                "m_locId": 2884754
+            },
+            "m_icon": "TOY",
+            "m_sortOrder": 0
+        },
+        {
+            "m_ID": 6,
+            "m_achievementCategoryId": 3,
+            "m_name": {
+                "m_locValues": [
+                    "Cosmetics",
+                    "Kosmetische Gegenstände",
+                    "Cosméticos",
+                    "Decoración",
+                    "Modèles",
+                    "Oggetti cosmetici",
+                    "見た目カスタマイズ",
+                    "외형",
+                    "Ozdobne",
+                    "Cosméticos",
+                    "Декоративные предметы",
+                    "ของตกแต่ง",
+                    "外观",
+                    "造型"
+                ],
+                "m_locId": 2730762
+            },
+            "m_icon": "COS",
+            "m_sortOrder": 122
+        },
+        {
+            "m_ID": 7,
+            "m_achievementCategoryId": 3,
+            "m_name": {
+                "m_locValues": [
+                    "Classic",
+                    "Klassik",
+                    "Clásico",
+                    "Clásico",
+                    "Classique",
+                    "Classiche",
+                    "クラシック",
+                    "오리지널",
+                    "Klasyczne",
+                    "Clássico",
+                    "Классический набор",
+                    "คลาสสิค",
+                    "经典",
+                    "經典"
+                ],
+                "m_locId": 2730763
+            },
+            "m_icon": "CLASSIC",
+            "m_sortOrder": 121
+        },
+        {
+            "m_ID": 8,
+            "m_achievementCategoryId": 3,
+            "m_name": {
+                "m_locValues": [
+                    "Ashes of Outland",
+                    "Ruinen der Scherbenwelt",
+                    "Cenizas de Terrallende",
+                    "Cenizas de Terrallende",
+                    "Les Cendres de l’Outreterre",
+                    "Ceneri delle Terre Esterne",
+                    "灰に舞う降魔の狩人",
+                    "황폐한 아웃랜드",
+                    "Popioły Rubieży",
+                    "Cinzas de Terralém",
+                    "Руины Запределья",
+                    "Ashes of Outland",
+                    "外域的灰烬",
+                    "外域之燼"
+                ],
+                "m_locId": 2730764
+            },
+            "m_icon": "BT",
+            "m_sortOrder": 102
+        },
+        {
+            "m_ID": 9,
+            "m_achievementCategoryId": 3,
+            "m_name": {
+                "m_locValues": [
+                    "Scholomance Academy",
+                    "Akademie Scholomance",
+                    "Academia Scholomance",
+                    "Academia Scholomance",
+                    "L’Académie Scholomance",
+                    "L'Accademia di Scholomance",
+                    "魔法学院スクロマンス",
+                    "스칼로맨스 아카데미",
+                    "Scholomancjum",
+                    "Universidade de Scolomântia",
+                    "Некроситет",
+                    "Scholomance Academy",
+                    "通灵学园",
+                    "通靈學院"
+                ],
+                "m_locId": 2730765
+            },
+            "m_icon": "SCH",
+            "m_sortOrder": 101
+        },
+        {
+            "m_ID": 21,
+            "m_achievementCategoryId": 3,
+            "m_name": {
+                "m_locValues": [
+                    "Madness at the Darkmoon Faire",
+                    "Der Dunkelmond-Wahnsinn",
+                    "Locura en la Feria de la Luna Negra",
+                    "Locura en la Feria de la Luna Negra",
+                    "Folle journée à Sombrelune",
+                    "Follia alla Fiera di Lunacupa",
+                    "ダークムーン・フェアへの招待状",
+                    "광기의 다크문 축제",
+                    "Obłędny Festyn Lunomroku",
+                    "Delírios em Negraluna",
+                    "Ярмарка безумия",
+                    "Madness at the Darkmoon Faire",
+                    "疯狂的暗月马戏团",
+                    "暗月馬戲團：古神也瘋狂"
+                ],
+                "m_locId": 2733271
+            },
+            "m_icon": "DMF",
+            "m_sortOrder": 100
+        },
+        {
+            "m_ID": 30,
+            "m_achievementCategoryId": 3,
+            "m_name": {
+                "m_locValues": [
+                    "Curse of Naxxramas",
+                    "Der Fluch von Naxxramas",
+                    "La Maldición de Naxxramas",
+                    "Maldición de Naxxramas",
+                    "Malédiction de Naxxramas",
+                    "La maledizione di Naxxramas",
+                    "ナクスラーマスの呪い",
+                    "낙스라마스의 저주",
+                    "Klątwa Naxxramas",
+                    "Maldição de Naxxramas",
+                    "Проклятие Наксрамаса",
+                    "Curse of Naxxramas",
+                    "纳克萨玛斯的诅咒",
+                    "不死詛咒：納克薩瑪斯"
+                ],
+                "m_locId": 2734861
+            },
+            "m_icon": "NAX",
+            "m_sortOrder": 120
+        },
+        {
+            "m_ID": 31,
+            "m_achievementCategoryId": 3,
+            "m_name": {
+                "m_locValues": [
+                    "Goblins vs Gnomes",
+                    "Goblins gegen Gnome",
+                    "Goblins vs. Gnomos",
+                    "Goblins versus Gnomos",
+                    "Gobelins et Gnomes",
+                    "Goblin vs Gnomi",
+                    "ゴブリンvsノーム",
+                    "고블린 대 노움",
+                    "Gobliny vs Gnomy",
+                    "Goblins vs. Gnomos",
+                    "Гоблины и гномы",
+                    "Goblins vs Gnomes",
+                    "地精大战侏儒",
+                    "哥哥打地地"
+                ],
+                "m_locId": 2734862
+            },
+            "m_icon": "GVG",
+            "m_sortOrder": 119
+        },
+        {
+            "m_ID": 32,
+            "m_achievementCategoryId": 3,
+            "m_name": {
+                "m_locValues": [
+                    "Blackrock Mountain",
+                    "Der Schwarzfels",
+                    "Montaña Roca Negra",
+                    "Montaña Roca Negra",
+                    "Mont Rochenoire",
+                    "Massiccio Roccianera",
+                    "ブラックロック・マウンテン",
+                    "검은바위 산",
+                    "Czarna Góra",
+                    "Montanha Rocha Negra",
+                    "Черная гора",
+                    "Blackrock Mountain",
+                    "黑石山",
+                    "勇闖黑石山"
+                ],
+                "m_locId": 2734863
+            },
+            "m_icon": "BRM",
+            "m_sortOrder": 118
+        },
+        {
+            "m_ID": 33,
+            "m_achievementCategoryId": 3,
+            "m_name": {
+                "m_locValues": [
+                    "The Grand Tournament",
+                    "Das Große Turnier",
+                    "El Gran Torneo",
+                    "El Gran Torneo",
+                    "Le Grand Tournoi",
+                    "Gran Torneo",
+                    "グランド・トーナメント",
+                    "대 마상시합",
+                    "Wielki Turniej",
+                    "O Grande Torneio",
+                    "Большой турнир",
+                    "The Grand Tournament",
+                    "冠军的试炼",
+                    "銀白聯賽"
+                ],
+                "m_locId": 2734864
+            },
+            "m_icon": "TGT",
+            "m_sortOrder": 117
+        },
+        {
+            "m_ID": 48,
+            "m_achievementCategoryId": 3,
+            "m_name": {
+                "m_locValues": [
+                    "League of Explorers",
+                    "Die Forscherliga",
+                    "La Liga de Expedicionarios",
+                    "Liga de Expedicionarios",
+                    "La Ligue des explorateurs",
+                    "Lega degli Esploratori",
+                    "リーグ・オブ・エクスプローラー",
+                    "탐험가 연맹",
+                    "Liga Odkrywców",
+                    "Liga dos Exploradores",
+                    "Лига исследователей",
+                    "League of Explorers",
+                    "探险者协会",
+                    "探險者協會"
+                ],
+                "m_locId": 2734865
+            },
+            "m_icon": "LOE",
+            "m_sortOrder": 116
+        },
+        {
+            "m_ID": 34,
+            "m_achievementCategoryId": 3,
+            "m_name": {
+                "m_locValues": [
+                    "Whispers of the Old Gods",
+                    "Das Flüstern der Alten Götter",
+                    "Susurros de los Dioses Antiguos",
+                    "Susurros de los Dioses Antiguos",
+                    "Murmures des Dieux très anciens",
+                    "Sussurri degli Dei Antichi",
+                    "旧神のささやき",
+                    "고대 신의 속삭임",
+                    "Przedwieczni Bogowie",
+                    "Sussurros dos Deuses Antigos",
+                    "Пробуждение древних богов",
+                    "Whispers of the Old Gods",
+                    "上古之神的低语",
+                    "古神碎碎念"
+                ],
+                "m_locId": 2734866
+            },
+            "m_icon": "OG",
+            "m_sortOrder": 115
+        },
+        {
+            "m_ID": 35,
+            "m_achievementCategoryId": 3,
+            "m_name": {
+                "m_locValues": [
+                    "One Night in Karazhan",
+                    "Eine Nacht in Karazhan",
+                    "Una Noche en Karazhan",
+                    "Una noche en Karazhan",
+                    "Une nuit à Karazhan",
+                    "Una notte a Karazhan",
+                    "ワン・ナイト・イン・カラザン",
+                    "한여름 밤의 카라잔",
+                    "Pewnej nocy w Karazhanie",
+                    "Uma Noite em Karazhan",
+                    "Вечеринка в Каражане",
+                    "One Night in Karazhan",
+                    "卡拉赞之夜",
+                    "夜夜卡拉贊"
+                ],
+                "m_locId": 2734867
+            },
+            "m_icon": "KARA",
+            "m_sortOrder": 114
+        },
+        {
+            "m_ID": 36,
+            "m_achievementCategoryId": 3,
+            "m_name": {
+                "m_locValues": [
+                    "Mean Streets of Gadgetzan",
+                    "Die Straßen von Gadgetzan",
+                    "Mafias de Gadgetzan",
+                    "Los Callejones de Gadgetzan",
+                    "Main basse sur Gadgetzan",
+                    "I bassifondi di Meccania",
+                    "仁義なきガジェッツァン",
+                    "비열한 거리의 가젯잔",
+                    "Ciemne zaułki Gadżetonu",
+                    "Gangues de Geringontzan",
+                    "Злачный город Прибамбасск",
+                    "Mean Streets of Gadgetzan",
+                    "龙争虎斗加基森",
+                    "加基森風雲"
+                ],
+                "m_locId": 2734868
+            },
+            "m_icon": "GANGS",
+            "m_sortOrder": 113
+        },
+        {
+            "m_ID": 37,
+            "m_achievementCategoryId": 3,
+            "m_name": {
+                "m_locValues": [
+                    "Journey to Un'Goro",
+                    "Reise nach Un’Goro",
+                    "Viaje a Un'Goro",
+                    "Viaje a Un'Goro",
+                    "Voyage au centre d’Un’Goro",
+                    "Viaggio a Un'Goro",
+                    "大魔境ウンゴロ",
+                    "운고로를 향한 여정",
+                    "Podróż do wnętrza Un'Goro",
+                    "Jornada a Un'Goro",
+                    "Экспедиция в Ун'Горо",
+                    "Journey to Un'Goro",
+                    "勇闯安戈洛",
+                    "安戈洛歷險記"
+                ],
+                "m_locId": 2734869
+            },
+            "m_icon": "UNG",
+            "m_sortOrder": 112
+        },
+        {
+            "m_ID": 38,
+            "m_achievementCategoryId": 3,
+            "m_name": {
+                "m_locValues": [
+                    "Knights of the Frozen Throne",
+                    "Ritter des Frostthrons",
+                    "Caballeros del Trono Helado",
+                    "Caballeros del Trono Helado",
+                    "Chevaliers du Trône de glace",
+                    "Cavalieri del Trono di Ghiaccio",
+                    "凍てつく玉座の騎士団",
+                    "얼어붙은 왕좌의 기사들",
+                    "Rycerze Mroźnego Tronu",
+                    "Cavaleiros do Trono de Gelo",
+                    "Рыцари Ледяного Трона",
+                    "Knights of the Frozen Throne",
+                    "冰封王座的骑士",
+                    "冰封王座"
+                ],
+                "m_locId": 2734870
+            },
+            "m_icon": "ICC",
+            "m_sortOrder": 111
+        },
+        {
+            "m_ID": 39,
+            "m_achievementCategoryId": 3,
+            "m_name": {
+                "m_locValues": [
+                    "Kobolds and Catacombs",
+                    "Kobolde & Katakomben",
+                    "Kóbolds & Catacumbas",
+                    "Kóbolds & Catacumbas",
+                    "Kobolds et Catacombes",
+                    "Coboldi & Catacombe",
+                    "コボルトと秘宝の迷宮",
+                    "코볼트와 지하 미궁",
+                    "Koboldy i katakumby",
+                    "Kobolds & Catacumbas",
+                    "Кобольды и катакомбы",
+                    "Kobolds and Catacombs",
+                    "狗头人与地下世界",
+                    "狗頭人與地下城"
+                ],
+                "m_locId": 2734871
+            },
+            "m_icon": "LOOT",
+            "m_sortOrder": 110
+        },
+        {
+            "m_ID": 40,
+            "m_achievementCategoryId": 3,
+            "m_name": {
+                "m_locValues": [
+                    "The Witchwood",
+                    "Der Hexenwald",
+                    "El Bosque Embrujado",
+                    "El Bosque Embrujado",
+                    "Le Bois Maudit",
+                    "Boscotetro",
+                    "妖の森ウィッチウッド",
+                    "마녀숲",
+                    "Wiedźmi Las",
+                    "Bosque das Bruxas",
+                    "Ведьмин лес",
+                    "The Witchwood",
+                    "女巫森林",
+                    "黑巫森林"
+                ],
+                "m_locId": 2734872
+            },
+            "m_icon": "GIL",
+            "m_sortOrder": 109
+        },
+        {
+            "m_ID": 41,
+            "m_achievementCategoryId": 3,
+            "m_name": {
+                "m_locValues": [
+                    "The Boomsday Project",
+                    "Dr. Bumms Geheimlabor",
+                    "El Proyecto Armagebum",
+                    "El Proyecto K-Bum",
+                    "Projet Armageboum",
+                    "Operazione Apocalisse",
+                    "博士のメカメカ大作戦",
+                    "박사 붐의 폭심만만 프로젝트",
+                    "Projekt Hukatomba",
+                    "Projeto Cabum",
+                    "Проект Бумного дня",
+                    "The Boomsday Project",
+                    "砰砰计划",
+                    "爆爆計畫"
+                ],
+                "m_locId": 2734873
+            },
+            "m_icon": "BOT",
+            "m_sortOrder": 108
+        },
+        {
+            "m_ID": 42,
+            "m_achievementCategoryId": 3,
+            "m_name": {
+                "m_locValues": [
+                    "Rastakhan's Rumble",
+                    "Rastakhans Rambazamba",
+                    "La Arena de Rastakhan",
+                    "El Reto de Rastakhan",
+                    "Les Jeux de Rastakhan",
+                    "La sfida di Rastakhan",
+                    "天下一ヴドゥ祭",
+                    "라스타칸의 대난투",
+                    "Rozróba Rastakana",
+                    "Ringue do Rastakhan",
+                    "Растахановы игрища",
+                    "Rastakhan's Rumble",
+                    "拉斯塔哈的大乱斗",
+                    "拉斯塔哈大混戰"
+                ],
+                "m_locId": 2734874
+            },
+            "m_icon": "TRL",
+            "m_sortOrder": 107
+        },
+        {
+            "m_ID": 43,
+            "m_achievementCategoryId": 3,
+            "m_name": {
+                "m_locValues": [
+                    "Rise of Shadows",
+                    "Verschwörung der Schatten",
+                    "El Auge de las Sombras",
+                    "Ascenso de las Sombras",
+                    "L’Éveil des ombres",
+                    "L'ascesa delle ombre",
+                    "爆誕！悪党同盟",
+                    "어둠의 반격",
+                    "Wyjście z cienia",
+                    "Ascensão das Sombras",
+                    "Возмездие теней",
+                    "Rise of Shadows",
+                    "暗影崛起",
+                    "反派大進擊"
+                ],
+                "m_locId": 2734875
+            },
+            "m_icon": "DAL",
+            "m_sortOrder": 106
+        },
+        {
+            "m_ID": 44,
+            "m_achievementCategoryId": 3,
+            "m_name": {
+                "m_locValues": [
+                    "Saviors of Uldum",
+                    "Retter von Uldum",
+                    "Salvadores de Uldum",
+                    "Defensores de Uldum",
+                    "Les Aventuriers d’Uldum",
+                    "Salvatori di Uldum",
+                    "突撃！探検同盟",
+                    "울둠의 구원자",
+                    "Wybawcy Uldum",
+                    "Salvadores de Uldum",
+                    "Спасители Ульдума",
+                    "Saviors of Uldum",
+                    "奥丹姆奇兵",
+                    "奧丹姆守護者"
+                ],
+                "m_locId": 2734876
+            },
+            "m_icon": "ULD",
+            "m_sortOrder": 105
+        },
+        {
+            "m_ID": 45,
+            "m_achievementCategoryId": 3,
+            "m_name": {
+                "m_locValues": [
+                    "Descent of Dragons",
+                    "Erbe der Drachen",
+                    "El Descenso de los Dragones",
+                    "Descenso de los Dragones",
+                    "L’Envol des Dragons",
+                    "La Discesa dei Draghi",
+                    "激闘！ドラゴン大決戦",
+                    "용의 강림",
+                    "Wejście smoków",
+                    "Despontar dos Dragões",
+                    "Натиск драконов",
+                    "Descent of Dragons",
+                    "巨龙降临",
+                    "降臨！遠古巨龍"
+                ],
+                "m_locId": 2734877
+            },
+            "m_icon": "DRG",
+            "m_sortOrder": 104
+        },
+        {
+            "m_ID": 46,
+            "m_achievementCategoryId": 3,
+            "m_name": {
+                "m_locValues": [
+                    "Galakrond's Awakening",
+                    "Galakronds Erwachen",
+                    "El Despertar de Galakrond",
+                    "El despertar de Galakrond",
+                    "Le Réveil de Galakrond",
+                    "Il Risveglio di Galakrond",
+                    "ガラクロンドの目覚め",
+                    "갈라크론드의 부활",
+                    "Przebudzenie Galakronda",
+                    "Despertar de Galakrond",
+                    "Пробуждение Галакронда",
+                    "Galakrond's Awakening",
+                    "迦拉克隆的觉醒",
+                    "葛拉克朗的覺醒"
+                ],
+                "m_locId": 2734878
+            },
+            "m_icon": "GALAK",
+            "m_sortOrder": 103
+        },
+        {
+            "m_ID": 60,
+            "m_achievementCategoryId": 3,
+            "m_name": {
+                "m_locValues": [
+                    "Forged in the Barrens",
+                    "Geschmiedet im Brachland",
+                    "Forjados en los Baldíos",
+                    "Forjados en Los Baldíos",
+                    "Forgés dans les Tarides",
+                    "Forgiati nelle Savane",
+                    "荒ぶる大地の強者たち",
+                    "불모의 땅",
+                    "Zahartowani przez Pustkowia",
+                    "Forjado nos Sertões",
+                    "Закаленные Степями",
+                    "Forged in the Barrens",
+                    "贫瘠之地的锤炼",
+                    "貧瘠之地"
+                ],
+                "m_locId": 2755156
+            },
+            "m_icon": "BAR",
+            "m_sortOrder": 99
+        },
+        {
+            "m_ID": 150,
+            "m_achievementCategoryId": 3,
+            "m_name": {
+                "m_locValues": [
+                    "United in Stormwind",
+                    "Vereint in Sturmwind",
+                    "Unidos en Ventormenta",
+                    "Unidos en Ventormenta",
+                    "Unis à Hurlevent",
+                    "Uniti a Roccavento",
+                    "風集うストームウィンド",
+                    "스톰윈드",
+                    "Zjednoczeni w Wichrogrodzie",
+                    "Juntos em Ventobravo",
+                    "Сплоченные Штормградом",
+                    "United in Stormwind",
+                    "暴风城下的集结",
+                    "暴風城"
+                ],
+                "m_locId": 2763246
+            },
+            "m_icon": "SW",
+            "m_sortOrder": 98
+        },
+        {
+            "m_ID": 158,
+            "m_achievementCategoryId": 3,
+            "m_name": {
+                "m_locValues": [
+                    "Fractured in Alterac Valley",
+                    "Gespalten im Alteractal",
+                    "Divididos en el Valle de Alterac",
+                    "Divididos en el Valle de Alterac",
+                    "Divisés en Alterac",
+                    "Divisi nella Valle d'Alterac",
+                    "烈戦のアルタラック",
+                    "알터랙 계곡",
+                    "Rozbici w Dolinie Alterak",
+                    "Divididos no Vale Alterac",
+                    "Разделенные Альтераком",
+                    "Fractured in Alterac Valley",
+                    "奥特兰克的决裂",
+                    "決戰奧山"
+                ],
+                "m_locId": 2815237
+            },
+            "m_icon": "AV",
+            "m_sortOrder": 97
+        },
+        {
+            "m_ID": 161,
+            "m_achievementCategoryId": 3,
+            "m_name": {
+                "m_locValues": [
+                    "Voyage to the Sunken City",
+                    "Reise in die Versunkene Stadt",
+                    "Viaje a la Ciudad Sumergida",
+                    "Viaje a la Ciudad Sumergida",
+                    "Au cœur de la cité engloutie",
+                    "Rotta per la Città Sommersa",
+                    "深淵に眠る海底都市",
+                    "가라앉은 도시로의 항해",
+                    "Wyprawa do Zatopionego Miasta",
+                    "Viagem à Cidade Submersa",
+                    "Путешествие в Затонувший город",
+                    "Voyage to the Sunken City",
+                    "探寻沉没之城",
+                    "海底歷險記"
+                ],
+                "m_locId": 2815661
+            },
+            "m_icon": "TSC",
+            "m_sortOrder": 96
+        },
+        {
+            "m_ID": 171,
+            "m_achievementCategoryId": 3,
+            "m_name": {
+                "m_locValues": [
+                    "Murder at Castle Nathria",
+                    "Mord auf Schloss Nathria",
+                    "Asesinato en el Castillo de Nathria",
+                    "Asesinato en el Castillo Nathria",
+                    "Meurtre au château Nathria",
+                    "Assassinio al Castello di Nathria",
+                    "ナスリア城殺人事件",
+                    "나스리아 성채 살인 사건",
+                    "Morderstwo w twierdzy Nathria",
+                    "Assassinato no Castelo de Nathria",
+                    "Убийство в замке Нафрия",
+                    "Murder at Castle Nathria",
+                    "纳斯利亚堡的悬案",
+                    "納撒亞古堡懸案"
+                ],
+                "m_locId": 2850105
+            },
+            "m_icon": "REV",
+            "m_sortOrder": 95
+        },
+        {
+            "m_ID": 170,
+            "m_achievementCategoryId": 3,
+            "m_name": {
+                "m_locValues": [
+                    "March of the Lich King",
+                    "Marsch des Lichkönigs",
+                    "Marcha del Rey Exánime",
+                    "El Ascenso del Rey Exánime",
+                    "La marche du roi-liche",
+                    "L'Avanzata del Re dei Lich",
+                    "リッチキングの凱旋",
+                    "리치 왕의 진군",
+                    "Pochód Króla Lisza",
+                    "Ascensão do Lich Rei",
+                    "Марш Короля-лича",
+                    "March of the Lich King",
+                    "巫妖王的进军",
+                    "進擊吧！巫妖王"
+                ],
+                "m_locId": 2849287
+            },
+            "m_icon": "RLK",
+            "m_sortOrder": 94
+        },
+        {
+            "m_ID": 173,
+            "m_achievementCategoryId": 3,
+            "m_name": {
+                "m_locValues": [
+                    "Festival of Legends",
+                    "Festival der Legenden",
+                    "El Festival Legendario",
+                    "Festival de Leyendas",
+                    "La fête des légendes",
+                    "Festival delle Leggende",
+                    "集え！レジェンド・フェス",
+                    "전설노래자랑",
+                    "Festiwal Legend",
+                    "Festival das Lendas",
+                    "Фестиваль легенд",
+                    "Festival of Legends",
+                    "传奇音乐节",
+                    "傳說音樂祭"
+                ],
+                "m_locId": 2858539
+            },
+            "m_icon": "ETC",
+            "m_sortOrder": 93
+        },
+        {
+            "m_ID": 175,
+            "m_achievementCategoryId": 3,
+            "m_name": {
+                "m_locValues": [
+                    "TITANS",
+                    "TITANEN",
+                    "LOS TITANES",
+                    "TITANES",
+                    "TITANS",
+                    "TITANI",
+                    "タイタンの目醒め",
+                    "티탄",
+                    "TYTANI",
+                    "TITÃS",
+                    "ТИТАНЫ",
+                    "TITANS",
+                    "泰坦诸神",
+                    "泰坦創世紀"
+                ],
+                "m_locId": 2868756
+            },
+            "m_icon": "TTN",
+            "m_sortOrder": 92
+        },
+        {
+            "m_ID": 184,
+            "m_achievementCategoryId": 3,
+            "m_name": {
+                "m_locValues": [
+                    "Showdown in the Badlands",
+                    "Showdown im Ödland",
+                    "Duelo en las Tierras Inhóspitas",
+                    "Enfrentamiento en las Tierras Inhóspitas",
+                    "Rixe en terres Ingrates",
+                    "Resa dei Conti nelle Maleterre",
+                    "バッドランドの決斗",
+                    "황야의 땅 결투",
+                    "Finałowe starcie na Bezludziu",
+                    "Confronto Final nos Ermos",
+                    "Битва в Бесплодных землях",
+                    "Showdown in the Badlands",
+                    "决战荒芜之地",
+                    "決戰荒蕪之地"
+                ],
+                "m_locId": 2876579
+            },
+            "m_icon": "WW",
+            "m_sortOrder": 91
+        },
+        {
+            "m_ID": 216,
+            "m_achievementCategoryId": 3,
+            "m_name": {
+                "m_locValues": [
+                    "Whizbang's Workshop",
+                    "Wurbelfitz' Werkstatt",
+                    "El Taller de Mirífico",
+                    "Taller de Fizbang",
+                    "L’Atelier de Mystifix",
+                    "Il Laboratorio di Frizzabombe",
+                    "ウィズバンのワクワクワークショップ",
+                    "위즈뱅의 장난감 공방",
+                    "Majsternia Świstomiga",
+                    "Oficina do Rojão",
+                    "Мастерская Чудастера",
+                    "Whizbang's Workshop",
+                    "威兹班的工坊",
+                    "威茲邦的工作坊"
+                ],
+                "m_locId": 2884755
+            },
+            "m_icon": "TOY",
+            "m_sortOrder": 0
+        },
+        {
+            "m_ID": 23,
+            "m_achievementCategoryId": 4,
+            "m_name": {
+                "m_locValues": [
+                    "Ashes of Outland",
+                    "Ruinen der Scherbenwelt",
+                    "Cenizas de Terrallende",
+                    "Cenizas de Terrallende",
+                    "Les Cendres de l’Outreterre",
+                    "Ceneri delle Terre Esterne",
+                    "灰に舞う降魔の狩人",
+                    "황폐한 아웃랜드",
+                    "Popioły Rubieży",
+                    "Cinzas de Terralém",
+                    "Руины Запределья",
+                    "Ashes of Outland",
+                    "外域的灰烬",
+                    "外域之燼"
+                ],
+                "m_locId": 2733272
+            },
+            "m_icon": "BT",
+            "m_sortOrder": 13
+        },
+        {
+            "m_ID": 24,
+            "m_achievementCategoryId": 4,
+            "m_name": {
+                "m_locValues": [
+                    "Books",
+                    "Bücher",
+                    "Libros",
+                    "Libros",
+                    "Livres",
+                    "Libri",
+                    "書",
+                    "이야기",
+                    "Księgi",
+                    "Livros",
+                    "Книги",
+                    "Book of Heroes",
+                    "故事",
+                    "書籍"
+                ],
+                "m_locId": 2733273
+            },
+            "m_icon": "BOH",
+            "m_sortOrder": 12
+        },
+        {
+            "m_ID": 13,
+            "m_achievementCategoryId": 6,
+            "m_name": {
+                "m_locValues": [
+                    "Battlegrounds",
+                    "Schlachtfeld",
+                    "Campos de batalla",
+                    "Campos de batalla",
+                    "Champs de bataille",
+                    "Battaglia",
+                    "バトルグラウンド",
+                    "전장",
+                    "Ustawka",
+                    "Campos de Batalha",
+                    "Поля сражений",
+                    "Battlegrounds",
+                    "酒馆战棋",
+                    "英雄戰場"
+                ],
+                "m_locId": 2730768
+            },
+            "m_icon": "BG",
+            "m_sortOrder": 2
+        },
+        {
+            "m_ID": 14,
+            "m_achievementCategoryId": 6,
+            "m_name": {
+                "m_locValues": [
+                    "Duels",
+                    "Duelle",
+                    "Duelos",
+                    "Duelos",
+                    "Duels",
+                    "Duelli",
+                    "デュエル",
+                    "결투",
+                    "Starcia",
+                    "Duelos",
+                    "Дуэли",
+                    "ดวลเดือด",
+                    "对决模式",
+                    "決鬥擂台"
+                ],
+                "m_locId": 2730769
+            },
+            "m_icon": "DUELS",
+            "m_sortOrder": 5
+        },
+        {
+            "m_ID": 15,
+            "m_achievementCategoryId": 6,
+            "m_name": {
+                "m_locValues": [
+                    "Arena",
+                    "Arena",
+                    "Arena",
+                    "Arena",
+                    "Arène",
+                    "Arena",
+                    "闘技場",
+                    "투기장",
+                    "Arena",
+                    "Arena",
+                    "Арена",
+                    "ลานประลอง",
+                    "竞技模式",
+                    "競技場"
+                ],
+                "m_locId": 2730770
+            },
+            "m_icon": "ARENA",
+            "m_sortOrder": 3
+        },
+        {
+            "m_ID": 16,
+            "m_achievementCategoryId": 6,
+            "m_name": {
+                "m_locValues": [
+                    "Tavern Brawl",
+                    "Kartenchaos",
+                    "Pelea de taberna",
+                    "Gresca de la taberna",
+                    "Bras de fer",
+                    "Rissa",
+                    "酒場の喧嘩",
+                    "선술집 난투",
+                    "Karczemna bójka",
+                    "Contenda de Taverna",
+                    "Потасовка",
+                    "ท้าประลอง",
+                    "乱斗模式",
+                    "旅店大亂鬥"
+                ],
+                "m_locId": 2730771
+            },
+            "m_icon": "TB",
+            "m_sortOrder": 4
+        },
+        {
+            "m_ID": 17,
+            "m_achievementCategoryId": 6,
+            "m_name": {
+                "m_locValues": [
+                    "Ranked",
+                    "Gewertet",
+                    "Con rango",
+                    "Clasificado",
+                    "Classé",
+                    "Classificata",
+                    "ランク戦",
+                    "등급전",
+                    "Ranking",
+                    "Ranqueado",
+                    "Рейтинг",
+                    "จัดอันดับ",
+                    "排名模式",
+                    "排名模式"
+                ],
+                "m_locId": 2730772
+            },
+            "m_icon": "RANKED",
+            "m_sortOrder": 1
+        },
+        {
+            "m_ID": 156,
+            "m_achievementCategoryId": 6,
+            "m_name": {
+                "m_locValues": [
+                    "Mercenaries",
+                    "Söldner",
+                    "Mercenarios",
+                    "Mercenarios",
+                    "Mercenaires",
+                    "Mercenari",
+                    "マーセナリーズ",
+                    "용병단",
+                    "Najemnicy",
+                    "Mercenários",
+                    "Наемники",
+                    "ทหารรับจ้าง",
+                    "佣兵战纪",
+                    "傭兵戰隊"
+                ],
+                "m_locId": 2765850
+            },
+            "m_icon": "LET",
+            "m_sortOrder": 0
+        }
+    ]
+}

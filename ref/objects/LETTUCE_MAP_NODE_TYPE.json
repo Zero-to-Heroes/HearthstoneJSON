@@ -1,0 +1,2604 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -4060659704499567544
+    },
+    "m_Name": "LETTUCE_MAP_NODE_TYPE",
+    "Records": [
+        {
+            "m_ID": 1,
+            "m_noteDesc": "MercenaryFight",
+            "m_usesGameplayScene": 1,
+            "m_bossType": 1,
+            "m_alwaysShowBossPreview": 0,
+            "m_hoverTooltipHeader": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_hoverTooltipBody": {
+                "m_locValues": [
+                    "Grants XP and treasure!",
+                    "Gewährt EP und Schätze!",
+                    "¡Otorga PE y tesoro!",
+                    "¡Otorga EXP y tesoro!",
+                    "Donne des points d’EXP et des trésors !",
+                    "Fornisce PE e tesori!",
+                    "XPと宝物が手に入る！",
+                    "경험치와 보물을 줍니다!",
+                    "Zapewnia PD i skarby!",
+                    "Concede EXP e tesouro!",
+                    "Приносит опыт и сокровище!",
+                    "ให้ XP และสมบัติ!",
+                    "可获得经验值和宝藏！",
+                    "可以獲得經驗值\n和寶藏！"
+                ],
+                "m_locId": 2765983
+            },
+            "m_playButtonText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_scenarioOverrideId": 0,
+            "m_grantMercenaryId": 0,
+            "m_nodeVisualId": "BOSS",
+            "m_visitLogic": 0,
+            "m_repeatable": 0,
+            "m_autoPlay": 0
+        },
+        {
+            "m_ID": 10,
+            "m_noteDesc": "TutorialFinalBoss",
+            "m_usesGameplayScene": 1,
+            "m_bossType": 3,
+            "m_alwaysShowBossPreview": 0,
+            "m_hoverTooltipHeader": {
+                "m_locValues": [
+                    "Final Boss",
+                    "Endboss",
+                    "Jefe final",
+                    "Jefe final",
+                    "Boss final",
+                    "Boss finale",
+                    "最終ボス",
+                    "최종 우두머리",
+                    "Końcowy boss",
+                    "Chefe Final",
+                    "Финальный босс",
+                    "บอสใหญ่",
+                    "最终首领",
+                    "最終首領"
+                ],
+                "m_locId": 2765998
+            },
+            "m_hoverTooltipBody": {
+                "m_locValues": [
+                    "Defeat the final boss to earn epic loot!",
+                    "Besiegt den letzten Boss, um epische Beute zu erhalten!",
+                    "¡Derrota al jefe final para conseguir un botín épico!",
+                    "¡Derrota al jefe final para ganar un botín épico!",
+                    "Battez le boss final pour gagner un butin épique !",
+                    "Sconfiggi il boss finale per ottenere bottini epici!",
+                    "最終ボスを倒して戦利品をいただこう！",
+                    "최종 우두머리를 쓰러뜨리고 특급 전리품을 획득하세요!",
+                    "Pokonaj końcowego bossa, by zdobyć epickie łupy!",
+                    "Derrote o chefe final para receber saque épico!",
+                    "Победите финального босса, чтобы получить эпическую добычу!",
+                    "เอาชนะบอสใหญ่เพื่อ[b]รับรางวัลสุดอลังการ!",
+                    "击败最终首领，赢得史诗战利品！",
+                    "擊敗最終首領可獲得超棒的獎勵！"
+                ],
+                "m_locId": 2765999
+            },
+            "m_playButtonText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_scenarioOverrideId": 3779,
+            "m_grantMercenaryId": 0,
+            "m_nodeVisualId": "FINAL_BOSS",
+            "m_visitLogic": 0,
+            "m_repeatable": 0,
+            "m_autoPlay": 0
+        },
+        {
+            "m_ID": 11,
+            "m_noteDesc": "Tutorial4",
+            "m_usesGameplayScene": 1,
+            "m_bossType": 0,
+            "m_alwaysShowBossPreview": 0,
+            "m_hoverTooltipHeader": {
+                "m_locValues": [
+                    "Regular Fight",
+                    "Normaler Kampf",
+                    "Pelea normal",
+                    "Pelea normal",
+                    "Combat standard",
+                    "Scontro normale",
+                    "通常バトル",
+                    "일반 전투",
+                    "Zwykła potyczka",
+                    "Luta normal",
+                    "Обычный бой",
+                    "การต่อสู้ปกติ",
+                    "常规战斗",
+                    "普通戰鬥"
+                ],
+                "m_locId": 2766000
+            },
+            "m_hoverTooltipBody": {
+                "m_locValues": [
+                    "Grants XP and treasure!",
+                    "Gewährt EP und Schätze!",
+                    "¡Otorga PE y tesoro!",
+                    "¡Otorga EXP y tesoro!",
+                    "Donne des points d’EXP et des trésors !",
+                    "Fornisce PE e tesori!",
+                    "XPと宝物が手に入る！",
+                    "경험치와 보물을 줍니다!",
+                    "Zapewnia PD i skarby!",
+                    "Concede EXP e tesouro!",
+                    "Приносит опыт и сокровище!",
+                    "ให้ XP และสมบัติ!",
+                    "可获得经验值和宝藏！",
+                    "可以獲得經驗值\n和寶藏！"
+                ],
+                "m_locId": 2766001
+            },
+            "m_playButtonText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_scenarioOverrideId": 4067,
+            "m_grantMercenaryId": 0,
+            "m_nodeVisualId": "BOSS",
+            "m_visitLogic": 0,
+            "m_repeatable": 0,
+            "m_autoPlay": 0
+        },
+        {
+            "m_ID": 14,
+            "m_noteDesc": "Hot Potato",
+            "m_usesGameplayScene": 0,
+            "m_bossType": 0,
+            "m_alwaysShowBossPreview": 0,
+            "m_hoverTooltipHeader": {
+                "m_locValues": [
+                    "Hot Potato",
+                    "Heiße Kartoffel",
+                    "Patata caliente",
+                    "Papa caliente",
+                    "Patate chaude",
+                    "Patata bollente",
+                    "厄介モノ",
+                    "뜨거운 감자",
+                    "Gorący kartofel",
+                    "Batata Quente",
+                    "Картошка",
+                    "เผือกร้อน",
+                    "烫手山芋",
+                    "燙手山芋"
+                ],
+                "m_locId": 2766002
+            },
+            "m_hoverTooltipBody": {
+                "m_locValues": [
+                    "Recruit a hot potato to fight alongside you.",
+                    "Rekrutiert eine heiße Kartoffel, die an Eurer Seite kämpft.",
+                    "Recluta a una patata caliente para que luche a tu lado.",
+                    "Recluta una papa caliente para que pelee a tu lado.",
+                    "Recrutez une patate chaude qui se battra à vos côtés.",
+                    "Recluta una patata bollente che combatte al tuo fianco.",
+                    "厄介モノを雇って共に戦ってもらおう。",
+                    "함께 싸울 뜨거운 감자를 고용합니다.",
+                    "Przygarnij Gorącego kartofla, aby pojawił się na polu bitwy.",
+                    "Recrute uma batata quente para lutar ao seu lado.",
+                    "Нанять картошку, которая будет сражаться на вашей стороне.",
+                    "ชักชวนเผือกร้อน[b]มาสู้เคียงข้างคุณ",
+                    "招募一个烫手山芋，和你一起战斗。",
+                    "雇用一個燙手山芋協助你戰鬥。"
+                ],
+                "m_locId": 2766003
+            },
+            "m_playButtonText": {
+                "m_locValues": [
+                    "Pick Up",
+                    "Aufnehmen",
+                    "Recoger",
+                    "Recoger",
+                    "Récupérer",
+                    "Raccogli",
+                    "拾う",
+                    "집기",
+                    "Podnieś",
+                    "Pegar",
+                    "Взять",
+                    "เก็บ",
+                    "拾取",
+                    "撿拾"
+                ],
+                "m_locId": 2758528
+            },
+            "m_scenarioOverrideId": 0,
+            "m_grantMercenaryId": 0,
+            "m_nodeVisualId": "MYSTERY",
+            "m_visitLogic": 0,
+            "m_repeatable": 0,
+            "m_autoPlay": 0
+        },
+        {
+            "m_ID": 18,
+            "m_noteDesc": "Portal",
+            "m_usesGameplayScene": 0,
+            "m_bossType": 0,
+            "m_alwaysShowBossPreview": 0,
+            "m_hoverTooltipHeader": {
+                "m_locValues": [
+                    "Portal",
+                    "Portal",
+                    "Portal",
+                    "Portal",
+                    "Portail",
+                    "Portale",
+                    "ポータル",
+                    "차원문",
+                    "Portal",
+                    "Portal",
+                    "Портал",
+                    "ประตูมิติ",
+                    "传送门",
+                    "傳送門"
+                ],
+                "m_locId": 2766008
+            },
+            "m_hoverTooltipBody": {
+                "m_locValues": [
+                    "Instantly warp to the final boss.",
+                    "Warpt Euch sofort zum Endboss.",
+                    "Te teletransporta hasta el jefe final.",
+                    "Te teletransporta al jefe final al instante.",
+                    "Entrez dans un portail qui vous transporte instantanément au boss final.",
+                    "Ti teletrasporta istantaneamente al boss finale.",
+                    "最終ボスまで瞬間移動できる。",
+                    "최종 우두머리에게 즉시 공간이동합니다.",
+                    "Błyskawiczna teleportacja do końcowego bossa.",
+                    "Teleporte instantâneo para o chefe final.",
+                    "Телепортироваться к финальному боссу.",
+                    "วาร์ปไปหาบอสใหญ่[b]ทันที",
+                    "立即折跃至最终首领。",
+                    "立即傳送至最終首領。"
+                ],
+                "m_locId": 2766009
+            },
+            "m_playButtonText": {
+                "m_locValues": [
+                    "Warp",
+                    "Warpen",
+                    "Teletransporte",
+                    "Teletransportarse",
+                    "Entrer",
+                    "Teletrasporto",
+                    "瞬間移動",
+                    "공간이동",
+                    "Teleportacja",
+                    "Teleportar",
+                    "Телепорт",
+                    "วาร์ป",
+                    "折跃",
+                    "傳送"
+                ],
+                "m_locId": 2763907
+            },
+            "m_scenarioOverrideId": 0,
+            "m_grantMercenaryId": 0,
+            "m_nodeVisualId": "MYSTERY",
+            "m_visitLogic": 3,
+            "m_repeatable": 0,
+            "m_autoPlay": 0
+        },
+        {
+            "m_ID": 19,
+            "m_noteDesc": "Sabotage",
+            "m_usesGameplayScene": 0,
+            "m_bossType": 0,
+            "m_alwaysShowBossPreview": 0,
+            "m_hoverTooltipHeader": {
+                "m_locValues": [
+                    "Sabotage!",
+                    "Sabotage!",
+                    "¡Sabotaje!",
+                    "¡Sabotaje!",
+                    "Sabotage !",
+                    "Sabotaggio!",
+                    "サボタージュ！",
+                    "방해 공작!",
+                    "Sabotaż!",
+                    "Sabotagem!",
+                    "Диверсия!",
+                    "ก่อกวน!",
+                    "暗中破坏",
+                    "破壞！"
+                ],
+                "m_locId": 2766010
+            },
+            "m_hoverTooltipBody": {
+                "m_locValues": [
+                    "Set all fights on the map to a random Role.",
+                    "Allen Kämpfen auf der Karte werden zufällige Rollen zugeteilt.",
+                    "Cambia el rol de todas las peleas en el mapa a uno aleatorio.",
+                    "Asigna un rol aleatorio a todas las peleas de este mapa.",
+                    "Attribuez un rôle aléatoire à tous les combats de la carte.",
+                    "Imposta un ruolo casuale per tutti gli scontri sulla mappa.",
+                    "マップ上の全てのバトルをランダムな兵種にセットする。",
+                    "모든 지도 내 전투를 무작위 역할로 설정합니다.",
+                    "Ustaw losową rolę dla wszystkich walk na mapie.",
+                    "Atribui uma função aleatória a todas as lutas do mapa.",
+                    "Присвоить случайные роли всем боям на карте.",
+                    "เปลี่ยนการต่อสู้ทั้งหมด[b]บนแผนที่เป็นสายใด[b]สายหนึ่งแบบสุ่ม",
+                    "将地图上的所有战斗设置为随机身份。",
+                    "將地圖的所有戰鬥設定為隨機定位類型。"
+                ],
+                "m_locId": 2766011
+            },
+            "m_playButtonText": {
+                "m_locValues": [
+                    "Visit",
+                    "Besuchen",
+                    "Visitar",
+                    "Visitar",
+                    "Rendre visite",
+                    "Visita",
+                    "訪問",
+                    "방문",
+                    "Odwiedź",
+                    "Visitar",
+                    "Перейти",
+                    "แวะไป",
+                    "前往",
+                    "前往"
+                ],
+                "m_locId": 2763908
+            },
+            "m_scenarioOverrideId": 0,
+            "m_grantMercenaryId": 0,
+            "m_nodeVisualId": "MYSTERY",
+            "m_visitLogic": 4,
+            "m_repeatable": 0,
+            "m_autoPlay": 0
+        },
+        {
+            "m_ID": 2,
+            "m_noteDesc": "EliteFight",
+            "m_usesGameplayScene": 1,
+            "m_bossType": 2,
+            "m_alwaysShowBossPreview": 0,
+            "m_hoverTooltipHeader": {
+                "m_locValues": [
+                    "Elite Battle",
+                    "Elitekampf",
+                    "Batalla de élite",
+                    "Batalla de élite",
+                    "Combat élite",
+                    "Battaglia d'Élite",
+                    "エリートバトル",
+                    "정예 전투",
+                    "Elitarny wróg",
+                    "Batalha de Elite",
+                    "Элитное сражение",
+                    "การต่อสู้ระดับอีลีต",
+                    "精英战斗",
+                    "精英戰鬥"
+                ],
+                "m_locId": 2765984
+            },
+            "m_hoverTooltipBody": {
+                "m_locValues": [
+                    "A harder fight, granting more XP and better treasure!",
+                    "Ein härterer Kampf, der mehr EP und bessere Schätze gewährt!",
+                    "¡Una pelea más difícil que otorga más PE y un tesoro mejor!",
+                    "¡Una pelea más difícil que otorga más EXP y un mejor tesoro!",
+                    "Un combat plus difficile, donnant plus de points d’EXP et de meilleurs trésors !",
+                    "Uno scontro arduo, che fornisce più PE e tesori migliori!",
+                    "強敵と戦い、より多くのXPと上等な宝物を手に入れよう！",
+                    "전투는 더 어려워지지만, 더 많은 경험치와 더 좋은 보물을 줍니다!",
+                    "Trudniejsza walka, za którą można otrzymać więcej PD i lepsze skarby!",
+                    "Luta mais difícil, que concede mais EXP e tesouro melhor!",
+                    "Трудное сражение, за которое можно получить больше опыта и ценное сокровище!",
+                    "การต่อสู้ที่ยากขึ้น[b]ให้_XP_มากขึ้น[b]และสมบัติดีขึ้น!",
+                    "更为艰难的战斗，可以获得更多经验值和更好的宝藏！",
+                    "難度較高的戰鬥，可獲得更多經驗值和寶藏！"
+                ],
+                "m_locId": 2765985
+            },
+            "m_playButtonText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_scenarioOverrideId": 0,
+            "m_grantMercenaryId": 0,
+            "m_nodeVisualId": "ELITE_BOSS",
+            "m_visitLogic": 0,
+            "m_repeatable": 0,
+            "m_autoPlay": 0
+        },
+        {
+            "m_ID": 20,
+            "m_noteDesc": "Village Campfire",
+            "m_usesGameplayScene": 0,
+            "m_bossType": 0,
+            "m_alwaysShowBossPreview": 0,
+            "m_hoverTooltipHeader": {
+                "m_locValues": [
+                    "Campfire",
+                    "Lagerfeuer",
+                    "Hoguera",
+                    "Fogata",
+                    "Feu de camp",
+                    "Falò",
+                    "キャンプファイヤー",
+                    "모닥불",
+                    "Obozowisko",
+                    "Fogueira",
+                    "Костер",
+                    "แคมป์ไฟ",
+                    "营火",
+                    "營火"
+                ],
+                "m_locId": 2766012
+            },
+            "m_hoverTooltipBody": {
+                "m_locValues": [
+                    "Review your task list.",
+                    "Werft einen Blick auf Eure Aufgaben.",
+                    "Consulta tu lista de tareas.",
+                    "Revisa tu lista de tareas.",
+                    "Consultez votre liste de tâches.",
+                    "Controlla il tuo elenco degli incarichi.",
+                    "自分の仕事リストを確認する。",
+                    "내 임무를 검토합니다.",
+                    "Zobacz listę zadań.",
+                    "Confira sua lista de tarefas.",
+                    "Просмотреть список задач.",
+                    "ดูรายการภารกิจของคุณ",
+                    "查看你的任务清单。",
+                    "查看你的任務列表。"
+                ],
+                "m_locId": 2766013
+            },
+            "m_playButtonText": {
+                "m_locValues": [
+                    "Visit",
+                    "Besuchen",
+                    "Visitar",
+                    "Visitar",
+                    "Rendre visite",
+                    "Visita",
+                    "訪問",
+                    "방문",
+                    "Odwiedź",
+                    "Visitar",
+                    "Перейти",
+                    "แวะไป",
+                    "前往",
+                    "前往"
+                ],
+                "m_locId": 2765028
+            },
+            "m_scenarioOverrideId": 0,
+            "m_grantMercenaryId": 0,
+            "m_nodeVisualId": "CAMPFIRE",
+            "m_visitLogic": 5,
+            "m_repeatable": 1,
+            "m_autoPlay": 1
+        },
+        {
+            "m_ID": 22,
+            "m_noteDesc": "EcologyFight",
+            "m_usesGameplayScene": 1,
+            "m_bossType": 4,
+            "m_alwaysShowBossPreview": 0,
+            "m_hoverTooltipHeader": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_hoverTooltipBody": {
+                "m_locValues": [
+                    "Grants XP and treasure!",
+                    "Gewährt EP und Schätze!",
+                    "¡Otorga PE y tesoro!",
+                    "¡Otorga EXP y tesoro!",
+                    "Donne des points d’EXP et des trésors !",
+                    "Fornisce PE e tesori!",
+                    "XPと宝物が手に入る！",
+                    "경험치와 보물을 줍니다!",
+                    "Zapewnia PD i skarby!",
+                    "Concede EXP e tesouro!",
+                    "Приносит опыт и сокровище!",
+                    "ให้ XP และสมบัติ!",
+                    "可获得经验值和宝藏！",
+                    "可以獲得經驗值\n和寶藏！"
+                ],
+                "m_locId": 2766015
+            },
+            "m_playButtonText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_scenarioOverrideId": 0,
+            "m_grantMercenaryId": 0,
+            "m_nodeVisualId": "BOSS",
+            "m_visitLogic": 0,
+            "m_repeatable": 0,
+            "m_autoPlay": 0
+        },
+        {
+            "m_ID": 26,
+            "m_noteDesc": "Boon: Protectors",
+            "m_usesGameplayScene": 0,
+            "m_bossType": 0,
+            "m_alwaysShowBossPreview": 0,
+            "m_hoverTooltipHeader": {
+                "m_locValues": [
+                    "Boon: Protectors",
+                    "Segen: Beschützer",
+                    "Bendición: Protectores",
+                    "Bendición: Protectores",
+                    "Faveur : Protecteurs",
+                    "Dono: Protettori",
+                    "恩寵: 護衛",
+                    "축복: 수호자",
+                    "Premia: Obrońcy",
+                    "Dádiva: Protetores",
+                    "Бонус: защитники",
+                    "ตัวช่วย: นักคุ้มครอง",
+                    "赐福：护卫",
+                    "恩澤：保護者"
+                ],
+                "m_locId": 2807348
+            },
+            "m_hoverTooltipBody": {
+                "m_locValues": [
+                    "ALL Protectors on both teams get a random bonus.",
+                    "ALLE Beschützer beider Teams erhalten einen zufälligen Bonus.",
+                    "TODOS los protectores de ambos equipos reciben una bonificación aleatoria.",
+                    "TODOS los Protectores de los dos equipos obtienen una bonificación aleatoria.",
+                    "TOUS les protecteurs des deux équipes obtiennent un bonus aléatoire.",
+                    "TUTTI i Protettori di entrambe le squadre ottengono un bonus casuale.",
+                    "両チームの全ての護衛傭兵はランダムボーナスを得る。",
+                    "양 팀의 모든 수호자는 무작위 추가 효과를 얻습니다.",
+                    "WSZYSCY Obrońcy z obu drużyn otrzymują losową premię.",
+                    "TODOS os Protetores das duas equipes recebem um bônus aleatório.",
+                    "Все защитники в обеих командах получают случайный бонус.",
+                    "นักคุ้มครองทั้งหมด[b]ของทั้งสองทีมได้รับ[b]โบนัสแบบสุ่ม",
+                    "双方队伍中的所有护卫都会随机获得一种特效。",
+                    "雙方隊伍的所有保護者獲得一個隨機加成。"
+                ],
+                "m_locId": 2807349
+            },
+            "m_playButtonText": {
+                "m_locValues": [
+                    "Reveal",
+                    "Enthüllen",
+                    "Revelar",
+                    "Revelar",
+                    "Révéler",
+                    "Rivela",
+                    "開示",
+                    "드러내기",
+                    "Odkryj",
+                    "Revelar",
+                    "Показать",
+                    "เปิด",
+                    "揭示",
+                    "揭露"
+                ],
+                "m_locId": 2807350
+            },
+            "m_scenarioOverrideId": 0,
+            "m_grantMercenaryId": 0,
+            "m_nodeVisualId": "OPPORTUNITY_PROTECTOR",
+            "m_visitLogic": 0,
+            "m_repeatable": 0,
+            "m_autoPlay": 0
+        },
+        {
+            "m_ID": 3,
+            "m_noteDesc": "FinalBoss",
+            "m_usesGameplayScene": 1,
+            "m_bossType": 3,
+            "m_alwaysShowBossPreview": 1,
+            "m_hoverTooltipHeader": {
+                "m_locValues": [
+                    "Final Boss",
+                    "Endboss",
+                    "Jefe final",
+                    "Jefe final",
+                    "Boss final",
+                    "Boss finale",
+                    "最終ボス",
+                    "최종 우두머리",
+                    "Końcowy boss",
+                    "Chefe Final",
+                    "Финальный босс",
+                    "บอสใหญ่",
+                    "最终首领",
+                    "最終首領"
+                ],
+                "m_locId": 2765986
+            },
+            "m_hoverTooltipBody": {
+                "m_locValues": [
+                    "Defeat the final boss to win epic loot!",
+                    "Besiegt den letzten Boss, um epische Beute zu erhalten!",
+                    "¡Derrota al jefe final para ganar un botín épico!",
+                    "¡Derrota al jefe final para ganar un botín épico!",
+                    "Battez le boss final pour remporter un butin épique !",
+                    "Sconfiggi il boss finale per ottenere bottini epici!",
+                    "最終ボスを倒して戦利品をいただこう！",
+                    "최종 우두머리를 쓰러뜨리고 특급 전리품을 챙기세요!",
+                    "Pokonaj końcowego bossa, by zdobyć epickie łupy!",
+                    "Derrote o chefe final para ganhar saque épico!",
+                    "Победите финального босса, чтобы получить эпическую добычу!",
+                    "เอาชนะบอสใหญ่เพื่อ[b]รับรางวัลสุดอลังการ!",
+                    "击败最终首领，赢得史诗战利品！",
+                    "擊敗最終首領可獲得超棒的獎勵！"
+                ],
+                "m_locId": 2765987
+            },
+            "m_playButtonText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_scenarioOverrideId": 0,
+            "m_grantMercenaryId": 0,
+            "m_nodeVisualId": "FINAL_BOSS",
+            "m_visitLogic": 0,
+            "m_repeatable": 0,
+            "m_autoPlay": 0
+        },
+        {
+            "m_ID": 30,
+            "m_noteDesc": "Boon: Fighters",
+            "m_usesGameplayScene": 0,
+            "m_bossType": 0,
+            "m_alwaysShowBossPreview": 0,
+            "m_hoverTooltipHeader": {
+                "m_locValues": [
+                    "Boon: Fighters",
+                    "Segen: Kämpfer",
+                    "Bendición: Luchadores",
+                    "Bendición: Combatientes",
+                    "Faveur : Combattants",
+                    "Dono: Combattenti",
+                    "恩寵: 戦士",
+                    "축복: 투사",
+                    "Premia: Zbrojni",
+                    "Dádiva: Lutadores",
+                    "Бонус: бойцы",
+                    "ตัวช่วย: นักสู้",
+                    "赐福：斗士",
+                    "恩澤：戰鬥者"
+                ],
+                "m_locId": 2807360
+            },
+            "m_hoverTooltipBody": {
+                "m_locValues": [
+                    "ALL Fighters on both teams get a random bonus.",
+                    "ALLE Kämpfer beider Teams erhalten einen zufälligen Bonus.",
+                    "TODOS los luchadores de ambos equipos reciben una bonificación aleatoria.",
+                    "TODOS los Combatientes de los dos equipos obtienen una bonificación aleatoria.",
+                    "TOUS les combattants des deux équipes obtiennent un bonus aléatoire.",
+                    "TUTTI i Combattenti di entrambe le squadre ottengono un bonus casuale.",
+                    "両チームの全ての戦士傭兵はランダムボーナスを得る。",
+                    "양 팀의 모든 투사는 무작위 추가 효과를 얻습니다.",
+                    "WSZYSCY Zbrojni z obu drużyn otrzymują losową premię.",
+                    "TODOS os Lutadores das duas equipes recebem um bônus aleatório.",
+                    "Все бойцы в обеих командах получают случайный бонус.",
+                    "นักสู้ทั้งหมดของ[b]ทั้งสองทีมได้รับ[b]โบนัสแบบสุ่ม",
+                    "双方队伍中的所有斗士都会随机获得一种特效。",
+                    "雙方隊伍的所有戰鬥者獲得一個隨機加成。"
+                ],
+                "m_locId": 2807361
+            },
+            "m_playButtonText": {
+                "m_locValues": [
+                    "Reveal",
+                    "Enthüllen",
+                    "Revelar",
+                    "Revelar",
+                    "Révéler",
+                    "Rivela",
+                    "開示",
+                    "드러내기",
+                    "Odkryj",
+                    "Revelar",
+                    "Показать",
+                    "เปิด",
+                    "揭示",
+                    "揭露"
+                ],
+                "m_locId": 2807362
+            },
+            "m_scenarioOverrideId": 0,
+            "m_grantMercenaryId": 0,
+            "m_nodeVisualId": "OPPORTUNITY_FIGHTER",
+            "m_visitLogic": 0,
+            "m_repeatable": 0,
+            "m_autoPlay": 0
+        },
+        {
+            "m_ID": 34,
+            "m_noteDesc": "Boon: Casters",
+            "m_usesGameplayScene": 0,
+            "m_bossType": 0,
+            "m_alwaysShowBossPreview": 0,
+            "m_hoverTooltipHeader": {
+                "m_locValues": [
+                    "Boon: Casters",
+                    "Segen: Zauberwirker",
+                    "Bendición: Taumaturgos",
+                    "Bendición: Taumaturgos",
+                    "Faveur : lanceurs de sorts",
+                    "Dono: Incantatori",
+                    "恩寵: 術師",
+                    "축복: 주문술사",
+                    "Premia: Czarownicy",
+                    "Dádiva: Lançadores",
+                    "Бонус: заклинатели",
+                    "ตัวช่วย: นักเวท",
+                    "赐福：施法者",
+                    "恩澤：施法者"
+                ],
+                "m_locId": 2807372
+            },
+            "m_hoverTooltipBody": {
+                "m_locValues": [
+                    "ALL Casters on both teams get a random bonus.",
+                    "ALLE Zauberwirker beider Teams erhalten einen zufälligen Bonus.",
+                    "TODOS los taumaturgos de ambos equipos reciben una bonificación aleatoria.",
+                    "TODOS los Taumaturgos de los dos equipos obtienen una bonificación aleatoria.",
+                    "TOUS les lanceurs de sorts des deux équipes obtiennent un bonus aléatoire.",
+                    "TUTTI gli Incantatori di entrambe le squadre ottengono un bonus casuale.",
+                    "両チームの全ての術師傭兵はランダムボーナスを得る。",
+                    "양 팀의 모든 주문술사는 무작위 추가 효과를 얻습니다.",
+                    "WSZYSCY Czarownicy z obu drużyn otrzymują losową premię.",
+                    "TODOS os Lançadores das duas equipes recebem um bônus aleatório.",
+                    "Все заклинатели в обеих командах получают случайный бонус.",
+                    "นักเวททั้งหมด[b]ของทั้งสองทีม[b]ได้รับโบนัสแบบสุ่ม",
+                    "双方队伍中的所有施法者都会随机获得一种特效。",
+                    "雙方隊伍的所有施法者獲得一個隨機加成。"
+                ],
+                "m_locId": 2807373
+            },
+            "m_playButtonText": {
+                "m_locValues": [
+                    "Reveal",
+                    "Enthüllen",
+                    "Revelar",
+                    "Revelar",
+                    "Révéler",
+                    "Rivela",
+                    "開示",
+                    "드러내기",
+                    "Odkryj",
+                    "Revelar",
+                    "Показать",
+                    "เปิด",
+                    "揭示",
+                    "揭露"
+                ],
+                "m_locId": 2807374
+            },
+            "m_scenarioOverrideId": 0,
+            "m_grantMercenaryId": 0,
+            "m_nodeVisualId": "OPPORTUNITY_CASTER",
+            "m_visitLogic": 0,
+            "m_repeatable": 0,
+            "m_autoPlay": 0
+        },
+        {
+            "m_ID": 38,
+            "m_noteDesc": "Boon: Protectors",
+            "m_usesGameplayScene": 0,
+            "m_bossType": 0,
+            "m_alwaysShowBossPreview": 0,
+            "m_hoverTooltipHeader": {
+                "m_locValues": [
+                    "Boon: Protectors",
+                    "Segen: Beschützer",
+                    "Bendición: Protectores",
+                    "Bendición: Protectores",
+                    "Faveur : Protecteurs",
+                    "Dono: Protettori",
+                    "恩寵: 護衛",
+                    "축복: 수호자",
+                    "Premia: Obrońcy",
+                    "Dádiva: Protetores",
+                    "Бонус: защитники",
+                    "ตัวช่วย: นักคุ้มครอง",
+                    "赐福：护卫",
+                    "恩澤：保護者"
+                ],
+                "m_locId": 2807422
+            },
+            "m_hoverTooltipBody": {
+                "m_locValues": [
+                    "ALL Protectors on both teams get a random bonus.",
+                    "ALLE Beschützer beider Teams erhalten einen zufälligen Bonus.",
+                    "TODOS los protectores de ambos equipos reciben una bonificación aleatoria.",
+                    "TODOS los Protectores de los dos equipos obtienen una bonificación aleatoria.",
+                    "TOUS les protecteurs des deux équipes obtiennent un bonus aléatoire.",
+                    "TUTTI i Protettori di entrambe le squadre ottengono un bonus casuale.",
+                    "両チームの全ての護衛傭兵はランダムボーナスを得る。",
+                    "양 팀의 모든 수호자는 무작위 추가 효과를 얻습니다.",
+                    "WSZYSCY Obrońcy z obu drużyn otrzymują losową premię.",
+                    "TODOS os Protetores das duas equipes recebem um bônus aleatório.",
+                    "Все защитники в обеих командах получают случайный бонус.",
+                    "นักคุ้มครองทั้งหมด[b]ของทั้งสองทีมได้รับ[b]โบนัสแบบสุ่ม",
+                    "双方队伍中的所有护卫都会随机获得一种特效。",
+                    "雙方隊伍的所有保護者獲得一個隨機加成。"
+                ],
+                "m_locId": 2807423
+            },
+            "m_playButtonText": {
+                "m_locValues": [
+                    "Reveal",
+                    "Enthüllen",
+                    "Revelar",
+                    "Revelar",
+                    "Révéler",
+                    "Rivela",
+                    "開示",
+                    "드러내기",
+                    "Odkryj",
+                    "Revelar",
+                    "Показать",
+                    "เปิด",
+                    "揭示",
+                    "揭露"
+                ],
+                "m_locId": 2807424
+            },
+            "m_scenarioOverrideId": 0,
+            "m_grantMercenaryId": 0,
+            "m_nodeVisualId": "OPPORTUNITY_PROTECTOR",
+            "m_visitLogic": 0,
+            "m_repeatable": 0,
+            "m_autoPlay": 0
+        },
+        {
+            "m_ID": 39,
+            "m_noteDesc": "Boon: Fighters",
+            "m_usesGameplayScene": 0,
+            "m_bossType": 0,
+            "m_alwaysShowBossPreview": 0,
+            "m_hoverTooltipHeader": {
+                "m_locValues": [
+                    "Boon: Fighters",
+                    "Segen: Kämpfer",
+                    "Bendición: Luchadores",
+                    "Bendición: Combatientes",
+                    "Faveur : Combattants",
+                    "Dono: Combattenti",
+                    "恩寵: 戦士",
+                    "축복: 투사",
+                    "Premia: Zbrojni",
+                    "Dádiva: Lutadores",
+                    "Бонус: бойцы",
+                    "ตัวช่วย: นักสู้",
+                    "赐福：斗士",
+                    "恩澤：戰鬥者"
+                ],
+                "m_locId": 2807425
+            },
+            "m_hoverTooltipBody": {
+                "m_locValues": [
+                    "ALL Fighters on both teams get a random bonus.",
+                    "ALLE Kämpfer beider Teams erhalten einen zufälligen Bonus.",
+                    "TODOS los luchadores de ambos equipos reciben una bonificación aleatoria.",
+                    "TODOS los Combatientes de los dos equipos obtienen una bonificación aleatoria.",
+                    "TOUS les combattants des deux équipes obtiennent un bonus aléatoire.",
+                    "TUTTI i Combattenti di entrambe le squadre ottengono un bonus casuale.",
+                    "両チームの全ての戦士傭兵はランダムボーナスを得る。",
+                    "양 팀의 모든 투사는 무작위 추가 효과를 얻습니다.",
+                    "WSZYSCY Zbrojni z obu drużyn otrzymują losową premię.",
+                    "TODOS os Lutadores das duas equipes recebem um bônus aleatório.",
+                    "Все бойцы в обеих командах получают случайный бонус.",
+                    "นักสู้ทั้งหมดของ[b]ทั้งสองทีมได้รับ[b]โบนัสแบบสุ่ม",
+                    "双方队伍中的所有斗士都会随机获得一种特效。",
+                    "雙方隊伍的所有戰鬥者獲得一個隨機加成。"
+                ],
+                "m_locId": 2807426
+            },
+            "m_playButtonText": {
+                "m_locValues": [
+                    "Reveal",
+                    "Enthüllen",
+                    "Revelar",
+                    "Revelar",
+                    "Révéler",
+                    "Rivela",
+                    "開示",
+                    "드러내기",
+                    "Odkryj",
+                    "Revelar",
+                    "Показать",
+                    "เปิด",
+                    "揭示",
+                    "揭露"
+                ],
+                "m_locId": 2807427
+            },
+            "m_scenarioOverrideId": 0,
+            "m_grantMercenaryId": 0,
+            "m_nodeVisualId": "OPPORTUNITY_FIGHTER",
+            "m_visitLogic": 0,
+            "m_repeatable": 0,
+            "m_autoPlay": 0
+        },
+        {
+            "m_ID": 4,
+            "m_noteDesc": "Spirit Healer Full Team",
+            "m_usesGameplayScene": 0,
+            "m_bossType": 0,
+            "m_alwaysShowBossPreview": 0,
+            "m_hoverTooltipHeader": {
+                "m_locValues": [
+                    "Spirit Healer 6",
+                    "Geistheiler 6",
+                    "Ángel de la Resurrección VI",
+                    "Ángel de la Resurrección 6",
+                    "Gardienne des âmes 6",
+                    "Spirito Guaritore 6",
+                    "魂の回復者6",
+                    "영혼의 치유사 6",
+                    "Uzdrowicielka dusz 6",
+                    "Anjo da Cura 6",
+                    "Целительница душ 6",
+                    "ผู้รักษาวิญญาณ 6",
+                    "灵魂医者6",
+                    "靈魂醫者6"
+                ],
+                "m_locId": 2765988
+            },
+            "m_hoverTooltipBody": {
+                "m_locValues": [
+                    "Resurrects dead Mercenaries on your team.",
+                    "Belebt besiegte Söldner Eures Teams wieder.",
+                    "Resucita a los mercenarios muertos de tu equipo.",
+                    "Resucita a los Mercenarios muertos de tu equipo.",
+                    "Ressuscite les mercenaires morts de votre équipe.",
+                    "Resuscita i Mercenari morti nella tua squadra.",
+                    "死んだ味方の傭兵全員を復活できる。",
+                    "내 팀의 죽은 용병들을 부활시킵니다.",
+                    "Wskrzesza martwych Najemników z twojej drużyny.",
+                    "Ressuscita Mercenários mortos da sua equipe.",
+                    "Воскресить мертвых наемников в вашей команде.",
+                    "ชุบชีวิตทหาร[b]รับจ้างทั้งหมดใน[b]ทีมของคุณที่ตาย",
+                    "复活你队伍中阵亡的佣兵。",
+                    "復活你隊伍中陣亡的所有傭兵。"
+                ],
+                "m_locId": 2765989
+            },
+            "m_playButtonText": {
+                "m_locValues": [
+                    "Visit",
+                    "Besuchen",
+                    "Visitar",
+                    "Visitar",
+                    "Rendre visite",
+                    "Visita",
+                    "訪問",
+                    "방문",
+                    "Odwiedź",
+                    "Visitar",
+                    "Перейти",
+                    "แวะไป",
+                    "前往",
+                    "前往"
+                ],
+                "m_locId": 2744824
+            },
+            "m_scenarioOverrideId": 0,
+            "m_grantMercenaryId": 0,
+            "m_nodeVisualId": "HEALER",
+            "m_visitLogic": 1,
+            "m_repeatable": 0,
+            "m_autoPlay": 0
+        },
+        {
+            "m_ID": 40,
+            "m_noteDesc": "Boon: Casters",
+            "m_usesGameplayScene": 0,
+            "m_bossType": 0,
+            "m_alwaysShowBossPreview": 0,
+            "m_hoverTooltipHeader": {
+                "m_locValues": [
+                    "Boon: Casters",
+                    "Segen: Zauberwirker",
+                    "Bendición: Taumaturgos",
+                    "Bendición: Taumaturgos",
+                    "Faveur : lanceurs de sorts",
+                    "Dono: Incantatori",
+                    "恩寵: 術師",
+                    "축복: 주문술사",
+                    "Premia: Czarownicy",
+                    "Dádiva: Lançadores",
+                    "Бонус: заклинатели",
+                    "ตัวช่วย: นักเวท",
+                    "赐福：施法者",
+                    "恩澤：施法者"
+                ],
+                "m_locId": 2807428
+            },
+            "m_hoverTooltipBody": {
+                "m_locValues": [
+                    "ALL Casters on both teams get a random bonus.",
+                    "ALLE Zauberwirker beider Teams erhalten einen zufälligen Bonus.",
+                    "TODOS los taumaturgos de ambos equipos reciben una bonificación aleatoria.",
+                    "TODOS los Taumaturgos de los dos equipos obtienen una bonificación aleatoria.",
+                    "TOUS les lanceurs de sorts des deux équipes obtiennent un bonus aléatoire.",
+                    "TUTTI gli Incantatori di entrambe le squadre ottengono un bonus casuale.",
+                    "両チームの全ての術師傭兵はランダムボーナスを得る。",
+                    "양 팀의 모든 주문술사는 무작위 추가 효과를 얻습니다.",
+                    "WSZYSCY Czarownicy z obu drużyn otrzymują losową premię.",
+                    "TODOS os Lançadores das duas equipes recebem um bônus aleatório.",
+                    "Все заклинатели в обеих командах получают случайный бонус.",
+                    "นักเวททั้งหมด[b]ของทั้งสองทีม[b]ได้รับโบนัสแบบสุ่ม",
+                    "双方队伍中的所有施法者都会随机获得一种特效。",
+                    "雙方隊伍的所有施法者獲得一個隨機加成。"
+                ],
+                "m_locId": 2807429
+            },
+            "m_playButtonText": {
+                "m_locValues": [
+                    "Reveal",
+                    "Enthüllen",
+                    "Revelar",
+                    "Revelar",
+                    "Révéler",
+                    "Rivela",
+                    "開示",
+                    "드러내기",
+                    "Odkryj",
+                    "Revelar",
+                    "Показать",
+                    "เปิด",
+                    "揭示",
+                    "揭露"
+                ],
+                "m_locId": 2807430
+            },
+            "m_scenarioOverrideId": 0,
+            "m_grantMercenaryId": 0,
+            "m_nodeVisualId": "OPPORTUNITY_CASTER",
+            "m_visitLogic": 0,
+            "m_repeatable": 0,
+            "m_autoPlay": 0
+        },
+        {
+            "m_ID": 41,
+            "m_noteDesc": "Boon: Protectors",
+            "m_usesGameplayScene": 0,
+            "m_bossType": 0,
+            "m_alwaysShowBossPreview": 0,
+            "m_hoverTooltipHeader": {
+                "m_locValues": [
+                    "Boon: Protectors",
+                    "Segen: Beschützer",
+                    "Bendición: Protectores",
+                    "Bendición: Protectores",
+                    "Faveur : Protecteurs",
+                    "Dono: Protettori",
+                    "恩寵: 護衛",
+                    "축복: 수호자",
+                    "Premia: Obrońcy",
+                    "Dádiva: Protetores",
+                    "Бонус: защитники",
+                    "ตัวช่วย: นักคุ้มครอง",
+                    "赐福：护卫",
+                    "恩澤：保護者"
+                ],
+                "m_locId": 2807431
+            },
+            "m_hoverTooltipBody": {
+                "m_locValues": [
+                    "ALL Protectors on both teams get a random bonus.",
+                    "ALLE Beschützer beider Teams erhalten einen zufälligen Bonus.",
+                    "TODOS los protectores de ambos equipos reciben una bonificación aleatoria.",
+                    "TODOS los Protectores de los dos equipos obtienen una bonificación aleatoria.",
+                    "TOUS les protecteurs des deux équipes obtiennent un bonus aléatoire.",
+                    "TUTTI i Protettori di entrambe le squadre ottengono un bonus casuale.",
+                    "両チームの全ての護衛傭兵はランダムボーナスを得る。",
+                    "양 팀의 모든 수호자는 무작위 추가 효과를 얻습니다.",
+                    "WSZYSCY Obrońcy z obu drużyn otrzymują losową premię.",
+                    "TODOS os Protetores das duas equipes recebem um bônus aleatório.",
+                    "Все защитники в обеих командах получают случайный бонус.",
+                    "นักคุ้มครองทั้งหมด[b]ของทั้งสองทีมได้รับ[b]โบนัสแบบสุ่ม",
+                    "双方队伍中的所有护卫都会随机获得一种特效。",
+                    "雙方隊伍的所有保護者獲得一個隨機加成。"
+                ],
+                "m_locId": 2807432
+            },
+            "m_playButtonText": {
+                "m_locValues": [
+                    "Reveal",
+                    "Enthüllen",
+                    "Revelar",
+                    "Revelar",
+                    "Révéler",
+                    "Rivela",
+                    "開示",
+                    "드러내기",
+                    "Odkryj",
+                    "Revelar",
+                    "Показать",
+                    "เปิด",
+                    "揭示",
+                    "揭露"
+                ],
+                "m_locId": 2807433
+            },
+            "m_scenarioOverrideId": 0,
+            "m_grantMercenaryId": 0,
+            "m_nodeVisualId": "OPPORTUNITY_PROTECTOR",
+            "m_visitLogic": 0,
+            "m_repeatable": 0,
+            "m_autoPlay": 0
+        },
+        {
+            "m_ID": 42,
+            "m_noteDesc": "Boon: Fighters",
+            "m_usesGameplayScene": 0,
+            "m_bossType": 0,
+            "m_alwaysShowBossPreview": 0,
+            "m_hoverTooltipHeader": {
+                "m_locValues": [
+                    "Boon: Fighters",
+                    "Segen: Kämpfer",
+                    "Bendición: Luchadores",
+                    "Bendición: Combatientes",
+                    "Faveur : Combattants",
+                    "Dono: Combattenti",
+                    "恩寵: 戦士",
+                    "축복: 투사",
+                    "Premia: Zbrojni",
+                    "Dádiva: Lutadores",
+                    "Бонус: бойцы",
+                    "ตัวช่วย: นักสู้",
+                    "赐福：斗士",
+                    "恩澤：戰鬥者"
+                ],
+                "m_locId": 2807434
+            },
+            "m_hoverTooltipBody": {
+                "m_locValues": [
+                    "ALL Fighters on both teams get a random bonus.",
+                    "ALLE Kämpfer beider Teams erhalten einen zufälligen Bonus.",
+                    "TODOS los luchadores de ambos equipos reciben una bonificación aleatoria.",
+                    "TODOS los Combatientes de los dos equipos obtienen una bonificación aleatoria.",
+                    "TOUS les combattants des deux équipes obtiennent un bonus aléatoire.",
+                    "TUTTI i Combattenti di entrambe le squadre ottengono un bonus casuale.",
+                    "両チームの全ての戦士傭兵はランダムボーナスを得る。",
+                    "양 팀의 모든 투사는 무작위 추가 효과를 얻습니다.",
+                    "WSZYSCY Zbrojni z obu drużyn otrzymują losową premię.",
+                    "TODOS os Lutadores das duas equipes recebem um bônus aleatório.",
+                    "Все бойцы в обеих командах получают случайный бонус.",
+                    "นักสู้ทั้งหมดของ[b]ทั้งสองทีมได้รับ[b]โบนัสแบบสุ่ม",
+                    "双方队伍中的所有斗士都会随机获得一种特效。",
+                    "雙方隊伍的所有戰鬥者獲得一個隨機加成。"
+                ],
+                "m_locId": 2807435
+            },
+            "m_playButtonText": {
+                "m_locValues": [
+                    "Reveal",
+                    "Enthüllen",
+                    "Revelar",
+                    "Revelar",
+                    "Révéler",
+                    "Rivela",
+                    "開示",
+                    "드러내기",
+                    "Odkryj",
+                    "Revelar",
+                    "Показать",
+                    "เปิด",
+                    "揭示",
+                    "揭露"
+                ],
+                "m_locId": 2807436
+            },
+            "m_scenarioOverrideId": 0,
+            "m_grantMercenaryId": 0,
+            "m_nodeVisualId": "OPPORTUNITY_FIGHTER",
+            "m_visitLogic": 0,
+            "m_repeatable": 0,
+            "m_autoPlay": 0
+        },
+        {
+            "m_ID": 43,
+            "m_noteDesc": "Boon: Casters",
+            "m_usesGameplayScene": 0,
+            "m_bossType": 0,
+            "m_alwaysShowBossPreview": 0,
+            "m_hoverTooltipHeader": {
+                "m_locValues": [
+                    "Boon: Casters",
+                    "Segen: Zauberwirker",
+                    "Bendición: Taumaturgos",
+                    "Bendición: Taumaturgos",
+                    "Faveur : lanceurs de sorts",
+                    "Dono: Incantatori",
+                    "恩寵: 術師",
+                    "축복: 주문술사",
+                    "Premia: Czarownicy",
+                    "Dádiva: Lançadores",
+                    "Бонус: заклинатели",
+                    "ตัวช่วย: นักเวท",
+                    "赐福：施法者",
+                    "恩澤：施法者"
+                ],
+                "m_locId": 2807437
+            },
+            "m_hoverTooltipBody": {
+                "m_locValues": [
+                    "ALL Casters on both teams get a random bonus.",
+                    "ALLE Zauberwirker beider Teams erhalten einen zufälligen Bonus.",
+                    "TODOS los taumaturgos de ambos equipos reciben una bonificación aleatoria.",
+                    "TODOS los Taumaturgos de los dos equipos obtienen una bonificación aleatoria.",
+                    "TOUS les lanceurs de sorts des deux équipes obtiennent un bonus aléatoire.",
+                    "TUTTI gli Incantatori di entrambe le squadre ottengono un bonus casuale.",
+                    "両チームの全ての術師傭兵はランダムボーナスを得る。",
+                    "양 팀의 모든 주문술사는 무작위 추가 효과를 얻습니다.",
+                    "WSZYSCY Czarownicy z obu drużyn otrzymują losową premię.",
+                    "TODOS os Lançadores das duas equipes recebem um bônus aleatório.",
+                    "Все заклинатели в обеих командах получают случайный бонус.",
+                    "นักเวททั้งหมด[b]ของทั้งสองทีม[b]ได้รับโบนัสแบบสุ่ม",
+                    "双方队伍中的所有施法者都会随机获得一种特效。",
+                    "雙方隊伍的所有施法者獲得一個隨機加成。"
+                ],
+                "m_locId": 2807438
+            },
+            "m_playButtonText": {
+                "m_locValues": [
+                    "Reveal",
+                    "Enthüllen",
+                    "Revelar",
+                    "Revelar",
+                    "Révéler",
+                    "Rivela",
+                    "開示",
+                    "드러내기",
+                    "Odkryj",
+                    "Revelar",
+                    "Показать",
+                    "เปิด",
+                    "揭示",
+                    "揭露"
+                ],
+                "m_locId": 2807439
+            },
+            "m_scenarioOverrideId": 0,
+            "m_grantMercenaryId": 0,
+            "m_nodeVisualId": "OPPORTUNITY_CASTER",
+            "m_visitLogic": 0,
+            "m_repeatable": 0,
+            "m_autoPlay": 0
+        },
+        {
+            "m_ID": 44,
+            "m_noteDesc": "Hot Potato Level 30",
+            "m_usesGameplayScene": 0,
+            "m_bossType": 0,
+            "m_alwaysShowBossPreview": 0,
+            "m_hoverTooltipHeader": {
+                "m_locValues": [
+                    "Hot Potato",
+                    "Heiße Kartoffel",
+                    "Patata caliente",
+                    "Papa caliente",
+                    "Patate chaude",
+                    "Patata bollente",
+                    "厄介モノ",
+                    "뜨거운 감자",
+                    "Gorący kartofel",
+                    "Batata Quente",
+                    "Картошка",
+                    "เผือกร้อน",
+                    "烫手山芋",
+                    "燙手山芋"
+                ],
+                "m_locId": 2808177
+            },
+            "m_hoverTooltipBody": {
+                "m_locValues": [
+                    "Recruit a hot potato to fight alongside you.",
+                    "Rekrutiert eine heiße Kartoffel, die an Eurer Seite kämpft.",
+                    "Recluta a una patata caliente para que luche a tu lado.",
+                    "Recluta una papa caliente para que pelee a tu lado.",
+                    "Recrutez une patate chaude qui se battra à vos côtés.",
+                    "Recluta una patata bollente che combatte al tuo fianco.",
+                    "厄介モノを雇って共に戦ってもらおう。",
+                    "함께 싸울 뜨거운 감자를 고용합니다.",
+                    "Przygarnij Gorącego kartofla, aby pojawił się na polu bitwy.",
+                    "Recrute uma batata quente para lutar ao seu lado.",
+                    "Нанять картошку, которая будет сражаться на вашей стороне.",
+                    "ชักชวนเผือกร้อน[b]มาสู้เคียงข้างคุณ",
+                    "招募一个烫手山芋，和你一起战斗。",
+                    "雇用一個燙手山芋協助你戰鬥。"
+                ],
+                "m_locId": 2808178
+            },
+            "m_playButtonText": {
+                "m_locValues": [
+                    "Pick Up",
+                    "Aufnehmen",
+                    "Recoger",
+                    "Recoger",
+                    "Récupérer",
+                    "Raccogli",
+                    "拾う",
+                    "집기",
+                    "Podnieś",
+                    "Pegar",
+                    "Взять",
+                    "เก็บ",
+                    "拾取",
+                    "撿拾"
+                ],
+                "m_locId": 2808179
+            },
+            "m_scenarioOverrideId": 0,
+            "m_grantMercenaryId": 0,
+            "m_nodeVisualId": "MYSTERY",
+            "m_visitLogic": 0,
+            "m_repeatable": 0,
+            "m_autoPlay": 0
+        },
+        {
+            "m_ID": 45,
+            "m_noteDesc": "Healer - One Random",
+            "m_usesGameplayScene": 0,
+            "m_bossType": 0,
+            "m_alwaysShowBossPreview": 0,
+            "m_hoverTooltipHeader": {
+                "m_locValues": [
+                    "Spirit Healer",
+                    "Geistheiler",
+                    "Ángel de la Resurrección",
+                    "Ángel de la Resurrección",
+                    "Gardienne des âmes",
+                    "Spirito Guaritore",
+                    "魂の回復者",
+                    "영혼의 치유사",
+                    "Uzdrowicielka dusz",
+                    "Anjo da Cura",
+                    "Целительница душ",
+                    "ผู้รักษาวิญญาณ",
+                    "灵魂医者",
+                    "靈魂醫者"
+                ],
+                "m_locId": 2808791
+            },
+            "m_hoverTooltipBody": {
+                "m_locValues": [
+                    "Resurrects one random Mercenary on your team.",
+                    "Belebt einen zufälligen Söldner Eures Teams wieder.",
+                    "Resucita a un mercenario aleatorio de tu equipo.",
+                    "Resucita a un Mercenario aleatorio de tu equipo.",
+                    "Ressuscite un mercenaire aléatoire de votre équipe.",
+                    "Resuscita un Mercenario casuale nella tua squadra.",
+                    "死んだ味方の傭兵をランダムに1人復活できる。",
+                    "내 팀의 무작위 용병을 부활시킵니다.",
+                    "Wskrzesza jednego losowego martwego Najemnika z twojej drużyny.",
+                    "Ressuscita um Mercenário aleatório da sua equipe.",
+                    "Воскресить одного случайного наемника в вашей команде.",
+                    "สุ่มชุบชีวิตทหารรับจ้าง[b]หนึ่งตัวในทีมของคุณ",
+                    "随机复活一名你队伍中阵亡的佣兵。",
+                    "復活你隊伍中陣亡的一個隨機傭兵。"
+                ],
+                "m_locId": 2808792
+            },
+            "m_playButtonText": {
+                "m_locValues": [
+                    "Visit",
+                    "Besuchen",
+                    "Visitar",
+                    "Visitar",
+                    "Rendre visite",
+                    "Visita",
+                    "訪問",
+                    "방문",
+                    "Odwiedź",
+                    "Visitar",
+                    "Перейти",
+                    "แวะไป",
+                    "前往",
+                    "前往"
+                ],
+                "m_locId": 2808793
+            },
+            "m_scenarioOverrideId": 0,
+            "m_grantMercenaryId": 0,
+            "m_nodeVisualId": "HEALER",
+            "m_visitLogic": 1,
+            "m_repeatable": 0,
+            "m_autoPlay": 0
+        },
+        {
+            "m_ID": 46,
+            "m_noteDesc": "Healer - Two Random",
+            "m_usesGameplayScene": 0,
+            "m_bossType": 0,
+            "m_alwaysShowBossPreview": 0,
+            "m_hoverTooltipHeader": {
+                "m_locValues": [
+                    "Spirit Healer 2",
+                    "Geistheiler 2",
+                    "Ángel de la Resurrección II",
+                    "Ángel de la Resurrección 2",
+                    "Gardienne des âmes 2",
+                    "Spirito Guaritore 2",
+                    "魂の回復者2",
+                    "영혼의 치유사 2",
+                    "Uzdrowicielka dusz 2",
+                    "Anjo da Cura 2",
+                    "Целительница душ 2",
+                    "ผู้รักษาวิญญาณ 2",
+                    "灵魂医者2",
+                    "靈魂醫者2"
+                ],
+                "m_locId": 2808794
+            },
+            "m_hoverTooltipBody": {
+                "m_locValues": [
+                    "Resurrects two random Mercenaries on your team.",
+                    "Belebt zwei zufällige Söldner Eures Teams wieder.",
+                    "Resucita a dos mercenarios aleatorios de tu equipo.",
+                    "Resucita a dos Mercenarios aleatorios de tu equipo.",
+                    "Ressuscite deux mercenaires aléatoires de votre équipe.",
+                    "Resuscita due Mercenari casuali nella tua squadra.",
+                    "死んだ味方の傭兵をランダムに2人復活できる。",
+                    "내 팀의 무작위 용병 둘을 부활시킵니다.",
+                    "Wskrzesza dwóch losowych martwych Najemników z twojej drużyny.",
+                    "Ressuscita dois Mercenários aleatórios da sua equipe.",
+                    "Воскресить двух случайных наемников в вашей команде.",
+                    "สุ่มชุบชีวิตทหารรับจ้าง[b]สองตัวในทีมของคุณ",
+                    "随机复活两名你队伍中阵亡的佣兵。",
+                    "復活你隊伍中陣亡的兩個隨機傭兵。"
+                ],
+                "m_locId": 2808795
+            },
+            "m_playButtonText": {
+                "m_locValues": [
+                    "Visit",
+                    "Besuchen",
+                    "Visitar",
+                    "Visitar",
+                    "Rendre visite",
+                    "Visita",
+                    "訪問",
+                    "방문",
+                    "Odwiedź",
+                    "Visitar",
+                    "Перейти",
+                    "แวะไป",
+                    "前往",
+                    "前往"
+                ],
+                "m_locId": 2808796
+            },
+            "m_scenarioOverrideId": 0,
+            "m_grantMercenaryId": 0,
+            "m_nodeVisualId": "HEALER",
+            "m_visitLogic": 1,
+            "m_repeatable": 0,
+            "m_autoPlay": 0
+        },
+        {
+            "m_ID": 47,
+            "m_noteDesc": "Healer - Three Random",
+            "m_usesGameplayScene": 0,
+            "m_bossType": 0,
+            "m_alwaysShowBossPreview": 0,
+            "m_hoverTooltipHeader": {
+                "m_locValues": [
+                    "Spirit Healer 3",
+                    "Geistheiler 3",
+                    "Ángel de la Resurrección III",
+                    "Ángel de la Resurrección 3",
+                    "Gardienne des âmes 3",
+                    "Spirito Guaritore 3",
+                    "魂の回復者3",
+                    "영혼의 치유사 3",
+                    "Uzdrowicielka dusz 3",
+                    "Anjo da Cura 3",
+                    "Целительница душ 3",
+                    "ผู้รักษาวิญญาณ 3",
+                    "灵魂医者3",
+                    "靈魂醫者3"
+                ],
+                "m_locId": 2809012
+            },
+            "m_hoverTooltipBody": {
+                "m_locValues": [
+                    "Resurrects three random Mercenaries on your team.",
+                    "Belebt drei zufällige Söldner Eures Teams wieder.",
+                    "Resucita a tres mercenarios aleatorios de tu equipo.",
+                    "Resucita a tres Mercenarios aleatorios de tu equipo.",
+                    "Ressuscite trois mercenaires aléatoires de votre équipe.",
+                    "Resuscita tre Mercenari casuali nella tua squadra.",
+                    "死んだ味方の傭兵をランダムに3人復活できる。",
+                    "내 팀의 무작위 용병 셋을 부활시킵니다.",
+                    "Wskrzesza trzech losowych martwych Najemników z twojej drużyny.",
+                    "Ressuscita três Mercenários aleatórios da sua equipe.",
+                    "Воскресить трех случайных наемников в вашей команде.",
+                    "สุ่มชุบชีวิตทหารรับจ้าง[b]สามตัวในทีมของคุณ",
+                    "随机复活三名你队伍中阵亡的佣兵。",
+                    "復活你隊伍中陣亡的三個隨機傭兵。"
+                ],
+                "m_locId": 2809013
+            },
+            "m_playButtonText": {
+                "m_locValues": [
+                    "Visit",
+                    "Besuchen",
+                    "Visitar",
+                    "Visitar",
+                    "Rendre visite",
+                    "Visita",
+                    "訪問",
+                    "방문",
+                    "Odwiedź",
+                    "Visitar",
+                    "Перейти",
+                    "แวะไป",
+                    "前往",
+                    "前往"
+                ],
+                "m_locId": 2809014
+            },
+            "m_scenarioOverrideId": 0,
+            "m_grantMercenaryId": 0,
+            "m_nodeVisualId": "HEALER",
+            "m_visitLogic": 1,
+            "m_repeatable": 0,
+            "m_autoPlay": 0
+        },
+        {
+            "m_ID": 48,
+            "m_noteDesc": "Healer - Four Random",
+            "m_usesGameplayScene": 0,
+            "m_bossType": 0,
+            "m_alwaysShowBossPreview": 0,
+            "m_hoverTooltipHeader": {
+                "m_locValues": [
+                    "Spirit Healer 4",
+                    "Geistheiler 4",
+                    "Ángel de la Resurrección IV",
+                    "Ángel de la Resurrección 4",
+                    "Gardienne des âmes 4",
+                    "Spirito Guaritore 4",
+                    "魂の回復者4",
+                    "영혼의 치유사 4",
+                    "Uzdrowicielka dusz 4",
+                    "Anjo da Cura 4",
+                    "Целительница душ 4",
+                    "ผู้รักษาวิญญาณ 4",
+                    "灵魂医者4",
+                    "靈魂醫者4"
+                ],
+                "m_locId": 2809299
+            },
+            "m_hoverTooltipBody": {
+                "m_locValues": [
+                    "Resurrects four random Mercenaries on your team.",
+                    "Belebt vier zufällige Söldner Eures Teams wieder.",
+                    "Resucita a cuatro mercenarios aleatorios de tu equipo.",
+                    "Resucita a cuatro Mercenarios aleatorios de tu equipo.",
+                    "Ressuscite quatre mercenaires aléatoires de votre équipe.",
+                    "Resuscita quattro Mercenari casuali nella tua squadra.",
+                    "死んだ味方の傭兵をランダムに4人復活できる。",
+                    "내 팀의 무작위 용병 넷을 부활시킵니다.",
+                    "Wskrzesza czterech losowych martwych Najemników z twojej drużyny.",
+                    "Ressuscita quatro Mercenários aleatórios da sua equipe.",
+                    "Воскресить четырех случайных наемников в вашей команде.",
+                    "สุ่มชุบชีวิตทหารรับจ้าง[b]สี่ตัวในทีมของคุณ",
+                    "随机复活四名你队伍中阵亡的佣兵。",
+                    "復活你隊伍中陣亡的四個隨機傭兵。"
+                ],
+                "m_locId": 2809300
+            },
+            "m_playButtonText": {
+                "m_locValues": [
+                    "Visit",
+                    "Besuchen",
+                    "Visitar",
+                    "Visitar",
+                    "Rendre visite",
+                    "Visita",
+                    "訪問",
+                    "방문",
+                    "Odwiedź",
+                    "Visitar",
+                    "Перейти",
+                    "แวะไป",
+                    "前往",
+                    "前往"
+                ],
+                "m_locId": 2809301
+            },
+            "m_scenarioOverrideId": 0,
+            "m_grantMercenaryId": 0,
+            "m_nodeVisualId": "HEALER",
+            "m_visitLogic": 1,
+            "m_repeatable": 0,
+            "m_autoPlay": 0
+        },
+        {
+            "m_ID": 49,
+            "m_noteDesc": "Healer - Five Random",
+            "m_usesGameplayScene": 0,
+            "m_bossType": 0,
+            "m_alwaysShowBossPreview": 0,
+            "m_hoverTooltipHeader": {
+                "m_locValues": [
+                    "Spirit Healer 5",
+                    "Geistheiler 5",
+                    "Ángel de la Resurrección V",
+                    "Ángel de la Resurrección 5",
+                    "Gardienne des âmes 5",
+                    "Spirito Guaritore 5",
+                    "魂の回復者5",
+                    "영혼의 치유사 5",
+                    "Uzdrowicielka dusz 5",
+                    "Anjo da Cura 5",
+                    "Целительница душ 5",
+                    "ผู้รักษาวิญญาณ 5",
+                    "灵魂医者5",
+                    "靈魂醫者5"
+                ],
+                "m_locId": 2809302
+            },
+            "m_hoverTooltipBody": {
+                "m_locValues": [
+                    "Resurrects five random Mercenaries on your team.",
+                    "Belebt fünf zufällige Söldner Eures Teams wieder.",
+                    "Resucita a cinco mercenarios aleatorios de tu equipo.",
+                    "Resucita a cinco Mercenarios aleatorios de tu equipo.",
+                    "Ressuscite cinq mercenaires aléatoires de votre équipe.",
+                    "Resuscita cinque Mercenari casuali nella tua squadra.",
+                    "死んだ味方の傭兵をランダムに5人復活できる。",
+                    "내 팀의 무작위 용병 다섯을 부활시킵니다.",
+                    "Wskrzesza pięciu losowych martwych Najemników z twojej drużyny.",
+                    "Ressuscita cinco Mercenários aleatórios da sua equipe.",
+                    "Воскресить пятерых случайных наемников в вашей команде.",
+                    "สุ่มชุบชีวิตทหารรับจ้าง[b]ห้าตัวในทีมของคุณ",
+                    "随机复活五名你队伍中阵亡的佣兵。",
+                    "復活你隊伍中陣亡的五個隨機傭兵。"
+                ],
+                "m_locId": 2809303
+            },
+            "m_playButtonText": {
+                "m_locValues": [
+                    "Visit",
+                    "Besuchen",
+                    "Visitar",
+                    "Visitar",
+                    "Rendre visite",
+                    "Visita",
+                    "訪問",
+                    "방문",
+                    "Odwiedź",
+                    "Visitar",
+                    "Перейти",
+                    "แวะไป",
+                    "前往",
+                    "前往"
+                ],
+                "m_locId": 2809304
+            },
+            "m_scenarioOverrideId": 0,
+            "m_grantMercenaryId": 0,
+            "m_nodeVisualId": "HEALER",
+            "m_visitLogic": 1,
+            "m_repeatable": 0,
+            "m_autoPlay": 0
+        },
+        {
+            "m_ID": 52,
+            "m_noteDesc": "Campaign 1 - Kazakus Bounty",
+            "m_usesGameplayScene": 1,
+            "m_bossType": 3,
+            "m_alwaysShowBossPreview": 0,
+            "m_hoverTooltipHeader": {
+                "m_locValues": [
+                    "Final Boss",
+                    "Endboss",
+                    "Jefe final",
+                    "Jefe final",
+                    "Boss final",
+                    "Boss finale",
+                    "最終ボス",
+                    "최종 우두머리",
+                    "Końcowy boss",
+                    "Chefe Final",
+                    "Финальный босс",
+                    "บอสใหญ่",
+                    "最终首领",
+                    "最終首領"
+                ],
+                "m_locId": 2830323
+            },
+            "m_hoverTooltipBody": {
+                "m_locValues": [
+                    "Defeat Kazakus!",
+                    "Besiegt Kazakus!",
+                    "¡Derrota a Kazakus!",
+                    "¡Derrota a Kazakus!",
+                    "Triomphez de Kazakus !",
+                    "Sconfiggi Kazakus!",
+                    "カザカスを倒せ！",
+                    "카자쿠스를 쓰러뜨리세요!",
+                    "Pokonaj Kozakusa!",
+                    "Derrote Kazakus!",
+                    "Победите Казакуса!",
+                    "เอาชนะคาซากัส!",
+                    "击败卡扎库斯！",
+                    "擊敗卡札克斯！"
+                ],
+                "m_locId": 2830324
+            },
+            "m_playButtonText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_scenarioOverrideId": 0,
+            "m_grantMercenaryId": 0,
+            "m_nodeVisualId": "ELITE_BOSS",
+            "m_visitLogic": 0,
+            "m_repeatable": 0,
+            "m_autoPlay": 0
+        },
+        {
+            "m_ID": 56,
+            "m_noteDesc": "Campaign 1 - Plaguemaw the Rotting",
+            "m_usesGameplayScene": 1,
+            "m_bossType": 3,
+            "m_alwaysShowBossPreview": 0,
+            "m_hoverTooltipHeader": {
+                "m_locValues": [
+                    "Regular Fight",
+                    "Normaler Kampf",
+                    "Pelea normal",
+                    "Pelea normal",
+                    "Combat standard",
+                    "Scontro normale",
+                    "通常バトル",
+                    "일반 전투",
+                    "Zwykła potyczka",
+                    "Luta normal",
+                    "Обычный бой",
+                    "การต่อสู้ปกติ",
+                    "常规战斗",
+                    "普通戰鬥"
+                ],
+                "m_locId": 2832205
+            },
+            "m_hoverTooltipBody": {
+                "m_locValues": [
+                    "Grants XP and treasure!",
+                    "Gewährt EP und Schätze!",
+                    "¡Otorga PE y tesoro!",
+                    "¡Otorga EXP y tesoro!",
+                    "Donne des points d’EXP et des trésors !",
+                    "Fornisce PE e tesori!",
+                    "XPと宝物が手に入る！",
+                    "경험치와 보물을 줍니다!",
+                    "Zapewnia PD i skarby!",
+                    "Concede EXP e tesouro!",
+                    "Приносит опыт и сокровище!",
+                    "ให้ XP และสมบัติ!",
+                    "可获得经验值和宝藏！",
+                    "可以獲得經驗值\n和寶藏！"
+                ],
+                "m_locId": 2832206
+            },
+            "m_playButtonText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_scenarioOverrideId": 0,
+            "m_grantMercenaryId": 0,
+            "m_nodeVisualId": "BOSS",
+            "m_visitLogic": 0,
+            "m_repeatable": 0,
+            "m_autoPlay": 0
+        },
+        {
+            "m_ID": 58,
+            "m_noteDesc": "Bonus Loot!",
+            "m_usesGameplayScene": 0,
+            "m_bossType": 0,
+            "m_alwaysShowBossPreview": 0,
+            "m_hoverTooltipHeader": {
+                "m_locValues": [
+                    "Bonus Loot!",
+                    "Bonusbeute!",
+                    "¡Bonus de botín!",
+                    "¡Botín extra!",
+                    "Butin bonus !",
+                    "Bottino Bonus!",
+                    "ボーナス戦利品！",
+                    "추가 전리품!",
+                    "Dodatkowe łupy!",
+                    "Saque Extra!",
+                    "Дополнительная добыча!",
+                    "สมบัติโบนัส!",
+                    "额外的战利品",
+                    "額外戰利品！"
+                ],
+                "m_locId": 2835620
+            },
+            "m_hoverTooltipBody": {
+                "m_locValues": [
+                    "Finish the run to get bonus rewards",
+                    "Schließt das Kopfgeld ab, um Bonusbelohnungen zu erhalten.",
+                    "Termina la incursión para obtener recompensas adicionales.",
+                    "Termina la ronda para recibir recompensas extra",
+                    "Terminez la virée pour obtenir des récompenses bonus.",
+                    "Completa la sessione per ottenere ricompense bonus",
+                    "賞金稼ぎ完了時にボーナス報酬を得られるぞ",
+                    "모험을 완료하고 추가 보상을 받으세요",
+                    "Ukończ serię, aby otrzymać dodatkowe nagrody",
+                    "Termine a sessão para receber recompensas de bônus",
+                    "Завершите поход, чтобы получить дополнительную награду.",
+                    "เล่นให้จบรอบ[b]เพื่อรับรางวัล[b]โบนัส",
+                    "完成本轮游戏以获取额外奖励",
+                    "完成挑戰可獲得額外獎勵"
+                ],
+                "m_locId": 2835621
+            },
+            "m_playButtonText": {
+                "m_locValues": [
+                    "Pick Up",
+                    "Aufnehmen",
+                    "Recoger",
+                    "Recoger",
+                    "Récupérer",
+                    "Raccogli",
+                    "拾う",
+                    "집기",
+                    "Podnieś",
+                    "Pegar",
+                    "Взять",
+                    "เก็บ",
+                    "拾取",
+                    "撿拾"
+                ],
+                "m_locId": 2835622
+            },
+            "m_scenarioOverrideId": 0,
+            "m_grantMercenaryId": 0,
+            "m_nodeVisualId": "MYSTERY",
+            "m_visitLogic": 0,
+            "m_repeatable": 0,
+            "m_autoPlay": 0
+        },
+        {
+            "m_ID": 59,
+            "m_noteDesc": "Cursed Treasure 3",
+            "m_usesGameplayScene": 0,
+            "m_bossType": 0,
+            "m_alwaysShowBossPreview": 0,
+            "m_hoverTooltipHeader": {
+                "m_locValues": [
+                    "Cursed Treasure",
+                    "Verfluchter Schatz",
+                    "Tesoro maldito",
+                    "Tesoro maldito",
+                    "Trésor maudit",
+                    "Tesoro Maledetto",
+                    "呪われた宝物",
+                    "저주받은 보물",
+                    "Przeklęty skarb",
+                    "Tesouro Amaldiçoado",
+                    "Проклятое сокровище",
+                    "สมบัติต้องสาป",
+                    "被诅咒的宝藏",
+                    "受詛咒的寶藏"
+                ],
+                "m_locId": 2835664
+            },
+            "m_hoverTooltipBody": {
+                "m_locValues": [
+                    "Finish the run to get bonus rewards",
+                    "Schließt das Kopfgeld ab, um Bonusbelohnungen zu erhalten.",
+                    "Termina la incursión para obtener recompensas adicionales.",
+                    "Termina la ronda para recibir recompensas extra",
+                    "Terminez la virée pour obtenir des récompenses bonus.",
+                    "Completa la sessione per ottenere ricompense bonus",
+                    "賞金稼ぎ完了時にボーナス報酬を得られるぞ",
+                    "모험을 완료하고 추가 보상을 받으세요",
+                    "Ukończ serię, aby otrzymać dodatkowe nagrody",
+                    "Termine a sessão para receber recompensas de bônus",
+                    "Завершите поход, чтобы получить дополнительную награду.",
+                    "เล่นให้จบรอบ[b]เพื่อรับรางวัล[b]โบนัส",
+                    "完成本轮游戏以获取额外奖励",
+                    "完成挑戰可獲得額外獎勵"
+                ],
+                "m_locId": 2835665
+            },
+            "m_playButtonText": {
+                "m_locValues": [
+                    "Pick Up",
+                    "Aufnehmen",
+                    "Recoger",
+                    "Recoger",
+                    "Récupérer",
+                    "Raccogli",
+                    "拾う",
+                    "집기",
+                    "Podnieś",
+                    "Pegar",
+                    "Взять",
+                    "เก็บ",
+                    "拾取",
+                    "撿拾"
+                ],
+                "m_locId": 2835666
+            },
+            "m_scenarioOverrideId": 0,
+            "m_grantMercenaryId": 0,
+            "m_nodeVisualId": "MYSTERY",
+            "m_visitLogic": 0,
+            "m_repeatable": 0,
+            "m_autoPlay": 0
+        },
+        {
+            "m_ID": 7,
+            "m_noteDesc": "Tutorial1",
+            "m_usesGameplayScene": 1,
+            "m_bossType": 0,
+            "m_alwaysShowBossPreview": 0,
+            "m_hoverTooltipHeader": {
+                "m_locValues": [
+                    "Regular Fight",
+                    "Normaler Kampf",
+                    "Pelea normal",
+                    "Pelea normal",
+                    "Combat standard",
+                    "Scontro normale",
+                    "通常バトル",
+                    "일반 전투",
+                    "Zwykła potyczka",
+                    "Luta normal",
+                    "Обычный бой",
+                    "การต่อสู้ปกติ",
+                    "常规战斗",
+                    "普通戰鬥"
+                ],
+                "m_locId": 2765996
+            },
+            "m_hoverTooltipBody": {
+                "m_locValues": [
+                    "Grants XP and treasure!",
+                    "Gewährt EP und Schätze!",
+                    "¡Otorga PE y tesoro!",
+                    "¡Otorga EXP y tesoro!",
+                    "Donne des points d’EXP et des trésors !",
+                    "Fornisce PE e tesori!",
+                    "XPと宝物が手に入る！",
+                    "경험치와 보물을 줍니다!",
+                    "Zapewnia PD i skarby!",
+                    "Concede EXP e tesouro!",
+                    "Приносит опыт и сокровище!",
+                    "ให้ XP และสมบัติ!",
+                    "可获得经验值和宝藏！",
+                    "可以獲得經驗值\n和寶藏！"
+                ],
+                "m_locId": 2765997
+            },
+            "m_playButtonText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_scenarioOverrideId": 3778,
+            "m_grantMercenaryId": 0,
+            "m_nodeVisualId": "BOSS",
+            "m_visitLogic": 0,
+            "m_repeatable": 0,
+            "m_autoPlay": 0
+        },
+        {
+            "m_ID": 8,
+            "m_noteDesc": "Tutorial2",
+            "m_usesGameplayScene": 1,
+            "m_bossType": 0,
+            "m_alwaysShowBossPreview": 0,
+            "m_hoverTooltipHeader": {
+                "m_locValues": [
+                    "Regular Fight",
+                    "Normaler Kampf",
+                    "Pelea normal",
+                    "Pelea normal",
+                    "Combat standard",
+                    "Scontro normale",
+                    "通常バトル",
+                    "일반 전투",
+                    "Zwykła potyczka",
+                    "Luta normal",
+                    "Обычный бой",
+                    "การต่อสู้ปกติ",
+                    "常规战斗",
+                    "普通戰鬥"
+                ],
+                "m_locId": 2765994
+            },
+            "m_hoverTooltipBody": {
+                "m_locValues": [
+                    "Grants XP and treasure!",
+                    "Gewährt EP und Schätze!",
+                    "¡Otorga PE y tesoro!",
+                    "¡Otorga EXP y tesoro!",
+                    "Donne des points d’EXP et des trésors !",
+                    "Fornisce PE e tesori!",
+                    "XPと宝物が手に入る！",
+                    "경험치와 보물을 줍니다!",
+                    "Zapewnia PD i skarby!",
+                    "Concede EXP e tesouro!",
+                    "Приносит опыт и сокровище!",
+                    "ให้ XP และสมบัติ!",
+                    "可获得经验值和宝藏！",
+                    "可以獲得經驗值\n和寶藏！"
+                ],
+                "m_locId": 2765995
+            },
+            "m_playButtonText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_scenarioOverrideId": 3900,
+            "m_grantMercenaryId": 19,
+            "m_nodeVisualId": "BOSS",
+            "m_visitLogic": 0,
+            "m_repeatable": 0,
+            "m_autoPlay": 0
+        },
+        {
+            "m_ID": 80,
+            "m_noteDesc": "Cursed Treasure 2",
+            "m_usesGameplayScene": 0,
+            "m_bossType": 0,
+            "m_alwaysShowBossPreview": 0,
+            "m_hoverTooltipHeader": {
+                "m_locValues": [
+                    "Cursed Treasure",
+                    "Verfluchter Schatz",
+                    "Tesoro maldito",
+                    "Tesoro maldito",
+                    "Trésor maudit",
+                    "Tesoro Maledetto",
+                    "呪われた宝物",
+                    "저주받은 보물",
+                    "Przeklęty skarb",
+                    "Tesouro Amaldiçoado",
+                    "Проклятое сокровище",
+                    "สมบัติต้องสาป",
+                    "被诅咒的宝藏",
+                    "受詛咒的寶藏"
+                ],
+                "m_locId": 2860686
+            },
+            "m_hoverTooltipBody": {
+                "m_locValues": [
+                    "Finish the run to get bonus rewards",
+                    "Schließt das Kopfgeld ab, um Bonusbelohnungen zu erhalten.",
+                    "Termina la incursión para obtener recompensas adicionales.",
+                    "Termina la ronda para recibir recompensas extra",
+                    "Terminez la virée pour obtenir des récompenses bonus.",
+                    "Completa la sessione per ottenere ricompense bonus",
+                    "賞金稼ぎ完了時にボーナス報酬を得られるぞ",
+                    "모험을 완료하고 추가 보상을 받으세요",
+                    "Ukończ serię, aby otrzymać dodatkowe nagrody",
+                    "Termine a sessão para receber recompensas de bônus",
+                    "Завершите поход, чтобы получить дополнительную награду.",
+                    "เล่นให้จบรอบ[b]เพื่อรับรางวัล[b]โบนัส",
+                    "完成本轮游戏以获取额外奖励",
+                    "完成挑戰可獲得額外獎勵"
+                ],
+                "m_locId": 2860687
+            },
+            "m_playButtonText": {
+                "m_locValues": [
+                    "Pick Up",
+                    "Aufnehmen",
+                    "Recoger",
+                    "Recoger",
+                    "Récupérer",
+                    "Raccogli",
+                    "拾う",
+                    "집기",
+                    "Podnieś",
+                    "Pegar",
+                    "Взять",
+                    "เก็บ",
+                    "拾取",
+                    "繼續"
+                ],
+                "m_locId": 2860688
+            },
+            "m_scenarioOverrideId": 0,
+            "m_grantMercenaryId": 0,
+            "m_nodeVisualId": "MYSTERY",
+            "m_visitLogic": 0,
+            "m_repeatable": 0,
+            "m_autoPlay": 0
+        },
+        {
+            "m_ID": 81,
+            "m_noteDesc": "Cursed Treasure 1",
+            "m_usesGameplayScene": 0,
+            "m_bossType": 0,
+            "m_alwaysShowBossPreview": 0,
+            "m_hoverTooltipHeader": {
+                "m_locValues": [
+                    "Cursed Treasure",
+                    "Verfluchter Schatz",
+                    "Tesoro maldito",
+                    "Tesoro maldito",
+                    "Trésor maudit",
+                    "Tesoro Maledetto",
+                    "呪われた宝物",
+                    "저주받은 보물",
+                    "Przeklęty skarb",
+                    "Tesouro Amaldiçoado",
+                    "Проклятое сокровище",
+                    "สมบัติต้องสาป",
+                    "被诅咒的宝藏",
+                    "受詛咒的寶藏"
+                ],
+                "m_locId": 2860689
+            },
+            "m_hoverTooltipBody": {
+                "m_locValues": [
+                    "Finish the run to get bonus rewards",
+                    "Schließt das Kopfgeld ab, um Bonusbelohnungen zu erhalten.",
+                    "Termina la incursión para obtener recompensas adicionales.",
+                    "Termina la ronda para recibir recompensas extra",
+                    "Terminez la virée pour obtenir des récompenses bonus.",
+                    "Completa la sessione per ottenere ricompense bonus",
+                    "賞金稼ぎ完了時にボーナス報酬を得られるぞ",
+                    "모험을 완료하고 추가 보상을 받으세요",
+                    "Ukończ serię, aby otrzymać dodatkowe nagrody",
+                    "Termine a sessão para receber recompensas de bônus",
+                    "Завершите поход, чтобы получить дополнительную награду.",
+                    "เล่นให้จบรอบ[b]เพื่อรับรางวัล[b]โบนัส",
+                    "完成本轮游戏以获取额外奖励",
+                    "完成挑戰可獲得額外獎勵"
+                ],
+                "m_locId": 2860690
+            },
+            "m_playButtonText": {
+                "m_locValues": [
+                    "Pick Up",
+                    "Aufnehmen",
+                    "Recoger",
+                    "Recoger",
+                    "Récupérer",
+                    "Raccogli",
+                    "拾う",
+                    "집기",
+                    "Podnieś",
+                    "Pegar",
+                    "Взять",
+                    "เก็บ",
+                    "拾取",
+                    "繼續"
+                ],
+                "m_locId": 2860691
+            },
+            "m_scenarioOverrideId": 0,
+            "m_grantMercenaryId": 0,
+            "m_nodeVisualId": "MYSTERY",
+            "m_visitLogic": 0,
+            "m_repeatable": 0,
+            "m_autoPlay": 0
+        },
+        {
+            "m_ID": 83,
+            "m_noteDesc": "Boss Rush: Final Boss",
+            "m_usesGameplayScene": 1,
+            "m_bossType": 3,
+            "m_alwaysShowBossPreview": 1,
+            "m_hoverTooltipHeader": {
+                "m_locValues": [
+                    "Double Boss",
+                    "Doppelboss",
+                    "Jefe doble",
+                    "Dos jefes",
+                    "Double boss",
+                    "Boss doppio",
+                    "ダブルボス",
+                    "우두머리 2명",
+                    "Duet bossów",
+                    "Chefe Duplo",
+                    "Два босса",
+                    "บอสคู่",
+                    "双首领",
+                    "雙重首領"
+                ],
+                "m_locId": 2862247
+            },
+            "m_hoverTooltipBody": {
+                "m_locValues": [
+                    "Defeat these bosses to complete the rush!",
+                    "Besiegt diese Bosse, um die Offensive abzuschließen!",
+                    "¡Derrota a estos jefes para completar la carrera!",
+                    "¡Derrota a estos jefes para superar la invasión!",
+                    "Battez ces boss pour terminer la ruée !",
+                    "Sconfiggi questi boss per completare l'assalto!",
+                    "これらのボスを倒してラッシュを完了しよう！",
+                    "우두머리들을 처치하고 연속 전투를 완료하세요!",
+                    "Pokonaj tych bossów, aby ukończyć burdę!",
+                    "Derrote esses chefes para concluir a investida!",
+                    "Победите этих боссов, чтобы пройти натиск!",
+                    "เอาชนะบอสเหล่านี้[b]เพื่อพิชิตการรัช!",
+                    "击败这些首领，完成速通！",
+                    "擊敗這些首領就能完成挑戰！"
+                ],
+                "m_locId": 2862248
+            },
+            "m_playButtonText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_scenarioOverrideId": 0,
+            "m_grantMercenaryId": 0,
+            "m_nodeVisualId": "BOSS_RUSH",
+            "m_visitLogic": 0,
+            "m_repeatable": 0,
+            "m_autoPlay": 0
+        },
+        {
+            "m_ID": 84,
+            "m_noteDesc": "Boss Rush: Elite Boss",
+            "m_usesGameplayScene": 1,
+            "m_bossType": 2,
+            "m_alwaysShowBossPreview": 1,
+            "m_hoverTooltipHeader": {
+                "m_locValues": [
+                    "Single Boss",
+                    "Einzelboss",
+                    "Jefe individual",
+                    "Un jefe",
+                    "Boss solo",
+                    "Boss singolo",
+                    "シングルボス",
+                    "우두머리 1명",
+                    "Samotny boss",
+                    "Chefe Único",
+                    "Один босс",
+                    "บอสเดี่ยว",
+                    "单首领",
+                    "單一首領"
+                ],
+                "m_locId": 2862251
+            },
+            "m_hoverTooltipBody": {
+                "m_locValues": [
+                    "A fight against a boss along the rush path!",
+                    "Ein Bosskampf entlang des Offensivwegs!",
+                    "¡Una pelea contra un jefe en el camino de la carrera!",
+                    "¡Lucha contra un jefe en la senda de invasión!",
+                    "Un combat contre un boss pendant la ruée !",
+                    "Una battaglia contro un boss lungo la strada dell'assalto!",
+                    "ラッシュの順路に沿ってボスと戦おう！",
+                    "연속 전투 길을 따라 우두머리와 전투를 벌이세요!",
+                    "Walka z bossem podczas burdy!",
+                    "Uma luta contra um chefe no caminho da investida!",
+                    "Битва с боссом на пути натиска!",
+                    "ต่อสู้กับบอส[b]ในเส้นทางการรัช!",
+                    "速通路线上的首领战！",
+                    "在挑戰的道路上與首領對決！"
+                ],
+                "m_locId": 2862252
+            },
+            "m_playButtonText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_scenarioOverrideId": 0,
+            "m_grantMercenaryId": 0,
+            "m_nodeVisualId": "BOSS_RUSH",
+            "m_visitLogic": 0,
+            "m_repeatable": 0,
+            "m_autoPlay": 0
+        },
+        {
+            "m_ID": 9,
+            "m_noteDesc": "Tutorial3",
+            "m_usesGameplayScene": 1,
+            "m_bossType": 0,
+            "m_alwaysShowBossPreview": 0,
+            "m_hoverTooltipHeader": {
+                "m_locValues": [
+                    "Regular Fight",
+                    "Normaler Kampf",
+                    "Pelea normal",
+                    "Pelea normal",
+                    "Combat standard",
+                    "Scontro normale",
+                    "通常バトル",
+                    "일반 전투",
+                    "Zwykła potyczka",
+                    "Luta normal",
+                    "Обычный бой",
+                    "การต่อสู้ปกติ",
+                    "常规战斗",
+                    "普通戰鬥"
+                ],
+                "m_locId": 2765992
+            },
+            "m_hoverTooltipBody": {
+                "m_locValues": [
+                    "Grants XP and treasure!",
+                    "Gewährt EP und Schätze!",
+                    "¡Otorga PE y tesoro!",
+                    "¡Otorga EXP y tesoro!",
+                    "Donne des points d’EXP et des trésors !",
+                    "Fornisce PE e tesori!",
+                    "XPと宝物が手に入る！",
+                    "경험치와 보물을 줍니다!",
+                    "Zapewnia PD i skarby!",
+                    "Concede EXP e tesouro!",
+                    "Приносит опыт и сокровище!",
+                    "ให้ XP และสมบัติ!",
+                    "可获得经验值和宝藏！",
+                    "可以獲得經驗值\n和寶藏！"
+                ],
+                "m_locId": 2765993
+            },
+            "m_playButtonText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_scenarioOverrideId": 3901,
+            "m_grantMercenaryId": 6,
+            "m_nodeVisualId": "BOSS",
+            "m_visitLogic": 0,
+            "m_repeatable": 0,
+            "m_autoPlay": 0
+        }
+    ]
+}

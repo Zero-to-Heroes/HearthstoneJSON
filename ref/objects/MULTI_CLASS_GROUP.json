@@ -1,0 +1,164 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -3652626158692979263
+    },
+    "m_Name": "MULTI_CLASS_GROUP",
+    "Records": [
+        {
+            "m_ID": 1,
+            "m_noteDesc": "Grimy Goons",
+            "m_iconAssetPath": "GrimyGoonsMultiClassIcon.prefab:432a6ea5838bdfb44b0b79af0f53b0ee",
+            "m_cardColorType": 0
+        },
+        {
+            "m_ID": 10,
+            "m_noteDesc": "Shaman/Mage",
+            "m_iconAssetPath": "",
+            "m_cardColorType": 18
+        },
+        {
+            "m_ID": 11,
+            "m_noteDesc": "Mage/Rogue",
+            "m_iconAssetPath": "",
+            "m_cardColorType": 19
+        },
+        {
+            "m_ID": 12,
+            "m_noteDesc": "Rogue/Warrior",
+            "m_iconAssetPath": "",
+            "m_cardColorType": 20
+        },
+        {
+            "m_ID": 13,
+            "m_noteDesc": "Warrior/Paladin",
+            "m_iconAssetPath": "",
+            "m_cardColorType": 21
+        },
+        {
+            "m_ID": 2,
+            "m_noteDesc": "Jade Lotus",
+            "m_iconAssetPath": "JadeLotusMultiClassIcon.prefab:1ebc7acb77e204848b9a437a0f151d3c",
+            "m_cardColorType": 0
+        },
+        {
+            "m_ID": 28,
+            "m_noteDesc": "Mage/Hunter",
+            "m_iconAssetPath": "",
+            "m_cardColorType": 39
+        },
+        {
+            "m_ID": 29,
+            "m_noteDesc": "Hunter/Death Knight",
+            "m_iconAssetPath": "",
+            "m_cardColorType": 40
+        },
+        {
+            "m_ID": 3,
+            "m_noteDesc": "Kabal",
+            "m_iconAssetPath": "KabalMultiClassIcon.prefab:4fd77d5aa0424734aa882c2fc8593d62",
+            "m_cardColorType": 0
+        },
+        {
+            "m_ID": 30,
+            "m_noteDesc": "Death Knight/Paladin",
+            "m_iconAssetPath": "",
+            "m_cardColorType": 41
+        },
+        {
+            "m_ID": 31,
+            "m_noteDesc": "Paladin/Shaman",
+            "m_iconAssetPath": "",
+            "m_cardColorType": 42
+        },
+        {
+            "m_ID": 32,
+            "m_noteDesc": "Shaman/Warrior",
+            "m_iconAssetPath": "",
+            "m_cardColorType": 43
+        },
+        {
+            "m_ID": 33,
+            "m_noteDesc": "Warrior/Demon Hunter",
+            "m_iconAssetPath": "",
+            "m_cardColorType": 44
+        },
+        {
+            "m_ID": 34,
+            "m_noteDesc": "Demon Hunter/Rogue",
+            "m_iconAssetPath": "",
+            "m_cardColorType": 45
+        },
+        {
+            "m_ID": 35,
+            "m_noteDesc": "Rogue/Priest",
+            "m_iconAssetPath": "",
+            "m_cardColorType": 46
+        },
+        {
+            "m_ID": 36,
+            "m_noteDesc": "Priest/Druid",
+            "m_iconAssetPath": "",
+            "m_cardColorType": 47
+        },
+        {
+            "m_ID": 37,
+            "m_noteDesc": "Druid/Warlock",
+            "m_iconAssetPath": "",
+            "m_cardColorType": 48
+        },
+        {
+            "m_ID": 38,
+            "m_noteDesc": "Warlock/Mage",
+            "m_iconAssetPath": "",
+            "m_cardColorType": 49
+        },
+        {
+            "m_ID": 39,
+            "m_noteDesc": "Warrior/Warlock",
+            "m_iconAssetPath": "",
+            "m_cardColorType": 50
+        },
+        {
+            "m_ID": 4,
+            "m_noteDesc": "Paladin/Priest",
+            "m_iconAssetPath": "",
+            "m_cardColorType": 12
+        },
+        {
+            "m_ID": 5,
+            "m_noteDesc": "Warlock/Priest",
+            "m_iconAssetPath": "",
+            "m_cardColorType": 13
+        },
+        {
+            "m_ID": 6,
+            "m_noteDesc": "Warlock/Demon Hunter",
+            "m_iconAssetPath": "",
+            "m_cardColorType": 14
+        },
+        {
+            "m_ID": 7,
+            "m_noteDesc": "Demon Hunter/Hunter",
+            "m_iconAssetPath": "",
+            "m_cardColorType": 15
+        },
+        {
+            "m_ID": 8,
+            "m_noteDesc": "Hunter/Druid",
+            "m_iconAssetPath": "",
+            "m_cardColorType": 16
+        },
+        {
+            "m_ID": 9,
+            "m_noteDesc": "Druid/Shaman",
+            "m_iconAssetPath": "",
+            "m_cardColorType": 17
+        }
+    ]
+}

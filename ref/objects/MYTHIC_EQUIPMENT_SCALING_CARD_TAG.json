@@ -1,0 +1,2838 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 7516994750470843104
+    },
+    "m_Name": "MYTHIC_EQUIPMENT_SCALING_CARD_TAG",
+    "Records": [
+        {
+            "m_ID": 284,
+            "m_lettuceEquipmentId": 10,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 341,
+            "m_lettuceEquipmentId": 104,
+            "m_tagId": 2,
+            "m_tagScaleValue": 6,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 340,
+            "m_lettuceEquipmentId": 105,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 336,
+            "m_lettuceEquipmentId": 109,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 283,
+            "m_lettuceEquipmentId": 11,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 211,
+            "m_lettuceEquipmentId": 111,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 210,
+            "m_lettuceEquipmentId": 112,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 389,
+            "m_lettuceEquipmentId": 113,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 390,
+            "m_lettuceEquipmentId": 113,
+            "m_tagId": 3,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 219,
+            "m_lettuceEquipmentId": 114,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 208,
+            "m_lettuceEquipmentId": 116,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 216,
+            "m_lettuceEquipmentId": 117,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 259,
+            "m_lettuceEquipmentId": 118,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 282,
+            "m_lettuceEquipmentId": 12,
+            "m_tagId": 2,
+            "m_tagScaleValue": 4,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 260,
+            "m_lettuceEquipmentId": 120,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 261,
+            "m_lettuceEquipmentId": 121,
+            "m_tagId": 2,
+            "m_tagScaleValue": 4,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 57,
+            "m_lettuceEquipmentId": 126,
+            "m_tagId": 2,
+            "m_tagScaleValue": 5,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 181,
+            "m_lettuceEquipmentId": 127,
+            "m_tagId": 2,
+            "m_tagScaleValue": 4,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 64,
+            "m_lettuceEquipmentId": 128,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 65,
+            "m_lettuceEquipmentId": 128,
+            "m_tagId": 3,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 72,
+            "m_lettuceEquipmentId": 129,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 73,
+            "m_lettuceEquipmentId": 129,
+            "m_tagId": 3,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 179,
+            "m_lettuceEquipmentId": 13,
+            "m_tagId": 2,
+            "m_tagScaleValue": 4,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 318,
+            "m_lettuceEquipmentId": 130,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 320,
+            "m_lettuceEquipmentId": 131,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 13,
+            "m_lettuceEquipmentId": 132,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 14,
+            "m_lettuceEquipmentId": 134,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 17,
+            "m_lettuceEquipmentId": 135,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 18,
+            "m_lettuceEquipmentId": 136,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 19,
+            "m_lettuceEquipmentId": 136,
+            "m_tagId": 3,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 20,
+            "m_lettuceEquipmentId": 137,
+            "m_tagId": 2,
+            "m_tagScaleValue": 7,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 6,
+            "m_lettuceEquipmentId": 138,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 7,
+            "m_lettuceEquipmentId": 139,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 182,
+            "m_lettuceEquipmentId": 14,
+            "m_tagId": 2,
+            "m_tagScaleValue": 5,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 24,
+            "m_lettuceEquipmentId": 142,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 28,
+            "m_lettuceEquipmentId": 143,
+            "m_tagId": 2,
+            "m_tagScaleValue": 4,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 26,
+            "m_lettuceEquipmentId": 144,
+            "m_tagId": 2,
+            "m_tagScaleValue": 4,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 31,
+            "m_lettuceEquipmentId": 145,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 32,
+            "m_lettuceEquipmentId": 145,
+            "m_tagId": 3,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 25,
+            "m_lettuceEquipmentId": 147,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 35,
+            "m_lettuceEquipmentId": 148,
+            "m_tagId": 2,
+            "m_tagScaleValue": 8,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 34,
+            "m_lettuceEquipmentId": 149,
+            "m_tagId": 2,
+            "m_tagScaleValue": 10,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 373,
+            "m_lettuceEquipmentId": 152,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 372,
+            "m_lettuceEquipmentId": 153,
+            "m_tagId": 2,
+            "m_tagScaleValue": 5,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 8,
+            "m_lettuceEquipmentId": 154,
+            "m_tagId": 2,
+            "m_tagScaleValue": 4,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 9,
+            "m_lettuceEquipmentId": 155,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 371,
+            "m_lettuceEquipmentId": 157,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 309,
+            "m_lettuceEquipmentId": 158,
+            "m_tagId": 2,
+            "m_tagScaleValue": 5,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 307,
+            "m_lettuceEquipmentId": 172,
+            "m_tagId": 2,
+            "m_tagScaleValue": 4,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 308,
+            "m_lettuceEquipmentId": 173,
+            "m_tagId": 2,
+            "m_tagScaleValue": 5,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 376,
+            "m_lettuceEquipmentId": 175,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 377,
+            "m_lettuceEquipmentId": 177,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 315,
+            "m_lettuceEquipmentId": 182,
+            "m_tagId": 2,
+            "m_tagScaleValue": 5,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 316,
+            "m_lettuceEquipmentId": 183,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 317,
+            "m_lettuceEquipmentId": 183,
+            "m_tagId": 3,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 312,
+            "m_lettuceEquipmentId": 185,
+            "m_tagId": 2,
+            "m_tagScaleValue": 5,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 363,
+            "m_lettuceEquipmentId": 187,
+            "m_tagId": 2,
+            "m_tagScaleValue": 4,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 364,
+            "m_lettuceEquipmentId": 188,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 378,
+            "m_lettuceEquipmentId": 190,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 381,
+            "m_lettuceEquipmentId": 193,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 176,
+            "m_lettuceEquipmentId": 194,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 177,
+            "m_lettuceEquipmentId": 195,
+            "m_tagId": 2,
+            "m_tagScaleValue": 5,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 178,
+            "m_lettuceEquipmentId": 196,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 324,
+            "m_lettuceEquipmentId": 197,
+            "m_tagId": 2,
+            "m_tagScaleValue": 4,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 323,
+            "m_lettuceEquipmentId": 198,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 325,
+            "m_lettuceEquipmentId": 199,
+            "m_tagId": 2,
+            "m_tagScaleValue": 10,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 10,
+            "m_lettuceEquipmentId": 200,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 11,
+            "m_lettuceEquipmentId": 201,
+            "m_tagId": 2,
+            "m_tagScaleValue": 5,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 173,
+            "m_lettuceEquipmentId": 203,
+            "m_tagId": 2,
+            "m_tagScaleValue": 5,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 392,
+            "m_lettuceEquipmentId": 204,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 271,
+            "m_lettuceEquipmentId": 206,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 270,
+            "m_lettuceEquipmentId": 207,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 272,
+            "m_lettuceEquipmentId": 208,
+            "m_tagId": 2,
+            "m_tagScaleValue": 4,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 62,
+            "m_lettuceEquipmentId": 209,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 63,
+            "m_lettuceEquipmentId": 209,
+            "m_tagId": 3,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 96,
+            "m_lettuceEquipmentId": 211,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 94,
+            "m_lettuceEquipmentId": 212,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 95,
+            "m_lettuceEquipmentId": 213,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 156,
+            "m_lettuceEquipmentId": 214,
+            "m_tagId": 2,
+            "m_tagScaleValue": 5,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 155,
+            "m_lettuceEquipmentId": 215,
+            "m_tagId": 3,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 218,
+            "m_lettuceEquipmentId": 217,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 349,
+            "m_lettuceEquipmentId": 219,
+            "m_tagId": 2,
+            "m_tagScaleValue": 4,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 50,
+            "m_lettuceEquipmentId": 223,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 51,
+            "m_lettuceEquipmentId": 224,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 49,
+            "m_lettuceEquipmentId": 225,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 350,
+            "m_lettuceEquipmentId": 226,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 351,
+            "m_lettuceEquipmentId": 227,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 12,
+            "m_lettuceEquipmentId": 228,
+            "m_tagId": 2,
+            "m_tagScaleValue": 8,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 114,
+            "m_lettuceEquipmentId": 23,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 100,
+            "m_lettuceEquipmentId": 231,
+            "m_tagId": 2,
+            "m_tagScaleValue": 10,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 313,
+            "m_lettuceEquipmentId": 234,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 314,
+            "m_lettuceEquipmentId": 234,
+            "m_tagId": 3,
+            "m_tagScaleValue": 5,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 296,
+            "m_lettuceEquipmentId": 241,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 298,
+            "m_lettuceEquipmentId": 242,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 297,
+            "m_lettuceEquipmentId": 243,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 101,
+            "m_lettuceEquipmentId": 244,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 105,
+            "m_lettuceEquipmentId": 245,
+            "m_tagId": 3,
+            "m_tagScaleValue": 4,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 102,
+            "m_lettuceEquipmentId": 246,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 103,
+            "m_lettuceEquipmentId": 246,
+            "m_tagId": 3,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 387,
+            "m_lettuceEquipmentId": 248,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 115,
+            "m_lettuceEquipmentId": 25,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 360,
+            "m_lettuceEquipmentId": 250,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 361,
+            "m_lettuceEquipmentId": 251,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 362,
+            "m_lettuceEquipmentId": 252,
+            "m_tagId": 2,
+            "m_tagScaleValue": 6,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 326,
+            "m_lettuceEquipmentId": 253,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 327,
+            "m_lettuceEquipmentId": 254,
+            "m_tagId": 2,
+            "m_tagScaleValue": 4,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 328,
+            "m_lettuceEquipmentId": 255,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 188,
+            "m_lettuceEquipmentId": 260,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 189,
+            "m_lettuceEquipmentId": 260,
+            "m_tagId": 3,
+            "m_tagScaleValue": 4,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 139,
+            "m_lettuceEquipmentId": 261,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 140,
+            "m_lettuceEquipmentId": 262,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 141,
+            "m_lettuceEquipmentId": 262,
+            "m_tagId": 3,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 142,
+            "m_lettuceEquipmentId": 263,
+            "m_tagId": 2,
+            "m_tagScaleValue": 5,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 143,
+            "m_lettuceEquipmentId": 263,
+            "m_tagId": 3,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 33,
+            "m_lettuceEquipmentId": 264,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 190,
+            "m_lettuceEquipmentId": 265,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 191,
+            "m_lettuceEquipmentId": 265,
+            "m_tagId": 3,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 192,
+            "m_lettuceEquipmentId": 265,
+            "m_tagId": 2889,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 22,
+            "m_lettuceEquipmentId": 267,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 23,
+            "m_lettuceEquipmentId": 268,
+            "m_tagId": 2,
+            "m_tagScaleValue": 5,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 144,
+            "m_lettuceEquipmentId": 270,
+            "m_tagId": 2,
+            "m_tagScaleValue": 5,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 145,
+            "m_lettuceEquipmentId": 271,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 86,
+            "m_lettuceEquipmentId": 273,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 87,
+            "m_lettuceEquipmentId": 274,
+            "m_tagId": 2,
+            "m_tagScaleValue": 4,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 88,
+            "m_lettuceEquipmentId": 275,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 223,
+            "m_lettuceEquipmentId": 278,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 224,
+            "m_lettuceEquipmentId": 279,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 225,
+            "m_lettuceEquipmentId": 280,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 121,
+            "m_lettuceEquipmentId": 288,
+            "m_tagId": 2,
+            "m_tagScaleValue": 5,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 119,
+            "m_lettuceEquipmentId": 289,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 27,
+            "m_lettuceEquipmentId": 29,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 253,
+            "m_lettuceEquipmentId": 290,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 254,
+            "m_lettuceEquipmentId": 291,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 255,
+            "m_lettuceEquipmentId": 291,
+            "m_tagId": 3,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 256,
+            "m_lettuceEquipmentId": 292,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 146,
+            "m_lettuceEquipmentId": 293,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 147,
+            "m_lettuceEquipmentId": 294,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 148,
+            "m_lettuceEquipmentId": 294,
+            "m_tagId": 3,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 149,
+            "m_lettuceEquipmentId": 295,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 304,
+            "m_lettuceEquipmentId": 296,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 384,
+            "m_lettuceEquipmentId": 297,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 385,
+            "m_lettuceEquipmentId": 297,
+            "m_tagId": 3,
+            "m_tagScaleValue": 4,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 386,
+            "m_lettuceEquipmentId": 298,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 365,
+            "m_lettuceEquipmentId": 299,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 366,
+            "m_lettuceEquipmentId": 300,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 367,
+            "m_lettuceEquipmentId": 301,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 75,
+            "m_lettuceEquipmentId": 302,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 76,
+            "m_lettuceEquipmentId": 302,
+            "m_tagId": 3,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 77,
+            "m_lettuceEquipmentId": 303,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 79,
+            "m_lettuceEquipmentId": 304,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 36,
+            "m_lettuceEquipmentId": 306,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 37,
+            "m_lettuceEquipmentId": 307,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 265,
+            "m_lettuceEquipmentId": 308,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 266,
+            "m_lettuceEquipmentId": 309,
+            "m_tagId": 2,
+            "m_tagScaleValue": 5,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 15,
+            "m_lettuceEquipmentId": 31,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 220,
+            "m_lettuceEquipmentId": 311,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 221,
+            "m_lettuceEquipmentId": 312,
+            "m_tagId": 2,
+            "m_tagScaleValue": 4,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 222,
+            "m_lettuceEquipmentId": 313,
+            "m_tagId": 2,
+            "m_tagScaleValue": 4,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 358,
+            "m_lettuceEquipmentId": 321,
+            "m_tagId": 2,
+            "m_tagScaleValue": 4,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 356,
+            "m_lettuceEquipmentId": 323,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 357,
+            "m_lettuceEquipmentId": 323,
+            "m_tagId": 3,
+            "m_tagScaleValue": 4,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 131,
+            "m_lettuceEquipmentId": 324,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 132,
+            "m_lettuceEquipmentId": 326,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 122,
+            "m_lettuceEquipmentId": 327,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 123,
+            "m_lettuceEquipmentId": 328,
+            "m_tagId": 2,
+            "m_tagScaleValue": 4,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 124,
+            "m_lettuceEquipmentId": 329,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 175,
+            "m_lettuceEquipmentId": 33,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 262,
+            "m_lettuceEquipmentId": 330,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 263,
+            "m_lettuceEquipmentId": 331,
+            "m_tagId": 2,
+            "m_tagScaleValue": 4,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 264,
+            "m_lettuceEquipmentId": 332,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 136,
+            "m_lettuceEquipmentId": 333,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 137,
+            "m_lettuceEquipmentId": 334,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 138,
+            "m_lettuceEquipmentId": 335,
+            "m_tagId": 2,
+            "m_tagScaleValue": 4,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 391,
+            "m_lettuceEquipmentId": 336,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 248,
+            "m_lettuceEquipmentId": 337,
+            "m_tagId": 2,
+            "m_tagScaleValue": 4,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 249,
+            "m_lettuceEquipmentId": 338,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 69,
+            "m_lettuceEquipmentId": 339,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 174,
+            "m_lettuceEquipmentId": 34,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 70,
+            "m_lettuceEquipmentId": 340,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 71,
+            "m_lettuceEquipmentId": 341,
+            "m_tagId": 2,
+            "m_tagScaleValue": 4,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 214,
+            "m_lettuceEquipmentId": 342,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 215,
+            "m_lettuceEquipmentId": 343,
+            "m_tagId": 2,
+            "m_tagScaleValue": 5,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 388,
+            "m_lettuceEquipmentId": 344,
+            "m_tagId": 2,
+            "m_tagScaleValue": 5,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 205,
+            "m_lettuceEquipmentId": 346,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 206,
+            "m_lettuceEquipmentId": 348,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 207,
+            "m_lettuceEquipmentId": 348,
+            "m_tagId": 3,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 198,
+            "m_lettuceEquipmentId": 349,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 200,
+            "m_lettuceEquipmentId": 350,
+            "m_tagId": 2,
+            "m_tagScaleValue": 4,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 199,
+            "m_lettuceEquipmentId": 351,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 120,
+            "m_lettuceEquipmentId": 352,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 134,
+            "m_lettuceEquipmentId": 353,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 135,
+            "m_lettuceEquipmentId": 353,
+            "m_tagId": 3,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 133,
+            "m_lettuceEquipmentId": 355,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 243,
+            "m_lettuceEquipmentId": 356,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 244,
+            "m_lettuceEquipmentId": 356,
+            "m_tagId": 3,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 245,
+            "m_lettuceEquipmentId": 357,
+            "m_tagId": 2,
+            "m_tagScaleValue": 4,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 338,
+            "m_lettuceEquipmentId": 359,
+            "m_tagId": 2,
+            "m_tagScaleValue": 4,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 339,
+            "m_lettuceEquipmentId": 360,
+            "m_tagId": 2,
+            "m_tagScaleValue": 4,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 368,
+            "m_lettuceEquipmentId": 363,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 369,
+            "m_lettuceEquipmentId": 364,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 370,
+            "m_lettuceEquipmentId": 365,
+            "m_tagId": 2,
+            "m_tagScaleValue": 4,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 230,
+            "m_lettuceEquipmentId": 367,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 231,
+            "m_lettuceEquipmentId": 368,
+            "m_tagId": 2,
+            "m_tagScaleValue": 4,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 150,
+            "m_lettuceEquipmentId": 369,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 151,
+            "m_lettuceEquipmentId": 370,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 152,
+            "m_lettuceEquipmentId": 370,
+            "m_tagId": 3,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 153,
+            "m_lettuceEquipmentId": 371,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 241,
+            "m_lettuceEquipmentId": 375,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 379,
+            "m_lettuceEquipmentId": 377,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 380,
+            "m_lettuceEquipmentId": 377,
+            "m_tagId": 3,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 287,
+            "m_lettuceEquipmentId": 378,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 288,
+            "m_lettuceEquipmentId": 380,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 41,
+            "m_lettuceEquipmentId": 383,
+            "m_tagId": 2,
+            "m_tagScaleValue": 5,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 42,
+            "m_lettuceEquipmentId": 385,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 43,
+            "m_lettuceEquipmentId": 385,
+            "m_tagId": 3,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 250,
+            "m_lettuceEquipmentId": 386,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 251,
+            "m_lettuceEquipmentId": 387,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 252,
+            "m_lettuceEquipmentId": 388,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 52,
+            "m_lettuceEquipmentId": 389,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 53,
+            "m_lettuceEquipmentId": 390,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 54,
+            "m_lettuceEquipmentId": 391,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 47,
+            "m_lettuceEquipmentId": 392,
+            "m_tagId": 2,
+            "m_tagScaleValue": 5,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 48,
+            "m_lettuceEquipmentId": 393,
+            "m_tagId": 2,
+            "m_tagScaleValue": 20,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 44,
+            "m_lettuceEquipmentId": 398,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 45,
+            "m_lettuceEquipmentId": 399,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 46,
+            "m_lettuceEquipmentId": 399,
+            "m_tagId": 3,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 89,
+            "m_lettuceEquipmentId": 402,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 90,
+            "m_lettuceEquipmentId": 402,
+            "m_tagId": 3,
+            "m_tagScaleValue": 5,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 93,
+            "m_lettuceEquipmentId": 403,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 91,
+            "m_lettuceEquipmentId": 404,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 92,
+            "m_lettuceEquipmentId": 404,
+            "m_tagId": 3,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 305,
+            "m_lettuceEquipmentId": 405,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 306,
+            "m_lettuceEquipmentId": 406,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 38,
+            "m_lettuceEquipmentId": 408,
+            "m_tagId": 2,
+            "m_tagScaleValue": 4,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 39,
+            "m_lettuceEquipmentId": 408,
+            "m_tagId": 3,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 40,
+            "m_lettuceEquipmentId": 410,
+            "m_tagId": 2,
+            "m_tagScaleValue": 5,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 197,
+            "m_lettuceEquipmentId": 412,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 196,
+            "m_lettuceEquipmentId": 413,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 74,
+            "m_lettuceEquipmentId": 42,
+            "m_tagId": 2,
+            "m_tagScaleValue": 5,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 236,
+            "m_lettuceEquipmentId": 420,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 237,
+            "m_lettuceEquipmentId": 421,
+            "m_tagId": 2,
+            "m_tagScaleValue": 4,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 239,
+            "m_lettuceEquipmentId": 425,
+            "m_tagId": 2,
+            "m_tagScaleValue": 5,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 240,
+            "m_lettuceEquipmentId": 426,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 186,
+            "m_lettuceEquipmentId": 430,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 187,
+            "m_lettuceEquipmentId": 431,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 395,
+            "m_lettuceEquipmentId": 432,
+            "m_tagId": 2,
+            "m_tagScaleValue": 5,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 232,
+            "m_lettuceEquipmentId": 436,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 233,
+            "m_lettuceEquipmentId": 437,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 234,
+            "m_lettuceEquipmentId": 437,
+            "m_tagId": 3,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 235,
+            "m_lettuceEquipmentId": 438,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 352,
+            "m_lettuceEquipmentId": 439,
+            "m_tagId": 2,
+            "m_tagScaleValue": 4,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 310,
+            "m_lettuceEquipmentId": 44,
+            "m_tagId": 2,
+            "m_tagScaleValue": 8,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 353,
+            "m_lettuceEquipmentId": 440,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 354,
+            "m_lettuceEquipmentId": 440,
+            "m_tagId": 3,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 355,
+            "m_lettuceEquipmentId": 441,
+            "m_tagId": 2,
+            "m_tagScaleValue": 5,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 84,
+            "m_lettuceEquipmentId": 443,
+            "m_tagId": 2,
+            "m_tagScaleValue": 4,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 85,
+            "m_lettuceEquipmentId": 444,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 343,
+            "m_lettuceEquipmentId": 445,
+            "m_tagId": 2,
+            "m_tagScaleValue": 4,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 344,
+            "m_lettuceEquipmentId": 447,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 347,
+            "m_lettuceEquipmentId": 449,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 348,
+            "m_lettuceEquipmentId": 449,
+            "m_tagId": 3,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 345,
+            "m_lettuceEquipmentId": 450,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 346,
+            "m_lettuceEquipmentId": 450,
+            "m_tagId": 3,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 267,
+            "m_lettuceEquipmentId": 451,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 268,
+            "m_lettuceEquipmentId": 452,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 269,
+            "m_lettuceEquipmentId": 453,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 125,
+            "m_lettuceEquipmentId": 454,
+            "m_tagId": 2,
+            "m_tagScaleValue": 5,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 126,
+            "m_lettuceEquipmentId": 454,
+            "m_tagId": 3,
+            "m_tagScaleValue": 5,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 127,
+            "m_lettuceEquipmentId": 455,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 128,
+            "m_lettuceEquipmentId": 455,
+            "m_tagId": 3,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 129,
+            "m_lettuceEquipmentId": 456,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 130,
+            "m_lettuceEquipmentId": 456,
+            "m_tagId": 3,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 311,
+            "m_lettuceEquipmentId": 46,
+            "m_tagId": 2,
+            "m_tagScaleValue": 4,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 193,
+            "m_lettuceEquipmentId": 460,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 194,
+            "m_lettuceEquipmentId": 461,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 195,
+            "m_lettuceEquipmentId": 462,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 292,
+            "m_lettuceEquipmentId": 464,
+            "m_tagId": 3,
+            "m_tagScaleValue": 4,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 294,
+            "m_lettuceEquipmentId": 466,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 295,
+            "m_lettuceEquipmentId": 466,
+            "m_tagId": 3,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 107,
+            "m_lettuceEquipmentId": 467,
+            "m_tagId": 3,
+            "m_tagScaleValue": 5,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 108,
+            "m_lettuceEquipmentId": 468,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 109,
+            "m_lettuceEquipmentId": 468,
+            "m_tagId": 3,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 110,
+            "m_lettuceEquipmentId": 469,
+            "m_tagId": 2,
+            "m_tagScaleValue": 5,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 226,
+            "m_lettuceEquipmentId": 470,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 227,
+            "m_lettuceEquipmentId": 471,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 228,
+            "m_lettuceEquipmentId": 472,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 229,
+            "m_lettuceEquipmentId": 472,
+            "m_tagId": 3,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 242,
+            "m_lettuceEquipmentId": 477,
+            "m_tagId": 2,
+            "m_tagScaleValue": 4,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 257,
+            "m_lettuceEquipmentId": 478,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 258,
+            "m_lettuceEquipmentId": 478,
+            "m_tagId": 3,
+            "m_tagScaleValue": 4,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 299,
+            "m_lettuceEquipmentId": 479,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 300,
+            "m_lettuceEquipmentId": 479,
+            "m_tagId": 3,
+            "m_tagScaleValue": 5,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 382,
+            "m_lettuceEquipmentId": 48,
+            "m_tagId": 2,
+            "m_tagScaleValue": 5,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 301,
+            "m_lettuceEquipmentId": 480,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 302,
+            "m_lettuceEquipmentId": 480,
+            "m_tagId": 3,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 303,
+            "m_lettuceEquipmentId": 481,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 201,
+            "m_lettuceEquipmentId": 483,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 203,
+            "m_lettuceEquipmentId": 484,
+            "m_tagId": 3,
+            "m_tagScaleValue": 6,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 204,
+            "m_lettuceEquipmentId": 485,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 80,
+            "m_lettuceEquipmentId": 486,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 82,
+            "m_lettuceEquipmentId": 487,
+            "m_tagId": 2,
+            "m_tagScaleValue": 5,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 274,
+            "m_lettuceEquipmentId": 494,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 275,
+            "m_lettuceEquipmentId": 494,
+            "m_tagId": 3,
+            "m_tagScaleValue": 5,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 276,
+            "m_lettuceEquipmentId": 495,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 277,
+            "m_lettuceEquipmentId": 495,
+            "m_tagId": 3,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 170,
+            "m_lettuceEquipmentId": 5,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 171,
+            "m_lettuceEquipmentId": 5,
+            "m_tagId": 3,
+            "m_tagScaleValue": 4,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 238,
+            "m_lettuceEquipmentId": 50,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 163,
+            "m_lettuceEquipmentId": 56,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 164,
+            "m_lettuceEquipmentId": 57,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 165,
+            "m_lettuceEquipmentId": 58,
+            "m_tagId": 2,
+            "m_tagScaleValue": 4,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 169,
+            "m_lettuceEquipmentId": 6,
+            "m_tagId": 2,
+            "m_tagScaleValue": 4,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 399,
+            "m_lettuceEquipmentId": 60,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 321,
+            "m_lettuceEquipmentId": 61,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 322,
+            "m_lettuceEquipmentId": 61,
+            "m_tagId": 3,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 278,
+            "m_lettuceEquipmentId": 62,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 279,
+            "m_lettuceEquipmentId": 63,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 280,
+            "m_lettuceEquipmentId": 64,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 281,
+            "m_lettuceEquipmentId": 64,
+            "m_tagId": 3,
+            "m_tagScaleValue": 7,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 118,
+            "m_lettuceEquipmentId": 65,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 117,
+            "m_lettuceEquipmentId": 66,
+            "m_tagId": 2,
+            "m_tagScaleValue": 4,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 116,
+            "m_lettuceEquipmentId": 67,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 333,
+            "m_lettuceEquipmentId": 68,
+            "m_tagId": 2,
+            "m_tagScaleValue": 5,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 334,
+            "m_lettuceEquipmentId": 68,
+            "m_tagId": 3,
+            "m_tagScaleValue": 5,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 329,
+            "m_lettuceEquipmentId": 69,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 285,
+            "m_lettuceEquipmentId": 7,
+            "m_tagId": 2,
+            "m_tagScaleValue": 5,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 330,
+            "m_lettuceEquipmentId": 70,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 331,
+            "m_lettuceEquipmentId": 70,
+            "m_tagId": 3,
+            "m_tagScaleValue": 4,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 58,
+            "m_lettuceEquipmentId": 71,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 59,
+            "m_lettuceEquipmentId": 72,
+            "m_tagId": 2,
+            "m_tagScaleValue": 5,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 60,
+            "m_lettuceEquipmentId": 73,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 55,
+            "m_lettuceEquipmentId": 74,
+            "m_tagId": 2,
+            "m_tagScaleValue": 5,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 56,
+            "m_lettuceEquipmentId": 75,
+            "m_tagId": 2,
+            "m_tagScaleValue": 4,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 66,
+            "m_lettuceEquipmentId": 78,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 61,
+            "m_lettuceEquipmentId": 79,
+            "m_tagId": 2,
+            "m_tagScaleValue": 4,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 286,
+            "m_lettuceEquipmentId": 8,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 168,
+            "m_lettuceEquipmentId": 80,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 291,
+            "m_lettuceEquipmentId": 81,
+            "m_tagId": 2,
+            "m_tagScaleValue": 4,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 289,
+            "m_lettuceEquipmentId": 82,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 166,
+            "m_lettuceEquipmentId": 83,
+            "m_tagId": 2,
+            "m_tagScaleValue": 4,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 167,
+            "m_lettuceEquipmentId": 84,
+            "m_tagId": 2,
+            "m_tagScaleValue": 5,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 290,
+            "m_lettuceEquipmentId": 85,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 161,
+            "m_lettuceEquipmentId": 86,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 162,
+            "m_lettuceEquipmentId": 86,
+            "m_tagId": 3,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 159,
+            "m_lettuceEquipmentId": 87,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 160,
+            "m_lettuceEquipmentId": 87,
+            "m_tagId": 3,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 158,
+            "m_lettuceEquipmentId": 88,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 185,
+            "m_lettuceEquipmentId": 89,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 184,
+            "m_lettuceEquipmentId": 90,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 183,
+            "m_lettuceEquipmentId": 91,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 319,
+            "m_lettuceEquipmentId": 92,
+            "m_tagId": 2,
+            "m_tagScaleValue": 4,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 335,
+            "m_lettuceEquipmentId": 94,
+            "m_tagId": 2,
+            "m_tagScaleValue": 4,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 154,
+            "m_lettuceEquipmentId": 96,
+            "m_tagId": 2889,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        }
+    ]
+}

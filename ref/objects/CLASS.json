@@ -1,0 +1,1310 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -597455804850182952
+    },
+    "m_Name": "CLASS",
+    "Records": [
+        {
+            "m_ID": 1,
+            "m_assetFlags": 0,
+            "m_defaultHeroCardId": 78065,
+            "m_previewDesc": {
+                "m_locValues": [
+                    "Raise the dead and overrun your opponents with your undead army.",
+                    "Erweckt die Toten und überrollt Eure Gegner mit Eurer Untotenarmee.",
+                    "Levanta a los cadáveres y arrasa a tus oponentes con tu ejército de no-muertos.",
+                    "Resucita a los muertos y supera a tus adversarios con tu ejército de No-muertos.",
+                    "Ressuscitez les morts et submergez l’adversaire avec votre armée de morts-vivants.",
+                    "Risveglia i morti e sbaraglia gli avversari con la tua armata di Non Morti.",
+                    "死者を蘇らせ、対戦相手をアンデッド軍団で圧倒しよう。",
+                    "죽은 자를 일으켜 만든 수많은 언데드 군단으로 상대편을 압도합니다.",
+                    "Wskrzeszaj poległych i przytłocz przeciwników armią nieumarłych.",
+                    "Levante os mortos e sobrepuje seus oponentes com um exército de mortos-vivos.",
+                    "Воскрешайте мертвых и ведите армию нежити в бой.",
+                    "คืนชีพให้ศพและนำ[b]กองทัพอันเดด[b]ของคุณบุกถล่ม[b]คู่ต่อสู้",
+                    "复活死者，用你的亡灵大军战胜对手。",
+                    "復活亡者，以不死大軍擊潰對手。"
+                ],
+                "m_locId": 2886028
+            },
+            "m_strengthsDesc": {
+                "m_locValues": [
+                    "Undead, Corpses, Healing, minion swarms",
+                    "Untote, Leichen, Heilung, Dienergruppen",
+                    "No-muertos, cadáveres, sanación, enjambres de esbirros",
+                    "No-muertos, Cadáveres, sanación, enjambres de esbirros",
+                    "Morts-vivants, cadavres, soins, essaims de serviteurs",
+                    "Non Morti, Cadaveri, cure, sciami di servitori",
+                    "アンデッド、死体、回復、ミニオンの群れ",
+                    "언데드, 시체, 치유, 하수인 다수 생성",
+                    "Nieumarli, trupy, uzdrawianie, hordy stronników",
+                    "Mortos-vivos, cadáveres, cura, enxame de lacaios",
+                    "Нежить, трупы, лечение, орды существ.",
+                    "อันเดด ศพ การฟื้นฟู ฝูงมินเนี่ยน",
+                    "亡灵，尸体，治疗，随从铺场",
+                    "不死族、屍體、治療、大量手下"
+                ],
+                "m_locId": 2886029
+            },
+            "m_weaknessesDesc": {
+                "m_locValues": [
+                    "Challenging to build and pilot decks",
+                    "Decks zu erstellen und zu spielen ist fordernd",
+                    "Cuesta crear y controlar los mazos",
+                    "Dificultad para crear y manejar mazos",
+                    "Défi pour la construction et le pilotage de decks",
+                    "Mazzi impegnativi da costruire e gestire",
+                    "デッキの構築とプレイングが難し目",
+                    "덱을 편성하고 운용하기 어려움",
+                    "Talie trudne do zbudowania i pilotowania",
+                    "Decks difíceis de montar e de usar",
+                    "Сложные в составлении и  непростые в освоении колоды.",
+                    "ต้องอาศัยความ[b]สามารถในการจัดเด็ค[b]และควบคุมเด็ค",
+                    "套牌构筑与运用难度大",
+                    "構築並使用套牌較具挑戰性"
+                ],
+                "m_locId": 2886030
+            },
+            "m_classFirstSelectionQuote": {
+                "m_locValues": [
+                    "Cast rune spells to destroy your enemies, then use their remains to raise an army.",
+                    "Wirkt Runenzauber, um Eure Feinde zu vernichten und verwandelt ihre Überreste in eine Armee der Untoten.",
+                    "Lanza hechizos rúnicos para destruir a tus enemigos y reúne un ejército con sus restos.",
+                    "Lanza hechizos de runa para destruir a tus enemigos y utiliza sus restos para crear un ejército.",
+                    "Lancez des sorts runiques pour anéantir vos adversaires, puis utilisez leurs cadavres pour lever une armée.",
+                    "Lancia Magie Runiche per distruggere i tuoi nemici, poi usane i resti per creare un'armata.",
+                    "ルーン呪文で敵を破壊し、それらの残骸を利用して手下の軍団を創造しよう。",
+                    "룬 주문을 시전해 적을 처치한 다음, 그 시체로 병사를 만듭니다.",
+                    "Rzucaj zaklęcia runiczne, żeby zniszczyć wrogów, a później wykorzystaj ich szczątki do wskrzeszenia armii.",
+                    "Conjure feitiços rúnicos para destruir seus inimigos, depois use seus restos mortais para levantar o seu exército.",
+                    "Уничтожайте противников руническими заклинаниями и создавайте армию из их останков.",
+                    "ร่ายเวทมนตร์รูนเพื่อทำลายศัตรู จากนั้นใช้ซากศพของพวกมันสร้างกองทัพ",
+                    "施放符文法术来消灭敌人，然后用尸体编成你的随从大军。",
+                    "施放符文法術摧毀敵人，然後使用他們的遺骸來喚起大軍。"
+                ],
+                "m_locId": 2886076
+            }
+        },
+        {
+            "m_ID": 10,
+            "m_assetFlags": 0,
+            "m_defaultHeroCardId": 7,
+            "m_previewDesc": {
+                "m_locValues": [
+                    "Grab a weapon and Armor Up to outlast your opponents in epic battles.",
+                    "Triumphiert in epischen Kämpfen gegen eure Gegner mit Waffe in der Hand und Rüstung am Leib.",
+                    "Hazte con un arma y ponte la armadura para aguantar más que tus oponentes en épicas batallas.",
+                    "Toma un arma y tu armadura para vencer a tus adversarios en batallas épicas.",
+                    "Emparez-vous d’une arme et renforcez votre armure pour vaincre vos adversaires dans des batailles épiques.",
+                    "Afferra un'Arma e fortificati per sconfiggere i tuoi avversari in battaglie epiche.",
+                    "武器を握り、装甲を強化し、壮絶な戦いを繰り広げ、対戦相手より長く生き延びよう。",
+                    "무기를 들고 방어도를 올려 격렬한 전투에서 상대편보다 오래 살아남습니다.",
+                    "Chwyć za broń i zdobądź pancerz, aby wytrwać dłużej niż przeciwnicy w epickich bitwach.",
+                    "Pegue sua arma e vista sua armadura para durar mais que seus oponentes em batalhas épicas.",
+                    "Поднимите оружие и облачитесь в броню, чтобы выстоять в грандиозных битвах.",
+                    "หยิบอาวุธและสวมเกราะ[b]เพื่อยืนหยัดยาวนานเหนือ[b]คู่ต่อสู้ในศึกสุดยิ่งใหญ่",
+                    "全副武装！拿起武器，穿上护甲，在史诗般的战斗中消耗你的对手。",
+                    "拿起武器，穿上護甲，在史詩級的漫長戰鬥中勝過對手。"
+                ],
+                "m_locId": 2886064
+            },
+            "m_strengthsDesc": {
+                "m_locValues": [
+                    "Armor, Taunt, weapons, destroying minions",
+                    "Rüstung, Spott, Waffen, Zerstören von Dienern",
+                    "Armadura, Provocar, armas, destruir esbirros",
+                    "Armadura, Provocación, armas, destrucción de esbirros",
+                    "Armure, Provocation, armes, élimination des serviteurs",
+                    "Armatura, Provocazione, Armi, distruzione di servitori",
+                    "装甲、挑発、武器、ミニオンの破壊",
+                    "방어도, 도발, 무기, 하수인 처치",
+                    "Pancerz, Prowokacja, bronie, niszczenie stronników",
+                    "Armadura, Provocar, armas, destruição de lacaios",
+                    "Броня, провокаторы, оружие, уничтожение существ.",
+                    "เกราะ_การยั่วยุ อาวุธ_การทำลาย[b]มินเนี่ยน",
+                    "护甲，嘲讽，武器，消灭随从",
+                    "護甲、嘲諷、武器、摧毀手下"
+                ],
+                "m_locId": 2886065
+            },
+            "m_weaknessesDesc": {
+                "m_locValues": [
+                    "Direct hero damage spells, minion swarms",
+                    "Helden Direktschaden, Zauber, Dienergruppen",
+                    "Hechizos de daño directo al héroe, enjambres de esbirros",
+                    "Hechizos de daño directo al héroe, enjambres de esbirros",
+                    "Sorts à dégâts directs héroïques, essaims de serviteurs",
+                    "Magie a danni diretti all'eroe, sciami di servitori",
+                    "ヒーローへの直接ダメージ呪文、ミニオンの群れ",
+                    "영웅 직접 피해 주문, 하수인 다수 생성",
+                    "Zaklęcia zadające obrażenia bohaterom, hordy stronników",
+                    "Feitiços de dano direto ao herói, enxames de lacaios",
+                    "Заклинания, наносящие урон герою, орды существ.",
+                    "เวทมนตร์สร้างความ[b]เสียหายให้ฮีโร่[b]โดยตรง ฝูงมินเนี่ยน",
+                    "英雄直伤法术，随从铺场",
+                    "直接英雄傷害法術、大量手下"
+                ],
+                "m_locId": 2886066
+            },
+            "m_classFirstSelectionQuote": {
+                "m_locValues": [
+                    "As a Warrior, the size of your armor is rivaled only by the size of your weapons.",
+                    "Als Krieger wird die Größe Eurer Rüstung nur von der Größe Eurer Waffen übertroffen.",
+                    "Como guerrero, el tamaño de tu armadura solo se puede comparar con el de tus armas.",
+                    "Como Guerrero, el tamaño de tu armadura solo se puede comparar con el tamaño de tus armas.",
+                    "En tant que guerrier ou guerrière, la taille de votre armure n’a d’égale que celle de vos armes.",
+                    "Se scegli il Guerriero, soltanto le dimensioni delle tue Armi potranno competere con quelle della tua Armatura.",
+                    "ウォリアーの装甲の分厚さに匹敵できるものは、ウォリアーの武器のデカさだけだ。",
+                    "전사라면 자신의 방어구 크기에 견줄 건 오직 무기밖에 없습니다.",
+                    "Gdy wcielisz się w wojownika, z mocą twojego pancerza może równać się tylko potęga twojego oręża.",
+                    "Como Guerreiro, a única coisa maior que sua armadura será o tamanho de suas armas.",
+                    "Броня воина впечатляет не меньше, чем мощь его оружия.",
+                    "สำหรับวอริเออร์ สิ่งเดียวที่ใหญ่ทัดเทียม[b]เกราะของคุณก็คือขนาดอาวุธของคุณ",
+                    "身为战士，你的护甲要和武器同样强大。",
+                    "身為一名戰士，你的護甲尺寸與武器大小都讓人難以置信。"
+                ],
+                "m_locId": 2886085
+            }
+        },
+        {
+            "m_ID": 11,
+            "m_assetFlags": 0,
+            "m_defaultHeroCardId": 0,
+            "m_previewDesc": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_strengthsDesc": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_weaknessesDesc": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_classFirstSelectionQuote": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            }
+        },
+        {
+            "m_ID": 12,
+            "m_assetFlags": 0,
+            "m_defaultHeroCardId": 0,
+            "m_previewDesc": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_strengthsDesc": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_weaknessesDesc": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_classFirstSelectionQuote": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            }
+        },
+        {
+            "m_ID": 13,
+            "m_assetFlags": 0,
+            "m_defaultHeroCardId": 0,
+            "m_previewDesc": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_strengthsDesc": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_weaknessesDesc": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_classFirstSelectionQuote": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            }
+        },
+        {
+            "m_ID": 14,
+            "m_assetFlags": 0,
+            "m_defaultHeroCardId": 56550,
+            "m_previewDesc": {
+                "m_locValues": [
+                    "Become a powerful outcast, bending chaotic energies and lesser demons to your will.",
+                    "Werdet ein mächtiger Ausgestoßener, der chaotische Energien und niedere Dämonen nach seinem Willen beugt.",
+                    "Sé un poderoso proscrito y somete a tu voluntad las energías del caos y los demonios menores.",
+                    "Conviértete en un poderoso marginado, mientras doblegas a tu voluntad las energías caóticas y los demonios inferiores.",
+                    "Devenez un paria redoutable, capable de plier les énergies chaotiques et les démons les moins puissants à sa volonté.",
+                    "Abbraccia il tuo status di reietto, piegando al tuo volere energie del caos e Demoni minori.",
+                    "強力な異端者となり、混沌のエネルギーやしもべの悪魔を意のままに操ろう。",
+                    "강한 추방자가 되어 혼돈의 힘을 휘두르고 하급 악마를 마음대로 조종합니다.",
+                    "Zostań potężnym wygnańcem, naginając do swojej woli energie chaosu i pomniejsze demony.",
+                    "Torne-se um exilado poderoso, moldando energias caóticas e demônios menores à sua vontade.",
+                    "Станьте могучим изгоем, повелевая энергией хаоса и низшими демонами.",
+                    "สวมบทคนผ่าเหล่า[b]ทรงพลัง ผู้ควบคุม[b]พลังงานวิบัติและ[b]ปีศาจระดับล่างได้ดั่งใจ",
+                    "驱使混乱能量和小型恶魔，化身为强大的流放者。",
+                    "成為強大的流亡者，讓混沌能量與弱小惡魔服從於你。"
+                ],
+                "m_locId": 2886068
+            },
+            "m_strengthsDesc": {
+                "m_locValues": [
+                    "Big Demons, card draw, minion swarms",
+                    "Dämonen, Ziehen, Dienergruppen",
+                    "Demonios grandes, robar cartas, enjambres de esbirros",
+                    "Demonios grandes, robo de cartas, enjambres de esbirros",
+                    "Démons imposants, pioche de cartes, essaims de serviteurs",
+                    "Demoni grandi, metodi per pescare carte, sciami di servitori",
+                    "大型悪魔、カードを引く、ミニオンの群れ",
+                    "큰 악마, 카드 뽑기, 하수인 다수 생성",
+                    "Wielkie demony, dobieranie kart, hordy stronników",
+                    "Demônios grandes, compra de cards, enxame de lacaios",
+                    "Большие демоны, вытягивание карт, орды существ.",
+                    "ปีศาจค่าพลังสูง การจั่วการ์ด ฝูงมินเนี่ยน",
+                    "大型恶魔，抽牌，随从铺场",
+                    "大型惡魔、抽牌、大量手下"
+                ],
+                "m_locId": 2886069
+            },
+            "m_weaknessesDesc": {
+                "m_locValues": [
+                    "Destroying big minions, card generation",
+                    "Zerstören von großen Dienern, Erzeugen",
+                    "Destruir esbirros grandes, generar cartas",
+                    "Destrucción de grandes esbirros, generación de cartas",
+                    "Élimination des serviteurs puissants, génération de cartes",
+                    "Distruzione di servitori grandi, generare carte",
+                    "大型ミニオンの破壊、カードの生成",
+                    "큰 하수인 처치, 카드 생성",
+                    "Niszczenie dużych stronników, tworzenie kart",
+                    "Destruição de lacaios grandes, geração de cards",
+                    "Уничтожение больших существ, создание карт.",
+                    "การทำลายมินเนี่ยน[b]ค่าพลังสูง[b]การสร้างการ์ด",
+                    "消灭大型随从，生成卡牌",
+                    "摧毀大型手下、卡牌生成"
+                ],
+                "m_locId": 2886070
+            },
+            "m_classFirstSelectionQuote": {
+                "m_locValues": [
+                    "Fight with vengeance and fury as you let loose the full power of the Fel.",
+                    "Stürzt euch mit Rachsucht und Wut in den Kampf und setzt die Macht des Teufels frei.",
+                    "Lucha con furia por la venganza liberando el pleno poder de lo Vil.",
+                    "Lucha con venganza y furia mientras liberas todo el poder de lo Vil.",
+                    "Combattez avec vengeance et fureur en libérant toute la puissance de la corruption.",
+                    "Combatti in preda al desiderio di vendetta e alla furia, dando sfogo a tutta la potenza della Viltà.",
+                    "怒りと憎しみを燃やし、フェルの力を全解放して戦おう。",
+                    "지옥의 힘을 온전히 발휘해 복수심과 분노를 담아 싸웁니다.",
+                    "Walcz w imię zemsty i furii, uwalniając pełną potęgę Spaczenia.",
+                    "Lute com vingança e fúria enquanto você libera todo o seu poder Vil.",
+                    "Отдайтесь ярости и жажде мести, выпустив на свободу истинную силу Скверны.",
+                    "ต่อสู้ด้วยความเกรี้ยวกราดและแรงแค้น ระหว่างที่ึคุณปลดปล่อยพลังเฟลเต็มพิกัด",
+                    "怀着复仇的怒火踏上战场，释放邪能的全部力量。",
+                    "以復仇怒火戰鬥，全面釋放魔化之力。"
+                ],
+                "m_locId": 2886086
+            }
+        },
+        {
+            "m_ID": 15,
+            "m_assetFlags": 0,
+            "m_defaultHeroCardId": 0,
+            "m_previewDesc": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_strengthsDesc": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_weaknessesDesc": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_classFirstSelectionQuote": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            }
+        },
+        {
+            "m_ID": 2,
+            "m_assetFlags": 0,
+            "m_defaultHeroCardId": 274,
+            "m_previewDesc": {
+                "m_locValues": [
+                    "Harness the power of nature to accelerate your growth and turn your opponents into nourishing fertilizer.",
+                    "Nutzt die Macht der Natur, um Euer Wachstum zu beschleunigen und Eure Gegner in nährenden Dünger zu verwandeln.",
+                    "Cosecha el poder de la naturaleza para acelerar tu crecimiento y convertir en abono a tus oponentes.",
+                    "Aprovecha el poder de la naturaleza para acelerar tu crecimiento y convertir a tus adversarios en fertilizante nutritivo.",
+                    "Exploitez le pouvoir de la nature pour accélérer votre expansion et faites de vos adversaires un engrais nourrissant.",
+                    "Sfrutta il potere della natura per accelerare la tua crescita e trasformare gli avversari in fertilizzante.",
+                    "自然の力を操って味方の成長を加速し、敵を滋養豊かな肥料に変えよう。",
+                    "자연의 힘을 이용해 빠르게 성장하고 상대편을 양분이 많은 비료로 만듭니다.",
+                    "Okiełznaj moc natury, aby przyspieszyć swoje postępy i przerobić przeciwników na odżywczy nawóz.",
+                    "Domine o poder da natureza para acelerar seu crescimento e transforme seus oponentes em fertilizante.",
+                    "Обратитесь к силе природы, чтоб ускорить свой рост и превратить врагов в питательные удобрения.",
+                    "ควบคุมพลังของธรรมชาติ[b]เพื่อเร่งโต แล้วเปลี่ยน[b]คู่ต่อสู้ให้กลายเป็น[b]ปุ๋ยหล่อเลี้ยง",
+                    "运用自然之力，加速你的成长，把你的对手变成养料。",
+                    "駕馭自然之力以加速成長，並把對手變成充滿養分的肥料。"
+                ],
+                "m_locId": 2886032
+            },
+            "m_strengthsDesc": {
+                "m_locValues": [
+                    "Mana generation, giant minions, minion swarms",
+                    "Manaerzeugung, riesige Diener, Dienergruppen",
+                    "Generar maná, esbirros gigantes, enjambres de esbirros",
+                    "Generación de maná, esbirros gigantes, enjambres de esbirros",
+                    "Génération de mana, serviteurs géants, essaims de serviteurs",
+                    "Generazione del Mana, servitori giganti, sciami di servitori",
+                    "マナ生成、巨大ミニオン、ミニオンの群れ",
+                    "마나 생성, 거대 하수인, 하수인 다수 생성",
+                    "Generowanie many, olbrzymi stronnicy, hordy stronników",
+                    "Geração de mana, lacaios gigantes, enxame de lacaios",
+                    "Восстановление маны, огромные существа, орды существ.",
+                    "การสร้างมานา มินเนี่ยนค่าพลังสูง ฝูงมินเนี่ยน",
+                    "生成法力值，超大型随从，随从铺场",
+                    "法力生成、巨大手下、大量手下"
+                ],
+                "m_locId": 2886033
+            },
+            "m_weaknessesDesc": {
+                "m_locValues": [
+                    "Destroying big minions, board clearing",
+                    "Zerstören von großen Dienern, Räumen des Spielbretts",
+                    "Destruir grandes esbirros, despejar el tablero",
+                    "Destrucción de grandes esbirros, limpieza de tablero",
+                    "Élimination des serviteurs puissants, nettoyage du plateau",
+                    "Distruzione di servitori grandi e pulizia del tabellone",
+                    "大型ミニオンの破壊、盤面クリア",
+                    "큰 하수인 처치, 전장 정리",
+                    "Niszczenie dużych stronników, czyszczenie planszy",
+                    "Destruição de lacaios grandes, limpeza do tabuleiro",
+                    "Уничтожение больших существ, очистка стола.",
+                    "การกำจัดมินเนี่ยน[b]ค่าพลังสูง[b]การเคลียร์บอร์ด",
+                    "消灭大型随从，清场",
+                    "摧毀大型手下、清場"
+                ],
+                "m_locId": 2886034
+            },
+            "m_classFirstSelectionQuote": {
+                "m_locValues": [
+                    "Unleash your inner beast and control the untamed power of the wild.",
+                    "Entfesselt Eure innere Bestie und kontrolliert die ungezähmte Macht der Wildnis.",
+                    "Libera tu bestia interior y controla el poder indómito de lo salvaje.",
+                    "Libera a tu bestia interna y controla el indomable poder de lo salvaje.",
+                    "Libérez la bête qui sommeille en vous et contrôlez la puissance indomptée de la nature.",
+                    "Scatena la bestia che è in te e controlla l'indomito potere della natura.",
+                    "あんたの内なる獣を解き放ち、獰猛な野生の力を支配しよう。",
+                    "내면의 야수를 풀어 길들이지 않은 야생의 힘을 휘두릅니다.",
+                    "Uwolnij kryjącą się w tobie bestię i kontroluj nieokiełznaną potęgę dziczy.",
+                    "Libere a sua fera interior e controle o poder indomado da selva.",
+                    "Выпустите на волю внутреннего зверя и обуздайте дикую силу природы.",
+                    "ปลดปล่อยสัญชาตญาณสัตว์ร้ายในตัวคุณ และควบคุมพลังป่าเถื่อนของพงไพร",
+                    "释放内心的猛兽，掌控野性的力量。",
+                    "釋放內心的野獸，控制大自然的不羈之力。"
+                ],
+                "m_locId": 2886077
+            }
+        },
+        {
+            "m_ID": 3,
+            "m_assetFlags": 0,
+            "m_defaultHeroCardId": 31,
+            "m_previewDesc": {
+                "m_locValues": [
+                    "Wild animals answer your call, as you lay down traps and strike down your prey.",
+                    "Wildtiere folgen Eurem Ruf, wenn Ihr Fallen aufstellt und Eure Beute erlegt.",
+                    "Los animales salvajes acuden a tu llamada mientras tiendes trampas y atacas a tu presa.",
+                    "Los animales salvajes responden a tu llamado mientras colocas trampas y derribas a tu presa.",
+                    "Les animaux sauvages répondent à votre appel, tandis que vous posez des pièges et abattez vos proies.",
+                    "Gli animali selvaggi rispondono alla tua chiamata mentre piazzi trappole per abbattere la tua preda.",
+                    "野生の獣たちに命令しつつ、自ら罠を仕掛け、獲物を打ち倒そう。",
+                    "야수들이 당신의 부름에 응합니다. 덫을 놓고 사냥감을 추격하세요.",
+                    "Wzywaj dzikie bestie i zastawiaj pułapki, aby upolować ofiarę.",
+                    "Os animais selvagens atendem ao seu chamado enquanto você prepara armadilhas e ataca sua presa.",
+                    "Научите диких животных откликаться на зов, расставьте ловушки и загоните добычу.",
+                    "เรียกสัตว์ป่ามาช่วยสนับสนุน[b]ระหว่างที่คุณวางกับดักและ[b]กำจัดเหยื่อของคุณ",
+                    "设下陷阱，干掉你的猎物。凶猛的野兽也会听从你召唤。",
+                    "呼喚野獸、設下陷阱並擊敗獵物。"
+                ],
+                "m_locId": 2886036
+            },
+            "m_strengthsDesc": {
+                "m_locValues": [
+                    "Beasts, Secrets, Deathrattle, direct damage",
+                    "Wildtiere, Geheimnisse, Todesröcheln, Direktschaden",
+                    "Bestias, Secretos, Último aliento, daño directo",
+                    "Bestias, Secretos, Estertor, daño directo",
+                    "Bêtes, Secrets, Râle d’agonie, dégâts directs",
+                    "Bestie, Segreti, Rantolo di Morte, danni diretti",
+                    "獣、秘策、断末魔、直接ダメージ",
+                    "야수, 비밀, 죽음의 메아리, 직접 피해",
+                    "Bestie, Sekrety, Agonia, bezpośrednie zadawanie obrażeń",
+                    "Feras, Segredos, Último Suspiro, dano direto",
+                    "Звери, секреты, предсмертные хрипы, прямой урон.",
+                    "สัตว์ กับดัก เสียงสุดท้าย ความเสียหายโดยตรง",
+                    "野兽，奥秘，亡语，直接伤害",
+                    "野獸、秘密、死亡之聲、直接傷害"
+                ],
+                "m_locId": 2886037
+            },
+            "m_weaknessesDesc": {
+                "m_locValues": [
+                    "Healing, board clearing, comeback mechanics",
+                    "Heilung, Räumen des Spielbretts, Comeback-Spielmechanik",
+                    "Sanación, despejar el tablero, mecánicas de remontada",
+                    "Sanación, limpieza de tablero, mecánicas de revancha",
+                    "Soins, nettoyage du plateau, mécaniques de remontée",
+                    "Cure, pulizia del tabellone, meccaniche di rimonta",
+                    "回復、盤面クリア、復帰メカニクス",
+                    "치유, 전장 정리, 반격",
+                    "Leczenie, czyszczenie planszy, mechaniki przywracania do gry",
+                    "Cura, limpeza do tabuleiro, mecânicas de reviravolta",
+                    "Лечение, очистка стола, механики возвращения.",
+                    "การฟื้นฟู การเคลียร์บอร์ด การพลิกสถานการณ์[b]กลับมา",
+                    "治疗，清场，翻盘手段",
+                    "治療、清場、反擊機制"
+                ],
+                "m_locId": 2886038
+            },
+            "m_classFirstSelectionQuote": {
+                "m_locValues": [
+                    "Trap your prey, and then hunt them down with your beasts and bow.",
+                    "Stellt Eurer Beute eine Falle und jagt sie dann mit Euren Wildtieren und Eurem Bogen.",
+                    "Atrapa a tu presa para luego darle caza con tus bestias y tu arco.",
+                    "Atrapa a tu presa y dale caza con tus bestias y arco.",
+                    "Piégez vos proies, puis traquez-les à l’aide de vos bêtes et de votre arc.",
+                    "Metti all'angolo la tua preda e poi dalle la caccia con le tue Bestie e il tuo arco.",
+                    "獲物を罠にかけ、それから獣たちをけしかけ、弓で射て狩ろう。",
+                    "사냥감을 덫에 가두고, 활을 들고 야수와 함께 사냥합니다.",
+                    "Wytrop ofiarę, następnie upoluj ją z pomocą łuku i swoich bestii.",
+                    "Prenda suas presas em armadilhas e depois cace-as com suas feras e seu arco.",
+                    "Поймайте добычу в ловушку, натравите зверей и обстреляйте из лука.",
+                    "วางกับดักเพื่อจับเหยื่อ จากนั้นตามล่าพวกมันด้วยสัตว์และธนูของคุณ",
+                    "用陷阱困住你的猎物，然后用你的野兽和弓箭将其彻底击败。",
+                    "捕捉獵物，用野獸與弓狩獵他們。"
+                ],
+                "m_locId": 2886078
+            }
+        },
+        {
+            "m_ID": 4,
+            "m_assetFlags": 0,
+            "m_defaultHeroCardId": 637,
+            "m_previewDesc": {
+                "m_locValues": [
+                    "Sling powerful spells and commune with arcane dragons to awaken the magic within.",
+                    "Wirkt mächtige Zauber und kommuniziert mit arkanen Drachen, um die Magie in Euch zu wecken.",
+                    "Lanza poderosos hechizos y comulga con dragones arcanos para despertar la magia interior.",
+                    "Dispara poderosos hechizos y comunícate con dragones arcanos para despertar su magia interior.",
+                    "Lancez de puissants sorts et communiez avec les dragons des arcanes pour réveiller la magie qui sommeille en vous.",
+                    "Lancia potenti Magie ed entra in sintonia con i draghi arcani per risvegliare la magia dentro di te.",
+                    "強力な呪文を唱え、魔力に満ちたドラゴン達と交流して内なる魔法を目覚めさせよう。",
+                    "강력한 주문을 시전하고 비전 용족과 교감해 내면에 깃든 마법을 발휘합니다.",
+                    "Miotaj potężnymi zaklęciami i połącz siły z mistycznymi smokami, żeby przebudzić ukrytą w nich magię.",
+                    "Lance feitiços poderosos e comungue com dragões arcanos para despertar a magia interior.",
+                    "Разыгрывайте мощные заклинания и призывайте на помощь чародейских драконов, чтобы пробудить силу магии.",
+                    "สาดเวทมนตร์ทรงพลัง[b]และสื่อสารกับมังกรมนตรา[b]เพื่อปลุกพลังเวทมนตร์[b]ภายใน",
+                    "施展强大的法术，和奥术巨龙一起唤醒魔法的潜力。",
+                    "施放強大法術並與秘法龍類交流，喚醒其中的魔法。"
+                ],
+                "m_locId": 2886040
+            },
+            "m_strengthsDesc": {
+                "m_locValues": [
+                    "Spells, Spell Damage, Secrets, board control",
+                    "Zauber, Zauberschaden, Geheimnisse, Kontrolle über das Spielbrett",
+                    "Hechizos, daño con hechizos, Secretos, control del tablero",
+                    "Hechizos, Daño de hechizos, Secretos, control del tablero",
+                    "Sorts, dégâts des sorts, Secrets, contrôle du plateau",
+                    "Magie, Danni Magici, Segreti, controllo del tabellone",
+                    "呪文、呪文ダメージ、秘策、盤面コントロール",
+                    "주문, 주문 공격력, 비밀, 전장 장악",
+                    "Zaklęcia, Obrażenia zaklęć, Sekrety, kontrola planszy",
+                    "Feitiços, Dano Mágico, Segredos, controle do tabuleiro",
+                    "Заклинания, урон от заклинаний, секреты, контроль игрового поля.",
+                    "เวทมนตร์ ความเสียหายเวท กับดัก การคุมบอร์ด",
+                    "法术，法术伤害，奥秘，控场",
+                    "法術、法術傷害、秘密、控場"
+                ],
+                "m_locId": 2886041
+            },
+            "m_weaknessesDesc": {
+                "m_locValues": [
+                    "Healing, Taunt, minion buffs",
+                    "Heilung, Spott, Stärkungseffekte für Diener",
+                    "Sanación, Provocar, beneficios para esbirros",
+                    "Sanación, Provocación, potenciaciones de esbirros",
+                    "Soins, Provocation, amélioration des serviteurs",
+                    "Cure, Provocazione, potenziamenti ai servitori",
+                    "回復、挑発、ミニオン強化",
+                    "치유, 도발, 하수인 강화",
+                    "Leczenie, Prowokacja, wzmacnianie stronników",
+                    "Cura, Provocar, bônus de lacaios",
+                    "Лечение, провокаторы, усиление существ.",
+                    "การฟื้นฟู การยั่วยุ การเสริมพลังมินเนี่ยน",
+                    "治疗，嘲讽，随从增益",
+                    "治療、嘲諷、手下增益效果"
+                ],
+                "m_locId": 2886042
+            },
+            "m_classFirstSelectionQuote": {
+                "m_locValues": [
+                    "Command the powers of Fire, Frost, and Arcane to defeat your opponents.",
+                    "Besiegt Eure Feinde mit der Macht des Feuers, Frost und Arkan.",
+                    "Domina el poder del Fuego, la Escarcha y lo Arcano para vencer a tus oponentes.",
+                    "Controla los poderes del Fuego, la Escarcha y de lo Arcano para derrotar a tus adversarios.",
+                    "Maîtrisez la puissance du feu, du givre et des arcanes pour vaincre vos adversaires.",
+                    "Padroneggia Magie di Fuoco, di Gelo e Arcane per sconfiggere i tuoi avversari.",
+                    "火炎、凍気、魔力を駆使して対戦相手を倒そう。",
+                    "화염, 냉기, 비전의 힘을 다스려 상대편을 처치합니다.",
+                    "Pokonaj przeciwników potęgą Ognia, Lodu i Mocy tajemnej.",
+                    "Comande os poderes do fogo, gelo e arcano para derrotar seus oponentes.",
+                    "Овладейте мощью огня, льда и тайной магии, чтобы сокрушить соперников.",
+                    "บัญชาพลังของไฟ น้ำแข็ง และมนตราเพื่อเอาชนะคู่ต่อสู้",
+                    "号令火焰，寒冰和奥术的力量，击败你的对手。",
+                    "使喚火焰、冰霜以及秘法之力，擊敗對手。"
+                ],
+                "m_locId": 2886079
+            }
+        },
+        {
+            "m_ID": 5,
+            "m_assetFlags": 0,
+            "m_defaultHeroCardId": 671,
+            "m_previewDesc": {
+                "m_locValues": [
+                    "Even the humblest recruits become powerful minions under Paladin's command.",
+                    "Selbst die bescheidensten Rekruten werden unter dem Kommando des Paladins zu mächtigen Dienern.",
+                    "Incluso los reclutas más humildes se tornan poderosos esbirros bajo el mando del paladín.",
+                    "Hasta los reclutas más débiles se convierten en poderosos esbirros bajo el comando de Paladín.",
+                    "Même les plus humbles recrues deviennent de puissants serviteurs sous le commandement des paladins.",
+                    "Anche le reclute più umili diventano potenti servitori sotto la guida del Paladino.",
+                    "平凡な新兵たちも、パラディンの指揮下では強力なミニオン軍団となる。",
+                    "아무리 보잘것없는 신병이어도 성기사 밑에서는 강한 하수인이 됩니다.",
+                    "Pod dowództwem paladyna nawet najpokorniejsi rekruci zamieniają się w potężnych stronników.",
+                    "Até mesmo os recrutas mais humildes tornam-se lacaios poderosos sob os comandos do Paladino.",
+                    "Под началом паладина скромные новобранцы становятся мощными бойцами.",
+                    "แม้แต่นักรบที่ต่ำต้อยที่สุด[b]ก็กลายเป็นมินเนี่ยนทรงพลัง[b]เมื่ออยู่ใต้บัญชาของ[b]พาลาดิน",
+                    "在圣骑士的麾下，即便是默默无名的新兵也能变成最强大的随从。",
+                    "在聖騎士的號令下，就連最卑微的新兵都能成為強大的手下。"
+                ],
+                "m_locId": 2886044
+            },
+            "m_strengthsDesc": {
+                "m_locValues": [
+                    "Divine Shield, minion swarms, buffs and debuffs",
+                    "Gottesschild, Dienergruppen, Stärkungs- und Schwächungseffekte",
+                    "Escudo divino, enjambres de esbirros, beneficios y perjuicios para esbirros",
+                    "Escudo divino, enjambres de esbirros, potenciaciones y despotenciaciones",
+                    "Bouclier divin, essaims de serviteurs, amélioration et affaiblissement",
+                    "Scudo Divino, sciami di servitori, potenziamenti e penalità",
+                    "聖なる盾、ミニオンの群れ、強化と弱体化",
+                    "천상의 보호막, 하수인 다수 생성, 강화 및 약화 효과",
+                    "Boska tarcza, hordy stronników, wzmocnienia i osłabienia",
+                    "Escudo Divino, enxame de lacaios, bônus e penalidades",
+                    "Божественный щит, орды существ, положительные и отрицательные эффекты.",
+                    "โล่ศักดิ์สิทธิ์[b]ฝูงมินเนี่ยน[b]การเสริมพลังและ[b]การลดพลัง",
+                    "圣盾，随从铺场，增益和削弱",
+                    "聖盾術、大量手下、增益及減益效果"
+                ],
+                "m_locId": 2886045
+            },
+            "m_weaknessesDesc": {
+                "m_locValues": [
+                    "Direct damage, destroying big minions",
+                    "Direktschaden, Zerstören von großen Dienern",
+                    "Daño directo, destruir esbirros grandes",
+                    "Daño directo, destrucción de grandes esbirros",
+                    "Dégâts directs, élimination des serviteurs puissants",
+                    "Danni diretti, distruzione di servitori grandi",
+                    "直接ダメージ、大型ミニオンの破壊",
+                    "직접 피해, 큰 하수인 처치",
+                    "Bezpośrednie zadawanie obrażeń, niszczenie dużych stronników",
+                    "Dano direto, destruição de lacaios grandes",
+                    "Прямой урон, уничтожение больших существ.",
+                    "ความเสียหายโดยตรง[b]การทำลายมินเนี่ยน[b]ค่าพลังสูง",
+                    "直接伤害，消灭大型随从",
+                    "直接傷害、摧毀大型手下"
+                ],
+                "m_locId": 2886046
+            },
+            "m_classFirstSelectionQuote": {
+                "m_locValues": [
+                    "Harness the power of Light and wield it for both protection and retribution.",
+                    "Nutzt die Macht des Lichts zum Schutze und zur Vergeltung.",
+                    "Canaliza el poder de la Luz y aplícalo a la protección y a la venganza.",
+                    "Aprovecha el poder de la Luz y úsalo tanto para la protección como la retribución.",
+                    "Maîtrisez le pouvoir de la Lumière et maniez-le à la fois pour vous protéger et pour rendre la justice.",
+                    "Sfrutta il potere della Luce e impiegalo per proteggerti e infliggere castighi divini.",
+                    "「光」の力を、守護と報復の両方に行使しよう。",
+                    "빛의 힘을 휘둘러 아군을 보호하거나 상대를 응징합니다.",
+                    "Okiełznaj moc Światłości i użyj jej do obrony oraz natarcia.",
+                    "Domine o poder da Luz e empunhe-a para proteção e retaliação.",
+                    "Взывайте к силе Света, защищайте союзников и разите врагов.",
+                    "ใช้พลังของแสงสว่างเป็นอาวุธ[b]เพื่อพิทักษ์และลงทัณฑ์",
+                    "统御圣光的力量，保护盟友，惩戒仇敌。",
+                    "駕馭聖光之力，用以保護與懲戒。"
+                ],
+                "m_locId": 2886080
+            }
+        },
+        {
+            "m_ID": 6,
+            "m_assetFlags": 0,
+            "m_defaultHeroCardId": 813,
+            "m_previewDesc": {
+                "m_locValues": [
+                    "As a healer, keep your minions and your hero healthy to grind your opponents down over time.",
+                    "Als Heiler müsst Ihr das Leben Eurer Diener und Eures Heldens aufrecht erhalten, um Eure Gegner mit der Zeit zu zermürben.",
+                    "Como sanador, mantén la salud de tus esbirros y tu héroe para ir desgastando a tus oponentes poco a poco.",
+                    "Como sanador, mantén la salud de tus esbirros y tu héroe para pulverizar a tus adversarios con el tiempo.",
+                    "Veillez à ce que vos serviteurs et vous-même restiez en bonne santé afin d’écraser progressivement vos adversaires.",
+                    "Come guaritore, mantieni in salute i tuoi servitori e il tuo eroe per sfinire gli avversari nel tempo.",
+                    "回復役として、味方のミニオンとヒーローを健全な状態に保ち、時間をかけて対戦相手を消耗させよう。",
+                    "치유사로서 하수인과 영웅의 체력을 유지해 상대편을 서서히 지치게 합니다.",
+                    "Wciel się w uzdrowiciela i dbaj o zdrowie swoje oraz twoich stronników, aby powoli wykańczać przeciwników.",
+                    "Como curandeiro, mantenha seus lacaios e seu herói saudáveis para desgastar seus oponentes com o tempo.",
+                    "Исцеляйте своих существ и героя, чтобы постепенно изматывать противников.",
+                    "สวมบทผู้รักษา_คอย[b]ฟื้นฟูพลังชีวิตให้มินเนี่ยน[b]และฮีโร่ของคุณ_แล้ว[b]ค่อยๆ บั่นทอนกำลัง[b]ของคู่ต่อสู้",
+                    "稳住随从和英雄的生命值，慢慢消磨你的对手。",
+                    "以治療者的身分，讓手下與英雄維持健康狀態，隨著戰鬥持續而耗盡對手。"
+                ],
+                "m_locId": 2886048
+            },
+            "m_strengthsDesc": {
+                "m_locValues": [
+                    "Healing, Deathrattle, card copying, single minion buffs, board clearing",
+                    "Heilung, Todesröcheln, Karten kopieren, einzelne Stärkungseffekte für Diener, Räumen des Spielbretts",
+                    "Sanación, Último aliento, copiar cartas, beneficios para un esbirro, despejar el tablero",
+                    "Sanación, Estertor, copia de cartas, potenciaciones de un esbirro, limpieza de tablero",
+                    "Soins, Râle d’agonie, copie de cartes, amélioration de serviteur unique, nettoyage du plateau",
+                    "Cure, Rantolo di Morte, copia delle carte, potenziamenti a servitori singoli, pulizia del tabellone",
+                    "回復、断末魔、カードのコピー、単体ミニオンの強化、盤面クリア",
+                    "치유, 죽음의 메아리, 카드 복제, 단일 하수인 강화, 전장 정리",
+                    "Leczenie, Agonia, kopiowanie kart, wzmacnianie pojedynczych stronników, czyszczenie planszy",
+                    "Cura, Último Suspiro, bônus de um único lacaio, limpeza do tabuleiro",
+                    "Лечение, предсмертные хрипы, копирование карт, положительные эффекты для одной цели, очистка стола.",
+                    "การฟื้นฟู_เสียงสุดท้าย[b]การก๊อปปี้การ์ด_การ[b]เสริมพลังมินเนี่ยนตัวเดียว[b]การเคลียร์บอร์ด",
+                    "治疗，亡语，复制卡牌，单随从增益，清场",
+                    "治療、死亡之聲、複製卡牌、單一手下增益效果、清場"
+                ],
+                "m_locId": 2886049
+            },
+            "m_weaknessesDesc": {
+                "m_locValues": [
+                    "Direct damage, multi-minion buffs",
+                    "Direktschaden, mehrfache Stärkungseffekte für Diener",
+                    "Daño directo, beneficios para varios esbirros",
+                    "Daño directo, potenciaciones de varios esbirros",
+                    "Dégâts directs, amélioration de plusieurs serviteurs",
+                    "Danni diretti, potenziamenti a più servitori",
+                    "直接ダメージ、複数ミニオンの強化",
+                    "직접 피해, 다수 하수인 강화",
+                    "Bezpośrednie zadawanie obrażeń, wzmacnianie wielu stronników",
+                    "Dano direto, bônus em vários lacaios",
+                    "Прямой урон, положительные эффекты для нескольких целей.",
+                    "ความเสียหายโดยตรง[b]การเสริมพลัง[b]มินเนี่ยนหลายตัว",
+                    "直接伤害，多随从增益",
+                    "直接傷害、多個手下增益效果"
+                ],
+                "m_locId": 2886050
+            },
+            "m_classFirstSelectionQuote": {
+                "m_locValues": [
+                    "Use the Light to save, or Shadow to destroy. The choice is yours.",
+                    "Nutzt Licht, um zu retten oder Schatten, um zu zerstören. Die Wahl liegt bei Euch.",
+                    "Usa la Luz para salvar o la Sombra para destruir. Tú eliges.",
+                    "Usa la Luz para salvar o la Sombra para destruir. La decisión es tuya.",
+                    "Utilisez la Lumière pour sauver ou l’Ombre pour détruire. À vous de choisir.",
+                    "Usa la Luce per salvare oppure l'Ombra per distruggere. La scelta è tua.",
+                    "「光」を使って保護するか、「影」を使って破壊するか。選ぶのはあんただ。",
+                    "빛으로 구원하거나 암흑으로 파괴합니다. 선택은 자신의 몫입니다.",
+                    "Użyj życiodajnej Światłości lub niszczycielskiego Cienia. Wybór należy do ciebie.",
+                    "Use a Luz para salvar ou as Sombras para destruir. A escolha é sua.",
+                    "Спасайте Светом или карайте тьмой. Решать вам.",
+                    "ใช้แสงสว่างเพื่อช่วยเหลือ หรือใช้ความมืดเพื่อทำลาย คุณคือผู้ตัดสินใจ",
+                    "圣光与暗影，一为救赎，一为毁灭。该如何选择，全在于你。",
+                    "使用聖光進行救贖，或是用暗影降下毀滅。取決於你。"
+                ],
+                "m_locId": 2886081
+            }
+        },
+        {
+            "m_ID": 7,
+            "m_assetFlags": 0,
+            "m_defaultHeroCardId": 930,
+            "m_previewDesc": {
+                "m_locValues": [
+                    "Combine your cards to tap into powerful synergies that swiftly and effectively strike down your adversaries.",
+                    "Kombiniert Eure Karten, um durch mächtige Synergien Eure Gegner schnell und effektiv den Garaus zu machen.",
+                    "Combina tus cartas para generar poderosas sinergias que abaten a tus adversarios con presteza y eficacia.",
+                    "Combina tus cartas para acceder a poderosas sinergias que acaban con tus adversarios con rapidez y eficacia.",
+                    "Combinez vos cartes pour exploiter de puissantes synergies et terrasser rapidement et efficacement vos adversaires.",
+                    "Combina le tue carte per sfruttare potenti sinergie che annientano i tuoi avversari in modo rapido ed efficace.",
+                    "カードの組み合わせから強力なシナジー効果を引き出し、素早く効果的に敵を始末しよう。",
+                    "카드를 조합해 시너지를 일으켜 빠르고 효과적으로 상대를 물리칩니다.",
+                    "Łącz karty w kombinacje, aby wykorzystać potężne synergie, dzięki którym szybko i skutecznie rozprawisz się z wrogami.",
+                    "Combine seus cards para recorrer a sinergias poderosas que irão punir seus adversários com velocidade e eficiência.",
+                    "Комбинируйте карты, чтобы открыть мощные сочетания, которые быстро и эффективно уничтожат ваших врагов.",
+                    "ใช้การ์ดของคุณร่วมกันจน[b]เกิดเป็นการประสานงานสุด[b]ทรงพลังที่กำจัดศัตรูได้[b]อย่างรวดเร็วและเห็นผล",
+                    "用你的卡牌打出强大的配合，快速而高效地击败敌手。",
+                    "組合各式卡牌，變成強大的組合效果，快速有效地擊敗對手。"
+                ],
+                "m_locId": 2886052
+            },
+            "m_strengthsDesc": {
+                "m_locValues": [
+                    "Combo cards, card draw, weapons",
+                    "Combokarten, Ziehen von Karten, Waffen",
+                    "Cartas con Combo, robar cartas, armas",
+                    "Cartas con Combo, robo de cartas, armas",
+                    "Cartes avec combo, pioche de cartes, armes",
+                    "Carte con Combo, metodi per pescare carte, Armi",
+                    "カードのコンボ、カードを引く、武器",
+                    "카드 연계, 카드 뽑기, 무기",
+                    "Kombinacje kart, dobieranie kart, bronie",
+                    "Combos de cards, compra de cards, armas",
+                    "Серии приемов, вытягивание карт, оружие.",
+                    "การ์ดคอมโบ การจั่วการ์ด อาวุธ",
+                    "连击牌，抽牌，武器",
+                    "連擊卡牌、抽牌、武器"
+                ],
+                "m_locId": 2886053
+            },
+            "m_weaknessesDesc": {
+                "m_locValues": [
+                    "Taunt, Healing, board clearing",
+                    "Spott, Heilung, Räumen des Spielbretts",
+                    "Provocar, sanación, despejar el tablero",
+                    "Provocación, sanación, limpieza de tablero",
+                    "Provocation, soins, nettoyage du plateau",
+                    "Provocazione, cure, pulizia del tabellone",
+                    "挑発、回復、盤面クリア",
+                    "도발, 치유, 전장 정리",
+                    "Prowokacja, leczenie, czyszczenie planszy",
+                    "Provocar, Cura, limpeza do tabuleiro",
+                    "Провокаторы, лечение, очистка стола.",
+                    "การยั่วยุ การฟื้นฟู การเคลียร์บอร์ด",
+                    "嘲讽，治疗，清场",
+                    "嘲諷、治療、清場"
+                ],
+                "m_locId": 2886054
+            },
+            "m_classFirstSelectionQuote": {
+                "m_locValues": [
+                    "Trick your targets into the shadows and finish them with devastating combos.",
+                    "Lockt Eure Ziele in den Schatten und erledigt sie mit verheerenden Combos.",
+                    "Atrae a tus objetivos hacia las sombras y remátalos con combos devastadores.",
+                    "Engaña a tus objetivos hacia las sombras y acaba con ellos con combos devastadores.",
+                    "Attirez vos cibles dans l’ombre et achevez-les avec des combos dévastateurs.",
+                    "Attira i tuoi bersagli nell'ombra e finiscili con combo devastanti.",
+                    "獲物を物陰に誘い込み、破壊的なコンボで仕留めよう。",
+                    "대상을 속여 어둠 속으로 끌어들이고 치명적인 연계로 처치합니다.",
+                    "Sprowadź wrogów podstępem w cienie i wykończ ich niszczycielskimi kombinacjami.",
+                    "Engane seus alvos trazendo-os para as sombras e dê um fim neles com combos devastadores.",
+                    "Заманите соперников в тень и добейте их смертоносными комбинациями.",
+                    "หลอกล่อเป้าหมายเข้ามาในเงามืด[b]แล้วเผด็จศึกพวกเขาด้วยคอมโบสุดอันตราย",
+                    "把你的目标骗到暗处，再用致命的连击将其消灭。",
+                    "誘騙目標進入暗影，以毀滅性的連擊終結他們。"
+                ],
+                "m_locId": 2886082
+            }
+        },
+        {
+            "m_ID": 8,
+            "m_assetFlags": 0,
+            "m_defaultHeroCardId": 1066,
+            "m_previewDesc": {
+                "m_locValues": [
+                    "Overload yourself with elemental energies to burn your opponents to a crisp.",
+                    "Überladet Euch mit elementaren Energien, um Eure Gegner knusprig braun zu braten.",
+                    "Sobrecárgate de energías elementales para dejar calcinados a tus oponentes.",
+                    "Llénate de energías elementales para carbonizar a tus adversarios.",
+                    "Surchargez-vous en énergies élémentaires pour réduire vos adversaires en cendres.",
+                    "Caricati di energie elementali per ridurre in cenere i tuoi avversari.",
+                    "精霊たちのエネルギーを自身にオーバーロードさせ、対戦相手をこんがり焼こう。",
+                    "자신을 원소 에너지로 과부하시켜 상대편을 뼛속까지 태워버립니다.",
+                    "Zaczerpnij z bezkresnej energii żywiołów i spal przeciwników na wiór.",
+                    "Sobrecarregue-se com energias elementais para tostar seus oponentes.",
+                    "Накапливайте энергию стихий и выжигайте врагов дотла.",
+                    "โอเวอร์โหลดตัวเองด้วย[b]พลังงานธาตุเพื่อ[b]เผาผลาญคู่ต่อสู้ให้[b]ไหม้เกรียม",
+                    "身负过载的元素能量，将你的对手焚烧殆尽。",
+                    "以元素能量超載自己，把對手燒得焦香爽脆。"
+                ],
+                "m_locId": 2886056
+            },
+            "m_strengthsDesc": {
+                "m_locValues": [
+                    "Totems, Elementals, minion swarms, direct damage spells",
+                    "Totems, Elementare, Dienergruppen, Zauber mit Direktschaden",
+                    "Tótems, elementales, enjambres de esbirros, hechizos de daño directo",
+                    "Tótems, Elementales, enjambres de esbirros, hechizos de daño directo",
+                    "Totems, Élémentaires, essaims de serviteurs, sorts de dégâts directs",
+                    "Totem, Elementali, sciami di servitori, Magie a danni diretti",
+                    "トーテム、エレメンタル、ミニオンの群れ、直接ダメージ呪文",
+                    "토템, 정령, 하수인 다수 생성, 직접 피해 주문",
+                    "Totemy, Żywiołaki, hordy stronników, zaklęcia bezpośrednio zadające obrażenia",
+                    "Totens, Elementais, enxame de lacaios, feitiços de dano direto",
+                    "Тотемы, элементали, орды существ, наносящие прямой урон заклинания.",
+                    "โทเท็ม_วิญญาณธาตุ[b]ฝูงมินเนี่ยน_เวทมนตร์[b]สร้างความเสียหาย[b]โดยตรง",
+                    "图腾，元素，随从铺场，直接伤害法术",
+                    "圖騰、元素、大量手下、直接傷害法術"
+                ],
+                "m_locId": 2886057
+            },
+            "m_weaknessesDesc": {
+                "m_locValues": [
+                    "Card draw, card generation",
+                    "Ziehen, Erzeugen von Karten",
+                    "Robar cartas, generar cartas",
+                    "Robo de cartas, generación de cartas",
+                    "Pioche de cartes, génération de cartes",
+                    "Metodi per pescare e generare carte",
+                    "カードを引く、カードの生成",
+                    "카드 뽑기, 카드 생성",
+                    "Dobieranie kart, tworzenie kart",
+                    "Compra de cards, geração de cards",
+                    "Вытягивание карт, создание карт.",
+                    "การจั่วการ์ด การสร้างการ์ด",
+                    "抽牌，生成卡牌",
+                    "抽牌、卡牌生成"
+                ],
+                "m_locId": 2886058
+            },
+            "m_classFirstSelectionQuote": {
+                "m_locValues": [
+                    "Channel the elements and shape them into unbelievable powers.",
+                    "Kanalisiert die Elemente und formt sie zu unvorstellbarer Macht.",
+                    "Canaliza los elementos y moldéalos para generar poderes increíbles.",
+                    "Canaliza los elementos y manipúlalos para crear poderes increíbles.",
+                    "Canalisez les éléments et donnez-leur des pouvoirs incroyables.",
+                    "Canalizza gli elementi e trasformali in poteri incredibili.",
+                    "精霊と交信し、あり得ないほどの力を生み出させよう。",
+                    "원소와 교감해 그 원소를 가공할 힘으로 빚어냅니다.",
+                    "Pozwól, aby popłynęła przez ciebie potęga żywiołów i zamień ją w niewiarygodne moce.",
+                    "Canalize os elementos e transforme-os em poderes inacreditáveis.",
+                    "Концентрируйте потоки стихий и наращивайте их невообразимую силу.",
+                    "แปรเปลี่ยนพลังธาตุที่ไหลแล่นผ่านร่าง[b]ให้กลายเป็นพลังเหนือจินตนาการ",
+                    "连结元素之灵，将其化为不可思议的力量。",
+                    "引導元素，將其化作難以置信的力量。"
+                ],
+                "m_locId": 2886083
+            }
+        },
+        {
+            "m_ID": 9,
+            "m_assetFlags": 0,
+            "m_defaultHeroCardId": 893,
+            "m_previewDesc": {
+                "m_locValues": [
+                    "Sacrifice life essence for power to overwhelm your opponents.",
+                    "Opfert Essenz des Lebens für Macht, um eure Gegner zu überwältigen.",
+                    "Sacrifica esencia vital a cambio de poder para arrollar a tus oponentes.",
+                    "Sacrifica esencia de vida para recibir poder y abrumar a tus adversarios.",
+                    "Sacrifiez de la vie pour acquérir de la puissance et écraser vos adversaires.",
+                    "Sacrifica essenza vitale in cambio di potere per sopraffare i tuoi avversari.",
+                    "生命のエッセンスを代償に力を手に入れ、対戦相手を圧倒しよう。",
+                    "생명력을 대가로 힘을 얻어 상대편을 압도합니다.",
+                    "Poświęć życiową esencję, aby zdobyć moc, która przytłoczy przeciwników.",
+                    "Sacrifique sua essência vital para ter o poder para subjugar seus oponentes.",
+                    "Жертвуйте жизненную энергию в обмен на силу, чтобы побороть соперника.",
+                    "สังเวยพลังงานชีวิต[b]เพื่อแลกกับพลังใน[b]การโหมบุกใส่คู่ต่อสู้",
+                    "牺牲生命，换取力量，压制你的对手。",
+                    "犧牲生命換取力量，藉以擊潰對手。"
+                ],
+                "m_locId": 2886060
+            },
+            "m_strengthsDesc": {
+                "m_locValues": [
+                    "Demons, card draw, minion swarms",
+                    "Dämonen,Karten Ziehen, Dienergruppen",
+                    "Demonios, robar cartas, enjambres de esbirros",
+                    "Demonios, robo de cartas, enjambres de esbirros",
+                    "Démons, pioche de cartes, essaims de serviteurs",
+                    "Demoni, metodi per pescare carte, sciami di servitori",
+                    "悪魔、カードを引く、ミニオンの群れ",
+                    "악마, 카드 뽑기, 하수인 다수 생성",
+                    "Demony, dobieranie kart, hordy stronników",
+                    "Demônios, compra de cards, enxame de lacaios",
+                    "Демоны, вытягивание карт, орды существ.",
+                    "ปีศาจ การจั่วการ์ด ฝูงมินเนี่ยน",
+                    "恶魔，抽牌，随从铺场",
+                    "惡魔、抽牌、大量手下"
+                ],
+                "m_locId": 2886061
+            },
+            "m_weaknessesDesc": {
+                "m_locValues": [
+                    "Direct damage, minion buffs",
+                    "Direktschaden, Stärkungseffekte für Diener",
+                    "Daño directo, beneficios para esbirros",
+                    "Daño directo, potenciaciones de esbirros",
+                    "Dégâts directs, amélioration de serviteurs",
+                    "Danni diretti, potenziamenti ai servitori",
+                    "直接ダメージ、ミニオンの強化",
+                    "직접 피해, 하수인 강화",
+                    "Bezpośrednie zadawanie obrażeń, wzmacnianie stronników",
+                    "Dano direto, bônus de lacaios",
+                    "Прямой урон, усиление существ.",
+                    "ความเสียหายโดยตรง[b]การเสริมพลัง[b]มินเนี่ยน",
+                    "直接伤害，随从增益",
+                    "直接傷害、手下增益效果"
+                ],
+                "m_locId": 2886062
+            },
+            "m_classFirstSelectionQuote": {
+                "m_locValues": [
+                    "Embrace chaos and destruction as you summon Demons through your dark pacts.",
+                    "Schließt einen finsteren Pakt mit dämonischen Mächten und lasst Chaos und Zerfall über euch kommen.",
+                    "Encarna el caos y la destrucción invocando demonios mediante pactos oscuros.",
+                    "Acepta el caos y la destrucción mientras invocas Demonios por medio de pactos oscuros.",
+                    "Embrassez le chaos et la destruction en invoquant des démons à l’aide de pactes occultes.",
+                    "Accogli il caos e la distruzione evocando Demoni attraverso i patti oscuri.",
+                    "闇の契約を交わして悪魔の軍団を召喚し、混沌と破壊を招こう。",
+                    "혼돈과 파괴를 받아들여 사악한 계약으로 악마를 소환합니다.",
+                    "Rzuć się w objęcia chaosu i zniszczenia, przyzywając Demony mrocznymi paktami.",
+                    "Abrace o caos e a destruição conforme você evoca Demônios através de seus pactos sombrios.",
+                    "Покоритесь хаосу и разрушению, призывая демонов темными ритуалами.",
+                    "เปิดใจรับความโกลาหลและการทำลายล้าง ระหว่างที่คุณเรียกปีศาจผ่านพันธสัญญามืด",
+                    "用黑暗的契约召唤恶魔，拥抱混乱与毁灭之力。",
+                    "透過黑暗契約召喚惡魔，擁抱混沌與毀滅。"
+                ],
+                "m_locId": 2886084
+            }
+        },
+        {
+            "m_ID": 999,
+            "m_assetFlags": 0,
+            "m_defaultHeroCardId": 0,
+            "m_previewDesc": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_strengthsDesc": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_weaknessesDesc": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_classFirstSelectionQuote": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            }
+        }
+    ]
+}

@@ -1,0 +1,1693 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -2463144387820074994
+    },
+    "m_Name": "SCORE_LABEL",
+    "Records": [
+        {
+            "m_ID": 1,
+            "m_noteDesc": "Generic damage label",
+            "m_text": {
+                "m_locValues": [
+                    "Damage",
+                    "Schaden",
+                    "Daño",
+                    "Daño",
+                    "Dégâts",
+                    "Danni",
+                    "ダメージ",
+                    "피해",
+                    "Obrażenia",
+                    "Dano",
+                    "Урон",
+                    "ความเสียหาย",
+                    "伤害",
+                    "傷害"
+                ],
+                "m_locId": 22652
+            }
+        },
+        {
+            "m_ID": 10,
+            "m_noteDesc": "Highest Attack",
+            "m_text": {
+                "m_locValues": [
+                    "Highest Attack",
+                    "Höchster Angriff",
+                    "Ataque más alto",
+                    "Ataque más alto",
+                    "ATQ la plus élevée",
+                    "Attacco più alto",
+                    "一番高い攻撃力",
+                    "최대 공격력",
+                    "Najwyższy atak",
+                    "Maior Ataque",
+                    "Максимальная атака",
+                    "พลังโจมตีสูงสุด",
+                    "最高的攻击力",
+                    "最高的攻擊力"
+                ],
+                "m_locId": 86629
+            }
+        },
+        {
+            "m_ID": 11,
+            "m_noteDesc": "Mini-Rag Kills",
+            "m_text": {
+                "m_locValues": [
+                    "MINI-RAG KILLS",
+                    "RAGGIS KILLS",
+                    "BAJAS DE MINI RAG",
+                    "MUERTES POR\nMINI-RAGNAROS ",
+                    "VICTIMES DE MINI RAGNAROS",
+                    "UCCISIONI DI MINI-RAG",
+                    "ミニ・ラグを倒した数",
+                    "꼬마 라그나로스로 처치",
+                    "OFIARY MINI RAGA",
+                    "ABATES DO MINI-RAGNAROS",
+                    "УБИТО\nРАГНАРОШЕЙ",
+                    "จำนวนเหยื่อของมินิ-แร็ก",
+                    "本局献祭数量",
+                    "小小炎魔擊殺數"
+                ],
+                "m_locId": 88049
+            }
+        },
+        {
+            "m_ID": 12,
+            "m_noteDesc": "NEEDED",
+            "m_text": {
+                "m_locValues": [
+                    "Needed",
+                    "Benötigt",
+                    "Necesarias",
+                    "Necesarios",
+                    "Requises",
+                    "Richieste",
+                    "必要な数",
+                    "필요",
+                    "Potrzebne",
+                    "Necessário",
+                    "Необходимо",
+                    "ต้องการ",
+                    "需要献祭数量",
+                    "需要"
+                ],
+                "m_locId": 88282
+            }
+        },
+        {
+            "m_ID": 13,
+            "m_noteDesc": "Total Incinerations ",
+            "m_text": {
+                "m_locValues": [
+                    "TOTAL",
+                    "GESAMT",
+                    "TOTAL",
+                    "TOTAL",
+                    "TOTAL",
+                    "TOTALE",
+                    "合計",
+                    "합계",
+                    "SUMA",
+                    "TOTAL",
+                    "ВСЕГО",
+                    "ทั้งหมด",
+                    "总计献祭数量",
+                    "總計"
+                ],
+                "m_locId": 88410
+            }
+        },
+        {
+            "m_ID": 14,
+            "m_noteDesc": "Fire Festival Tier 1 Progress",
+            "m_text": {
+                "m_locValues": [
+                    "FEED MINI RAGNAROS 10 MINIONS TO UNLOCK A NEW EMOTE, INSECT!",
+                    "INSEKT! FÜTTERT RAGGI 10 DIENER, UM EIN NEUES EMOTE FREIZUSCHALTEN!",
+                    "¡DA DE COMER 10 ESBIRROS A MINI RAGNAROS PARA DESBLOQUEAR UNA FRASE NUEVA, INSECTO!",
+                    "¡ALIMENTA A MINI RAGNAROS CON 10 ESBIRROS PARA DESBLOQUEAR UNA NUEVA EMOCIÓN, INSECTO!",
+                    "MINI RAGNAROS A BESOIN DE 10 SERVITEURS POUR DÉBLOQUER UNE NOUVELLE EMOTE, INSECTE.",
+                    "ALIMENTA MINI-RAG CON 10 SERVITORI PER SBLOCCARE UNA NUOVA EMOTE, INSETTO!",
+                    "ミニ・ラグナロスにミニオンを10体食わせ、新たな感情を解き放つのだ、虫ケラ！",
+                    "꼬마 라그나로스에게 하수인 10마리를 먹이고 새로운 감정 표현을 얻어라, 벌레 같은 놈!",
+                    "NAKARM MINI RAGNAROSA 10 STRONNIKAMI, ŻEBY ODBLOKOWAĆ NOWĄ EMOTKĘ, ROBAKU!",
+                    "ALIMENTE O MINI-RAGNAROS COM 10 LACAIOS PARA DESBLOQUEAR UMA NOVA EXPRESSÃO, INSETO!",
+                    "СКОРМИ РАГНАРОШЕ 10 СУЩЕСТВ, ЧТОБЫ ПОЛУЧИТЬ НОВУЮ ЭМОЦИЮ, НАСЕКОМОЕ!",
+                    "สังเวยมินเนี่ยน 10 ตัวให้มินิแร็กนารอสเพื่อปลดล็อคอีโมทใหม่ เจ้ามดปลวก!",
+                    "向迷你拉格纳罗斯献祭10个随从，我就给你的表情解锁新的特效，虫子！",
+                    "獻給小小炎魔10個手下，就能升級表情語音，蟲子！"
+                ],
+                "m_locId": 88610
+            }
+        },
+        {
+            "m_ID": 15,
+            "m_noteDesc": "Fire Festival Tier 1 Achieved",
+            "m_text": {
+                "m_locValues": [
+                    "YOU HAVE DONE IT! THE FIRST LEVEL OF FIREWORKS ARE YOURS!",
+                    "IHR HABT ES GESCHAFFT! DIE ERSTE FEUERWERKSTUFE IST EUER!",
+                    "¡LO HAS LOGRADO! ¡EL PRIMER NIVEL DE FUEGOS ARTIFICIALES ES TUYO!",
+                    "¡LO LOGRASTE! ¡EL PRIMER NIVEL DE FUEGOS ARTIFICIALES ES TUYO!",
+                    "VOUS AVEZ RÉUSSI ! VOUS AVEZ DÉBLOQUÉ LE PREMIER FEU D’ARTIFICE !",
+                    "CE L'HAI FATTA! IL PRIMO LIVELLO DEI FUOCHI D'ARTIFICIO È TUO!",
+                    "やったな！レベル1の花火はお前のものだ！",
+                    "해냈구나! 불꽃놀이의 첫 단계가 준비됐다!",
+                    "UDAŁO CI SIĘ! PIERWSZY POZIOM FAJERWERKÓW JEST TWÓJ!",
+                    "VOCÊ CONSEGUIU! O PRIMEIRO NÍVEL DOS FOGOS DE ARTIFÍCIO É SEU!",
+                    "ОТЛИЧНО! ФЕЙЕРВЕРК ПЕРВОГО УРОВНЯ ТВОЙ!",
+                    "เจ้าทำสำเร็จ! ดอกไม้ไฟระดับหนึ่งเป็นของเจ้าแล้ว!",
+                    "你办到了！第一级烟花现在是你的了！",
+                    "你成功了！你有第一級的煙火了！"
+                ],
+                "m_locId": 88613
+            }
+        },
+        {
+            "m_ID": 16,
+            "m_noteDesc": "Fire Festival Tier 2 Progress",
+            "m_text": {
+                "m_locValues": [
+                    "FEED MINI RAGNAROS 30 MINIONS TO GROW YOUR EMOTE!",
+                    "FÜTTERT RAGGI 30 DIENER, DAMIT EUER EMOTE WÄCHST!",
+                    "¡DA DE COMER 30 ESBIRROS A MINI RAGNAROS PARA MEJORAR TU FRASE!",
+                    "¡ALIMENTA A MINI RAGNAROS CON 30 ESBIRROS PARA POTENCIAR TU EMOCIÓN!",
+                    "MINI RAGNAROS A BESOIN DE 30 SERVITEURS POUR AMÉLIORER VOTRE EMOTE.",
+                    "ALIMENTA MINI-RAG CON 30 SERVITORI PER ACCRESCERE LA TUA EMOTE!",
+                    "ミニ・ラグナロスにミニオンを30体食わせ、さらなる感情を解き放て！",
+                    "꼬마 라그나로스에게 하수인 30마리를 먹이고 감정 표현을 강화해라!",
+                    "NAKARM MINI RAGNAROSA 30 STRONNIKAMI, ŻEBY WZMOCNIĆ TWOJĄ EMOTKĘ!",
+                    "ALIMENTE O MINI-RAGNAROS COM 30 LACAIOS PARA DESENVOLVER SUA EXPRESSÃO!",
+                    "СКОРМИ РАГНАРОШЕ 30 СУЩЕСТВ, ЧТОБЫ ИЗМЕНИТЬ ЭМОЦИЮ, НАСЕКОМОЕ!",
+                    "สังเวยมินเนี่ยน 30 ตัวให้มินิแร็กนารอสเพื่อเพิ่มระดับอีโมท!",
+                    "向迷你拉格纳罗斯献祭30个随从，我就给你的表情升级特效！",
+                    "獻給小小炎魔30個手下，就能再升級你的表情語音！"
+                ],
+                "m_locId": 88614
+            }
+        },
+        {
+            "m_ID": 17,
+            "m_noteDesc": "Fire Festival Tier 2 Achieved",
+            "m_text": {
+                "m_locValues": [
+                    "CONGRATULATIONS! ENJOY LEVEL TWO FIREWORKS, INSECT!",
+                    "GLÜCKWUNSCH! VIEL SPASS MIT DER ZWEITEN FEUERWERKSTUFE, INSEKT!",
+                    "¡ENHORABUENA! ¡DISFRUTA DE LOS FUEGOS ARTIFICIALES DE NIVEL 2!",
+                    "¡FELICITACIONES! ¡DISFRUTA DEL NIVEL DOS DE FUEGOS ARTIFICIALES, INSECTO!",
+                    "FÉLICITATIONS ! PROFITEZ BIEN DU 2E FEU D’ARTIFICE, INSECTE !",
+                    "CONGRATULAZIONI! GODITI IL SECONDO LIVELLO DEI FUOCHI D'ARTIFICIO, INSETTO!",
+                    "おめでとう！レベル2の花火を楽しめ、虫ケラ！",
+                    "축하한다! 강화된 불꽃놀이를 만끽해라, 벌레 같은 놈!",
+                    "GRATULACJE! CIESZ SIĘ FAJERWERKAMI DRUGIEGO POZIOMU, ROBAKU!",
+                    "PARABÉNS! APROVEITE O NÍVEL DOIS DOS FOGOS, INSETO!",
+                    "ПОЗДРАВЛЯЮ! НАСЛАЖДАЙСЯ ФЕЙЕРВЕРКОМ ВТОРОГО УРОВНЯ, НАСЕКОМОЕ!",
+                    "ดีใจด้วย! รับดอกไม้ไฟระดับสองไปสิ เจ้ามดปลวก!",
+                    "祝贺你！快去欣赏第二级烟花吧，虫子！",
+                    "恭喜！享受第二級煙火吧，蟲子！"
+                ],
+                "m_locId": 88615
+            }
+        },
+        {
+            "m_ID": 18,
+            "m_noteDesc": "Puzzles Completed",
+            "m_text": {
+                "m_locValues": [
+                    "Puzzles Completed",
+                    "Gelöste Rätsel",
+                    "Puzles completados",
+                    "Acertijos resueltos",
+                    "Puzzles terminés",
+                    "Enigmi completati",
+                    "クリアしたパズル",
+                    "해결한 묘수풀이",
+                    "Ukończone zagadki",
+                    "Enigmas Decifrados",
+                    "Завершено головоломок",
+                    "แก้ปริศนาสำเร็จ",
+                    "解谜成功",
+                    "解題完成"
+                ],
+                "m_locId": 88618
+            }
+        },
+        {
+            "m_ID": 19,
+            "m_noteDesc": "Fire Festival Tier 3 Achieved",
+            "m_text": {
+                "m_locValues": [
+                    "THE FINAL FIREWORKS HAS BEEN GRANTED! ENJOY THE FIRE FESTIVAL!",
+                    "IHR HABT DIE LETZTE EMOTE-STUFE ERREICHT! VIEL SPASS NOCH BEIM SONNENWENDFEST!",
+                    "¡SE HAN OTORGADO LOS FUEGOS ARTIFICIALES DEFINITIVOS! ¡DISFRUTA DEL FESTIVAL DEL FUEGO!",
+                    "¡TIENES LOS FUEGOS ARTIFICIALES FINALES! ¡DISFRUTA DEL FESTIVAL DE FUEGO!",
+                    "VOUS AVEZ OBTENU LE DERNIER FEU D’ARTIFICE ! PROFITEZ BIEN DE LA FÊTE DU FEU !",
+                    "SONO STATI CONCESSI I FUOCHI D'ARTIFICIO FINALI! GODITI IL FESTIVAL DEI FUOCHI!",
+                    "最後の花火をくれてやろう！炎の祭りを楽しめ！",
+                    "궁극의 불꽃놀이를 허락하노라! 불꽃축제를 즐겨라!",
+                    "OTRZYMUJESZ OSTATECZNE FAJERWERKI! DOBREJ ZABAWY NA FESTIWALU OGNIA!",
+                    "VOCÊ CHEGOU AO NÍVEL MÁXIMO DOS FOGOS! DIVIRTA-SE NO FESTIVAL DO FOGO!",
+                    "ФЕЙЕРВЕРК ПОСЛЕДНЕГО УРОВНЯ ТЕПЕРЬ ТВОЙ! ОТПРАЗДНУЙ ОГНЕННЫЙ СОЛНЦЕВОРОТ СТИЛЬНО!",
+                    "เอาดอกไม้ไฟระดับสูงสุดไปเลย! ขอให้สนุกกับเทศกาลไฟ!",
+                    "拿上你的终极烟花！好好享受火焰节吧！",
+                    "最後的煙火是你的了，火焰節快樂！"
+                ],
+                "m_locId": 88617
+            }
+        },
+        {
+            "m_ID": 2,
+            "m_noteDesc": "Turns",
+            "m_text": {
+                "m_locValues": [
+                    "Turns",
+                    "Runden",
+                    "Turnos",
+                    "Turnos",
+                    "Tours",
+                    "Turni",
+                    "ターン数",
+                    "턴",
+                    "Tury",
+                    "Turnos",
+                    "Ходы",
+                    "เทิร์น",
+                    "回合",
+                    "回合"
+                ],
+                "m_locId": 22655
+            }
+        },
+        {
+            "m_ID": 20,
+            "m_noteDesc": "Fire Festival Tier 3 Progress",
+            "m_text": {
+                "m_locValues": [
+                    "FEED MINI RAG 60 MINIONS FOR YOUR LAST EMOTE!",
+                    "FÜTTERT RAGGI 60 DIENER, UM DIE LETZTE EMOTE-STUFE ZU ERREICHEN!",
+                    "¡DA DE COMER 60 ESBIRROS A MINI RAGNAROS PARA DESBLOQUEAR LA ÚLTIMA FRASE!",
+                    "¡ALIMENTA A MINI RAGNAROS CON 60 ESBIRROS PARA OBTENER LA EMOCIÓN FINAL!",
+                    "MINI RAGNAROS A BESOIN DE 60 SERVITEURS POUR DÉBLOQUER VOTRE DERNIÈRE EMOTE.",
+                    "ALIMENTA MINI-RAG CON 60 SERVITORI PER L'EMOTE DEFINITIVA!",
+                    "ミニ・ラグにミニオンを60体食わせ、最後の感情を解き放て！",
+                    "꼬마 라그나로스에게 하수인 60마리를 먹이고 마지막 감정 표현을 얻어라!",
+                    "NAKARM MINI RAGNAROSA 60 STRONNIKAMI, ŻEBY OTRZYMAĆ OSTATNIĄ EMOTKĘ!",
+                    "ALIMENTE O MINI-RAGNAROS COM 60 LACAIOS PARA GANHAR A ÚLTIMA EXPRESSÃO!",
+                    "СКОРМИ РАГНАРОШЕ 60 СУЩЕСТВ, ЧТОБЫ ПОЛУЧИТЬ ПОСЛЕДНЮЮ ЭМОЦИЮ!",
+                    "สังเวยมินเนี่ยน 60 ตัวให้มินิแร็ก แลกกับสุดยอดอีโมท!",
+                    "向迷你拉格纳罗斯献祭60个随从，我就给你最美的表情特效！",
+                    "獻給小小炎魔60個手下，升級到最終的表情語音！"
+                ],
+                "m_locId": 88616
+            }
+        },
+        {
+            "m_ID": 21,
+            "m_noteDesc": "Wins",
+            "m_text": {
+                "m_locValues": [
+                    "Wins",
+                    "Siege",
+                    "Victorias",
+                    "Victorias",
+                    "Victoires",
+                    "Vittorie",
+                    "勝利",
+                    "승리",
+                    "Zwycięstwa",
+                    "Vitórias",
+                    "Победы",
+                    "ชนะ",
+                    "胜利",
+                    "勝場"
+                ],
+                "m_locId": 90150
+            }
+        },
+        {
+            "m_ID": 22,
+            "m_noteDesc": "Losses",
+            "m_text": {
+                "m_locValues": [
+                    "Losses",
+                    "Niederlagen",
+                    "Derrotas",
+                    "Derrotas",
+                    "Défaites",
+                    "Sconfitte",
+                    "敗北",
+                    "패배",
+                    "Przegrane",
+                    "Derrotas",
+                    "Поражения",
+                    "แพ้",
+                    "失败",
+                    "敗場"
+                ],
+                "m_locId": 90151
+            }
+        },
+        {
+            "m_ID": 23,
+            "m_noteDesc": "Progress Saved Puzzles",
+            "m_text": {
+                "m_locValues": [
+                    "Your progress has been saved!",
+                    "Euer Fortschritt wurde gespeichert!",
+                    "¡Tu progreso se ha guardado!",
+                    "¡Se ha guardado tu progreso!",
+                    "Votre progression a été sauvegardée.",
+                    "I tuoi progressi sono stati salvati!",
+                    "ここまでの進行がセーブされたぞ！",
+                    "진행 상황이 저장되었습니다!",
+                    "Twoje postępy zostały zapisane!",
+                    "Seu progresso foi salvo!",
+                    "Ваш прогресс сохранен!",
+                    "บันทึกความคืบหน้าของคุณแล้ว!",
+                    "你的进度已保存！",
+                    "已經儲存你的進度了！"
+                ],
+                "m_locId": 88762
+            }
+        },
+        {
+            "m_ID": 24,
+            "m_noteDesc": "Upsets",
+            "m_text": {
+                "m_locValues": [
+                    "Upsets",
+                    "Außenseiter-\nsiege",
+                    "Victorias sorpresa",
+                    "Derrotas inesperadas",
+                    "Défaites surprises",
+                    "Ribaltamenti",
+                    "番狂わせ",
+                    "점수",
+                    "Niespodziewane porażki",
+                    "Viradas",
+                    "Неожиданные победы",
+                    "โกรธ",
+                    "逆转",
+                    "逆轉"
+                ],
+                "m_locId": 90152
+            }
+        },
+        {
+            "m_ID": 26,
+            "m_noteDesc": "Remaining Health",
+            "m_text": {
+                "m_locValues": [
+                    "Remaining Health",
+                    "Verbleibendes Leben",
+                    "Salud restante",
+                    "Salud restante",
+                    "PV restants",
+                    "Salute restante",
+                    "残り体力",
+                    "남은 생명력",
+                    "Pozostałe zdrowie",
+                    "Pontos de Vida Restantes",
+                    "Осталось здоровья",
+                    "พลังชีวิตที่เหลือ",
+                    "剩余生命值",
+                    "剩餘生命值"
+                ],
+                "m_locId": 90153
+            }
+        },
+        {
+            "m_ID": 28,
+            "m_noteDesc": "Lich King Raid Low Damage",
+            "m_text": {
+                "m_locValues": [
+                    "Foolish \"Champion\", try again if you dare!",
+                    "Törichter „Champion“, versucht es noch mal, wenn Ihr Euch traut!",
+                    "«Adalid» ignorante, ¡vuelve a intentarlo si te atreves!",
+                    "¡Estúpido \"Campeón\"! ¡Inténtalo de nuevo, si te atreves!",
+                    "Stupide « champion », retentez votre chance si vous l’osez !",
+                    "Stolto \"campione\", riprova se hai il coraggio!",
+                    "愚かな「勇者」よ、もう一度挑戦してみな！",
+                    "어리석은 \"용사\"여, 배짱이 있다면 다시 도전해 봐라!",
+                    "Głupcze! Spróbuj ponownie, jeśli masz odwagę!",
+                    "Esses \"campeões\" tolos... Desafio você a tentar de novo!",
+                    "Эй, «герой»! Попробуй еще разок, если осмелишься!",
+                    "\"ผู้กล้า\" ผู้โง่เขลา แน่จริงก็ลองอีกครั้งสิ!",
+                    "愚蠢的“勇士”，有种再来啊！",
+                    "愚蠢的「勇士」，有種就再來一次！"
+                ],
+                "m_locId": 91649
+            }
+        },
+        {
+            "m_ID": 29,
+            "m_noteDesc": "Lich King Raid Medium Damage",
+            "m_text": {
+                "m_locValues": [
+                    "You've achieved the \"Rare\" Rank!",
+                    "Ihr habt den Rang „Selten“ erreicht!",
+                    "¡Has alcanzado el rango «Poco común»!",
+                    "¡Has alcanzado el rango \"Raro\"!",
+                    "Vous avez atteint le rang « Rare » !",
+                    "Hai ottenuto il grado \"Raro\"!",
+                    "「レア」ランクを達成したぞ！",
+                    "\"희귀\" 등급을 달성했습니다!",
+                    "Osiągasz rzadką rangę!",
+                    "Você alcançou o ranque \"Raro\"!",
+                    "Вы достигли «редкого» ранга!",
+                    "คุณชนะด้วยระดับ \"หายาก\"!",
+                    "你的排名晋级“稀有”！",
+                    "你達到了「精良」等級！"
+                ],
+                "m_locId": 91650
+            }
+        },
+        {
+            "m_ID": 3,
+            "m_noteDesc": "Minions Killed",
+            "m_text": {
+                "m_locValues": [
+                    "Minions Killed",
+                    "Getötete Diener",
+                    "Esbirros muertos",
+                    "Esbirros asesinados",
+                    "Serviteurs tués",
+                    "Servitori uccisi",
+                    "ミニオン死亡数",
+                    "처치한 하수인",
+                    "Zabici stronnicy",
+                    "Lacaios mortos",
+                    "Убито существ",
+                    "มินเนี่ยนที่ฆ่า",
+                    "消灭随从数量",
+                    "擊殺敵人"
+                ],
+                "m_locId": 22656
+            }
+        },
+        {
+            "m_ID": 30,
+            "m_noteDesc": "Lich King Raid High Damage",
+            "m_text": {
+                "m_locValues": [
+                    "You've achieved the \"Epic\" Rank!",
+                    "Ihr habt den Rang „Episch“ erreicht!",
+                    "¡Has alcanzado el rango «Épico»!",
+                    "¡Has alcanzado el rango \"Épico\"!",
+                    "Vous avez atteint le rang « Épique » !",
+                    "Hai ottenuto il grado \"Epico\"!",
+                    "「エピック」ランクを達成したぞ！",
+                    "\"특급\" 등급을 달성했습니다!",
+                    "Osiągasz epicką rangę!",
+                    "Você alcançou o ranque \"Épico\"!",
+                    "Вы достигли «эпического» ранга!",
+                    "คุณชนะด้วยระดับ \"สุดยอด\"!",
+                    "你的排名晋级“史诗”！",
+                    "你達到了「史詩」等級！"
+                ],
+                "m_locId": 91651
+            }
+        },
+        {
+            "m_ID": 31,
+            "m_noteDesc": "Lich King Raid Extreme Damage",
+            "m_text": {
+                "m_locValues": [
+                    "Incredible! You've achieved the \"Legendary\" Rank!",
+                    "Unglaublich! Ihr habt den Rang „Legendär“ erreicht!",
+                    "¡Increíble! ¡Has alcanzado el rango «Legendario»!",
+                    "¡Increíble! ¡Has alcanzado el rango \"Legendario\"!",
+                    "Incroyable ! Vous avez atteint le rang « Légendaire » !",
+                    "Incredibile! Hai ottenuto il grado \"Leggendario\"!",
+                    "すごいな！「レジェンド」ランクを達成したぞ！",
+                    "대단하군요! \"전설\" 등급을 달성했습니다!",
+                    "Niesamowite! Udało ci się osiągnąć legendarną rangę!",
+                    "Incrível! Você alcançou o ranque \"Lendário\"!",
+                    "Невероятно! Вы достигли «легендарного» ранга!",
+                    "เจ๋งสุดๆ! คุณชนะด้วยระดับ \"ตำนาน\"!",
+                    "天哪！你的排名晋级“传说”！",
+                    "厲害！你達到了「傳說」等級！"
+                ],
+                "m_locId": 91652
+            }
+        },
+        {
+            "m_ID": 32,
+            "m_noteDesc": "Lich King Raid Health Set",
+            "m_text": {
+                "m_locValues": [
+                    "The Lich King's Maximum Health has been set.",
+                    "Das maximale Leben des Lichkönigs wurde festgelegt.",
+                    "Se ha establecido la salud máxima del Rey Exánime.",
+                    "Se ha establecido la salud máxima del Rey Exánime.",
+                    "Le maximum de points de vie du roi-liche a été défini.",
+                    "La Salute massima del Re dei Lich è stata impostata.",
+                    "リッチキングの最大体力がセットされたぞ。",
+                    "리치 왕의 최대 생명력이 정해졌습니다.",
+                    "Ustawiono maksymalne zdrowie Króla Lisza.",
+                    "O máximo de pontos de vida do Lich Rei foi definido.",
+                    "Король-лич получает максимальный запас здоровья.",
+                    "กำหนดพลังชีวิตสูงสุดของลิชคิงแล้ว",
+                    "巫妖王的生命值上限设定完成。",
+                    "已設定巫妖王的最大生命值"
+                ],
+                "m_locId": 91729
+            }
+        },
+        {
+            "m_ID": 33,
+            "m_noteDesc": "Total Damage",
+            "m_text": {
+                "m_locValues": [
+                    "Total Damage",
+                    "Gesamtschaden",
+                    "Daño total",
+                    "Daño total",
+                    "Dégâts totaux",
+                    "Danni totali",
+                    "合計ダメージ",
+                    "총 피해",
+                    "Suma obrażeń",
+                    "Dano Total",
+                    "Суммарный урон",
+                    "ความเสียหายรวม",
+                    "总计伤害",
+                    "總傷害"
+                ],
+                "m_locId": 91740
+            }
+        },
+        {
+            "m_ID": 34,
+            "m_noteDesc": "Lich King Heroes Killed",
+            "m_text": {
+                "m_locValues": [
+                    "Heroes Killed",
+                    "Vernichtete Helden",
+                    "Héroes asesinados",
+                    "Héroes asesinados",
+                    "Héros tués",
+                    "Eroi uccisi",
+                    "倒したヒーロー",
+                    "처치한 영웅",
+                    "Zabici bohaterowie",
+                    "Heróis abatidos",
+                    "Убито героев",
+                    "ฮีโร่ที่ฆ่า",
+                    "消灭英雄数量",
+                    "英雄擊殺數"
+                ],
+                "m_locId": 91901
+            }
+        },
+        {
+            "m_ID": 35,
+            "m_noteDesc": "ELO - Total Wins ",
+            "m_text": {
+                "m_locValues": [
+                    "Total Wins",
+                    "Siege insgesamt",
+                    "Victorias totales",
+                    "Victorias totales",
+                    "Total de victoires",
+                    "Vittorie totali",
+                    "合計勝利数",
+                    "총 승수",
+                    "Zwycięstwa",
+                    "Total de Vitórias",
+                    "Всего побед",
+                    "ชนะรวม",
+                    "获胜局数",
+                    "總勝場"
+                ],
+                "m_locId": 95149
+            }
+        },
+        {
+            "m_ID": 36,
+            "m_noteDesc": "ELO - Underdog Wins ",
+            "m_text": {
+                "m_locValues": [
+                    "Underdog Wins",
+                    "Siege als Außenseiter",
+                    "Victorias (no favorito)",
+                    "Victorias como no favorito",
+                    "Victoires en outsider",
+                    "Vittorie dello Sfavorito",
+                    "勝利数（大ハンデ有）",
+                    "약자 승수",
+                    "Zwycięstwa pretendentów",
+                    "Vitórias do Azarão",
+                    "Победы аутсайдера",
+                    "มือรองบ่อนชนะ",
+                    "输家胜场",
+                    "常敗方勝場數"
+                ],
+                "m_locId": 95150
+            }
+        },
+        {
+            "m_ID": 37,
+            "m_noteDesc": "ELO - Favored Wins ",
+            "m_text": {
+                "m_locValues": [
+                    "Favored Wins",
+                    "Siege als Favorit",
+                    "Victorias (favorito)",
+                    "Victorias como favorito",
+                    "Victoires en favori",
+                    "Vittorie del Favorito",
+                    "勝利数（ハンデ有）",
+                    "강자 승수",
+                    "Zwycięstwa faworytów",
+                    "Vitórias do Favorito",
+                    "Победы лидера",
+                    "ตัวเก็งชนะ",
+                    "赢家胜场",
+                    "常勝方勝場數"
+                ],
+                "m_locId": 95151
+            }
+        },
+        {
+            "m_ID": 38,
+            "m_noteDesc": "Win Percent",
+            "m_text": {
+                "m_locValues": [
+                    "Win Percent",
+                    "Siegquote",
+                    "Porcentaje de victorias",
+                    "Porcentaje de victorias",
+                    "Pourcentage de victoires",
+                    "Percentuale vittorie",
+                    "勝率",
+                    "승률",
+                    "Odsetek zwycięstw",
+                    "Percentual de Vitórias",
+                    "Процент побед",
+                    "เปอร์เซ็นต์ชนะ",
+                    "胜率",
+                    "勝率"
+                ],
+                "m_locId": 97253
+            }
+        },
+        {
+            "m_ID": 39,
+            "m_noteDesc": "Firebat's Tavern Percent",
+            "m_text": {
+                "m_locValues": [
+                    "Firebat's Win Percent",
+                    "Firebats Siegquote",
+                    "Porcentaje de victorias de Firebat",
+                    "Porcentaje de victorias Firebat",
+                    "Pourcentage de victoires de Firebat",
+                    "Percentuale vittorie di Firebat",
+                    "Firebatの勝率",
+                    "Firebat의 승률",
+                    "Firebat – odsetek zwycięstw",
+                    "Percentual de Vitórias de Firebat",
+                    "Процент побед Firebat",
+                    "เปอร์เซ็นต์ชนะของ Firebat",
+                    "Firebat胜率",
+                    "Firebat套牌的勝率"
+                ],
+                "m_locId": 97262
+            }
+        },
+        {
+            "m_ID": 4,
+            "m_noteDesc": "Bovines Killed",
+            "m_text": {
+                "m_locValues": [
+                    "Bovines Killed",
+                    "Getötete Kühe",
+                    "Bovinos muertos",
+                    "Bovinos asesinados",
+                    "Bovins tués",
+                    "Bovini uccisi",
+                    "牛死亡数",
+                    "젖소 처치",
+                    "Zabite bydlęta",
+                    "Bovinos Mortos",
+                    "Убито коров",
+                    "วัวที่ฆ่า",
+                    "消灭奶牛数量",
+                    "擊殺牛魔"
+                ],
+                "m_locId": 78970
+            }
+        },
+        {
+            "m_ID": 40,
+            "m_noteDesc": "Pavel's Tavern Percent",
+            "m_text": {
+                "m_locValues": [
+                    "Pavel's Win Percent",
+                    "Pavels Siegquote",
+                    "Porcentaje de victorias de Pavel",
+                    "Porcentaje de victorias de Pavel",
+                    "Pourcentage de victoires de Pavel",
+                    "Percentuale vittorie di Pavel",
+                    "Pavelの勝率",
+                    "Pavel의 승률",
+                    "Pavel – odsetek zwycięstw",
+                    "Percentual de Vitórias de Pavel",
+                    "Процент побед Pavel",
+                    "เปอร์เซ็นต์ชนะของ Pavel",
+                    "Pavel胜率",
+                    "Pavel套牌的勝率"
+                ],
+                "m_locId": 97263
+            }
+        },
+        {
+            "m_ID": 41,
+            "m_noteDesc": "Ostkaka's Tavern Percent",
+            "m_text": {
+                "m_locValues": [
+                    "Ostkaka's Win Percent",
+                    "Ostkakas Siegquote",
+                    "Porcentaje de victorias de Ostkaka",
+                    "Porcentaje de victorias de Ostkaka",
+                    "Pourcentage de victoires d’Ostkaka",
+                    "Percentuale vittorie di Ostkaka",
+                    "Ostkakaの勝率",
+                    "Ostkaka의 승률",
+                    "Ostkaka – odsetek zwycięstw",
+                    "Percentual de Vitórias de Ostkaka",
+                    "Процент побед Ostkaka",
+                    "เปอร์เซ็นต์ชนะของ Ostkaka",
+                    "Ostkaka胜率",
+                    "Ostkaka套牌的勝率"
+                ],
+                "m_locId": 97264
+            }
+        },
+        {
+            "m_ID": 43,
+            "m_noteDesc": "Your Wins",
+            "m_text": {
+                "m_locValues": [
+                    "Your Wins",
+                    "Eure Siege",
+                    "Tus victorias",
+                    "Tus victorias",
+                    "Vos victoires",
+                    "Tue vittorie",
+                    "あんたの勝率",
+                    "나의 승수",
+                    "Twoje zwycięstwa",
+                    "Suas Vitórias",
+                    "Ваши победы",
+                    "คุณชนะ",
+                    "你的胜利次数",
+                    "你的勝場數"
+                ],
+                "m_locId": 97305
+            }
+        },
+        {
+            "m_ID": 45,
+            "m_noteDesc": "Total Years Aged",
+            "m_text": {
+                "m_locValues": [
+                    "Total Years Aged",
+                    "Total Years Aged",
+                    "Total Years Aged",
+                    "Total de años envejecidos",
+                    "Total d’années gagnées",
+                    "Total Years Aged",
+                    "Total Years Aged",
+                    "Total Years Aged",
+                    "Total Years Aged",
+                    "Total de Anos Passados",
+                    "Total Years Aged",
+                    "จำนวนปีที่ผ่านมา",
+                    "Total Years Aged",
+                    "總共老了幾歲"
+                ],
+                "m_locId": 2696951
+            }
+        },
+        {
+            "m_ID": 46,
+            "m_noteDesc": "Anomalies",
+            "m_text": {
+                "m_locValues": [
+                    "Anomalies Killed",
+                    "Vernichtete Anomalien",
+                    "Anomalías asesinadas",
+                    "Anomalías destruidas",
+                    "Anomalies détruites",
+                    "Anomalie distrutte",
+                    "倒した異常体",
+                    "처치한 변형물",
+                    "Zlikwidowane anomalie",
+                    "Anomalias Eliminadas",
+                    "Уничтожено аномалий",
+                    "อโนมาลีที่ฆ่า",
+                    "时空畸体消灭",
+                    "擊殺異常體"
+                ],
+                "m_locId": 2697624
+            }
+        },
+        {
+            "m_ID": 47,
+            "m_noteDesc": "Annoy-o's Destroyed",
+            "m_text": {
+                "m_locValues": [
+                    "Annoy-o's Destroy-o-ed",
+                    "Zestörte Nerv-o-Trons",
+                    "Plastatrones aplastados",
+                    "Molestrones destruidones",
+                    "Ennuy-o-trons détruits",
+                    "Fastidiobot distrutti",
+                    "マジ死に・オ・トロン",
+                    "파괴한 안녕기계",
+                    "Zezłomowane Wkurzotrony",
+                    "Azucrinas Destruídos",
+                    "Уничтожено Раздражаторов",
+                    "แอนนอย-โอ-ทรอนที่ถูกทำลาย-โอ-ทิ้ง",
+                    "被消灭的吵吵机器人",
+                    "摧毀煩人機器人"
+                ],
+                "m_locId": 2698613
+            }
+        },
+        {
+            "m_ID": 48,
+            "m_noteDesc": "Waves Survived",
+            "m_text": {
+                "m_locValues": [
+                    "Waves Survived",
+                    "Wellen überlebt",
+                    "Oleadas superadas",
+                    "Oleadas resistidas",
+                    "Vagues survécues",
+                    "Ondate respinte",
+                    "生き延びたウェーブ数",
+                    "공격 생존",
+                    "Przeżyte fale",
+                    "Ondas Superadas",
+                    "Пережито волн",
+                    "รอบที่เอาชีวิตรอดได้",
+                    "存活波次",
+                    "存活攻勢"
+                ],
+                "m_locId": 2700310
+            }
+        },
+        {
+            "m_ID": 5,
+            "m_noteDesc": "Kings Killed",
+            "m_text": {
+                "m_locValues": [
+                    "Kings Killed",
+                    "Getötete Könige",
+                    "Reyes muertos",
+                    "Reyes asesinados",
+                    "Rois tués",
+                    "Re uccisi",
+                    "王死亡数",
+                    "젖소왕 처치",
+                    "Zabici królowie",
+                    "Reis Mortos",
+                    "Убито королей",
+                    "ราชาที่ฆ่า",
+                    "消灭奶牛王数量",
+                    "擊殺牛王"
+                ],
+                "m_locId": 78971
+            }
+        },
+        {
+            "m_ID": 50,
+            "m_noteDesc": "Your Number of Classes",
+            "m_text": {
+                "m_locValues": [
+                    "Your Classes",
+                    "Eure Klassen",
+                    "Tus clases",
+                    "Tus clases",
+                    "Vos classes",
+                    "Tue classi",
+                    "あんたのクラス",
+                    "내 직업",
+                    "Twoje klasy",
+                    "Suas classes",
+                    "Ваши классы",
+                    "คลาสของคุณ",
+                    "你的职业",
+                    "你的職業"
+                ],
+                "m_locId": 2709362
+            }
+        },
+        {
+            "m_ID": 51,
+            "m_noteDesc": "Opponent's Number of Classes",
+            "m_text": {
+                "m_locValues": [
+                    "Opponent's Classes",
+                    "Klassen des Gegners",
+                    "Las clases del oponente",
+                    "Clases del oponente",
+                    "Classes de l’adversaire",
+                    "Classi dell'avversario",
+                    "相手のクラス",
+                    "상대편 직업",
+                    "Klasy przeciwnika",
+                    "Classes do oponente",
+                    "Классы противника",
+                    "คลาสของคู่ต่อสู้",
+                    "对手的职业",
+                    "敵方職業"
+                ],
+                "m_locId": 2709363
+            }
+        },
+        {
+            "m_ID": 52,
+            "m_noteDesc": "Your Deck's Victories",
+            "m_text": {
+                "m_locValues": [
+                    "Your Deck's Victories",
+                    "Euer Deck",
+                    "Victorias de tu mazo",
+                    "Victorias de tu mazo",
+                    "Victoires du deck",
+                    "Vittorie (tuo mazzo)",
+                    "あんたのデッキの勝利数",
+                    "내 덱의 승수",
+                    "Wygrane twojej talii:",
+                    "Vitórias do seu deck",
+                    "Ваше количество побед",
+                    "ชัยชนะของเด็คคุณ",
+                    "你的套牌胜场",
+                    "你的套牌勝場數"
+                ],
+                "m_locId": 2710430
+            }
+        },
+        {
+            "m_ID": 53,
+            "m_noteDesc": "Foe Deck's Victories",
+            "m_text": {
+                "m_locValues": [
+                    "Foe Deck's Victories",
+                    "Gegnerdeck",
+                    "Victorias del mazo del oponente",
+                    "Victorias del mazo del rival",
+                    "Victoires du deck de l’adversaire",
+                    "Vittorie (mazzo avversario)",
+                    "相手のデッキの勝利数",
+                    "상대편 덱의 승수",
+                    "Wygrane talii przeciwnika:",
+                    "Vitórias do deck adversário",
+                    "Количество побед противника",
+                    "ชัยชนะของเด็คคู่ต่อสู้",
+                    "敌人的套牌胜场",
+                    "敵方套牌勝場數"
+                ],
+                "m_locId": 2710431
+            }
+        },
+        {
+            "m_ID": 54,
+            "m_noteDesc": "Summary",
+            "m_text": {
+                "m_locValues": [
+                    "If you win you keep your deck, if you lose you get a copy of your foe's.",
+                    "Der Sieger behält sein Deck, der Verlierer erhält eine Kopie vom Deck des Siegers.",
+                    "Si ganas, te quedas con el mazo, si pierdes, obtienes una copia del de tu oponente.",
+                    "Si ganas conservas el mazo, si pierdes obtienes una copia del mazo del rival.",
+                    "Si vous gagnez, vous gardez votre deck, mais si vous perdez, vous obtenez une copie du deck adverse.",
+                    "Se vinci, puoi tenere il tuo mazzo. Se perdi, ottieni una copia di quello dell'avversario.",
+                    "勝ったら今のデッキのままで、負けたら相手のデッキをコピーするぞ。",
+                    "승리하면 덱을 유지합니다. 패배하면 상대편의 덱으로 대체됩니다.",
+                    "Jeśli wygrasz, zatrzymasz swoją talię. Jeśli przegrasz, otrzymasz kopię talii przeciwnika.",
+                    "Se vencer, você mantém seu deck. Se perder, você fica com uma cópia do deck do adversário.",
+                    "Если победите, продолжите с той же колодой. Если проиграете, получите копию колоды противника.",
+                    "ถ้าคุณชนะ คุณใช้เด็คของคุณต่อ แต่ถ้าคุณแพ้ คุณจะได้ใช้เด็คของคู่ต่อสู้แทน",
+                    "如果你获胜的话，你就能保留你的套牌；否则你的套牌就会变为对手套牌的复制。",
+                    "若是你贏了，保留你這副套牌。要是你輸了，則獲得一副對手的套牌。"
+                ],
+                "m_locId": 2710432
+            }
+        },
+        {
+            "m_ID": 56,
+            "m_noteDesc": "Hours",
+            "m_text": {
+                "m_locValues": [
+                    "Hours",
+                    "Stunden",
+                    "Horas",
+                    "Horas",
+                    "heures",
+                    "Ore",
+                    "時間",
+                    "시간",
+                    "godz.",
+                    "Horas",
+                    "ч",
+                    "ชั่วโมง",
+                    "小时",
+                    "小時"
+                ],
+                "m_locId": 2711661
+            }
+        },
+        {
+            "m_ID": 57,
+            "m_noteDesc": "minutes",
+            "m_text": {
+                "m_locValues": [
+                    "Minutes",
+                    "Minuten",
+                    "Minutos",
+                    "Minutos",
+                    "minutes",
+                    "Minuti",
+                    "分",
+                    "분",
+                    "min.",
+                    "Minutos",
+                    "мин",
+                    "นาที",
+                    "分钟",
+                    "分"
+                ],
+                "m_locId": 2711662
+            }
+        },
+        {
+            "m_ID": 58,
+            "m_noteDesc": "Seconds",
+            "m_text": {
+                "m_locValues": [
+                    "Seconds",
+                    "Sekunden",
+                    "Segundos",
+                    "Segundos",
+                    "secondes",
+                    "Secondi",
+                    "秒",
+                    "초",
+                    "sek.",
+                    "Segundos",
+                    "сек",
+                    "วินาที",
+                    "秒",
+                    "秒"
+                ],
+                "m_locId": 2711663
+            }
+        },
+        {
+            "m_ID": 59,
+            "m_noteDesc": "Rakanishu Kills",
+            "m_text": {
+                "m_locValues": [
+                    "RAKANISHU KILLS",
+                    "Verfütterte Diener",
+                    "ASESINATOS DE RAKANISHU",
+                    "ELIMINACIONES DE RAKANISHU",
+                    "VICTIMES DE RAKANISHU",
+                    "UCCISIONI DI RAKANISHU",
+                    "ラカニシュが倒した数",
+                    "라카니슈로 처치",
+                    "OFIARY RAKANISZU",
+                    "ABATES DE RAKANISHU",
+                    "УБИЙСТВ РАКАНИШУ",
+                    "จำนวนเหยื่อของรัคคานิชู",
+                    "拉卡尼休消灭",
+                    "拉卡尼休擊殺數"
+                ],
+                "m_locId": 2712341
+            }
+        },
+        {
+            "m_ID": 6,
+            "m_noteDesc": "Secrets Revealed",
+            "m_text": {
+                "m_locValues": [
+                    "Secrets Revealed",
+                    "Aufgedeckte Geheimnisse",
+                    "Secretos revelados",
+                    "Secretos revelados",
+                    "Secrets révélés",
+                    "Segreti rivelati",
+                    "明かされた秘策数",
+                    "밝혀진 비밀",
+                    "Ujawnione sekrety",
+                    "Segredos Revelados",
+                    "Раскрыто секретов",
+                    "กับดักที่ทำงาน",
+                    "揭开秘密",
+                    "揭露秘密"
+                ],
+                "m_locId": 79074
+            }
+        },
+        {
+            "m_ID": 60,
+            "m_noteDesc": "Fire Festival Tier 1 (2019) Progress",
+            "m_text": {
+                "m_locValues": [
+                    "Feed Rakanishu 10 MINIONS to unlock a new emote!",
+                    "Verfüttert 10 Diener an Rakanishu, um ein neues Emote freizuschalten!",
+                    "¡Dale de comer 10 ESBIRROS a Rakanishu para desbloquear una nueva frase!",
+                    "¡Alimenta a Rakanishu con 10 ESBIRROS para desbloquear una nueva emoción!",
+                    "Rakanishu a besoin de 10 serviteurs pour débloquer une nouvelle emote.",
+                    "Alimenta Rakanishu con 10 SERVITORI per sbloccare una nuova emote!",
+                    "ラカニシュにミニオンを10体食わせ、新たな感情を解き放つのだ！",
+                    "라카니슈에게 하수인 10마리를 먹이고 새로운 감정 표현을 얻으세요!",
+                    "Nakarm Rakaniszu 10 STRONNIKAMI, żeby odblokować nową emotkę!",
+                    "Alimente Rakanishu com 10 LACAIOS para desbloquear uma nova expressão!",
+                    "Скормите Раканишу 10 СУЩЕСТВ, чтобы открыть новую эмоцию!",
+                    "สังเวยมินเนี่ยน 10_ตัวให้รัคคานิชู[b]เพื่อปลดล็อคอีโมทใหม่!",
+                    "向拉卡尼休献祭10个随从来解锁一个新表情！",
+                    "餵食拉卡尼休10個手下以解鎖新的表情語音！"
+                ],
+                "m_locId": 2712342
+            }
+        },
+        {
+            "m_ID": 61,
+            "m_noteDesc": "Fire Festival Tier 2 (2019) Progress",
+            "m_text": {
+                "m_locValues": [
+                    "Feed Rakanishu 30 MINIONS to grow your emote!",
+                    "Verfüttert 30 Diener an Rakanishu, damit Euer Emote wächst!",
+                    "¡Dale de comer 30 ESBIRROS a Rakanishu para conseguir nueva frase!",
+                    "¡Alimenta a Rakanishu con 30 ESBIRROS para hacer crecer tu emoción!",
+                    "Rakanishu a besoin de 30 serviteurs pour améliorer votre emote.",
+                    "Alimenta Rakanishu con 30 SERVITORI per accrescere la tua emote!",
+                    "ラカニシュにミニオンを30体食わせ、さらなる感情を解き放て！",
+                    "라카니슈에게 하수인 30마리를 먹이고 감정 표현을 강화하세요!",
+                    "Nakarm Rakaniszu 30 STRONNIKAMI, żeby wzmocnić twoją emotkę!",
+                    "Alimente Rakanishu com 30 LACAIOS para fazer sua expressão crescer!",
+                    "Скормите Раканишу 30 СУЩЕСТВ, чтобы увеличить эмоцию!",
+                    "สังเวยมินเนี่ยน 30_ตัวให้รัคคานิชู[b]เพื่อเพิ่มระดับอีโมท!",
+                    "向拉卡尼休献祭30个随从来成长你的表情！",
+                    "餵食拉卡尼休30個手下以解鎖更多表情語音！"
+                ],
+                "m_locId": 2712343
+            }
+        },
+        {
+            "m_ID": 62,
+            "m_noteDesc": "Fire Festival Tier 3 (2019) Progress",
+            "m_text": {
+                "m_locValues": [
+                    "Feed Rakanishu 60 MINIONS for your last emote!",
+                    "Verfüttert 60 Diener an Rakanishu, um die letzte Emote-Stufe zu erreichen!",
+                    "¡Dale de comer 60 ESBIRROS a Rakanishu para conseguir la última frase!",
+                    "¡Alimenta a Rakanishu con 60 ESBIRROS para conseguir la última emoción!",
+                    "Rakanishu a besoin de 60 serviteurs pour débloquer votre dernière emote.",
+                    "Alimenta Rakanishu con 60 SERVITORI per l'emote definitiva!",
+                    "ラカニシュにミニオンを60体食わせ、最後の感情を解き放て！",
+                    "라카니슈에게 하수인 60마리를 먹이고 마지막 감정 표현을 얻으세요!",
+                    "Nakarm Rakaniszu 60 STRONNIKAMI, żeby otrzymać ostatnią emotkę!",
+                    "Alimente Rakanishu com 60 LACAIOS para a última expressão!",
+                    "Скормите Раканишу 60 СУЩЕСТВ, чтобы открыть последнюю эмоцию!",
+                    "สังเวยมินเนี่ยน 60_ตัวให้รัคคานิชู แลกกับสุดยอดอีโมท!",
+                    "向拉卡尼休献祭60个随从来获得最终的表情！",
+                    "餵食拉卡尼休60個手下以獲得最後的表情語音！"
+                ],
+                "m_locId": 2712345
+            }
+        },
+        {
+            "m_ID": 63,
+            "m_noteDesc": "Footer: Mirror Match",
+            "m_text": {
+                "m_locValues": [
+                    "Both your decks are the same! Scores don't change.",
+                    "Eure Decks sind gleich! Der Punktestand ändert sich nicht.",
+                    "¡Vuestros mazos son idénticos! La puntuación no cambia.",
+                    "¡Los dos mazos son iguales! Los puntajes no cambian.",
+                    "Vos decks sont identiques ! Vos scores ne changent pas.",
+                    "I vostri mazzi sono gli stessi! Il punteggio resta invariato.",
+                    "二人とも同じデッキだ！スコアは変わらないぞ。",
+                    "두 덱이 모두 같습니다! 점수는 그대로 유지됩니다.",
+                    "Obie twoje talie są takie same! Wyniki nie ulegają zmianie.",
+                    "Os decks são iguais! A pontuação não muda.",
+                    "У вас две одинаковые колоды! Счет не изменился.",
+                    "เด็คของคุณและคู่ต่อสู้[b]เป็นเด็คเดียวกัน! คะแนนไม่มีการเปลี่ยนแปลง",
+                    "双方使用了同样的套牌！得分不会变化。",
+                    "雙方的套牌都是一樣的！勝場數沒有變化。"
+                ],
+                "m_locId": 2712366
+            }
+        },
+        {
+            "m_ID": 64,
+            "m_noteDesc": "EVILBRM Bad Time",
+            "m_text": {
+                "m_locValues": [
+                    "Beat Ragnaros in 60 minutes or less for a reward!",
+                    "Besiegt Ragnaros in weniger als 60 Minuten und sichert Euch eine Belohnung!",
+                    "¡Derrota a Ragnaros en 60 minutos o menos para conseguir una recompensa!",
+                    "¡Derrota a Ragnaros en 60 minutos o menos para obtener una recompensa!",
+                    "Battez Ragnaros en 60 minutes ou moins pour obtenir une récompense !",
+                    "Sconfiggi Ragnaros in 60 minuti o meno per ottenere una ricompensa!",
+                    "ラグナロスを60分以内で倒すと、報酬が手に入るぞ！",
+                    "라그나로스를 60분 내에 처치하면 보상을 얻습니다!",
+                    "Pokonaj Ragnarosa w maksymalnie 60 minut, żeby otrzymać nagrodę!",
+                    "Vença Ragnaros em 60 minutos ou menos para ganhar uma recompensa!",
+                    "Победите Рагнароса за 60 минут или быстрее, чтобы получить награду!",
+                    "เอาชนะแร็กนารอสภายใน 60_นาทีเพื่อรับรางวัล!",
+                    "在60分钟或更短时间内击败拉格纳罗斯赢取奖励！",
+                    "在60分鐘內擊敗拉格納羅斯以獲得獎勵！"
+                ],
+                "m_locId": 2714218
+            }
+        },
+        {
+            "m_ID": 65,
+            "m_noteDesc": "EVILBRM Good Time",
+            "m_text": {
+                "m_locValues": [
+                    "Beat Ragnaros in 40 minutes or less for another reward!",
+                    "Besiegt Ragnaros in weniger als 40 Minuten und sichert Euch eine weitere Belohnung!",
+                    "¡Derrota a Ragnaros en 40 minutos o menos para conseguir una recompensa!",
+                    "¡Derrota a Ragnaros en 40 minutos o menos para obtener otra recompensa!",
+                    "Battez Ragnaros en 40 minutes ou moins pour obtenir une autre récompense !",
+                    "Sconfiggi Ragnaros in 40 minuti o meno per ottenere un'altra ricompensa!",
+                    "ラグナロスを40分以内で倒すと、さらに報酬が手に入るぞ！",
+                    "라그나로스를 40분 내에 처치하면 보상을 추가로 얻습니다!",
+                    "Pokonaj Ragnarosa w maksymalnie 40 minut, żeby otrzymać nagrodę!",
+                    "Vença Ragnaros em 40 minutos ou menos para ganhar outra recompensa!",
+                    "Победите Рагнароса за 40 минут или быстрее, чтобы получить дополнительную награду!",
+                    "เอาชนะแร็กนารอสภายใน 40_นาทีเพื่อรับรางวัลอีกอย่าง!",
+                    "在40分钟或更短时间内击败拉格纳罗斯赢取额外奖励！",
+                    "在40分鐘內擊敗拉格納羅斯以獲得獎勵！"
+                ],
+                "m_locId": 2714219
+            }
+        },
+        {
+            "m_ID": 66,
+            "m_noteDesc": "EVILBRM Good Time",
+            "m_text": {
+                "m_locValues": [
+                    "How fast can you go?",
+                    "Schnelldurchlauf",
+                    "¿Cuán rápido lo puedes hacer?",
+                    "¿Te crees veloz?",
+                    "En combien de temps pouvez-vous réussir ?",
+                    "Quanto riesci ad andare veloce?",
+                    "どれくらい早く倒せるかな？",
+                    "얼마나 더 빨리 처치할 수 있을까요?",
+                    "Jak szybko ci się uda?",
+                    "Você consegue pensar rápido?",
+                    "Как быстро вы управитесь?",
+                    "คุณจะทำได้ไวแค่ไหน",
+                    "你能有多快？",
+                    "你的速度有多快？"
+                ],
+                "m_locId": 2714220
+            }
+        },
+        {
+            "m_ID": 67,
+            "m_noteDesc": "Rag Raid Health Set",
+            "m_text": {
+                "m_locValues": [
+                    "The Maximum Health of Ragnaros has been set.",
+                    "Das maximale Leben von Ragnaros wurde festgelegt.",
+                    "Se ha establecido la salud máxima de Ragnaros.",
+                    "Se ha establecido la salud máxima de Ragnaros.",
+                    "Le montant maximal de points de vie de Ragnaros a été fixé.",
+                    "La Salute massima di Ragnaros è stata impostata.",
+                    "ラグナロスの最大体力がセットされたぞ。",
+                    "라그나로스의 최대 생명력을 지정했습니다.",
+                    "Ustawiono maksymalne zdrowie Ragnarosa.",
+                    "O máximo de pontos de vida de Ragnaros foi definido.",
+                    "Задано максимальное здоровье Рагнароса.",
+                    "กำหนดพลังชีวิตสูงสุดของแร็กนารอสแล้ว",
+                    "已设置拉格纳罗斯的生命值上限。",
+                    "拉格納羅斯的最大生命值已設定完成"
+                ],
+                "m_locId": 2714699
+            }
+        },
+        {
+            "m_ID": 68,
+            "m_noteDesc": "Bucket Brawl Score Label Footer",
+            "m_text": {
+                "m_locValues": [
+                    "3 losses and you're out!",
+                    "3 Niederlagen und Ihr seid raus!",
+                    "¡3 derrotas y estás fuera!",
+                    "¡3 derrotas y quedas fuera!",
+                    "3 défaites et c’est fini !",
+                    "Se perdi tre partite sei fuori!",
+                    "3回負けたらそこで終わりだ！",
+                    "세 번 지면 탈락!",
+                    "Trzy porażki i wypadasz!",
+                    "3 derrotas e você está fora!",
+                    "3 поражения — и ваш поход завершится!",
+                    "แพ้ครบ 3 ครั้ง เกมจะจบลง!",
+                    "输掉3次就会出局！",
+                    "輸3場，你就出局囉！"
+                ],
+                "m_locId": 2715955
+            }
+        },
+        {
+            "m_ID": 69,
+            "m_noteDesc": "Temple Outrun Has not Beaten 60 minutes",
+            "m_text": {
+                "m_locValues": [
+                    "Beat the Headless Horseman in under 60 minutes for a reward!",
+                    "Besiegt den Kopflosen Reiter in weniger als 60_Minuten und sichert Euch eine Belohnung!",
+                    "¡Vence al Jinete decapitado en menos de 60 minutos para obtener una recompensa!",
+                    "¡Derrota al Jinete decapitado en menos de 60 minutos para recibir una recompensa!",
+                    "Battez le Cavalier sans tête en moins de 60 minutes pour obtenir une récompense !",
+                    "Sconfiggi Il Cavaliere Senza Testa in 60 minuti o meno per ottenere una ricompensa!",
+                    "首なし騎士を60分以内に倒して報酬をもらおう！",
+                    "저주받은 기사를 60분 내에 처치하면 보상을 얻습니다!",
+                    "Pokonaj Bezgłowego Jeźdźca w czasie krótszym niż godzina, a otrzymasz nagrodę!",
+                    "Vença o Cavaleiro sem Cabeça em menos de 60 minutos para receber uma recompensa!",
+                    "Победите Всадника без головы менее чем за 60 минут, чтобы получить награду!",
+                    "เอาชนะทหารม้าไร้หัวภายใน 60_นาทีเพื่อรับรางวัล!",
+                    "在60分钟内击败无头骑士可获得一份奖励！",
+                    "在60分鐘內擊敗無頭騎士以獲得獎勵！"
+                ],
+                "m_locId": 2718600
+            }
+        },
+        {
+            "m_ID": 7,
+            "m_noteDesc": "Decorations Placed",
+            "m_text": {
+                "m_locValues": [
+                    "Decorations Placed",
+                    "Angebrachte Dekorationen",
+                    "Adornos colocados",
+                    "Decoraciones colocadas",
+                    "Décorations placées",
+                    "Decorazioni piazzate",
+                    "配置した飾り",
+                    "꾸민 장식물",
+                    "Umieszczone dekoracje",
+                    "Decorações Colocadas",
+                    "Размещено украшений",
+                    "ของตกแต่งที่วาง",
+                    "装饰数量",
+                    "裝飾數量"
+                ],
+                "m_locId": 82539
+            }
+        },
+        {
+            "m_ID": 70,
+            "m_noteDesc": "Temple Outrun Has not Beaten 40 minutes",
+            "m_text": {
+                "m_locValues": [
+                    "Beat the Headless Horseman in under 40 minutes for a reward!",
+                    "Besiegt den Kopflosen Reiter in weniger als 40_Minuten und sichert Euch eine Belohnung!",
+                    "¡Vence al Jinete decapitado en menos de 40 minutos para obtener una recompensa!",
+                    "¡Derrota al Jinete decapitado en menos de 40 minutos para recibir una recompensa!",
+                    "Battez le Cavalier sans tête en moins de 40 minutes pour obtenir une récompense !",
+                    "Sconfiggi Il Cavaliere Senza Testa in 40 minuti o meno per ottenere una ricompensa!",
+                    "首なし騎士を40分以内に倒して報酬をもらおう！",
+                    "저주받은 기사를 40분 내에 처치하면 보상을 얻습니다!",
+                    "Pokonaj Bezgłowego Jeźdźca w czasie krótszym niż 40 minut, a otrzymasz nagrodę!",
+                    "Vença o Cavaleiro sem Cabeça em menos de 40 minutos para receber uma recompensa!",
+                    "Победите Всадника без головы менее чем за 40 минут, чтобы получить награду!",
+                    "เอาชนะทหารม้าไร้หัวภายใน 40_นาทีเพื่อรับรางวัล!",
+                    "在40分钟内击败无头骑士可获得一份奖励！",
+                    "在40分鐘內擊敗無頭騎士以獲得獎勵！"
+                ],
+                "m_locId": 2718601
+            }
+        },
+        {
+            "m_ID": 71,
+            "m_noteDesc": "Temple Outrun Has not Beaten 30 minutes",
+            "m_text": {
+                "m_locValues": [
+                    "Beat the Headless Horseman in under 30 minutes for a reward!",
+                    "Besiegt den Kopflosen Reiter in weniger als 30_Minuten und sichert Euch eine Belohnung!",
+                    "¡Vence al Jinete decapitado en menos de 30 minutos para obtener una recompensa!",
+                    "¡Derrota al Jinete decapitado en menos de 30 minutos para recibir una recompensa!",
+                    "Battez le Cavalier sans tête en moins de 30 minutes pour obtenir une récompense !",
+                    "Sconfiggi Il Cavaliere Senza Testa in 30 minuti o meno per ottenere una ricompensa!",
+                    "首なし騎士を30分以内に倒して報酬をもらおう！",
+                    "저주받은 기사를 30분 내에 처치하면 보상을 얻습니다!",
+                    "Pokonaj Bezgłowego Jeźdźca w czasie krótszym niż 30 minut, a otrzymasz nagrodę!",
+                    "Vença o Cavaleiro sem Cabeça em menos de 30 minutos para receber uma recompensa!",
+                    "Победите Всадника без головы менее чем за 30 минут, чтобы получить награду!",
+                    "เอาชนะทหารม้าไร้หัวภายใน 30_นาทีเพื่อรับรางวัล!",
+                    "在30分钟内击败无头骑士可获得一份奖励！",
+                    "在30分鐘內擊敗無頭騎士以獲得獎勵！"
+                ],
+                "m_locId": 2718602
+            }
+        },
+        {
+            "m_ID": 72,
+            "m_noteDesc": "Temple Outrun Has Beaten 30 minutes",
+            "m_text": {
+                "m_locValues": [
+                    "How fast can you go?",
+                    "Schnelldurchlauf",
+                    "¿Cuánto puedes correr?",
+                    "¿Te crees veloz?",
+                    "En combien de temps pouvez-vous réussir ?",
+                    "Quanto riesci ad andare veloce?",
+                    "どれくらい早く倒せるかな？",
+                    "얼마나 더 빨리 처치할 수 있을까요?",
+                    "Jak szybko ci się uda?",
+                    "Você é rápido mesmo?",
+                    "Как быстро вы сможете дойти до цели?",
+                    "คุณจะทำได้ไวแค่ไหน",
+                    "你能有多快？",
+                    "你的速度有多快？"
+                ],
+                "m_locId": 2718603
+            }
+        },
+        {
+            "m_ID": 73,
+            "m_noteDesc": "TB Carousel Dreadsteeds Summoned",
+            "m_text": {
+                "m_locValues": [
+                    "Dreadsteeds",
+                    "Schreckensrösser",
+                    "Corceles nefastos",
+                    "Corceles nefastos",
+                    "Destriers de l’effroi",
+                    "Maldestrieri",
+                    "ドレッドスティード軍団",
+                    "공포마",
+                    "Upiorne rumaki",
+                    "Corcéis Medonhos",
+                    "Кони погибели",
+                    "เดรดสตีด",
+                    "恐惧战马",
+                    "恐懼戰馬"
+                ],
+                "m_locId": 2718638
+            }
+        },
+        {
+            "m_ID": 74,
+            "m_noteDesc": "TB Carousel Dreadsteed Footer",
+            "m_text": {
+                "m_locValues": [
+                    "Summon 100 Dreadsteeds for a special reward!",
+                    "Ruft 100_Schreckensrösser herbei, um eine besondere Belohnung zu erhalten!",
+                    "¡Invoca a 100 corceles nefastos y llévate una recompensa especial!",
+                    "¡Invoca 100 Corceles nefastos para recibir una recompensa especial!",
+                    "Invoquez 100 destriers de l’effroi pour obtenir une récompense spéciale !",
+                    "Evoca 100 Maldestrieri per ottenere una ricompensa speciale!",
+                    "「ドレッドスティード」を100体召喚してスペシャル報酬をもらおう！",
+                    "공포마를 100회 소환하고 특별한 보상을 얻으세요!",
+                    "Przyzwij 100 Upiornych rumaków, a otrzymasz wyjątkową nagrodę!",
+                    "Evoque 100 Corcéis Medonhos para receber uma recompensa especial!",
+                    "Призовите 100 коней погибели, чтобы получить особую награду!",
+                    "เรียกเดรดสตีด 100 ตัวเพื่อรับรางวัลพิเศษ!",
+                    "召唤100匹恐惧战马可获得一份特殊的奖励！",
+                    "召喚100匹恐懼戰馬以獲得特殊獎勵！"
+                ],
+                "m_locId": 2718639
+            }
+        },
+        {
+            "m_ID": 75,
+            "m_noteDesc": "TB Dungeon Run Tavern Visits",
+            "m_text": {
+                "m_locValues": [
+                    "Tavern Visits",
+                    "Besuche im Gasthaus",
+                    "Visitas a la taberna",
+                    "Visitas a la taberna",
+                    "Visites à la taverne",
+                    "Visite alla Locanda",
+                    "酒場の訪問",
+                    "선술집 방문",
+                    "Wizyty w Karczmie",
+                    "Visitas à Taverna",
+                    "Посещения таверны",
+                    "จำนวนครั้งที่แวะมาโรงเตี๊ยม",
+                    "造访酒馆的次数",
+                    "旅店拜訪次數"
+                ],
+                "m_locId": 2721182
+            }
+        },
+        {
+            "m_ID": 76,
+            "m_noteDesc": "Generic Minions",
+            "m_text": {
+                "m_locValues": [
+                    "Minions",
+                    "Diener",
+                    "Esbirros",
+                    "Esbirros",
+                    "Serviteurs",
+                    "Servitori",
+                    "ミニオン",
+                    "하수인",
+                    "Stronnicy",
+                    "Lacaios",
+                    "Существа",
+                    "มินเนี่ยน",
+                    "随从",
+                    "手下"
+                ],
+                "m_locId": 2731630
+            }
+        },
+        {
+            "m_ID": 77,
+            "m_noteDesc": "Longest Game",
+            "m_text": {
+                "m_locValues": [
+                    "Longest Game",
+                    "Längstes Spiel",
+                    "Partida más larga",
+                    "Partida más larga",
+                    "Partie la plus longue",
+                    "Partita più lunga",
+                    "最長ゲーム",
+                    "최장 게임",
+                    "Najdłuższa partia",
+                    "Partida mais longa",
+                    "Самый долгий матч",
+                    "เกมที่ยาวที่สุด",
+                    "最长对战时间",
+                    "最長局數"
+                ],
+                "m_locId": 2753173
+            }
+        },
+        {
+            "m_ID": 78,
+            "m_noteDesc": "Shortest Game",
+            "m_text": {
+                "m_locValues": [
+                    "Shortest Game",
+                    "Kürzestes Spiel",
+                    "Partida más corta",
+                    "Partida más corta",
+                    "Partie la plus courte",
+                    "Partita più breve",
+                    "最短ゲーム",
+                    "최단 게임",
+                    "Najkrótsza partia",
+                    "Partida mais curta",
+                    "Самый короткий матч",
+                    "เกมที่สั้นที่สุด",
+                    "最短对战时间",
+                    "最短局數"
+                ],
+                "m_locId": 2753176
+            }
+        },
+        {
+            "m_ID": 79,
+            "m_noteDesc": "Most Remaining Health",
+            "m_text": {
+                "m_locValues": [
+                    "Most Health",
+                    "Höchstes Leben",
+                    "Más salud",
+                    "Salud máxima",
+                    "Avec le plus de PV",
+                    "Salute più alta",
+                    "最大体力",
+                    "최대 생명력",
+                    "Najwięcej zdrowia",
+                    "Maior vida",
+                    "Больше всего здоровья",
+                    "พลังชีวิตมากที่สุด",
+                    "最高生命值",
+                    "最高生命值"
+                ],
+                "m_locId": 2753181
+            }
+        },
+        {
+            "m_ID": 8,
+            "m_noteDesc": "Total Needed",
+            "m_text": {
+                "m_locValues": [
+                    "Total Needed",
+                    "Insgesamt benötigt",
+                    "Total necesario",
+                    "Total necesario",
+                    "Total requis",
+                    "Totale necessario",
+                    "必要な飾りの数",
+                    "필요한 합계",
+                    "Potrzebna suma",
+                    "Total Necessário",
+                    "Всего необходимо",
+                    "จำนวนที่ต้องการ",
+                    "总计需要",
+                    "總共需要"
+                ],
+                "m_locId": 82554
+            }
+        },
+        {
+            "m_ID": 9,
+            "m_noteDesc": "Revelers Removed",
+            "m_text": {
+                "m_locValues": [
+                    "Revelers Removed",
+                    "Ausgeladene Gäste",
+                    "Juerguistas eliminados",
+                    "Juerguistas expulsados",
+                    "Fêtards supprimés",
+                    "Festanti rimossi",
+                    "追い払った酔っ払い",
+                    "처치한 훼방꾼",
+                    "Usunięci imprezowicze",
+                    "Celebrantes Removidos",
+                    "Выгнано незваных гостей",
+                    "ตัวก่อกวนที่กำจัด",
+                    "解决的狂欢客",
+                    "解決掉的狂歡客"
+                ],
+                "m_locId": 82561
+            }
+        }
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 7069846765638720951
+    },
+    "m_Name": "ACHIEVEMENT_CATEGORY",
+    "Records": [
+        {
+            "m_ID": 1,
+            "m_name": {
+                "m_locValues": [
+                    "Progression",
+                    "Fortschritt",
+                    "Progresión",
+                    "Progresión",
+                    "Progression",
+                    "Progressione",
+                    "進捗",
+                    "진척도",
+                    "Postępy",
+                    "Progressão",
+                    "Прогресс",
+                    "ความก้าวหน้า",
+                    "生涯",
+                    "進度"
+                ],
+                "m_locId": 2730705
+            },
+            "m_icon": "general",
+            "m_sortOrder": 0
+        },
+        {
+            "m_ID": 2,
+            "m_name": {
+                "m_locValues": [
+                    "Gameplay",
+                    "Gameplay",
+                    "Juego",
+                    "Experiencia de juego",
+                    "Jeu",
+                    "Dinamica di gioco",
+                    "ゲームプレイ",
+                    "게임플레이",
+                    "Rozgrywka",
+                    "Jogos",
+                    "Игра",
+                    "ระบบเกม",
+                    "游戏",
+                    "遊戲機制"
+                ],
+                "m_locId": 2730706
+            },
+            "m_icon": "gameplay",
+            "m_sortOrder": 1
+        },
+        {
+            "m_ID": 3,
+            "m_name": {
+                "m_locValues": [
+                    "Collection",
+                    "Sammlung",
+                    "Colección",
+                    "Colección",
+                    "Collection",
+                    "Collezione",
+                    "コレクション",
+                    "수집품",
+                    "Kolekcja",
+                    "Coleção",
+                    "Коллекция",
+                    "คอลเลกชัน",
+                    "收藏",
+                    "收藏"
+                ],
+                "m_locId": 2730707
+            },
+            "m_icon": "collection",
+            "m_sortOrder": 2
+        },
+        {
+            "m_ID": 4,
+            "m_name": {
+                "m_locValues": [
+                    "Adventures",
+                    "Abenteuer",
+                    "Aventuras",
+                    "Aventuras",
+                    "Aventures",
+                    "Avventure",
+                    "アドベンチャー",
+                    "모험",
+                    "Przygody",
+                    "Aventuras",
+                    "Приключения",
+                    "การผจญภัย",
+                    "冒险",
+                    "冒險篇章"
+                ],
+                "m_locId": 2730708
+            },
+            "m_icon": "adventures",
+            "m_sortOrder": 3
+        },
+        {
+            "m_ID": 6,
+            "m_name": {
+                "m_locValues": [
+                    "Game Modes",
+                    "Spielmodi",
+                    "Modos de juego",
+                    "Modos de juego",
+                    "Modes de jeu",
+                    "Modalità",
+                    "ゲームモード",
+                    "게임 모드",
+                    "Tryby gry",
+                    "Modos de Jogo",
+                    "Режимы",
+                    "โหมดเกม",
+                    "其他",
+                    "其他遊戲模式"
+                ],
+                "m_locId": 2730710
+            },
+            "m_icon": "game_modes",
+            "m_sortOrder": 5
+        }
+    ]
+}

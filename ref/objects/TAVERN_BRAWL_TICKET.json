@@ -1,0 +1,89 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 7230052313289289167
+    },
+    "m_Name": "TAVERN_BRAWL_TICKET",
+    "Records": [
+        {
+            "m_ID": 0,
+            "m_noteDesc": "No ticket required",
+            "m_canBeOwned": 0,
+            "m_canBePurchased": 0,
+            "m_storeName": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            }
+        },
+        {
+            "m_ID": 1,
+            "m_noteDesc": "Heroic Brawl Ticket",
+            "m_canBeOwned": 1,
+            "m_canBePurchased": 1,
+            "m_storeName": {
+                "m_locValues": [
+                    "Heroic Brawl Ticket",
+                    "Zugang zum heroischen Kartenchaos",
+                    "Acceso a la pelea heroica",
+                    "Entrada para gresca heroica",
+                    "Billet pour Bras de fer héroïque",
+                    "Biglietto Rissa Eroica",
+                    "ヒロイック喧嘩チケット",
+                    "영웅 난이도 난투 입장권",
+                    "Wstęp na Heroiczną Bójkę",
+                    "Ingresso de Contenda Heroica",
+                    "Билет на героическую потасовку",
+                    "ตั๋วเกมท้าประลองระดับฮีโร่",
+                    "英雄乱斗入场券",
+                    "英雄大亂鬥門票"
+                ],
+                "m_locId": 78780
+            }
+        },
+        {
+            "m_ID": 5,
+            "m_noteDesc": "Brawliseum Ticket",
+            "m_canBeOwned": 1,
+            "m_canBePurchased": 1,
+            "m_storeName": {
+                "m_locValues": [
+                    "Brawliseum Ticket",
+                    "Zugang zum Kartenkolosseum",
+                    "Acceso a la Anfitaberna",
+                    "Boleto para el Grescódromo",
+                    "Billet pour le Colisée",
+                    "Biglietto per il Rissodromo",
+                    "ゴロシアム・チケット",
+                    "난투장 입장권",
+                    "Wstęp na Arenową bójkę",
+                    "Entrada do Coliseu da Contenda",
+                    "Билет в «Потасовочный цех»",
+                    "ตั๋วสนามท้าประลอง",
+                    "乱斗角斗场入场券",
+                    "亂鬥場門票"
+                ],
+                "m_locId": 2691366
+            }
+        }
+    ]
+}

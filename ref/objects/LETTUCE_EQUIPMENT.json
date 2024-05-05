@@ -1,0 +1,1602 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -8070147011561160460
+    },
+    "m_Name": "LETTUCE_EQUIPMENT",
+    "Records": [
+        {
+            "m_ID": 1,
+            "m_noteDesc": "Sharpened Axe LETL_501"
+        },
+        {
+            "m_ID": 10,
+            "m_noteDesc": "LETL_007P8_01 - Demon Guard I"
+        },
+        {
+            "m_ID": 102,
+            "m_noteDesc": "LETL_665_03 - Void Sacrifice"
+        },
+        {
+            "m_ID": 103,
+            "m_noteDesc": "LETL_667_01 - Whitemane's Staff"
+        },
+        {
+            "m_ID": 104,
+            "m_noteDesc": "LETL_333_01 - Eye of Divinity"
+        },
+        {
+            "m_ID": 105,
+            "m_noteDesc": "LETL_334_01 - Eye of Shadow"
+        },
+        {
+            "m_ID": 106,
+            "m_noteDesc": "LETL_335_04 - Splinter of Nordrassil"
+        },
+        {
+            "m_ID": 107,
+            "m_noteDesc": "LETL_315_01 - Gloves of Death"
+        },
+        {
+            "m_ID": 108,
+            "m_noteDesc": "LETL_326_01 - Ring of Haste II"
+        },
+        {
+            "m_ID": 109,
+            "m_noteDesc": "LETL_327_01 - Glaive of Vol'jin"
+        },
+        {
+            "m_ID": 11,
+            "m_noteDesc": "LETL_647_03 - Fel Blade 3"
+        },
+        {
+            "m_ID": 110,
+            "m_noteDesc": "LETL_314_04 - Shadow Gem"
+        },
+        {
+            "m_ID": 111,
+            "m_noteDesc": "LETL_690_01 - Shalamayne I"
+        },
+        {
+            "m_ID": 112,
+            "m_noteDesc": "LETL_691_01 - Bounding Boots"
+        },
+        {
+            "m_ID": 113,
+            "m_noteDesc": "LETL_692_01 - War Banner 1"
+        },
+        {
+            "m_ID": 114,
+            "m_noteDesc": "LETL_423_01 - Ring of Purity 1"
+        },
+        {
+            "m_ID": 115,
+            "m_noteDesc": "LETL_424_04 - Robes of Rejuvenation IV"
+        },
+        {
+            "m_ID": 116,
+            "m_noteDesc": "LETL_425_01 - Harmonic Mallet 1"
+        },
+        {
+            "m_ID": 117,
+            "m_noteDesc": "LETL_433_01 - Lightbringer"
+        },
+        {
+            "m_ID": 118,
+            "m_noteDesc": "LETL_434_02 - Shield of Dawn"
+        },
+        {
+            "m_ID": 119,
+            "m_noteDesc": "LETL_435_01 - Beaming Blade"
+        },
+        {
+            "m_ID": 12,
+            "m_noteDesc": "LETL_648_01 - Chaos Amulet I"
+        },
+        {
+            "m_ID": 120,
+            "m_noteDesc": "LETL_443_01 - Striking Gauntlets 1"
+        },
+        {
+            "m_ID": 121,
+            "m_noteDesc": "LETL_444_01 - Band of Enlightenment"
+        },
+        {
+            "m_ID": 122,
+            "m_noteDesc": "LETL_445_01 - Rallying Banner"
+        },
+        {
+            "m_ID": 126,
+            "m_noteDesc": "LETL_624_01 - Orcish Banner 1"
+        },
+        {
+            "m_ID": 127,
+            "m_noteDesc": "LETL_680_01 - Ashbringer"
+        },
+        {
+            "m_ID": 128,
+            "m_noteDesc": "LETL_635_01 - Saronite Stompers I"
+        },
+        {
+            "m_ID": 129,
+            "m_noteDesc": "LETL_636_01 - Serrated Shield I"
+        },
+        {
+            "m_ID": 13,
+            "m_noteDesc": "LETL_681_01 - King's Helm 1"
+        },
+        {
+            "m_ID": 130,
+            "m_noteDesc": "LETL_304_01 - Blood of Mannoroth I"
+        },
+        {
+            "m_ID": 131,
+            "m_noteDesc": "LETL_305_01 - Staff of Chaos I"
+        },
+        {
+            "m_ID": 132,
+            "m_noteDesc": "LETL_674_01 - Halting Sash I"
+        },
+        {
+            "m_ID": 134,
+            "m_noteDesc": "LETL_676_01 - Bloodthirst Amulet I"
+        },
+        {
+            "m_ID": 135,
+            "m_noteDesc": "LETL_677_01 - Frostwolf Talisman I"
+        },
+        {
+            "m_ID": 136,
+            "m_noteDesc": "LETL_678_01 - Helm of Inspiration I"
+        },
+        {
+            "m_ID": 137,
+            "m_noteDesc": "LETL_679_01 - Ancestral Armor I"
+        },
+        {
+            "m_ID": 138,
+            "m_noteDesc": "LETL_684_01 - Tome of Judgement I"
+        },
+        {
+            "m_ID": 139,
+            "m_noteDesc": "LETL_685_01 - Tome of Light I"
+        },
+        {
+            "m_ID": 14,
+            "m_noteDesc": "LETL_682_01 - Tirion's Shield 1"
+        },
+        {
+            "m_ID": 140,
+            "m_noteDesc": "LETL_686_04 - Hammer of Dawn"
+        },
+        {
+            "m_ID": 141,
+            "m_noteDesc": "LETL_436_03 - Libram of Sacrifice"
+        },
+        {
+            "m_ID": 142,
+            "m_noteDesc": "LETL_631_01 - Potion of Ice"
+        },
+        {
+            "m_ID": 143,
+            "m_noteDesc": "LETL_632_01 - Frosty Shards"
+        },
+        {
+            "m_ID": 144,
+            "m_noteDesc": "LETL_634_01 - Chilling Amulet I"
+        },
+        {
+            "m_ID": 145,
+            "m_noteDesc": "LETL_668_01 - Frost Dust 1"
+        },
+        {
+            "m_ID": 146,
+            "m_noteDesc": "LETL_669_04 - Ice Block Talisman"
+        },
+        {
+            "m_ID": 147,
+            "m_noteDesc": "LETL_670_02 - Band of Frost II"
+        },
+        {
+            "m_ID": 148,
+            "m_noteDesc": "LETL_687_01 - Helm of Domination 1"
+        },
+        {
+            "m_ID": 149,
+            "m_noteDesc": "LETL_688_01 - Void Treads"
+        },
+        {
+            "m_ID": 15,
+            "m_noteDesc": "Focused Shard LETL_671"
+        },
+        {
+            "m_ID": 150,
+            "m_noteDesc": "LETL_689_03 - Frostmourne "
+        },
+        {
+            "m_ID": 152,
+            "m_noteDesc": "LETL_446_01 - Blazing Rune II"
+        },
+        {
+            "m_ID": 153,
+            "m_noteDesc": "LETL_447_01 - Sulfuras 1"
+        },
+        {
+            "m_ID": 154,
+            "m_noteDesc": "LETL_693_01 - Elunes Charm I"
+        },
+        {
+            "m_ID": 155,
+            "m_noteDesc": "LETL_694_01 - Verdant Recurve"
+        },
+        {
+            "m_ID": 156,
+            "m_noteDesc": "LETL_695_04 - Band of the Wilds 4"
+        },
+        {
+            "m_ID": 157,
+            "m_noteDesc": "LETL_448_01 - Molten Core 1"
+        },
+        {
+            "m_ID": 158,
+            "m_noteDesc": "LETL_696_01 - Arcane Fang 1"
+        },
+        {
+            "m_ID": 159,
+            "m_noteDesc": "LETL_697_02 - Mana Runes I"
+        },
+        {
+            "m_ID": 16,
+            "m_noteDesc": "Plate Armor LETL_629"
+        },
+        {
+            "m_ID": 17,
+            "m_noteDesc": "Spiked Armor LETL_630"
+        },
+        {
+            "m_ID": 172,
+            "m_noteDesc": "LETL_700_01 - Molten Blade I"
+        },
+        {
+            "m_ID": 173,
+            "m_noteDesc": "LETL_701_01 - Mark of Conflagration I"
+        },
+        {
+            "m_ID": 174,
+            "m_noteDesc": "LETL_702_04 - Burning Bracers IV"
+        },
+        {
+            "m_ID": 175,
+            "m_noteDesc": "LETL_453_01 - Cindercore Staff I"
+        },
+        {
+            "m_ID": 176,
+            "m_noteDesc": "LETL_454_04 - Searing Pendant IV"
+        },
+        {
+            "m_ID": 177,
+            "m_noteDesc": "LETL_455_01 - Circlet of Flame I"
+        },
+        {
+            "m_ID": 182,
+            "m_noteDesc": "LETL_465_01 - Bramblethorn Totem 1"
+        },
+        {
+            "m_ID": 183,
+            "m_noteDesc": "LETL_466_01 - Earthen Bracers 1"
+        },
+        {
+            "m_ID": 184,
+            "m_noteDesc": "LETL_703_03 - Lightning Rod III"
+        },
+        {
+            "m_ID": 185,
+            "m_noteDesc": "LETL_704_01 - Crackling Band I"
+        },
+        {
+            "m_ID": 186,
+            "m_noteDesc": "LETL_705_01 - Timberfrost Totem I"
+        },
+        {
+            "m_ID": 187,
+            "m_noteDesc": "LETL_706_01 - Briarthorn I"
+        },
+        {
+            "m_ID": 188,
+            "m_noteDesc": "LETL_707_01 - Liferoot Staff I"
+        },
+        {
+            "m_ID": 189,
+            "m_noteDesc": "LETL_709_01 - Forest Medallion I"
+        },
+        {
+            "m_ID": 19,
+            "m_noteDesc": "Resurging Will"
+        },
+        {
+            "m_ID": 190,
+            "m_noteDesc": "LETL_019E1_01 - Hidden Paths 1"
+        },
+        {
+            "m_ID": 191,
+            "m_noteDesc": "LETL_019E3_01 - Unnatural Smoke 1"
+        },
+        {
+            "m_ID": 192,
+            "m_noteDesc": "LETL_247_02 - Swift Totem 2"
+        },
+        {
+            "m_ID": 193,
+            "m_noteDesc": "LETL_248_01 - Thunderous Sash 1"
+        },
+        {
+            "m_ID": 194,
+            "m_noteDesc": "LETL_712_01 - High Power Rounds I"
+        },
+        {
+            "m_ID": 195,
+            "m_noteDesc": "LETL_713_01 - Hunting Shroud "
+        },
+        {
+            "m_ID": 196,
+            "m_noteDesc": "LETL_714_01 - Rigged Wiring 1"
+        },
+        {
+            "m_ID": 197,
+            "m_noteDesc": "LETL_243_01 - Blessed Shard 1"
+        },
+        {
+            "m_ID": 198,
+            "m_noteDesc": "LETL_244_01 - Tome of Inspiration I"
+        },
+        {
+            "m_ID": 199,
+            "m_noteDesc": "LETL_245_01 - Potion of Light I"
+        },
+        {
+            "m_ID": 2,
+            "m_noteDesc": "Plated Armor LETL_502"
+        },
+        {
+            "m_ID": 200,
+            "m_noteDesc": "LETL_715_01 - Radiant Wand 1"
+        },
+        {
+            "m_ID": 201,
+            "m_noteDesc": "LETL_716_01 - Shard of the Naaru I"
+        },
+        {
+            "m_ID": 202,
+            "m_noteDesc": "LETL_717_01 - Tome of Atonement I"
+        },
+        {
+            "m_ID": 203,
+            "m_noteDesc": "LETL_482_01 - SI:7 Contract 1"
+        },
+        {
+            "m_ID": 204,
+            "m_noteDesc": "LETL_483_01 - Paring Knife 1"
+        },
+        {
+            "m_ID": 205,
+            "m_noteDesc": "LETL_484_01 - Honing Rod 1"
+        },
+        {
+            "m_ID": 206,
+            "m_noteDesc": "LETL_485_01 - Dragon's Skull 1"
+        },
+        {
+            "m_ID": 207,
+            "m_noteDesc": "LETL_486_01 - Burning Shot I"
+        },
+        {
+            "m_ID": 208,
+            "m_noteDesc": "LETL_487_02 - Dragonclaw Fists II"
+        },
+        {
+            "m_ID": 209,
+            "m_noteDesc": "LETL_638_01 - Burning Blade I"
+        },
+        {
+            "m_ID": 210,
+            "m_noteDesc": "LETL_640_04 - Sash of Illusion IV"
+        },
+        {
+            "m_ID": 211,
+            "m_noteDesc": "LETL_666_01 - Black Soulstone I"
+        },
+        {
+            "m_ID": 212,
+            "m_noteDesc": "LETL_672_01 - Magma Horns I"
+        },
+        {
+            "m_ID": 213,
+            "m_noteDesc": "LETL_699_02 - Claws of Terror II"
+        },
+        {
+            "m_ID": 214,
+            "m_noteDesc": "LETL_374_01 - Snake Snacks 1"
+        },
+        {
+            "m_ID": 215,
+            "m_noteDesc": "LETL_375_04 - Signet of the Wilds 4"
+        },
+        {
+            "m_ID": 217,
+            "m_noteDesc": "LETL_437_01 - Gleaming Pauldrons I"
+        },
+        {
+            "m_ID": 218,
+            "m_noteDesc": "LETL_698_04 - Potion of Thought IV"
+        },
+        {
+            "m_ID": 219,
+            "m_noteDesc": "LT21_016_001 - Skull Dust I"
+        },
+        {
+            "m_ID": 223,
+            "m_noteDesc": "LT21_05E1_01 - Iron Ladle I"
+        },
+        {
+            "m_ID": 224,
+            "m_noteDesc": "LT21_05E2_01 - Appetizers I"
+        },
+        {
+            "m_ID": 225,
+            "m_noteDesc": "LT21_05E3_01 - Seasoned Pan 1"
+        },
+        {
+            "m_ID": 226,
+            "m_noteDesc": "LT21_017_001 - Titanium Blades I"
+        },
+        {
+            "m_ID": 227,
+            "m_noteDesc": "LT21_018_001 - Extra Blades I"
+        },
+        {
+            "m_ID": 228,
+            "m_noteDesc": "LETL_675_01 - Gorehowl I"
+        },
+        {
+            "m_ID": 23,
+            "m_noteDesc": "LETL_642_01 - Razor Fist I"
+        },
+        {
+            "m_ID": 230,
+            "m_noteDesc": "LT21_004_01 - Black Flag I"
+        },
+        {
+            "m_ID": 231,
+            "m_noteDesc": "LT21_005_01 - Even Shares 1"
+        },
+        {
+            "m_ID": 232,
+            "m_noteDesc": "LT21_006_01 - Round of Drinks 1"
+        },
+        {
+            "m_ID": 234,
+            "m_noteDesc": "LETL_464_01 - Bloomin' Shroom 1"
+        },
+        {
+            "m_ID": 24,
+            "m_noteDesc": "LETL_643_04 - Warglaives of Azzinoth"
+        },
+        {
+            "m_ID": 241,
+            "m_noteDesc": "LT21_022_001 - Sailor's Cap 1"
+        },
+        {
+            "m_ID": 242,
+            "m_noteDesc": "LT21_023_001 - Sharpened Scabbard 1"
+        },
+        {
+            "m_ID": 243,
+            "m_noteDesc": "LT21_024_001 - Heavy Anchor 1"
+        },
+        {
+            "m_ID": 244,
+            "m_noteDesc": "LETL_024E1_01 - Shrapnel Shot 1"
+        },
+        {
+            "m_ID": 245,
+            "m_noteDesc": "LETL_024E2_04 - Primed Armaments 4"
+        },
+        {
+            "m_ID": 246,
+            "m_noteDesc": "LETL_024E3_01 - Briny Bracers 1"
+        },
+        {
+            "m_ID": 247,
+            "m_noteDesc": "LT21_02E1_01 - Dreadblades 1"
+        },
+        {
+            "m_ID": 248,
+            "m_noteDesc": "LT21_02E2_01 - Extra Pockets 1"
+        },
+        {
+            "m_ID": 249,
+            "m_noteDesc": "LT21_02E3_01 - Blade Catcher 1"
+        },
+        {
+            "m_ID": 25,
+            "m_noteDesc": "LETL_644_01 - Demon Shroud 1"
+        },
+        {
+            "m_ID": 250,
+            "m_noteDesc": "LETL_394_01 - Infused Amber 1"
+        },
+        {
+            "m_ID": 251,
+            "m_noteDesc": "LETL_395_01 - Razor Claw 1"
+        },
+        {
+            "m_ID": 252,
+            "m_noteDesc": "LETL_393_01 - Regenerative Scales 1"
+        },
+        {
+            "m_ID": 253,
+            "m_noteDesc": "LT21_07E1_01 - Swash Buckling Sash 1"
+        },
+        {
+            "m_ID": 254,
+            "m_noteDesc": "LT21_07E2_01 - Ships Bell 1"
+        },
+        {
+            "m_ID": 255,
+            "m_noteDesc": "LT21_07E3_01 - Scout's Spyglass 1"
+        },
+        {
+            "m_ID": 260,
+            "m_noteDesc": "LT22_002E1_01 - Lesser Water Elemental 1"
+        },
+        {
+            "m_ID": 261,
+            "m_noteDesc": "LT22_012E1_01 - Hooked Talons 1"
+        },
+        {
+            "m_ID": 262,
+            "m_noteDesc": "LT22_012E2_01 - Mana Brooch 1"
+        },
+        {
+            "m_ID": 263,
+            "m_noteDesc": "LT22_012E3_01 - Shard of Woe 1"
+        },
+        {
+            "m_ID": 264,
+            "m_noteDesc": "LT22_002E2_01 - Stormpike's Salvation 1"
+        },
+        {
+            "m_ID": 265,
+            "m_noteDesc": "LT22_002E3_01 - Lesser Fire Elemental 1"
+        },
+        {
+            "m_ID": 266,
+            "m_noteDesc": "LT22_005E1_01 - Icy Focus 1"
+        },
+        {
+            "m_ID": 267,
+            "m_noteDesc": "LT22_005E2_01 - Frigid Winds 1"
+        },
+        {
+            "m_ID": 268,
+            "m_noteDesc": "LT22_005E3_01 - Shroud of the Ice Lord 1"
+        },
+        {
+            "m_ID": 269,
+            "m_noteDesc": "LT22_014E1_01 - Chimera of Fear 1"
+        },
+        {
+            "m_ID": 27,
+            "m_noteDesc": "Spiked Polearm LETL_649"
+        },
+        {
+            "m_ID": 270,
+            "m_noteDesc": "LT22_014E2_01 - Black Dragon Scales 1"
+        },
+        {
+            "m_ID": 271,
+            "m_noteDesc": "LT22_014E3_01 - Horn of Wrathion 1"
+        },
+        {
+            "m_ID": 273,
+            "m_noteDesc": "LT22_004E1_01 - Fury of the Frost Wolf 1"
+        },
+        {
+            "m_ID": 274,
+            "m_noteDesc": "LT22_004E2_01 - Drek'Thar's Boon 1"
+        },
+        {
+            "m_ID": 275,
+            "m_noteDesc": "LT22_004E3_01 - Deafening Howl 1"
+        },
+        {
+            "m_ID": 278,
+            "m_noteDesc": "LT22_007E1_01 - Bottle of Infinite Stars 1"
+        },
+        {
+            "m_ID": 279,
+            "m_noteDesc": "LT22_007E2_01 - Kun-Lai Crystal 1"
+        },
+        {
+            "m_ID": 28,
+            "m_noteDesc": "Fel Rod LETL_650"
+        },
+        {
+            "m_ID": 280,
+            "m_noteDesc": "LT22_007E3_04 - Band of Bursting Novas 1"
+        },
+        {
+            "m_ID": 288,
+            "m_noteDesc": "LT23_021E2_01 - Witch's Mantle 1"
+        },
+        {
+            "m_ID": 289,
+            "m_noteDesc": "LT23_021E1_01 - Icy Grasp 1"
+        },
+        {
+            "m_ID": 29,
+            "m_noteDesc": "LETL_653_01 - Mana Rod 1"
+        },
+        {
+            "m_ID": 290,
+            "m_noteDesc": "LT23_016E1_01 - Xal'atath 1"
+        },
+        {
+            "m_ID": 291,
+            "m_noteDesc": "LT23_016E2_01 - Tidestone of Golganneth 1"
+        },
+        {
+            "m_ID": 292,
+            "m_noteDesc": "LT23_016E3_01 - The Queen's Scepter 1"
+        },
+        {
+            "m_ID": 293,
+            "m_noteDesc": "LT22_006E1_01 - Spear of Xuen 1"
+        },
+        {
+            "m_ID": 294,
+            "m_noteDesc": "LT22_006E2_01 - Celestial Chestplate 1"
+        },
+        {
+            "m_ID": 295,
+            "m_noteDesc": "LT22_006E3_01 - Charged Gauntlets\n 1"
+        },
+        {
+            "m_ID": 296,
+            "m_noteDesc": "LT22_008E1_01 - Bullish Belt 1"
+        },
+        {
+            "m_ID": 297,
+            "m_noteDesc": "LT22_008E2_01 - Helm of Niuzao 1"
+        },
+        {
+            "m_ID": 298,
+            "m_noteDesc": "LT22_008E3_01 - Talisman of the Ox 1"
+        },
+        {
+            "m_ID": 299,
+            "m_noteDesc": "LT22_009E1_01 - Jade Spear 1"
+        },
+        {
+            "m_ID": 3,
+            "m_noteDesc": "Parrying Sword LETL_503"
+        },
+        {
+            "m_ID": 30,
+            "m_noteDesc": "LETL_654_04 - Ley Line Wand 4"
+        },
+        {
+            "m_ID": 300,
+            "m_noteDesc": "LT22_009E2_02 - Serpent Pendant 2"
+        },
+        {
+            "m_ID": 301,
+            "m_noteDesc": "LT22_009E3_01 - Pearl of Yu'lon 1"
+        },
+        {
+            "m_ID": 302,
+            "m_noteDesc": "LT22_010E1_01 - Blazing Band 1"
+        },
+        {
+            "m_ID": 303,
+            "m_noteDesc": "LT22_010E2_01 - Staff of Chi-Ji 1"
+        },
+        {
+            "m_ID": 304,
+            "m_noteDesc": "LT22_010E3_01 - Flameheart Crystal 1"
+        },
+        {
+            "m_ID": 305,
+            "m_noteDesc": "LT23_017E1_01 - Spitescale Resolve 1"
+        },
+        {
+            "m_ID": 306,
+            "m_noteDesc": "LT23_017E2_01 - Serve Chilled 1"
+        },
+        {
+            "m_ID": 307,
+            "m_noteDesc": "LT23_017E3_01 - Upstart Acolyte 1"
+        },
+        {
+            "m_ID": 308,
+            "m_noteDesc": "LT23_020E1_01 - Fathom Lure 1"
+        },
+        {
+            "m_ID": 309,
+            "m_noteDesc": "LT23_020E2_01 - Hull Breaker 1"
+        },
+        {
+            "m_ID": 31,
+            "m_noteDesc": "LETL_655_01 - Arcane Powder I"
+        },
+        {
+            "m_ID": 310,
+            "m_noteDesc": "LT23_020E3_04 - Tidewalker's Brooch 4"
+        },
+        {
+            "m_ID": 311,
+            "m_noteDesc": "LT22_023E1_01 - Winterax Strong 1"
+        },
+        {
+            "m_ID": 312,
+            "m_noteDesc": "LT22_023E2_01 - Honor Bound 1"
+        },
+        {
+            "m_ID": 313,
+            "m_noteDesc": "LT22_023E3_01 - The Everliving 1"
+        },
+        {
+            "m_ID": 32,
+            "m_noteDesc": "LETL_001P7_02 - Death Volley II"
+        },
+        {
+            "m_ID": 321,
+            "m_noteDesc": "LT23_018E1_01 - Clutching Hatred 1"
+        },
+        {
+            "m_ID": 322,
+            "m_noteDesc": "LT23_018E2_04 - Harpsicold 4"
+        },
+        {
+            "m_ID": 323,
+            "m_noteDesc": "LT23_018E3_01 - Warlord Parjesh 1"
+        },
+        {
+            "m_ID": 324,
+            "m_noteDesc": "LT23_019E1_01 - Unleashed Eel 1"
+        },
+        {
+            "m_ID": 325,
+            "m_noteDesc": "LT23_019E2_04 - Sharp Idea 4"
+        },
+        {
+            "m_ID": 326,
+            "m_noteDesc": "LT23_019E3_01 - Fishy Cauldron 1"
+        },
+        {
+            "m_ID": 327,
+            "m_noteDesc": "LT22_015E1_01 - Even Bigger Sword 1"
+        },
+        {
+            "m_ID": 328,
+            "m_noteDesc": "LT22_015E2_01 - Heals! 1"
+        },
+        {
+            "m_ID": 329,
+            "m_noteDesc": "LT22_015E3_01 - Ninja-Looting 1"
+        },
+        {
+            "m_ID": 33,
+            "m_noteDesc": "LETL_651_01 - Mourneblade I"
+        },
+        {
+            "m_ID": 330,
+            "m_noteDesc": "LT22_013E1_01 - Heart of Unliving 1"
+        },
+        {
+            "m_ID": 331,
+            "m_noteDesc": "LT22_013E2_01 - Resolve of Undying 1"
+        },
+        {
+            "m_ID": 332,
+            "m_noteDesc": "LT22_013E3_01 - Demon Soul 1"
+        },
+        {
+            "m_ID": 333,
+            "m_noteDesc": "LT22_011E1_01 - Experimental Subjects 1"
+        },
+        {
+            "m_ID": 334,
+            "m_noteDesc": "LT22_011E2_01 - Chromatic Dragonflight 1"
+        },
+        {
+            "m_ID": 335,
+            "m_noteDesc": "LT22_011E3_01 - Spare Parts 1"
+        },
+        {
+            "m_ID": 336,
+            "m_noteDesc": "LT22_024E1_01 - Razor Sharp Claws 1"
+        },
+        {
+            "m_ID": 337,
+            "m_noteDesc": "LT22_024E2_01 - Deeper Breath 1"
+        },
+        {
+            "m_ID": 338,
+            "m_noteDesc": "LT22_024E3_01 - Broodmother's Rage 1"
+        },
+        {
+            "m_ID": 339,
+            "m_noteDesc": "LT22_003E1_01 - Glacial Blade 1"
+        },
+        {
+            "m_ID": 34,
+            "m_noteDesc": "LETL_652_01 - Soul Jar I"
+        },
+        {
+            "m_ID": 340,
+            "m_noteDesc": "LT22_003E2_01 - Drek'Thar's Spellbook 1"
+        },
+        {
+            "m_ID": 341,
+            "m_noteDesc": "LT22_003E3_01 - Shimmerweed Potion 1"
+        },
+        {
+            "m_ID": 342,
+            "m_noteDesc": "LT22_001E1_01 - The Unstoppable Force 1"
+        },
+        {
+            "m_ID": 343,
+            "m_noteDesc": "LT22_001E2_01 - The Immovable Object 1"
+        },
+        {
+            "m_ID": 344,
+            "m_noteDesc": "LT22_001E3_01 - Avatar of Stormpike 1"
+        },
+        {
+            "m_ID": 346,
+            "m_noteDesc": "LT22_016E1_01 - Mageroyal 1"
+        },
+        {
+            "m_ID": 347,
+            "m_noteDesc": "LT22_016E2_01 - Kingsblood 1"
+        },
+        {
+            "m_ID": 348,
+            "m_noteDesc": "LT22_016E3_01 - Wildvine 1"
+        },
+        {
+            "m_ID": 349,
+            "m_noteDesc": "LT23_011E1_01 - Jolly Roger 1"
+        },
+        {
+            "m_ID": 35,
+            "m_noteDesc": "LETL_664_01 - Defiled Amulet"
+        },
+        {
+            "m_ID": 350,
+            "m_noteDesc": "LT23_011E3_01 - Prop Knife 1"
+        },
+        {
+            "m_ID": 351,
+            "m_noteDesc": "LT23_011E2_01 - Captain's Pride 1"
+        },
+        {
+            "m_ID": 352,
+            "m_noteDesc": "LT23_021E3_01 - Fel Cauldron 1"
+        },
+        {
+            "m_ID": 353,
+            "m_noteDesc": "LT23_024E1_01 - March of the Murlocs 1"
+        },
+        {
+            "m_ID": 354,
+            "m_noteDesc": "LT23_024E2_01 - Slippery When Wet 1"
+        },
+        {
+            "m_ID": 355,
+            "m_noteDesc": "LT23_024E3_01 - Time to Krill 1"
+        },
+        {
+            "m_ID": 356,
+            "m_noteDesc": "LT23_025E1_01 - Evolving Might 1"
+        },
+        {
+            "m_ID": 357,
+            "m_noteDesc": "LT23_025E2_01 - Corrupted Neurons 1"
+        },
+        {
+            "m_ID": 358,
+            "m_noteDesc": "LT23_025E3_01 - Eternal Torment 1"
+        },
+        {
+            "m_ID": 359,
+            "m_noteDesc": "LT23_026E1_01 - Piercing Gaze 1"
+        },
+        {
+            "m_ID": 36,
+            "m_noteDesc": "LETL_019E2_01 - Shadow Dagger 1"
+        },
+        {
+            "m_ID": 360,
+            "m_noteDesc": "LT23_026E2_01 - Lash of Hysteria 1"
+        },
+        {
+            "m_ID": 361,
+            "m_noteDesc": "LT23_026E3_01 - Awakening Roar 1"
+        },
+        {
+            "m_ID": 363,
+            "m_noteDesc": "LT23_028E1_01 - Mark of Y'Shaarj 1"
+        },
+        {
+            "m_ID": 364,
+            "m_noteDesc": "LT23_028E2_01 - Heart of Y'Shaarj 1"
+        },
+        {
+            "m_ID": 365,
+            "m_noteDesc": "LT23_028E3_01 - Idol of Y'Shaarj 1"
+        },
+        {
+            "m_ID": 366,
+            "m_noteDesc": "LT23_036E2_01 - Heart of Neutrality 1"
+        },
+        {
+            "m_ID": 367,
+            "m_noteDesc": "LT23_036E1_01 - Stash of Scrolls 1"
+        },
+        {
+            "m_ID": 368,
+            "m_noteDesc": "LT23_036E3_01 - Cho Family Heirloom 1"
+        },
+        {
+            "m_ID": 369,
+            "m_noteDesc": "LT23_037E1_01 - Hammer of the Naaru 1"
+        },
+        {
+            "m_ID": 37,
+            "m_noteDesc": "Holy Blade LETL_616"
+        },
+        {
+            "m_ID": 370,
+            "m_noteDesc": "LT23_037E2_01 - Libram of Wisdom 1"
+        },
+        {
+            "m_ID": 371,
+            "m_noteDesc": "LT23_037E3_01 - Light of Karabor 1"
+        },
+        {
+            "m_ID": 375,
+            "m_noteDesc": "LT23_034E1_01 - Totemic Mastery 1"
+        },
+        {
+            "m_ID": 376,
+            "m_noteDesc": "LT23_034E2_03 - Herbal Ancestry 3"
+        },
+        {
+            "m_ID": 377,
+            "m_noteDesc": "LT23_034E3_01 - Chieftain's Feather 1"
+        },
+        {
+            "m_ID": 378,
+            "m_noteDesc": "LT23_035E1_01 - Charged Glaive 1"
+        },
+        {
+            "m_ID": 379,
+            "m_noteDesc": "LT23_035E2_04 - Eye of the Watchers 4"
+        },
+        {
+            "m_ID": 38,
+            "m_noteDesc": "Radiant Amplifier LETL_673"
+        },
+        {
+            "m_ID": 380,
+            "m_noteDesc": "LT23_035E3_01 - Warden's Shroud"
+        },
+        {
+            "m_ID": 383,
+            "m_noteDesc": "LT23_031E1_01 - Relic of Uldum 1"
+        },
+        {
+            "m_ID": 384,
+            "m_noteDesc": "LT23_031E2_02 - Adventurer's Pack 2"
+        },
+        {
+            "m_ID": 385,
+            "m_noteDesc": "LT23_031E3_01 - Extra Spirit 1"
+        },
+        {
+            "m_ID": 386,
+            "m_noteDesc": "LT23_022E1_01 - Hook the Crew 1"
+        },
+        {
+            "m_ID": 387,
+            "m_noteDesc": "LT23_022E2_01 - Arms Locker 1"
+        },
+        {
+            "m_ID": 388,
+            "m_noteDesc": "LT23_022E3_01 - I'm In Charge Now! 1"
+        },
+        {
+            "m_ID": 389,
+            "m_noteDesc": "LT23_029E1_01 - El'druin 1"
+        },
+        {
+            "m_ID": 390,
+            "m_noteDesc": "LT23_029E2_01 - Blinding Gauntlets 1"
+        },
+        {
+            "m_ID": 391,
+            "m_noteDesc": "LT23_029E3_01 - Crown of Purity 1"
+        },
+        {
+            "m_ID": 392,
+            "m_noteDesc": "LT23_030E1_01 - Explorer's Hat 1"
+        },
+        {
+            "m_ID": 393,
+            "m_noteDesc": "LT23_030E2_01 - We're Rich! 1"
+        },
+        {
+            "m_ID": 394,
+            "m_noteDesc": "LT23_030E3_04 - Treasure Inspector 4"
+        },
+        {
+            "m_ID": 395,
+            "m_noteDesc": "LT23_033E1_01 - Mask of the Mummy 1"
+        },
+        {
+            "m_ID": 396,
+            "m_noteDesc": "LT23_033E2_01 - Mask of Mimicry 1"
+        },
+        {
+            "m_ID": 397,
+            "m_noteDesc": "LT23_033E3_01 - Mask of Rage 1"
+        },
+        {
+            "m_ID": 398,
+            "m_noteDesc": "LT23_032E1_01 - Talon Trinket 1"
+        },
+        {
+            "m_ID": 399,
+            "m_noteDesc": "LT23_032E2_02 - Oasis Canteen 2"
+        },
+        {
+            "m_ID": 4,
+            "m_noteDesc": "LETL_265_01 - Swiftfeather Bow 1"
+        },
+        {
+            "m_ID": 40,
+            "m_noteDesc": "Inferno LETL_030P4"
+        },
+        {
+            "m_ID": 400,
+            "m_noteDesc": "LT23_032E3_01 - Monkey's Paw 1"
+        },
+        {
+            "m_ID": 401,
+            "m_noteDesc": "LT23_017E1_01 - Ring of Slugishness 1"
+        },
+        {
+            "m_ID": 402,
+            "m_noteDesc": "LT24_001E1_01 - Maw of C'Thun 1"
+        },
+        {
+            "m_ID": 403,
+            "m_noteDesc": "LT24_001E2_01 - Eye of C'Thun 1"
+        },
+        {
+            "m_ID": 404,
+            "m_noteDesc": "LT24_001E3_01 - Body of C'Thun 1"
+        },
+        {
+            "m_ID": 405,
+            "m_noteDesc": "LT24_021E1_01 - Flying Axes 1"
+        },
+        {
+            "m_ID": 406,
+            "m_noteDesc": "LT24_021E2_01 - Parrying Blade 1"
+        },
+        {
+            "m_ID": 407,
+            "m_noteDesc": "LT24_021E3_03 - Three Moves Ahead 3"
+        },
+        {
+            "m_ID": 408,
+            "m_noteDesc": "LT24_003E1_01 - Maxwell, Mighty Steed 1"
+        },
+        {
+            "m_ID": 409,
+            "m_noteDesc": "LT24_003E2_04 - Exploring Monocle 4"
+        },
+        {
+            "m_ID": 41,
+            "m_noteDesc": "LETL_611 - Dragonflight Talisman"
+        },
+        {
+            "m_ID": 410,
+            "m_noteDesc": "LT24_003E3_01 - Finley's Pith Helmet 1"
+        },
+        {
+            "m_ID": 411,
+            "m_noteDesc": "LT24_019E1_04 - Edict of Argus 4"
+        },
+        {
+            "m_ID": 412,
+            "m_noteDesc": "LT24_019E2_01 - Archimonde's Gold Coin 1"
+        },
+        {
+            "m_ID": 413,
+            "m_noteDesc": "LT24_019E3_01 - The Infernal Codex 1"
+        },
+        {
+            "m_ID": 42,
+            "m_noteDesc": "LETL_658 - Alexstrasza's Brooch"
+        },
+        {
+            "m_ID": 420,
+            "m_noteDesc": "LT24_016E1_01 - Jumbo Imps 1"
+        },
+        {
+            "m_ID": 421,
+            "m_noteDesc": "LT24_016E2_01 - Combustible Imps 1"
+        },
+        {
+            "m_ID": 422,
+            "m_noteDesc": "LT24_016E3_04 - Demon Armor 4"
+        },
+        {
+            "m_ID": 424,
+            "m_noteDesc": "LT24_010E1_01 - Bog Moss 1"
+        },
+        {
+            "m_ID": 425,
+            "m_noteDesc": "LT24_010E2_01 - Fishing Lure 1"
+        },
+        {
+            "m_ID": 426,
+            "m_noteDesc": "LT24_010E3_01 - \"Fresh\" Peaches 1"
+        },
+        {
+            "m_ID": 43,
+            "m_noteDesc": "LETL_659 - Amulet of Swiftness"
+        },
+        {
+            "m_ID": 430,
+            "m_noteDesc": "LT24_002E1_04 - Ysera's Vengeance 1"
+        },
+        {
+            "m_ID": 431,
+            "m_noteDesc": "LT24_002E2_04 - Dream Infusion 4"
+        },
+        {
+            "m_ID": 432,
+            "m_noteDesc": "LT24_002E3_04 - Emerald Majesty 4"
+        },
+        {
+            "m_ID": 433,
+            "m_noteDesc": "LT24_022E1_01 - Mok'Nathal Wildercloak 1"
+        },
+        {
+            "m_ID": 434,
+            "m_noteDesc": "LT24_022E2_01 - Ferocious Loyalty 1"
+        },
+        {
+            "m_ID": 435,
+            "m_noteDesc": "LT24_022E3_01 - Beastmaster's Horn 1"
+        },
+        {
+            "m_ID": 436,
+            "m_noteDesc": "LT24_012E1_01 - Playful Ooze 1"
+        },
+        {
+            "m_ID": 437,
+            "m_noteDesc": "LT24_012E2_01 - Extra Bone 1"
+        },
+        {
+            "m_ID": 438,
+            "m_noteDesc": "LT24_012E3_01 - Purrfect Plot 1"
+        },
+        {
+            "m_ID": 439,
+            "m_noteDesc": "LT24_011E1_04 - Cloak Of Shadows 4"
+        },
+        {
+            "m_ID": 44,
+            "m_noteDesc": "LETL_612_01 - Brightwing's Necklace I"
+        },
+        {
+            "m_ID": 440,
+            "m_noteDesc": "LT24_011E2_04 - Steadfast Convictions 4"
+        },
+        {
+            "m_ID": 441,
+            "m_noteDesc": "LT24_011E3_04 - Tools Of The Trade"
+        },
+        {
+            "m_ID": 442,
+            "m_noteDesc": "LT24_007E1_04 - Arena Contender 4"
+        },
+        {
+            "m_ID": 443,
+            "m_noteDesc": "LT24_007E2_04 - New Client 4"
+        },
+        {
+            "m_ID": 444,
+            "m_noteDesc": "LT24_007E3_01 - Spirit Of The Dead 1"
+        },
+        {
+            "m_ID": 445,
+            "m_noteDesc": "LT24_020E1_01 - Bakin' Bacon"
+        },
+        {
+            "m_ID": 446,
+            "m_noteDesc": "LT24_020E2_04 - Bitter Chill 4"
+        },
+        {
+            "m_ID": 447,
+            "m_noteDesc": "LT24_020E3_02 - Boon of Atiesh 2"
+        },
+        {
+            "m_ID": 448,
+            "m_noteDesc": "LT24_013E3_04 - Rattling Bones 4"
+        },
+        {
+            "m_ID": 449,
+            "m_noteDesc": "LT24_013E2_04 - A Solid Education 4"
+        },
+        {
+            "m_ID": 45,
+            "m_noteDesc": "LETL_613_01 - Brightwing's Ring I"
+        },
+        {
+            "m_ID": 450,
+            "m_noteDesc": "LT24_013E1_04 - Spooky Scary 4"
+        },
+        {
+            "m_ID": 451,
+            "m_noteDesc": "LT24_008E1_04 - Blood Moon 4"
+        },
+        {
+            "m_ID": 452,
+            "m_noteDesc": "LT24_008E2_04 - Smooth Transformation 4"
+        },
+        {
+            "m_ID": 453,
+            "m_noteDesc": "LT24_008E3_04 - Gilnean Strength 4"
+        },
+        {
+            "m_ID": 454,
+            "m_noteDesc": "LT24_014E1_04 - Tears Of The Fallen 4"
+        },
+        {
+            "m_ID": 455,
+            "m_noteDesc": "LT24_014E2_04 - Gandling's Register 4"
+        },
+        {
+            "m_ID": 456,
+            "m_noteDesc": "LT24_014E3_04 - Blades Of The Annointed 4"
+        },
+        {
+            "m_ID": 46,
+            "m_noteDesc": "LETL_614_01 - Pixie's Pouch I"
+        },
+        {
+            "m_ID": 460,
+            "m_noteDesc": "LT24_024E1_04 - Unbreakable Backpack 4"
+        },
+        {
+            "m_ID": 461,
+            "m_noteDesc": "LT24_024E2_04 - Iambic Pentameter 4"
+        },
+        {
+            "m_ID": 462,
+            "m_noteDesc": "LT24_024E3_04 - Glaive Land 4"
+        },
+        {
+            "m_ID": 464,
+            "m_noteDesc": "LT24_017E1_01 - Unstable Runes 1"
+        },
+        {
+            "m_ID": 465,
+            "m_noteDesc": "LT24_017E2_01 - Medivh's Locket 1"
+        },
+        {
+            "m_ID": 466,
+            "m_noteDesc": "LT24_017E3_01 - Staff of Atiesh 1"
+        },
+        {
+            "m_ID": 467,
+            "m_noteDesc": "LT24_006E1_04 - Shadowstep 4"
+        },
+        {
+            "m_ID": 468,
+            "m_noteDesc": "LT24_006E2_01 - Halforcen Legacy 1"
+        },
+        {
+            "m_ID": 469,
+            "m_noteDesc": "LT24_006E3_04 - Knife of Indecision 4"
+        },
+        {
+            "m_ID": 470,
+            "m_noteDesc": "LT24_009E1_01 - Spectral Spectacles 3"
+        },
+        {
+            "m_ID": 471,
+            "m_noteDesc": "LT24_009E2_01 - Gilnean Rapier 1"
+        },
+        {
+            "m_ID": 472,
+            "m_noteDesc": "LT24_009E3_01 - Worgen Tooth Necklace 1"
+        },
+        {
+            "m_ID": 473,
+            "m_noteDesc": "LT24_023E1_04 - Fallen Feathers 4"
+        },
+        {
+            "m_ID": 474,
+            "m_noteDesc": "LT24_023E2_04 - Siren Song 4"
+        },
+        {
+            "m_ID": 475,
+            "m_noteDesc": "LT24_023E3_04 - Blood Gem Stash 4"
+        },
+        {
+            "m_ID": 476,
+            "m_noteDesc": "LT25_001E1_04 - Stroke of Midnight 4"
+        },
+        {
+            "m_ID": 477,
+            "m_noteDesc": "LT25_001E2_01 - Chaos Theory 1"
+        },
+        {
+            "m_ID": 478,
+            "m_noteDesc": "LT25_001E3_01 - Body Euphoria 1"
+        },
+        {
+            "m_ID": 479,
+            "m_noteDesc": "LT24_027E1_01 - Trusty Sidekick 1"
+        },
+        {
+            "m_ID": 48,
+            "m_noteDesc": "LETL_034P1_01 - Reincarnation I"
+        },
+        {
+            "m_ID": 480,
+            "m_noteDesc": "LT24_027E2_01 - Paid Up Front 1"
+        },
+        {
+            "m_ID": 481,
+            "m_noteDesc": "LT24_027E3_01 - Suspect Everyone 1"
+        },
+        {
+            "m_ID": 483,
+            "m_noteDesc": "LT25_020E1_01 - Vengeful Rune 1"
+        },
+        {
+            "m_ID": 484,
+            "m_noteDesc": "LT25_020E2_01 - Phantasmal Guardian 1"
+        },
+        {
+            "m_ID": 485,
+            "m_noteDesc": "LT25_020E3_01 - Ritual Tome 1"
+        },
+        {
+            "m_ID": 486,
+            "m_noteDesc": "LT25_003E1_01 - His Master's Voice 1"
+        },
+        {
+            "m_ID": 487,
+            "m_noteDesc": "LT25_003E2_01 - Good Boy 1"
+        },
+        {
+            "m_ID": 488,
+            "m_noteDesc": "LT25_003E3_01 - Downward Dog 1"
+        },
+        {
+            "m_ID": 49,
+            "m_noteDesc": "Shadow Wand LETL_619"
+        },
+        {
+            "m_ID": 493,
+            "m_noteDesc": "LT25_005E1_01 - Phlactery of Kel'Thuzad 3"
+        },
+        {
+            "m_ID": 494,
+            "m_noteDesc": "LT25_005E2_01 - Don't Hurt My Kitty! 1"
+        },
+        {
+            "m_ID": 495,
+            "m_noteDesc": "LT25_005E3_01 - Bloodsurge 1"
+        },
+        {
+            "m_ID": 5,
+            "m_noteDesc": "LETL_266_01 - Mama Bear's Claws I"
+        },
+        {
+            "m_ID": 50,
+            "m_noteDesc": "Bog Moss LETL_645"
+        },
+        {
+            "m_ID": 51,
+            "m_noteDesc": "Fiery Cloak LETL_646"
+        },
+        {
+            "m_ID": 56,
+            "m_noteDesc": "LETL_608_01 - Bubble Wand 1"
+        },
+        {
+            "m_ID": 57,
+            "m_noteDesc": "LETL_607_01 - Navigator's Amulet I"
+        },
+        {
+            "m_ID": 58,
+            "m_noteDesc": "LETL_610_01 - Primordial Fin I"
+        },
+        {
+            "m_ID": 59,
+            "m_noteDesc": "LETL_606_04 - Morgl's Mitt"
+        },
+        {
+            "m_ID": 6,
+            "m_noteDesc": "LETL_267_01 - Huntsman's Rifle 1"
+        },
+        {
+            "m_ID": 60,
+            "m_noteDesc": "LETL_605 - Spiky Pufferfish"
+        },
+        {
+            "m_ID": 61,
+            "m_noteDesc": "LETL_609_01 - Dousing Rod I"
+        },
+        {
+            "m_ID": 62,
+            "m_noteDesc": "LETL_277_01 - Refreshing Bananas I"
+        },
+        {
+            "m_ID": 63,
+            "m_noteDesc": "LETL_278_01 - Radioactive Bananas I"
+        },
+        {
+            "m_ID": 64,
+            "m_noteDesc": "LETL_279_01 - Mukla's Big Brother 1"
+        },
+        {
+            "m_ID": 65,
+            "m_noteDesc": "LETL_271_01 - Flaming Claws I"
+        },
+        {
+            "m_ID": 66,
+            "m_noteDesc": "LETL_272_01 - Rocky Carapace I"
+        },
+        {
+            "m_ID": 67,
+            "m_noteDesc": "LETL_273_01 - Fresh Meat I"
+        },
+        {
+            "m_ID": 68,
+            "m_noteDesc": "Last Rites LETL_040P5"
+        },
+        {
+            "m_ID": 69,
+            "m_noteDesc": "LETL_662_01 - Shadow Rune"
+        },
+        {
+            "m_ID": 7,
+            "m_noteDesc": "LETL_601_01 - Amulet of Outrage"
+        },
+        {
+            "m_ID": 70,
+            "m_noteDesc": "LETL_663_01 - Void Stone I"
+        },
+        {
+            "m_ID": 71,
+            "m_noteDesc": "LETL_620_01 - Ornate Warhorn I"
+        },
+        {
+            "m_ID": 72,
+            "m_noteDesc": "LETL_621_01 - Ring of Strength I"
+        },
+        {
+            "m_ID": 73,
+            "m_noteDesc": "LETL_622_01 - Doomhammer I"
+        },
+        {
+            "m_ID": 74,
+            "m_noteDesc": "LETL_623_01 - Dueling Gauntlets I"
+        },
+        {
+            "m_ID": 75,
+            "m_noteDesc": "LETL_625_01 - Tusks of Mannoroth I"
+        },
+        {
+            "m_ID": 76,
+            "m_noteDesc": "Aerodynamic Blade LETL_627"
+        },
+        {
+            "m_ID": 78,
+            "m_noteDesc": "LETL_637_01 - Berserker's Blade I"
+        },
+        {
+            "m_ID": 79,
+            "m_noteDesc": "LETL_639_01 - Honed Blade I"
+        },
+        {
+            "m_ID": 8,
+            "m_noteDesc": "LETL_604_02 - Fel Core 2"
+        },
+        {
+            "m_ID": 80,
+            "m_noteDesc": "LETL_253_01 - Demon's Mark"
+        },
+        {
+            "m_ID": 81,
+            "m_noteDesc": "LETL_254_01 - Fel Enhanced Lungs"
+        },
+        {
+            "m_ID": 82,
+            "m_noteDesc": "LETL_255_01 - Pit Lord's Staff 1"
+        },
+        {
+            "m_ID": 83,
+            "m_noteDesc": "LETL_259_01 - Demonic Ashes"
+        },
+        {
+            "m_ID": 84,
+            "m_noteDesc": "LETL_260_01 - Soul Gem"
+        },
+        {
+            "m_ID": 85,
+            "m_noteDesc": "LETL_261_01 - Fel Spikes"
+        },
+        {
+            "m_ID": 86,
+            "m_noteDesc": "LETL_283_01 - Earthen Armor I"
+        },
+        {
+            "m_ID": 87,
+            "m_noteDesc": "LETL_284 - Pearlescent Scales I"
+        },
+        {
+            "m_ID": 88,
+            "m_noteDesc": "LETL_285 - Iridescent Necklace I"
+        },
+        {
+            "m_ID": 89,
+            "m_noteDesc": "LETL_293_01 - Dragon Rune Axe I"
+        },
+        {
+            "m_ID": 9,
+            "m_noteDesc": "LETL_602_04 - Truestrike Gauntlets"
+        },
+        {
+            "m_ID": 90,
+            "m_noteDesc": "LETL_660_01 - Wyrm Claws I"
+        },
+        {
+            "m_ID": 91,
+            "m_noteDesc": "LETL_661_01 - Dragon's Mark I"
+        },
+        {
+            "m_ID": 92,
+            "m_noteDesc": "LETL_303_01 - Amulet of Souls I"
+        },
+        {
+            "m_ID": 94,
+            "m_noteDesc": "LETL_323_01 - Static Seahorse"
+        },
+        {
+            "m_ID": 95,
+            "m_noteDesc": "More Knives LETL_683"
+        },
+        {
+            "m_ID": 96,
+            "m_noteDesc": "LETL_343_01 - Toxic Venom I"
+        }
+    ]
+}

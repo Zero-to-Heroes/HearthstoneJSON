@@ -1,0 +1,1001 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 5442163163519800520
+    },
+    "m_Name": "BUILDING_TIER",
+    "Records": [
+        {
+            "m_ID": 20,
+            "m_mercenaryBuildingId": 10,
+            "m_name": {
+                "m_locValues": [
+                    "Travel Point - Tier 0 (Non-visible)",
+                    "Travel Point - Tier 0 (Non-visible)",
+                    "Travel Point - Tier 0 (Non-visible)",
+                    "Travel Point - Tier 0 (Non-visible)",
+                    "Travel Point - Tier 0 (Non-visible)",
+                    "Travel Point - Tier 0 (Non-visible)",
+                    "Travel Point - Tier 0 (Non-visible)",
+                    "Travel Point - Tier 0 (Non-visible)",
+                    "Travel Point - Tier 0 (Non-visible)",
+                    "Travel Point - Tier 0 (Non-visible)",
+                    "Travel Point - Tier 0 (Non-visible)",
+                    "Travel Point - Tier 0 (Non-visible)",
+                    "Travel Point - Tier 0 (Non-visible)",
+                    "Travel Point - Tier 0 (Non-visible)"
+                ],
+                "m_locId": 2766929
+            },
+            "m_description": {
+                "m_locValues": [
+                    "An empty plot of land.",
+                    "Ein leeres Stück Land.",
+                    "Una parcela de tierra vacía.",
+                    "Un terreno vacío.",
+                    "Un terrain vierge.",
+                    "Un lotto di terreno vuoto.",
+                    "何もない空き地。",
+                    "빈 땅입니다.",
+                    "Pusta działka.",
+                    "Um lote de terra vazio.",
+                    "Пустой участок земли.",
+                    "ที่ดินว่างเปล่า",
+                    "一块空地。",
+                    "一塊空地。"
+                ],
+                "m_locId": 2766930
+            },
+            "m_unlockAchievementId": 0,
+            "m_onUpgradedDialogId": 0,
+            "m_upgradeCost": 0,
+            "m_tutorialEventType": 0,
+            "m_tutorialEventValue": 0
+        },
+        {
+            "m_ID": 21,
+            "m_mercenaryBuildingId": 10,
+            "m_name": {
+                "m_locValues": [
+                    "Travel Point - Tier 1",
+                    "Reisepunkt – Stufe 1",
+                    "Punto de viaje - Nivel 1",
+                    "Punto de partida - Nivel 1",
+                    "Point de voyage - niveau 1",
+                    "Punto di Ritrovo - Livello 1",
+                    "移動地点 - グレード1",
+                    "이동 지점 - 1단계",
+                    "Punkt podróży – poziom 1",
+                    "Ponto de Partida - Grau 1",
+                    "Точка перехода I",
+                    "จุดเดินทาง - ขั้น 1",
+                    "旅行点 - 等级1",
+                    "旅行點 - 等級1"
+                ],
+                "m_locId": 2766931
+            },
+            "m_description": {
+                "m_locValues": [
+                    "Travel to an exciting Bounty!",
+                    "Reist zu einem aufregenden Kopfgeld!",
+                    "¡Viaja a un emocionante contrato!",
+                    "¡Parte en busca de un contrato emocionante!",
+                    "Voyagez vers une prime alléchante !",
+                    "Viaggia verso una taglia entusiasmante!",
+                    "賞金稼ぎに出発しよう！",
+                    "흥미진진한 현상 수배 위치로 이동합니다!",
+                    "Wykonaj ekscytujące zlecenie!",
+                    "Viaje para um local de Contrato!",
+                    "Путешествуйте и выполняйте интересные поручения!",
+                    "ออกเดินทางสู่การ[b]ล่าค่าหัวสุดเร้าใจ!",
+                    "前往激动人心的悬赏战斗！",
+                    "前往進行刺激的懸賞任務！"
+                ],
+                "m_locId": 2766932
+            },
+            "m_unlockAchievementId": 0,
+            "m_onUpgradedDialogId": 105,
+            "m_upgradeCost": 0,
+            "m_tutorialEventType": 1,
+            "m_tutorialEventValue": 14
+        },
+        {
+            "m_ID": 22,
+            "m_mercenaryBuildingId": 10,
+            "m_name": {
+                "m_locValues": [
+                    "Travel Point - Tier 2",
+                    "Reisepunkt – Stufe 2",
+                    "Punto de viaje - Nivel 2",
+                    "Punto de partida - Nivel 2",
+                    "Point de voyage - niveau 2",
+                    "Punto di Ritrovo - Livello 2",
+                    "移動地点 - グレード2",
+                    "이동 지점 - 2단계",
+                    "Punkt podróży – poziom 2",
+                    "Ponto de Partida - Grau 2",
+                    "Точка перехода II",
+                    "จุดเดินทาง - ขั้น 2",
+                    "旅行点 - 等级2",
+                    "旅行點 - 等級2"
+                ],
+                "m_locId": 2766933
+            },
+            "m_description": {
+                "m_locValues": [
+                    "Unlock Heroic Bounties.",
+                    "Schaltet heroische Kopfgelder frei.",
+                    "Desbloquea contratos heroicos.",
+                    "Desbloquea contratos heroicos.",
+                    "Débloquez les primes héroïques.",
+                    "Sblocca le taglie eroiche.",
+                    "ヒロイック賞金稼ぎが解禁される。",
+                    "영웅 난이도 현상 수배를 잠금 해제합니다.",
+                    "Odblokuj zlecenia heroiczne.",
+                    "Desbloqueie contratos heroicos.",
+                    "Открывает героические поручения.",
+                    "ปลดล็อคล่าค่าหัว[b]ระดับฮีโร่",
+                    "解锁英雄难度的悬赏。",
+                    "解鎖英雄難度的懸賞任務。"
+                ],
+                "m_locId": 2766934
+            },
+            "m_unlockAchievementId": 3901,
+            "m_onUpgradedDialogId": 0,
+            "m_upgradeCost": 200,
+            "m_tutorialEventType": 0,
+            "m_tutorialEventValue": 0
+        },
+        {
+            "m_ID": 77,
+            "m_mercenaryBuildingId": 10,
+            "m_name": {
+                "m_locValues": [
+                    "Travel Point - Tier 3",
+                    "Reisepunkt – Stufe 3",
+                    "Punto de viaje - Nivel 3",
+                    "Punto de partida - Nivel 3",
+                    "Point de voyage - niveau 3",
+                    "Punto di Ritrovo - Livello 3",
+                    "移動地点 - グレード3",
+                    "이동 지점 - 3단계",
+                    "Punkt podróży – poziom 3",
+                    "Ponto de Viagem - Grau 3",
+                    "Точка перехода III",
+                    "จุดเดินทาง - ขั้น 3",
+                    "旅行点 - 等级3",
+                    "旅行點 - 等級3"
+                ],
+                "m_locId": 2861399
+            },
+            "m_description": {
+                "m_locValues": [
+                    "Unlock Mythic Bounties.",
+                    "Schaltet mythische Kopfgelder frei.",
+                    "Desbloquea contratos míticos.",
+                    "Desbloquea contratos míticos.",
+                    "Débloquez les primes mythiques.",
+                    "Sblocca taglie mitiche.",
+                    "ミシック賞金稼ぎが解禁される。",
+                    "신화 난이도 현상 수배를 잠금 해제합니다.",
+                    "Odblokuj mityczne zlecenia.",
+                    "Desbloqueie contratos Míticos.",
+                    "Открывает эпохальные поручения.",
+                    "ปลดล็อคล่าค่าหัว[b]ระดับมิทธิค",
+                    "解锁史诗难度的悬赏。",
+                    "解鎖傳奇懸賞任務"
+                ],
+                "m_locId": 2861400
+            },
+            "m_unlockAchievementId": 5595,
+            "m_onUpgradedDialogId": 0,
+            "m_upgradeCost": 0,
+            "m_tutorialEventType": 0,
+            "m_tutorialEventValue": 0
+        },
+        {
+            "m_ID": 24,
+            "m_mercenaryBuildingId": 11,
+            "m_name": {
+                "m_locValues": [
+                    "Fighting Pit - Tier 0 (Non-visible)",
+                    "Fighting Pit - Tier 0 (Non-visible)",
+                    "Fighting Pit - Tier 0 (Non-visible)",
+                    "Fighting Pit - Tier 0 (Non-visible)",
+                    "Fighting Pit - Tier 0 (Non-visible)",
+                    "Fighting Pit - Tier 0 (Non-visible)",
+                    "Fighting Pit - Tier 0 (Non-visible)",
+                    "Fighting Pit - Tier 0 (Non-visible)",
+                    "Fighting Pit - Tier 0 (Non-visible)",
+                    "Fighting Pit - Tier 0 (Non-visible)",
+                    "Fighting Pit - Tier 0 (Non-visible)",
+                    "Fighting Pit - Tier 0 (Non-visible)",
+                    "Fighting Pit - Tier 0 (Non-visible)",
+                    "Fighting Pit - Tier 0 (Non-visible)"
+                ],
+                "m_locId": 2766939
+            },
+            "m_description": {
+                "m_locValues": [
+                    "An empty plot of land.",
+                    "Ein leeres Stück Land.",
+                    "Una parcela de tierra vacía.",
+                    "Un terreno vacío.",
+                    "Un terrain vierge.",
+                    "Un lotto di terreno vuoto.",
+                    "何もない空き地。",
+                    "빈 땅입니다.",
+                    "Pusta działka.",
+                    "Um lote de terra vazio.",
+                    "Пустой участок земли.",
+                    "ที่ดินว่างเปล่า",
+                    "一块空地。",
+                    "一塊空地。"
+                ],
+                "m_locId": 2766940
+            },
+            "m_unlockAchievementId": 0,
+            "m_onUpgradedDialogId": 0,
+            "m_upgradeCost": 0,
+            "m_tutorialEventType": 0,
+            "m_tutorialEventValue": 0
+        },
+        {
+            "m_ID": 25,
+            "m_mercenaryBuildingId": 11,
+            "m_name": {
+                "m_locValues": [
+                    "Fighting Pit - Tier 1",
+                    "Kampfgrube – Stufe 1",
+                    "Foso de combate - Nivel 1",
+                    "Foso de batalla - Nivel 1",
+                    "Fosse de combat - niveau 1",
+                    "Fossa di Combattimento - Livello 1",
+                    "闘技リング - グレード1",
+                    "사투장 - 1단계",
+                    "Ring Gladiatorów – poziom 1",
+                    "Ringue de Luta - Grau 1",
+                    "Арена I",
+                    "สังเวียนต่อสู้ - ขั้น 1",
+                    "决斗场 - 等级1",
+                    "鬥技場 - 等級1"
+                ],
+                "m_locId": 2766941
+            },
+            "m_description": {
+                "m_locValues": [
+                    "Battle other players.",
+                    "Tretet gegen andere Spieler an.",
+                    "Enfréntate a otros jugadores.",
+                    "Lucha contra otros jugadores.",
+                    "Affrontez d’autres joueurs.",
+                    "Affronta altri giocatori.",
+                    "他のプレイヤーとバトルできるぞ。",
+                    "다른 플레이어와 대결합니다.",
+                    "Walcz z innymi graczami.",
+                    "Lute contra outros jogadores.",
+                    "Сражайтесь с другими игроками.",
+                    "ต่อสู้กับผู้เล่นคนอื่นๆ",
+                    "与其他玩家对战。",
+                    "跟其他玩家戰鬥。"
+                ],
+                "m_locId": 2766942
+            },
+            "m_unlockAchievementId": 3890,
+            "m_onUpgradedDialogId": 132,
+            "m_upgradeCost": 100,
+            "m_tutorialEventType": 0,
+            "m_tutorialEventValue": 0
+        },
+        {
+            "m_ID": 28,
+            "m_mercenaryBuildingId": 12,
+            "m_name": {
+                "m_locValues": [
+                    "The Tavern - Tier 0 (Non-visible)",
+                    "The Tavern - Tier 0 (Non-visible)",
+                    "The Tavern - Tier 0 (Non-visible)",
+                    "The Tavern - Tier 0 (Non-visible)",
+                    "The Tavern - Tier 0 (Non-visible)",
+                    "The Tavern - Tier 0 (Non-visible)",
+                    "The Tavern - Tier 0 (Non-visible)",
+                    "The Tavern - Tier 0 (Non-visible)",
+                    "The Tavern - Tier 0 (Non-visible)",
+                    "The Tavern - Tier 0 (Non-visible)",
+                    "The Tavern - Tier 0 (Non-visible)",
+                    "The Tavern - Tier 0 (Non-visible)",
+                    "The Tavern - Tier 0 (Non-visible)",
+                    "The Tavern - Tier 0 (Non-visible)"
+                ],
+                "m_locId": 2766951
+            },
+            "m_description": {
+                "m_locValues": [
+                    "An empty plot of land.",
+                    "Ein leeres Stück Land.",
+                    "Una parcela de tierra vacía.",
+                    "Un terreno vacío.",
+                    "Un terrain vierge.",
+                    "Un lotto di terreno vuoto.",
+                    "何もない空き地。",
+                    "빈 땅입니다.",
+                    "Pusta działka.",
+                    "Um lote de terra vazio.",
+                    "Пустой участок земли.",
+                    "ที่ดินว่างเปล่า",
+                    "一块空地。",
+                    "一塊空地。"
+                ],
+                "m_locId": 2766952
+            },
+            "m_unlockAchievementId": 0,
+            "m_onUpgradedDialogId": 0,
+            "m_upgradeCost": 0,
+            "m_tutorialEventType": 0,
+            "m_tutorialEventValue": 0
+        },
+        {
+            "m_ID": 29,
+            "m_mercenaryBuildingId": 12,
+            "m_name": {
+                "m_locValues": [
+                    "The Tavern - Tier 1",
+                    "Das Gasthaus – Stufe 1",
+                    "Taberna - Nivel 1",
+                    "La taberna - Nivel 1",
+                    "La taverne - niveau 1",
+                    "Locanda - Livello 1",
+                    "酒場 - グレード1",
+                    "선술집 - 1단계",
+                    "Karczma – poziom 1",
+                    "Taverna - Grau 1",
+                    "Таверна I",
+                    "โรงเตี๊ยม - ขั้น 1",
+                    "酒馆 - 等级1",
+                    "旅店 - 等級1"
+                ],
+                "m_locId": 2766953
+            },
+            "m_description": {
+                "m_locValues": [
+                    "Power up your Mercenaries.",
+                    "Macht Eure Söldner stärker.",
+                    "Potencia a tus mercenarios.",
+                    "Potencia a tus Mercenarios.",
+                    "Renforcez vos mercenaires.",
+                    "Potenzia i tuoi Mercenari.",
+                    "あんたの傭兵団をパワーアップしよう。",
+                    "용병단을 강화합니다.",
+                    "Wzmacniaj swoich Najemników.",
+                    "Fortaleça seus Mercenários.",
+                    "Позволяет усиливать наемников.",
+                    "เพิ่มพลังให้[b]ทหารรับจ้างของคุณ",
+                    "强化你的佣兵。",
+                    "強化你的傭兵。"
+                ],
+                "m_locId": 2766954
+            },
+            "m_unlockAchievementId": 0,
+            "m_onUpgradedDialogId": 0,
+            "m_upgradeCost": 0,
+            "m_tutorialEventType": 0,
+            "m_tutorialEventValue": 0
+        },
+        {
+            "m_ID": 32,
+            "m_mercenaryBuildingId": 13,
+            "m_name": {
+                "m_locValues": [
+                    "The Merchant Cart - Tier 0 (Non-visible)",
+                    "Der Händlerwagen – Stufe 0 (nicht sichtbar)",
+                    "Carro del mercader: nivel 0 (no es visible)",
+                    "El carro mercante - Nivel 0 (No es visible)",
+                    "Le chariot du marchand - niveau 0 (non visible)",
+                    "Carro del mercante - Livello 0 (Non visibile)",
+                    "旅商人の馬車 - グレード0（見えない）",
+                    "행상인 수레 - 0단계 (보이지 않음)",
+                    "Wóz kupca – poziom 0 (niewidoczny)",
+                    "Carroça do Mercador - Grau 0 (Não visível)",
+                    "Повозка торговца 0 (скрыто)",
+                    "เกวียนของพ่อค้า - ขั้น 0 (มองไม่เห็น)",
+                    "行商货车 - 等级0（不可见）",
+                    "商人貨車 - 等級0(不可見)"
+                ],
+                "m_locId": 2766959
+            },
+            "m_description": {
+                "m_locValues": [
+                    "An empty plot of land.",
+                    "Ein leeres Stück Land.",
+                    "Una parcela de tierra vacía.",
+                    "Un terreno vacío.",
+                    "Un terrain vierge.",
+                    "Un lotto di terreno vuoto.",
+                    "何もない空き地。",
+                    "빈 땅입니다.",
+                    "Pusta działka.",
+                    "Um lote de terra vazio.",
+                    "Пустой участок земли.",
+                    "ที่ดินว่างเปล่า",
+                    "一块空地。",
+                    "一塊空地。"
+                ],
+                "m_locId": 2766963
+            },
+            "m_unlockAchievementId": 0,
+            "m_onUpgradedDialogId": 0,
+            "m_upgradeCost": 0,
+            "m_tutorialEventType": 0,
+            "m_tutorialEventValue": 0
+        },
+        {
+            "m_ID": 33,
+            "m_mercenaryBuildingId": 13,
+            "m_name": {
+                "m_locValues": [
+                    "The Merchant Cart - Tier 1",
+                    "Der Händlerwagen – Stufe 1",
+                    "Carro del mercader: nivel 1",
+                    "El carro mercante - Nivel 1",
+                    "Le chariot du marchand - niveau 1",
+                    "Carro del mercante - Livello 1",
+                    "旅商人の馬車 - グレード1",
+                    "행상인 수레 - 1단계",
+                    "Wóz kupca – poziom 1",
+                    "Carroça do Mercador - Grau 1",
+                    "Повозка торговца I",
+                    "เกวียนของพ่อค้า - ขั้น 1",
+                    "行商货车 - 等级1",
+                    "商人貨車 - 等級1"
+                ],
+                "m_locId": 2766960
+            },
+            "m_description": {
+                "m_locValues": [
+                    "Access the shop.",
+                    "Stöbert in seinem Angebot.",
+                    "Accede a la tienda.",
+                    "Accede a la tienda.",
+                    "Accédez à la boutique.",
+                    "Accedi al negozio.",
+                    "ショップにアクセスできるぞ。",
+                    "상점을 이용할 수 있습니다.",
+                    "Dostęp do sklepu.",
+                    "Acesse a loja.",
+                    "Открывает магазин.",
+                    "เยี่ยมชมร้านค้า",
+                    "进入商店。",
+                    "進入商店。"
+                ],
+                "m_locId": 2766964
+            },
+            "m_unlockAchievementId": 0,
+            "m_onUpgradedDialogId": 107,
+            "m_upgradeCost": 0,
+            "m_tutorialEventType": 5,
+            "m_tutorialEventValue": 0
+        },
+        {
+            "m_ID": 36,
+            "m_mercenaryBuildingId": 14,
+            "m_name": {
+                "m_locValues": [
+                    "The Mailbox - Tier 0 (non-visible)",
+                    "The Mailbox - Tier 0 (non-visible)",
+                    "The Mailbox - Tier 0 (non-visible)",
+                    "The Mailbox - Tier 0 (non-visible)",
+                    "The Mailbox - Tier 0 (non-visible)",
+                    "The Mailbox - Tier 0 (non-visible)",
+                    "The Mailbox - Tier 0 (non-visible)",
+                    "The Mailbox - Tier 0 (non-visible)",
+                    "The Mailbox - Tier 0 (non-visible)",
+                    "The Mailbox - Tier 0 (non-visible)",
+                    "The Mailbox - Tier 0 (non-visible)",
+                    "The Mailbox - Tier 0 (non-visible)",
+                    "The Mailbox - Tier 0 (non-visible)",
+                    "The Mailbox - Tier 0 (non-visible)"
+                ],
+                "m_locId": 2766969
+            },
+            "m_description": {
+                "m_locValues": [
+                    "An empty plot of land.",
+                    "Ein leeres Stück Land.",
+                    "Una parcela de tierra vacía.",
+                    "Un terreno vacío.",
+                    "Un terrain vierge.",
+                    "Un lotto di terreno vuoto.",
+                    "何もない空き地。",
+                    "빈 땅입니다.",
+                    "Pusta działka.",
+                    "Um lote de terra vazio.",
+                    "Пустой участок земли.",
+                    "ที่ดินว่างเปล่า",
+                    "一块空地。",
+                    "一塊空地。"
+                ],
+                "m_locId": 2766970
+            },
+            "m_unlockAchievementId": 0,
+            "m_onUpgradedDialogId": 0,
+            "m_upgradeCost": 0,
+            "m_tutorialEventType": 0,
+            "m_tutorialEventValue": 0
+        },
+        {
+            "m_ID": 37,
+            "m_mercenaryBuildingId": 14,
+            "m_name": {
+                "m_locValues": [
+                    "The Mailbox - Tier 1",
+                    "Der Briefkasten – Stufe 1",
+                    "Buzón - Nivel 1",
+                    "El buzón - Nivel 1",
+                    "La boîte aux lettres - niveau 1",
+                    "Cassetta della Posta - Livello 1",
+                    "ポスト - グレード1",
+                    "우편함 - 1단계",
+                    "Skrzynka pocztowa – poziom 1",
+                    "Correio - Grau 1",
+                    "Почтовый ящик I",
+                    "กล่องจดหมาย - ขั้น 1",
+                    "邮箱 - 等级1",
+                    "郵箱 - 等級1"
+                ],
+                "m_locId": 2766971
+            },
+            "m_description": {
+                "m_locValues": [
+                    "Access your recent messages.",
+                    "Lest Eure neuesten Nachrichten.",
+                    "Accede a tus mensajes recientes.",
+                    "Accede a tus mensajes recientes.",
+                    "Accédez à vos messages récents.",
+                    "Controlla i messaggi recenti.",
+                    "最近のメッセージにアクセスできるぞ。",
+                    "최근 메시지를 확인할 수 있습니다.",
+                    "Dostęp do najnowszych wiadomości.",
+                    "Acesse suas mensagens recentes.",
+                    "Позволяет читать новые сообщения.",
+                    "เปิดอ่านข้อความ[b]ล่าสุดของคุณ",
+                    "查看最近的消息",
+                    "取得最新的訊息。"
+                ],
+                "m_locId": 2766972
+            },
+            "m_unlockAchievementId": 0,
+            "m_onUpgradedDialogId": 0,
+            "m_upgradeCost": 0,
+            "m_tutorialEventType": 0,
+            "m_tutorialEventValue": 0
+        },
+        {
+            "m_ID": 38,
+            "m_mercenaryBuildingId": 15,
+            "m_name": {
+                "m_locValues": [
+                    "The Training Grounds - Tier 0 (Non-visible)",
+                    "The Training Grounds - Tier 0 (Non-visible)",
+                    "The Training Grounds - Tier 0 (Non-visible)",
+                    "The Training Grounds - Tier 0 (Non-visible)",
+                    "The Training Grounds - Tier 0 (Non-visible)",
+                    "The Training Grounds - Tier 0 (Non-visible)",
+                    "The Training Grounds - Tier 0 (Non-visible)",
+                    "The Training Grounds - Tier 0 (Non-visible)",
+                    "The Training Grounds - Tier 0 (Non-visible)",
+                    "The Training Grounds - Tier 0 (Non-visible)",
+                    "The Training Grounds - Tier 0 (Non-visible)",
+                    "The Training Grounds - Tier 0 (Non-visible)",
+                    "The Training Grounds - Tier 0 (Non-visible)",
+                    "The Training Grounds - Tier 0 (Non-visible)"
+                ],
+                "m_locId": 2766973
+            },
+            "m_description": {
+                "m_locValues": [
+                    "An empty plot of land.",
+                    "Ein leeres Stück Land.",
+                    "Una parcela de tierra vacía.",
+                    "Un terreno vacío.",
+                    "Un terrain vierge.",
+                    "Un lotto di terreno vuoto.",
+                    "何もない空き地。",
+                    "빈 땅입니다.",
+                    "Pusta działka.",
+                    "Um lote de terra vazio.",
+                    "Пустой участок земли.",
+                    "ที่ดินว่างเปล่า",
+                    "一块空地。",
+                    "一塊空地。"
+                ],
+                "m_locId": 2766979
+            },
+            "m_unlockAchievementId": 0,
+            "m_onUpgradedDialogId": 0,
+            "m_upgradeCost": 0,
+            "m_tutorialEventType": 0,
+            "m_tutorialEventValue": 0
+        },
+        {
+            "m_ID": 39,
+            "m_mercenaryBuildingId": 15,
+            "m_name": {
+                "m_locValues": [
+                    "The Training Grounds - Tier 1",
+                    "Das Trainingsgelände – Stufe 1",
+                    "Campo de entrenamiento - Nivel 1",
+                    "El campo de entrenamiento - Nivel 1",
+                    "Le terrain d’entraînement - niveau 1",
+                    "Campi di Addestramento - Livello 1",
+                    "訓練場 - グレード1",
+                    "훈련장 - 1단계",
+                    "Plac treningowy – poziom 1",
+                    "Campo de Treinamento - Grau 1",
+                    "Тренировочная площадка I",
+                    "สนามฝึกฝน - ขั้น 1",
+                    "训练场 - 等级1",
+                    "訓練場 - 等級1"
+                ],
+                "m_locId": 2766974
+            },
+            "m_description": {
+                "m_locValues": [
+                    "A place to train your Mercenaries.",
+                    "Hier könnt Ihr Eure Söldner trainieren.",
+                    "Un lugar donde entrenar a tus mercenarios.",
+                    "Un lugar para entrenar a tus Mercenarios.",
+                    "Entraînez vos mercenaires.",
+                    "Un luogo dove addestrare i tuoi Mercenari.",
+                    "あんたの傭兵たちを訓練する場所だ。",
+                    "용병들이 훈련하는 장소입니다.",
+                    "Miejsce treningu Najemników.",
+                    "Uma área para você treinar seus Mercenários.",
+                    "Место для тренировки наемников.",
+                    "สถานที่ฝึก[b]ทหารรับจ้างของคุณ",
+                    "训练佣兵的地方。",
+                    "訓練傭兵的場所。"
+                ],
+                "m_locId": 2766980
+            },
+            "m_unlockAchievementId": 3890,
+            "m_onUpgradedDialogId": 0,
+            "m_upgradeCost": 100,
+            "m_tutorialEventType": 0,
+            "m_tutorialEventValue": 0
+        },
+        {
+            "m_ID": 61,
+            "m_mercenaryBuildingId": 15,
+            "m_name": {
+                "m_locValues": [
+                    "The Training Grounds - Tier 2",
+                    "Das Trainingsgelände – Stufe 2",
+                    "Campo de entrenamiento - Nivel 2",
+                    "El campo de entrenamiento - Nivel 2",
+                    "Terrain d’entraînement - niveau 2",
+                    "Campi di Addestramento - Livello 2",
+                    "訓練場 - グレード2",
+                    "훈련장 - 2단계",
+                    "Plac treningowy – poziom 2",
+                    "Campo de Treinamento - Grau 2",
+                    "Тренировочная площадка II",
+                    "สนามฝึกฝน - ขั้น 2",
+                    "训练场 - 等级2",
+                    "訓練場 - 等級2"
+                ],
+                "m_locId": 2824213
+            },
+            "m_description": {
+                "m_locValues": [
+                    "A place to train your Mercenaries.",
+                    "Hier könnt Ihr Eure Söldner trainieren.",
+                    "Un lugar donde entrenar a tus mercenarios.",
+                    "Un lugar para entrenar a tus Mercenarios.",
+                    "Entraînez vos mercenaires.",
+                    "Un luogo dove addestrare i tuoi Mercenari.",
+                    "あんたの傭兵たちを訓練する場所だ。",
+                    "용병들이 훈련하는 장소입니다.",
+                    "Miejsce treningu Najemników.",
+                    "Uma área para você treinar seus Mercenários.",
+                    "Место для тренировки наемников.",
+                    "สถานที่ฝึก[b]ทหารรับจ้างของคุณ",
+                    "训练佣兵的地方。",
+                    "訓練傭兵的場所。"
+                ],
+                "m_locId": 2824214
+            },
+            "m_unlockAchievementId": 0,
+            "m_onUpgradedDialogId": 0,
+            "m_upgradeCost": 200,
+            "m_tutorialEventType": 0,
+            "m_tutorialEventValue": 0
+        },
+        {
+            "m_ID": 42,
+            "m_mercenaryBuildingId": 16,
+            "m_name": {
+                "m_locValues": [
+                    "The Campfire - Tier 0 (Non-visible)",
+                    "The Campfire - Tier 0 (Non-visible)",
+                    "The Campfire - Tier 0 (Non-visible)",
+                    "The Campfire - Tier 0 (Non-visible)",
+                    "The Campfire - Tier 0 (Non-visible)",
+                    "The Campfire - Tier 0 (Non-visible)",
+                    "The Campfire - Tier 0 (Non-visible)",
+                    "The Campfire - Tier 0 (Non-visible)",
+                    "The Campfire - Tier 0 (Non-visible)",
+                    "The Campfire - Tier 0 (Non-visible)",
+                    "The Campfire - Tier 0 (Non-visible)",
+                    "The Campfire - Tier 0 (Non-visible)",
+                    "The Campfire - Tier 0 (Non-visible)",
+                    "The Campfire - Tier 0 (Non-visible)"
+                ],
+                "m_locId": 2766985
+            },
+            "m_description": {
+                "m_locValues": [
+                    "An empty plot of land.",
+                    "Ein leeres Stück Land.",
+                    "Una parcela de tierra vacía.",
+                    "Un terreno vacío.",
+                    "Un terrain vierge.",
+                    "Un lotto di terreno vuoto.",
+                    "何もない空き地。",
+                    "빈 땅입니다.",
+                    "Pusta działka.",
+                    "Um lote de terra vazio.",
+                    "Пустой участок земли.",
+                    "ที่ดินว่างเปล่า",
+                    "一块空地。",
+                    "一塊空地。"
+                ],
+                "m_locId": 2766986
+            },
+            "m_unlockAchievementId": 0,
+            "m_onUpgradedDialogId": 0,
+            "m_upgradeCost": 0,
+            "m_tutorialEventType": 0,
+            "m_tutorialEventValue": 0
+        },
+        {
+            "m_ID": 43,
+            "m_mercenaryBuildingId": 16,
+            "m_name": {
+                "m_locValues": [
+                    "The Campfire - Tier 1",
+                    "Das Lagerfeuer – Stufe 1",
+                    "Hoguera - Nivel 1",
+                    "La fogata - Nivel 1",
+                    "Le feu de camp - niveau 1",
+                    "Falò - Livello 1",
+                    "キャンプファイヤー - グレード1",
+                    "모닥불 - 1단계",
+                    "Obozowisko – poziom 1",
+                    "Fogueira - Grau 1",
+                    "Костер I",
+                    "แคมป์ไฟ - ขั้น 1",
+                    "营火 - 等级1",
+                    "營火 - 等級1"
+                ],
+                "m_locId": 2766987
+            },
+            "m_description": {
+                "m_locValues": [
+                    "Visiting mercenaries need your help with tasks.",
+                    "Söldner kommen zu Besuch und bitten Euch um Hilfe.",
+                    "Los mercenarios que te visitan necesitan tu ayuda para cumplir tareas.",
+                    "Los mercenarios vendrán aquí a visitarte para que los ayudes con tareas.",
+                    "Les mercenaires de passage ont besoin de votre aide pour certaines tâches.",
+                    "I Mercenari in visita hanno bisogno del tuo aiuto con gli incarichi.",
+                    "仕事の手伝いを求めてる傭兵が訪れる場所だ。",
+                    "용병들이 도움이 필요한 임무를 가지고 방문하는 곳입니다.",
+                    "Przyjezdni Najemnicy potrzebują twojej pomocy w wykonywaniu zadań.",
+                    "Mercenários visitantes precisam da sua ajuda com tarefas.",
+                    "Здесь можно предложить наемникам помощь.",
+                    "ทหารรับจ้าง[b]ผู้มาเยือน[b]อยากให้[b]คุณช่วยทำภารกิจ",
+                    "会见需要你帮助的佣兵，查看任务。",
+                    "來訪的傭兵有任務需要你來幫忙。"
+                ],
+                "m_locId": 2766988
+            },
+            "m_unlockAchievementId": 0,
+            "m_onUpgradedDialogId": 0,
+            "m_upgradeCost": 0,
+            "m_tutorialEventType": 3,
+            "m_tutorialEventValue": 1939
+        },
+        {
+            "m_ID": 44,
+            "m_mercenaryBuildingId": 16,
+            "m_name": {
+                "m_locValues": [
+                    "The Campfire - Tier 2",
+                    "Das Lagerfeuer – Stufe 2",
+                    "Hoguera - Nivel 2",
+                    "La fogata - Nivel 2",
+                    "Le feu de camp - niveau 2",
+                    "Falò - Livello 2",
+                    "キャンプファイヤー - グレード2",
+                    "모닥불 - 2단계",
+                    "Obozowisko – poziom 2",
+                    "Fogueira - Grau 2",
+                    "Костер II",
+                    "แคมป์ไฟ - ขั้น 2",
+                    "营火 - 等级2",
+                    "營火 - 等級2"
+                ],
+                "m_locId": 2766989
+            },
+            "m_description": {
+                "m_locValues": [
+                    "Gain an additional Visitor slot.",
+                    "Erhaltet einen zusätzlichen Besucherplatz.",
+                    "Obtén una ranura de visitante adicional.",
+                    "Obtienes una casilla de visitante adicional.",
+                    "Gagnez un emplacement de visiteur supplémentaire.",
+                    "Ottieni uno slot visitatore aggiuntivo.",
+                    "訪問者スロットが1つ追加されるぞ。",
+                    "방문자 칸이 하나 늘어납니다.",
+                    "Dodatkowe miejsce dla gości.",
+                    "Concede um espaço de visitante adicional.",
+                    "Открывает место для еще одного гостя.",
+                    "เพิ่มช่องผู้มาเยือน[b]อีกหนึ่งช่อง_",
+                    "额外获得一个访客栏位。",
+                    "獲得一個額外的拜訪者欄位。"
+                ],
+                "m_locId": 2766990
+            },
+            "m_unlockAchievementId": 3566,
+            "m_onUpgradedDialogId": 0,
+            "m_upgradeCost": 200,
+            "m_tutorialEventType": 0,
+            "m_tutorialEventValue": 0
+        },
+        {
+            "m_ID": 45,
+            "m_mercenaryBuildingId": 16,
+            "m_name": {
+                "m_locValues": [
+                    "The Campfire - Tier 3",
+                    "Das Lagerfeuer – Stufe 3",
+                    "Hoguera - Nivel 3",
+                    "La fogata - Nivel 3",
+                    "Le feu de camp - niveau 3",
+                    "Falò - Livello 3",
+                    "キャンプファイヤー - グレード3",
+                    "모닥불 - 3단계",
+                    "Obozowisko – poziom 3",
+                    "Fogueira - Grau 3",
+                    "Костер III",
+                    "แคมป์ไฟ - ขั้น 3",
+                    "营火 - 等级3",
+                    "營火 - 等級3"
+                ],
+                "m_locId": 2766991
+            },
+            "m_description": {
+                "m_locValues": [
+                    "Gain an additional Visitor slot.",
+                    "Erhaltet einen zusätzlichen Besucherplatz.",
+                    "Obtén una ranura de visitante adicional.",
+                    "Obtienes una casilla de visitante adicional.",
+                    "Gagnez un emplacement de visiteur supplémentaire.",
+                    "Ottieni uno slot visitatore aggiuntivo.",
+                    "訪問者スロットが1つ追加されるぞ。",
+                    "방문자 칸이 하나 늘어납니다.",
+                    "Dodatkowe miejsce dla gości.",
+                    "Concede um espaço de visitante adicional.",
+                    "Открывает место для еще одного гостя.",
+                    "เพิ่มช่องผู้มาเยือน[b]อีกหนึ่งช่อง_",
+                    "额外获得一个访客栏位。",
+                    "獲得一個額外的拜訪者欄位。"
+                ],
+                "m_locId": 2766992
+            },
+            "m_unlockAchievementId": 3893,
+            "m_onUpgradedDialogId": 0,
+            "m_upgradeCost": 400,
+            "m_tutorialEventType": 0,
+            "m_tutorialEventValue": 0
+        },
+        {
+            "m_ID": 46,
+            "m_mercenaryBuildingId": 17,
+            "m_name": {
+                "m_locValues": [
+                    "The Workshop - Tier 0 (non-visible)",
+                    "The Workshop - Tier 0 (non-visible)",
+                    "The Workshop - Tier 0 (non-visible)",
+                    "The Workshop - Tier 0 (non-visible)",
+                    "The Workshop - Tier 0 (non-visible)",
+                    "The Workshop - Tier 0 (non-visible)",
+                    "The Workshop - Tier 0 (non-visible)",
+                    "The Workshop - Tier 0 (non-visible)",
+                    "The Workshop - Tier 0 (non-visible)",
+                    "The Workshop - Tier 0 (non-visible)",
+                    "The Workshop - Tier 0 (non-visible)",
+                    "The Workshop - Tier 0 (non-visible)",
+                    "The Workshop - Tier 0 (non-visible)",
+                    "The Workshop - Tier 0 (non-visible)"
+                ],
+                "m_locId": 2766993
+            },
+            "m_description": {
+                "m_locValues": [
+                    "DO NOT REMOVE",
+                    "DO NOT REMOVE",
+                    "DO NOT REMOVE",
+                    "DO NOT REMOVE",
+                    "DO NOT REMOVE",
+                    "DO NOT REMOVE",
+                    "DO NOT REMOVE",
+                    "DO NOT REMOVE",
+                    "DO NOT REMOVE",
+                    "DO NOT REMOVE",
+                    "DO NOT REMOVE",
+                    "DO NOT REMOVE",
+                    "请勿移除",
+                    "請勿移除"
+                ],
+                "m_locId": 2766994
+            },
+            "m_unlockAchievementId": 0,
+            "m_onUpgradedDialogId": 0,
+            "m_upgradeCost": 0,
+            "m_tutorialEventType": 0,
+            "m_tutorialEventValue": 0
+        },
+        {
+            "m_ID": 47,
+            "m_mercenaryBuildingId": 17,
+            "m_name": {
+                "m_locValues": [
+                    "The Workshop - Tier 1",
+                    "Die Werkstatt – Stufe 1",
+                    "Taller - Nivel 1",
+                    "El taller - Nivel 1",
+                    "L’atelier - niveau 1",
+                    "Officina - Livello 1",
+                    "工房 - グレード1",
+                    "작업대 - 1단계",
+                    "Warsztat – poziom 1",
+                    "Oficina - Grau 1",
+                    "Мастерская I",
+                    "โรงงาน - ขั้น 1",
+                    "工坊 - 等级1",
+                    "工坊 - 等級1"
+                ],
+                "m_locId": 2766995
+            },
+            "m_description": {
+                "m_locValues": [
+                    "Improve your Village!",
+                    "Verbessert Euer Dorf!",
+                    "¡Mejora tu aldea!",
+                    "¡Mejora tu aldea!",
+                    "Améliorez votre village !",
+                    "Migliora il tuo Villaggio!",
+                    "住みよい村を作ろう！",
+                    "마을을 발전시키세요!",
+                    "Ulepszaj swoją wioskę!",
+                    "Aprimore sua aldeia!",
+                    "Развивайте свой лагерь!",
+                    "พัฒนาหมู่บ้าน[b]ของคุณ!",
+                    "升级你的村庄！",
+                    "建設你的村莊！"
+                ],
+                "m_locId": 2766996
+            },
+            "m_unlockAchievementId": 0,
+            "m_onUpgradedDialogId": 0,
+            "m_upgradeCost": 0,
+            "m_tutorialEventType": 0,
+            "m_tutorialEventValue": 0
+        }
+    ]
+}

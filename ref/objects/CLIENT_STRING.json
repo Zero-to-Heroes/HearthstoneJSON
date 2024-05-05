@@ -1,0 +1,1647 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 230274487102021725
+    },
+    "m_Name": "CLIENT_STRING",
+    "Records": [
+        {
+            "m_ID": 1,
+            "m_noteDesc": "TRLA Shrine banner string 1",
+            "m_text": {
+                "m_locValues": [
+                    "Turns until this revives: 1",
+                    "Wird in 1 Zug wiederbelebt",
+                    "Turnos hasta\nque reviva: 1",
+                    "Revivirá en 1 turno",
+                    "Tour avant réactivation : 1",
+                    "Torna in vita\nfra 1 turno.",
+                    "あと1ターンで復活",
+                    "부활까지: 1턴",
+                    "Tury do powrotu: 1",
+                    "Turnos até reviver: 1.",
+                    "Пробудится\nчерез 1 ход.",
+                    "จำนวนเทิร์นก่อนคืนชีพ: 1",
+                    "一回合后复活。",
+                    "1回合後恢復"
+                ],
+                "m_locId": 2705919
+            }
+        },
+        {
+            "m_ID": 10,
+            "m_noteDesc": "DALA Prison Break string 7",
+            "m_text": {
+                "m_locValues": [
+                    "Turns until prison break: 7",
+                    "Züge bis zum Ausbruch: 7",
+                    "Turnos hasta la fuga de la prisión: 7",
+                    "Faltan 7 turnos para la fuga",
+                    "Tours avant évasion : 7",
+                    "Turni rimasti all'evasione: 7",
+                    "脱獄まであと7ターン",
+                    "탈옥까지: 7턴",
+                    "Tury do ucieczki z więzienia: 7",
+                    "Turnos até a fuga da prisão: 7",
+                    "До побега осталось 7 ходов",
+                    "จำนวนเทิร์น\nก่อนแหกคุก: 7",
+                    "7回合后逃脱囚室",
+                    "7回合後越獄"
+                ],
+                "m_locId": 2710211
+            }
+        },
+        {
+            "m_ID": 108,
+            "m_noteDesc": "Uldum Tavern Subtitle 01",
+            "m_text": {
+                "m_locValues": [
+                    "Just Deserts",
+                    "Die Oase",
+                    "Dunas sin fin",
+                    "El Oasis de Postres",
+                    "Du rab de désert",
+                    "Distese Desertiche",
+                    "ただの砂漠",
+                    "사막팔방 선술집",
+                    "Pustynne porachunki",
+                    "Apenas Desertos",
+                    "«Пустыня — и пусть»",
+                    "ทะเลทรายแสนหวาน",
+                    "无尽黄沙",
+                    "「純」沙漠旅店"
+                ],
+                "m_locId": 2716934
+            }
+        },
+        {
+            "m_ID": 109,
+            "m_noteDesc": "Uldum Tavern Subtitle 02",
+            "m_text": {
+                "m_locValues": [
+                    "Slurp & Sands",
+                    "Zum letzten Tropfen",
+                    "Sorbos y Arenas",
+                    "Arenas y Aderezos",
+                    "Au Sable chaud",
+                    "Sabbie e Sorsate",
+                    "ズルズル＆ザラザラ",
+                    "한 모금만! 선술집",
+                    "Piaskowa Posypka",
+                    "Aromas & Areias",
+                    "«Вкуснее песка»",
+                    "ดื่มลืมร้อน",
+                    "沙中小啜",
+                    "咕嚕與沙酒屋"
+                ],
+                "m_locId": 2716935
+            }
+        },
+        {
+            "m_ID": 11,
+            "m_noteDesc": "DALA Prison Break string 8",
+            "m_text": {
+                "m_locValues": [
+                    "Turns until prison break: 8",
+                    "Züge bis zum Ausbruch: 8",
+                    "Turnos hasta la fuga de la prisión: 8",
+                    "Faltan 8 turnos para la fuga",
+                    "Tours avant évasion : 8",
+                    "Turni rimasti all'evasione: 8",
+                    "脱獄まであと8ターン",
+                    "탈옥까지: 8턴",
+                    "Tury do ucieczki z więzienia: 8",
+                    "Turnos até a fuga da prisão: 8",
+                    "До побега осталось 8 ходов",
+                    "จำนวนเทิร์น\nก่อนแหกคุก: 8",
+                    "8回合后逃脱囚室",
+                    "8回合後越獄"
+                ],
+                "m_locId": 2710212
+            }
+        },
+        {
+            "m_ID": 110,
+            "m_noteDesc": "Uldum Tavern Subtitle 03",
+            "m_text": {
+                "m_locValues": [
+                    "Dive in the Dunes",
+                    "Der schwitzende Pharao",
+                    "De Cabeza a las Dunas",
+                    "Dunas y Donas",
+                    "Aux épices de dune",
+                    "Dentro le Dune",
+                    "砂丘に飛び込み亭",
+                    "사막을 달리다 선술집",
+                    "Pod Papugami",
+                    "Mergulho nas Dunas",
+                    "«За барханом»",
+                    "สมาคมจมทราย",
+                    "遁入沙丘",
+                    "沙丘魔飽"
+                ],
+                "m_locId": 2716936
+            }
+        },
+        {
+            "m_ID": 111,
+            "m_noteDesc": "Uldum Tavern Subtitle 04",
+            "m_text": {
+                "m_locValues": [
+                    "The Rusty Sarcophagus",
+                    "Allerhand Sand",
+                    "El Sarcófago Oxidado",
+                    "El Sarcófago Oxidado",
+                    "Le Sarcophage vermoulu",
+                    "Il Sarcofago Arrugginito",
+                    "さびた棺桶亭",
+                    "녹슨 석관 선술집",
+                    "Przysypany Sarkofag",
+                    "O Sarcófago Enferrujado",
+                    "«Ржавый саркофаг»",
+                    "หีบศพขึ้นสนิม",
+                    "锈迹石棺",
+                    "鏽棺客棧"
+                ],
+                "m_locId": 2716937
+            }
+        },
+        {
+            "m_ID": 112,
+            "m_noteDesc": "Uldum Tavern Subtitle 05",
+            "m_text": {
+                "m_locValues": [
+                    "The Spitting Camel",
+                    "Zum keifenden Kamel",
+                    "El Camello Escupidor",
+                    "El Camello Escupidor",
+                    "Au Chameau cracheur",
+                    "Il Dromedario Sputante",
+                    "唾を吐くラクダ亭",
+                    "침 튀기는 낙타 선술집",
+                    "Pod Plującym Wielbłądem",
+                    "O Camelo Cuspidor",
+                    "«Плюющийся верблюд»",
+                    "อูฐจอมถุย",
+                    "乱喷骆驼",
+                    "噴吐駱駝小酒館"
+                ],
+                "m_locId": 2716938
+            }
+        },
+        {
+            "m_ID": 113,
+            "m_noteDesc": "Uldum Tavern Subtitle 06",
+            "m_text": {
+                "m_locValues": [
+                    "Baubles & Bottles",
+                    "Zur wüsten Gobi",
+                    "Botellas y Baratijas",
+                    "Baratijas y Botellas",
+                    "Babioles en bouteilles",
+                    "Botti e Bottiglie",
+                    "バブル＆ボトル",
+                    "보석과 물병 선술집",
+                    "Błyskotki i Butelki",
+                    "Garbulha & Gargalo",
+                    "«Бутыли на стиле»",
+                    "สมบัติผลัดกันดื่ม",
+                    "瓶与饰品",
+                    "罐子趣小店"
+                ],
+                "m_locId": 2716939
+            }
+        },
+        {
+            "m_ID": 114,
+            "m_noteDesc": "Uldum Tavern Subtitle 07",
+            "m_text": {
+                "m_locValues": [
+                    "The Watering Hole",
+                    "Das Wasserloch",
+                    "El Abrevadero",
+                    "El Hueco Sediento",
+                    "L’Abreuvoir",
+                    "Bevute Selvagge",
+                    "水も滴る穴倉亭",
+                    "물 좋은 주점",
+                    "U Wodopoju",
+                    "O Bebedouro",
+                    "«Скважина»",
+                    "บาร์ราน้ำ",
+                    "泉眼酒吧",
+                    "酒水坑"
+                ],
+                "m_locId": 2716940
+            }
+        },
+        {
+            "m_ID": 115,
+            "m_noteDesc": "Uldum Tavern Subtitle 08",
+            "m_text": {
+                "m_locValues": [
+                    "Drinks on Sphinx",
+                    "Sphinx’ Drinks",
+                    "Tragos y Esfinges",
+                    "El Entremés de la Esfinge",
+                    "Au sourire du Sphinx",
+                    "Bibite e Boccali",
+                    "スフィンクス＆ドリンクス",
+                    "스핑크스의 단골집",
+                    "Pod Pytającym Sfinksem",
+                    "Drinques da Esfinge",
+                    "«Бутылки сфинксов»",
+                    "สฟิงซ์ดริงค์แหลก",
+                    "与狮共饮",
+                    "史芬克斯酒館"
+                ],
+                "m_locId": 2716941
+            }
+        },
+        {
+            "m_ID": 116,
+            "m_noteDesc": "Uldum Tavern Subtitle 09",
+            "m_text": {
+                "m_locValues": [
+                    "Wondrous Wisdom Bar",
+                    "Die wundersame Weisheitsbar",
+                    "Bar de Soberbia Sabiduría",
+                    "Bar de Sabiduría",
+                    "À la sagesse miraculeuse",
+                    "Bar dell'Ingegno Incredibile",
+                    "驚異の教育のバー",
+                    "신비로운 지혜의 선술집",
+                    "Wspaniały Bar Mądrości",
+                    "Bar da Sabedoria Sobeja",
+                    "«Хрустальный бар»",
+                    "บาร์มหาปราชญ์มหัศจรรย์",
+                    "灵智酒吧",
+                    "神奇的智慧酒吧"
+                ],
+                "m_locId": 2716942
+            }
+        },
+        {
+            "m_ID": 117,
+            "m_noteDesc": "Uldum Tavern Subtitle 10",
+            "m_text": {
+                "m_locValues": [
+                    "The Sandlot",
+                    "Die Grüne Düne",
+                    "El Baldío",
+                    "El Arenero",
+                    "Le Marchand de sable",
+                    "Il Bar delle Sabbie",
+                    "ザ・サンドロット",
+                    "모래알밥 선술집",
+                    "Piaskownica",
+                    "O Areal",
+                    "«Песочница»",
+                    "ลานทราย",
+                    "沙地传奇",
+                    "沙地俱樂部"
+                ],
+                "m_locId": 2716943
+            }
+        },
+        {
+            "m_ID": 118,
+            "m_noteDesc": "Uldum Tavern Subtitle 11",
+            "m_text": {
+                "m_locValues": [
+                    "Bittertide Hydration",
+                    "Zur wandernden Düne",
+                    "Hidratación Olamarga",
+                    "Hidratación Olamarga",
+                    "L’hydratation flot-amer",
+                    "Idratazione Aspramarea",
+                    "獰猛なスケイルハイドレーション",
+                    "거센물결 청정수 선술집",
+                    "Pustynna Oaza",
+                    "Hidratação Ondamara",
+                    "«Пол-литра Горьких Волн»",
+                    "บิทเทอร์ไทด์ดับกระหาย",
+                    "苦潮怪兽",
+                    "惡潮補水站"
+                ],
+                "m_locId": 2716944
+            }
+        },
+        {
+            "m_ID": 119,
+            "m_noteDesc": "Uldum Tavern Subtitle 12",
+            "m_text": {
+                "m_locValues": [
+                    "Shirley's Temple",
+                    "Zum goldenen Skarabäus",
+                    "El Templo Rarito",
+                    "Acertijos y Jeroglíficos",
+                    "Au Temple maudit",
+                    "Tempio di Artemio",
+                    "シャーリーの寺院",
+                    "셜리의 사원",
+                    "Świątynia Dumania",
+                    "Canabrava do João",
+                    "«Храм без драм»",
+                    "วิหารของเชอร์ลีย์",
+                    "秀兰的钵",
+                    "秀蘭的波爾酒"
+                ],
+                "m_locId": 2716945
+            }
+        },
+        {
+            "m_ID": 12,
+            "m_noteDesc": "DALA Prison Break string 9",
+            "m_text": {
+                "m_locValues": [
+                    "Turns until prison break: 9",
+                    "Züge bis zum Ausbruch: 9",
+                    "Turnos hasta la fuga de la prisión: 9",
+                    "Faltan 9 turnos para la fuga",
+                    "Tours avant évasion : 9",
+                    "Turni rimasti all'evasione: 9",
+                    "脱獄まであと9ターン",
+                    "탈옥까지: 9턴",
+                    "Tury do ucieczki z więzienia: 9",
+                    "Turnos até a fuga da prisão: 9",
+                    "До побега осталось 9 ходов",
+                    "จำนวนเทิร์น\nก่อนแหกคุก: 9",
+                    "9回合后逃脱囚室",
+                    "9回合後越獄"
+                ],
+                "m_locId": 2710213
+            }
+        },
+        {
+            "m_ID": 120,
+            "m_noteDesc": "Uldum Tavern Subtitle 13",
+            "m_text": {
+                "m_locValues": [
+                    "The Obelisk and Crocolisk",
+                    "Obelisk & Krokilisk",
+                    "El Obelisco y el Crocolisco",
+                    "El Obelisco y el Crocolisco",
+                    "Crocilisque et obélisque",
+                    "L'Obelisco e il Crocolisco",
+                    "オベリスクとクロコリスク亭",
+                    "너도나도 부자가 되는 선술집",
+                    "Pod Pisklęciem Krokoliszka",
+                    "Obelisco e Crocolisco",
+                    "«Обелиск и кроколиск»",
+                    "โอเบลิสก์และครอคโคลิสค์",
+                    "方尖巨鳄",
+                    "鱷魚石碑酒館"
+                ],
+                "m_locId": 2716946
+            }
+        },
+        {
+            "m_ID": 121,
+            "m_noteDesc": "Uldum Tavern Subtitle 14",
+            "m_text": {
+                "m_locValues": [
+                    "The Rude Sandstorm",
+                    "Sand unter",
+                    "La Tormenta de Arena Tosca",
+                    "La Tormenta de Arena Despiadada",
+                    "Le calme avant la tempête",
+                    "La Tempesta di Sabbia",
+                    "神砂嵐亭",
+                    "세찬 모래폭풍 선술집",
+                    "Znajomi Piaska",
+                    "Tempestade de Areia Bar",
+                    "«Песчаная буча»",
+                    "เดอะรู้ดแซนด์สตอร์ม",
+                    "无情沙暴",
+                    "猛烈沙暴俱樂部"
+                ],
+                "m_locId": 2716947
+            }
+        },
+        {
+            "m_ID": 122,
+            "m_noteDesc": "Uldum Tavern Subtitle 15",
+            "m_text": {
+                "m_locValues": [
+                    "Pharaoh's Row",
+                    "Zur sengenden Sonne",
+                    "Paseo del Faraón",
+                    "La Senda del Faraón",
+                    "La bénédiction du pharaon",
+                    "Il Covo del Faraone",
+                    "ファラオの旅籠",
+                    "뭐든 파라오 선술집",
+                    "U Faraona",
+                    "Cantinho do Faraó",
+                    "«Фараон и его схрон»",
+                    "รังฟาโรห์",
+                    "法老营地",
+                    "法老大道酒館"
+                ],
+                "m_locId": 2716948
+            }
+        },
+        {
+            "m_ID": 123,
+            "m_noteDesc": "Uldum Tavern Subtitle 16",
+            "m_text": {
+                "m_locValues": [
+                    "Dunes 'N Spoons",
+                    "Happy Brauer",
+                    "Dunas y Cucharas",
+                    "Dunas Deliciosas",
+                    "À la petite dunette",
+                    "Dune e Rune",
+                    "砂丘＆スプーン亭",
+                    "사막의 만찬 선술집",
+                    "Dania i Diuny",
+                    "Sabor das Dunas",
+                    "«Сахар. Песок.»",
+                    "ช้อนตักทราย",
+                    "沙丘勺烩",
+                    "沙之匙飯店"
+                ],
+                "m_locId": 2716949
+            }
+        },
+        {
+            "m_ID": 124,
+            "m_noteDesc": "Uldum Tavern Subtitle 17",
+            "m_text": {
+                "m_locValues": [
+                    "The Food Pyramid",
+                    "Die Nahrungspyramide",
+                    "La Pirámide Alimentaria",
+                    "La Pirámide Alimenticia",
+                    "La Pyramide de verres",
+                    "La Piramide Alimentare",
+                    "食生ピラミッド亭",
+                    "먹거리 사슬 선술집",
+                    "Piramida Żywienia",
+                    "Pirâmide Alimentar",
+                    "«Пищевая пирамида»",
+                    "พีระมิดอาหาร",
+                    "金拱塔",
+                    "美食金字塔"
+                ],
+                "m_locId": 2716950
+            }
+        },
+        {
+            "m_ID": 125,
+            "m_noteDesc": "Uldum Tavern Subtitle 18",
+            "m_text": {
+                "m_locValues": [
+                    "Mummy's Wraps",
+                    "Zur staubigen Mumie",
+                    "Vendas de Momia",
+                    "Conservas y Embalsamados",
+                    "La cuisine de momie",
+                    "La Mummia Imbacuccata",
+                    "ミイラの包帯亭",
+                    "미라의 붕대 선술집",
+                    "Jak U Mumii",
+                    "Múmia na Faixa",
+                    "«Бальзамирование на душу»",
+                    "มัมมี่มีหม้อ",
+                    "干尸裹布",
+                    "木乃伊裹布酒吧"
+                ],
+                "m_locId": 2716951
+            }
+        },
+        {
+            "m_ID": 126,
+            "m_noteDesc": "Uldum Tavern Subtitle 19",
+            "m_text": {
+                "m_locValues": [
+                    "Three Dishes",
+                    "Die Saharast",
+                    "Tres Platos",
+                    "El Escriba Ebrio",
+                    "Aux trois Brouets",
+                    "I Tre Pasti Veri",
+                    "蜜の願い亭",
+                    "세 가지 수완 선술집",
+                    "Trzy Życzenia",
+                    "Três Pedidos",
+                    "«Три блюдца»",
+                    "พรสามจาน",
+                    "三菜怀石",
+                    "三個盤子"
+                ],
+                "m_locId": 2716952
+            }
+        },
+        {
+            "m_ID": 13,
+            "m_noteDesc": "DALA Prison Break string 10",
+            "m_text": {
+                "m_locValues": [
+                    "Turns until prison break: 10",
+                    "Züge bis zum Ausbruch: 10",
+                    "Turnos hasta la fuga de la prisión: 10",
+                    "Faltan 10 turnos para la fuga",
+                    "Tours avant évasion : 10",
+                    "Turni rimasti all'evasione: 10",
+                    "脱獄まであと10ターン",
+                    "탈옥까지: 10턴",
+                    "Tury do ucieczki z więzienia: 10",
+                    "Turnos até a fuga da prisão: 10",
+                    "До побега осталось 10 ходов",
+                    "จำนวนเทิร์น\nก่อนแหกคุก: 10",
+                    "10回合后逃脱囚室",
+                    "10回合後越獄"
+                ],
+                "m_locId": 2710214
+            }
+        },
+        {
+            "m_ID": 15,
+            "m_noteDesc": "Galakrond string 1",
+            "m_text": {
+                "m_locValues": [
+                    "Empower 1 time to resurrect Galakrond.",
+                    "Noch 1-mal ermächtigen, um Galakrond auferstehen zu lassen.",
+                    "Potencia 1 vez para resucitar a Galakrond.",
+                    "Potencia 1 vez para revivir a Galakrond.",
+                    "Renforcer 1_fois pour ressusciter Galakrond.",
+                    "Potenzia una volta per resuscitare Galakrond.",
+                    "1回強化でガラクロンドが復活。",
+                    "Empower 1 time to resurrect Galakrond.",
+                    "Wzmocnij 1 raz, aby wskrzesić Galakronda.",
+                    "Potencialize 1 vez para ressuscitar Galakrond.",
+                    "Усильте 1 раз, чтобы воскресить Галакронда.",
+                    "เพิ่มพลัง 1 ครั้งเพื่อ[b]ชุบชีวิตกาลาครอนด์",
+                    "强化1次后复活迦拉克隆。",
+                    "Empower 1 time to resurrect Galakrond."
+                ],
+                "m_locId": 2708414
+            }
+        },
+        {
+            "m_ID": 16,
+            "m_noteDesc": "Galakrond string 2",
+            "m_text": {
+                "m_locValues": [
+                    "Empower 2 times to resurrect Galakrond.",
+                    "Noch 2-mal ermächtigen, um Galakrond auferstehen zu lassen.",
+                    "Potencia 2 veces para resucitar a Galakrond.",
+                    "Potencia 2 veces para revivir a Galakrond.",
+                    "Renforcer 2_fois pour ressusciter Galakrond.",
+                    "Potenzia due volte per resuscitare Galakrond.",
+                    "2回強化でガラクロンドが復活。",
+                    "Empower 2 times to resurrect Galakrond.",
+                    "Wzmocnij 2 razy, aby wskrzesić Galakronda.",
+                    "Potencialize 2 vezes para ressuscitar Galakrond.",
+                    "Усильте 2 раза, чтобы воскресить Галакронда.",
+                    "เพิ่มพลัง 2 ครั้งเพื่อ[b]ชุบชีวิตกาลาครอนด์",
+                    "强化2次后复活迦拉克隆。",
+                    "Empower 2 times to resurrect Galakrond."
+                ],
+                "m_locId": 2708415
+            }
+        },
+        {
+            "m_ID": 17,
+            "m_noteDesc": "Galakrond string 3",
+            "m_text": {
+                "m_locValues": [
+                    "Empower 3 times to resurrect Galakrond.",
+                    "Noch 3-mal ermächtigen, um Galakrond auferstehen zu lassen.",
+                    "Potencia 3 veces para resucitar a Galakrond.",
+                    "Potencia 3 veces para revivir a Galakrond.",
+                    "Renforcer 3_fois pour ressusciter Galakrond.",
+                    "Potenzia tre volte per resuscitare Galakrond.",
+                    "3回強化でガラクロンドが復活。",
+                    "Empower 3 times to resurrect Galakrond.",
+                    "Wzmocnij 3 razy, aby wskrzesić Galakronda.",
+                    "Potencialize 3 vezes para ressuscitar Galakrond.",
+                    "Усильте 3 раза, чтобы воскресить Галакронда.",
+                    "เพิ่มพลัง 3 ครั้งเพื่อ[b]ชุบชีวิตกาลาครอนด์",
+                    "强化3次后复活迦拉克隆。",
+                    "Empower 3 times to resurrect Galakrond."
+                ],
+                "m_locId": 2708416
+            }
+        },
+        {
+            "m_ID": 18,
+            "m_noteDesc": "Galakrond string 4",
+            "m_text": {
+                "m_locValues": [
+                    "Empower 4 times to resurrect Galakrond.",
+                    "Noch 4-mal ermächtigen, um Galakrond auferstehen zu lassen.",
+                    "Potencia 4 veces para resucitar a Galakrond.",
+                    "Potencia 4 veces para revivir a Galakrond.",
+                    "Renforcer 4_fois pour ressusciter Galakrond.",
+                    "Potenzia quattro volte per resuscitare Galakrond.",
+                    "4回強化でガラクロンドが復活。",
+                    "Empower 4 times to resurrect Galakrond.",
+                    "Wzmocnij 4 razy, aby wskrzesić Galakronda.",
+                    "Potencialize 4 vezes para ressuscitar Galakrond.",
+                    "Усильте 4 раза, чтобы воскресить Галакронда.",
+                    "เพิ่มพลัง 4 ครั้งเพื่อ[b]ชุบชีวิตกาลาครอนด์",
+                    "强化4次后复活迦拉克隆。",
+                    "Empower 4 times to resurrect Galakrond."
+                ],
+                "m_locId": 2708417
+            }
+        },
+        {
+            "m_ID": 19,
+            "m_noteDesc": "Galakrond string 5",
+            "m_text": {
+                "m_locValues": [
+                    "Empower 5 times to resurrect Galakrond.",
+                    "Noch 5-mal ermächtigen, um Galakrond auferstehen zu lassen.",
+                    "Potencia 5 veces para resucitar a Galakrond.",
+                    "Potencia 5 veces para revivir a Galakrond.",
+                    "Renforcer 5_fois pour ressusciter Galakrond.",
+                    "Potenzia cinque volte per resuscitare Galakrond.",
+                    "5回強化でガラクロンドが復活。",
+                    "Empower 5 times to resurrect Galakrond.",
+                    "Wzmocnij 5 razy, aby wskrzesić Galakronda.",
+                    "Potencialize 5 vezes para ressuscitar Galakrond.",
+                    "Усильте 5 раза, чтобы воскресить Галакронда.",
+                    "เพิ่มพลัง 5 ครั้งเพื่อ[b]ชุบชีวิตกาลาครอนด์",
+                    "强化5次后复活迦拉克隆。",
+                    "Empower 5 times to resurrect Galakrond."
+                ],
+                "m_locId": 2708418
+            }
+        },
+        {
+            "m_ID": 2,
+            "m_noteDesc": "TRLA Shrine banner string 2",
+            "m_text": {
+                "m_locValues": [
+                    "Turns until this revives: 2",
+                    "Wird in 2 Zügen wiederbelebt",
+                    "Turnos hasta\nque reviva: 2",
+                    "Revivirá en 2 turnos",
+                    "Tours avant réactivation : 2",
+                    "Torna in vita\nfra 2 turni.",
+                    "あと2ターンで復活",
+                    "부활까지: 2턴",
+                    "Tury do powrotu: 2",
+                    "Turnos até reviver: 2.",
+                    "Пробудится\nчерез 2 хода.",
+                    "จำนวนเทิร์นก่อนคืนชีพ: 2",
+                    "两回合后复活。",
+                    "2回合後恢復"
+                ],
+                "m_locId": 2705920
+            }
+        },
+        {
+            "m_ID": 20,
+            "m_noteDesc": "Galakrond string 6",
+            "m_text": {
+                "m_locValues": [
+                    "Empower 6 times to resurrect Galakrond.",
+                    "Noch 6-mal ermächtigen, um Galakrond auferstehen zu lassen.",
+                    "Potencia 6 veces para resucitar a Galakrond.",
+                    "Potencia 6 veces para revivir a Galakrond.",
+                    "Renforcer 6_fois pour ressusciter Galakrond.",
+                    "Potenzia sei volte per resuscitare Galakrond.",
+                    "6回強化でガラクロンドが復活。",
+                    "Empower 6 times to resurrect Galakrond.",
+                    "Wzmocnij 6 razy, aby wskrzesić Galakronda.",
+                    "Potencialize 6 vezes para ressuscitar Galakrond.",
+                    "Усильте 6 раза, чтобы воскресить Галакронда.",
+                    "เพิ่มพลัง 6 ครั้งเพื่อ[b]ชุบชีวิตกาลาครอนด์",
+                    "强化6次后复活迦拉克隆。",
+                    "Empower 6 times to resurrect Galakrond."
+                ],
+                "m_locId": 2708419
+            }
+        },
+        {
+            "m_ID": 3,
+            "m_noteDesc": "TRLA Shrine banner string 3",
+            "m_text": {
+                "m_locValues": [
+                    "Turns until this revives: 3",
+                    "Wird in 3 Zügen wiederbelebt",
+                    "Turnos hasta\nque reviva: 3",
+                    "Revivirá en 3 turnos",
+                    "Tours avant réactivation : 3",
+                    "Torna in vita\nfra 3 turni.",
+                    "あと3ターンで復活",
+                    "부활까지: 3턴",
+                    "Tury do powrotu: 3",
+                    "Turnos até reviver: 3.",
+                    "Пробудится\nчерез 3 хода.",
+                    "จำนวนเทิร์นก่อนคืนชีพ: 3",
+                    "三回合后复活。",
+                    "3回合後恢復"
+                ],
+                "m_locId": 2705921
+            }
+        },
+        {
+            "m_ID": 4,
+            "m_noteDesc": "DALA Prison Break string 1",
+            "m_text": {
+                "m_locValues": [
+                    "Turns until prison break: 1",
+                    "Züge bis zum Ausbruch: 1",
+                    "Turnos hasta la fuga de la prisión: 1",
+                    "Falta 1 turno para la fuga",
+                    "Tour avant évasion : 1",
+                    "Turni rimasti all'evasione: 1",
+                    "脱獄まであと1ターン",
+                    "탈옥까지: 1턴",
+                    "Tury do ucieczki z więzienia: 1",
+                    "Turnos até a fuga da prisão: 1",
+                    "До побега остался 1 ход",
+                    "จำนวนเทิร์น\nก่อนแหกคุก: 1",
+                    "1回合后逃脱囚室",
+                    "1回合後越獄"
+                ],
+                "m_locId": 2710205
+            }
+        },
+        {
+            "m_ID": 42,
+            "m_noteDesc": "Dalaran Tavern Subtitle 01",
+            "m_text": {
+                "m_locValues": [
+                    "The Frozen Hozen",
+                    "Zum gronzigen Knatzel",
+                    "El Hozen Fresco",
+                    "El Hozen Helado",
+                    "Au Hozen en Peine",
+                    "L'Hozen di Ghiaccio",
+                    "呆然ホーゼン亭",
+                    "얼어붙은 호젠",
+                    "Pod Rozbrykanym Hozenem",
+                    "O Hozen Congelado",
+                    "«Замерзший хозен»",
+                    "โฮเซ็นเย็นเจี๊ยบ",
+                    "冰风猢狲",
+                    "冰猴人酒吧"
+                ],
+                "m_locId": 2710800
+            }
+        },
+        {
+            "m_ID": 43,
+            "m_noteDesc": "Dalaran Tavern Subtitle 02",
+            "m_text": {
+                "m_locValues": [
+                    "At Wick's End",
+                    "Zur flackernden Kerze",
+                    "De Mecha Corta",
+                    "Mecha Corta",
+                    "Au Bout de sa Mèch",
+                    "La Fine del Mazzo",
+                    "途方に暮れ亭",
+                    "양초와 촛농 선술집",
+                    "Spalony Knot",
+                    "O Fim do Pavio",
+                    "«У Вика»",
+                    "วิคหก",
+                    "轻松周末",
+                    "燭蕊燒盡酒吧"
+                ],
+                "m_locId": 2710801
+            }
+        },
+        {
+            "m_ID": 44,
+            "m_noteDesc": "Dalaran Tavern Subtitle 03",
+            "m_text": {
+                "m_locValues": [
+                    "The Cloak and Stagger",
+                    "Zum versteckten Dolch",
+                    "De Capa y Espanta",
+                    "La Capa Tambaleante",
+                    "La Grappe et l’Épée",
+                    "Il Bar Barcollante",
+                    "街頭と探検亭",
+                    "망토와 대검 선술집",
+                    "Pod Sekretnym Magiem",
+                    "Adega da Adaga",
+                    "«Меч и печь»",
+                    "ร้านน้ำเดินเซ",
+                    "篷匕酒吧",
+                    "蹣跚斗篷酒吧"
+                ],
+                "m_locId": 2710802
+            }
+        },
+        {
+            "m_ID": 45,
+            "m_noteDesc": "Dalaran Tavern Subtitle 04",
+            "m_text": {
+                "m_locValues": [
+                    "Of Bards and Beards",
+                    "Barden und Bärte",
+                    "De Bardos y Barbas",
+                    "Bardos y Barbas",
+                    "Au Barde à papa",
+                    "Barbe e Bardi",
+                    "ヒゲの吟遊詩人の吟醸酒蔵",
+                    "오락과 가락 선술집",
+                    "Pod Brodatym Bardem",
+                    "Bardos & Barbas",
+                    "«Барды и бороды»",
+                    "โรงเตี๊ยมกวีมีเครา",
+                    "虬髯与诗",
+                    "吟遊詩人與鬍子小館"
+                ],
+                "m_locId": 2710803
+            }
+        },
+        {
+            "m_ID": 46,
+            "m_noteDesc": "Dalaran Tavern Subtitle 05",
+            "m_text": {
+                "m_locValues": [
+                    "Pagle's Pub and Stable",
+                    "Pagles Anglerschenke",
+                    "Bar y Establo de Pagle",
+                    "Pub y Establo de Pagle",
+                    "Pub-étable de Pagle",
+                    "Il Bar di Pagle",
+                    "ペイグルのパブ＆馬宿",
+                    "페이글의 펍과 마굿간",
+                    "Smażalnia Ryb Pata Nagle'a",
+                    "Pub e Estábulo do Pagle",
+                    "Постоялый двор «У Пэгла»",
+                    "ผับและโรงม้าของเพเกิ้ล",
+                    "帕格酒馆",
+                    "帕格的馬廄與酒吧"
+                ],
+                "m_locId": 2710804
+            }
+        },
+        {
+            "m_ID": 47,
+            "m_noteDesc": "Dalaran Tavern Subtitle 06",
+            "m_text": {
+                "m_locValues": [
+                    "The Wailing Tavern",
+                    "Zum ehrlichen Goblin",
+                    "La Taberna de los Lamentos",
+                    "La Taberna Gemebunda",
+                    "La Taverne des Lamentations",
+                    "La Locanda dei Lamenti",
+                    "叫びの酒場",
+                    "울부짖는 선술집",
+                    "Zawodząca Karczma",
+                    "Taverna da Lamúria",
+                    "«Стенающая» таверна",
+                    "โรงเตี๊ยมร่ำไห้",
+                    "哀嚎酒馆",
+                    "哀嚎洞府"
+                ],
+                "m_locId": 2710805
+            }
+        },
+        {
+            "m_ID": 48,
+            "m_noteDesc": "Dalaran Tavern Subtitle 07",
+            "m_text": {
+                "m_locValues": [
+                    "Bob's Bar",
+                    "Bobs Bar",
+                    "El Bar de Bob",
+                    "Bar de Bob",
+                    "Le bar de Bob",
+                    "Il Bar di Bob",
+                    "ボブのバー",
+                    "바텐더 밥의 바",
+                    "Bar Boba",
+                    "Bar do Bob",
+                    "Бар «У Боба»",
+                    "บาร์ของบ็อบ",
+                    "鲍勃酒吧",
+                    "鮑伯的酒吧"
+                ],
+                "m_locId": 2710806
+            }
+        },
+        {
+            "m_ID": 49,
+            "m_noteDesc": "Dalaran Tavern Subtitle 08",
+            "m_text": {
+                "m_locValues": [
+                    "The Burpin' Murloc",
+                    "Zum rülpsenden Murloc",
+                    "El Múrloc Gaseoso",
+                    "Eructo de Múrloc",
+                    "Au Murloc Magouilleur",
+                    "Il Murloc Rigurgitante",
+                    "ゲップのマーロック亭",
+                    "트림하는 멀록",
+                    "Bekający Murlok",
+                    "O Murloc Arrotador",
+                    "«Сытый мурлок»",
+                    "เมอร์ล็อคละเมอ",
+                    "嗝嗝鱼人",
+                    "打嗝魚人酒吧"
+                ],
+                "m_locId": 2710807
+            }
+        },
+        {
+            "m_ID": 5,
+            "m_noteDesc": "DALA Prison Break string 2",
+            "m_text": {
+                "m_locValues": [
+                    "Turns until prison break: 2",
+                    "Züge bis zum Ausbruch: 2",
+                    "Turnos hasta la fuga de la prisión: 2",
+                    "Faltan 2 turnos para la fuga",
+                    "Tours avant évasion : 2",
+                    "Turni rimasti all'evasione: 2",
+                    "脱獄まであと2ターン",
+                    "탈옥까지: 2턴",
+                    "Tury do ucieczki z więzienia: 2",
+                    "Turnos até a fuga da prisão: 2",
+                    "До побега осталось 2 хода",
+                    "จำนวนเทิร์น\nก่อนแหกคุก: 2",
+                    "2回合后逃脱囚室",
+                    "2回合後越獄"
+                ],
+                "m_locId": 2710206
+            }
+        },
+        {
+            "m_ID": 50,
+            "m_noteDesc": "Dalaran Tavern Subtitle 09",
+            "m_text": {
+                "m_locValues": [
+                    "The Dollar Inn",
+                    "Gasthof Dalaran",
+                    "Tascaran",
+                    "La Posada del Dólar",
+                    "Le Dalarade",
+                    "La Locandalaran",
+                    "一銭宿屋",
+                    "100골드의 행복 여관",
+                    "Dalabar",
+                    "Estalagem Baratinha",
+                    "Корчма «Звонкая монета»",
+                    "โรงแรมดอลลาร์",
+                    "富贵旅店",
+                    "達拉錢旅店"
+                ],
+                "m_locId": 2710808
+            }
+        },
+        {
+            "m_ID": 51,
+            "m_noteDesc": "Dalaran Tavern Subtitle 10",
+            "m_text": {
+                "m_locValues": [
+                    "A Hero's Welcome",
+                    "Zum Wohl",
+                    "La Acogida del Héroe",
+                    "Bienvenida Heroica",
+                    "L’Échoppe des Héros",
+                    "La Locanda degli Eroi",
+                    "ヒーローのお宿",
+                    "영웅의 쉼터 여관",
+                    "Powitanie Bohaterów",
+                    "Recanto dos Heróis",
+                    "«Геройский приют»",
+                    "ห้องต้อนรับฮีโร่",
+                    "英雄之家",
+                    "英雄光臨旅店"
+                ],
+                "m_locId": 2710809
+            }
+        },
+        {
+            "m_ID": 52,
+            "m_noteDesc": "Dalaran Tavern Subtitle 11",
+            "m_text": {
+                "m_locValues": [
+                    "Sneazy's Speakeasy",
+                    "Zum müden Wanderer",
+                    "Tugurio de Sneazy",
+                    "El tugurio de Sneazy",
+                    "Bar clandestin de Martin",
+                    "Il Chiacchiericcio di Khadgar",
+                    "スニージーの隠れ家バー",
+                    "스니지의 밀주점",
+                    "Jaskinia Hazardu",
+                    "Bodega Discreta",
+                    "«Как сыр в масле»",
+                    "ร้านเครื่องดื่มคลายเครียดของสนีซี่",
+                    "隐士幽居",
+                    "史尼茲的地下酒吧"
+                ],
+                "m_locId": 2710810
+            }
+        },
+        {
+            "m_ID": 53,
+            "m_noteDesc": "Dalaran Tavern Subtitle 12",
+            "m_text": {
+                "m_locValues": [
+                    "The Hungry Crab",
+                    "Die Hungrige Krabbe",
+                    "El Cangrejo Famélico",
+                    "El Cangrejo Hambriento",
+                    "Au Crabe Affamé",
+                    "Il Granchio Affamato",
+                    "飢えたカニ亭",
+                    "굶주린 게 선술집",
+                    "Głodny Krab",
+                    "O Caranguejo Faminto",
+                    "«Голодный краб»",
+                    "ผับปูโหย",
+                    "蟹饱王",
+                    "飢餓螃蟹酒館"
+                ],
+                "m_locId": 2710811
+            }
+        },
+        {
+            "m_ID": 54,
+            "m_noteDesc": "Dalaran Tavern Subtitle 13",
+            "m_text": {
+                "m_locValues": [
+                    "The Filthy Animal",
+                    "Das Rattenloch",
+                    "El Animal Roñoso",
+                    "El Animal Roñoso",
+                    "À la Sale Bête",
+                    "La Belva Assetata",
+                    "汚ねぇ獣亭",
+                    "불결한 야수 여관",
+                    "Parszywy Sierściuch",
+                    "O Animal Imundo",
+                    "«Грязное животное»",
+                    "สัตว์สังคม",
+                    "肮脏野兽",
+                    "下流畜生酒店"
+                ],
+                "m_locId": 2710812
+            }
+        },
+        {
+            "m_ID": 55,
+            "m_noteDesc": "Dalaran Tavern Subtitle 14",
+            "m_text": {
+                "m_locValues": [
+                    "Legerdemain Lounge",
+                    "Zum Zauberkasten",
+                    "Salón Juego de Manos",
+                    "Salón Juego de Manos",
+                    "L’Abracadabar",
+                    "Abracadabar",
+                    "奇術王のラウンジ",
+                    "요술쟁이 휴게실",
+                    "Karciana Sztuczka",
+                    "Saguão da Destreza",
+                    "«Приют фокусника»",
+                    "เลเจอเดอเมน เลาจน์",
+                    "魔术旅馆",
+                    "戲法旅舍"
+                ],
+                "m_locId": 2710813
+            }
+        },
+        {
+            "m_ID": 56,
+            "m_noteDesc": "Dalaran Tavern Subtitle 15",
+            "m_text": {
+                "m_locValues": [
+                    "The Angry Chicken",
+                    "Zum wütenden Huhn",
+                    "El Pollo Furioso",
+                    "El Pollo Enfadado",
+                    "Au Poulet Furieux",
+                    "La Gallina Arrabbiata",
+                    "アングリーチキン亭",
+                    "화난 닭 선술집",
+                    "Wściekły Kurczak",
+                    "Frango Nervoso",
+                    "«Злая курица»",
+                    "ไก่พิโรธ",
+                    "怒德基",
+                    "憤怒雞"
+                ],
+                "m_locId": 2710814
+            }
+        },
+        {
+            "m_ID": 57,
+            "m_noteDesc": "Dalaran Tavern Subtitle 16",
+            "m_text": {
+                "m_locValues": [
+                    "Tinyfin's Tavern",
+                    "Miniflosses Minibar",
+                    "La Taberna de Aletín",
+                    "Taberna de Minialeta",
+                    "Mess mini-aileron",
+                    "La Locanda di Murlocchino",
+                    "タイニーフィンの酒場",
+                    "아기 멀록의 선술집",
+                    "Karczma Tycipłetwa",
+                    "Taverna de Pinafina",
+                    "«Плавничок»",
+                    "โรงเตี๊ยมครีบจิ๋ว",
+                    "小鱼酒馆",
+                    "小鰭酒館"
+                ],
+                "m_locId": 2710815
+            }
+        },
+        {
+            "m_ID": 58,
+            "m_noteDesc": "Dalaran Tavern Subtitle 17",
+            "m_text": {
+                "m_locValues": [
+                    "Ragnaros's 2-Soon Saloon",
+                    "Ragnaros Grill und Bar",
+                    "Ragnaros y sus Insectos",
+                    "Barnaros “Demasiado Pronto”",
+                    "Bistrot Tôt de Ragnaros",
+                    "Bevi, Insetto",
+                    "ラグナロスの高級酒場 呑め、虫ケラ",
+                    "라그나로스의 너무 일찍 깨우는 여관",
+                    "Grill u Ragnarosa",
+                    "Salão Quentura do Ragnaros",
+                    "Салун «Рагнарун»",
+                    "ซาลูนเร็วเกินไปของแร็กนารอส",
+                    "炎魔之地",
+                    "拉格納羅斯太早沙龍"
+                ],
+                "m_locId": 2710816
+            }
+        },
+        {
+            "m_ID": 59,
+            "m_noteDesc": "Dalaran Tavern Subtitle 18",
+            "m_text": {
+                "m_locValues": [
+                    "The Cut N' Shuffle",
+                    "Zum Magmawüter",
+                    "El Baraja y Corta",
+                    "Corta y Mezcla",
+                    "À la bonne Pioche",
+                    "Taglia e Mescola",
+                    "カット＆シャッフル",
+                    "밑장 빼기 선술집",
+                    "Brudne Zagranie",
+                    "Cards na Mesa",
+                    "«Жуй, тасуй»",
+                    "คัทแอนด์ชัฟเฟิล",
+                    "游戏小屋",
+                    "切牌洗牌酒館"
+                ],
+                "m_locId": 2710817
+            }
+        },
+        {
+            "m_ID": 6,
+            "m_noteDesc": "DALA Prison Break string 3",
+            "m_text": {
+                "m_locValues": [
+                    "Turns until prison break: 3",
+                    "Züge bis zum Ausbruch: 3",
+                    "Turnos hasta la fuga de la prisión: 3",
+                    "Faltan 3 turnos para la fuga",
+                    "Tours avant évasion : 3",
+                    "Turni rimasti all'evasione: 3",
+                    "脱獄まであと3ターン",
+                    "탈옥까지: 3턴",
+                    "Tury do ucieczki z więzienia: 3",
+                    "Turnos até a fuga da prisão: 3",
+                    "До побега осталось 3 хода",
+                    "จำนวนเทิร์น\nก่อนแหกคุก: 3",
+                    "3回合后逃脱囚室",
+                    "3回合後越獄"
+                ],
+                "m_locId": 2710207
+            }
+        },
+        {
+            "m_ID": 60,
+            "m_noteDesc": "Dalaran Tavern Subtitle 19",
+            "m_text": {
+                "m_locValues": [
+                    "The Watering Hole",
+                    "Zum durstigen Braumeister",
+                    "El Abrevadero",
+                    "El Hueco Sediento",
+                    "L’Abreuvoir",
+                    "Bevute Selvagge",
+                    "水も滴る穴倉亭",
+                    "물 좋은 주점",
+                    "U Wodopoju",
+                    "O Bebedouro",
+                    "«Скважина»",
+                    "บาร์ราน้ำ",
+                    "泉眼酒吧",
+                    "酒水坑"
+                ],
+                "m_locId": 2710818
+            }
+        },
+        {
+            "m_ID": 61,
+            "m_noteDesc": "Dalaran Tavern Subtitle 20",
+            "m_text": {
+                "m_locValues": [
+                    "The Lazy Peon",
+                    "Zum faulen Peon",
+                    "El Peón Gandul",
+                    "El Peón Perezoso",
+                    "Au Péon Fainéant",
+                    "Il Pigro Peone",
+                    "だらけた手下亭",
+                    "게으른 일꾼 선술집",
+                    "Pod Leniwym Podnóżkiem",
+                    "O Peão Preguiçoso",
+                    "«Ленивый батрак»",
+                    "เลซี่พีออน",
+                    "苦工旅店",
+                    "懶惰的苦工"
+                ],
+                "m_locId": 2710834
+            }
+        },
+        {
+            "m_ID": 62,
+            "m_noteDesc": "Dalaran Alternate Tavern Subtitle 01",
+            "m_text": {
+                "m_locValues": [
+                    "The Cog and Gear",
+                    "Zum rostigen Ritzel",
+                    "Piñón y Engranaje",
+                    "Tuercas y Engranajes",
+                    "L’Engrenage Infernal",
+                    "Viti e Ingranaggi",
+                    "歯車亭",
+                    "톱니와 용수철 선술집",
+                    "Trybik i Zębatka",
+                    "Porcas & Parafusos",
+                    "«Два шурупа»",
+                    "เฟืองและเกียร์",
+                    "机械油坊",
+                    "齒輪與排檔酒館"
+                ],
+                "m_locId": 2712225
+            }
+        },
+        {
+            "m_ID": 63,
+            "m_noteDesc": "Dalaran Alternate Tavern Subtitle 02",
+            "m_text": {
+                "m_locValues": [
+                    "The Greased Axel",
+                    "Zum geölten Getriebe",
+                    "El Hacha Engrasada",
+                    "El Eje Engrasado",
+                    "À l’Essieu Graissé",
+                    "La Carrucola Unta",
+                    "油をさした車軸亭",
+                    "날 선 도끼 선술집",
+                    "Pod Naoliwioną Osią",
+                    "O Eixo Engraxado",
+                    "«Плавный ход»",
+                    "เพลาหล่อลื่น",
+                    "润滑养护",
+                    "潤滑車軸酒館"
+                ],
+                "m_locId": 2712226
+            }
+        },
+        {
+            "m_ID": 64,
+            "m_noteDesc": "Dalaran Alternate Tavern Subtitle 03",
+            "m_text": {
+                "m_locValues": [
+                    "The Rusty Bucket",
+                    "Die Rostlaube",
+                    "El Cubo Oxidado",
+                    "La Cubeta Oxidada",
+                    "Le Seau Troué",
+                    "Il Secchio Arrugginito",
+                    "さびたバケツ亭",
+                    "녹슨 양동이 선술집",
+                    "Pod Zardzewiałym Wiadrem",
+                    "O Balde Enferrujado",
+                    "«Ржавое ведро»",
+                    "ถังขึ้นสนิม",
+                    "锈桶旅店",
+                    "生鏽水桶旅店"
+                ],
+                "m_locId": 2712227
+            }
+        },
+        {
+            "m_ID": 7,
+            "m_noteDesc": "DALA Prison Break string 4",
+            "m_text": {
+                "m_locValues": [
+                    "Turns until prison break: 4",
+                    "Züge bis zum Ausbruch: 4",
+                    "Turnos hasta la fuga de la prisión: 4",
+                    "Faltan 4 turnos para la fuga",
+                    "Tours avant évasion : 4",
+                    "Turni rimasti all'evasione: 4",
+                    "脱獄まであと4ターン",
+                    "탈옥까지: 4턴",
+                    "Tury do ucieczki z więzienia: 4",
+                    "Turnos até a fuga da prisão: 4",
+                    "До побега осталось 4 хода",
+                    "จำนวนเทิร์น\nก่อนแหกคุก: 4",
+                    "4回合后逃脱囚室",
+                    "4回合後越獄"
+                ],
+                "m_locId": 2710208
+            }
+        },
+        {
+            "m_ID": 73,
+            "m_noteDesc": "ULDA Tomb string 1",
+            "m_text": {
+                "m_locValues": [
+                    "Friendly deaths remaining: 1",
+                    "Noch 1 toter befreun-\ndeter Diener",
+                    "Muertes amistosas restantes: 1",
+                    "Muertes de aliados restantes: 1",
+                    "Mort d’allié restante : 1",
+                    "Morti dei tuoi servitori rimaste: 1",
+                    "あと1体味方が死ぬと召喚",
+                    "남은 아군 죽음 횟수: 1",
+                    "Jeszcze 1 przyjazny zgon.",
+                    "Mortes de aliados restantes: 1",
+                    "Еще 1 смерть ваших существ",
+                    "ฝ่ายคุณต้องตายอีก: 1",
+                    "剩余友方随从死亡数：1",
+                    "仍需下葬1個友方手下"
+                ],
+                "m_locId": 2716870
+            }
+        },
+        {
+            "m_ID": 74,
+            "m_noteDesc": "ULDA Tomb string 2",
+            "m_text": {
+                "m_locValues": [
+                    "Friendly deaths remaining: 2",
+                    "Noch 2 tote befreun-\ndete Diener",
+                    "Muertes amistosas restantes: 2",
+                    "Muertes de aliados restantes: 2",
+                    "Morts d’alliés restantes : 2",
+                    "Morti dei tuoi servitori rimaste: 2",
+                    "あと2体味方が死ぬと召喚",
+                    "남은 아군 죽음 횟수: 2",
+                    "Jeszcze 2 przyjazne zgony.",
+                    "Mortes de aliados restantes: 2",
+                    "Еще 2 смерти ваших существ",
+                    "ฝ่ายคุณต้องตายอีก: 2",
+                    "剩余友方随从死亡数：2",
+                    "仍需下葬2個友方手下"
+                ],
+                "m_locId": 2716871
+            }
+        },
+        {
+            "m_ID": 75,
+            "m_noteDesc": "ULDA Tomb string 3",
+            "m_text": {
+                "m_locValues": [
+                    "Friendly deaths remaining: 3",
+                    "Noch 3 tote befreun-\ndete Diener",
+                    "Muertes amistosas restantes: 3",
+                    "Muertes de aliados restantes: 3",
+                    "Morts d’alliés restantes : 3",
+                    "Morti dei tuoi servitori rimaste: 3",
+                    "あと3体味方が死ぬと召喚",
+                    "남은 아군 죽음 횟수: 3",
+                    "Jeszcze 3 przyjazne zgony.",
+                    "Mortes de aliados restantes: 3",
+                    "Еще 3 смерти ваших существ",
+                    "ฝ่ายคุณต้องตายอีก: 3",
+                    "剩余友方随从死亡数：3",
+                    "仍需下葬3個友方手下"
+                ],
+                "m_locId": 2716872
+            }
+        },
+        {
+            "m_ID": 76,
+            "m_noteDesc": "ULDA Tomb string 4",
+            "m_text": {
+                "m_locValues": [
+                    "Friendly deaths remaining: 4",
+                    "Noch 4 tote befreun-\ndete Diener",
+                    "Muertes amistosas restantes: 4",
+                    "Muertes de aliados restantes: 4",
+                    "Morts d’alliés restantes : 4",
+                    "Morti dei tuoi servitori rimaste: 4",
+                    "あと4体味方が死ぬと召喚",
+                    "남은 아군 죽음 횟수: 4",
+                    "Jeszcze 4 przyjazne zgony.",
+                    "Mortes de aliados restantes: 4",
+                    "Еще 4 смерти ваших существ",
+                    "ฝ่ายคุณต้องตายอีก: 4",
+                    "剩余友方随从死亡数：4",
+                    "仍需下葬4個友方手下"
+                ],
+                "m_locId": 2716873
+            }
+        },
+        {
+            "m_ID": 77,
+            "m_noteDesc": "ULDA Tomb string 5",
+            "m_text": {
+                "m_locValues": [
+                    "Friendly deaths remaining: 5",
+                    "Noch 5 tote befreun-\ndete Diener",
+                    "Muertes amistosas restantes: 5",
+                    "Muertes de aliados restantes: 5",
+                    "Morts d’alliés restantes : 5",
+                    "Morti dei tuoi servitori rimaste: 5",
+                    "あと5体味方が死ぬと召喚",
+                    "남은 아군 죽음 횟수: 5",
+                    "Jeszcze 5 przyjaznych zgonów.",
+                    "Mortes de aliados restantes: 5",
+                    "Еще 5 смертей ваших существ",
+                    "ฝ่ายคุณต้องตายอีก: 5",
+                    "剩余友方随从死亡数：5",
+                    "仍需下葬5個友方手下"
+                ],
+                "m_locId": 2716874
+            }
+        },
+        {
+            "m_ID": 78,
+            "m_noteDesc": "ULDA Tomb string 6",
+            "m_text": {
+                "m_locValues": [
+                    "Friendly deaths remaining: 6",
+                    "Noch 6 tote befreun-\ndete Diener",
+                    "Muertes amistosas restantes: 6",
+                    "Muertes de aliados restantes: 6",
+                    "Morts d’alliés restantes : 6",
+                    "Morti dei tuoi servitori rimaste: 6",
+                    "あと6体味方が死ぬと召喚",
+                    "남은 아군 죽음 횟수: 6",
+                    "Jeszcze 6 przyjaznych zgonów.",
+                    "Mortes de aliados restantes: 6",
+                    "Еще 6 смертей ваших существ",
+                    "ฝ่ายคุณต้องตายอีก: 6",
+                    "剩余友方随从死亡数：6",
+                    "仍需下葬6個友方手下"
+                ],
+                "m_locId": 2716875
+            }
+        },
+        {
+            "m_ID": 79,
+            "m_noteDesc": "ULDA Tomb string 7",
+            "m_text": {
+                "m_locValues": [
+                    "Friendly deaths remaining: 7",
+                    "Noch 7 tote befreun-\ndete Diener",
+                    "Muertes amistosas restantes: 7",
+                    "Muertes de aliados restantes: 7",
+                    "Morts d’alliés restantes : 7",
+                    "Morti dei tuoi servitori rimaste: 7",
+                    "あと7体味方が死ぬと召喚",
+                    "남은 아군 죽음 횟수: 7",
+                    "Jeszcze 7 przyjaznych zgonów.",
+                    "Mortes de aliados restantes: 7",
+                    "Еще 7 смертей ваших существ",
+                    "ฝ่ายคุณต้องตายอีก: 7",
+                    "剩余友方随从死亡数：7",
+                    "仍需下葬7個友方手下"
+                ],
+                "m_locId": 2716876
+            }
+        },
+        {
+            "m_ID": 8,
+            "m_noteDesc": "DALA Prison Break string 5",
+            "m_text": {
+                "m_locValues": [
+                    "Turns until prison break: 5",
+                    "Züge bis zum Ausbruch: 5",
+                    "Turnos hasta la fuga de la prisión: 5",
+                    "Faltan 5 turnos para la fuga",
+                    "Tours avant évasion : 5",
+                    "Turni rimasti all'evasione: 5",
+                    "脱獄まであと5ターン",
+                    "탈옥까지: 5턴",
+                    "Tury do ucieczki z więzienia: 5",
+                    "Turnos até a fuga da prisão: 5",
+                    "До побега осталось 5 ходов",
+                    "จำนวนเทิร์น\nก่อนแหกคุก: 5",
+                    "5回合后逃脱囚室",
+                    "5回合後越獄"
+                ],
+                "m_locId": 2710209
+            }
+        },
+        {
+            "m_ID": 80,
+            "m_noteDesc": "ULDA Tomb string 8",
+            "m_text": {
+                "m_locValues": [
+                    "Friendly deaths remaining: 8",
+                    "Noch 8 tote befreun-\ndete Diener",
+                    "Muertes amistosas restantes: 8",
+                    "Muertes de aliados restantes: 8",
+                    "Morts d’alliés restantes : 8",
+                    "Morti dei tuoi servitori rimaste: 8",
+                    "あと8体味方が死ぬと召喚",
+                    "남은 아군 죽음 횟수: 8",
+                    "Jeszcze 8 przyjaznych zgonów.",
+                    "Mortes de aliados restantes: 8",
+                    "Еще 8 смертей ваших существ",
+                    "ฝ่ายคุณต้องตายอีก: 8",
+                    "剩余友方随从死亡数：8",
+                    "仍需下葬8個友方手下"
+                ],
+                "m_locId": 2716877
+            }
+        },
+        {
+            "m_ID": 81,
+            "m_noteDesc": "ULDA Tomb string 9",
+            "m_text": {
+                "m_locValues": [
+                    "Friendly deaths remaining: 9",
+                    "Noch 9 tote befreun-\ndete Diener",
+                    "Muertes amistosas restantes: 9",
+                    "Muertes de aliados restantes: 9",
+                    "Morts d’alliés restantes : 9",
+                    "Morti dei tuoi servitori rimaste: 9",
+                    "あと9体味方が死ぬと召喚",
+                    "남은 아군 죽음 횟수: 9",
+                    "Jeszcze 9 przyjaznych zgonów.",
+                    "Mortes de aliados restantes: 9",
+                    "Еще 9 смертей ваших существ",
+                    "ฝ่ายคุณต้องตายอีก: 9",
+                    "剩余友方随从死亡数：9",
+                    "仍需下葬9個友方手下"
+                ],
+                "m_locId": 2716878
+            }
+        },
+        {
+            "m_ID": 82,
+            "m_noteDesc": "ULDA Tomb string 10",
+            "m_text": {
+                "m_locValues": [
+                    "Friendly deaths remaining: 10",
+                    "Noch 10 tote befreun-\ndete Diener",
+                    "Muertes amistosas restantes: 10",
+                    "Muertes de aliados restantes: 10",
+                    "Morts d’alliés restantes : 10",
+                    "Morti dei tuoi servitori rimaste: 10",
+                    "あと10体味方が死ぬと召喚",
+                    "남은 아군 죽음 횟수: 10",
+                    "Jeszcze 10 przyjaznych zgonów.",
+                    "Mortes de aliados restantes: 10",
+                    "Еще 10 смертей ваших существ",
+                    "ฝ่ายคุณต้องตายอีก: 10",
+                    "剩余友方随从死亡数：10",
+                    "仍需下葬10個友方手下"
+                ],
+                "m_locId": 2716879
+            }
+        },
+        {
+            "m_ID": 9,
+            "m_noteDesc": "DALA Prison Break string 6",
+            "m_text": {
+                "m_locValues": [
+                    "Turns until prison break: 6",
+                    "Züge bis zum Ausbruch: 6",
+                    "Turnos hasta la fuga de la prisión: 6",
+                    "Faltan 6 turnos para la fuga",
+                    "Tours avant évasion : 6",
+                    "Turni rimasti all'evasione: 6",
+                    "脱獄まであと6ターン",
+                    "탈옥까지: 6턴",
+                    "Tury do ucieczki z więzienia: 6",
+                    "Turnos até a fuga da prisão: 6",
+                    "До побега осталось 6 ходов",
+                    "จำนวนเทิร์น\nก่อนแหกคุก: 6",
+                    "6回合后逃脱囚室",
+                    "6回合後越獄"
+                ],
+                "m_locId": 2710210
+            }
+        }
+    ]
+}

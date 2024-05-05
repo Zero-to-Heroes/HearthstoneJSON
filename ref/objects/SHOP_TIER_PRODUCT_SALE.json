@@ -1,0 +1,166 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 1097760086534939915
+    },
+    "m_Name": "SHOP_TIER_PRODUCT_SALE",
+    "Records": [
+        {
+            "m_ID": 0,
+            "m_tierId": 1,
+            "m_noteDesc": "Welcome Bundle",
+            "m_slotIndex": 0,
+            "m_pmtProductId": 40369,
+            "m_event": "always"
+        },
+        {
+            "m_ID": 0,
+            "m_tierId": 2,
+            "m_noteDesc": "15.2 - Saviors of Uldum Pre-Purchase Mega Bundle",
+            "m_slotIndex": 0,
+            "m_pmtProductId": 55531,
+            "m_event": "always"
+        },
+        {
+            "m_ID": 0,
+            "m_tierId": 2,
+            "m_noteDesc": "15.2 - Saviors of Uldum Pre-Purchase",
+            "m_slotIndex": 1,
+            "m_pmtProductId": 55530,
+            "m_event": "always"
+        },
+        {
+            "m_ID": 0,
+            "m_tierId": 3,
+            "m_noteDesc": "15.0 - Saviors of Uldum Booster Packs",
+            "m_slotIndex": 0,
+            "m_pmtProductId": 60990,
+            "m_event": "always"
+        },
+        {
+            "m_ID": 0,
+            "m_tierId": 3,
+            "m_noteDesc": "14.0 - Rise of Shadows Booster Packs",
+            "m_slotIndex": 1,
+            "m_pmtProductId": 48471,
+            "m_event": "always"
+        },
+        {
+            "m_ID": 0,
+            "m_tierId": 3,
+            "m_noteDesc": "13.0 - Rastakhan's Rumble Booster Packs",
+            "m_slotIndex": 2,
+            "m_pmtProductId": 44450,
+            "m_event": "always"
+        },
+        {
+            "m_ID": 0,
+            "m_tierId": 3,
+            "m_noteDesc": "12.0 - Boomsday Project Booster Packs",
+            "m_slotIndex": 3,
+            "m_pmtProductId": 38899,
+            "m_event": "always"
+        },
+        {
+            "m_ID": 0,
+            "m_tierId": 3,
+            "m_noteDesc": "11.0 - Witchwood Booster Packs",
+            "m_slotIndex": 4,
+            "m_pmtProductId": 35932,
+            "m_event": "always"
+        },
+        {
+            "m_ID": 0,
+            "m_tierId": 3,
+            "m_noteDesc": "Classic Booster Packs",
+            "m_slotIndex": 5,
+            "m_pmtProductId": 237,
+            "m_event": "always"
+        },
+        {
+            "m_ID": 0,
+            "m_tierId": 4,
+            "m_noteDesc": "14.2 - The Dalaran Heist Adventure",
+            "m_slotIndex": 0,
+            "m_pmtProductId": 48930,
+            "m_event": "always"
+        },
+        {
+            "m_ID": 0,
+            "m_tierId": 5,
+            "m_noteDesc": "10.0 - Kobolds & Catacombs Booster Packs",
+            "m_slotIndex": 0,
+            "m_pmtProductId": 32310,
+            "m_event": "always"
+        },
+        {
+            "m_ID": 0,
+            "m_tierId": 5,
+            "m_noteDesc": "9.0 - Knights of the Frozen Throne Booster Packs",
+            "m_slotIndex": 1,
+            "m_pmtProductId": 26750,
+            "m_event": "always"
+        },
+        {
+            "m_ID": 0,
+            "m_tierId": 5,
+            "m_noteDesc": "8.0 - Journey to Un'Goro Booster Packs",
+            "m_slotIndex": 2,
+            "m_pmtProductId": 22829,
+            "m_event": "always"
+        },
+        {
+            "m_ID": 0,
+            "m_tierId": 6,
+            "m_noteDesc": "7.0 - Mean Streets of Gadgetzan Booster Packs",
+            "m_slotIndex": 0,
+            "m_pmtProductId": 22648,
+            "m_event": "always"
+        },
+        {
+            "m_ID": 0,
+            "m_tierId": 6,
+            "m_noteDesc": "5.0 - Whispers of the Old Gods Booster Packs",
+            "m_slotIndex": 1,
+            "m_pmtProductId": 21589,
+            "m_event": "always"
+        },
+        {
+            "m_ID": 0,
+            "m_tierId": 7,
+            "m_noteDesc": "3.0 - The Grand Tournament Booster Packs",
+            "m_slotIndex": 0,
+            "m_pmtProductId": 20282,
+            "m_event": "always"
+        },
+        {
+            "m_ID": 0,
+            "m_tierId": 7,
+            "m_noteDesc": "2.0 - Goblins vs Gnomes Booster Packs",
+            "m_slotIndex": 1,
+            "m_pmtProductId": 10815,
+            "m_event": "always"
+        },
+        {
+            "m_ID": 0,
+            "m_tierId": 9,
+            "m_noteDesc": "Test Product",
+            "m_slotIndex": 0,
+            "m_pmtProductId": 65653,
+            "m_event": "always"
+        },
+        {
+            "m_ID": 0,
+            "m_tierId": 9,
+            "m_noteDesc": "",
+            "m_slotIndex": 1,
+            "m_pmtProductId": 22282,
+            "m_event": "always"
+        }
+    ]
+}

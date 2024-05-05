@@ -1,0 +1,3654 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 9166680240867261500
+    },
+    "m_Name": "MYTHIC_ABILITY_SCALING_CARD_TAG",
+    "Records": [
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 101,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 101,
+            "m_tagId": 3,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 111,
+            "m_tagId": 2,
+            "m_tagScaleValue": 5,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 111,
+            "m_tagId": 3,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 115,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 116,
+            "m_tagId": 2,
+            "m_tagScaleValue": 4,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 120,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 120,
+            "m_tagId": 3,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 122,
+            "m_tagId": 2,
+            "m_tagScaleValue": 4,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 126,
+            "m_tagId": 2,
+            "m_tagScaleValue": 5,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 132,
+            "m_tagId": 2,
+            "m_tagScaleValue": 8,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 133,
+            "m_tagId": 2,
+            "m_tagScaleValue": 4,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 135,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 135,
+            "m_tagId": 3,
+            "m_tagScaleValue": 5,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 140,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 174,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 18,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 196,
+            "m_tagId": 2,
+            "m_tagScaleValue": 6,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 196,
+            "m_tagId": 3,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 198,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 198,
+            "m_tagId": 3,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 200,
+            "m_tagId": 2,
+            "m_tagScaleValue": 4,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 207,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 209,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 209,
+            "m_tagId": 3,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 216,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 22,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 223,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 225,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 229,
+            "m_tagId": 2,
+            "m_tagScaleValue": 6,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 231,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 231,
+            "m_tagId": 3,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 233,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 234,
+            "m_tagId": 47,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 234,
+            "m_tagId": 45,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 234,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 243,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 243,
+            "m_tagId": 3,
+            "m_tagScaleValue": 4,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 245,
+            "m_tagId": 2,
+            "m_tagScaleValue": 4,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 246,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 246,
+            "m_tagId": 3,
+            "m_tagScaleValue": 5,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 247,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 249,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 249,
+            "m_tagId": 47,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 249,
+            "m_tagId": 45,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 25,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 25,
+            "m_tagId": 3,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 26,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 263,
+            "m_tagId": 2,
+            "m_tagScaleValue": 4,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 264,
+            "m_tagId": 2,
+            "m_tagScaleValue": 5,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 264,
+            "m_tagId": 3,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 269,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 27,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 27,
+            "m_tagId": 3,
+            "m_tagScaleValue": 4,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 271,
+            "m_tagId": 47,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 271,
+            "m_tagId": 45,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 271,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 271,
+            "m_tagId": 3,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 282,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 284,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 286,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 287,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 289,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 293,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 297,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 297,
+            "m_tagId": 3,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 298,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 3,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 3,
+            "m_tagId": 3,
+            "m_tagScaleValue": 5,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 30,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 300,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 301,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 301,
+            "m_tagId": 3,
+            "m_tagScaleValue": 6,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 302,
+            "m_tagId": 2,
+            "m_tagScaleValue": 5,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 306,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 308,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 309,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 310,
+            "m_tagId": 47,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 310,
+            "m_tagId": 45,
+            "m_tagScaleValue": 4,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 319,
+            "m_tagId": 45,
+            "m_tagScaleValue": 4,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 319,
+            "m_tagId": 47,
+            "m_tagScaleValue": 4,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 323,
+            "m_tagId": 2,
+            "m_tagScaleValue": 4,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 324,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 331,
+            "m_tagId": 2,
+            "m_tagScaleValue": 4,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 331,
+            "m_tagId": 3,
+            "m_tagScaleValue": 5,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 333,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 333,
+            "m_tagId": 3,
+            "m_tagScaleValue": 4,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 337,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 338,
+            "m_tagId": 47,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 338,
+            "m_tagId": 45,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 339,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 34,
+            "m_tagId": 2,
+            "m_tagScaleValue": 4,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 348,
+            "m_tagId": 47,
+            "m_tagScaleValue": 4,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 348,
+            "m_tagId": 45,
+            "m_tagScaleValue": 4,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 357,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 36,
+            "m_tagId": 2,
+            "m_tagScaleValue": 4,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 368,
+            "m_tagId": 2,
+            "m_tagScaleValue": 4,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 37,
+            "m_tagId": 47,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 37,
+            "m_tagId": 45,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 391,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 4,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 4,
+            "m_tagId": 3,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 4,
+            "m_tagId": 2889,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 415,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 42,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 44,
+            "m_tagId": 2,
+            "m_tagScaleValue": 4,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 463,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 463,
+            "m_tagId": 3,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 464,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 464,
+            "m_tagId": 3,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 465,
+            "m_tagId": 45,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 47,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 47,
+            "m_tagId": 3,
+            "m_tagScaleValue": 5,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 489,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 490,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 491,
+            "m_tagId": 2,
+            "m_tagScaleValue": 10,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 494,
+            "m_tagId": 2,
+            "m_tagScaleValue": 4,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 505,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 505,
+            "m_tagId": 3,
+            "m_tagScaleValue": 5,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 506,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 506,
+            "m_tagId": 3,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 507,
+            "m_tagId": 2,
+            "m_tagScaleValue": 4,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 507,
+            "m_tagId": 3,
+            "m_tagScaleValue": 8,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 518,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 518,
+            "m_tagId": 3,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 519,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 522,
+            "m_tagId": 2,
+            "m_tagScaleValue": 10,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 524,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 525,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 526,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 527,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 528,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 528,
+            "m_tagId": 3,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 529,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 530,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 531,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 532,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 532,
+            "m_tagId": 3,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 533,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 533,
+            "m_tagId": 3,
+            "m_tagScaleValue": 4,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 534,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 534,
+            "m_tagId": 3,
+            "m_tagScaleValue": 4,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 535,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 536,
+            "m_tagId": 2,
+            "m_tagScaleValue": 4,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 537,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 538,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 538,
+            "m_tagId": 3,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 539,
+            "m_tagId": 2,
+            "m_tagScaleValue": 4,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 542,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 543,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 544,
+            "m_tagId": 47,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 544,
+            "m_tagId": 45,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 545,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 545,
+            "m_tagId": 3,
+            "m_tagScaleValue": 6,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 547,
+            "m_tagId": 2,
+            "m_tagScaleValue": 6,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 547,
+            "m_tagId": 3,
+            "m_tagScaleValue": 10,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 549,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 550,
+            "m_tagId": 2,
+            "m_tagScaleValue": 4,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 550,
+            "m_tagId": 3,
+            "m_tagScaleValue": 6,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 553,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 554,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 556,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 556,
+            "m_tagId": 3,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 558,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 558,
+            "m_tagId": 3,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 559,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 560,
+            "m_tagId": 2,
+            "m_tagScaleValue": 4,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 561,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 561,
+            "m_tagId": 3,
+            "m_tagScaleValue": 4,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 564,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 565,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 567,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 568,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 568,
+            "m_tagId": 3,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 568,
+            "m_tagId": 2889,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 571,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 572,
+            "m_tagId": 2,
+            "m_tagScaleValue": 4,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 573,
+            "m_tagId": 2,
+            "m_tagScaleValue": 5,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 574,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 578,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 578,
+            "m_tagId": 3,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 58,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 58,
+            "m_tagId": 3,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 580,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 580,
+            "m_tagId": 3,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 582,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 583,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 589,
+            "m_tagId": 2,
+            "m_tagScaleValue": 5,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 59,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 590,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 590,
+            "m_tagId": 3,
+            "m_tagScaleValue": 5,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 592,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 62,
+            "m_tagId": 2,
+            "m_tagScaleValue": 4,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 65,
+            "m_tagId": 2,
+            "m_tagScaleValue": 10,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 656,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 657,
+            "m_tagId": 2,
+            "m_tagScaleValue": 4,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 666,
+            "m_tagId": 3,
+            "m_tagScaleValue": 4,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 667,
+            "m_tagId": 2,
+            "m_tagScaleValue": 4,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 668,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 668,
+            "m_tagId": 3,
+            "m_tagScaleValue": 5,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 669,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 670,
+            "m_tagId": 2,
+            "m_tagScaleValue": 4,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 671,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 672,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 672,
+            "m_tagId": 3,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 673,
+            "m_tagId": 2,
+            "m_tagScaleValue": 5,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 680,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 681,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 682,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 683,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 684,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 685,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 685,
+            "m_tagId": 3,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 686,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 687,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 688,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 690,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 690,
+            "m_tagId": 3,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 691,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 692,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 692,
+            "m_tagId": 3,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 694,
+            "m_tagId": 2,
+            "m_tagScaleValue": 4,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 695,
+            "m_tagId": 2,
+            "m_tagScaleValue": 10,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 696,
+            "m_tagId": 2,
+            "m_tagScaleValue": 4,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 696,
+            "m_tagId": 3,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 697,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 698,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 698,
+            "m_tagId": 3,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 699,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 7,
+            "m_tagId": 47,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 7,
+            "m_tagId": 45,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 70,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 700,
+            "m_tagId": 2,
+            "m_tagScaleValue": 5,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 700,
+            "m_tagId": 2889,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 701,
+            "m_tagId": 2,
+            "m_tagScaleValue": 4,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 701,
+            "m_tagId": 2889,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 735,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 736,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 736,
+            "m_tagId": 3,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 737,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 738,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 739,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 741,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 742,
+            "m_tagId": 2,
+            "m_tagScaleValue": 5,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 746,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 746,
+            "m_tagId": 3,
+            "m_tagScaleValue": 6,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 747,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 749,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 749,
+            "m_tagId": 3,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 750,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 751,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 751,
+            "m_tagId": 3,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 757,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 759,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 759,
+            "m_tagId": 3,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 76,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 760,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 763,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 764,
+            "m_tagId": 3,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 765,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 766,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 767,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 768,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 768,
+            "m_tagId": 2889,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 769,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 770,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 772,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 772,
+            "m_tagId": 3,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 773,
+            "m_tagId": 47,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 773,
+            "m_tagId": 45,
+            "m_tagScaleValue": 5,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 774,
+            "m_tagId": 2,
+            "m_tagScaleValue": 4,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 775,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 776,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 777,
+            "m_tagId": 47,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 777,
+            "m_tagId": 45,
+            "m_tagScaleValue": 4,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 777,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 778,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 778,
+            "m_tagId": 3,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 779,
+            "m_tagId": 2,
+            "m_tagScaleValue": 4,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 780,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 780,
+            "m_tagId": 3,
+            "m_tagScaleValue": 5,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 780,
+            "m_tagId": 2889,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 781,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 781,
+            "m_tagId": 3,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 782,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 782,
+            "m_tagId": 3,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 783,
+            "m_tagId": 2,
+            "m_tagScaleValue": 4,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 786,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 787,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 787,
+            "m_tagId": 3,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 788,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 796,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 796,
+            "m_tagId": 3,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 797,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 798,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 798,
+            "m_tagId": 3,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 799,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 799,
+            "m_tagId": 3,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 800,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 800,
+            "m_tagId": 3,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 802,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 802,
+            "m_tagId": 3,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 803,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 804,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 808,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 809,
+            "m_tagId": 2,
+            "m_tagScaleValue": 4,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 809,
+            "m_tagId": 3,
+            "m_tagScaleValue": 4,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 810,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 811,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 812,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 813,
+            "m_tagId": 2,
+            "m_tagScaleValue": 5,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 814,
+            "m_tagId": 47,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 814,
+            "m_tagId": 45,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 827,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 827,
+            "m_tagId": 3,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 828,
+            "m_tagId": 47,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 828,
+            "m_tagId": 45,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 828,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 829,
+            "m_tagId": 2,
+            "m_tagScaleValue": 4,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 833,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 834,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 834,
+            "m_tagId": 3,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 834,
+            "m_tagId": 2889,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 834,
+            "m_tagId": 2919,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 834,
+            "m_tagId": 2920,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 835,
+            "m_tagId": 2,
+            "m_tagScaleValue": 5,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 835,
+            "m_tagId": 3,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 841,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 843,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 843,
+            "m_tagId": 3,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 847,
+            "m_tagId": 47,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 847,
+            "m_tagId": 45,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 848,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 849,
+            "m_tagId": 2,
+            "m_tagScaleValue": 4,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 850,
+            "m_tagId": 2,
+            "m_tagScaleValue": 4,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 850,
+            "m_tagId": 3,
+            "m_tagScaleValue": 4,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 851,
+            "m_tagId": 2,
+            "m_tagScaleValue": 4,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 857,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 858,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 859,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 86,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 872,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 873,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 873,
+            "m_tagId": 3,
+            "m_tagScaleValue": 4,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 874,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 875,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 875,
+            "m_tagId": 3,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 876,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 876,
+            "m_tagId": 3,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 881,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 882,
+            "m_tagId": 2,
+            "m_tagScaleValue": 4,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 883,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 883,
+            "m_tagId": 3,
+            "m_tagScaleValue": 5,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 884,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 885,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 886,
+            "m_tagId": 2,
+            "m_tagScaleValue": 8,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 888,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 888,
+            "m_tagId": 3,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 889,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 890,
+            "m_tagId": 2,
+            "m_tagScaleValue": 5,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 891,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 891,
+            "m_tagId": 3,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 892,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 892,
+            "m_tagId": 3,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 893,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 894,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 895,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 896,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 897,
+            "m_tagId": 2,
+            "m_tagScaleValue": 4,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 898,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 899,
+            "m_tagId": 2,
+            "m_tagScaleValue": 4,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 900,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 901,
+            "m_tagId": 2,
+            "m_tagScaleValue": 5,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 901,
+            "m_tagId": 3,
+            "m_tagScaleValue": 5,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 902,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 903,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 903,
+            "m_tagId": 3,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 904,
+            "m_tagId": 2,
+            "m_tagScaleValue": 4,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 915,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 916,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 918,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 919,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 920,
+            "m_tagId": 3,
+            "m_tagScaleValue": 4,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 924,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 926,
+            "m_tagId": 2,
+            "m_tagScaleValue": 4,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 927,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 927,
+            "m_tagId": 3,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 928,
+            "m_tagId": 2,
+            "m_tagScaleValue": 4,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 929,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 929,
+            "m_tagId": 3,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 93,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 936,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 936,
+            "m_tagId": 3,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 937,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 937,
+            "m_tagId": 3,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 938,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 939,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 940,
+            "m_tagId": 2,
+            "m_tagScaleValue": 5,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 942,
+            "m_tagId": 2,
+            "m_tagScaleValue": 4,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 944,
+            "m_tagId": 2,
+            "m_tagScaleValue": 4,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 944,
+            "m_tagId": 3,
+            "m_tagScaleValue": 10,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 945,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 946,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 946,
+            "m_tagId": 3,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 947,
+            "m_tagId": 3,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 949,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 950,
+            "m_tagId": 2,
+            "m_tagScaleValue": 4,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 951,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 952,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 953,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 953,
+            "m_tagId": 3,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 954,
+            "m_tagId": 47,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 954,
+            "m_tagId": 3,
+            "m_tagScaleValue": 5,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 954,
+            "m_tagId": 45,
+            "m_tagScaleValue": 4,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 955,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 956,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 956,
+            "m_tagId": 3,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 957,
+            "m_tagId": 2,
+            "m_tagScaleValue": 5,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 959,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 960,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 961,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 962,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 963,
+            "m_tagId": 2,
+            "m_tagScaleValue": 4,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 964,
+            "m_tagId": 3,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 965,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 965,
+            "m_tagId": 3,
+            "m_tagScaleValue": 4,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 966,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 966,
+            "m_tagId": 3,
+            "m_tagScaleValue": 4,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 968,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 969,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 970,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 970,
+            "m_tagId": 3,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 974,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 975,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 975,
+            "m_tagId": 3,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 976,
+            "m_tagId": 2,
+            "m_tagScaleValue": 4,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 977,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 978,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 978,
+            "m_tagId": 3,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 978,
+            "m_tagId": 2889,
+            "m_tagScaleValue": 15,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 979,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 979,
+            "m_tagId": 3,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 980,
+            "m_tagId": 3,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 981,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 981,
+            "m_tagId": 3,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 982,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 982,
+            "m_tagId": 3,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 984,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 985,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 986,
+            "m_tagId": 2,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 989,
+            "m_tagId": 2,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 989,
+            "m_tagId": 3,
+            "m_tagScaleValue": 1,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 990,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 990,
+            "m_tagId": 3,
+            "m_tagScaleValue": 2,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        },
+        {
+            "m_ID": 0,
+            "m_lettuceAbilityId": 991,
+            "m_tagId": 2,
+            "m_tagScaleValue": 3,
+            "m_isReferenceTag": 0,
+            "m_isPowerKeywordTag": 0
+        }
+    ]
+}

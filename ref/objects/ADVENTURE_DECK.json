@@ -1,0 +1,2510 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -5328148054428764623
+    },
+    "m_Name": "ADVENTURE_DECK",
+    "Records": [
+        {
+            "m_ID": 57,
+            "m_adventureId": 438,
+            "m_classId": 2,
+            "m_deckId": 1947,
+            "m_sortOrder": 0,
+            "m_unlockCriteriaText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_unlockedDescriptionText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_unlockGameSaveSubkeyId": 0,
+            "m_unlockValue": 0,
+            "m_displayTexture": "DT_Druid_DALA_1.mat:f972e20ab0bd357459375e08cc0de855"
+        },
+        {
+            "m_ID": 58,
+            "m_adventureId": 438,
+            "m_classId": 2,
+            "m_deckId": 1948,
+            "m_sortOrder": 1,
+            "m_unlockCriteriaText": {
+                "m_locValues": [
+                    "Defeat Bosses\n{0}/{1}",
+                    "Besiegt Bosse: {0}/{1}",
+                    "Derrota a los jefes\n{0}/{1}",
+                    "Derrota jefes\n{0}/{1}",
+                    "Vaincre un boss\n{0}/{1}",
+                    "Sconfiggi i boss\n{0}/{1}",
+                    "ボスを倒す\n{0}/{1}",
+                    "우두머리 처치\n{0}/{1}",
+                    "Pokonaj bossów\n{0}/{1}",
+                    "Derrotar Chefes\n{0}/{1}",
+                    "Победите боссов\n{0}/{1}",
+                    "เอาชนะบอส\n{0}/{1}",
+                    "击败首领\n{0}/{1}",
+                    "擊敗的首領\n{0}/{1}"
+                ],
+                "m_locId": 2709548
+            },
+            "m_unlockedDescriptionText": {
+                "m_locValues": [
+                    "Defeated {0} Bosses!",
+                    "{0} Bosse besiegt!",
+                    "Jefes derrotados: {0}",
+                    "¡{0} jefes derrotados!",
+                    "{0} boss vaincus !",
+                    "Hai sconfitto {0} boss!",
+                    "ボスを{0}体倒した！",
+                    "우두머리 {0}마리 처치 완료!",
+                    "Pokonani bossowie: {0}!",
+                    "Derrotou {0} Chefes!",
+                    "Побеждено боссов: {0}",
+                    "เอาชนะบอสไปแล้ว {0} ตัว!",
+                    "已击败{0}个首领！",
+                    "已擊敗{0}個首領"
+                ],
+                "m_locId": 2711124
+            },
+            "m_unlockGameSaveSubkeyId": 86,
+            "m_unlockValue": 5,
+            "m_displayTexture": "DT_Druid_DALA_2.mat:b68303fb79e634b41ab518d7b62c88f9"
+        },
+        {
+            "m_ID": 59,
+            "m_adventureId": 438,
+            "m_classId": 2,
+            "m_deckId": 1949,
+            "m_sortOrder": 2,
+            "m_unlockCriteriaText": {
+                "m_locValues": [
+                    "Defeat Bosses\n{0}/{1}",
+                    "Besiegt Bosse: {0}/{1}",
+                    "Derrota a los jefes\n{0}/{1}",
+                    "Derrota jefes\n{0}/{1}",
+                    "Vaincre un boss\n{0}/{1}",
+                    "Sconfiggi i boss\n{0}/{1}",
+                    "ボスを倒す\n{0}/{1}",
+                    "우두머리 처치\n{0}/{1}",
+                    "Pokonaj bossów\n{0}/{1}",
+                    "Derrotar Chefes\n{0}/{1}",
+                    "Победите боссов\n{0}/{1}",
+                    "เอาชนะบอส\n{0}/{1}",
+                    "击败首领\n{0}/{1}",
+                    "擊敗的首領\n{0}/{1}"
+                ],
+                "m_locId": 2709549
+            },
+            "m_unlockedDescriptionText": {
+                "m_locValues": [
+                    "Defeated {0} Bosses!",
+                    "{0} Bosse besiegt!",
+                    "Jefes derrotados: {0}",
+                    "¡{0} jefes derrotados!",
+                    "{0} boss vaincus !",
+                    "Hai sconfitto {0} boss!",
+                    "ボスを{0}体倒した！",
+                    "우두머리 {0}마리 처치 완료!",
+                    "Pokonani bossowie: {0}!",
+                    "Derrotou {0} Chefes!",
+                    "Побеждено боссов: {0}",
+                    "เอาชนะบอสไปแล้ว {0} ตัว!",
+                    "已击败{0}个首领！",
+                    "已擊敗{0}個首領"
+                ],
+                "m_locId": 2711125
+            },
+            "m_unlockGameSaveSubkeyId": 86,
+            "m_unlockValue": 10,
+            "m_displayTexture": "DT_Druid_DALA_3.mat:c5ce6d76b75b9ae499e91301d02a5f4b"
+        },
+        {
+            "m_ID": 60,
+            "m_adventureId": 438,
+            "m_classId": 2,
+            "m_deckId": 1982,
+            "m_sortOrder": 3,
+            "m_unlockCriteriaText": {
+                "m_locValues": [
+                    "Defeat Bosses\n{0}/{1}",
+                    "Besiegt Bosse: {0}/{1}",
+                    "Derrota a los jefes\n{0}/{1}",
+                    "Derrota jefes\n{0}/{1}",
+                    "Vaincre un boss\n{0}/{1}",
+                    "Sconfiggi i boss\n{0}/{1}",
+                    "ボスを倒す\n{0}/{1}",
+                    "우두머리 처치\n{0}/{1}",
+                    "Pokonaj bossów\n{0}/{1}",
+                    "Derrotar Chefes\n{0}/{1}",
+                    "Победите боссов\n{0}/{1}",
+                    "เอาชนะบอส\n{0}/{1}",
+                    "击败首领\n{0}/{1}",
+                    "擊敗的首領\n{0}/{1}"
+                ],
+                "m_locId": 2709550
+            },
+            "m_unlockedDescriptionText": {
+                "m_locValues": [
+                    "Defeated {0} Bosses!",
+                    "{0} Bosse besiegt!",
+                    "Jefes derrotados: {0}",
+                    "¡{0} jefes derrotados!",
+                    "{0} boss vaincus !",
+                    "Hai sconfitto {0} boss!",
+                    "ボスを{0}体倒した！",
+                    "우두머리 {0}마리 처치 완료!",
+                    "Pokonani bossowie: {0}!",
+                    "Derrotou {0} Chefes!",
+                    "Побеждено боссов: {0}",
+                    "เอาชนะบอสไปแล้ว {0} ตัว!",
+                    "已击败{0}个首领！",
+                    "已擊敗{0}個首領"
+                ],
+                "m_locId": 2711126
+            },
+            "m_unlockGameSaveSubkeyId": 86,
+            "m_unlockValue": 15,
+            "m_displayTexture": "DT_Random_DALA_Deck_of_Wonders.mat:14ef4ab64bdc1ac499c1fbe7dfb1056b"
+        },
+        {
+            "m_ID": 61,
+            "m_adventureId": 438,
+            "m_classId": 3,
+            "m_deckId": 1959,
+            "m_sortOrder": 0,
+            "m_unlockCriteriaText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_unlockedDescriptionText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_unlockGameSaveSubkeyId": 0,
+            "m_unlockValue": 0,
+            "m_displayTexture": "DT_Hunter_DALA_1.mat:56f5ed691c61e4a45b0af384a3661ee9"
+        },
+        {
+            "m_ID": 62,
+            "m_adventureId": 438,
+            "m_classId": 3,
+            "m_deckId": 1957,
+            "m_sortOrder": 1,
+            "m_unlockCriteriaText": {
+                "m_locValues": [
+                    "Defeat Bosses\n{0}/{1}",
+                    "Besiegt Bosse: {0}/{1}",
+                    "Derrota a los jefes\n{0}/{1}",
+                    "Derrota jefes\n{0}/{1}",
+                    "Vaincre un boss\n{0}/{1}",
+                    "Sconfiggi i boss\n{0}/{1}",
+                    "ボスを倒す\n{0}/{1}",
+                    "우두머리 처치\n{0}/{1}",
+                    "Pokonaj bossów\n{0}/{1}",
+                    "Derrotar Chefes\n{0}/{1}",
+                    "Победите боссов\n{0}/{1}",
+                    "เอาชนะบอส\n{0}/{1}",
+                    "击败首领\n{0}/{1}",
+                    "擊敗的首領\n{0}/{1}"
+                ],
+                "m_locId": 2709552
+            },
+            "m_unlockedDescriptionText": {
+                "m_locValues": [
+                    "Defeated {0} Bosses!",
+                    "{0} Bosse besiegt!",
+                    "Jefes derrotados: {0}",
+                    "¡{0} jefes derrotados!",
+                    "{0} boss vaincus !",
+                    "Hai sconfitto {0} boss!",
+                    "ボスを{0}体倒した！",
+                    "우두머리 {0}마리 처치 완료!",
+                    "Pokonani bossowie: {0}!",
+                    "Derrotou {0} Chefes!",
+                    "Побеждено боссов: {0}",
+                    "เอาชนะบอสไปแล้ว {0} ตัว!",
+                    "已击败{0}个首领！",
+                    "已擊敗{0}個首領"
+                ],
+                "m_locId": 2711127
+            },
+            "m_unlockGameSaveSubkeyId": 96,
+            "m_unlockValue": 5,
+            "m_displayTexture": "DT_Hunter_DALA_2.mat:655039c60154af7418bb4c66a305436f"
+        },
+        {
+            "m_ID": 63,
+            "m_adventureId": 438,
+            "m_classId": 3,
+            "m_deckId": 1958,
+            "m_sortOrder": 2,
+            "m_unlockCriteriaText": {
+                "m_locValues": [
+                    "Defeat Bosses\n{0}/{1}",
+                    "Besiegt Bosse: {0}/{1}",
+                    "Derrota a los jefes\n{0}/{1}",
+                    "Derrota jefes\n{0}/{1}",
+                    "Vaincre un boss\n{0}/{1}",
+                    "Sconfiggi i boss\n{0}/{1}",
+                    "ボスを倒す\n{0}/{1}",
+                    "우두머리 처치\n{0}/{1}",
+                    "Pokonaj bossów\n{0}/{1}",
+                    "Derrotar Chefes\n{0}/{1}",
+                    "Победите боссов\n{0}/{1}",
+                    "เอาชนะบอส\n{0}/{1}",
+                    "击败首领\n{0}/{1}",
+                    "擊敗的首領\n{0}/{1}"
+                ],
+                "m_locId": 2709553
+            },
+            "m_unlockedDescriptionText": {
+                "m_locValues": [
+                    "Defeated {0} Bosses!",
+                    "{0} Bosse besiegt!",
+                    "Jefes derrotados: {0}",
+                    "¡{0} jefes derrotados!",
+                    "{0} boss vaincus !",
+                    "Hai sconfitto {0} boss!",
+                    "ボスを{0}体倒した！",
+                    "우두머리 {0}마리 처치 완료!",
+                    "Pokonani bossowie: {0}!",
+                    "Derrotou {0} Chefes!",
+                    "Побеждено боссов: {0}",
+                    "เอาชนะบอสไปแล้ว {0} ตัว!",
+                    "已击败{0}个首领！",
+                    "已擊敗{0}個首領"
+                ],
+                "m_locId": 2711128
+            },
+            "m_unlockGameSaveSubkeyId": 96,
+            "m_unlockValue": 10,
+            "m_displayTexture": "DT_Hunter_DALA_3.mat:9ee6f2baf12d2394c99ab0af3e467b76"
+        },
+        {
+            "m_ID": 64,
+            "m_adventureId": 438,
+            "m_classId": 3,
+            "m_deckId": 1981,
+            "m_sortOrder": 3,
+            "m_unlockCriteriaText": {
+                "m_locValues": [
+                    "Defeat Bosses\n{0}/{1}",
+                    "Besiegt Bosse: {0}/{1}",
+                    "Derrota a los jefes\n{0}/{1}",
+                    "Derrota jefes\n{0}/{1}",
+                    "Vaincre un boss\n{0}/{1}",
+                    "Sconfiggi i boss\n{0}/{1}",
+                    "ボスを倒す\n{0}/{1}",
+                    "우두머리 처치\n{0}/{1}",
+                    "Pokonaj bossów\n{0}/{1}",
+                    "Derrotar Chefes\n{0}/{1}",
+                    "Победите боссов\n{0}/{1}",
+                    "เอาชนะบอส\n{0}/{1}",
+                    "击败首领\n{0}/{1}",
+                    "擊敗的首領\n{0}/{1}"
+                ],
+                "m_locId": 2709554
+            },
+            "m_unlockedDescriptionText": {
+                "m_locValues": [
+                    "Defeated {0} Bosses!",
+                    "{0} Bosse besiegt!",
+                    "Jefes derrotados: {0}",
+                    "¡{0} jefes derrotados!",
+                    "{0} boss vaincus !",
+                    "Hai sconfitto {0} boss!",
+                    "ボスを{0}体倒した！",
+                    "우두머리 {0}마리 처치 완료!",
+                    "Pokonani bossowie: {0}!",
+                    "Derrotou {0} Chefes!",
+                    "Побеждено боссов: {0}",
+                    "เอาชนะบอสไปแล้ว {0} ตัว!",
+                    "已击败{0}个首领！",
+                    "已擊敗{0}個首領"
+                ],
+                "m_locId": 2711129
+            },
+            "m_unlockGameSaveSubkeyId": 96,
+            "m_unlockValue": 15,
+            "m_displayTexture": "DT_Random_DALA_Deck_of_Wonders.mat:14ef4ab64bdc1ac499c1fbe7dfb1056b"
+        },
+        {
+            "m_ID": 65,
+            "m_adventureId": 438,
+            "m_classId": 4,
+            "m_deckId": 1966,
+            "m_sortOrder": 0,
+            "m_unlockCriteriaText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_unlockedDescriptionText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_unlockGameSaveSubkeyId": 0,
+            "m_unlockValue": 0,
+            "m_displayTexture": "DT_Mage_DALA_1.mat:77f3d6a52804fe44cbf3eb8e2c3063ca"
+        },
+        {
+            "m_ID": 66,
+            "m_adventureId": 438,
+            "m_classId": 4,
+            "m_deckId": 1965,
+            "m_sortOrder": 1,
+            "m_unlockCriteriaText": {
+                "m_locValues": [
+                    "Defeat Bosses\n{0}/{1}",
+                    "Besiegt Bosse: {0}/{1}",
+                    "Derrota a los jefes\n{0}/{1}",
+                    "Derrota jefes\n{0}/{1}",
+                    "Vaincre un boss\n{0}/{1}",
+                    "Sconfiggi i boss\n{0}/{1}",
+                    "ボスを倒す\n{0}/{1}",
+                    "우두머리 처치\n{0}/{1}",
+                    "Pokonaj bossów\n{0}/{1}",
+                    "Derrotar Chefes\n{0}/{1}",
+                    "Победите боссов\n{0}/{1}",
+                    "เอาชนะบอส\n{0}/{1}",
+                    "击败首领\n{0}/{1}",
+                    "擊敗的首領\n{0}/{1}"
+                ],
+                "m_locId": 2709556
+            },
+            "m_unlockedDescriptionText": {
+                "m_locValues": [
+                    "Defeated {0} Bosses!",
+                    "{0} Bosse besiegt!",
+                    "Jefes derrotados: {0}",
+                    "¡{0} jefes derrotados!",
+                    "{0} boss vaincus !",
+                    "Hai sconfitto {0} boss!",
+                    "ボスを{0}体倒した！",
+                    "우두머리 {0}마리 처치 완료!",
+                    "Pokonani bossowie: {0}!",
+                    "Derrotou {0} Chefes!",
+                    "Побеждено боссов: {0}",
+                    "เอาชนะบอสไปแล้ว {0} ตัว!",
+                    "已击败{0}个首领！",
+                    "已擊敗{0}個首領"
+                ],
+                "m_locId": 2711130
+            },
+            "m_unlockGameSaveSubkeyId": 98,
+            "m_unlockValue": 5,
+            "m_displayTexture": "DT_Mage_DALA_2.mat:f4dc90cfeb073a7488cfd5dabc854a74"
+        },
+        {
+            "m_ID": 67,
+            "m_adventureId": 438,
+            "m_classId": 4,
+            "m_deckId": 1967,
+            "m_sortOrder": 2,
+            "m_unlockCriteriaText": {
+                "m_locValues": [
+                    "Defeat Bosses\n{0}/{1}",
+                    "Besiegt Bosse: {0}/{1}",
+                    "Derrota a los jefes\n{0}/{1}",
+                    "Derrota jefes\n{0}/{1}",
+                    "Vaincre un boss\n{0}/{1}",
+                    "Sconfiggi i boss\n{0}/{1}",
+                    "ボスを倒す\n{0}/{1}",
+                    "우두머리 처치\n{0}/{1}",
+                    "Pokonaj bossów\n{0}/{1}",
+                    "Derrotar Chefes\n{0}/{1}",
+                    "Победите боссов\n{0}/{1}",
+                    "เอาชนะบอส\n{0}/{1}",
+                    "击败首领\n{0}/{1}",
+                    "擊敗的首領\n{0}/{1}"
+                ],
+                "m_locId": 2709557
+            },
+            "m_unlockedDescriptionText": {
+                "m_locValues": [
+                    "Defeated {0} Bosses!",
+                    "{0} Bosse besiegt!",
+                    "Jefes derrotados: {0}",
+                    "¡{0} jefes derrotados!",
+                    "{0} boss vaincus !",
+                    "Hai sconfitto {0} boss!",
+                    "ボスを{0}体倒した！",
+                    "우두머리 {0}마리 처치 완료!",
+                    "Pokonani bossowie: {0}!",
+                    "Derrotou {0} Chefes!",
+                    "Побеждено боссов: {0}",
+                    "เอาชนะบอสไปแล้ว {0} ตัว!",
+                    "已击败{0}个首领！",
+                    "已擊敗{0}個首領"
+                ],
+                "m_locId": 2711131
+            },
+            "m_unlockGameSaveSubkeyId": 98,
+            "m_unlockValue": 10,
+            "m_displayTexture": "DT_Mage_DALA_3.mat:56e0f1b6bcf409c4f8d2c202101c5676"
+        },
+        {
+            "m_ID": 68,
+            "m_adventureId": 438,
+            "m_classId": 4,
+            "m_deckId": 1979,
+            "m_sortOrder": 3,
+            "m_unlockCriteriaText": {
+                "m_locValues": [
+                    "Defeat Bosses\n{0}/{1}",
+                    "Besiegt Bosse: {0}/{1}",
+                    "Derrota a los jefes\n{0}/{1}",
+                    "Derrota jefes\n{0}/{1}",
+                    "Vaincre un boss\n{0}/{1}",
+                    "Sconfiggi i boss\n{0}/{1}",
+                    "ボスを倒す\n{0}/{1}",
+                    "우두머리 처치\n{0}/{1}",
+                    "Pokonaj bossów\n{0}/{1}",
+                    "Derrotar Chefes\n{0}/{1}",
+                    "Победите боссов\n{0}/{1}",
+                    "เอาชนะบอส\n{0}/{1}",
+                    "击败首领\n{0}/{1}",
+                    "擊敗的首領\n{0}/{1}"
+                ],
+                "m_locId": 2709558
+            },
+            "m_unlockedDescriptionText": {
+                "m_locValues": [
+                    "Defeated {0} Bosses!",
+                    "{0} Bosse besiegt!",
+                    "Jefes derrotados: {0}",
+                    "¡{0} jefes derrotados!",
+                    "{0} boss vaincus !",
+                    "Hai sconfitto {0} boss!",
+                    "ボスを{0}体倒した！",
+                    "우두머리 {0}마리 처치 완료!",
+                    "Pokonani bossowie: {0}!",
+                    "Derrotou {0} Chefes!",
+                    "Побеждено боссов: {0}",
+                    "เอาชนะบอสไปแล้ว {0} ตัว!",
+                    "已击败{0}个首领！",
+                    "已擊敗{0}個首領"
+                ],
+                "m_locId": 2711132
+            },
+            "m_unlockGameSaveSubkeyId": 98,
+            "m_unlockValue": 15,
+            "m_displayTexture": "DT_Random_DALA_Deck_of_Wonders.mat:14ef4ab64bdc1ac499c1fbe7dfb1056b"
+        },
+        {
+            "m_ID": 69,
+            "m_adventureId": 438,
+            "m_classId": 5,
+            "m_deckId": 1950,
+            "m_sortOrder": 0,
+            "m_unlockCriteriaText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_unlockedDescriptionText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_unlockGameSaveSubkeyId": 0,
+            "m_unlockValue": 0,
+            "m_displayTexture": "DT_Paladin_DALA_1.mat:9a5bef9f6ef6f19489d0279e173bab7a"
+        },
+        {
+            "m_ID": 70,
+            "m_adventureId": 438,
+            "m_classId": 5,
+            "m_deckId": 1951,
+            "m_sortOrder": 1,
+            "m_unlockCriteriaText": {
+                "m_locValues": [
+                    "Defeat Bosses\n{0}/{1}",
+                    "Besiegt Bosse: {0}/{1}",
+                    "Derrota a los jefes\n{0}/{1}",
+                    "Derrota jefes\n{0}/{1}",
+                    "Vaincre un boss\n{0}/{1}",
+                    "Sconfiggi i boss\n{0}/{1}",
+                    "ボスを倒す\n{0}/{1}",
+                    "우두머리 처치\n{0}/{1}",
+                    "Pokonaj bossów\n{0}/{1}",
+                    "Derrotar Chefes\n{0}/{1}",
+                    "Победите боссов\n{0}/{1}",
+                    "เอาชนะบอส\n{0}/{1}",
+                    "击败首领\n{0}/{1}",
+                    "擊敗的首領\n{0}/{1}"
+                ],
+                "m_locId": 2709560
+            },
+            "m_unlockedDescriptionText": {
+                "m_locValues": [
+                    "Defeated {0} Bosses!",
+                    "{0} Bosse besiegt!",
+                    "Jefes derrotados: {0}",
+                    "¡{0} jefes derrotados!",
+                    "{0} boss vaincus !",
+                    "Hai sconfitto {0} boss!",
+                    "ボスを{0}体倒した！",
+                    "우두머리 {0}마리 처치 완료!",
+                    "Pokonani bossowie: {0}!",
+                    "Derrotou {0} Chefes!",
+                    "Побеждено боссов: {0}",
+                    "เอาชนะบอสไปแล้ว {0} ตัว!",
+                    "已击败{0}个首领！",
+                    "已擊敗{0}個首領"
+                ],
+                "m_locId": 2711133
+            },
+            "m_unlockGameSaveSubkeyId": 82,
+            "m_unlockValue": 5,
+            "m_displayTexture": "DT_Paladin_DALA_2.mat:a10d06a37fd561445bf50fc3f7d28ad7"
+        },
+        {
+            "m_ID": 71,
+            "m_adventureId": 438,
+            "m_classId": 5,
+            "m_deckId": 1952,
+            "m_sortOrder": 2,
+            "m_unlockCriteriaText": {
+                "m_locValues": [
+                    "Defeat Bosses\n{0}/{1}",
+                    "Besiegt Bosse: {0}/{1}",
+                    "Derrota a los jefes\n{0}/{1}",
+                    "Derrota jefes\n{0}/{1}",
+                    "Vaincre un boss\n{0}/{1}",
+                    "Sconfiggi i boss\n{0}/{1}",
+                    "ボスを倒す\n{0}/{1}",
+                    "우두머리 처치\n{0}/{1}",
+                    "Pokonaj bossów\n{0}/{1}",
+                    "Derrotar Chefes\n{0}/{1}",
+                    "Победите боссов\n{0}/{1}",
+                    "เอาชนะบอส\n{0}/{1}",
+                    "击败首领\n{0}/{1}",
+                    "擊敗的首領\n{0}/{1}"
+                ],
+                "m_locId": 2709561
+            },
+            "m_unlockedDescriptionText": {
+                "m_locValues": [
+                    "Defeated {0} Bosses!",
+                    "{0} Bosse besiegt!",
+                    "Jefes derrotados: {0}",
+                    "¡{0} jefes derrotados!",
+                    "{0} boss vaincus !",
+                    "Hai sconfitto {0} boss!",
+                    "ボスを{0}体倒した！",
+                    "우두머리 {0}마리 처치 완료!",
+                    "Pokonani bossowie: {0}!",
+                    "Derrotou {0} Chefes!",
+                    "Побеждено боссов: {0}",
+                    "เอาชนะบอสไปแล้ว {0} ตัว!",
+                    "已击败{0}个首领！",
+                    "已擊敗{0}個首領"
+                ],
+                "m_locId": 2711134
+            },
+            "m_unlockGameSaveSubkeyId": 82,
+            "m_unlockValue": 10,
+            "m_displayTexture": "DT_Paladin_DALA_3.mat:e507c3be0dd5f5a4b99dd79d4a81f2db"
+        },
+        {
+            "m_ID": 72,
+            "m_adventureId": 438,
+            "m_classId": 5,
+            "m_deckId": 1983,
+            "m_sortOrder": 3,
+            "m_unlockCriteriaText": {
+                "m_locValues": [
+                    "Defeat Bosses\n{0}/{1}",
+                    "Besiegt Bosse: {0}/{1}",
+                    "Derrota a los jefes\n{0}/{1}",
+                    "Derrota jefes\n{0}/{1}",
+                    "Vaincre un boss\n{0}/{1}",
+                    "Sconfiggi i boss\n{0}/{1}",
+                    "ボスを倒す\n{0}/{1}",
+                    "우두머리 처치\n{0}/{1}",
+                    "Pokonaj bossów\n{0}/{1}",
+                    "Derrotar Chefes\n{0}/{1}",
+                    "Победите боссов\n{0}/{1}",
+                    "เอาชนะบอส\n{0}/{1}",
+                    "击败首领\n{0}/{1}",
+                    "擊敗的首領\n{0}/{1}"
+                ],
+                "m_locId": 2709562
+            },
+            "m_unlockedDescriptionText": {
+                "m_locValues": [
+                    "Defeated {0} Bosses!",
+                    "{0} Bosse besiegt!",
+                    "Jefes derrotados: {0}",
+                    "¡{0} jefes derrotados!",
+                    "{0} boss vaincus !",
+                    "Hai sconfitto {0} boss!",
+                    "ボスを{0}体倒した！",
+                    "우두머리 {0}마리 처치 완료!",
+                    "Pokonani bossowie: {0}!",
+                    "Derrotou {0} Chefes!",
+                    "Побеждено боссов: {0}",
+                    "เอาชนะบอสไปแล้ว {0} ตัว!",
+                    "已击败{0}个首领！",
+                    "已擊敗{0}個首領"
+                ],
+                "m_locId": 2711135
+            },
+            "m_unlockGameSaveSubkeyId": 82,
+            "m_unlockValue": 15,
+            "m_displayTexture": "DT_Random_DALA_Deck_of_Wonders.mat:14ef4ab64bdc1ac499c1fbe7dfb1056b"
+        },
+        {
+            "m_ID": 73,
+            "m_adventureId": 438,
+            "m_classId": 6,
+            "m_deckId": 1953,
+            "m_sortOrder": 0,
+            "m_unlockCriteriaText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_unlockedDescriptionText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_unlockGameSaveSubkeyId": 0,
+            "m_unlockValue": 0,
+            "m_displayTexture": "DT_Priest_DALA_1.mat:c4218b7aee549c744b1ff3076eb4b890"
+        },
+        {
+            "m_ID": 74,
+            "m_adventureId": 438,
+            "m_classId": 6,
+            "m_deckId": 1960,
+            "m_sortOrder": 1,
+            "m_unlockCriteriaText": {
+                "m_locValues": [
+                    "Defeat Bosses\n{0}/{1}",
+                    "Besiegt Bosse: {0}/{1}",
+                    "Derrota a los jefes\n{0}/{1}",
+                    "Derrota jefes\n{0}/{1}",
+                    "Vaincre un boss\n{0}/{1}",
+                    "Sconfiggi i boss\n{0}/{1}",
+                    "ボスを倒す\n{0}/{1}",
+                    "우두머리 처치\n{0}/{1}",
+                    "Pokonaj bossów\n{0}/{1}",
+                    "Derrotar Chefes\n{0}/{1}",
+                    "Победите боссов\n{0}/{1}",
+                    "เอาชนะบอส\n{0}/{1}",
+                    "击败首领\n{0}/{1}",
+                    "擊敗的首領\n{0}/{1}"
+                ],
+                "m_locId": 2709564
+            },
+            "m_unlockedDescriptionText": {
+                "m_locValues": [
+                    "Defeated {0} Bosses!",
+                    "{0} Bosse besiegt!",
+                    "Jefes derrotados: {0}",
+                    "¡{0} jefes derrotados!",
+                    "{0} boss vaincus !",
+                    "Hai sconfitto {0} boss!",
+                    "ボスを{0}体倒した！",
+                    "우두머리 {0}마리 처치 완료!",
+                    "Pokonani bossowie: {0}!",
+                    "Derrotou {0} Chefes!",
+                    "Побеждено боссов: {0}",
+                    "เอาชนะบอสไปแล้ว {0} ตัว!",
+                    "已击败{0}个首领！",
+                    "已擊敗{0}個首領"
+                ],
+                "m_locId": 2711136
+            },
+            "m_unlockGameSaveSubkeyId": 92,
+            "m_unlockValue": 5,
+            "m_displayTexture": "DT_Priest_DALA_2.mat:832c3fcf24b99334888d211972120fce"
+        },
+        {
+            "m_ID": 75,
+            "m_adventureId": 438,
+            "m_classId": 6,
+            "m_deckId": 1961,
+            "m_sortOrder": 2,
+            "m_unlockCriteriaText": {
+                "m_locValues": [
+                    "Defeat Bosses\n{0}/{1}",
+                    "Besiegt Bosse: {0}/{1}",
+                    "Derrota a los jefes\n{0}/{1}",
+                    "Derrota jefes\n{0}/{1}",
+                    "Vaincre un boss\n{0}/{1}",
+                    "Sconfiggi i boss\n{0}/{1}",
+                    "ボスを倒す\n{0}/{1}",
+                    "우두머리 처치\n{0}/{1}",
+                    "Pokonaj bossów\n{0}/{1}",
+                    "Derrotar Chefes\n{0}/{1}",
+                    "Победите боссов\n{0}/{1}",
+                    "เอาชนะบอส\n{0}/{1}",
+                    "击败首领\n{0}/{1}",
+                    "擊敗的首領\n{0}/{1}"
+                ],
+                "m_locId": 2709565
+            },
+            "m_unlockedDescriptionText": {
+                "m_locValues": [
+                    "Defeated {0} Bosses!",
+                    "{0} Bosse besiegt!",
+                    "Jefes derrotados: {0}",
+                    "¡{0} jefes derrotados!",
+                    "{0} boss vaincus !",
+                    "Hai sconfitto {0} boss!",
+                    "ボスを{0}体倒した！",
+                    "우두머리 {0}마리 처치 완료!",
+                    "Pokonani bossowie: {0}!",
+                    "Derrotou {0} Chefes!",
+                    "Побеждено боссов: {0}",
+                    "เอาชนะบอสไปแล้ว {0} ตัว!",
+                    "已击败{0}个首领！",
+                    "已擊敗{0}個首領"
+                ],
+                "m_locId": 2711137
+            },
+            "m_unlockGameSaveSubkeyId": 92,
+            "m_unlockValue": 10,
+            "m_displayTexture": "DT_Priest_DALA_3.mat:321e14e240e09094fa54e69587782d15"
+        },
+        {
+            "m_ID": 76,
+            "m_adventureId": 438,
+            "m_classId": 6,
+            "m_deckId": 1984,
+            "m_sortOrder": 3,
+            "m_unlockCriteriaText": {
+                "m_locValues": [
+                    "Defeat Bosses\n{0}/{1}",
+                    "Besiegt Bosse: {0}/{1}",
+                    "Derrota a los jefes\n{0}/{1}",
+                    "Derrota jefes\n{0}/{1}",
+                    "Vaincre un boss\n{0}/{1}",
+                    "Sconfiggi i boss\n{0}/{1}",
+                    "ボスを倒す\n{0}/{1}",
+                    "우두머리 처치\n{0}/{1}",
+                    "Pokonaj bossów\n{0}/{1}",
+                    "Derrotar Chefes\n{0}/{1}",
+                    "Победите боссов\n{0}/{1}",
+                    "เอาชนะบอส\n{0}/{1}",
+                    "击败首领\n{0}/{1}",
+                    "擊敗的首領\n{0}/{1}"
+                ],
+                "m_locId": 2709566
+            },
+            "m_unlockedDescriptionText": {
+                "m_locValues": [
+                    "Defeated {0} Bosses!",
+                    "{0} Bosse besiegt!",
+                    "Jefes derrotados: {0}",
+                    "¡{0} jefes derrotados!",
+                    "{0} boss vaincus !",
+                    "Hai sconfitto {0} boss!",
+                    "ボスを{0}体倒した！",
+                    "우두머리 {0}마리 처치 완료!",
+                    "Pokonani bossowie: {0}!",
+                    "Derrotou {0} Chefes!",
+                    "Побеждено боссов: {0}",
+                    "เอาชนะบอสไปแล้ว {0} ตัว!",
+                    "已击败{0}个首领！",
+                    "已擊敗{0}個首領"
+                ],
+                "m_locId": 2711138
+            },
+            "m_unlockGameSaveSubkeyId": 92,
+            "m_unlockValue": 15,
+            "m_displayTexture": "DT_Random_DALA_Deck_of_Wonders.mat:14ef4ab64bdc1ac499c1fbe7dfb1056b"
+        },
+        {
+            "m_ID": 77,
+            "m_adventureId": 438,
+            "m_classId": 7,
+            "m_deckId": 1963,
+            "m_sortOrder": 0,
+            "m_unlockCriteriaText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_unlockedDescriptionText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_unlockGameSaveSubkeyId": 0,
+            "m_unlockValue": 0,
+            "m_displayTexture": "DT_Rogue_DALA_1.mat:14a2989f1ac5f5347ab654b4b8cc2ca9"
+        },
+        {
+            "m_ID": 78,
+            "m_adventureId": 438,
+            "m_classId": 7,
+            "m_deckId": 1962,
+            "m_sortOrder": 1,
+            "m_unlockCriteriaText": {
+                "m_locValues": [
+                    "Defeat Bosses\n{0}/{1}",
+                    "Besiegt Bosse: {0}/{1}",
+                    "Derrota a los jefes\n{0}/{1}",
+                    "Derrota jefes\n{0}/{1}",
+                    "Vaincre un boss\n{0}/{1}",
+                    "Sconfiggi i boss\n{0}/{1}",
+                    "ボスを倒す\n{0}/{1}",
+                    "우두머리 처치\n{0}/{1}",
+                    "Pokonaj bossów\n{0}/{1}",
+                    "Derrotar Chefes\n{0}/{1}",
+                    "Победите боссов\n{0}/{1}",
+                    "เอาชนะบอส\n{0}/{1}",
+                    "击败首领\n{0}/{1}",
+                    "擊敗的首領\n{0}/{1}"
+                ],
+                "m_locId": 2709568
+            },
+            "m_unlockedDescriptionText": {
+                "m_locValues": [
+                    "Defeated {0} Bosses!",
+                    "{0} Bosse besiegt!",
+                    "Jefes derrotados: {0}",
+                    "¡{0} jefes derrotados!",
+                    "{0} boss vaincus !",
+                    "Hai sconfitto {0} boss!",
+                    "ボスを{0}体倒した！",
+                    "우두머리 {0}마리 처치 완료!",
+                    "Pokonani bossowie: {0}!",
+                    "Derrotou {0} Chefes!",
+                    "Побеждено боссов: {0}",
+                    "เอาชนะบอสไปแล้ว {0} ตัว!",
+                    "已击败{0}个首领！",
+                    "已擊敗{0}個首領"
+                ],
+                "m_locId": 2711139
+            },
+            "m_unlockGameSaveSubkeyId": 88,
+            "m_unlockValue": 5,
+            "m_displayTexture": "DT_Rogue_DALA_2.mat:d0d36a2f1d6ee194cbd0a367996b7cbe"
+        },
+        {
+            "m_ID": 79,
+            "m_adventureId": 438,
+            "m_classId": 7,
+            "m_deckId": 1974,
+            "m_sortOrder": 2,
+            "m_unlockCriteriaText": {
+                "m_locValues": [
+                    "Defeat Bosses\n{0}/{1}",
+                    "Besiegt Bosse: {0}/{1}",
+                    "Derrota a los jefes\n{0}/{1}",
+                    "Derrota jefes\n{0}/{1}",
+                    "Vaincre un boss\n{0}/{1}",
+                    "Sconfiggi i boss\n{0}/{1}",
+                    "ボスを倒す\n{0}/{1}",
+                    "우두머리 처치\n{0}/{1}",
+                    "Pokonaj bossów\n{0}/{1}",
+                    "Derrotar Chefes\n{0}/{1}",
+                    "Победите боссов\n{0}/{1}",
+                    "เอาชนะบอส\n{0}/{1}",
+                    "击败首领\n{0}/{1}",
+                    "擊敗的首領\n{0}/{1}"
+                ],
+                "m_locId": 2709569
+            },
+            "m_unlockedDescriptionText": {
+                "m_locValues": [
+                    "Defeated {0} Bosses!",
+                    "{0} Bosse besiegt!",
+                    "Jefes derrotados: {0}",
+                    "¡{0} jefes derrotados!",
+                    "{0} boss vaincus !",
+                    "Hai sconfitto {0} boss!",
+                    "ボスを{0}体倒した！",
+                    "우두머리 {0}마리 처치 완료!",
+                    "Pokonani bossowie: {0}!",
+                    "Derrotou {0} Chefes!",
+                    "Побеждено боссов: {0}",
+                    "เอาชนะบอสไปแล้ว {0} ตัว!",
+                    "已击败{0}个首领！",
+                    "已擊敗{0}個首領"
+                ],
+                "m_locId": 2711140
+            },
+            "m_unlockGameSaveSubkeyId": 88,
+            "m_unlockValue": 10,
+            "m_displayTexture": "DT_Rogue_DALA_3.mat:1fc37cf4f336de246bb003e2fc57ccfc"
+        },
+        {
+            "m_ID": 80,
+            "m_adventureId": 438,
+            "m_classId": 7,
+            "m_deckId": 1985,
+            "m_sortOrder": 3,
+            "m_unlockCriteriaText": {
+                "m_locValues": [
+                    "Defeat Bosses\n{0}/{1}",
+                    "Besiegt Bosse: {0}/{1}",
+                    "Derrota a los jefes\n{0}/{1}",
+                    "Derrota jefes\n{0}/{1}",
+                    "Vaincre un boss\n{0}/{1}",
+                    "Sconfiggi i boss\n{0}/{1}",
+                    "ボスを倒す\n{0}/{1}",
+                    "우두머리 처치\n{0}/{1}",
+                    "Pokonaj bossów\n{0}/{1}",
+                    "Derrotar Chefes\n{0}/{1}",
+                    "Победите боссов\n{0}/{1}",
+                    "เอาชนะบอส\n{0}/{1}",
+                    "击败首领\n{0}/{1}",
+                    "擊敗的首領\n{0}/{1}"
+                ],
+                "m_locId": 2709570
+            },
+            "m_unlockedDescriptionText": {
+                "m_locValues": [
+                    "Defeated {0} Bosses!",
+                    "{0} Bosse besiegt!",
+                    "Jefes derrotados: {0}",
+                    "¡{0} jefes derrotados!",
+                    "{0} boss vaincus !",
+                    "Hai sconfitto {0} boss!",
+                    "ボスを{0}体倒した！",
+                    "우두머리 {0}마리 처치 완료!",
+                    "Pokonani bossowie: {0}!",
+                    "Derrotou {0} Chefes!",
+                    "Побеждено боссов: {0}",
+                    "เอาชนะบอสไปแล้ว {0} ตัว!",
+                    "已击败{0}个首领！",
+                    "已擊敗{0}個首領"
+                ],
+                "m_locId": 2711141
+            },
+            "m_unlockGameSaveSubkeyId": 88,
+            "m_unlockValue": 15,
+            "m_displayTexture": "DT_Random_DALA_Deck_of_Wonders.mat:14ef4ab64bdc1ac499c1fbe7dfb1056b"
+        },
+        {
+            "m_ID": 81,
+            "m_adventureId": 438,
+            "m_classId": 8,
+            "m_deckId": 1969,
+            "m_sortOrder": 0,
+            "m_unlockCriteriaText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_unlockedDescriptionText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_unlockGameSaveSubkeyId": 0,
+            "m_unlockValue": 0,
+            "m_displayTexture": "DT_Shaman_DALA_1.mat:2d0cb5355ba6f6e4cb8cd99f74ba82b8"
+        },
+        {
+            "m_ID": 82,
+            "m_adventureId": 438,
+            "m_classId": 8,
+            "m_deckId": 1968,
+            "m_sortOrder": 1,
+            "m_unlockCriteriaText": {
+                "m_locValues": [
+                    "Defeat Bosses\n{0}/{1}",
+                    "Besiegt Bosse: {0}/{1}",
+                    "Derrota a los jefes\n{0}/{1}",
+                    "Derrota jefes\n{0}/{1}",
+                    "Vaincre un boss\n{0}/{1}",
+                    "Sconfiggi i boss\n{0}/{1}",
+                    "ボスを倒す\n{0}/{1}",
+                    "우두머리 처치\n{0}/{1}",
+                    "Pokonaj bossów\n{0}/{1}",
+                    "Derrotar Chefes\n{0}/{1}",
+                    "Победите боссов\n{0}/{1}",
+                    "เอาชนะบอส\n{0}/{1}",
+                    "击败首领\n{0}/{1}",
+                    "擊敗的首領\n{0}/{1}"
+                ],
+                "m_locId": 2709572
+            },
+            "m_unlockedDescriptionText": {
+                "m_locValues": [
+                    "Defeated {0} Bosses!",
+                    "{0} Bosse besiegt!",
+                    "Jefes derrotados: {0}",
+                    "¡{0} jefes derrotados!",
+                    "{0} boss vaincus !",
+                    "Hai sconfitto {0} boss!",
+                    "ボスを{0}体倒した！",
+                    "우두머리 {0}마리 처치 완료!",
+                    "Pokonani bossowie: {0}!",
+                    "Derrotou {0} Chefes!",
+                    "Побеждено боссов: {0}",
+                    "เอาชนะบอสไปแล้ว {0} ตัว!",
+                    "已击败{0}个首领！",
+                    "已擊敗{0}個首領"
+                ],
+                "m_locId": 2711142
+            },
+            "m_unlockGameSaveSubkeyId": 90,
+            "m_unlockValue": 5,
+            "m_displayTexture": "DT_Shaman_DALA_2.mat:0eaec548168f3004eb678dc3753ceb73"
+        },
+        {
+            "m_ID": 83,
+            "m_adventureId": 438,
+            "m_classId": 8,
+            "m_deckId": 1970,
+            "m_sortOrder": 2,
+            "m_unlockCriteriaText": {
+                "m_locValues": [
+                    "Defeat Bosses\n{0}/{1}",
+                    "Besiegt Bosse: {0}/{1}",
+                    "Derrota a los jefes\n{0}/{1}",
+                    "Derrota jefes\n{0}/{1}",
+                    "Vaincre un boss\n{0}/{1}",
+                    "Sconfiggi i boss\n{0}/{1}",
+                    "ボスを倒す\n{0}/{1}",
+                    "우두머리 처치\n{0}/{1}",
+                    "Pokonaj bossów\n{0}/{1}",
+                    "Derrotar Chefes\n{0}/{1}",
+                    "Победите боссов\n{0}/{1}",
+                    "เอาชนะบอส\n{0}/{1}",
+                    "击败首领\n{0}/{1}",
+                    "擊敗的首領\n{0}/{1}"
+                ],
+                "m_locId": 2709573
+            },
+            "m_unlockedDescriptionText": {
+                "m_locValues": [
+                    "Defeated {0} Bosses!",
+                    "{0} Bosse besiegt!",
+                    "Jefes derrotados: {0}",
+                    "¡{0} jefes derrotados!",
+                    "{0} boss vaincus !",
+                    "Hai sconfitto {0} boss!",
+                    "ボスを{0}体倒した！",
+                    "우두머리 {0}마리 처치 완료!",
+                    "Pokonani bossowie: {0}!",
+                    "Derrotou {0} Chefes!",
+                    "Побеждено боссов: {0}",
+                    "เอาชนะบอสไปแล้ว {0} ตัว!",
+                    "已击败{0}个首领！",
+                    "已擊敗{0}個首領"
+                ],
+                "m_locId": 2711143
+            },
+            "m_unlockGameSaveSubkeyId": 90,
+            "m_unlockValue": 10,
+            "m_displayTexture": "DT_Shaman_DALA_3.mat:a304271f59520d647b9363398eda6612"
+        },
+        {
+            "m_ID": 84,
+            "m_adventureId": 438,
+            "m_classId": 8,
+            "m_deckId": 1986,
+            "m_sortOrder": 3,
+            "m_unlockCriteriaText": {
+                "m_locValues": [
+                    "Defeat Bosses\n{0}/{1}",
+                    "Besiegt Bosse: {0}/{1}",
+                    "Derrota a los jefes\n{0}/{1}",
+                    "Derrota jefes\n{0}/{1}",
+                    "Vaincre un boss\n{0}/{1}",
+                    "Sconfiggi i boss\n{0}/{1}",
+                    "ボスを倒す\n{0}/{1}",
+                    "우두머리 처치\n{0}/{1}",
+                    "Pokonaj bossów\n{0}/{1}",
+                    "Derrotar Chefes\n{0}/{1}",
+                    "Победите боссов\n{0}/{1}",
+                    "เอาชนะบอส\n{0}/{1}",
+                    "击败首领\n{0}/{1}",
+                    "擊敗的首領\n{0}/{1}"
+                ],
+                "m_locId": 2709574
+            },
+            "m_unlockedDescriptionText": {
+                "m_locValues": [
+                    "Defeated {0} Bosses!",
+                    "{0} Bosse besiegt!",
+                    "Jefes derrotados: {0}",
+                    "¡{0} jefes derrotados!",
+                    "{0} boss vaincus !",
+                    "Hai sconfitto {0} boss!",
+                    "ボスを{0}体倒した！",
+                    "우두머리 {0}마리 처치 완료!",
+                    "Pokonani bossowie: {0}!",
+                    "Derrotou {0} Chefes!",
+                    "Побеждено боссов: {0}",
+                    "เอาชนะบอสไปแล้ว {0} ตัว!",
+                    "已击败{0}个首领！",
+                    "已擊敗{0}個首領"
+                ],
+                "m_locId": 2711144
+            },
+            "m_unlockGameSaveSubkeyId": 90,
+            "m_unlockValue": 15,
+            "m_displayTexture": "DT_Random_DALA_Deck_of_Wonders.mat:14ef4ab64bdc1ac499c1fbe7dfb1056b"
+        },
+        {
+            "m_ID": 85,
+            "m_adventureId": 438,
+            "m_classId": 9,
+            "m_deckId": 1973,
+            "m_sortOrder": 0,
+            "m_unlockCriteriaText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_unlockedDescriptionText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_unlockGameSaveSubkeyId": 0,
+            "m_unlockValue": 0,
+            "m_displayTexture": "DT_Warlock_DALA_1.mat:3a693f9f50e2e7047a87d57f18905a73"
+        },
+        {
+            "m_ID": 86,
+            "m_adventureId": 438,
+            "m_classId": 9,
+            "m_deckId": 1971,
+            "m_sortOrder": 1,
+            "m_unlockCriteriaText": {
+                "m_locValues": [
+                    "Defeat Bosses\n{0}/{1}",
+                    "Besiegt Bosse: {0}/{1}",
+                    "Derrota a los jefes\n{0}/{1}",
+                    "Derrota jefes\n{0}/{1}",
+                    "Vaincre un boss\n{0}/{1}",
+                    "Sconfiggi i boss\n{0}/{1}",
+                    "ボスを倒す\n{0}/{1}",
+                    "우두머리 처치\n{0}/{1}",
+                    "Pokonaj bossów\n{0}/{1}",
+                    "Derrotar Chefes\n{0}/{1}",
+                    "Победите боссов\n{0}/{1}",
+                    "เอาชนะบอส\n{0}/{1}",
+                    "击败首领\n{0}/{1}",
+                    "擊敗的首領\n{0}/{1}"
+                ],
+                "m_locId": 2709576
+            },
+            "m_unlockedDescriptionText": {
+                "m_locValues": [
+                    "Defeated {0} Bosses!",
+                    "{0} Bosse besiegt!",
+                    "Jefes derrotados: {0}",
+                    "¡{0} jefes derrotados!",
+                    "{0} boss vaincus !",
+                    "Hai sconfitto {0} boss!",
+                    "ボスを{0}体倒した！",
+                    "우두머리 {0}마리 처치 완료!",
+                    "Pokonani bossowie: {0}!",
+                    "Derrotou {0} Chefes!",
+                    "Побеждено боссов: {0}",
+                    "เอาชนะบอสไปแล้ว {0} ตัว!",
+                    "已击败{0}个首领！",
+                    "已擊敗{0}個首領"
+                ],
+                "m_locId": 2711145
+            },
+            "m_unlockGameSaveSubkeyId": 94,
+            "m_unlockValue": 5,
+            "m_displayTexture": "DT_Warlock_DALA_2.mat:73418e3da37ab8847a46998d6c4deea0"
+        },
+        {
+            "m_ID": 87,
+            "m_adventureId": 438,
+            "m_classId": 9,
+            "m_deckId": 1972,
+            "m_sortOrder": 2,
+            "m_unlockCriteriaText": {
+                "m_locValues": [
+                    "Defeat Bosses\n{0}/{1}",
+                    "Besiegt Bosse: {0}/{1}",
+                    "Derrota a los jefes\n{0}/{1}",
+                    "Derrota jefes\n{0}/{1}",
+                    "Vaincre un boss\n{0}/{1}",
+                    "Sconfiggi i boss\n{0}/{1}",
+                    "ボスを倒す\n{0}/{1}",
+                    "우두머리 처치\n{0}/{1}",
+                    "Pokonaj bossów\n{0}/{1}",
+                    "Derrotar Chefes\n{0}/{1}",
+                    "Победите боссов\n{0}/{1}",
+                    "เอาชนะบอส\n{0}/{1}",
+                    "击败首领\n{0}/{1}",
+                    "擊敗的首領\n{0}/{1}"
+                ],
+                "m_locId": 2709577
+            },
+            "m_unlockedDescriptionText": {
+                "m_locValues": [
+                    "Defeated {0} Bosses!",
+                    "{0} Bosse besiegt!",
+                    "Jefes derrotados: {0}",
+                    "¡{0} jefes derrotados!",
+                    "{0} boss vaincus !",
+                    "Hai sconfitto {0} boss!",
+                    "ボスを{0}体倒した！",
+                    "우두머리 {0}마리 처치 완료!",
+                    "Pokonani bossowie: {0}!",
+                    "Derrotou {0} Chefes!",
+                    "Побеждено боссов: {0}",
+                    "เอาชนะบอสไปแล้ว {0} ตัว!",
+                    "已击败{0}个首领！",
+                    "已擊敗{0}個首領"
+                ],
+                "m_locId": 2711146
+            },
+            "m_unlockGameSaveSubkeyId": 94,
+            "m_unlockValue": 10,
+            "m_displayTexture": "DT_Warlock_DALA_3.mat:b0b27c68f04a2914c8d6d0e26ed6d409"
+        },
+        {
+            "m_ID": 88,
+            "m_adventureId": 438,
+            "m_classId": 9,
+            "m_deckId": 1987,
+            "m_sortOrder": 3,
+            "m_unlockCriteriaText": {
+                "m_locValues": [
+                    "Defeat Bosses\n{0}/{1}",
+                    "Besiegt Bosse: {0}/{1}",
+                    "Derrota a los jefes\n{0}/{1}",
+                    "Derrota jefes\n{0}/{1}",
+                    "Vaincre un boss\n{0}/{1}",
+                    "Sconfiggi i boss\n{0}/{1}",
+                    "ボスを倒す\n{0}/{1}",
+                    "우두머리 처치\n{0}/{1}",
+                    "Pokonaj bossów\n{0}/{1}",
+                    "Derrotar Chefes\n{0}/{1}",
+                    "Победите боссов\n{0}/{1}",
+                    "เอาชนะบอส\n{0}/{1}",
+                    "击败首领\n{0}/{1}",
+                    "擊敗的首領\n{0}/{1}"
+                ],
+                "m_locId": 2709578
+            },
+            "m_unlockedDescriptionText": {
+                "m_locValues": [
+                    "Defeated {0} Bosses!",
+                    "{0} Bosse besiegt!",
+                    "Jefes derrotados: {0}",
+                    "¡{0} jefes derrotados!",
+                    "{0} boss vaincus !",
+                    "Hai sconfitto {0} boss!",
+                    "ボスを{0}体倒した！",
+                    "우두머리 {0}마리 처치 완료!",
+                    "Pokonani bossowie: {0}!",
+                    "Derrotou {0} Chefes!",
+                    "Побеждено боссов: {0}",
+                    "เอาชนะบอสไปแล้ว {0} ตัว!",
+                    "已击败{0}个首领！",
+                    "已擊敗{0}個首領"
+                ],
+                "m_locId": 2711147
+            },
+            "m_unlockGameSaveSubkeyId": 94,
+            "m_unlockValue": 15,
+            "m_displayTexture": "DT_Random_DALA_Deck_of_Wonders.mat:14ef4ab64bdc1ac499c1fbe7dfb1056b"
+        },
+        {
+            "m_ID": 89,
+            "m_adventureId": 438,
+            "m_classId": 10,
+            "m_deckId": 1955,
+            "m_sortOrder": 0,
+            "m_unlockCriteriaText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_unlockedDescriptionText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_unlockGameSaveSubkeyId": 0,
+            "m_unlockValue": 0,
+            "m_displayTexture": "DT_Warrior_DALA_1.mat:5a99fadce2b577048885c7907d36914b"
+        },
+        {
+            "m_ID": 90,
+            "m_adventureId": 438,
+            "m_classId": 10,
+            "m_deckId": 1954,
+            "m_sortOrder": 1,
+            "m_unlockCriteriaText": {
+                "m_locValues": [
+                    "Defeat Bosses\n{0}/{1}",
+                    "Besiegt Bosse: {0}/{1}",
+                    "Derrota a los jefes\n{0}/{1}",
+                    "Derrota jefes\n{0}/{1}",
+                    "Vaincre un boss\n{0}/{1}",
+                    "Sconfiggi i boss\n{0}/{1}",
+                    "ボスを倒す\n{0}/{1}",
+                    "우두머리 처치\n{0}/{1}",
+                    "Pokonaj bossów\n{0}/{1}",
+                    "Derrotar Chefes\n{0}/{1}",
+                    "Победите боссов\n{0}/{1}",
+                    "เอาชนะบอส\n{0}/{1}",
+                    "击败首领\n{0}/{1}",
+                    "擊敗的首領\n{0}/{1}"
+                ],
+                "m_locId": 2709580
+            },
+            "m_unlockedDescriptionText": {
+                "m_locValues": [
+                    "Defeated {0} Bosses!",
+                    "{0} Bosse besiegt!",
+                    "Jefes derrotados: {0}",
+                    "¡{0} jefes derrotados!",
+                    "{0} boss vaincus !",
+                    "Hai sconfitto {0} boss!",
+                    "ボスを{0}体倒した！",
+                    "우두머리 {0}마리 처치 완료!",
+                    "Pokonani bossowie: {0}!",
+                    "Derrotou {0} Chefes!",
+                    "Побеждено боссов: {0}",
+                    "เอาชนะบอสไปแล้ว {0} ตัว!",
+                    "已击败{0}个首领！",
+                    "已擊敗{0}個首領"
+                ],
+                "m_locId": 2711148
+            },
+            "m_unlockGameSaveSubkeyId": 84,
+            "m_unlockValue": 5,
+            "m_displayTexture": "DT_Warrior_DALA_2.mat:eaf2645ce9270b942bed1ce8f253554e"
+        },
+        {
+            "m_ID": 91,
+            "m_adventureId": 438,
+            "m_classId": 10,
+            "m_deckId": 1956,
+            "m_sortOrder": 2,
+            "m_unlockCriteriaText": {
+                "m_locValues": [
+                    "Defeat Bosses\n{0}/{1}",
+                    "Besiegt Bosse: {0}/{1}",
+                    "Derrota a los jefes\n{0}/{1}",
+                    "Derrota jefes\n{0}/{1}",
+                    "Vaincre un boss\n{0}/{1}",
+                    "Sconfiggi i boss\n{0}/{1}",
+                    "ボスを倒す\n{0}/{1}",
+                    "우두머리 처치\n{0}/{1}",
+                    "Pokonaj bossów\n{0}/{1}",
+                    "Derrotar Chefes\n{0}/{1}",
+                    "Победите боссов\n{0}/{1}",
+                    "เอาชนะบอส\n{0}/{1}",
+                    "击败首领\n{0}/{1}",
+                    "擊敗的首領\n{0}/{1}"
+                ],
+                "m_locId": 2709581
+            },
+            "m_unlockedDescriptionText": {
+                "m_locValues": [
+                    "Defeated {0} Bosses!",
+                    "{0} Bosse besiegt!",
+                    "Jefes derrotados: {0}",
+                    "¡{0} jefes derrotados!",
+                    "{0} boss vaincus !",
+                    "Hai sconfitto {0} boss!",
+                    "ボスを{0}体倒した！",
+                    "우두머리 {0}마리 처치 완료!",
+                    "Pokonani bossowie: {0}!",
+                    "Derrotou {0} Chefes!",
+                    "Побеждено боссов: {0}",
+                    "เอาชนะบอสไปแล้ว {0} ตัว!",
+                    "已击败{0}个首领！",
+                    "已擊敗{0}個首領"
+                ],
+                "m_locId": 2711149
+            },
+            "m_unlockGameSaveSubkeyId": 84,
+            "m_unlockValue": 10,
+            "m_displayTexture": "DT_Warrior_DALA_3.mat:c7b510bd81dd7e14fb2e064f4a1ab11f"
+        },
+        {
+            "m_ID": 92,
+            "m_adventureId": 438,
+            "m_classId": 10,
+            "m_deckId": 1988,
+            "m_sortOrder": 3,
+            "m_unlockCriteriaText": {
+                "m_locValues": [
+                    "Defeat Bosses\n{0}/{1}",
+                    "Besiegt Bosse: {0}/{1}",
+                    "Derrota a los jefes\n{0}/{1}",
+                    "Derrota jefes\n{0}/{1}",
+                    "Vaincre un boss\n{0}/{1}",
+                    "Sconfiggi i boss\n{0}/{1}",
+                    "ボスを倒す\n{0}/{1}",
+                    "우두머리 처치\n{0}/{1}",
+                    "Pokonaj bossów\n{0}/{1}",
+                    "Derrotar Chefes\n{0}/{1}",
+                    "Победите боссов\n{0}/{1}",
+                    "เอาชนะบอส\n{0}/{1}",
+                    "击败首领\n{0}/{1}",
+                    "擊敗的首領\n{0}/{1}"
+                ],
+                "m_locId": 2709582
+            },
+            "m_unlockedDescriptionText": {
+                "m_locValues": [
+                    "Defeated {0} Bosses!",
+                    "{0} Bosse besiegt!",
+                    "Jefes derrotados: {0}",
+                    "¡{0} jefes derrotados!",
+                    "{0} boss vaincus !",
+                    "Hai sconfitto {0} boss!",
+                    "ボスを{0}体倒した！",
+                    "우두머리 {0}마리 처치 완료!",
+                    "Pokonani bossowie: {0}!",
+                    "Derrotou {0} Chefes!",
+                    "Побеждено боссов: {0}",
+                    "เอาชนะบอสไปแล้ว {0} ตัว!",
+                    "已击败{0}个首领！",
+                    "已擊敗{0}個首領"
+                ],
+                "m_locId": 2711150
+            },
+            "m_unlockGameSaveSubkeyId": 84,
+            "m_unlockValue": 15,
+            "m_displayTexture": "DT_Random_DALA_Deck_of_Wonders.mat:14ef4ab64bdc1ac499c1fbe7dfb1056b"
+        },
+        {
+            "m_ID": 93,
+            "m_adventureId": 513,
+            "m_classId": 2,
+            "m_deckId": 2564,
+            "m_sortOrder": 0,
+            "m_unlockCriteriaText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_unlockedDescriptionText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_unlockGameSaveSubkeyId": 0,
+            "m_unlockValue": 0,
+            "m_displayTexture": "DT_Elise_ULDA_1.mat:59e18549dc403e248b7501a6ea762d7f"
+        },
+        {
+            "m_ID": 94,
+            "m_adventureId": 513,
+            "m_classId": 2,
+            "m_deckId": 2565,
+            "m_sortOrder": 1,
+            "m_unlockCriteriaText": {
+                "m_locValues": [
+                    "Defeat Bosses\n{0}/{1}",
+                    "Besiegt Bosse: {0}/{1}",
+                    "Derrota a los jefes\n{0}/{1}",
+                    "Derrota jefes\n{0}/{1}",
+                    "Vaincre un boss\n{0}/{1}",
+                    "Sconfiggi i boss\n{0}/{1}",
+                    "ボスを倒す\n{0}/{1}",
+                    "우두머리 처치\n{0}/{1}",
+                    "Pokonaj bossów\n{0}/{1}",
+                    "Derrotar Chefes\n{0}/{1}",
+                    "Победите боссов\n{0}/{1}",
+                    "เอาชนะบอส\n{0}/{1}",
+                    "击败首领\n{0}/{1}",
+                    "擊敗的首領\n{0}/{1}"
+                ],
+                "m_locId": 2713434
+            },
+            "m_unlockedDescriptionText": {
+                "m_locValues": [
+                    "Defeated {0} Bosses!",
+                    "{0} Bosse besiegt!",
+                    "Jefes derrotados: {0}",
+                    "¡{0} jefes derrotados!",
+                    "{0} boss vaincus !",
+                    "Hai sconfitto {0} boss!",
+                    "ボスを{0}体倒した！",
+                    "우두머리 {0}마리 처치 완료!",
+                    "Pokonani bossowie: {0}!",
+                    "Derrotou {0} Chefes!",
+                    "Побеждено боссов: {0}",
+                    "เอาชนะบอสไปแล้ว {0} ตัว!",
+                    "已击败{0}个首领！",
+                    "已擊敗{0}個首領"
+                ],
+                "m_locId": 2713461
+            },
+            "m_unlockGameSaveSubkeyId": 86,
+            "m_unlockValue": 8,
+            "m_displayTexture": "DT_Elise_ULDA_2.mat:930f3267c941f944ea99f4c097aa1822"
+        },
+        {
+            "m_ID": 95,
+            "m_adventureId": 513,
+            "m_classId": 2,
+            "m_deckId": 2566,
+            "m_sortOrder": 2,
+            "m_unlockCriteriaText": {
+                "m_locValues": [
+                    "Defeat Bosses\n{0}/{1}",
+                    "Besiegt Bosse: {0}/{1}",
+                    "Derrota a los jefes\n{0}/{1}",
+                    "Derrota jefes\n{0}/{1}",
+                    "Vaincre un boss\n{0}/{1}",
+                    "Sconfiggi i boss\n{0}/{1}",
+                    "ボスを倒す\n{0}/{1}",
+                    "우두머리 처치\n{0}/{1}",
+                    "Pokonaj bossów\n{0}/{1}",
+                    "Derrotar Chefes\n{0}/{1}",
+                    "Победите боссов\n{0}/{1}",
+                    "เอาชนะบอส\n{0}/{1}",
+                    "击败首领\n{0}/{1}",
+                    "擊敗的首領\n{0}/{1}"
+                ],
+                "m_locId": 2713435
+            },
+            "m_unlockedDescriptionText": {
+                "m_locValues": [
+                    "Defeated {0} Bosses!",
+                    "{0} Bosse besiegt!",
+                    "Jefes derrotados: {0}",
+                    "¡{0} jefes derrotados!",
+                    "{0} boss vaincus !",
+                    "Hai sconfitto {0} boss!",
+                    "ボスを{0}体倒した！",
+                    "우두머리 {0}마리 처치 완료!",
+                    "Pokonani bossowie: {0}!",
+                    "Derrotou {0} Chefes!",
+                    "Побеждено боссов: {0}",
+                    "เอาชนะบอสไปแล้ว {0} ตัว!",
+                    "已击败{0}个首领！",
+                    "已擊敗{0}個首領"
+                ],
+                "m_locId": 2713462
+            },
+            "m_unlockGameSaveSubkeyId": 86,
+            "m_unlockValue": 16,
+            "m_displayTexture": "DT_Elise_ULDA_3.mat:e186fa2afcb88c445840bb9d227a757d"
+        },
+        {
+            "m_ID": 96,
+            "m_adventureId": 513,
+            "m_classId": 2,
+            "m_deckId": 2614,
+            "m_sortOrder": 3,
+            "m_unlockCriteriaText": {
+                "m_locValues": [
+                    "Defeat Bosses\n{0}/{1}",
+                    "Besiegt Bosse: {0}/{1}",
+                    "Derrota a los jefes\n{0}/{1}",
+                    "Derrota jefes\n{0}/{1}",
+                    "Vaincre un boss\n{0}/{1}",
+                    "Sconfiggi i boss\n{0}/{1}",
+                    "ボスを倒す\n{0}/{1}",
+                    "우두머리 처치\n{0}/{1}",
+                    "Pokonaj bossów\n{0}/{1}",
+                    "Derrotar Chefes\n{0}/{1}",
+                    "Победите боссов\n{0}/{1}",
+                    "เอาชนะบอส\n{0}/{1}",
+                    "击败首领\n{0}/{1}",
+                    "擊敗的首領\n{0}/{1}"
+                ],
+                "m_locId": 2713436
+            },
+            "m_unlockedDescriptionText": {
+                "m_locValues": [
+                    "Defeated {0} Bosses!",
+                    "{0} Bosse besiegt!",
+                    "Jefes derrotados: {0}",
+                    "¡{0} jefes derrotados!",
+                    "{0} boss vaincus !",
+                    "Hai sconfitto {0} boss!",
+                    "ボスを{0}体倒した！",
+                    "우두머리 {0}마리 처치 완료!",
+                    "Pokonani bossowie: {0}!",
+                    "Derrotou {0} Chefes!",
+                    "Побеждено боссов: {0}",
+                    "เอาชนะบอสไปแล้ว {0} ตัว!",
+                    "已击败{0}个首领！",
+                    "已擊敗{0}個首領"
+                ],
+                "m_locId": 2713463
+            },
+            "m_unlockGameSaveSubkeyId": 86,
+            "m_unlockValue": 24,
+            "m_displayTexture": "DT_Random_ULDA.mat:5495d736a9f34964fb25dbad40a537a1"
+        },
+        {
+            "m_ID": 97,
+            "m_adventureId": 513,
+            "m_classId": 3,
+            "m_deckId": 2611,
+            "m_sortOrder": 0,
+            "m_unlockCriteriaText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_unlockedDescriptionText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_unlockGameSaveSubkeyId": 0,
+            "m_unlockValue": 0,
+            "m_displayTexture": "DT_Brann_ULDA_1.mat:9216c208c70ceca4e8bf5a83d89feeb4"
+        },
+        {
+            "m_ID": 98,
+            "m_adventureId": 513,
+            "m_classId": 3,
+            "m_deckId": 2612,
+            "m_sortOrder": 1,
+            "m_unlockCriteriaText": {
+                "m_locValues": [
+                    "Defeat Bosses\n{0}/{1}",
+                    "Besiegt Bosse: {0}/{1}",
+                    "Derrota a los jefes\n{0}/{1}",
+                    "Derrota jefes\n{0}/{1}",
+                    "Vaincre un boss\n{0}/{1}",
+                    "Sconfiggi i boss\n{0}/{1}",
+                    "ボスを倒す\n{0}/{1}",
+                    "우두머리 처치\n{0}/{1}",
+                    "Pokonaj bossów\n{0}/{1}",
+                    "Derrotar Chefes\n{0}/{1}",
+                    "Победите боссов\n{0}/{1}",
+                    "เอาชนะบอส\n{0}/{1}",
+                    "击败首领\n{0}/{1}",
+                    "擊敗的首領\n{0}/{1}"
+                ],
+                "m_locId": 2713437
+            },
+            "m_unlockedDescriptionText": {
+                "m_locValues": [
+                    "Defeated {0} Bosses!",
+                    "{0} Bosse besiegt!",
+                    "Jefes derrotados: {0}",
+                    "¡{0} jefes derrotados!",
+                    "{0} boss vaincus !",
+                    "Hai sconfitto {0} boss!",
+                    "ボスを{0}体倒した！",
+                    "우두머리 {0}마리 처치 완료!",
+                    "Pokonani bossowie: {0}!",
+                    "Derrotou {0} Chefes!",
+                    "Побеждено боссов: {0}",
+                    "เอาชนะบอสไปแล้ว {0} ตัว!",
+                    "已击败{0}个首领！",
+                    "已擊敗{0}個首領"
+                ],
+                "m_locId": 2713464
+            },
+            "m_unlockGameSaveSubkeyId": 96,
+            "m_unlockValue": 8,
+            "m_displayTexture": "DT_Brann_ULDA_2.mat:4dbe1d81a7e3d2448aa6a14b72d20b86"
+        },
+        {
+            "m_ID": 99,
+            "m_adventureId": 513,
+            "m_classId": 3,
+            "m_deckId": 2613,
+            "m_sortOrder": 2,
+            "m_unlockCriteriaText": {
+                "m_locValues": [
+                    "Defeat Bosses\n{0}/{1}",
+                    "Besiegt Bosse: {0}/{1}",
+                    "Derrota a los jefes\n{0}/{1}",
+                    "Derrota jefes\n{0}/{1}",
+                    "Vaincre un boss\n{0}/{1}",
+                    "Sconfiggi i boss\n{0}/{1}",
+                    "ボスを倒す\n{0}/{1}",
+                    "우두머리 처치\n{0}/{1}",
+                    "Pokonaj bossów\n{0}/{1}",
+                    "Derrotar Chefes\n{0}/{1}",
+                    "Победите боссов\n{0}/{1}",
+                    "เอาชนะบอส\n{0}/{1}",
+                    "击败首领\n{0}/{1}",
+                    "擊敗的首領\n{0}/{1}"
+                ],
+                "m_locId": 2713438
+            },
+            "m_unlockedDescriptionText": {
+                "m_locValues": [
+                    "Defeated {0} Bosses!",
+                    "{0} Bosse besiegt!",
+                    "Jefes derrotados: {0}",
+                    "¡{0} jefes derrotados!",
+                    "{0} boss vaincus !",
+                    "Hai sconfitto {0} boss!",
+                    "ボスを{0}体倒した！",
+                    "우두머리 {0}마리 처치 완료!",
+                    "Pokonani bossowie: {0}!",
+                    "Derrotou {0} Chefes!",
+                    "Побеждено боссов: {0}",
+                    "เอาชนะบอสไปแล้ว {0} ตัว!",
+                    "已击败{0}个首领！",
+                    "已擊敗{0}個首領"
+                ],
+                "m_locId": 2713465
+            },
+            "m_unlockGameSaveSubkeyId": 96,
+            "m_unlockValue": 16,
+            "m_displayTexture": "DT_Brann_ULDA_3.mat:ecaa51398630d3749911559a6886f578"
+        },
+        {
+            "m_ID": 100,
+            "m_adventureId": 513,
+            "m_classId": 3,
+            "m_deckId": 2617,
+            "m_sortOrder": 3,
+            "m_unlockCriteriaText": {
+                "m_locValues": [
+                    "Defeat Bosses\n{0}/{1}",
+                    "Besiegt Bosse: {0}/{1}",
+                    "Derrota a los jefes\n{0}/{1}",
+                    "Derrota jefes\n{0}/{1}",
+                    "Vaincre un boss\n{0}/{1}",
+                    "Sconfiggi i boss\n{0}/{1}",
+                    "ボスを倒す\n{0}/{1}",
+                    "우두머리 처치\n{0}/{1}",
+                    "Pokonaj bossów\n{0}/{1}",
+                    "Derrotar Chefes\n{0}/{1}",
+                    "Победите боссов\n{0}/{1}",
+                    "เอาชนะบอส\n{0}/{1}",
+                    "击败首领\n{0}/{1}",
+                    "擊敗的首領\n{0}/{1}"
+                ],
+                "m_locId": 2713439
+            },
+            "m_unlockedDescriptionText": {
+                "m_locValues": [
+                    "Defeated {0} Bosses!",
+                    "{0} Bosse besiegt!",
+                    "Jefes derrotados: {0}",
+                    "¡{0} jefes derrotados!",
+                    "{0} boss vaincus !",
+                    "Hai sconfitto {0} boss!",
+                    "ボスを{0}体倒した！",
+                    "우두머리 {0}마리 처치 완료!",
+                    "Pokonani bossowie: {0}!",
+                    "Derrotou {0} Chefes!",
+                    "Побеждено боссов: {0}",
+                    "เอาชนะบอสไปแล้ว {0} ตัว!",
+                    "已击败{0}个首领！",
+                    "已擊敗{0}個首領"
+                ],
+                "m_locId": 2713466
+            },
+            "m_unlockGameSaveSubkeyId": 96,
+            "m_unlockValue": 24,
+            "m_displayTexture": "DT_Random_ULDA.mat:5495d736a9f34964fb25dbad40a537a1"
+        },
+        {
+            "m_ID": 101,
+            "m_adventureId": 513,
+            "m_classId": 4,
+            "m_deckId": 2605,
+            "m_sortOrder": 0,
+            "m_unlockCriteriaText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_unlockedDescriptionText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_unlockGameSaveSubkeyId": 0,
+            "m_unlockValue": 0,
+            "m_displayTexture": "DT_Reno_ULDA_1.mat:8d82a62516ac9b04e881fa3e42c8fc68"
+        },
+        {
+            "m_ID": 102,
+            "m_adventureId": 513,
+            "m_classId": 4,
+            "m_deckId": 2606,
+            "m_sortOrder": 1,
+            "m_unlockCriteriaText": {
+                "m_locValues": [
+                    "Defeat Bosses\n{0}/{1}",
+                    "Besiegt Bosse: {0}/{1}",
+                    "Derrota a los jefes\n{0}/{1}",
+                    "Derrota jefes\n{0}/{1}",
+                    "Vaincre un boss\n{0}/{1}",
+                    "Sconfiggi i boss\n{0}/{1}",
+                    "ボスを倒す\n{0}/{1}",
+                    "우두머리 처치\n{0}/{1}",
+                    "Pokonaj bossów\n{0}/{1}",
+                    "Derrotar Chefes\n{0}/{1}",
+                    "Победите боссов\n{0}/{1}",
+                    "เอาชนะบอส\n{0}/{1}",
+                    "击败首领\n{0}/{1}",
+                    "擊敗的首領\n{0}/{1}"
+                ],
+                "m_locId": 2713440
+            },
+            "m_unlockedDescriptionText": {
+                "m_locValues": [
+                    "Defeated {0} Bosses!",
+                    "{0} Bosse besiegt!",
+                    "Jefes derrotados: {0}",
+                    "¡{0} jefes derrotados!",
+                    "{0} boss vaincus !",
+                    "Hai sconfitto {0} boss!",
+                    "ボスを{0}体倒した！",
+                    "우두머리 {0}마리 처치 완료!",
+                    "Pokonani bossowie: {0}!",
+                    "Derrotou {0} Chefes!",
+                    "Побеждено боссов: {0}",
+                    "เอาชนะบอสไปแล้ว {0} ตัว!",
+                    "已击败{0}个首领！",
+                    "已擊敗{0}個首領"
+                ],
+                "m_locId": 2713467
+            },
+            "m_unlockGameSaveSubkeyId": 98,
+            "m_unlockValue": 8,
+            "m_displayTexture": "DT_Reno_ULDA_2.mat:117547c3821b49045adab2ee31c0072f"
+        },
+        {
+            "m_ID": 103,
+            "m_adventureId": 513,
+            "m_classId": 4,
+            "m_deckId": 2607,
+            "m_sortOrder": 2,
+            "m_unlockCriteriaText": {
+                "m_locValues": [
+                    "Defeat Bosses\n{0}/{1}",
+                    "Besiegt Bosse: {0}/{1}",
+                    "Derrota a los jefes\n{0}/{1}",
+                    "Derrota jefes\n{0}/{1}",
+                    "Vaincre un boss\n{0}/{1}",
+                    "Sconfiggi i boss\n{0}/{1}",
+                    "ボスを倒す\n{0}/{1}",
+                    "우두머리 처치\n{0}/{1}",
+                    "Pokonaj bossów\n{0}/{1}",
+                    "Derrotar Chefes\n{0}/{1}",
+                    "Победите боссов\n{0}/{1}",
+                    "เอาชนะบอส\n{0}/{1}",
+                    "击败首领\n{0}/{1}",
+                    "擊敗的首領\n{0}/{1}"
+                ],
+                "m_locId": 2713441
+            },
+            "m_unlockedDescriptionText": {
+                "m_locValues": [
+                    "Defeated {0} Bosses!",
+                    "{0} Bosse besiegt!",
+                    "Jefes derrotados: {0}",
+                    "¡{0} jefes derrotados!",
+                    "{0} boss vaincus !",
+                    "Hai sconfitto {0} boss!",
+                    "ボスを{0}体倒した！",
+                    "우두머리 {0}마리 처치 완료!",
+                    "Pokonani bossowie: {0}!",
+                    "Derrotou {0} Chefes!",
+                    "Побеждено боссов: {0}",
+                    "เอาชนะบอสไปแล้ว {0} ตัว!",
+                    "已击败{0}个首领！",
+                    "已擊敗{0}個首領"
+                ],
+                "m_locId": 2713468
+            },
+            "m_unlockGameSaveSubkeyId": 98,
+            "m_unlockValue": 16,
+            "m_displayTexture": "DT_Reno_ULDA_3.mat:cc38ace5c23e9264f8dc4870a89b760f"
+        },
+        {
+            "m_ID": 104,
+            "m_adventureId": 513,
+            "m_classId": 4,
+            "m_deckId": 2615,
+            "m_sortOrder": 3,
+            "m_unlockCriteriaText": {
+                "m_locValues": [
+                    "Defeat Bosses\n{0}/{1}",
+                    "Besiegt Bosse: {0}/{1}",
+                    "Derrota a los jefes\n{0}/{1}",
+                    "Derrota jefes\n{0}/{1}",
+                    "Vaincre un boss\n{0}/{1}",
+                    "Sconfiggi i boss\n{0}/{1}",
+                    "ボスを倒す\n{0}/{1}",
+                    "우두머리 처치\n{0}/{1}",
+                    "Pokonaj bossów\n{0}/{1}",
+                    "Derrotar Chefes\n{0}/{1}",
+                    "Победите боссов\n{0}/{1}",
+                    "เอาชนะบอส\n{0}/{1}",
+                    "击败首领\n{0}/{1}",
+                    "擊敗的首領\n{0}/{1}"
+                ],
+                "m_locId": 2713442
+            },
+            "m_unlockedDescriptionText": {
+                "m_locValues": [
+                    "Defeated {0} Bosses!",
+                    "{0} Bosse besiegt!",
+                    "Jefes derrotados: {0}",
+                    "¡{0} jefes derrotados!",
+                    "{0} boss vaincus !",
+                    "Hai sconfitto {0} boss!",
+                    "ボスを{0}体倒した！",
+                    "우두머리 {0}마리 처치 완료!",
+                    "Pokonani bossowie: {0}!",
+                    "Derrotou {0} Chefes!",
+                    "Побеждено боссов: {0}",
+                    "เอาชนะบอสไปแล้ว {0} ตัว!",
+                    "已击败{0}个首领！",
+                    "已擊敗{0}個首領"
+                ],
+                "m_locId": 2713469
+            },
+            "m_unlockGameSaveSubkeyId": 98,
+            "m_unlockValue": 24,
+            "m_displayTexture": "DT_Random_ULDA.mat:5495d736a9f34964fb25dbad40a537a1"
+        },
+        {
+            "m_ID": 105,
+            "m_adventureId": 513,
+            "m_classId": 5,
+            "m_deckId": 2608,
+            "m_sortOrder": 0,
+            "m_unlockCriteriaText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_unlockedDescriptionText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_unlockGameSaveSubkeyId": 0,
+            "m_unlockValue": 0,
+            "m_displayTexture": "DT_Finley_ULDA_1.mat:ab9d12e69ed3fd642b61b38f7a39c0fa"
+        },
+        {
+            "m_ID": 106,
+            "m_adventureId": 513,
+            "m_classId": 5,
+            "m_deckId": 2609,
+            "m_sortOrder": 1,
+            "m_unlockCriteriaText": {
+                "m_locValues": [
+                    "Defeat Bosses\n{0}/{1}",
+                    "Besiegt Bosse: {0}/{1}",
+                    "Derrota a los jefes\n{0}/{1}",
+                    "Derrota jefes\n{0}/{1}",
+                    "Vaincre un boss\n{0}/{1}",
+                    "Sconfiggi i boss\n{0}/{1}",
+                    "ボスを倒す\n{0}/{1}",
+                    "우두머리 처치\n{0}/{1}",
+                    "Pokonaj bossów\n{0}/{1}",
+                    "Derrotar Chefes\n{0}/{1}",
+                    "Победите боссов\n{0}/{1}",
+                    "เอาชนะบอส\n{0}/{1}",
+                    "击败首领\n{0}/{1}",
+                    "擊敗的首領\n{0}/{1}"
+                ],
+                "m_locId": 2713443
+            },
+            "m_unlockedDescriptionText": {
+                "m_locValues": [
+                    "Defeated {0} Bosses!",
+                    "{0} Bosse besiegt!",
+                    "Jefes derrotados: {0}",
+                    "¡{0} jefes derrotados!",
+                    "{0} boss vaincus !",
+                    "Hai sconfitto {0} boss!",
+                    "ボスを{0}体倒した！",
+                    "우두머리 {0}마리 처치 완료!",
+                    "Pokonani bossowie: {0}!",
+                    "Derrotou {0} Chefes!",
+                    "Побеждено боссов: {0}",
+                    "เอาชนะบอสไปแล้ว {0} ตัว!",
+                    "已击败{0}个首领！",
+                    "已擊敗{0}個首領"
+                ],
+                "m_locId": 2713470
+            },
+            "m_unlockGameSaveSubkeyId": 82,
+            "m_unlockValue": 8,
+            "m_displayTexture": "DT_Finley_ULDA_2.mat:80f12178604c7b746b5c79856d2aec29"
+        },
+        {
+            "m_ID": 107,
+            "m_adventureId": 513,
+            "m_classId": 5,
+            "m_deckId": 2610,
+            "m_sortOrder": 2,
+            "m_unlockCriteriaText": {
+                "m_locValues": [
+                    "Defeat Bosses\n{0}/{1}",
+                    "Besiegt Bosse: {0}/{1}",
+                    "Derrota a los jefes\n{0}/{1}",
+                    "Derrota jefes\n{0}/{1}",
+                    "Vaincre un boss\n{0}/{1}",
+                    "Sconfiggi i boss\n{0}/{1}",
+                    "ボスを倒す\n{0}/{1}",
+                    "우두머리 처치\n{0}/{1}",
+                    "Pokonaj bossów\n{0}/{1}",
+                    "Derrotar Chefes\n{0}/{1}",
+                    "Победите боссов\n{0}/{1}",
+                    "เอาชนะบอส\n{0}/{1}",
+                    "击败首领\n{0}/{1}",
+                    "擊敗的首領\n{0}/{1}"
+                ],
+                "m_locId": 2713444
+            },
+            "m_unlockedDescriptionText": {
+                "m_locValues": [
+                    "Defeated {0} Bosses!",
+                    "{0} Bosse besiegt!",
+                    "Jefes derrotados: {0}",
+                    "¡{0} jefes derrotados!",
+                    "{0} boss vaincus !",
+                    "Hai sconfitto {0} boss!",
+                    "ボスを{0}体倒した！",
+                    "우두머리 {0}마리 처치 완료!",
+                    "Pokonani bossowie: {0}!",
+                    "Derrotou {0} Chefes!",
+                    "Побеждено боссов: {0}",
+                    "เอาชนะบอสไปแล้ว {0} ตัว!",
+                    "已击败{0}个首领！",
+                    "已擊敗{0}個首領"
+                ],
+                "m_locId": 2713471
+            },
+            "m_unlockGameSaveSubkeyId": 82,
+            "m_unlockValue": 16,
+            "m_displayTexture": "DT_Finley_ULDA_3.mat:879c32ecb2d2d3446af9ebb2f1d1aab5"
+        },
+        {
+            "m_ID": 108,
+            "m_adventureId": 513,
+            "m_classId": 5,
+            "m_deckId": 2616,
+            "m_sortOrder": 3,
+            "m_unlockCriteriaText": {
+                "m_locValues": [
+                    "Defeat Bosses\n{0}/{1}",
+                    "Besiegt Bosse: {0}/{1}",
+                    "Derrota a los jefes\n{0}/{1}",
+                    "Derrota jefes\n{0}/{1}",
+                    "Vaincre un boss\n{0}/{1}",
+                    "Sconfiggi i boss\n{0}/{1}",
+                    "ボスを倒す\n{0}/{1}",
+                    "우두머리 처치\n{0}/{1}",
+                    "Pokonaj bossów\n{0}/{1}",
+                    "Derrotar Chefes\n{0}/{1}",
+                    "Победите боссов\n{0}/{1}",
+                    "เอาชนะบอส\n{0}/{1}",
+                    "击败首领\n{0}/{1}",
+                    "擊敗的首領\n{0}/{1}"
+                ],
+                "m_locId": 2713445
+            },
+            "m_unlockedDescriptionText": {
+                "m_locValues": [
+                    "Defeated {0} Bosses!",
+                    "{0} Bosse besiegt!",
+                    "Jefes derrotados: {0}",
+                    "¡{0} jefes derrotados!",
+                    "{0} boss vaincus !",
+                    "Hai sconfitto {0} boss!",
+                    "ボスを{0}体倒した！",
+                    "우두머리 {0}마리 처치 완료!",
+                    "Pokonani bossowie: {0}!",
+                    "Derrotou {0} Chefes!",
+                    "Побеждено боссов: {0}",
+                    "เอาชนะบอสไปแล้ว {0} ตัว!",
+                    "已击败{0}个首领！",
+                    "已擊敗{0}個首領"
+                ],
+                "m_locId": 2713472
+            },
+            "m_unlockGameSaveSubkeyId": 82,
+            "m_unlockValue": 24,
+            "m_displayTexture": "DT_Random_ULDA.mat:5495d736a9f34964fb25dbad40a537a1"
+        }
+    ]
+}

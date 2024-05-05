@@ -1,0 +1,80 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 4593249452728298217
+    },
+    "m_Name": "QUEST_DIALOG_ON_PROGRESS1",
+    "Records": [
+        {
+            "m_ID": 1,
+            "m_questDialogId": 2,
+            "m_playOrder": 0,
+            "m_prefabName": "HanCho_BigQuote.prefab:0b24275caed054c45b2ebcb91fd9112d",
+            "m_audioName": "VO_BOSS_HAN_Male_Ogre_INTRO_QL_GOONS2_1.prefab:e73b6b4400c9e3e43ba26e7c5efdc9ef",
+            "m_altBubblePosition": 1,
+            "m_waitBefore": 0.0,
+            "m_waitAfter": 0.0,
+            "m_persistPrefab": 1
+        },
+        {
+            "m_ID": 2,
+            "m_questDialogId": 2,
+            "m_playOrder": 1,
+            "m_prefabName": "HanCho_BigQuote.prefab:0b24275caed054c45b2ebcb91fd9112d",
+            "m_audioName": "VO_BOSS_HAN_Male_Ogre_INTRO_QL_GOONS2_2.prefab:1209378c15554454a805e46bdd35b88c",
+            "m_altBubblePosition": 1,
+            "m_waitBefore": 0.0,
+            "m_waitAfter": 0.0,
+            "m_persistPrefab": 0
+        },
+        {
+            "m_ID": 3,
+            "m_questDialogId": 4,
+            "m_playOrder": 0,
+            "m_prefabName": "Aya_BigQuote.prefab:26a19c2632327c14dbf648b96f8751d1",
+            "m_audioName": "VO_BOSS_AYA_Female_Pandaren_INTRO_QL_LOTUS2_01.prefab:fc0900bccc8ef714aa8fa057a8ef4bf3",
+            "m_altBubblePosition": 0,
+            "m_waitBefore": 0.0,
+            "m_waitAfter": 0.0,
+            "m_persistPrefab": 1
+        },
+        {
+            "m_ID": 4,
+            "m_questDialogId": 4,
+            "m_playOrder": 1,
+            "m_prefabName": "Aya_BigQuote.prefab:26a19c2632327c14dbf648b96f8751d1",
+            "m_audioName": "VO_BOSS_AYA_Female_Pandaren_INTRO_QL_LOTUS2_02.prefab:cea2ebd3bbfb4fe489d8f95fff245774",
+            "m_altBubblePosition": 0,
+            "m_waitBefore": 0.0,
+            "m_waitAfter": 0.0,
+            "m_persistPrefab": 0
+        },
+        {
+            "m_ID": 5,
+            "m_questDialogId": 6,
+            "m_playOrder": 0,
+            "m_prefabName": "Kazakus_BigQuote.prefab:b0007ae4277fc5a40a8c6f8c774ab823",
+            "m_audioName": "VO_BOSS_KAZAKUS_Male_Troll_Intro_QL_Kabal2_01.prefab:e104037d013274747a5e88b38fee33a9",
+            "m_altBubblePosition": 0,
+            "m_waitBefore": 0.0,
+            "m_waitAfter": 0.0,
+            "m_persistPrefab": 1
+        },
+        {
+            "m_ID": 6,
+            "m_questDialogId": 6,
+            "m_playOrder": 1,
+            "m_prefabName": "Kazakus_BigQuote.prefab:b0007ae4277fc5a40a8c6f8c774ab823",
+            "m_audioName": "VO_BOSS_KAZAKUS_Male_Troll_Intro_QL_Kabal2_02.prefab:ff81ae8b9a1dd6941bbf1931e49568ad",
+            "m_altBubblePosition": 0,
+            "m_waitBefore": 0.0,
+            "m_waitAfter": 0.0,
+            "m_persistPrefab": 0
+        }
+    ]
+}

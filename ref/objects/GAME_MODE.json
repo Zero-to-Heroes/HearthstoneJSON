@@ -1,0 +1,274 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 5048074251749355280
+    },
+    "m_Name": "GAME_MODE",
+    "Records": [
+        {
+            "m_ID": 1,
+            "m_noteDesc": "Arena",
+            "m_modeKey": 2,
+            "m_event": 203,
+            "m_name": {
+                "m_locValues": [
+                    "Arena",
+                    "Arena",
+                    "Arena",
+                    "Arena",
+                    "Arène",
+                    "Arena",
+                    "闘技場",
+                    "투기장",
+                    "Arena",
+                    "Arena",
+                    "Арена",
+                    "ลานประลอง",
+                    "竞技模式",
+                    "競技場"
+                ],
+                "m_locId": 2727187
+            },
+            "m_description": {
+                "m_locValues": [
+                    "Forge a deck of random cards. Outlast the Arena!",
+                    "Erstellt ein Deck aus zufälligen Karten. Könnt Ihr in der Arena bestehen?",
+                    "Forja un mazo con cartas aleatorias. ¡Sobrevive a la Arena!",
+                    "Forja un mazo con cartas aleatorias. ¡Sobrevive a la Arena!",
+                    "Créez un deck de cartes aléatoires. Survivez dans l’Arène !",
+                    "Componi un mazzo composto da carte casuali. Sopravvivi nell'Arena!",
+                    "ランダムなカードでデッキを組もう。闘技場を勝ち抜くんだ！",
+                    "무작위 카드로 덱을 만들고 투기장에서 살아남으세요!",
+                    "Stwórz talię z losowych kart i przetrwaj na Arenie!",
+                    "Forme um deck com cards aleatórios. Sobreviva à Arena! ",
+                    "Соберите колоду из случайных карт и выживите на арене!",
+                    "สร้างเด็คจากการ์ดที่สุ่มมาให้ สู้เอาตัวรอดในลานประลอง!",
+                    "打造一副由随机卡牌组成的套牌，你能称霸全场吗？",
+                    "用隨機卡牌編組一副套牌，在競技場活下來！"
+                ],
+                "m_locId": 2727188
+            },
+            "m_sortOrder": 1,
+            "m_gameModeButtonState": "ARENA",
+            "m_linkedScene": "DRAFT",
+            "m_showAsNewEvent": 164,
+            "m_showAsEarlyAccessEvent": -1,
+            "m_showAsBetaEvent": -1,
+            "m_featureUnlockId": 4,
+            "m_featureUnlockId2": 0
+        },
+        {
+            "m_ID": 12,
+            "m_noteDesc": "Mercenaries",
+            "m_modeKey": 6,
+            "m_event": 203,
+            "m_name": {
+                "m_locValues": [
+                    "Mercenaries",
+                    "Söldner",
+                    "Mercenarios",
+                    "Mercenarios",
+                    "Mercenaires",
+                    "Mercenari",
+                    "マーセナリーズ",
+                    "용병단",
+                    "Najemnicy",
+                    "Mercenários",
+                    "Наемники",
+                    "ทหารรับจ้าง",
+                    "佣兵战纪",
+                    "傭兵戰隊"
+                ],
+                "m_locId": 2874844
+            },
+            "m_description": {
+                "m_locValues": [
+                    "Build and level up a party of Mercenaries as you battle for bounties and glory!",
+                    "Stellt ein Team von Söldnern auf und bildet es in Kämpfen um Kopfgelder und Ruhm aus!",
+                    "¡Forma un grupo de mercenarios y sube de nivel luchando por el botín y la gloria!",
+                    "¡Forma un grupo de Mercenarios y súbelos de nivel mientras luchas por contratos y gloria!",
+                    "Formez un groupe de mercenaires et faites-les monter en niveau en combattant pour la gloire et la richesse !",
+                    "Forma e potenzia un gruppo di Mercenari mentre vai a caccia di taglie e di gloria!",
+                    "傭兵団を作ってレベルアップさせ、賞金と栄光のために戦おう！",
+                    "용병단을 꾸리고 레벨을 올려 전리품과 영광을 손에 넣으세요!",
+                    "Stwórz i rozwijaj drużynę najemników, walcząc o nagrody i chwałę!",
+                    "Monte uma equipe de Mercenários para subir de nível enfrentando batalhas por recompensas e glória!",
+                    "Собирайте и развивайте отряд наемников, сражаясь за награды и славу!",
+                    "สร้างปาร์ตี้[b]ทหาร[b]รับจ้าง[b]และ[b]เพิ่ม[b]เลเวล[b]แล้ว[b]ต่อสู้[b]เพื่อ[b]คว้า[b]รางวัล[b]และ[b]เกียรติยศ!",
+                    "组建一支佣兵队伍，提升等级，为悬赏和荣耀而战！",
+                    "一邊建立與升級傭兵戰隊，一邊為了獎賞和榮耀戰鬥吧！"
+                ],
+                "m_locId": 2874845
+            },
+            "m_sortOrder": 4,
+            "m_gameModeButtonState": "MERCENARIES",
+            "m_linkedScene": "LETTUCE_VILLAGE",
+            "m_showAsNewEvent": 164,
+            "m_showAsEarlyAccessEvent": -1,
+            "m_showAsBetaEvent": -1,
+            "m_featureUnlockId": 0,
+            "m_featureUnlockId2": 0
+        },
+        {
+            "m_ID": 3,
+            "m_noteDesc": "PvP Dungeon Run",
+            "m_modeKey": 5,
+            "m_event": 203,
+            "m_name": {
+                "m_locValues": [
+                    "Duels",
+                    "Duelle",
+                    "Duelos",
+                    "Duelos",
+                    "Duels",
+                    "Duelli",
+                    "デュエル",
+                    "결투",
+                    "Starcia",
+                    "Duelos",
+                    "Дуэли",
+                    "ดวลเดือด",
+                    "对决模式",
+                    "決鬥擂台"
+                ],
+                "m_locId": 2727279
+            },
+            "m_description": {
+                "m_locValues": [
+                    "Grow your deck. Collect treasures. Win duels!",
+                    "Erweitert Euer Deck. Sammelt Schätze. Gewinnt Duelle!",
+                    "Amplía tu mazo, reúne tesoros ¡y gana duelos!",
+                    "Perfecciona tu mazo. Reúne tesoros. ¡Gana duelos!",
+                    "Étoffez votre deck. Obtenez des trésors. Remportez des duels !",
+                    "Fai crescere il tuo mazzo, colleziona i Tesori, vinci i Duelli!",
+                    "デッキを育てて、宝物を集めて、デュエルに勝とう！",
+                    "덱을 보강하고, 보물을 모으고, 결투에서 승리하세요!",
+                    "Rozwijaj talię. Gromadź skarby. Wygrywaj starcia!",
+                    "Construa seu deck. Receba tesouros. Vença duelos! ",
+                    "Расширяйте колоду, собирайте сокровища, побеждайте в дуэлях!",
+                    "พัฒนาเด็ค รวบรวมสมบัติ พิชิตการดวลเดือด!",
+                    "丰富你的套牌，收集强大宝藏，赢得最终对决！",
+                    "擴充套牌、收集寶藏，打贏決鬥！"
+                ],
+                "m_locId": 2727280
+            },
+            "m_sortOrder": 3,
+            "m_gameModeButtonState": "PVPDR",
+            "m_linkedScene": "PVP_DUNGEON_RUN",
+            "m_showAsNewEvent": 164,
+            "m_showAsEarlyAccessEvent": 10000426,
+            "m_showAsBetaEvent": 10000427,
+            "m_featureUnlockId": 10,
+            "m_featureUnlockId2": 11
+        },
+        {
+            "m_ID": 6,
+            "m_noteDesc": "Solo Adventures",
+            "m_modeKey": 4,
+            "m_event": 203,
+            "m_name": {
+                "m_locValues": [
+                    "Solo Adventures",
+                    "Soloabenteuer",
+                    "Aventuras",
+                    "Aventuras solitarias",
+                    "Aventures",
+                    "Avventura",
+                    "ソロ・アドベンチャー",
+                    "1인 모험",
+                    "Przygoda",
+                    "Modo Aventura",
+                    "Приключения",
+                    "การผจญภัยคนเดียว",
+                    "冒险模式",
+                    "單人模式"
+                ],
+                "m_locId": 2763440
+            },
+            "m_description": {
+                "m_locValues": [
+                    "Embark on adventures or practice against the AI!",
+                    "Wagt Euch auf Abenteuer oder übt im Kampf gegen KI-Gegner!",
+                    "¡Vive aventuras épicas o practica contra la IA!",
+                    "¡Embárcate en aventuras o practica contra la IA!",
+                    "Lancez-vous dans d’épiques aventures ou entraînez-vous contre l’ordinateur !",
+                    "Affronta avventure o fai pratica contro avversari controllati dall'IA!",
+                    "冒険に出発したり、AIを相手に練習できるぞ！",
+                    "멋진 모험을 떠나거나 인공지능을 상대로 실력을 연마하세요!",
+                    "Rzuć się w wir przygód lub_poćwicz walkę z SI!",
+                    "Comece sua aventura ou pratique contra a IA!",
+                    "Отправьтесь на поиски новых приключений и отточите навыки игры против ИИ.",
+                    "ออกผจญภัยหรือฝึกฝน[b]ฝีมือกับ AI!",
+                    "开启史诗般的冒险之旅，或与电脑对手磨练牌技！",
+                    "踏上冒險旅程或與電腦對手練習！"
+                ],
+                "m_locId": 2763441
+            },
+            "m_sortOrder": 2,
+            "m_gameModeButtonState": "ADVENTURE",
+            "m_linkedScene": "ADVENTURE",
+            "m_showAsNewEvent": 164,
+            "m_showAsEarlyAccessEvent": -1,
+            "m_showAsBetaEvent": -1,
+            "m_featureUnlockId": 0,
+            "m_featureUnlockId2": 0
+        },
+        {
+            "m_ID": 8,
+            "m_noteDesc": "Tavern Brawl [DEPRECATED]",
+            "m_modeKey": 1,
+            "m_event": 164,
+            "m_name": {
+                "m_locValues": [
+                    "Tavern Brawl",
+                    "Kartenchaos",
+                    "Pelea de taberna",
+                    "Gresca de la taberna",
+                    "Bras de fer",
+                    "Rissa",
+                    "酒場の喧嘩",
+                    "선술집 난투",
+                    "Karczemna bójka",
+                    "Contenda de Taverna",
+                    "Потасовка",
+                    "ท้าประลอง",
+                    "乱斗模式",
+                    "旅店大亂鬥"
+                ],
+                "m_locId": 2763442
+            },
+            "m_description": {
+                "m_locValues": [
+                    "Play a new challenge on a weekly basis!",
+                    "Meistert jede Woche eine neue Herausforderung!",
+                    "¡Juega un nuevo desafío cada semana!",
+                    "¡Juega un nuevo desafío todas las semanas!",
+                    "Découvrez un nouveau défi chaque semaine !",
+                    "Affronta una nuova sfida ogni settimana!",
+                    "週替わりの愉快な特別ルールで対戦しよう！",
+                    "매주마다 새로운 규칙으로 게임을 합니다!",
+                    "Podejmuj cotygodniowe wyzwania!",
+                    "Jogue um novo desafio toda semana!",
+                    "Новое испытание каждую неделю!",
+                    "แข่งขันในเกมท้าทาย[b]รูปแบบใหม่ๆ_ทุกสัปดาห์",
+                    "每个星期都会有新的挑战！",
+                    "每週進行全新的挑戰！"
+                ],
+                "m_locId": 2763443
+            },
+            "m_sortOrder": 4,
+            "m_gameModeButtonState": "TAVERNBRAWL",
+            "m_linkedScene": "TAVERN_BRAWL",
+            "m_showAsNewEvent": 164,
+            "m_showAsEarlyAccessEvent": -1,
+            "m_showAsBetaEvent": -1,
+            "m_featureUnlockId": 0,
+            "m_featureUnlockId2": 0
+        }
+    ]
+}

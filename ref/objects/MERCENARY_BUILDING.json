@@ -1,0 +1,358 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -9093448448512809778
+    },
+    "m_Name": "MERCENARY_BUILDING",
+    "Records": [
+        {
+            "m_ID": 10,
+            "m_name": {
+                "m_locValues": [
+                    "Travel Point",
+                    "Reisepunkt",
+                    "Punto de viaje",
+                    "Punto de partida",
+                    "Point de voyage",
+                    "Punto di Ritrovo",
+                    "移動地点",
+                    "이동 지점",
+                    "Punkt podróży",
+                    "Ponto de Partida",
+                    "Точка перехода",
+                    "จุดเดินทาง",
+                    "旅行点",
+                    "旅行點"
+                ],
+                "m_locId": 2766927
+            },
+            "m_description": {
+                "m_locValues": [
+                    "Find a Bounty!",
+                    "Findet ein Kopfgeld!",
+                    "¡Encuentra un contrato!",
+                    "¡Busca un contrato!",
+                    "Trouvez une prime !",
+                    "Trova una taglia!",
+                    "賞金首を探そう！",
+                    "현상 수배를 발견하세요!",
+                    "Znajdź zlecenie!",
+                    "Encontre um contrato!",
+                    "Выполняйте поручения!",
+                    "รับภารกิจล่าค่าหัว!",
+                    "去寻找悬赏吧！",
+                    "查看懸賞任務！"
+                ],
+                "m_locId": 2766928
+            },
+            "m_mercenaryBuildingType": 4,
+            "m_defaultTierId": 20
+        },
+        {
+            "m_ID": 11,
+            "m_name": {
+                "m_locValues": [
+                    "Fighting Pit",
+                    "Kampfgrube",
+                    "Foso de combate",
+                    "Foso de batalla",
+                    "Fosse de combat",
+                    "Fossa di combattimento",
+                    "闘技リング",
+                    "사투장",
+                    "Ring Gladiatorów",
+                    "Ringue de Luta",
+                    "Арена",
+                    "สังเวียนต่อสู้",
+                    "决斗场",
+                    "鬥技場"
+                ],
+                "m_locId": 2766937
+            },
+            "m_description": {
+                "m_locValues": [
+                    "Test your mettle against other players!",
+                    "Messt Euch mit anderen Spielern!",
+                    "¡Ponte a prueba contra otros jugadores!",
+                    "¡Pon a prueba tus habilidades contra otros jugadores!",
+                    "Mesurez-vous à d’autres joueurs !",
+                    "Mettiti alla prova contro altri giocatori!",
+                    "他のプレイヤーを相手に腕試しだ！",
+                    "다른 플레이어들을 상대로 실력을 시험해 보세요!",
+                    "Spróbuj swoich sił przeciwko innym graczom!",
+                    "Teste seu valor contra outros jogadores!",
+                    "Проверьте свои силы в бою с другими игроками!",
+                    "ทดสอบความกล้า[b]กับผู้เล่นอื่น!",
+                    "挑战其他玩家，检验你的斗志！",
+                    "跟其他玩家戰鬥以考驗你的實力！"
+                ],
+                "m_locId": 2766938
+            },
+            "m_mercenaryBuildingType": 5,
+            "m_defaultTierId": 24
+        },
+        {
+            "m_ID": 12,
+            "m_name": {
+                "m_locValues": [
+                    "Tavern",
+                    "Gasthaus",
+                    "Taberna",
+                    "Taberna",
+                    "Taverne",
+                    "Locanda",
+                    "酒場",
+                    "선술집",
+                    "Karczma",
+                    "Taverna",
+                    "Таверна",
+                    "โรงเตี๊ยม",
+                    "酒馆",
+                    "旅店"
+                ],
+                "m_locId": 2766949
+            },
+            "m_description": {
+                "m_locValues": [
+                    "A friendly place to equip your Mercenaries for battle.",
+                    "Ein einladender Ort, an dem Ihr Eure Söldner für den Kampf rüsten könnt.",
+                    "Un lugar acogedor donde equipar a tus mercenarios para la batalla.",
+                    "Un lugar amistoso para equipar a tus mercenarios para la batalla.",
+                    "Un lieu convivial pour préparer vos mercenaires au combat.",
+                    "Un posto ospitale dove equipaggiare i tuoi Mercenari in vista delle battaglie.",
+                    "気楽に酌み交わしながら、傭兵を武装できる場所だ。",
+                    "전투를 위해 용병들을 무장하는 친절한 장소입니다.",
+                    "Przyjazne miejsce, w którym wyposażysz swoich Najemników przed walką.",
+                    "Um lugar acolhedor onde equipar seus Mercenários para a batalha.",
+                    "Гостеприимное заведение, где вы можете снарядить наемников перед боем.",
+                    "สถานที่เป็นมิตรสำหรับ[b]เตรียมความพร้อมต่อสู้[b]ให้ทหารรับจ้าง",
+                    "在这里武装你的佣兵，准备战斗。",
+                    "讓你安排傭兵上場戰鬥的溫暖地方。"
+                ],
+                "m_locId": 2766950
+            },
+            "m_mercenaryBuildingType": 6,
+            "m_defaultTierId": 28
+        },
+        {
+            "m_ID": 13,
+            "m_name": {
+                "m_locValues": [
+                    "Merchant Cart",
+                    "Händlerwagen",
+                    "Carro de mercader",
+                    "Carro mercante",
+                    "Chariot du marchand",
+                    "Carro del mercante",
+                    "旅商人の馬車",
+                    "행상인 수레",
+                    "Wóz kupca",
+                    "Carroça do Mercador",
+                    "Повозка торговца",
+                    "เกวียนของพ่อค้า",
+                    "商人货车",
+                    "商人貨車"
+                ],
+                "m_locId": 2810090
+            },
+            "m_description": {
+                "m_locValues": [
+                    "Access the Shop.",
+                    "Stöbert in seinem Angebot.",
+                    "Accede a la tienda.",
+                    "Accede a la tienda.",
+                    "Accédez à la boutique.",
+                    "Accedi al negozio.",
+                    "ショップにアクセスできるぞ。",
+                    "상점에 입장합니다.",
+                    "Odwiedź sklep.",
+                    "Acesse a Loja.",
+                    "Магазин.",
+                    "เยี่ยมชมร้านค้า",
+                    "进入商店。",
+                    "進入商店。"
+                ],
+                "m_locId": 2811501
+            },
+            "m_mercenaryBuildingType": 7,
+            "m_defaultTierId": 32
+        },
+        {
+            "m_ID": 14,
+            "m_name": {
+                "m_locValues": [
+                    "Mailbox",
+                    "Briefkasten",
+                    "Buzón",
+                    "Buzón",
+                    "Boîte aux lettres",
+                    "Cassetta della Posta",
+                    "ポスト",
+                    "우편함",
+                    "Skrzynka pocztowa",
+                    "Correio",
+                    "Почтовый ящик",
+                    "กล่องจดหมาย",
+                    "邮箱",
+                    "郵箱"
+                ],
+                "m_locId": 2766967
+            },
+            "m_description": {
+                "m_locValues": [
+                    "A place to check recent messages.",
+                    "Hier könnt Ihr Eure neuesten Nachrichten lesen.",
+                    "Un lugar donde ver tus mensajes.",
+                    "Un lugar para consultar tus últimos mensajes.",
+                    "Un endroit pour consulter les messages récents.",
+                    "Un luogo dove poter controllare i messaggi recenti.",
+                    "最近のメッセージをチェックできる場所だ。",
+                    "최근 메시지를 확인하는 곳입니다.",
+                    "Miejsce, w którym sprawdzisz najnowsze wiadomości.",
+                    "Um lugar para verificar as mensagens mais recentes.",
+                    "Сюда приходят новые сообщения.",
+                    "สถานที่สำหรับ[b]ดูข้อความล่าสุด",
+                    "在这里查看最近的消息。",
+                    "查看最新訊息的地方。"
+                ],
+                "m_locId": 2766968
+            },
+            "m_mercenaryBuildingType": 8,
+            "m_defaultTierId": 36
+        },
+        {
+            "m_ID": 15,
+            "m_name": {
+                "m_locValues": [
+                    "Training Grounds",
+                    "Trainingsgelände",
+                    "Campo de entrenamiento",
+                    "Campo de entrenamiento",
+                    "Terrain d’entraînement",
+                    "Campi di addestramento",
+                    "訓練場",
+                    "훈련장",
+                    "Plac treningowy",
+                    "Campo de Treinamento",
+                    "Тренировочная площадка",
+                    "สนามฝึกฝน",
+                    "训练场",
+                    "訓練場"
+                ],
+                "m_locId": 2766977
+            },
+            "m_description": {
+                "m_locValues": [
+                    "A place to practice before embarking on a Bounty.",
+                    "Hier können Eure Söldner üben, bevor sie auf Kopfgeldjagd gehen.",
+                    "Un lugar donde practicar antes de emprender un contrato.",
+                    "Un lugar para practicar antes de aceptar un contrato.",
+                    "Un endroit pour s’entraîner avant de partir à la chasse aux primes.",
+                    "Un luogo dove far pratica prima di mettersi al lavoro su una taglia.",
+                    "賞金稼ぎに出発する前に練習する場所だ。",
+                    "현상 수배에 나서기 전에 연습할 수 있는 장소입니다.",
+                    "Miejsce, w którym poćwiczysz przed podjęciem zlecenia.",
+                    "Um lugar para treinar antes de embarcar num contrato.",
+                    "Здесь наемники тренируются, перед тем как отправиться выполнять поручения.",
+                    "สถานที่สำหรับฝึกฝน[b]ก่อนออกเดินทางล่าค่าหัว",
+                    "开启悬赏之旅前的训练场所。",
+                    "在執行懸賞任務前，進行練習的場所。"
+                ],
+                "m_locId": 2766978
+            },
+            "m_mercenaryBuildingType": 3,
+            "m_defaultTierId": 38
+        },
+        {
+            "m_ID": 16,
+            "m_name": {
+                "m_locValues": [
+                    "Campfire",
+                    "Lagerfeuer",
+                    "Hoguera",
+                    "Fogata",
+                    "Feu de camp",
+                    "Falò",
+                    "キャンプファイヤー",
+                    "모닥불",
+                    "Obozowisko",
+                    "Fogueira",
+                    "Костер",
+                    "แคมป์ไฟ",
+                    "营火",
+                    "營火"
+                ],
+                "m_locId": 2766983
+            },
+            "m_description": {
+                "m_locValues": [
+                    "Visiting mercenaries need your help with tasks.",
+                    "Söldner kommen zu Besuch und bitten Euch um Hilfe.",
+                    "Los mercenarios que te visitan necesitan tu ayuda para cumplir tareas.",
+                    "Los mercenarios vendrán aquí a visitarte para que los ayudes con tareas.",
+                    "Les mercenaires de passage ont besoin de votre aide pour certaines tâches.",
+                    "I Mercenari in visita hanno bisogno del tuo aiuto con gli incarichi.",
+                    "仕事の手伝いを求めてる傭兵が訪れる場所だ。",
+                    "용병들이 도움이 필요한 임무를 가지고 방문하는 곳입니다.",
+                    "Przyjezdni Najemnicy potrzebują twojej pomocy w wykonywaniu zadań.",
+                    "Mercenários visitantes precisam da sua ajuda com tarefas.",
+                    "Здесь можно предложить наемникам помощь.",
+                    "ทหารรับจ้างผู้มาเยือน[b]อยากให้คุณช่วยทำภารกิจ",
+                    "会见需要你帮助的佣兵，查看任务。",
+                    "來訪的傭兵有任務需要你來幫忙。"
+                ],
+                "m_locId": 2766984
+            },
+            "m_mercenaryBuildingType": 1,
+            "m_defaultTierId": 42
+        },
+        {
+            "m_ID": 17,
+            "m_name": {
+                "m_locValues": [
+                    "Workshop",
+                    "Werkstatt",
+                    "Taller",
+                    "Taller",
+                    "Atelier",
+                    "Officina",
+                    "工房",
+                    "작업대",
+                    "Warsztat",
+                    "Oficina",
+                    "Мастерская",
+                    "โรงงาน",
+                    "工坊",
+                    "工坊"
+                ],
+                "m_locId": 2767001
+            },
+            "m_description": {
+                "m_locValues": [
+                    "Improve your Village!",
+                    "Verbessert Euer Dorf!",
+                    "¡Mejora tu aldea!",
+                    "¡Mejora tu aldea!",
+                    "Améliorez votre village !",
+                    "Migliora il tuo Villaggio!",
+                    "住みよい村を作ろう！",
+                    "마을을 발전시키세요!",
+                    "Ulepszaj swoją wioskę!",
+                    "Aprimore sua aldeia!",
+                    "Развивайте свой лагерь!",
+                    "พัฒนาหมู่บ้านของคุณ!",
+                    "升级你的村庄！",
+                    "建設你的村莊！"
+                ],
+                "m_locId": 2767002
+            },
+            "m_mercenaryBuildingType": 2,
+            "m_defaultTierId": 47
+        }
+    ]
+}

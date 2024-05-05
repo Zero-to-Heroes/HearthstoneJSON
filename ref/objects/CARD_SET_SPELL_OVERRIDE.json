@@ -1,0 +1,20 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -1669615689171168954
+    },
+    "m_Name": "CARD_SET_SPELL_OVERRIDE",
+    "Records": [
+        {
+            "m_ID": 0,
+            "m_cardSetId": 1143,
+            "m_spellType": "SUMMON_IN_FORGE",
+            "m_overridePrefab": "Card_Hand_Ally_SummonIn_Forge_TavernsOfTime.prefab:157bd2e0affbd014ea0222a924bacb11"
+        }
+    ]
+}

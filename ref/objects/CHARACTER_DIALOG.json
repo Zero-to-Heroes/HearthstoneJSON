@@ -1,0 +1,1310 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -3403638439335119841
+    },
+    "m_Name": "CHARACTER_DIALOG",
+    "Records": [
+        {
+            "m_ID": 1,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Welcome to Gadgetzan",
+            "m_ignorePopups": 1,
+            "m_blockInput": 1,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 10,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Ahune Frost Festival Login VO",
+            "m_ignorePopups": 1,
+            "m_blockInput": 1,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 100,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Village Tutorial Upgrade Ability Start",
+            "m_ignorePopups": 1,
+            "m_blockInput": 1,
+            "m_deferOnComplete": 0
+        },
+        {
+            "m_ID": 101,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Village Tutorial Upgrade Ability End",
+            "m_ignorePopups": 1,
+            "m_blockInput": 1,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 102,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Village Tutorial Task Board Start",
+            "m_ignorePopups": 1,
+            "m_blockInput": 1,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 103,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Village Tutorial Task Board End",
+            "m_ignorePopups": 1,
+            "m_blockInput": 1,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 104,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Village Tutorial PVE Build Start",
+            "m_ignorePopups": 1,
+            "m_blockInput": 1,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 105,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Village Tutorial PvE Build End",
+            "m_ignorePopups": 1,
+            "m_blockInput": 1,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 106,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Village Tutorial Shop Build Start",
+            "m_ignorePopups": 1,
+            "m_blockInput": 1,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 107,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Village Tutorial Shop Build End",
+            "m_ignorePopups": 1,
+            "m_blockInput": 1,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 108,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Village Tutorial End",
+            "m_ignorePopups": 1,
+            "m_blockInput": 1,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 109,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Mercenaries Tutorial After 1st Fight",
+            "m_ignorePopups": 1,
+            "m_blockInput": 1,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 11,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Frost Festival Enter Arena VO Week 1 + 2",
+            "m_ignorePopups": 1,
+            "m_blockInput": 1,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 110,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Mercenaries Tutorial After 2nd fight",
+            "m_ignorePopups": 1,
+            "m_blockInput": 1,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 111,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Mercenaries Tutorial After 3rd Fight",
+            "m_ignorePopups": 1,
+            "m_blockInput": 1,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 112,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Mercenaries Tutorial After 3rd Fight Post Merc Grant",
+            "m_ignorePopups": 1,
+            "m_blockInput": 1,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 113,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Mercenaries Tutorial After 4th fight",
+            "m_ignorePopups": 1,
+            "m_blockInput": 1,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 114,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Mercenaries Tutorial Chest Reward",
+            "m_ignorePopups": 1,
+            "m_blockInput": 1,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 115,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Mercenaries Tutorial Map Started",
+            "m_ignorePopups": 1,
+            "m_blockInput": 1,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 116,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Mercenaries Tutorial First Equipment Unlocked",
+            "m_ignorePopups": 1,
+            "m_blockInput": 1,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 117,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Village Tutorial First Task Complete",
+            "m_ignorePopups": 1,
+            "m_blockInput": 1,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 118,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Mercenaries - Season 1 - Task 5 Post Fight",
+            "m_ignorePopups": 1,
+            "m_blockInput": 0,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 119,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Mercenaries - Season 1 - Task 7 Bounty Claim",
+            "m_ignorePopups": 1,
+            "m_blockInput": 0,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 12,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Frost Festival Enter Arena VO Week 3",
+            "m_ignorePopups": 1,
+            "m_blockInput": 1,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 120,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Mercenaries - Season 1 - Task 8 Bounty Claim",
+            "m_ignorePopups": 1,
+            "m_blockInput": 0,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 122,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Mercenaries - Season 1 - Task 10 Bounty Claim",
+            "m_ignorePopups": 1,
+            "m_blockInput": 0,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 123,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Mercenaries - Season 1 - Task 11 Bounty Claim",
+            "m_ignorePopups": 1,
+            "m_blockInput": 0,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 124,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Mercenaries - Season 1 - Task 12 Bounty Claim",
+            "m_ignorePopups": 1,
+            "m_blockInput": 0,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 125,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Mercenaries - Season 1 - Task 13 Bounty Claim",
+            "m_ignorePopups": 1,
+            "m_blockInput": 0,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 126,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Mercenaries - Season 1 - Task 15 Bounty Claim",
+            "m_ignorePopups": 1,
+            "m_blockInput": 0,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 127,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Mercenaries - Season 1 - Task 16 Bounty Claim",
+            "m_ignorePopups": 1,
+            "m_blockInput": 0,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 128,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Mercenaries - Season 1 - Task 19 Bounty Claim",
+            "m_ignorePopups": 1,
+            "m_blockInput": 0,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 129,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Mercenaries - Season 1 - Task 21 Bounty Claim",
+            "m_ignorePopups": 1,
+            "m_blockInput": 0,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 13,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Frost Festival Quest Week 1",
+            "m_ignorePopups": 1,
+            "m_blockInput": 1,
+            "m_deferOnComplete": 0
+        },
+        {
+            "m_ID": 130,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Mercenaries - Season 1 - Task 22 Bounty Claim",
+            "m_ignorePopups": 1,
+            "m_blockInput": 0,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 132,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Village Tutorial PvP Build End",
+            "m_ignorePopups": 1,
+            "m_blockInput": 1,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 134,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Village Tutorial PvP Build Start",
+            "m_ignorePopups": 1,
+            "m_blockInput": 1,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 135,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Mercenaries - Season 1 - Task 3 Bounty Claim",
+            "m_ignorePopups": 1,
+            "m_blockInput": 0,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 136,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Village Tutorial Campfire Upgrade Start",
+            "m_ignorePopups": 1,
+            "m_blockInput": 1,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 137,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Village Tutorial PVP Unlock Start",
+            "m_ignorePopups": 1,
+            "m_blockInput": 1,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 138,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Village Tutorial Heroic Unlock Start",
+            "m_ignorePopups": 1,
+            "m_blockInput": 1,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 139,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Mercenaries - Season 1 - Task 25 Bounty Claim",
+            "m_ignorePopups": 1,
+            "m_blockInput": 0,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 14,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Frost Festival Quest Week 2",
+            "m_ignorePopups": 1,
+            "m_blockInput": 1,
+            "m_deferOnComplete": 0
+        },
+        {
+            "m_ID": 140,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Mercenaries - Season 1 - Task 23 Bounty Claim",
+            "m_ignorePopups": 1,
+            "m_blockInput": 0,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 141,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Mercenaries - Season 1 - Task 27 Bounty Claim",
+            "m_ignorePopups": 1,
+            "m_blockInput": 0,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 142,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Mercenaries - Season 1 - Task 29 Bounty Claim",
+            "m_ignorePopups": 1,
+            "m_blockInput": 0,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 143,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Mercenaries - Season 1 - Task 30 Bounty Claim",
+            "m_ignorePopups": 1,
+            "m_blockInput": 0,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 144,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Mercenaries - Season 1 - Task 31 Bounty Claim",
+            "m_ignorePopups": 1,
+            "m_blockInput": 0,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 147,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Mercenaries - Season 1 - Task 32 Bounty Claim",
+            "m_ignorePopups": 1,
+            "m_blockInput": 0,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 148,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Mercenaries - Season 1 - Task 37 Bounty Claim",
+            "m_ignorePopups": 1,
+            "m_blockInput": 0,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 149,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Village Tutorial Training Unlock Start",
+            "m_ignorePopups": 1,
+            "m_blockInput": 1,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 15,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Frost Festival Quest Week 3",
+            "m_ignorePopups": 1,
+            "m_blockInput": 1,
+            "m_deferOnComplete": 0
+        },
+        {
+            "m_ID": 150,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Mercenaries - Season 1 - Task 38 Bounty Claim",
+            "m_ignorePopups": 1,
+            "m_blockInput": 0,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 151,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Mercenaries - Season 1 - Task 40 Bounty Claim",
+            "m_ignorePopups": 1,
+            "m_blockInput": 0,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 152,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Mercenaries - Season 1 - Task 42 Bounty Claim",
+            "m_ignorePopups": 1,
+            "m_blockInput": 0,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 153,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Mercenaries - Season 1 - Task 43 Boss Revealed",
+            "m_ignorePopups": 1,
+            "m_blockInput": 0,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 154,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Mercenaries - Season 1 - Task 43 Bounty Claim",
+            "m_ignorePopups": 1,
+            "m_blockInput": 0,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 156,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Mercenaries - Season 1 - Task 44 Bounty Claim",
+            "m_ignorePopups": 1,
+            "m_blockInput": 0,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 157,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Mercenaries - Season 1 - Task 45 Bounty Claim",
+            "m_ignorePopups": 1,
+            "m_blockInput": 0,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 158,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Mercenaries - Season 1 - Task 48 Bounty Claim",
+            "m_ignorePopups": 1,
+            "m_blockInput": 0,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 159,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Mercenaries - Season 1 - Task 49 Bounty Claim",
+            "m_ignorePopups": 1,
+            "m_blockInput": 0,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 16,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Ahune Frost Festival Brawl",
+            "m_ignorePopups": 1,
+            "m_blockInput": 1,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 161,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Mercenaries - Season 2 - Task 1 After Combat",
+            "m_ignorePopups": 1,
+            "m_blockInput": 0,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 162,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Mercenaries - Season 2 - Task 1 Bounty Claim",
+            "m_ignorePopups": 1,
+            "m_blockInput": 0,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 163,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Mercenaries - Season 2 - Task 2 Bounty Claim",
+            "m_ignorePopups": 1,
+            "m_blockInput": 0,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 164,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Mercenaries - Season 2 - Task 3 Bounty Claim",
+            "m_ignorePopups": 1,
+            "m_blockInput": 0,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 166,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Mercenaries - Season 2 - Task 4 After Combat",
+            "m_ignorePopups": 1,
+            "m_blockInput": 0,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 167,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Mercenaries - Season 2 - Task 5 Bounty Claim",
+            "m_ignorePopups": 1,
+            "m_blockInput": 0,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 168,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Mercenaries - Season 2 - Task 6 Bounty Claim",
+            "m_ignorePopups": 1,
+            "m_blockInput": 0,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 169,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Mercenaries - Season 2 - Task 8 Bounty Claim",
+            "m_ignorePopups": 1,
+            "m_blockInput": 0,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 17,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Ahune Frost Festival Periodic Login VO 1",
+            "m_ignorePopups": 1,
+            "m_blockInput": 1,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 170,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Mercenaries - Season 2 - Task 7 Bounty Claim",
+            "m_ignorePopups": 1,
+            "m_blockInput": 0,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 171,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Mercenaries - Season 2 - Task 9 Bounty Claim",
+            "m_ignorePopups": 1,
+            "m_blockInput": 0,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 173,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Mercenaries - Season 2 - Task 10 Bounty Claim",
+            "m_ignorePopups": 1,
+            "m_blockInput": 0,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 174,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Mercenaries - Season 2 - Task 11 Bounty Claim ",
+            "m_ignorePopups": 1,
+            "m_blockInput": 0,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 175,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Mercenaries - Season 2 - Task 13  Bounty Claim",
+            "m_ignorePopups": 1,
+            "m_blockInput": 0,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 177,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Mercenaries - Season 2 - Task 14 Bounty Claim",
+            "m_ignorePopups": 1,
+            "m_blockInput": 0,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 178,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Mercenaries - Season 2 - Task 15 Bounty Claim",
+            "m_ignorePopups": 1,
+            "m_blockInput": 0,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 179,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Mercenaries - Season 2 - Task 17 Bounty Claim",
+            "m_ignorePopups": 1,
+            "m_blockInput": 0,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 18,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Ahune Frost Festival Periodic Login VO 2",
+            "m_ignorePopups": 1,
+            "m_blockInput": 1,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 180,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Mercenaries - Season 2 - Task 18 Bounty Claim",
+            "m_ignorePopups": 1,
+            "m_blockInput": 0,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 181,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Mercenaries - Season 2 - Task 19 Bounty Claim ",
+            "m_ignorePopups": 1,
+            "m_blockInput": 0,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 183,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Mercenaries - Season 2 - Task 20 Bounty Claim ",
+            "m_ignorePopups": 1,
+            "m_blockInput": 0,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 184,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Mercenaries - Season 3 - Task 1 Map Start",
+            "m_ignorePopups": 1,
+            "m_blockInput": 0,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 185,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Mercenaries - Season 3 - Task 1 After Combat",
+            "m_ignorePopups": 1,
+            "m_blockInput": 0,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 187,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Mercenaries - Season 3 - Task 3 After Combat",
+            "m_ignorePopups": 1,
+            "m_blockInput": 0,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 188,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Mercenaries - Season 3 - Task 4 Boss Revealed",
+            "m_ignorePopups": 1,
+            "m_blockInput": 0,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 189,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Mercenaries - Season 3 - Task 4 After Combat",
+            "m_ignorePopups": 1,
+            "m_blockInput": 0,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 19,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Ahune Frost Festival Periodic Login VO 3",
+            "m_ignorePopups": 1,
+            "m_blockInput": 1,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 190,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Mercenaries - Season 3 - Task 5 After Combat",
+            "m_ignorePopups": 1,
+            "m_blockInput": 0,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 191,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Mercenaries - Season 3 - Task 6 Boss Revealed",
+            "m_ignorePopups": 1,
+            "m_blockInput": 0,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 193,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Mercenaries - Season 3 - Task 7 After Combat",
+            "m_ignorePopups": 1,
+            "m_blockInput": 0,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 194,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Mercenaries - Season 3 - Task 8 After Combat",
+            "m_ignorePopups": 1,
+            "m_blockInput": 0,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 196,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Mercenaries - Season 3 - Task 10 After Combat",
+            "m_ignorePopups": 1,
+            "m_blockInput": 0,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 197,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Mercenaries - Season 3 - Task 11 After Combat",
+            "m_ignorePopups": 1,
+            "m_blockInput": 0,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 198,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Mercenaries - Season 3 - Task 12 Boss Revealed",
+            "m_ignorePopups": 1,
+            "m_blockInput": 0,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 199,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Mercenaries - Season 3 - Task 12 Bounty Claim",
+            "m_ignorePopups": 1,
+            "m_blockInput": 0,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 2,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Join the Goons",
+            "m_ignorePopups": 1,
+            "m_blockInput": 1,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 20,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Ahune Frost Festival Periodic Login VO 4",
+            "m_ignorePopups": 1,
+            "m_blockInput": 1,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 200,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Mercenaries - Season 2 - Task 21 Bounty Claim",
+            "m_ignorePopups": 1,
+            "m_blockInput": 0,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 202,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Mercenaries - Season 2 - Task 21 Boss Revealed",
+            "m_ignorePopups": 1,
+            "m_blockInput": 0,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 203,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Lucky Draw FTUE VO",
+            "m_ignorePopups": 1,
+            "m_blockInput": 0,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 204,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Lucky Draw Hammer FTUE VO",
+            "m_ignorePopups": 1,
+            "m_blockInput": 0,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 21,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Ahune Frost Festival Periodic Login VO 5",
+            "m_ignorePopups": 1,
+            "m_blockInput": 1,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 22,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Hallow's End 2017 - Headless Horseman - Login VO 1",
+            "m_ignorePopups": 1,
+            "m_blockInput": 0,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 23,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Hallow's End 2017 - Headless Horseman - Login VO 2",
+            "m_ignorePopups": 1,
+            "m_blockInput": 0,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 24,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "New Year of the Raven - Innkeeper - Quest VO 1",
+            "m_ignorePopups": 1,
+            "m_blockInput": 0,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 25,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "New Year of the Raven - Innkeeper - Quest VO 2",
+            "m_ignorePopups": 1,
+            "m_blockInput": 0,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 26,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "New Year of the Raven - Innkeeper - Intro",
+            "m_ignorePopups": 1,
+            "m_blockInput": 1,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 27,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "New Year of the Raven - Innkeeper - Intro Hub",
+            "m_ignorePopups": 1,
+            "m_blockInput": 0,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 28,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "New Year of the Raven - Innkeeper - Intro Hub 2",
+            "m_ignorePopups": 1,
+            "m_blockInput": 0,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 29,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "New Year of the Raven - Innkeeper - Intro Hub 3",
+            "m_ignorePopups": 1,
+            "m_blockInput": 0,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 3,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "A Job for Ya'",
+            "m_ignorePopups": 1,
+            "m_blockInput": 1,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 30,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "New Year of the Raven - Innkeeper - Tavern Brawl",
+            "m_ignorePopups": 1,
+            "m_blockInput": 0,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 31,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "New Year of the Raven - Innkeeper - Witchwood Pack",
+            "m_ignorePopups": 1,
+            "m_blockInput": 0,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 32,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Taverns of Time - Toki - Login VO 1",
+            "m_ignorePopups": 1,
+            "m_blockInput": 1,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 34,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Taverns of Time - Toki - Login VO 2",
+            "m_ignorePopups": 1,
+            "m_blockInput": 1,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 35,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Taverns of Time - Toki - Login VO 3",
+            "m_ignorePopups": 1,
+            "m_blockInput": 1,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 36,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Taverns of Time - Toki - Quest Reminder VO",
+            "m_ignorePopups": 1,
+            "m_blockInput": 1,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 37,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Taverns of Time - Toki - Tavern Brawl VO 1",
+            "m_ignorePopups": 1,
+            "m_blockInput": 1,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 38,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Taverns of Time - Toki - Tavern Brawl VO 2",
+            "m_ignorePopups": 1,
+            "m_blockInput": 1,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 39,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Taverns of Time - Toki - Tavern Brawl VO 3",
+            "m_ignorePopups": 1,
+            "m_blockInput": 1,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 4,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Join the Jade Lotus",
+            "m_ignorePopups": 1,
+            "m_blockInput": 1,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 40,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Taverns of Time - Toki - Arena VO 1",
+            "m_ignorePopups": 1,
+            "m_blockInput": 1,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 41,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Taverns of Time - Toki - Arena VO 2",
+            "m_ignorePopups": 1,
+            "m_blockInput": 1,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 42,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Taverns of Time - Toki - Arena Reminder VO",
+            "m_ignorePopups": 1,
+            "m_blockInput": 1,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 43,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Taverns of Time - Toki - Arena Reward VO",
+            "m_ignorePopups": 1,
+            "m_blockInput": 1,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 44,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Ragnaros Fire Festival v2 Brawl",
+            "m_ignorePopups": 1,
+            "m_blockInput": 1,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 45,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Ragnaros Fire Festival v2 Login VO",
+            "m_ignorePopups": 0,
+            "m_blockInput": 1,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 46,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Ragnaros Fire Festival v2 Quest Congrats 1",
+            "m_ignorePopups": 1,
+            "m_blockInput": 0,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 47,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Ragnaros Fire Festival v2 Quest Congrats 2",
+            "m_ignorePopups": 1,
+            "m_blockInput": 0,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 48,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Ragnaros Fire Festival v2 Quest Congrats 3",
+            "m_ignorePopups": 1,
+            "m_blockInput": 0,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 49,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Hallow's End 2018 - Headless Horseman - Login VO 1",
+            "m_ignorePopups": 1,
+            "m_blockInput": 0,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 5,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Wise Beyond Your Years",
+            "m_ignorePopups": 1,
+            "m_blockInput": 1,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 50,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Hallow's End 2018 - Headless Horseman - Login VO 2",
+            "m_ignorePopups": 1,
+            "m_blockInput": 0,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 51,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Season of Rastakhan Login VO - Week 1",
+            "m_ignorePopups": 1,
+            "m_blockInput": 1,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 52,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Season of Rastakhan Login VO - Week 2",
+            "m_ignorePopups": 1,
+            "m_blockInput": 1,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 53,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Season of Rastakhan Login VO - Week 3",
+            "m_ignorePopups": 1,
+            "m_blockInput": 1,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 54,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Season of Rastakhan Tavern Brawl VO",
+            "m_ignorePopups": 1,
+            "m_blockInput": 1,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 55,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Ragnaros Fire Festival v3 Login VO",
+            "m_ignorePopups": 1,
+            "m_blockInput": 1,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 56,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Ragnaros Fire Festival v3 Quest 2-7 Granted",
+            "m_ignorePopups": 1,
+            "m_blockInput": 0,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 57,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Hallow's End 2019 - Headless Horsemen - Login VO 1",
+            "m_ignorePopups": 1,
+            "m_blockInput": 0,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 58,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Hallow's End 2019 - Headless Horsemen - Login VO 2",
+            "m_ignorePopups": 1,
+            "m_blockInput": 0,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 59,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Battlegrounds Login VO",
+            "m_ignorePopups": 1,
+            "m_blockInput": 1,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 6,
+            "m_onCompleteBannerId": 39,
+            "m_noteDesc": "Join the Kabal",
+            "m_ignorePopups": 1,
+            "m_blockInput": 1,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 60,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Battlegrounds Lobby First Entry VO",
+            "m_ignorePopups": 1,
+            "m_blockInput": 0,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 69,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Ragnaros Fire Festival v4 Login VO",
+            "m_ignorePopups": 1,
+            "m_blockInput": 1,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 7,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Ragnaros Fire Festival Brawl",
+            "m_ignorePopups": 1,
+            "m_blockInput": 1,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 70,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Hallow's End 2020 - Headmaster Kelthuzad - Login VO 1",
+            "m_ignorePopups": 1,
+            "m_blockInput": 0,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 71,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Hallow's End 2020 - Headmaster Kelthuzad - Login VO 2",
+            "m_ignorePopups": 1,
+            "m_blockInput": 0,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 72,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Hallow's End 2020 - Headmaster Kelthuzad - Login VO 3",
+            "m_ignorePopups": 1,
+            "m_blockInput": 0,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 73,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Hallow's End 2020 - Headmaster Kelthuzad - Battlegrounds VO",
+            "m_ignorePopups": 1,
+            "m_blockInput": 0,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 74,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Hallow's End 2020 - Headmaster Kelthuzad - Tavern Brawl VO 1",
+            "m_ignorePopups": 1,
+            "m_blockInput": 0,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 75,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Hallow's End 2020 - Headmaster Kelthuzad - Tavern Brawl VO 2",
+            "m_ignorePopups": 1,
+            "m_blockInput": 0,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 76,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Hallow's End 2020 - Headmaster Kelthuzad - Arena Ticket VO",
+            "m_ignorePopups": 1,
+            "m_blockInput": 0,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 77,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Hallow's End 2020 - Headmaster Kelthuzad - Arena VO",
+            "m_ignorePopups": 1,
+            "m_blockInput": 0,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 78,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Hallow's End 2020 - Headmaster Kelthuzad - Bundle Purchase VO",
+            "m_ignorePopups": 1,
+            "m_blockInput": 0,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 79,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Mercenaries Lobby First Entry VO",
+            "m_ignorePopups": 1,
+            "m_blockInput": 1,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 8,
+            "m_onCompleteBannerId": 56,
+            "m_noteDesc": "Ragnaros Fire Festival Login VO",
+            "m_ignorePopups": 1,
+            "m_blockInput": 1,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 9,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Ragnaros Fire Festival Quest Congrats",
+            "m_ignorePopups": 1,
+            "m_blockInput": 0,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 98,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Mercenaries Tutorial Click Elite",
+            "m_ignorePopups": 1,
+            "m_blockInput": 1,
+            "m_deferOnComplete": 1
+        },
+        {
+            "m_ID": 99,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Village Tutorial Start",
+            "m_ignorePopups": 1,
+            "m_blockInput": 1,
+            "m_deferOnComplete": 0
+        }
+    ]
+}

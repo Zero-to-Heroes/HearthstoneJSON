@@ -1,0 +1,2919 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 1370324629465693019
+    },
+    "m_Name": "BATTLEGROUNDS_HERO_SKIN",
+    "Records": [
+        {
+            "m_ID": 10,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 75161,
+            "m_baseCardId": 60366
+        },
+        {
+            "m_ID": 100,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 80574,
+            "m_baseCardId": 60214
+        },
+        {
+            "m_ID": 101,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 80666,
+            "m_baseCardId": 63601
+        },
+        {
+            "m_ID": 102,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 80667,
+            "m_baseCardId": 57891
+        },
+        {
+            "m_ID": 103,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 80673,
+            "m_baseCardId": 58024
+        },
+        {
+            "m_ID": 104,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 80674,
+            "m_baseCardId": 61914
+        },
+        {
+            "m_ID": 105,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 80675,
+            "m_baseCardId": 61910
+        },
+        {
+            "m_ID": 107,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 80677,
+            "m_baseCardId": 60372
+        },
+        {
+            "m_ID": 108,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 80678,
+            "m_baseCardId": 63602
+        },
+        {
+            "m_ID": 11,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 75166,
+            "m_baseCardId": 57944
+        },
+        {
+            "m_ID": 110,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 80778,
+            "m_baseCardId": 63604
+        },
+        {
+            "m_ID": 111,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 80780,
+            "m_baseCardId": 64485
+        },
+        {
+            "m_ID": 112,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 80781,
+            "m_baseCardId": 60211
+        },
+        {
+            "m_ID": 113,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 80782,
+            "m_baseCardId": 63319
+        },
+        {
+            "m_ID": 114,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 80783,
+            "m_baseCardId": 62266
+        },
+        {
+            "m_ID": 115,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 80784,
+            "m_baseCardId": 67553
+        },
+        {
+            "m_ID": 116,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 80785,
+            "m_baseCardId": 64480
+        },
+        {
+            "m_ID": 117,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 80786,
+            "m_baseCardId": 58021
+        },
+        {
+            "m_ID": 118,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 80787,
+            "m_baseCardId": 60367
+        },
+        {
+            "m_ID": 119,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 80789,
+            "m_baseCardId": 64403
+        },
+        {
+            "m_ID": 12,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 75168,
+            "m_baseCardId": 60211
+        },
+        {
+            "m_ID": 120,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 80790,
+            "m_baseCardId": 70956
+        },
+        {
+            "m_ID": 121,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 80791,
+            "m_baseCardId": 60362
+        },
+        {
+            "m_ID": 122,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 80809,
+            "m_baseCardId": 58535
+        },
+        {
+            "m_ID": 123,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 80810,
+            "m_baseCardId": 57892
+        },
+        {
+            "m_ID": 124,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 80811,
+            "m_baseCardId": 67356
+        },
+        {
+            "m_ID": 125,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 80812,
+            "m_baseCardId": 57924
+        },
+        {
+            "m_ID": 126,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 82053,
+            "m_baseCardId": 64485
+        },
+        {
+            "m_ID": 127,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 82054,
+            "m_baseCardId": 71454
+        },
+        {
+            "m_ID": 128,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 82055,
+            "m_baseCardId": 61914
+        },
+        {
+            "m_ID": 129,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 82056,
+            "m_baseCardId": 60362
+        },
+        {
+            "m_ID": 13,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 75170,
+            "m_baseCardId": 57929
+        },
+        {
+            "m_ID": 130,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 82057,
+            "m_baseCardId": 58024
+        },
+        {
+            "m_ID": 131,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 82058,
+            "m_baseCardId": 57891
+        },
+        {
+            "m_ID": 132,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 82059,
+            "m_baseCardId": 60213
+        },
+        {
+            "m_ID": 133,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 82060,
+            "m_baseCardId": 61910
+        },
+        {
+            "m_ID": 135,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 82071,
+            "m_baseCardId": 62266
+        },
+        {
+            "m_ID": 136,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 82076,
+            "m_baseCardId": 70956
+        },
+        {
+            "m_ID": 137,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 82070,
+            "m_baseCardId": 73940
+        },
+        {
+            "m_ID": 138,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 82077,
+            "m_baseCardId": 58534
+        },
+        {
+            "m_ID": 139,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 82078,
+            "m_baseCardId": 59397
+        },
+        {
+            "m_ID": 14,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 75171,
+            "m_baseCardId": 60370
+        },
+        {
+            "m_ID": 140,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 82094,
+            "m_baseCardId": 71908
+        },
+        {
+            "m_ID": 141,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 82080,
+            "m_baseCardId": 68129
+        },
+        {
+            "m_ID": 142,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 82081,
+            "m_baseCardId": 60366
+        },
+        {
+            "m_ID": 144,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 82391,
+            "m_baseCardId": 75702
+        },
+        {
+            "m_ID": 145,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 82503,
+            "m_baseCardId": 64485
+        },
+        {
+            "m_ID": 146,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 82504,
+            "m_baseCardId": 63319
+        },
+        {
+            "m_ID": 147,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 82392,
+            "m_baseCardId": 60370
+        },
+        {
+            "m_ID": 148,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 82505,
+            "m_baseCardId": 59805
+        },
+        {
+            "m_ID": 149,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 82506,
+            "m_baseCardId": 59831
+        },
+        {
+            "m_ID": 15,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 75172,
+            "m_baseCardId": 63604
+        },
+        {
+            "m_ID": 150,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 82507,
+            "m_baseCardId": 71463
+        },
+        {
+            "m_ID": 151,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 82516,
+            "m_baseCardId": 57944
+        },
+        {
+            "m_ID": 152,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 82508,
+            "m_baseCardId": 59807
+        },
+        {
+            "m_ID": 153,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 82509,
+            "m_baseCardId": 57633
+        },
+        {
+            "m_ID": 154,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 82510,
+            "m_baseCardId": 57634
+        },
+        {
+            "m_ID": 155,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 82511,
+            "m_baseCardId": 60213
+        },
+        {
+            "m_ID": 156,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 82512,
+            "m_baseCardId": 60214
+        },
+        {
+            "m_ID": 157,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 82513,
+            "m_baseCardId": 64403
+        },
+        {
+            "m_ID": 158,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 82514,
+            "m_baseCardId": 57929
+        },
+        {
+            "m_ID": 159,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 82515,
+            "m_baseCardId": 71454
+        },
+        {
+            "m_ID": 16,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 75174,
+            "m_baseCardId": 59397
+        },
+        {
+            "m_ID": 160,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 83633,
+            "m_baseCardId": 74646
+        },
+        {
+            "m_ID": 161,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 83634,
+            "m_baseCardId": 74631
+        },
+        {
+            "m_ID": 162,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 83635,
+            "m_baseCardId": 63601
+        },
+        {
+            "m_ID": 163,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 83636,
+            "m_baseCardId": 67356
+        },
+        {
+            "m_ID": 164,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 83637,
+            "m_baseCardId": 63602
+        },
+        {
+            "m_ID": 165,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 83638,
+            "m_baseCardId": 61910
+        },
+        {
+            "m_ID": 166,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 83641,
+            "m_baseCardId": 59806
+        },
+        {
+            "m_ID": 167,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 83642,
+            "m_baseCardId": 57946
+        },
+        {
+            "m_ID": 168,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 83645,
+            "m_baseCardId": 71916
+        },
+        {
+            "m_ID": 169,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 83646,
+            "m_baseCardId": 63604
+        },
+        {
+            "m_ID": 17,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 75177,
+            "m_baseCardId": 58044
+        },
+        {
+            "m_ID": 170,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 83647,
+            "m_baseCardId": 57924
+        },
+        {
+            "m_ID": 171,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 83648,
+            "m_baseCardId": 57893
+        },
+        {
+            "m_ID": 172,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 83649,
+            "m_baseCardId": 61490
+        },
+        {
+            "m_ID": 173,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 83650,
+            "m_baseCardId": 58435
+        },
+        {
+            "m_ID": 174,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 83651,
+            "m_baseCardId": 59397
+        },
+        {
+            "m_ID": 176,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 88990,
+            "m_baseCardId": 76521
+        },
+        {
+            "m_ID": 177,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 88930,
+            "m_baseCardId": 60211
+        },
+        {
+            "m_ID": 178,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 88932,
+            "m_baseCardId": 62266
+        },
+        {
+            "m_ID": 179,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 88933,
+            "m_baseCardId": 60372
+        },
+        {
+            "m_ID": 18,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 75178,
+            "m_baseCardId": 60367
+        },
+        {
+            "m_ID": 180,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 88934,
+            "m_baseCardId": 57947
+        },
+        {
+            "m_ID": 181,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 89020,
+            "m_baseCardId": 59806
+        },
+        {
+            "m_ID": 182,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 88936,
+            "m_baseCardId": 57892
+        },
+        {
+            "m_ID": 183,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 89019,
+            "m_baseCardId": 63604
+        },
+        {
+            "m_ID": 184,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 88938,
+            "m_baseCardId": 57929
+        },
+        {
+            "m_ID": 185,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 88939,
+            "m_baseCardId": 59203
+        },
+        {
+            "m_ID": 186,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 88940,
+            "m_baseCardId": 64403
+        },
+        {
+            "m_ID": 187,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 88941,
+            "m_baseCardId": 57635
+        },
+        {
+            "m_ID": 188,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 88942,
+            "m_baseCardId": 64485
+        },
+        {
+            "m_ID": 189,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 88943,
+            "m_baseCardId": 57633
+        },
+        {
+            "m_ID": 19,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 75179,
+            "m_baseCardId": 61912
+        },
+        {
+            "m_ID": 190,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 88944,
+            "m_baseCardId": 66196
+        },
+        {
+            "m_ID": 191,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 88945,
+            "m_baseCardId": 61488
+        },
+        {
+            "m_ID": 195,
+            "m_enabled": 1,
+            "m_rarityId": 5,
+            "m_skinCardId": 89700,
+            "m_baseCardId": 61910
+        },
+        {
+            "m_ID": 196,
+            "m_enabled": 1,
+            "m_rarityId": 5,
+            "m_skinCardId": 89702,
+            "m_baseCardId": 60213
+        },
+        {
+            "m_ID": 197,
+            "m_enabled": 1,
+            "m_rarityId": 5,
+            "m_skinCardId": 89703,
+            "m_baseCardId": 60212
+        },
+        {
+            "m_ID": 198,
+            "m_enabled": 1,
+            "m_rarityId": 5,
+            "m_skinCardId": 89704,
+            "m_baseCardId": 79615
+        },
+        {
+            "m_ID": 199,
+            "m_enabled": 1,
+            "m_rarityId": 5,
+            "m_skinCardId": 89705,
+            "m_baseCardId": 57633
+        },
+        {
+            "m_ID": 200,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 92178,
+            "m_baseCardId": 64480
+        },
+        {
+            "m_ID": 201,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 92179,
+            "m_baseCardId": 61489
+        },
+        {
+            "m_ID": 202,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 92180,
+            "m_baseCardId": 59805
+        },
+        {
+            "m_ID": 203,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 92181,
+            "m_baseCardId": 59814
+        },
+        {
+            "m_ID": 204,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 92182,
+            "m_baseCardId": 70956
+        },
+        {
+            "m_ID": 205,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 92183,
+            "m_baseCardId": 57891
+        },
+        {
+            "m_ID": 206,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 92184,
+            "m_baseCardId": 58044
+        },
+        {
+            "m_ID": 207,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 92185,
+            "m_baseCardId": 67553
+        },
+        {
+            "m_ID": 208,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 92192,
+            "m_baseCardId": 60212
+        },
+        {
+            "m_ID": 209,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 92193,
+            "m_baseCardId": 60362
+        },
+        {
+            "m_ID": 210,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 92194,
+            "m_baseCardId": 74646
+        },
+        {
+            "m_ID": 211,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 92195,
+            "m_baseCardId": 80239
+        },
+        {
+            "m_ID": 212,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 92204,
+            "m_baseCardId": 59831
+        },
+        {
+            "m_ID": 213,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 92209,
+            "m_baseCardId": 64475
+        },
+        {
+            "m_ID": 214,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 92220,
+            "m_baseCardId": 62266
+        },
+        {
+            "m_ID": 215,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 92221,
+            "m_baseCardId": 71916
+        },
+        {
+            "m_ID": 217,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 94526,
+            "m_baseCardId": 61910
+        },
+        {
+            "m_ID": 218,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 94523,
+            "m_baseCardId": 71916
+        },
+        {
+            "m_ID": 219,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 94524,
+            "m_baseCardId": 60214
+        },
+        {
+            "m_ID": 220,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 94525,
+            "m_baseCardId": 75702
+        },
+        {
+            "m_ID": 221,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 94528,
+            "m_baseCardId": 61912
+        },
+        {
+            "m_ID": 222,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 94529,
+            "m_baseCardId": 74631
+        },
+        {
+            "m_ID": 223,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 94530,
+            "m_baseCardId": 64400
+        },
+        {
+            "m_ID": 224,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 94531,
+            "m_baseCardId": 58021
+        },
+        {
+            "m_ID": 225,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 94532,
+            "m_baseCardId": 59806
+        },
+        {
+            "m_ID": 226,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 94533,
+            "m_baseCardId": 60369
+        },
+        {
+            "m_ID": 227,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 94534,
+            "m_baseCardId": 57947
+        },
+        {
+            "m_ID": 228,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 94535,
+            "m_baseCardId": 60211
+        },
+        {
+            "m_ID": 229,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 94522,
+            "m_baseCardId": 77516
+        },
+        {
+            "m_ID": 230,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 94536,
+            "m_baseCardId": 71458
+        },
+        {
+            "m_ID": 231,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 94537,
+            "m_baseCardId": 70956
+        },
+        {
+            "m_ID": 232,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 94538,
+            "m_baseCardId": 73940
+        },
+        {
+            "m_ID": 234,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 94871,
+            "m_baseCardId": 75702
+        },
+        {
+            "m_ID": 235,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 94872,
+            "m_baseCardId": 76562
+        },
+        {
+            "m_ID": 236,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 94873,
+            "m_baseCardId": 76521
+        },
+        {
+            "m_ID": 237,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 94874,
+            "m_baseCardId": 63319
+        },
+        {
+            "m_ID": 238,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 94875,
+            "m_baseCardId": 74631
+        },
+        {
+            "m_ID": 239,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 95330,
+            "m_baseCardId": 60362
+        },
+        {
+            "m_ID": 240,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 95331,
+            "m_baseCardId": 59806
+        },
+        {
+            "m_ID": 241,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 95332,
+            "m_baseCardId": 85125
+        },
+        {
+            "m_ID": 242,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 95309,
+            "m_baseCardId": 63319
+        },
+        {
+            "m_ID": 243,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 95310,
+            "m_baseCardId": 71458
+        },
+        {
+            "m_ID": 244,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 95311,
+            "m_baseCardId": 63601
+        },
+        {
+            "m_ID": 245,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 95312,
+            "m_baseCardId": 75702
+        },
+        {
+            "m_ID": 246,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 95313,
+            "m_baseCardId": 76562
+        },
+        {
+            "m_ID": 247,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 95314,
+            "m_baseCardId": 60367
+        },
+        {
+            "m_ID": 248,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 95315,
+            "m_baseCardId": 57929
+        },
+        {
+            "m_ID": 249,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 95316,
+            "m_baseCardId": 74646
+        },
+        {
+            "m_ID": 250,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 95317,
+            "m_baseCardId": 70956
+        },
+        {
+            "m_ID": 251,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 95318,
+            "m_baseCardId": 61489
+        },
+        {
+            "m_ID": 252,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 95319,
+            "m_baseCardId": 73940
+        },
+        {
+            "m_ID": 253,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 95320,
+            "m_baseCardId": 70838
+        },
+        {
+            "m_ID": 254,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 95321,
+            "m_baseCardId": 71908
+        },
+        {
+            "m_ID": 255,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 95322,
+            "m_baseCardId": 58044
+        },
+        {
+            "m_ID": 256,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 95324,
+            "m_baseCardId": 61490
+        },
+        {
+            "m_ID": 257,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 95325,
+            "m_baseCardId": 62242
+        },
+        {
+            "m_ID": 258,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 95326,
+            "m_baseCardId": 58534
+        },
+        {
+            "m_ID": 259,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 95327,
+            "m_baseCardId": 82110
+        },
+        {
+            "m_ID": 260,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 95328,
+            "m_baseCardId": 57944
+        },
+        {
+            "m_ID": 261,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 95329,
+            "m_baseCardId": 71454
+        },
+        {
+            "m_ID": 267,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_skinCardId": 96560,
+            "m_baseCardId": 60366
+        },
+        {
+            "m_ID": 268,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_skinCardId": 96561,
+            "m_baseCardId": 70838
+        },
+        {
+            "m_ID": 269,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_skinCardId": 96564,
+            "m_baseCardId": 74631
+        },
+        {
+            "m_ID": 270,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_skinCardId": 96565,
+            "m_baseCardId": 66196
+        },
+        {
+            "m_ID": 271,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_skinCardId": 96566,
+            "m_baseCardId": 62268
+        },
+        {
+            "m_ID": 272,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_skinCardId": 96567,
+            "m_baseCardId": 61490
+        },
+        {
+            "m_ID": 273,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_skinCardId": 96568,
+            "m_baseCardId": 71454
+        },
+        {
+            "m_ID": 274,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_skinCardId": 96569,
+            "m_baseCardId": 58027
+        },
+        {
+            "m_ID": 275,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_skinCardId": 96570,
+            "m_baseCardId": 57635
+        },
+        {
+            "m_ID": 276,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_skinCardId": 96571,
+            "m_baseCardId": 57924
+        },
+        {
+            "m_ID": 277,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_skinCardId": 96572,
+            "m_baseCardId": 71463
+        },
+        {
+            "m_ID": 278,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_skinCardId": 96576,
+            "m_baseCardId": 60214
+        },
+        {
+            "m_ID": 279,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_skinCardId": 96573,
+            "m_baseCardId": 57946
+        },
+        {
+            "m_ID": 280,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_skinCardId": 96574,
+            "m_baseCardId": 63601
+        },
+        {
+            "m_ID": 281,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_skinCardId": 96575,
+            "m_baseCardId": 63602
+        },
+        {
+            "m_ID": 282,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_skinCardId": 96577,
+            "m_baseCardId": 59805
+        },
+        {
+            "m_ID": 283,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_skinCardId": 96578,
+            "m_baseCardId": 59831
+        },
+        {
+            "m_ID": 284,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_skinCardId": 96579,
+            "m_baseCardId": 57947
+        },
+        {
+            "m_ID": 285,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_skinCardId": 96580,
+            "m_baseCardId": 57892
+        },
+        {
+            "m_ID": 286,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_skinCardId": 96581,
+            "m_baseCardId": 58535
+        },
+        {
+            "m_ID": 287,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_skinCardId": 96582,
+            "m_baseCardId": 64403
+        },
+        {
+            "m_ID": 288,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_skinCardId": 96583,
+            "m_baseCardId": 64400
+        },
+        {
+            "m_ID": 289,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_skinCardId": 96584,
+            "m_baseCardId": 71916
+        },
+        {
+            "m_ID": 290,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_skinCardId": 96611,
+            "m_baseCardId": 64400
+        },
+        {
+            "m_ID": 291,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_skinCardId": 96612,
+            "m_baseCardId": 85125
+        },
+        {
+            "m_ID": 292,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_skinCardId": 96613,
+            "m_baseCardId": 67553
+        },
+        {
+            "m_ID": 293,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_skinCardId": 96614,
+            "m_baseCardId": 57946
+        },
+        {
+            "m_ID": 294,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_skinCardId": 96615,
+            "m_baseCardId": 81569
+        },
+        {
+            "m_ID": 297,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_skinCardId": 96427,
+            "m_baseCardId": 59814
+        },
+        {
+            "m_ID": 298,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_skinCardId": 97920,
+            "m_baseCardId": 77516
+        },
+        {
+            "m_ID": 299,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_skinCardId": 97921,
+            "m_baseCardId": 67356
+        },
+        {
+            "m_ID": 300,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_skinCardId": 97922,
+            "m_baseCardId": 59203
+        },
+        {
+            "m_ID": 301,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_skinCardId": 97923,
+            "m_baseCardId": 57946
+        },
+        {
+            "m_ID": 302,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_skinCardId": 97924,
+            "m_baseCardId": 58534
+        },
+        {
+            "m_ID": 303,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_skinCardId": 97925,
+            "m_baseCardId": 67553
+        },
+        {
+            "m_ID": 304,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_skinCardId": 97926,
+            "m_baseCardId": 57891
+        },
+        {
+            "m_ID": 305,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_skinCardId": 97927,
+            "m_baseCardId": 82110
+        },
+        {
+            "m_ID": 306,
+            "m_enabled": 1,
+            "m_rarityId": 5,
+            "m_skinCardId": 97928,
+            "m_baseCardId": 60367
+        },
+        {
+            "m_ID": 307,
+            "m_enabled": 1,
+            "m_rarityId": 5,
+            "m_skinCardId": 97929,
+            "m_baseCardId": 80832
+        },
+        {
+            "m_ID": 308,
+            "m_enabled": 1,
+            "m_rarityId": 5,
+            "m_skinCardId": 97930,
+            "m_baseCardId": 57893
+        },
+        {
+            "m_ID": 309,
+            "m_enabled": 1,
+            "m_rarityId": 5,
+            "m_skinCardId": 97931,
+            "m_baseCardId": 58024
+        },
+        {
+            "m_ID": 311,
+            "m_enabled": 1,
+            "m_rarityId": 5,
+            "m_skinCardId": 97932,
+            "m_baseCardId": 58535
+        },
+        {
+            "m_ID": 312,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 98785,
+            "m_baseCardId": 86013
+        },
+        {
+            "m_ID": 313,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 98788,
+            "m_baseCardId": 60366
+        },
+        {
+            "m_ID": 314,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 98789,
+            "m_baseCardId": 80239
+        },
+        {
+            "m_ID": 315,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 98790,
+            "m_baseCardId": 58027
+        },
+        {
+            "m_ID": 316,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 98793,
+            "m_baseCardId": 64475
+        },
+        {
+            "m_ID": 317,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_skinCardId": 98794,
+            "m_baseCardId": 79719
+        },
+        {
+            "m_ID": 318,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_skinCardId": 98795,
+            "m_baseCardId": 59807
+        },
+        {
+            "m_ID": 319,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_skinCardId": 98796,
+            "m_baseCardId": 60369
+        },
+        {
+            "m_ID": 320,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_skinCardId": 98797,
+            "m_baseCardId": 58024
+        },
+        {
+            "m_ID": 321,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_skinCardId": 98798,
+            "m_baseCardId": 76521
+        },
+        {
+            "m_ID": 322,
+            "m_enabled": 1,
+            "m_rarityId": 5,
+            "m_skinCardId": 98799,
+            "m_baseCardId": 57635
+        },
+        {
+            "m_ID": 323,
+            "m_enabled": 1,
+            "m_rarityId": 5,
+            "m_skinCardId": 98800,
+            "m_baseCardId": 58435
+        },
+        {
+            "m_ID": 324,
+            "m_enabled": 1,
+            "m_rarityId": 5,
+            "m_skinCardId": 98801,
+            "m_baseCardId": 58044
+        },
+        {
+            "m_ID": 325,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 98802,
+            "m_baseCardId": 64400
+        },
+        {
+            "m_ID": 326,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 98803,
+            "m_baseCardId": 62268
+        },
+        {
+            "m_ID": 327,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 98804,
+            "m_baseCardId": 57944
+        },
+        {
+            "m_ID": 328,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 98805,
+            "m_baseCardId": 81569
+        },
+        {
+            "m_ID": 329,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 98806,
+            "m_baseCardId": 71908
+        },
+        {
+            "m_ID": 330,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_skinCardId": 98807,
+            "m_baseCardId": 61490
+        },
+        {
+            "m_ID": 331,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_skinCardId": 98808,
+            "m_baseCardId": 77987
+        },
+        {
+            "m_ID": 332,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_skinCardId": 98809,
+            "m_baseCardId": 80247
+        },
+        {
+            "m_ID": 333,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_skinCardId": 98810,
+            "m_baseCardId": 70956
+        },
+        {
+            "m_ID": 334,
+            "m_enabled": 1,
+            "m_rarityId": 5,
+            "m_skinCardId": 98811,
+            "m_baseCardId": 73940
+        },
+        {
+            "m_ID": 335,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_skinCardId": 98812,
+            "m_baseCardId": 79615
+        },
+        {
+            "m_ID": 336,
+            "m_enabled": 1,
+            "m_rarityId": 5,
+            "m_skinCardId": 98813,
+            "m_baseCardId": 61912
+        },
+        {
+            "m_ID": 337,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_skinCardId": 99059,
+            "m_baseCardId": 57944
+        },
+        {
+            "m_ID": 338,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_skinCardId": 99060,
+            "m_baseCardId": 71908
+        },
+        {
+            "m_ID": 339,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_skinCardId": 99061,
+            "m_baseCardId": 62242
+        },
+        {
+            "m_ID": 340,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_skinCardId": 99062,
+            "m_baseCardId": 60214
+        },
+        {
+            "m_ID": 341,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_skinCardId": 99063,
+            "m_baseCardId": 70838
+        },
+        {
+            "m_ID": 342,
+            "m_enabled": 1,
+            "m_rarityId": 5,
+            "m_skinCardId": 102491,
+            "m_baseCardId": 60366
+        },
+        {
+            "m_ID": 343,
+            "m_enabled": 1,
+            "m_rarityId": 5,
+            "m_skinCardId": 102493,
+            "m_baseCardId": 101345
+        },
+        {
+            "m_ID": 344,
+            "m_enabled": 1,
+            "m_rarityId": 5,
+            "m_skinCardId": 102494,
+            "m_baseCardId": 92960
+        },
+        {
+            "m_ID": 345,
+            "m_enabled": 1,
+            "m_rarityId": 5,
+            "m_skinCardId": 102495,
+            "m_baseCardId": 57944
+        },
+        {
+            "m_ID": 346,
+            "m_enabled": 1,
+            "m_rarityId": 5,
+            "m_skinCardId": 102496,
+            "m_baseCardId": 59814
+        },
+        {
+            "m_ID": 347,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 102853,
+            "m_baseCardId": 71463
+        },
+        {
+            "m_ID": 348,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 102858,
+            "m_baseCardId": 77987
+        },
+        {
+            "m_ID": 349,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 102860,
+            "m_baseCardId": 64480
+        },
+        {
+            "m_ID": 35,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 76338,
+            "m_baseCardId": 60370
+        },
+        {
+            "m_ID": 350,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 102861,
+            "m_baseCardId": 66483
+        },
+        {
+            "m_ID": 351,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 102862,
+            "m_baseCardId": 80247
+        },
+        {
+            "m_ID": 352,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_skinCardId": 102863,
+            "m_baseCardId": 85125
+        },
+        {
+            "m_ID": 353,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_skinCardId": 102864,
+            "m_baseCardId": 76562
+        },
+        {
+            "m_ID": 354,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_skinCardId": 102867,
+            "m_baseCardId": 70838
+        },
+        {
+            "m_ID": 355,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_skinCardId": 102868,
+            "m_baseCardId": 80832
+        },
+        {
+            "m_ID": 356,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_skinCardId": 102869,
+            "m_baseCardId": 59831
+        },
+        {
+            "m_ID": 357,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_skinCardId": 102870,
+            "m_baseCardId": 79719
+        },
+        {
+            "m_ID": 358,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_skinCardId": 102871,
+            "m_baseCardId": 61488
+        },
+        {
+            "m_ID": 359,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_skinCardId": 102872,
+            "m_baseCardId": 60370
+        },
+        {
+            "m_ID": 36,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 76339,
+            "m_baseCardId": 61489
+        },
+        {
+            "m_ID": 360,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_skinCardId": 102874,
+            "m_baseCardId": 62268
+        },
+        {
+            "m_ID": 361,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_skinCardId": 102876,
+            "m_baseCardId": 96870
+        },
+        {
+            "m_ID": 362,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_skinCardId": 102923,
+            "m_baseCardId": 59203
+        },
+        {
+            "m_ID": 363,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_skinCardId": 102917,
+            "m_baseCardId": 82110
+        },
+        {
+            "m_ID": 364,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_skinCardId": 102919,
+            "m_baseCardId": 86291
+        },
+        {
+            "m_ID": 365,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 102914,
+            "m_baseCardId": 60367
+        },
+        {
+            "m_ID": 366,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_skinCardId": 102918,
+            "m_baseCardId": 63319
+        },
+        {
+            "m_ID": 367,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_skinCardId": 102913,
+            "m_baseCardId": 58027
+        },
+        {
+            "m_ID": 368,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_skinCardId": 103799,
+            "m_baseCardId": 101345
+        },
+        {
+            "m_ID": 369,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_skinCardId": 103802,
+            "m_baseCardId": 79719
+        },
+        {
+            "m_ID": 37,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 76340,
+            "m_baseCardId": 61488
+        },
+        {
+            "m_ID": 370,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_skinCardId": 103797,
+            "m_baseCardId": 64480
+        },
+        {
+            "m_ID": 371,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_skinCardId": 103803,
+            "m_baseCardId": 79618
+        },
+        {
+            "m_ID": 372,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_skinCardId": 103801,
+            "m_baseCardId": 70838
+        },
+        {
+            "m_ID": 373,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_skinCardId": 103798,
+            "m_baseCardId": 61488
+        },
+        {
+            "m_ID": 374,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 103800,
+            "m_baseCardId": 86291
+        },
+        {
+            "m_ID": 375,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 103808,
+            "m_baseCardId": 63602
+        },
+        {
+            "m_ID": 376,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 103827,
+            "m_baseCardId": 60214
+        },
+        {
+            "m_ID": 377,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 103809,
+            "m_baseCardId": 57944
+        },
+        {
+            "m_ID": 378,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 103810,
+            "m_baseCardId": 96870
+        },
+        {
+            "m_ID": 379,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 103811,
+            "m_baseCardId": 80239
+        },
+        {
+            "m_ID": 38,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 76341,
+            "m_baseCardId": 60369
+        },
+        {
+            "m_ID": 380,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 103812,
+            "m_baseCardId": 71454
+        },
+        {
+            "m_ID": 381,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_skinCardId": 103813,
+            "m_baseCardId": 80832
+        },
+        {
+            "m_ID": 382,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_skinCardId": 103814,
+            "m_baseCardId": 86013
+        },
+        {
+            "m_ID": 383,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_skinCardId": 103815,
+            "m_baseCardId": 67356
+        },
+        {
+            "m_ID": 384,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_skinCardId": 103816,
+            "m_baseCardId": 59806
+        },
+        {
+            "m_ID": 385,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_skinCardId": 103817,
+            "m_baseCardId": 76521
+        },
+        {
+            "m_ID": 386,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_skinCardId": 103818,
+            "m_baseCardId": 58027
+        },
+        {
+            "m_ID": 387,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_skinCardId": 103819,
+            "m_baseCardId": 79615
+        },
+        {
+            "m_ID": 388,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_skinCardId": 103807,
+            "m_baseCardId": 84867
+        },
+        {
+            "m_ID": 389,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_skinCardId": 103820,
+            "m_baseCardId": 92960
+        },
+        {
+            "m_ID": 39,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 76342,
+            "m_baseCardId": 61490
+        },
+        {
+            "m_ID": 390,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_skinCardId": 103821,
+            "m_baseCardId": 59805
+        },
+        {
+            "m_ID": 391,
+            "m_enabled": 1,
+            "m_rarityId": 5,
+            "m_skinCardId": 103822,
+            "m_baseCardId": 85125
+        },
+        {
+            "m_ID": 392,
+            "m_enabled": 1,
+            "m_rarityId": 5,
+            "m_skinCardId": 103823,
+            "m_baseCardId": 103477
+        },
+        {
+            "m_ID": 393,
+            "m_enabled": 1,
+            "m_rarityId": 5,
+            "m_skinCardId": 103824,
+            "m_baseCardId": 71916
+        },
+        {
+            "m_ID": 394,
+            "m_enabled": 1,
+            "m_rarityId": 5,
+            "m_skinCardId": 103825,
+            "m_baseCardId": 81569
+        },
+        {
+            "m_ID": 395,
+            "m_enabled": 1,
+            "m_rarityId": 5,
+            "m_skinCardId": 103826,
+            "m_baseCardId": 98726
+        },
+        {
+            "m_ID": 396,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_skinCardId": 104416,
+            "m_baseCardId": 79618
+        },
+        {
+            "m_ID": 397,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_skinCardId": 104418,
+            "m_baseCardId": 58535
+        },
+        {
+            "m_ID": 398,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_skinCardId": 104414,
+            "m_baseCardId": 97186
+        },
+        {
+            "m_ID": 399,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_skinCardId": 104419,
+            "m_baseCardId": 89293
+        },
+        {
+            "m_ID": 40,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 76343,
+            "m_baseCardId": 58435
+        },
+        {
+            "m_ID": 400,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 104420,
+            "m_baseCardId": 86291
+        },
+        {
+            "m_ID": 402,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_skinCardId": 106255,
+            "m_baseCardId": 61914
+        },
+        {
+            "m_ID": 403,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_skinCardId": 106256,
+            "m_baseCardId": 70838
+        },
+        {
+            "m_ID": 404,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_skinCardId": 106658,
+            "m_baseCardId": 59806
+        },
+        {
+            "m_ID": 405,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_skinCardId": 106656,
+            "m_baseCardId": 57635
+        },
+        {
+            "m_ID": 406,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_skinCardId": 106654,
+            "m_baseCardId": 77516
+        },
+        {
+            "m_ID": 407,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_skinCardId": 106655,
+            "m_baseCardId": 63319
+        },
+        {
+            "m_ID": 408,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 106653,
+            "m_baseCardId": 57893
+        },
+        {
+            "m_ID": 409,
+            "m_enabled": 1,
+            "m_rarityId": 2,
+            "m_skinCardId": 106657,
+            "m_baseCardId": 57944
+        },
+        {
+            "m_ID": 41,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 76344,
+            "m_baseCardId": 60212
+        },
+        {
+            "m_ID": 410,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 106627,
+            "m_baseCardId": 79615
+        },
+        {
+            "m_ID": 411,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 106628,
+            "m_baseCardId": 74631
+        },
+        {
+            "m_ID": 412,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 106629,
+            "m_baseCardId": 77987
+        },
+        {
+            "m_ID": 413,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 106630,
+            "m_baseCardId": 98726
+        },
+        {
+            "m_ID": 414,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 106632,
+            "m_baseCardId": 80239
+        },
+        {
+            "m_ID": 415,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_skinCardId": 107789,
+            "m_baseCardId": 66483
+        },
+        {
+            "m_ID": 416,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_skinCardId": 107788,
+            "m_baseCardId": 61489
+        },
+        {
+            "m_ID": 417,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_skinCardId": 107787,
+            "m_baseCardId": 64485
+        },
+        {
+            "m_ID": 418,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_skinCardId": 107786,
+            "m_baseCardId": 60362
+        },
+        {
+            "m_ID": 419,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_skinCardId": 107785,
+            "m_baseCardId": 64403
+        },
+        {
+            "m_ID": 42,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 76346,
+            "m_baseCardId": 59831
+        },
+        {
+            "m_ID": 420,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_skinCardId": 107784,
+            "m_baseCardId": 74646
+        },
+        {
+            "m_ID": 421,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_skinCardId": 107783,
+            "m_baseCardId": 86291
+        },
+        {
+            "m_ID": 422,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_skinCardId": 107782,
+            "m_baseCardId": 97186
+        },
+        {
+            "m_ID": 423,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_skinCardId": 107781,
+            "m_baseCardId": 97813
+        },
+        {
+            "m_ID": 424,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_skinCardId": 107780,
+            "m_baseCardId": 84867
+        },
+        {
+            "m_ID": 425,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 106635,
+            "m_baseCardId": 80247
+        },
+        {
+            "m_ID": 426,
+            "m_enabled": 1,
+            "m_rarityId": 5,
+            "m_skinCardId": 105063,
+            "m_baseCardId": 92960
+        },
+        {
+            "m_ID": 427,
+            "m_enabled": 1,
+            "m_rarityId": 5,
+            "m_skinCardId": 105062,
+            "m_baseCardId": 63601
+        },
+        {
+            "m_ID": 428,
+            "m_enabled": 1,
+            "m_rarityId": 5,
+            "m_skinCardId": 105061,
+            "m_baseCardId": 89293
+        },
+        {
+            "m_ID": 429,
+            "m_enabled": 1,
+            "m_rarityId": 5,
+            "m_skinCardId": 105060,
+            "m_baseCardId": 57947
+        },
+        {
+            "m_ID": 43,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 76347,
+            "m_baseCardId": 59814
+        },
+        {
+            "m_ID": 430,
+            "m_enabled": 1,
+            "m_rarityId": 5,
+            "m_skinCardId": 105059,
+            "m_baseCardId": 63319
+        },
+        {
+            "m_ID": 431,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 110629,
+            "m_baseCardId": 103477
+        },
+        {
+            "m_ID": 432,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_skinCardId": 111065,
+            "m_baseCardId": 75702
+        },
+        {
+            "m_ID": 433,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_skinCardId": 111064,
+            "m_baseCardId": 57892
+        },
+        {
+            "m_ID": 434,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_skinCardId": 111063,
+            "m_baseCardId": 71458
+        },
+        {
+            "m_ID": 435,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_skinCardId": 111062,
+            "m_baseCardId": 101345
+        },
+        {
+            "m_ID": 436,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_skinCardId": 111061,
+            "m_baseCardId": 58021
+        },
+        {
+            "m_ID": 437,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_skinCardId": 111060,
+            "m_baseCardId": 77516
+        },
+        {
+            "m_ID": 438,
+            "m_enabled": 1,
+            "m_rarityId": 5,
+            "m_skinCardId": 111294,
+            "m_baseCardId": 58044
+        },
+        {
+            "m_ID": 439,
+            "m_enabled": 1,
+            "m_rarityId": 5,
+            "m_skinCardId": 111293,
+            "m_baseCardId": 73940
+        },
+        {
+            "m_ID": 44,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 76348,
+            "m_baseCardId": 58027
+        },
+        {
+            "m_ID": 440,
+            "m_enabled": 1,
+            "m_rarityId": 5,
+            "m_skinCardId": 111295,
+            "m_baseCardId": 97186
+        },
+        {
+            "m_ID": 441,
+            "m_enabled": 1,
+            "m_rarityId": 5,
+            "m_skinCardId": 111296,
+            "m_baseCardId": 81569
+        },
+        {
+            "m_ID": 442,
+            "m_enabled": 1,
+            "m_rarityId": 5,
+            "m_skinCardId": 111297,
+            "m_baseCardId": 96870
+        },
+        {
+            "m_ID": 444,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 111544,
+            "m_baseCardId": 60372
+        },
+        {
+            "m_ID": 445,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_skinCardId": 111545,
+            "m_baseCardId": 64400
+        },
+        {
+            "m_ID": 446,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_skinCardId": 111546,
+            "m_baseCardId": 71458
+        },
+        {
+            "m_ID": 447,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_skinCardId": 111547,
+            "m_baseCardId": 61488
+        },
+        {
+            "m_ID": 448,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_skinCardId": 111548,
+            "m_baseCardId": 71908
+        },
+        {
+            "m_ID": 449,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_skinCardId": 111549,
+            "m_baseCardId": 62266
+        },
+        {
+            "m_ID": 45,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 76349,
+            "m_baseCardId": 58535
+        },
+        {
+            "m_ID": 456,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_skinCardId": 112485,
+            "m_baseCardId": 80247
+        },
+        {
+            "m_ID": 457,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_skinCardId": 112484,
+            "m_baseCardId": 77987
+        },
+        {
+            "m_ID": 458,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_skinCardId": 112483,
+            "m_baseCardId": 59807
+        },
+        {
+            "m_ID": 459,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_skinCardId": 112482,
+            "m_baseCardId": 97813
+        },
+        {
+            "m_ID": 46,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 76350,
+            "m_baseCardId": 59805
+        },
+        {
+            "m_ID": 460,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_skinCardId": 112481,
+            "m_baseCardId": 59397
+        },
+        {
+            "m_ID": 461,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_skinCardId": 112480,
+            "m_baseCardId": 60367
+        },
+        {
+            "m_ID": 462,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_skinCardId": 112479,
+            "m_baseCardId": 57893
+        },
+        {
+            "m_ID": 463,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_skinCardId": 112478,
+            "m_baseCardId": 67553
+        },
+        {
+            "m_ID": 464,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_skinCardId": 112477,
+            "m_baseCardId": 70956
+        },
+        {
+            "m_ID": 465,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_skinCardId": 112476,
+            "m_baseCardId": 98726
+        },
+        {
+            "m_ID": 466,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 112475,
+            "m_baseCardId": 89293
+        },
+        {
+            "m_ID": 467,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 112474,
+            "m_baseCardId": 60369
+        },
+        {
+            "m_ID": 468,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 112473,
+            "m_baseCardId": 64480
+        },
+        {
+            "m_ID": 469,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 112472,
+            "m_baseCardId": 103477
+        },
+        {
+            "m_ID": 47,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 76351,
+            "m_baseCardId": 63319
+        },
+        {
+            "m_ID": 470,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 112471,
+            "m_baseCardId": 59203
+        },
+        {
+            "m_ID": 471,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 112470,
+            "m_baseCardId": 60370
+        },
+        {
+            "m_ID": 472,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_skinCardId": 112469,
+            "m_baseCardId": 104981
+        },
+        {
+            "m_ID": 473,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_skinCardId": 112468,
+            "m_baseCardId": 104982
+        },
+        {
+            "m_ID": 48,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 76352,
+            "m_baseCardId": 59203
+        },
+        {
+            "m_ID": 49,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 77184,
+            "m_baseCardId": 60212
+        },
+        {
+            "m_ID": 5,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 75129,
+            "m_baseCardId": 71463
+        },
+        {
+            "m_ID": 50,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 77176,
+            "m_baseCardId": 60213
+        },
+        {
+            "m_ID": 51,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 77177,
+            "m_baseCardId": 60366
+        },
+        {
+            "m_ID": 52,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 77178,
+            "m_baseCardId": 57946
+        },
+        {
+            "m_ID": 53,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 77179,
+            "m_baseCardId": 57929
+        },
+        {
+            "m_ID": 54,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 77180,
+            "m_baseCardId": 60211
+        },
+        {
+            "m_ID": 55,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 77181,
+            "m_baseCardId": 60372
+        },
+        {
+            "m_ID": 56,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 77182,
+            "m_baseCardId": 59806
+        },
+        {
+            "m_ID": 57,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 77183,
+            "m_baseCardId": 71916
+        },
+        {
+            "m_ID": 58,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 77185,
+            "m_baseCardId": 60362
+        },
+        {
+            "m_ID": 59,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 77186,
+            "m_baseCardId": 57634
+        },
+        {
+            "m_ID": 6,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 75136,
+            "m_baseCardId": 67356
+        },
+        {
+            "m_ID": 60,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 77187,
+            "m_baseCardId": 57893
+        },
+        {
+            "m_ID": 61,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 77188,
+            "m_baseCardId": 62242
+        },
+        {
+            "m_ID": 62,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 77189,
+            "m_baseCardId": 61914
+        },
+        {
+            "m_ID": 63,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 77190,
+            "m_baseCardId": 63601
+        },
+        {
+            "m_ID": 64,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 77191,
+            "m_baseCardId": 61910
+        },
+        {
+            "m_ID": 65,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 78746,
+            "m_baseCardId": 66483
+        },
+        {
+            "m_ID": 66,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 78748,
+            "m_baseCardId": 58534
+        },
+        {
+            "m_ID": 67,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 78749,
+            "m_baseCardId": 59807
+        },
+        {
+            "m_ID": 68,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 78750,
+            "m_baseCardId": 68129
+        },
+        {
+            "m_ID": 69,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 78751,
+            "m_baseCardId": 60214
+        },
+        {
+            "m_ID": 7,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 75138,
+            "m_baseCardId": 58024
+        },
+        {
+            "m_ID": 70,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 78752,
+            "m_baseCardId": 63604
+        },
+        {
+            "m_ID": 71,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 78753,
+            "m_baseCardId": 64485
+        },
+        {
+            "m_ID": 72,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 78754,
+            "m_baseCardId": 57892
+        },
+        {
+            "m_ID": 74,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 80030,
+            "m_baseCardId": 71458
+        },
+        {
+            "m_ID": 75,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 80072,
+            "m_baseCardId": 71454
+        },
+        {
+            "m_ID": 76,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 80074,
+            "m_baseCardId": 57947
+        },
+        {
+            "m_ID": 77,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 80075,
+            "m_baseCardId": 64480
+        },
+        {
+            "m_ID": 78,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 80077,
+            "m_baseCardId": 64400
+        },
+        {
+            "m_ID": 79,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 80078,
+            "m_baseCardId": 57633
+        },
+        {
+            "m_ID": 8,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 75151,
+            "m_baseCardId": 61914
+        },
+        {
+            "m_ID": 80,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 80079,
+            "m_baseCardId": 62268
+        },
+        {
+            "m_ID": 9,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 75156,
+            "m_baseCardId": 64475
+        },
+        {
+            "m_ID": 93,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 80566,
+            "m_baseCardId": 71463
+        },
+        {
+            "m_ID": 94,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 80567,
+            "m_baseCardId": 71454
+        },
+        {
+            "m_ID": 95,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 80568,
+            "m_baseCardId": 62242
+        },
+        {
+            "m_ID": 96,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 80569,
+            "m_baseCardId": 61912
+        },
+        {
+            "m_ID": 97,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 80570,
+            "m_baseCardId": 60212
+        },
+        {
+            "m_ID": 98,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 80571,
+            "m_baseCardId": 60367
+        },
+        {
+            "m_ID": 99,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_skinCardId": 80573,
+            "m_baseCardId": 57929
+        }
+    ]
+}

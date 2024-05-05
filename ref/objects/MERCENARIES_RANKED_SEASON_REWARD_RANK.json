@@ -1,0 +1,59 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 2233758143023926881
+    },
+    "m_Name": "MERCENARIES_RANKED_SEASON_REWARD_RANK",
+    "Records": [
+        {
+            "m_ID": 1,
+            "m_minPublicRatingUnlock": 12000,
+            "m_rewardListId": 345
+        },
+        {
+            "m_ID": 2,
+            "m_minPublicRatingUnlock": 10000,
+            "m_rewardListId": 344
+        },
+        {
+            "m_ID": 3,
+            "m_minPublicRatingUnlock": 7500,
+            "m_rewardListId": 343
+        },
+        {
+            "m_ID": 4,
+            "m_minPublicRatingUnlock": 6000,
+            "m_rewardListId": 342
+        },
+        {
+            "m_ID": 5,
+            "m_minPublicRatingUnlock": 5000,
+            "m_rewardListId": 341
+        },
+        {
+            "m_ID": 6,
+            "m_minPublicRatingUnlock": 4000,
+            "m_rewardListId": 340
+        },
+        {
+            "m_ID": 7,
+            "m_minPublicRatingUnlock": 3000,
+            "m_rewardListId": 339
+        },
+        {
+            "m_ID": 8,
+            "m_minPublicRatingUnlock": 2000,
+            "m_rewardListId": 338
+        },
+        {
+            "m_ID": 9,
+            "m_minPublicRatingUnlock": 1000,
+            "m_rewardListId": 337
+        }
+    ]
+}

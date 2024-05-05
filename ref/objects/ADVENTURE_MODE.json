@@ -1,0 +1,42 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 7515167111461649546
+    },
+    "m_Name": "ADVENTURE_MODE",
+    "Records": [
+        {
+            "m_ID": 1,
+            "m_noteDesc": "Linear"
+        },
+        {
+            "m_ID": 2,
+            "m_noteDesc": "Expert"
+        },
+        {
+            "m_ID": 3,
+            "m_noteDesc": "Linear Heroic"
+        },
+        {
+            "m_ID": 4,
+            "m_noteDesc": "Class Challenge"
+        },
+        {
+            "m_ID": 5,
+            "m_noteDesc": "Dungeon Crawl"
+        },
+        {
+            "m_ID": 6,
+            "m_noteDesc": "Bonus Challenge"
+        },
+        {
+            "m_ID": 7,
+            "m_noteDesc": "Dungeon Crawl Heroic"
+        }
+    ]
+}

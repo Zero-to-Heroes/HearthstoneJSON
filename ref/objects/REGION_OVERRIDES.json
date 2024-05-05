@@ -1,0 +1,248 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 8090307473187647452
+    },
+    "m_Name": "REGION_OVERRIDES",
+    "Records": [
+        {
+            "m_ID": 22,
+            "m_externalUrlId": 11,
+            "m_region": "CN",
+            "m_overrideUrl": "https://account.battlenet.com.cn/"
+        },
+        {
+            "m_ID": 25,
+            "m_externalUrlId": 12,
+            "m_region": "CN",
+            "m_overrideUrl": "https://support.blizzardgames.cn/article/hearthstone-system-requirements"
+        },
+        {
+            "m_ID": 26,
+            "m_externalUrlId": 13,
+            "m_region": "CN",
+            "m_overrideUrl": "https://hs.blizzard.cn/minisite/recruit-a-friend"
+        },
+        {
+            "m_ID": 27,
+            "m_externalUrlId": 14,
+            "m_region": "CN",
+            "m_overrideUrl": "https://www.blizzardgames.cn/legal-cn/tos"
+        },
+        {
+            "m_ID": 28,
+            "m_externalUrlId": 16,
+            "m_region": "CN",
+            "m_overrideUrl": "https://account.battlenet.com.cn/payment"
+        },
+        {
+            "m_ID": 29,
+            "m_externalUrlId": 16,
+            "m_region": "KR",
+            "m_overrideUrl": "https://shop.battle.net/product/balance"
+        },
+        {
+            "m_ID": 30,
+            "m_externalUrlId": 16,
+            "m_region": "TW",
+            "m_overrideUrl": "https://shop.battle.net/product/balance"
+        },
+        {
+            "m_ID": 31,
+            "m_externalUrlId": 18,
+            "m_region": "CN",
+            "m_overrideUrl": "https://support.blizzardgames.cn/article/duplicate-purchase-error"
+        },
+        {
+            "m_ID": 32,
+            "m_externalUrlId": 19,
+            "m_region": "CN",
+            "m_overrideUrl": "https://support.blizzardgames.cn/article/duplicate-thirdparty-purchase"
+        },
+        {
+            "m_ID": 12,
+            "m_externalUrlId": 2,
+            "m_region": "EU",
+            "m_overrideUrl": "https://alert-eu.battle.net/hs/default/live/{0}"
+        },
+        {
+            "m_ID": 13,
+            "m_externalUrlId": 2,
+            "m_region": "KR",
+            "m_overrideUrl": "https://alert-kr.battle.net/hs/default/live/{0}"
+        },
+        {
+            "m_ID": 14,
+            "m_externalUrlId": 2,
+            "m_region": "CN",
+            "m_overrideUrl": "https://alert-cn.battlenet.com.cn/hs/default/live/{0}"
+        },
+        {
+            "m_ID": 33,
+            "m_externalUrlId": 20,
+            "m_region": "CN",
+            "m_overrideUrl": "https://support.blizzardgames.cn/article/outstanding-purchase-on-another-device"
+        },
+        {
+            "m_ID": 34,
+            "m_externalUrlId": 21,
+            "m_region": "CN",
+            "m_overrideUrl": "https://support.blizzardgames.cn/article/hearthstone-on-ipad"
+        },
+        {
+            "m_ID": 35,
+            "m_externalUrlId": 22,
+            "m_region": "CN",
+            "m_overrideUrl": "https://account.battlenet.com.cn/recovery"
+        },
+        {
+            "m_ID": 45,
+            "m_externalUrlId": 23,
+            "m_region": "CN",
+            "m_overrideUrl": "https://account.battlenet.com.cn/login/sso?ref=https://www.battlenet.com.cn/shop/blizzard-checkout/loading"
+        },
+        {
+            "m_ID": 47,
+            "m_externalUrlId": 24,
+            "m_region": "CN",
+            "m_overrideUrl": "https://www.battlenet.com.cn/shop/blizzard-checkout/NavBar"
+        },
+        {
+            "m_ID": 15,
+            "m_externalUrlId": 3,
+            "m_region": "CN",
+            "m_overrideUrl": "https://account.battlenet.com.cn/creation/tos.app?ret&theme=wtcg&app=wtcg"
+        },
+        {
+            "m_ID": 72,
+            "m_externalUrlId": 34,
+            "m_region": "EU",
+            "m_overrideUrl": "https://eu.battle.net/support/article/buying-hearthstone-cards"
+        },
+        {
+            "m_ID": 73,
+            "m_externalUrlId": 34,
+            "m_region": "KR",
+            "m_overrideUrl": "https://kr.battle.net/support/article/buying-hearthstone-cards"
+        },
+        {
+            "m_ID": 74,
+            "m_externalUrlId": 34,
+            "m_region": "CN",
+            "m_overrideUrl": "https://www.battlenet.com.cn/support/article/buying-hearthstone-cards"
+        },
+        {
+            "m_ID": 76,
+            "m_externalUrlId": 35,
+            "m_region": "CN",
+            "m_overrideUrl": "https://www.battlenet.com.cn/shop/checkout/add-balance?utm_source=game-hearthstone&utm_medium=internal&utm_content=payment-error-case%1"
+        },
+        {
+            "m_ID": 77,
+            "m_externalUrlId": 35,
+            "m_region": "KR",
+            "m_overrideUrl": "https://kr.battle.net/shop/product/balance?utm_source=game-hearthstone&utm_medium=internal&utm_content=payment-error-case%1"
+        },
+        {
+            "m_ID": 78,
+            "m_externalUrlId": 37,
+            "m_region": "CN",
+            "m_overrideUrl": "https://support.blizzardgames.cn/"
+        },
+        {
+            "m_ID": 16,
+            "m_externalUrlId": 4,
+            "m_region": "CN",
+            "m_overrideUrl": "https://account.battlenet.com.cn/creation/landing?app={0}&theme=wtcg"
+        },
+        {
+            "m_ID": 17,
+            "m_externalUrlId": 5,
+            "m_region": "CN",
+            "m_overrideUrl": "https://hs.blizzard.cn/community/fireside-gatherings"
+        },
+        {
+            "m_ID": 18,
+            "m_externalUrlId": 6,
+            "m_region": "CN",
+            "m_overrideUrl": "https://account.battlenet.com.cn/creation/completion?theme=wtcg&app={0}&ticket=true&reason={1}&wins={2}&r=/battletag%253Fret=http://localhost:0"
+        },
+        {
+            "m_ID": 19,
+            "m_externalUrlId": 7,
+            "m_region": "CN",
+            "m_overrideUrl": "https://oribos.blizzard.cn/legal/privacy"
+        },
+        {
+            "m_ID": 80,
+            "m_externalUrlId": 77,
+            "m_region": "CN",
+            "m_overrideUrl": "https://www.battlenet.com.cn/support/zh/article/hearthstone-game-server-connection-mobile"
+        },
+        {
+            "m_ID": 81,
+            "m_externalUrlId": 79,
+            "m_region": "CN",
+            "m_overrideUrl": "https://account.battlenet.com.cn/login/sso?token={0}&ref=https://www.battlenet.com.cn/support/zh/help/contact/841/ticket"
+        },
+        {
+            "m_ID": 87,
+            "m_externalUrlId": 79,
+            "m_region": "KR",
+            "m_overrideUrl": "https://account.battle.net/login/sso?token={0}&ref=https://kr.battle.net/support/ko/article/75809"
+        },
+        {
+            "m_ID": 20,
+            "m_externalUrlId": 8,
+            "m_region": "CN",
+            "m_overrideUrl": "https://oribos.blizzard.cn/legal/eula"
+        },
+        {
+            "m_ID": 82,
+            "m_externalUrlId": 80,
+            "m_region": "CN",
+            "m_overrideUrl": "https://www.battlenet.com.cn/support/zh/help/contact/841/ticket"
+        },
+        {
+            "m_ID": 88,
+            "m_externalUrlId": 80,
+            "m_region": "KR",
+            "m_overrideUrl": "https://kr.battle.net/support/ko/article/75809?logout"
+        },
+        {
+            "m_ID": 86,
+            "m_externalUrlId": 83,
+            "m_region": "CN",
+            "m_overrideUrl": "https://oribos.blizzard.cn/legal/personalizedoffers"
+        },
+        {
+            "m_ID": 89,
+            "m_externalUrlId": 84,
+            "m_region": "CN",
+            "m_overrideUrl": "冰霜之脚,茫然之潜行者,狂野之裤,鬼魂之裤,狂野之狼,蛮力之枭,战斗之裤,慵懒之龟,幸运之裤,疯狂之法师,狂野之裤,沉默之剑,小小之食人魔,蛮力之兽,机械之忍,华丽之裤,迅捷之潜行者,闪亮之雄,狂野之狼,巨硕之斧,光明之锤,敏感之矮人,巨硕之斧,潜行之鲷,潜行之龟,怪癖之裤,潜行之鲷,光明之锤,蛮力之裤,诡诈之龟,艾尔之子,迷你之泰坦,蛮力之枭,惊魂之裤,怪癖之裤,敏感之矮人,茫然之骑士,史诗之裤,惊魂之武僧,闪亮之裤,沉默之剑,华丽之兽人,超能之鱼人,鬼魂之龙,魔法之裤,战斗之软泥怪,古怪之德鲁伊,诡诈之龟,致命之猫,鬼魂之犬,疯狂之法师,史诗之鼠,怪癖之裤,怪癖之裤,渺小之牛头人,狂妄之英雄,诡诈之龟,小小之食人魔,狡猾之异虫,狂妄之英雄,鬼魂之龙,致命之鼠,白银之鹰,暗影之风暴,快乐之潜行者,茫然之骑士,暗影之风暴,致命之鼠,超能之法师,巨硕之矮人,茫然之潜行者,鬼魂之裤,华丽之虎,慵懒之龟,鬼魂之裤,快乐之足,巨硕之斧,致命之猫,蛮力之裤,机械之狼人,暴躁之裤,白银之鹰,黄金之裤,惊魂之蛙,史诗之裤,华丽之兽人,史诗之鼠,超能之鱼人,古怪之裤子,华丽之裤,渺小之牛头人,茫然之潜行者,跳跳骑士,暗影之风暴,茫然之骑士,暗夜之骑士,机械之鱼人,沉默之剑,超能之鱼人,LuckyPants,"
+        },
+        {
+            "m_ID": 90,
+            "m_externalUrlId": 84,
+            "m_region": "KR",
+            "m_overrideUrl": "톡쏘는엘프,전투점액,졸린곰,게으른티탄,그림자멀록,재채기하는드워프,소심한마술사,번듯한바지,엉큼한오징어,로봇늑대인간,엄청난바지,심술쟁이수도사,어지러운드워프,그림자용,까다로운저그,근사한트롤,거대도끼,행복한바지,막강한엘프,행복한도적,번듯한오크,재채기는드워프,엄청난바지,꼬마자객,거대도끼,재채기하는드워프,그림자용,전투바지,호드를위하여,졸린주술사,전투개구리,까다로운사냥꾼,막강한엘프,작은타우렌,번듯한바지,밤기사,운좋은올빼미,로봇자객,은빛매,반짝이는영웅,무시무시한쥐,근사한바지,엉뚱한드루이드,엄난마법사,꼬마티탄,고약한고블린,소리없는검,숨겨진트롤,엉뚱한바지,재채기하는드워프,막강한바지,화끈한바지,沉默風暴,閃亮英雄,奪命腳,貧嘴哥布林,強力野獸,亡靈束褲,古怪獸人,隱祕束褲,蹦蹦騎士,超級法師,巨型矮人,暴躁小喵,神經巫師,狡猾蟲族,愛現老虎,機器魚人,小牛頭人,瘋狂束褲,好運貓頭鷹,隱祕束褲,好運虎,機器魚人,閃亮英雄,強力束褲,超級束褲,暗影魚人,奪命束褲,奪命束褲,狡猾獵人,愛現束褲,愛現獸人,好運束褲,輝けるヒーロー,風変わりなカメ,いかしたノーム,ハッピーパンツ,狡猾なハンター,真夜中の騎士,狡猾なハンター,ふらふらローグ,素敵なエルフ,ふらふらドワーフ,TrickyHunter,SuperMage,GhostDog,史诗之鼠,惊魂之武僧,诡诈之龟"
+        },
+        {
+            "m_ID": 91,
+            "m_externalUrlId": 84,
+            "m_region": "EU",
+            "m_overrideUrl": "ЗаАльянс,ЛовкиеПальцы,ТихийМеч,ЯркийМолот,Зорротул,ЗомбиПес,МерзлыйПес,ЧудоМонах,МегаДворф,ЛовкийРыцарь,МодныйОрк,ПерекатиПоле,Среброкрыл,ХитрыйКраб,ЭпичнаяМышь,МиниНиндзя,Клеопатра,СуперМаг,ЛовкийЗерг,ИскроМэн,КвасныйДворф,КлоунДруид,БойцоваяЖаба,Смеховор,ХитрыйСтраус,РоботКолдун,Мороженко,ЛенивыйТитан,ШтаныУдачи,МракоРыцарь,ТигрФортуны,ЖизньЗаАйур,СоусТардар,КрэйзиМаг,ТихийШторм,ShinyHero,NightRaven,GhostPants,SleepyBear,SilentStorm,ShadowStorm,ShinyHero,BattleOoze,MiniNinja,MagicTurtle,SnarkyGoblin,FrostyFeet,QuirkyOrc,GhostDog,NightRaven,WildWolf,MiniNinja,DeadlyMouse,WildRage,GrumpyMonk,GoldenPants,BattleOoze,DeadlyFeet,QuirkyOrc,CrankyPants,LazyTurtle,WildPants,DeadlyFeet,MagicPants,DeadlyPants,SleepyBear,MightyOwl,SuperMage,LuckyOwl,DizzyDwarf,SwankyOrc,QuirkyTurtle,GouleFutée,ArcherBrutal,DamePoète,PrièreFada,NatureFolle,OmbreHardie,VoleurRapide,ColèreNacrée,PouleRobot,AigleChauve,KoboldMaouss,Glücksfuß,Feuerfrosch,Eisdrache,Seniorheld,Juniorelf,Sumpfeule,Glücksfuß,Sonnenaxt,DruidoMatto,LeoneTetro,NanoGigante,UpadłyKociak,NocnyRycerz,DużyStrzygoń,RanaEstilosa,DruidaLoco,NomadaLoco"
+        },
+        {
+            "m_ID": 21,
+            "m_externalUrlId": 9,
+            "m_region": "CN",
+            "m_overrideUrl": "https://account.battlenet.com.cn/login/sso?token={0}&ref=https://support.blizzardgames.cn/help/product/services/1327"
+        }
+    ]
+}

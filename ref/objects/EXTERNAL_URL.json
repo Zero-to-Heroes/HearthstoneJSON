@@ -1,0 +1,245 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 7647654584889330450
+    },
+    "m_Name": "EXTERNAL_URL",
+    "Records": [
+        {
+            "m_ID": 1,
+            "m_noteDesc": "Set Rotation",
+            "m_assetFlags": 0,
+            "m_endpoint": 9,
+            "m_globalUrl": "https://playhearthstone.com/blog/22912682"
+        },
+        {
+            "m_ID": 11,
+            "m_noteDesc": "Account",
+            "m_assetFlags": 0,
+            "m_endpoint": 0,
+            "m_globalUrl": "https://account.battle.net/"
+        },
+        {
+            "m_ID": 12,
+            "m_noteDesc": "System Requirements",
+            "m_assetFlags": 0,
+            "m_endpoint": 10,
+            "m_globalUrl": "https://support.blizzard.com/article/hearthstone-system-requirements"
+        },
+        {
+            "m_ID": 13,
+            "m_noteDesc": "Recruit-A-Friend",
+            "m_assetFlags": 0,
+            "m_endpoint": 11,
+            "m_globalUrl": "https://playhearthstone.com/community/recruit-a-friend"
+        },
+        {
+            "m_ID": 14,
+            "m_noteDesc": "Terms of Sales",
+            "m_assetFlags": 0,
+            "m_endpoint": 12,
+            "m_globalUrl": "https://www.blizzard.com/tos"
+        },
+        {
+            "m_ID": 15,
+            "m_noteDesc": "Purchase",
+            "m_assetFlags": 0,
+            "m_endpoint": 13,
+            "m_globalUrl": "https://account.battle.net/payment"
+        },
+        {
+            "m_ID": 16,
+            "m_noteDesc": "Add Payment",
+            "m_assetFlags": 0,
+            "m_endpoint": 14,
+            "m_globalUrl": "https://account.battle.net/payment"
+        },
+        {
+            "m_ID": 17,
+            "m_noteDesc": "CVV",
+            "m_assetFlags": 0,
+            "m_endpoint": 15,
+            "m_globalUrl": "https://support.blizzard.com/article/what-is-a-cvv-code"
+        },
+        {
+            "m_ID": 18,
+            "m_noteDesc": "Duplicate Purchase Error",
+            "m_assetFlags": 0,
+            "m_endpoint": 16,
+            "m_globalUrl": "https://support.blizzard.com/article/duplicate-purchase-error"
+        },
+        {
+            "m_ID": 19,
+            "m_noteDesc": "Duplicate Third Party Purchase",
+            "m_assetFlags": 0,
+            "m_endpoint": 17,
+            "m_globalUrl": "https://support.blizzard.com/article/duplicate-thirdparty-purchase"
+        },
+        {
+            "m_ID": 2,
+            "m_noteDesc": "Breaking News",
+            "m_assetFlags": 0,
+            "m_endpoint": 1,
+            "m_globalUrl": "https://alert-us.battle.net/hs/default/live/{0}"
+        },
+        {
+            "m_ID": 20,
+            "m_noteDesc": "Outstanding Purchase on Another Device",
+            "m_assetFlags": 0,
+            "m_endpoint": 18,
+            "m_globalUrl": "https://support.blizzard.com/article/outstanding-purchase-on-another-device"
+        },
+        {
+            "m_ID": 21,
+            "m_noteDesc": "Hearthstone on iPad",
+            "m_assetFlags": 0,
+            "m_endpoint": 19,
+            "m_globalUrl": "https://support.blizzard.com/article/hearthstone-on-ipad"
+        },
+        {
+            "m_ID": 22,
+            "m_noteDesc": "Password Reset",
+            "m_assetFlags": 0,
+            "m_endpoint": 20,
+            "m_globalUrl": "https://account.battle.net/recovery"
+        },
+        {
+            "m_ID": 23,
+            "m_noteDesc": "Checkout",
+            "m_assetFlags": 0,
+            "m_endpoint": 21,
+            "m_globalUrl": "https://account.battle.net/login/sso?ref=https://battle.net/shop/blizzard-checkout/loading"
+        },
+        {
+            "m_ID": 24,
+            "m_noteDesc": "Checkout Navbar",
+            "m_assetFlags": 0,
+            "m_endpoint": 22,
+            "m_globalUrl": "https://battle.net/shop/blizzard-checkout/NavBar"
+        },
+        {
+            "m_ID": 3,
+            "m_noteDesc": "Account Creation",
+            "m_assetFlags": 0,
+            "m_endpoint": 2,
+            "m_globalUrl": "https://account.battle.net/creation/tos.app?ret&theme=wtcg&app=wtcg"
+        },
+        {
+            "m_ID": 34,
+            "m_noteDesc": "Payment Info",
+            "m_assetFlags": 0,
+            "m_endpoint": 23,
+            "m_globalUrl": "https://us.battle.net/support/article/buying-hearthstone-cards"
+        },
+        {
+            "m_ID": 35,
+            "m_noteDesc": "Generic Purchase Error",
+            "m_assetFlags": 0,
+            "m_endpoint": 24,
+            "m_globalUrl": "https://account.battle.net/payment?utm_source=game-hearthstone&utm_medium=internal&utm_content=payment-error-case%1"
+        },
+        {
+            "m_ID": 37,
+            "m_noteDesc": "Customer Support",
+            "m_assetFlags": 0,
+            "m_endpoint": 25,
+            "m_globalUrl": "https://support.blizzard.com/"
+        },
+        {
+            "m_ID": 4,
+            "m_noteDesc": "Account Landing",
+            "m_assetFlags": 0,
+            "m_endpoint": 3,
+            "m_globalUrl": "https://account.battle.net/creation/landing?app={0}&theme=wtcg"
+        },
+        {
+            "m_ID": 5,
+            "m_noteDesc": "Fireside Gatherings",
+            "m_assetFlags": 0,
+            "m_endpoint": 4,
+            "m_globalUrl": "https://firesidegatherings.com"
+        },
+        {
+            "m_ID": 6,
+            "m_noteDesc": "Account Healup",
+            "m_assetFlags": 0,
+            "m_endpoint": 5,
+            "m_globalUrl": "https://account.battle.net/creation/completion?theme=wtcg&app={0}&ticket=true&reason={1}&wins={2}&r=/battletag%253Fret=http://localhost:0"
+        },
+        {
+            "m_ID": 7,
+            "m_noteDesc": "Privacy Policy",
+            "m_assetFlags": 0,
+            "m_endpoint": 6,
+            "m_globalUrl": "https://www.blizzard.com/privacy"
+        },
+        {
+            "m_ID": 77,
+            "m_noteDesc": "Mobile Connection Error",
+            "m_assetFlags": 0,
+            "m_endpoint": 26,
+            "m_globalUrl": "https://battle.net/support/article/hearthstone-game-server-connection-mobile"
+        },
+        {
+            "m_ID": 78,
+            "m_noteDesc": "China Ratings Website",
+            "m_assetFlags": 0,
+            "m_endpoint": 27,
+            "m_globalUrl": "https://hs.blizzard.cn/age-alter"
+        },
+        {
+            "m_ID": 79,
+            "m_noteDesc": "Account Deletion Soft Account",
+            "m_assetFlags": 0,
+            "m_endpoint": 28,
+            "m_globalUrl": "https://account.battle.net/login/sso?token={0}&ref=https://support.blizzard.com/help/wf/services/1328/1361"
+        },
+        {
+            "m_ID": 8,
+            "m_noteDesc": "EULA",
+            "m_assetFlags": 0,
+            "m_endpoint": 7,
+            "m_globalUrl": "https://www.blizzard.com/eula"
+        },
+        {
+            "m_ID": 80,
+            "m_noteDesc": "Account Deletion",
+            "m_assetFlags": 0,
+            "m_endpoint": 29,
+            "m_globalUrl": "https://support.blizzard.com/help/wf/services/1328/1361?logout"
+        },
+        {
+            "m_ID": 83,
+            "m_noteDesc": "Personalized Shop Offer Rules",
+            "m_assetFlags": 0,
+            "m_endpoint": 30,
+            "m_globalUrl": "https://oribos.blizzard.cn/legal/personalizedoffers"
+        },
+        {
+            "m_ID": 84,
+            "m_noteDesc": "Bot Names",
+            "m_assetFlags": 0,
+            "m_endpoint": 31,
+            "m_globalUrl": "NightRaven,LazyTitan,LazyTurtle,BouncyKnight,NightRaven,ShadowDragon,SwankyOrc,RobotNinja,SwankyOrc,GhostDog,SneakySquid,SuperMage,BrightHammer,SilentStorm,MagicPants,SilentSword,LazyTitan,HiddenPants,GrumpyMonk,GhostDragon,MightyBeast,MightyBeast,SnarkyGoblin,SuperNinja,DeadlyFeet,MightyBeast,SneakySquid,BouncyBear,GrumpyKitten,BouncyKnight,GiantAxe,DeadlyMouse,HiddenSquid,SilentStorm,SwankyOrc,HappyFeet,BrightHammer,QuirkyTurtle,BattleOoze,SilentStorm,LazyTurtle,GhostPants,SuperPants,FunkyMonk,MagicGnome,WildRage,MightyOwl,FunkyPants,DeadlyMouse,TrickyHunter,GrumpyPants,DirePants,CrankyPants,MightyBeast,HiddenSquid,MagicGnome,QuirkyOrc,SneakyTurtle,DireRaven,HiddenSquid,WildRage,FunkyMonk,CrazyMage,MightyElf,GiantDwarf,FrostyDog,LazyTitan,SneakySquid,SilentStorm,NightRaven,MagicTurtle,CrazyCat,ShinyHero,SuperPants,MightyBeast,CrazyCat,SneezyDwarf,MagicTurtle,SneakyTurtle,NightRaven,DirePants,HiddenPants,FrostyFeet,Azedim,LoboSelvagem,SabreMudo,MalhoLuzente,FeraMansa,TitãSagaz,RatoFofo,CiberDraco,NobreTonto,CalzónFeliz,TrolÉpico,MagoEspanto,DruidaLoco,CuervoFatal,EnanoLucido,MazoLuminoso,DruidaLoco"
+        },
+        {
+            "m_ID": 86,
+            "m_noteDesc": "Do Not Sell More Info",
+            "m_assetFlags": 0,
+            "m_endpoint": 32,
+            "m_globalUrl": "https://www.blizzard.com/legal/1d866a2c-a45d-4b3c-9d03-af900c428d4b"
+        },
+        {
+            "m_ID": 9,
+            "m_noteDesc": "Data Management",
+            "m_assetFlags": 0,
+            "m_endpoint": 8,
+            "m_globalUrl": "https://account.battle.net/login/sso?token={0}&ref=https://support.blizzard.com/help/product/services/1327"
+        }
+    ]
+}

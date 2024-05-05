@@ -1,0 +1,1906 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 163063635773763987
+    },
+    "m_Name": "REWARD_CHEST",
+    "Records": [
+        {
+            "m_ID": 10,
+            "m_name": {
+                "m_locValues": [
+                    "Enter the Witchwood",
+                    "Betretet den Hexenwald",
+                    "Entra en el Bosque Embrujado",
+                    "Entra al Bosque Embrujado",
+                    "Pénétrez dans le bois Maudit",
+                    "Ingresso a Boscotetro",
+                    "妖の森ウィッチウッドへ",
+                    "마녀숲으로",
+                    "Wiedźmi Las wita",
+                    "Entre no Bosque das Bruxas",
+                    "Первые шаги в Ведьмином лесу",
+                    "วิทช์วู้ดปรากฏ",
+                    "进入女巫森林",
+                    "進入黑巫森林"
+                ],
+                "m_locId": 2696207
+            },
+            "m_description": {
+                "m_locValues": [
+                    "Heroes and horrors await\nwithin these cursed woods.",
+                    "Helden, aber auch Schrecken erwarten Euch im Dunkel dieses verfluchten Waldes.",
+                    "En este bosque maldito\naguardan horrores y héroes.",
+                    "Héroes y horrores esperan\nen estos bosques malditos.",
+                    "Héros et horreurs vous attendent\nau cœur de ces bois.",
+                    "Eroi e orrori ti attendono in\nquesto bosco maledetto.",
+                    "呪われた森の奥にて\nヒーローと恐怖を目撃せよ。",
+                    "영웅과 괴물들이\n이 저주받은 숲을 거닙니다.",
+                    "Bohaterowie i potwory zmierzą się\nw tym przeklętym lesie.",
+                    "Heróis e horrores aguardam\nnesse bosque amaldiçoado.",
+                    "В этой проклятой чаще\nвас ждут герои и монстры.",
+                    "ผู้กล้าและภัยร้ายรอคอยอยู่\nภายในป่าต้องคำสาปแห่งนี้",
+                    "勇敢的英雄，恐怖的怪物\n一切尽在被诅咒的森林。",
+                    "勇敢的英雄，恐怖的怪物\n都在受詛咒的黑巫森林。"
+                ],
+                "m_locId": 2696208
+            },
+            "m_showToReturningPlayer": 0,
+            "m_chestPrefab": ""
+        },
+        {
+            "m_ID": 11,
+            "m_name": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_description": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_showToReturningPlayer": 0,
+            "m_chestPrefab": ""
+        },
+        {
+            "m_ID": 13,
+            "m_name": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_description": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_showToReturningPlayer": 0,
+            "m_chestPrefab": ""
+        },
+        {
+            "m_ID": 14,
+            "m_name": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_description": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_showToReturningPlayer": 0,
+            "m_chestPrefab": ""
+        },
+        {
+            "m_ID": 15,
+            "m_name": {
+                "m_locValues": [
+                    "A New Lab Partner",
+                    "Ein neuer Laborpartner",
+                    "Ayuda para el laboratorio",
+                    "Un nuevo compañero de laboratorio",
+                    "Partenaire de labo",
+                    "Nuovo compagno di laboratorio",
+                    "新たな共同実験者",
+                    "신입 연구원",
+                    "Nowy partner laboratoryjny",
+                    "Novo Parceiro de Laboratório",
+                    "Новый лаборант",
+                    "คู่หูทดลองคนใหม่",
+                    "实验室新伙伴",
+                    "實驗室新夥伴"
+                ],
+                "m_locId": 2700376
+            },
+            "m_description": {
+                "m_locValues": [
+                    "What has science wrought?",
+                    "Jetzt ist die Wissenschaft wirklich zu weit gegangen.",
+                    "¿Qué nos trae la ciencia?",
+                    "¿Qué innovaciones ha desarrollado la ciencia?",
+                    "Que nous a apporté la science ?",
+                    "Cos'ha creato la scienza?",
+                    "科学は何を造り上げた？",
+                    "과연 과학의 힘이란?",
+                    "Co też najlepszego stworzyła nauka?",
+                    "Qual o resultado da ciência?",
+                    "Что создала наука?",
+                    "ดูซิว่าวิทยาศาสตร์ให้อะไรกับคุณ",
+                    "看看到底研究出了什么东西？",
+                    "科學到底造就出什麼東西？"
+                ],
+                "m_locId": 2700377
+            },
+            "m_showToReturningPlayer": 0,
+            "m_chestPrefab": ""
+        },
+        {
+            "m_ID": 16,
+            "m_name": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_description": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_showToReturningPlayer": 0,
+            "m_chestPrefab": ""
+        },
+        {
+            "m_ID": 2,
+            "m_name": {
+                "m_locValues": [
+                    "Your Fate is Sealed",
+                    "Euer Schicksal ist besiegelt",
+                    "Tu destino está sellado",
+                    "Tu destino está sellado",
+                    "Votre destin est scellé",
+                    "Destino segnato",
+                    "運命を切り開け",
+                    "네 운명은 정해졌다",
+                    "Twój los jest przypieczętowany",
+                    "Seu Destino Está Selado",
+                    "Ваша судьба предрешена",
+                    "จุดจบมาเยือน",
+                    "天命所归",
+                    "命運已定"
+                ],
+                "m_locId": 90678
+            },
+            "m_description": {
+                "m_locValues": [
+                    "Turn your newfound power against the Lich King… or your ranked opponents.",
+                    "Nutzt Eure neu erlangte Macht, um den Lichkönig zu bezwingen_... oder andere Spieler.",
+                    "Utiliza tu nuevo poder contra el Rey Exánime... o contra tus oponentes en las partidas con rango.",
+                    "Usa tu nuevo poder contra el Rey Exánime... o contra tus adversarios en las partidas clasificadas.",
+                    "Utilisez votre tout nouveau pouvoir contre le roi-liche… ou vos adversaires dans le classement.",
+                    "Sfrutta il tuo nuovo potere contro il Re dei Lich... o contro gli avversari in modalità Classificata.",
+                    "新たに手に入れた力でリッチキングに挑め…あるいはランク戦の敵に。",
+                    "새로운 힘을 사용해 리치 왕을 상대하세요... 아니면 등급전에서 사용하시든가요.",
+                    "Wykorzystaj swoją nowo nabytą moc przeciwko Królowi Liszowi... lub przeciwnikom w rankingu.",
+                    "Use seu poder recém-adquirido contra o Lich Rei... ou os oponentes ranqueados.",
+                    "Обратите свою новообретенную силу против Короля-лича... или противников.",
+                    "ใช้พลังใหม่ของคุณต่อกรกับลิชคิง… หรือคู่ต่อสู้ในเกมจัดอันดับของคุณ",
+                    "使用你刚刚得到的力量对付巫妖王……或者你在排名模式中的对手。",
+                    "用你新獲得的力量對付巫妖王…或是排名模式的對手。"
+                ],
+                "m_locId": 90679
+            },
+            "m_showToReturningPlayer": 0,
+            "m_chestPrefab": ""
+        },
+        {
+            "m_ID": 4,
+            "m_name": {
+                "m_locValues": [
+                    "Legendary Loot",
+                    "Legendäre Beute",
+                    "Botín legendario",
+                    "Botín legendario",
+                    "Butin légendaire",
+                    "Bottino Leggendario",
+                    "レジェンド戦利品",
+                    "전설 전리품",
+                    "Legendarny łup",
+                    "Saque Lendário",
+                    "Легендарные трофеи",
+                    "สมบัติระดับตำนาน",
+                    "传说级战利品",
+                    "傳說寶物"
+                ],
+                "m_locId": 97382
+            },
+            "m_description": {
+                "m_locValues": [
+                    "Arm yourself for the\ndungeon-delve of a lifetime.",
+                    "Rüstet Euch für die\nSchatzjagd Eures Lebens!",
+                    "Equípate para una aventura sin precedentes en las mazmorras.",
+                    "Prepárate para la incursión\nal calabozo de tu vida.",
+                    "Équipez-vous pour le\ndonjon de votre vie.",
+                    "Preparati alla spedizione\ndella tua vita!",
+                    "生涯最高のダンジョン\n攻略のため、武装しよう。",
+                    "일생일대의 미궁 탐험을\n단단히 대비하세요.",
+                    "Wyposaż się na niepowtarzalną\nwyprawę do podziemi.",
+                    "Arme-se para uma\nmasmorra inesquecível.",
+                    "Снаряжайтесь! Вас ждет\nэпичнейший поход в подземелья.",
+                    "เตรียมตัวให้พร้อมตะลุย\nดันเจี้ยนที่คุณจะไม่มีวันลืม",
+                    "准备好武器，迎接贯穿一生的地下城挑战吧。",
+                    "帶上武器！\n挑戰畢生最精采的地城冒險！"
+                ],
+                "m_locId": 97383
+            },
+            "m_showToReturningPlayer": 0,
+            "m_chestPrefab": ""
+        },
+        {
+            "m_ID": 43,
+            "m_name": {
+                "m_locValues": [
+                    "Spirits be with you...",
+                    "Mögen die Geister mit Euch sein_...",
+                    "Que los espíritus te guíen...",
+                    "Que los espíritus te guíen...",
+                    "Que les esprits, ils soient avec vous…",
+                    "Che li spiriti stiano con te...",
+                    "精霊と共にあれ…",
+                    "로아의 혼이 함께하길...",
+                    "Niech duchy będą z tobą...",
+                    "Vai com os espíritos...",
+                    "Да пребудут с тобой духи...",
+                    "ขอให้ดวงวิญญาณคุ้มครอง...",
+                    "万灵与你同在……",
+                    "魂靈與你同在"
+                ],
+                "m_locId": 2705444
+            },
+            "m_description": {
+                "m_locValues": [
+                    "Your loa calls you to action!",
+                    "Euer Loa ruft Euch zum Kampf!",
+                    "¡Tu loa te reclama!",
+                    "¡Tu loa te llama a la acción!",
+                    "Votre Loa vous appelle au combat !",
+                    "Il Loa tuo ti chiama!",
+                    "ロアの加護の下、栄光をつかめ！",
+                    "당신의 로아의 부름에 응하세요!",
+                    "Loa wzywa cię do działania!",
+                    "Teu loa está te convocando!",
+                    "Услышьте зов своего лоа!",
+                    "โลอาเรียกคุณเข้าร่วมการต่อสู้!",
+                    "你的洛阿神灵在召唤你！",
+                    "你的羅亞在呼喚你！"
+                ],
+                "m_locId": 2705445
+            },
+            "m_showToReturningPlayer": 0,
+            "m_chestPrefab": ""
+        },
+        {
+            "m_ID": 44,
+            "m_name": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_description": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_showToReturningPlayer": 0,
+            "m_chestPrefab": ""
+        },
+        {
+            "m_ID": 45,
+            "m_name": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_description": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_showToReturningPlayer": 0,
+            "m_chestPrefab": ""
+        },
+        {
+            "m_ID": 46,
+            "m_name": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_description": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_showToReturningPlayer": 0,
+            "m_chestPrefab": ""
+        },
+        {
+            "m_ID": 47,
+            "m_name": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_description": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_showToReturningPlayer": 0,
+            "m_chestPrefab": ""
+        },
+        {
+            "m_ID": 50,
+            "m_name": {
+                "m_locValues": [
+                    "Saviors of Uldum Class Legendary Quest",
+                    "Retter von Uldum – Legendäre Klassenquest",
+                    "Misión legendaria de clase de Salvadores de Uldum",
+                    "Misión legendaria de clase de Defensores de Uldum",
+                    "Quête de carte de classe légendaire des Aventuriers d’Uldum",
+                    "Missione Leggendaria di classe di Salvatori di Uldum",
+                    "「突撃！探検同盟」クラスレジェンドクエスト",
+                    "울둠의 구원자 직업 전설 퀘스트",
+                    "Wybawcy Uldum – legendarne zadanie klasowe",
+                    "Missão do Lendário de Classe de Salvadores de Uldum",
+                    "Легендарное классовое задание «Спасителей Ульдума»",
+                    "เควสต์คลาสระดับตำนานของ\nSaviors of Uldum",
+                    "“奥丹姆奇兵”职业传说任务牌",
+                    "奧丹姆守護者職業傳說任務"
+                ],
+                "m_locId": 2715960
+            },
+            "m_description": {
+                "m_locValues": [
+                    "Accept this quest and venture to Uldum!",
+                    "Nehmt die Quest an und brecht auf nach Uldum!",
+                    "¡Acepta esta misión y adéntrate en Uldum!",
+                    "¡Acepta esta misión y aventúrate a Uldum!",
+                    "Acceptez cette quête et partez à l’aventure dans Uldum !",
+                    "Accetta questa missione e avventurati a Uldum!",
+                    "このクエストを受けて、ウルドゥムに旅立とう！",
+                    "이 퀘스트를 수락하고 울둠으로 떠나세요!",
+                    "Przyjmij to zadanie i udaj się do Uldum!",
+                    "Aceite a missão e aventure-se em Uldum!",
+                    "Примите задание и отправляйтесь в Ульдум!",
+                    "รับเควสต์นี้ แล้วมุ่งหน้าไปที่อุลดุม!",
+                    "接受任务，进军奥丹姆！",
+                    "接受任務，前往奧丹姆冒險！"
+                ],
+                "m_locId": 2715961
+            },
+            "m_showToReturningPlayer": 0,
+            "m_chestPrefab": ""
+        },
+        {
+            "m_ID": 51,
+            "m_name": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_description": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_showToReturningPlayer": 0,
+            "m_chestPrefab": ""
+        },
+        {
+            "m_ID": 52,
+            "m_name": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_description": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_showToReturningPlayer": 0,
+            "m_chestPrefab": ""
+        },
+        {
+            "m_ID": 53,
+            "m_name": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_description": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_showToReturningPlayer": 0,
+            "m_chestPrefab": ""
+        },
+        {
+            "m_ID": 54,
+            "m_name": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_description": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_showToReturningPlayer": 0,
+            "m_chestPrefab": ""
+        },
+        {
+            "m_ID": 55,
+            "m_name": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_description": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_showToReturningPlayer": 0,
+            "m_chestPrefab": ""
+        },
+        {
+            "m_ID": 58,
+            "m_name": {
+                "m_locValues": [
+                    "Galakrond Login Reward",
+                    "Galakrond Login-Belohnung",
+                    "Recompensa por inicio de sesión Galakrond",
+                    "Recompensa de inicio de sesión de Galakrond",
+                    "Récompense de connexion de Galakrond",
+                    "Ricompensa per l'accesso: Galakrond",
+                    "ガラクロンド ログイン報酬",
+                    "갈라크론드 접속 보상",
+                    "Galakrond – nagroda za zalogowanie",
+                    "Recompensa de Login - Galakrond",
+                    "Галакронд — награда за вход в игру",
+                    "กาลาครอนด์แจกรางวัลเข้าสู่ระบบ",
+                    "迦拉克隆登录奖励",
+                    "葛拉克朗登入獎勵"
+                ],
+                "m_locId": 2719121
+            },
+            "m_description": {
+                "m_locValues": [
+                    "16.0 Galakrond Login Reward",
+                    "16.0 Galakrond Login-Belohnung",
+                    "Recompensa por inicio de sesión Galakrond 16.0",
+                    "Recompensa de inicio de sesión de Galakrond del 16.0",
+                    "Récompense de connexion de l’extension 16.0, Le réveil de Galakrond.",
+                    "Ricompensa per l'accesso della 16.0: Galakrond",
+                    "16.0 ガラクロンド ログイン報酬",
+                    "16.0 갈라크론드 접속 보상",
+                    "16.0 Galakrond – nagroda za zalogowanie",
+                    "Recompensa de Login - Galakrond 16.0",
+                    "Галакронд — награда за вход в игру в 16.0",
+                    "กาลาครอนด์แจกรางวัลเข้าสู่ระบบ 16.0",
+                    "16.0迦拉克隆登录奖励",
+                    "16.0 葛拉克朗登入獎勵"
+                ],
+                "m_locId": 2719122
+            },
+            "m_showToReturningPlayer": 1,
+            "m_chestPrefab": "RewardChest_GenericQuest.prefab:d5260ee5fa6d4e44793f27acf8f58747"
+        },
+        {
+            "m_ID": 59,
+            "m_name": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_description": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_showToReturningPlayer": 0,
+            "m_chestPrefab": ""
+        },
+        {
+            "m_ID": 60,
+            "m_name": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_description": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_showToReturningPlayer": 0,
+            "m_chestPrefab": ""
+        },
+        {
+            "m_ID": 62,
+            "m_name": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_description": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_showToReturningPlayer": 0,
+            "m_chestPrefab": ""
+        },
+        {
+            "m_ID": 63,
+            "m_name": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_description": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_showToReturningPlayer": 0,
+            "m_chestPrefab": ""
+        },
+        {
+            "m_ID": 64,
+            "m_name": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_description": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_showToReturningPlayer": 0,
+            "m_chestPrefab": ""
+        },
+        {
+            "m_ID": 65,
+            "m_name": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_description": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_showToReturningPlayer": 0,
+            "m_chestPrefab": ""
+        },
+        {
+            "m_ID": 66,
+            "m_name": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_description": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_showToReturningPlayer": 0,
+            "m_chestPrefab": ""
+        },
+        {
+            "m_ID": 67,
+            "m_name": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_description": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_showToReturningPlayer": 0,
+            "m_chestPrefab": ""
+        },
+        {
+            "m_ID": 68,
+            "m_name": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_description": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_showToReturningPlayer": 0,
+            "m_chestPrefab": ""
+        },
+        {
+            "m_ID": 69,
+            "m_name": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_description": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_showToReturningPlayer": 0,
+            "m_chestPrefab": ""
+        },
+        {
+            "m_ID": 70,
+            "m_name": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_description": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_showToReturningPlayer": 0,
+            "m_chestPrefab": ""
+        },
+        {
+            "m_ID": 71,
+            "m_name": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_description": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_showToReturningPlayer": 0,
+            "m_chestPrefab": ""
+        },
+        {
+            "m_ID": 73,
+            "m_name": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_description": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_showToReturningPlayer": 0,
+            "m_chestPrefab": ""
+        },
+        {
+            "m_ID": 74,
+            "m_name": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_description": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_showToReturningPlayer": 0,
+            "m_chestPrefab": ""
+        },
+        {
+            "m_ID": 75,
+            "m_name": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_description": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_showToReturningPlayer": 0,
+            "m_chestPrefab": ""
+        },
+        {
+            "m_ID": 76,
+            "m_name": {
+                "m_locValues": [
+                    "Welcome to the Academy",
+                    "Willkommen an der Akademie",
+                    "Esto es Scholomance",
+                    "Bienvenido a la Academia",
+                    "Bienvenue à l’Académie",
+                    "Benvenuto nell'Accademia",
+                    "魔法学院へようこそ",
+                    "입학을 축하합니다",
+                    "Witaj w Scholomancjum",
+                    "Boas-vindas à Universidade",
+                    "Добро пожаловать в Некроситет",
+                    "ยินดีต้อนรับสู่สถาบัน",
+                    "欢迎来到学园",
+                    "歡迎來到通靈學院"
+                ],
+                "m_locId": 2730157
+            },
+            "m_description": {
+                "m_locValues": [
+                    "School is in session",
+                    "Der Unterricht hat begonnen",
+                    "Comienza la clase",
+                    "Empezaron las clases",
+                    "Les cours ont commencé !",
+                    "Iniziamo la lezione",
+                    "新学期開始",
+                    "학기가 시작됐습니다",
+                    "Semestr rozpoczęty",
+                    "De volta às aulas!",
+                    "Занятия начались",
+                    "ได้เวลาเปิดภาคเรียนแล้ว",
+                    "开学啦",
+                    "上課囉！"
+                ],
+                "m_locId": 2730158
+            },
+            "m_showToReturningPlayer": 0,
+            "m_chestPrefab": ""
+        },
+        {
+            "m_ID": 77,
+            "m_name": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_description": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_showToReturningPlayer": 0,
+            "m_chestPrefab": ""
+        },
+        {
+            "m_ID": 78,
+            "m_name": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_description": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_showToReturningPlayer": 0,
+            "m_chestPrefab": ""
+        },
+        {
+            "m_ID": 79,
+            "m_name": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_description": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_showToReturningPlayer": 0,
+            "m_chestPrefab": ""
+        },
+        {
+            "m_ID": 8,
+            "m_name": {
+                "m_locValues": [
+                    "Bonus Pack",
+                    "Bonuspackung",
+                    "Sobre extra",
+                    "Paquete extra",
+                    "Paquet bonus",
+                    "Busta bonus",
+                    "ボーナスパック",
+                    "카드 팩",
+                    "Dodatkowy pakiet",
+                    "Pacote de bônus",
+                    "Дополнительный комплект",
+                    "ซองโบนัส",
+                    "奖励卡牌包",
+                    "獎勵卡牌包"
+                ],
+                "m_locId": 2691758
+            },
+            "m_description": {
+                "m_locValues": [
+                    "Enjoy this bonus for completing a daily quest!",
+                    "Viel Spaß mit dieser Belohnung für den Abschluss einer Quest!",
+                    "¡Disfruta de esta recompensa por completar una misión diaria!",
+                    "¡Completa una misión diaria para disfrutar de esta bonificación!",
+                    "Obtenez ce bonus en accomplissant une quête_!",
+                    "Goditi questo bonus per aver completato una missione giornaliera!",
+                    "デイリークエストのクリアボーナスだ、楽しんでくれ！",
+                    "일일 퀘스트를 완료하여 추가 보상을 획득했습니다!",
+                    "Otrzymujesz ten pakiet za wykonanie codziennego zadania!",
+                    "Aproveite esse bônus por completar uma missão diária!",
+                    "Дополнительная награда за выполнение ежедневного задания!",
+                    "รับโบนัสนี้จากการทำเควสต์ประจำวัน!",
+                    "完成一个每日任务所获得的奖励！",
+                    "請收下完成每日任務的獎勵卡牌包！"
+                ],
+                "m_locId": 2691759
+            },
+            "m_showToReturningPlayer": 0,
+            "m_chestPrefab": ""
+        },
+        {
+            "m_ID": 83,
+            "m_name": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_description": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_showToReturningPlayer": 0,
+            "m_chestPrefab": ""
+        },
+        {
+            "m_ID": 84,
+            "m_name": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_description": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_showToReturningPlayer": 0,
+            "m_chestPrefab": ""
+        },
+        {
+            "m_ID": 85,
+            "m_name": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_description": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_showToReturningPlayer": 0,
+            "m_chestPrefab": ""
+        },
+        {
+            "m_ID": 9,
+            "m_name": {
+                "m_locValues": [
+                    "Bonus Pack",
+                    "Bonuspackung",
+                    "Sobre extra",
+                    "Paquete extra",
+                    "Paquet bonus",
+                    "Busta bonus",
+                    "ボーナスパック",
+                    "카드 팩",
+                    "Dodatkowy pakiet",
+                    "Pacote de bônus",
+                    "Дополнительный комплект",
+                    "ซองโบนัส",
+                    "奖励卡牌包",
+                    "獎勵卡牌包"
+                ],
+                "m_locId": 2691760
+            },
+            "m_description": {
+                "m_locValues": [
+                    "Enjoy this bonus for completing a daily quest!",
+                    "Viel Spaß mit dieser Belohnung für den Abschluss einer Quest!",
+                    "¡Disfruta de esta recompensa por completar una misión diaria!",
+                    "¡Completa una misión diaria para disfrutar de esta bonificación!",
+                    "Obtenez ce bonus en accomplissant une quête_!",
+                    "Goditi questo bonus per aver completato una missione giornaliera!",
+                    "デイリークエストのクリアボーナスだ、楽しんでくれ！",
+                    "일일 퀘스트를 완료하여 추가 보상을 획득했습니다!",
+                    "Otrzymujesz ten pakiet za wykonanie codziennego zadania!",
+                    "Aproveite esse bônus por completar uma missão diária!",
+                    "Дополнительная награда за выполнение ежедневного задания!",
+                    "รับโบนัสนี้จากการทำเควสต์ประจำวัน!",
+                    "完成一个每日任务所获得的奖励！",
+                    "請收下完成每日任務的獎勵卡牌包！"
+                ],
+                "m_locId": 2691761
+            },
+            "m_showToReturningPlayer": 0,
+            "m_chestPrefab": ""
+        }
+    ]
+}

@@ -1,0 +1,546 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -9009839607452165575
+    },
+    "m_Name": "REWARD_BAG",
+    "Records": [
+        {
+            "m_ID": 0,
+            "m_bagId": 58,
+            "m_reward": 16,
+            "m_base": 1,
+            "m_rewardData": 51
+        },
+        {
+            "m_ID": 0,
+            "m_bagId": 60,
+            "m_reward": 16,
+            "m_base": 1,
+            "m_rewardData": 86
+        },
+        {
+            "m_ID": 0,
+            "m_bagId": 63,
+            "m_reward": 16,
+            "m_base": 1,
+            "m_rewardData": 87
+        },
+        {
+            "m_ID": 0,
+            "m_bagId": 64,
+            "m_reward": 2,
+            "m_base": 60,
+            "m_rewardData": 0
+        },
+        {
+            "m_ID": 0,
+            "m_bagId": 65,
+            "m_reward": 3,
+            "m_base": 60,
+            "m_rewardData": 0
+        },
+        {
+            "m_ID": 0,
+            "m_bagId": 66,
+            "m_reward": 2,
+            "m_base": 80,
+            "m_rewardData": 0
+        },
+        {
+            "m_ID": 0,
+            "m_bagId": 67,
+            "m_reward": 3,
+            "m_base": 80,
+            "m_rewardData": 0
+        },
+        {
+            "m_ID": 0,
+            "m_bagId": 68,
+            "m_reward": 2,
+            "m_base": 100,
+            "m_rewardData": 0
+        },
+        {
+            "m_ID": 0,
+            "m_bagId": 69,
+            "m_reward": 3,
+            "m_base": 100,
+            "m_rewardData": 0
+        },
+        {
+            "m_ID": 0,
+            "m_bagId": 70,
+            "m_reward": 16,
+            "m_base": 1,
+            "m_rewardData": 121
+        },
+        {
+            "m_ID": 0,
+            "m_bagId": 76,
+            "m_reward": 21,
+            "m_base": 1,
+            "m_rewardData": 70
+        },
+        {
+            "m_ID": 0,
+            "m_bagId": 76,
+            "m_reward": 21,
+            "m_base": 1,
+            "m_rewardData": 71
+        },
+        {
+            "m_ID": 0,
+            "m_bagId": 76,
+            "m_reward": 21,
+            "m_base": 1,
+            "m_rewardData": 72
+        },
+        {
+            "m_ID": 0,
+            "m_bagId": 76,
+            "m_reward": 21,
+            "m_base": 1,
+            "m_rewardData": 73
+        },
+        {
+            "m_ID": 0,
+            "m_bagId": 76,
+            "m_reward": 21,
+            "m_base": 1,
+            "m_rewardData": 74
+        },
+        {
+            "m_ID": 0,
+            "m_bagId": 76,
+            "m_reward": 21,
+            "m_base": 1,
+            "m_rewardData": 75
+        },
+        {
+            "m_ID": 0,
+            "m_bagId": 76,
+            "m_reward": 21,
+            "m_base": 1,
+            "m_rewardData": 76
+        },
+        {
+            "m_ID": 0,
+            "m_bagId": 76,
+            "m_reward": 21,
+            "m_base": 1,
+            "m_rewardData": 77
+        },
+        {
+            "m_ID": 0,
+            "m_bagId": 76,
+            "m_reward": 21,
+            "m_base": 1,
+            "m_rewardData": 78
+        },
+        {
+            "m_ID": 0,
+            "m_bagId": 77,
+            "m_reward": 22,
+            "m_base": 1,
+            "m_rewardData": 49985
+        },
+        {
+            "m_ID": 0,
+            "m_bagId": 78,
+            "m_reward": 23,
+            "m_base": 1,
+            "m_rewardData": 49944
+        },
+        {
+            "m_ID": 0,
+            "m_bagId": 79,
+            "m_reward": 22,
+            "m_base": 1,
+            "m_rewardData": 50659
+        },
+        {
+            "m_ID": 0,
+            "m_bagId": 80,
+            "m_reward": 23,
+            "m_base": 1,
+            "m_rewardData": 50660
+        },
+        {
+            "m_ID": 0,
+            "m_bagId": 81,
+            "m_reward": 22,
+            "m_base": 1,
+            "m_rewardData": 50088
+        },
+        {
+            "m_ID": 0,
+            "m_bagId": 82,
+            "m_reward": 23,
+            "m_base": 1,
+            "m_rewardData": 50093
+        },
+        {
+            "m_ID": 0,
+            "m_bagId": 83,
+            "m_reward": 22,
+            "m_base": 1,
+            "m_rewardData": 49981
+        },
+        {
+            "m_ID": 0,
+            "m_bagId": 84,
+            "m_reward": 23,
+            "m_base": 1,
+            "m_rewardData": 50031
+        },
+        {
+            "m_ID": 0,
+            "m_bagId": 85,
+            "m_reward": 22,
+            "m_base": 1,
+            "m_rewardData": 50087
+        },
+        {
+            "m_ID": 0,
+            "m_bagId": 86,
+            "m_reward": 23,
+            "m_base": 1,
+            "m_rewardData": 50352
+        },
+        {
+            "m_ID": 0,
+            "m_bagId": 87,
+            "m_reward": 22,
+            "m_base": 1,
+            "m_rewardData": 50775
+        },
+        {
+            "m_ID": 0,
+            "m_bagId": 88,
+            "m_reward": 23,
+            "m_base": 1,
+            "m_rewardData": 49972
+        },
+        {
+            "m_ID": 0,
+            "m_bagId": 89,
+            "m_reward": 22,
+            "m_base": 1,
+            "m_rewardData": 50369
+        },
+        {
+            "m_ID": 0,
+            "m_bagId": 90,
+            "m_reward": 23,
+            "m_base": 1,
+            "m_rewardData": 49804
+        },
+        {
+            "m_ID": 0,
+            "m_bagId": 91,
+            "m_reward": 22,
+            "m_base": 1,
+            "m_rewardData": 50074
+        },
+        {
+            "m_ID": 0,
+            "m_bagId": 92,
+            "m_reward": 23,
+            "m_base": 1,
+            "m_rewardData": 52242
+        },
+        {
+            "m_ID": 0,
+            "m_bagId": 93,
+            "m_reward": 22,
+            "m_base": 1,
+            "m_rewardData": 50034
+        },
+        {
+            "m_ID": 0,
+            "m_bagId": 94,
+            "m_reward": 23,
+            "m_base": 1,
+            "m_rewardData": 50025
+        },
+        {
+            "m_ID": 0,
+            "m_bagId": 95,
+            "m_reward": 19,
+            "m_base": 1,
+            "m_rewardData": 31
+        },
+        {
+            "m_ID": 0,
+            "m_bagId": 96,
+            "m_reward": 19,
+            "m_base": 1,
+            "m_rewardData": 38
+        },
+        {
+            "m_ID": 0,
+            "m_bagId": 97,
+            "m_reward": 19,
+            "m_base": 1,
+            "m_rewardData": 40
+        },
+        {
+            "m_ID": 0,
+            "m_bagId": 98,
+            "m_reward": 19,
+            "m_base": 1,
+            "m_rewardData": 49
+        },
+        {
+            "m_ID": 0,
+            "m_bagId": 99,
+            "m_reward": 16,
+            "m_base": 1,
+            "m_rewardData": 1594
+        },
+        {
+            "m_ID": 0,
+            "m_bagId": 100,
+            "m_reward": 19,
+            "m_base": 1,
+            "m_rewardData": 128
+        },
+        {
+            "m_ID": 0,
+            "m_bagId": 101,
+            "m_reward": 19,
+            "m_base": 2,
+            "m_rewardData": 128
+        },
+        {
+            "m_ID": 0,
+            "m_bagId": 102,
+            "m_reward": 19,
+            "m_base": 3,
+            "m_rewardData": 128
+        },
+        {
+            "m_ID": 0,
+            "m_bagId": 103,
+            "m_reward": 22,
+            "m_base": 1,
+            "m_rewardData": 57416
+        },
+        {
+            "m_ID": 0,
+            "m_bagId": 104,
+            "m_reward": 22,
+            "m_base": 1,
+            "m_rewardData": 57419
+        },
+        {
+            "m_ID": 0,
+            "m_bagId": 105,
+            "m_reward": 22,
+            "m_base": 1,
+            "m_rewardData": 57427
+        },
+        {
+            "m_ID": 0,
+            "m_bagId": 106,
+            "m_reward": 22,
+            "m_base": 1,
+            "m_rewardData": 57329
+        },
+        {
+            "m_ID": 0,
+            "m_bagId": 107,
+            "m_reward": 22,
+            "m_base": 1,
+            "m_rewardData": 57413
+        },
+        {
+            "m_ID": 0,
+            "m_bagId": 108,
+            "m_reward": 19,
+            "m_base": 2,
+            "m_rewardData": 49
+        },
+        {
+            "m_ID": 0,
+            "m_bagId": 109,
+            "m_reward": 19,
+            "m_base": 1,
+            "m_rewardData": 347
+        },
+        {
+            "m_ID": 0,
+            "m_bagId": 110,
+            "m_reward": 16,
+            "m_base": 1,
+            "m_rewardData": 22
+        },
+        {
+            "m_ID": 0,
+            "m_bagId": 111,
+            "m_reward": 24,
+            "m_base": 1,
+            "m_rewardData": 0
+        },
+        {
+            "m_ID": 0,
+            "m_bagId": 112,
+            "m_reward": 21,
+            "m_base": 1,
+            "m_rewardData": 503
+        },
+        {
+            "m_ID": 0,
+            "m_bagId": 113,
+            "m_reward": 24,
+            "m_base": 1,
+            "m_rewardData": 0
+        },
+        {
+            "m_ID": 0,
+            "m_bagId": 114,
+            "m_reward": 21,
+            "m_base": 1,
+            "m_rewardData": 504
+        },
+        {
+            "m_ID": 0,
+            "m_bagId": 115,
+            "m_reward": 24,
+            "m_base": 1,
+            "m_rewardData": 0
+        },
+        {
+            "m_ID": 0,
+            "m_bagId": 116,
+            "m_reward": 21,
+            "m_base": 1,
+            "m_rewardData": 505
+        },
+        {
+            "m_ID": 0,
+            "m_bagId": 117,
+            "m_reward": 24,
+            "m_base": 1,
+            "m_rewardData": 0
+        },
+        {
+            "m_ID": 0,
+            "m_bagId": 118,
+            "m_reward": 16,
+            "m_base": 1,
+            "m_rewardData": 23
+        },
+        {
+            "m_ID": 0,
+            "m_bagId": 119,
+            "m_reward": 24,
+            "m_base": 1,
+            "m_rewardData": 0
+        },
+        {
+            "m_ID": 0,
+            "m_bagId": 120,
+            "m_reward": 16,
+            "m_base": 1,
+            "m_rewardData": 2
+        },
+        {
+            "m_ID": 0,
+            "m_bagId": 121,
+            "m_reward": 16,
+            "m_base": 1,
+            "m_rewardData": 2
+        },
+        {
+            "m_ID": 0,
+            "m_bagId": 122,
+            "m_reward": 16,
+            "m_base": 1,
+            "m_rewardData": 3
+        },
+        {
+            "m_ID": 0,
+            "m_bagId": 123,
+            "m_reward": 16,
+            "m_base": 1,
+            "m_rewardData": 3
+        },
+        {
+            "m_ID": 0,
+            "m_bagId": 124,
+            "m_reward": 16,
+            "m_base": 1,
+            "m_rewardData": 122
+        },
+        {
+            "m_ID": 0,
+            "m_bagId": 125,
+            "m_reward": 19,
+            "m_base": 1,
+            "m_rewardData": 423
+        },
+        {
+            "m_ID": 0,
+            "m_bagId": 126,
+            "m_reward": 16,
+            "m_base": 1,
+            "m_rewardData": 22
+        },
+        {
+            "m_ID": 0,
+            "m_bagId": 127,
+            "m_reward": 19,
+            "m_base": 1,
+            "m_rewardData": 498
+        },
+        {
+            "m_ID": 0,
+            "m_bagId": 128,
+            "m_reward": 16,
+            "m_base": 1,
+            "m_rewardData": 2010
+        },
+        {
+            "m_ID": 0,
+            "m_bagId": 129,
+            "m_reward": 19,
+            "m_base": 1,
+            "m_rewardData": 468
+        },
+        {
+            "m_ID": 0,
+            "m_bagId": 130,
+            "m_reward": 14,
+            "m_base": 1,
+            "m_rewardData": 0
+        },
+        {
+            "m_ID": 0,
+            "m_bagId": 131,
+            "m_reward": 14,
+            "m_base": 2,
+            "m_rewardData": 0
+        },
+        {
+            "m_ID": 0,
+            "m_bagId": 132,
+            "m_reward": 20,
+            "m_base": 1,
+            "m_rewardData": 1
+        },
+        {
+            "m_ID": 0,
+            "m_bagId": 133,
+            "m_reward": 20,
+            "m_base": 1,
+            "m_rewardData": 2
+        }
+    ]
+}

@@ -1,0 +1,157 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -2001298665406196351
+    },
+    "m_Name": "QUEST_DIALOG_ON_RECEIVED",
+    "Records": [
+        {
+            "m_ID": 1,
+            "m_questDialogId": 1,
+            "m_playOrder": 0,
+            "m_prefabName": "HanCho_BigQuote.prefab:0b24275caed054c45b2ebcb91fd9112d",
+            "m_audioName": "VO_BOSS_HAN_Male_Ogre_INTRO_QL_GOONS1_1.prefab:de540dc2083858443bf90d3d60106108",
+            "m_altBubblePosition": 1,
+            "m_waitBefore": 0.0,
+            "m_waitAfter": 0.0,
+            "m_persistPrefab": 1
+        },
+        {
+            "m_ID": 2,
+            "m_questDialogId": 1,
+            "m_playOrder": 1,
+            "m_prefabName": "HanCho_BigQuote.prefab:0b24275caed054c45b2ebcb91fd9112d",
+            "m_audioName": "VO_BOSS_HAN_Male_Ogre_INTRO_QL_GOONS1_2.prefab:4c0a401a5614fbc4fb3b9dc95f89728b",
+            "m_altBubblePosition": 1,
+            "m_waitBefore": 0.0,
+            "m_waitAfter": 0.0,
+            "m_persistPrefab": 1
+        },
+        {
+            "m_ID": 3,
+            "m_questDialogId": 1,
+            "m_playOrder": 2,
+            "m_prefabName": "HanCho_BigQuote.prefab:0b24275caed054c45b2ebcb91fd9112d",
+            "m_audioName": "VO_BOSS_HAN_Male_Ogre_INTRO_QL_GOONS1_3.prefab:d787f6ca26236714887ea25535df9257",
+            "m_altBubblePosition": 1,
+            "m_waitBefore": 0.0,
+            "m_waitAfter": 0.0,
+            "m_persistPrefab": 1
+        },
+        {
+            "m_ID": 4,
+            "m_questDialogId": 1,
+            "m_playOrder": 3,
+            "m_prefabName": "HanCho_BigQuote.prefab:0b24275caed054c45b2ebcb91fd9112d",
+            "m_audioName": "VO_BOSS_CHO_Male_Ogre_INTRO_QL_GOONS1_01.prefab:7526fdb582b6b7d41b8a809e542871c3",
+            "m_altBubblePosition": 0,
+            "m_waitBefore": 0.0,
+            "m_waitAfter": 0.0,
+            "m_persistPrefab": 1
+        },
+        {
+            "m_ID": 5,
+            "m_questDialogId": 2,
+            "m_playOrder": 0,
+            "m_prefabName": "HanCho_BigQuote.prefab:0b24275caed054c45b2ebcb91fd9112d",
+            "m_audioName": "VO_BOSS_HAN_Male_Ogre_INTRO_QL_GOONS1_4.prefab:b0e58249e74d810408bdcbc377dc6cd0",
+            "m_altBubblePosition": 1,
+            "m_waitBefore": 2.0,
+            "m_waitAfter": 0.0,
+            "m_persistPrefab": 1
+        },
+        {
+            "m_ID": 6,
+            "m_questDialogId": 2,
+            "m_playOrder": 1,
+            "m_prefabName": "HanCho_BigQuote.prefab:0b24275caed054c45b2ebcb91fd9112d",
+            "m_audioName": "VO_BOSS_CHO_Male_Ogre_INTRO_QL_GOONS1_02.prefab:cc2f56b01beb066428cdf8fbfc9afa2a",
+            "m_altBubblePosition": 0,
+            "m_waitBefore": 0.0,
+            "m_waitAfter": 0.0,
+            "m_persistPrefab": 0
+        },
+        {
+            "m_ID": 7,
+            "m_questDialogId": 3,
+            "m_playOrder": 0,
+            "m_prefabName": "Aya_BigQuote.prefab:26a19c2632327c14dbf648b96f8751d1",
+            "m_audioName": "VO_BOSS_AYA_Female_Pandaren_INTRO_QL_LOTUS1_01.prefab:f183cd2bfbbf330469b6f331180207d6",
+            "m_altBubblePosition": 0,
+            "m_waitBefore": 0.0,
+            "m_waitAfter": 0.0,
+            "m_persistPrefab": 1
+        },
+        {
+            "m_ID": 8,
+            "m_questDialogId": 3,
+            "m_playOrder": 1,
+            "m_prefabName": "Aya_BigQuote.prefab:26a19c2632327c14dbf648b96f8751d1",
+            "m_audioName": "VO_BOSS_AYA_Female_Pandaren_INTRO_QL_LOTUS1_02.prefab:c5b474b689b5bfb468cf9955e580a783",
+            "m_altBubblePosition": 0,
+            "m_waitBefore": 0.0,
+            "m_waitAfter": 0.0,
+            "m_persistPrefab": 1
+        },
+        {
+            "m_ID": 9,
+            "m_questDialogId": 4,
+            "m_playOrder": 0,
+            "m_prefabName": "Aya_BigQuote.prefab:26a19c2632327c14dbf648b96f8751d1",
+            "m_audioName": "VO_BOSS_AYA_Female_Pandaren_INTRO_QL_LOTUS1_03.prefab:9dc23784db25a6a489a3b7298aea166b",
+            "m_altBubblePosition": 0,
+            "m_waitBefore": 2.0,
+            "m_waitAfter": 0.0,
+            "m_persistPrefab": 1
+        },
+        {
+            "m_ID": 10,
+            "m_questDialogId": 4,
+            "m_playOrder": 1,
+            "m_prefabName": "Aya_BigQuote.prefab:26a19c2632327c14dbf648b96f8751d1",
+            "m_audioName": "VO_BOSS_AYA_Female_Pandaren_INTRO_QL_LOTUS1_04.prefab:fe50403b3d7c06d47a86bead1f729465",
+            "m_altBubblePosition": 0,
+            "m_waitBefore": 0.0,
+            "m_waitAfter": 0.0,
+            "m_persistPrefab": 0
+        },
+        {
+            "m_ID": 11,
+            "m_questDialogId": 5,
+            "m_playOrder": 0,
+            "m_prefabName": "Kazakus_BigQuote.prefab:b0007ae4277fc5a40a8c6f8c774ab823",
+            "m_audioName": "VO_BOSS_KAZAKUS_Male_Troll_Intro_QL_Kabal1_01.prefab:4359a8bbd7d673a4e8f39127bd0f4417",
+            "m_altBubblePosition": 0,
+            "m_waitBefore": 0.0,
+            "m_waitAfter": 0.0,
+            "m_persistPrefab": 1
+        },
+        {
+            "m_ID": 12,
+            "m_questDialogId": 5,
+            "m_playOrder": 1,
+            "m_prefabName": "Kazakus_BigQuote.prefab:b0007ae4277fc5a40a8c6f8c774ab823",
+            "m_audioName": "VO_BOSS_KAZAKUS_Male_Troll_Intro_QL_Kabal1_02.prefab:46fe13ff0a5f8144c9b30f321f0622b9",
+            "m_altBubblePosition": 0,
+            "m_waitBefore": 0.0,
+            "m_waitAfter": 0.0,
+            "m_persistPrefab": 1
+        },
+        {
+            "m_ID": 13,
+            "m_questDialogId": 6,
+            "m_playOrder": 0,
+            "m_prefabName": "Kazakus_BigQuote.prefab:b0007ae4277fc5a40a8c6f8c774ab823",
+            "m_audioName": "VO_BOSS_KAZAKUS_Male_Troll_Intro_QL_Kabal1_03.prefab:936ece1afba5c344596c80374da60c3d",
+            "m_altBubblePosition": 0,
+            "m_waitBefore": 2.0,
+            "m_waitAfter": 0.0,
+            "m_persistPrefab": 0
+        }
+    ]
+}

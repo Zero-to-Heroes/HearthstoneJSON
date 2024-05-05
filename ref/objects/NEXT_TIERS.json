@@ -1,0 +1,79 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -1302514735969188090
+    },
+    "m_Name": "NEXT_TIERS",
+    "Records": [
+        {
+            "m_ID": 9,
+            "m_buildingTierId": 20,
+            "m_nextTierId": 21
+        },
+        {
+            "m_ID": 10,
+            "m_buildingTierId": 21,
+            "m_nextTierId": 22
+        },
+        {
+            "m_ID": 48,
+            "m_buildingTierId": 22,
+            "m_nextTierId": 77
+        },
+        {
+            "m_ID": 11,
+            "m_buildingTierId": 24,
+            "m_nextTierId": 25
+        },
+        {
+            "m_ID": 14,
+            "m_buildingTierId": 28,
+            "m_nextTierId": 29
+        },
+        {
+            "m_ID": 17,
+            "m_buildingTierId": 32,
+            "m_nextTierId": 33
+        },
+        {
+            "m_ID": 21,
+            "m_buildingTierId": 36,
+            "m_nextTierId": 37
+        },
+        {
+            "m_ID": 22,
+            "m_buildingTierId": 38,
+            "m_nextTierId": 39
+        },
+        {
+            "m_ID": 42,
+            "m_buildingTierId": 39,
+            "m_nextTierId": 61
+        },
+        {
+            "m_ID": 25,
+            "m_buildingTierId": 42,
+            "m_nextTierId": 43
+        },
+        {
+            "m_ID": 26,
+            "m_buildingTierId": 43,
+            "m_nextTierId": 44
+        },
+        {
+            "m_ID": 27,
+            "m_buildingTierId": 44,
+            "m_nextTierId": 45
+        },
+        {
+            "m_ID": 28,
+            "m_buildingTierId": 46,
+            "m_nextTierId": 47
+        }
+    ]
+}

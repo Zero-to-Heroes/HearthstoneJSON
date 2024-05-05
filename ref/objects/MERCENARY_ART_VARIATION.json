@@ -1,0 +1,3230 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -829299301676787195
+    },
+    "m_Name": "MERCENARY_ART_VARIATION",
+    "Records": [
+        {
+            "m_ID": 1,
+            "m_lettuceMercenaryId": 1,
+            "m_cardId": 64516,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 2,
+            "m_lettuceMercenaryId": 1,
+            "m_cardId": 64515,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 3,
+            "m_lettuceMercenaryId": 1,
+            "m_cardId": 63822,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 656,
+            "m_lettuceMercenaryId": 1,
+            "m_cardId": 64515,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 657,
+            "m_lettuceMercenaryId": 1,
+            "m_cardId": 63822,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 4,
+            "m_lettuceMercenaryId": 100,
+            "m_cardId": 73540,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 5,
+            "m_lettuceMercenaryId": 100,
+            "m_cardId": 73539,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 6,
+            "m_lettuceMercenaryId": 100,
+            "m_cardId": 73541,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 7,
+            "m_lettuceMercenaryId": 102,
+            "m_cardId": 74681,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 218,
+            "m_lettuceMercenaryId": 102,
+            "m_cardId": 74680,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 219,
+            "m_lettuceMercenaryId": 102,
+            "m_cardId": 74679,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 225,
+            "m_lettuceMercenaryId": 103,
+            "m_cardId": 75472,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 11,
+            "m_lettuceMercenaryId": 11,
+            "m_cardId": 64544,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 12,
+            "m_lettuceMercenaryId": 11,
+            "m_cardId": 64545,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 13,
+            "m_lettuceMercenaryId": 11,
+            "m_cardId": 64543,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 703,
+            "m_lettuceMercenaryId": 11,
+            "m_cardId": 92040,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 224,
+            "m_lettuceMercenaryId": 110,
+            "m_cardId": 75474,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 226,
+            "m_lettuceMercenaryId": 111,
+            "m_cardId": 75481,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 227,
+            "m_lettuceMercenaryId": 112,
+            "m_cardId": 75482,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 228,
+            "m_lettuceMercenaryId": 113,
+            "m_cardId": 75483,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 14,
+            "m_lettuceMercenaryId": 12,
+            "m_cardId": 64501,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 15,
+            "m_lettuceMercenaryId": 12,
+            "m_cardId": 64502,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 16,
+            "m_lettuceMercenaryId": 12,
+            "m_cardId": 63760,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 245,
+            "m_lettuceMercenaryId": 131,
+            "m_cardId": 75597,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 246,
+            "m_lettuceMercenaryId": 132,
+            "m_cardId": 75598,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 247,
+            "m_lettuceMercenaryId": 133,
+            "m_cardId": 75599,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 248,
+            "m_lettuceMercenaryId": 134,
+            "m_cardId": 75600,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 249,
+            "m_lettuceMercenaryId": 135,
+            "m_cardId": 75601,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 250,
+            "m_lettuceMercenaryId": 136,
+            "m_cardId": 75602,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 251,
+            "m_lettuceMercenaryId": 137,
+            "m_cardId": 75603,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 252,
+            "m_lettuceMercenaryId": 138,
+            "m_cardId": 75604,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 253,
+            "m_lettuceMercenaryId": 139,
+            "m_cardId": 75606,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 20,
+            "m_lettuceMercenaryId": 14,
+            "m_cardId": 64506,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 21,
+            "m_lettuceMercenaryId": 14,
+            "m_cardId": 64505,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 22,
+            "m_lettuceMercenaryId": 14,
+            "m_cardId": 63994,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 695,
+            "m_lettuceMercenaryId": 14,
+            "m_cardId": 92031,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 254,
+            "m_lettuceMercenaryId": 140,
+            "m_cardId": 75607,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 255,
+            "m_lettuceMercenaryId": 141,
+            "m_cardId": 75608,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 256,
+            "m_lettuceMercenaryId": 142,
+            "m_cardId": 75609,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 257,
+            "m_lettuceMercenaryId": 143,
+            "m_cardId": 75610,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 258,
+            "m_lettuceMercenaryId": 144,
+            "m_cardId": 75611,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 259,
+            "m_lettuceMercenaryId": 145,
+            "m_cardId": 75612,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 260,
+            "m_lettuceMercenaryId": 146,
+            "m_cardId": 75613,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 262,
+            "m_lettuceMercenaryId": 147,
+            "m_cardId": 76986,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 268,
+            "m_lettuceMercenaryId": 149,
+            "m_cardId": 72791,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 269,
+            "m_lettuceMercenaryId": 149,
+            "m_cardId": 77388,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 270,
+            "m_lettuceMercenaryId": 149,
+            "m_cardId": 77389,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 23,
+            "m_lettuceMercenaryId": 15,
+            "m_cardId": 64497,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 24,
+            "m_lettuceMercenaryId": 15,
+            "m_cardId": 64498,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 25,
+            "m_lettuceMercenaryId": 15,
+            "m_cardId": 63748,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 283,
+            "m_lettuceMercenaryId": 155,
+            "m_cardId": 70916,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 284,
+            "m_lettuceMercenaryId": 155,
+            "m_cardId": 70917,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 285,
+            "m_lettuceMercenaryId": 155,
+            "m_cardId": 70918,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 286,
+            "m_lettuceMercenaryId": 156,
+            "m_cardId": 77355,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 287,
+            "m_lettuceMercenaryId": 156,
+            "m_cardId": 77356,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 288,
+            "m_lettuceMercenaryId": 156,
+            "m_cardId": 77358,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 316,
+            "m_lettuceMercenaryId": 159,
+            "m_cardId": 77645,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 317,
+            "m_lettuceMercenaryId": 159,
+            "m_cardId": 77656,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 318,
+            "m_lettuceMercenaryId": 159,
+            "m_cardId": 77657,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 319,
+            "m_lettuceMercenaryId": 160,
+            "m_cardId": 77740,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 320,
+            "m_lettuceMercenaryId": 161,
+            "m_cardId": 77742,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 321,
+            "m_lettuceMercenaryId": 164,
+            "m_cardId": 77764,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 322,
+            "m_lettuceMercenaryId": 166,
+            "m_cardId": 77772,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 323,
+            "m_lettuceMercenaryId": 167,
+            "m_cardId": 77862,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 324,
+            "m_lettuceMercenaryId": 168,
+            "m_cardId": 77867,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 325,
+            "m_lettuceMercenaryId": 169,
+            "m_cardId": 77900,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 29,
+            "m_lettuceMercenaryId": 17,
+            "m_cardId": 64556,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 30,
+            "m_lettuceMercenaryId": 17,
+            "m_cardId": 64557,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 31,
+            "m_lettuceMercenaryId": 17,
+            "m_cardId": 64555,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 326,
+            "m_lettuceMercenaryId": 170,
+            "m_cardId": 77902,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 327,
+            "m_lettuceMercenaryId": 171,
+            "m_cardId": 77921,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 328,
+            "m_lettuceMercenaryId": 172,
+            "m_cardId": 77922,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 329,
+            "m_lettuceMercenaryId": 173,
+            "m_cardId": 77923,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 330,
+            "m_lettuceMercenaryId": 174,
+            "m_cardId": 77924,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 331,
+            "m_lettuceMercenaryId": 175,
+            "m_cardId": 77925,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 334,
+            "m_lettuceMercenaryId": 178,
+            "m_cardId": 77949,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 335,
+            "m_lettuceMercenaryId": 179,
+            "m_cardId": 77950,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 32,
+            "m_lettuceMercenaryId": 18,
+            "m_cardId": 64560,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 33,
+            "m_lettuceMercenaryId": 18,
+            "m_cardId": 64559,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 34,
+            "m_lettuceMercenaryId": 18,
+            "m_cardId": 64558,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 696,
+            "m_lettuceMercenaryId": 18,
+            "m_cardId": 92032,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 336,
+            "m_lettuceMercenaryId": 180,
+            "m_cardId": 77951,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 337,
+            "m_lettuceMercenaryId": 181,
+            "m_cardId": 77952,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 338,
+            "m_lettuceMercenaryId": 182,
+            "m_cardId": 77953,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 339,
+            "m_lettuceMercenaryId": 183,
+            "m_cardId": 77954,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 340,
+            "m_lettuceMercenaryId": 184,
+            "m_cardId": 77955,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 341,
+            "m_lettuceMercenaryId": 185,
+            "m_cardId": 77961,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 343,
+            "m_lettuceMercenaryId": 187,
+            "m_cardId": 77968,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 344,
+            "m_lettuceMercenaryId": 188,
+            "m_cardId": 77972,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 345,
+            "m_lettuceMercenaryId": 189,
+            "m_cardId": 77976,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 35,
+            "m_lettuceMercenaryId": 19,
+            "m_cardId": 64563,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 36,
+            "m_lettuceMercenaryId": 19,
+            "m_cardId": 64564,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 37,
+            "m_lettuceMercenaryId": 19,
+            "m_cardId": 64562,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 697,
+            "m_lettuceMercenaryId": 19,
+            "m_cardId": 92033,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 346,
+            "m_lettuceMercenaryId": 190,
+            "m_cardId": 77995,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 347,
+            "m_lettuceMercenaryId": 191,
+            "m_cardId": 78021,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 348,
+            "m_lettuceMercenaryId": 192,
+            "m_cardId": 78024,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 349,
+            "m_lettuceMercenaryId": 193,
+            "m_cardId": 78039,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 350,
+            "m_lettuceMercenaryId": 194,
+            "m_cardId": 78042,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 351,
+            "m_lettuceMercenaryId": 195,
+            "m_cardId": 78051,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 352,
+            "m_lettuceMercenaryId": 196,
+            "m_cardId": 78055,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 353,
+            "m_lettuceMercenaryId": 197,
+            "m_cardId": 78058,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 354,
+            "m_lettuceMercenaryId": 198,
+            "m_cardId": 78064,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 68,
+            "m_lettuceMercenaryId": 2,
+            "m_cardId": 64508,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 69,
+            "m_lettuceMercenaryId": 2,
+            "m_cardId": 64507,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 70,
+            "m_lettuceMercenaryId": 2,
+            "m_cardId": 63819,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 38,
+            "m_lettuceMercenaryId": 20,
+            "m_cardId": 64584,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 39,
+            "m_lettuceMercenaryId": 20,
+            "m_cardId": 64585,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 40,
+            "m_lettuceMercenaryId": 20,
+            "m_cardId": 64583,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 361,
+            "m_lettuceMercenaryId": 203,
+            "m_cardId": 78183,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 362,
+            "m_lettuceMercenaryId": 204,
+            "m_cardId": 78207,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 363,
+            "m_lettuceMercenaryId": 205,
+            "m_cardId": 78208,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 364,
+            "m_lettuceMercenaryId": 206,
+            "m_cardId": 78210,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 365,
+            "m_lettuceMercenaryId": 207,
+            "m_cardId": 78211,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 366,
+            "m_lettuceMercenaryId": 208,
+            "m_cardId": 78213,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 367,
+            "m_lettuceMercenaryId": 209,
+            "m_cardId": 78214,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 41,
+            "m_lettuceMercenaryId": 21,
+            "m_cardId": 64588,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 42,
+            "m_lettuceMercenaryId": 21,
+            "m_cardId": 64587,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 43,
+            "m_lettuceMercenaryId": 21,
+            "m_cardId": 64586,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 702,
+            "m_lettuceMercenaryId": 21,
+            "m_cardId": 92039,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 368,
+            "m_lettuceMercenaryId": 210,
+            "m_cardId": 78215,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 369,
+            "m_lettuceMercenaryId": 211,
+            "m_cardId": 78167,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 370,
+            "m_lettuceMercenaryId": 212,
+            "m_cardId": 78204,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 371,
+            "m_lettuceMercenaryId": 213,
+            "m_cardId": 78205,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 372,
+            "m_lettuceMercenaryId": 214,
+            "m_cardId": 78206,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 373,
+            "m_lettuceMercenaryId": 215,
+            "m_cardId": 78209,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 374,
+            "m_lettuceMercenaryId": 216,
+            "m_cardId": 78212,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 375,
+            "m_lettuceMercenaryId": 217,
+            "m_cardId": 78235,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 376,
+            "m_lettuceMercenaryId": 218,
+            "m_cardId": 78237,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 44,
+            "m_lettuceMercenaryId": 22,
+            "m_cardId": 64579,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 45,
+            "m_lettuceMercenaryId": 22,
+            "m_cardId": 64578,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 46,
+            "m_lettuceMercenaryId": 22,
+            "m_cardId": 64577,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 378,
+            "m_lettuceMercenaryId": 220,
+            "m_cardId": 78519,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 379,
+            "m_lettuceMercenaryId": 221,
+            "m_cardId": 78515,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 383,
+            "m_lettuceMercenaryId": 223,
+            "m_cardId": 78563,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 389,
+            "m_lettuceMercenaryId": 228,
+            "m_cardId": 90351,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 47,
+            "m_lettuceMercenaryId": 23,
+            "m_cardId": 64590,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 48,
+            "m_lettuceMercenaryId": 23,
+            "m_cardId": 64591,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 49,
+            "m_lettuceMercenaryId": 23,
+            "m_cardId": 64589,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 395,
+            "m_lettuceMercenaryId": 231,
+            "m_cardId": 79528,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 410,
+            "m_lettuceMercenaryId": 236,
+            "m_cardId": 64573,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 411,
+            "m_lettuceMercenaryId": 236,
+            "m_cardId": 64572,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 412,
+            "m_lettuceMercenaryId": 236,
+            "m_cardId": 64571,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 413,
+            "m_lettuceMercenaryId": 237,
+            "m_cardId": 79822,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 414,
+            "m_lettuceMercenaryId": 237,
+            "m_cardId": 79823,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 415,
+            "m_lettuceMercenaryId": 237,
+            "m_cardId": 79824,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 416,
+            "m_lettuceMercenaryId": 238,
+            "m_cardId": 79828,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 417,
+            "m_lettuceMercenaryId": 238,
+            "m_cardId": 79829,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 418,
+            "m_lettuceMercenaryId": 238,
+            "m_cardId": 79830,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 419,
+            "m_lettuceMercenaryId": 239,
+            "m_cardId": 80835,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 50,
+            "m_lettuceMercenaryId": 24,
+            "m_cardId": 64594,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 51,
+            "m_lettuceMercenaryId": 24,
+            "m_cardId": 64593,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 52,
+            "m_lettuceMercenaryId": 24,
+            "m_cardId": 64592,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 425,
+            "m_lettuceMercenaryId": 242,
+            "m_cardId": 79825,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 426,
+            "m_lettuceMercenaryId": 242,
+            "m_cardId": 79826,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 427,
+            "m_lettuceMercenaryId": 242,
+            "m_cardId": 79827,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 432,
+            "m_lettuceMercenaryId": 249,
+            "m_cardId": 82209,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 438,
+            "m_lettuceMercenaryId": 249,
+            "m_cardId": 82212,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 439,
+            "m_lettuceMercenaryId": 249,
+            "m_cardId": 82211,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 53,
+            "m_lettuceMercenaryId": 25,
+            "m_cardId": 64597,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 54,
+            "m_lettuceMercenaryId": 25,
+            "m_cardId": 64596,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 55,
+            "m_lettuceMercenaryId": 25,
+            "m_cardId": 64595,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 435,
+            "m_lettuceMercenaryId": 250,
+            "m_cardId": 82210,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 436,
+            "m_lettuceMercenaryId": 250,
+            "m_cardId": 82213,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 437,
+            "m_lettuceMercenaryId": 250,
+            "m_cardId": 82214,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 440,
+            "m_lettuceMercenaryId": 251,
+            "m_cardId": 82281,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 441,
+            "m_lettuceMercenaryId": 251,
+            "m_cardId": 82282,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 442,
+            "m_lettuceMercenaryId": 251,
+            "m_cardId": 82283,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 443,
+            "m_lettuceMercenaryId": 252,
+            "m_cardId": 82329,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 444,
+            "m_lettuceMercenaryId": 252,
+            "m_cardId": 82330,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 445,
+            "m_lettuceMercenaryId": 252,
+            "m_cardId": 82331,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 446,
+            "m_lettuceMercenaryId": 253,
+            "m_cardId": 82341,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 447,
+            "m_lettuceMercenaryId": 253,
+            "m_cardId": 82342,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 448,
+            "m_lettuceMercenaryId": 253,
+            "m_cardId": 82343,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 449,
+            "m_lettuceMercenaryId": 254,
+            "m_cardId": 82393,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 482,
+            "m_lettuceMercenaryId": 254,
+            "m_cardId": 83889,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 483,
+            "m_lettuceMercenaryId": 254,
+            "m_cardId": 83890,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 452,
+            "m_lettuceMercenaryId": 255,
+            "m_cardId": 82670,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 453,
+            "m_lettuceMercenaryId": 256,
+            "m_cardId": 82677,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 458,
+            "m_lettuceMercenaryId": 259,
+            "m_cardId": 83239,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 56,
+            "m_lettuceMercenaryId": 26,
+            "m_cardId": 64600,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 57,
+            "m_lettuceMercenaryId": 26,
+            "m_cardId": 64599,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 58,
+            "m_lettuceMercenaryId": 26,
+            "m_cardId": 64598,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 459,
+            "m_lettuceMercenaryId": 260,
+            "m_cardId": 83242,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 460,
+            "m_lettuceMercenaryId": 261,
+            "m_cardId": 83390,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 461,
+            "m_lettuceMercenaryId": 262,
+            "m_cardId": 83421,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 462,
+            "m_lettuceMercenaryId": 263,
+            "m_cardId": 83508,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 463,
+            "m_lettuceMercenaryId": 264,
+            "m_cardId": 83511,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 464,
+            "m_lettuceMercenaryId": 265,
+            "m_cardId": 83513,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 465,
+            "m_lettuceMercenaryId": 266,
+            "m_cardId": 83235,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 466,
+            "m_lettuceMercenaryId": 267,
+            "m_cardId": 83654,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 467,
+            "m_lettuceMercenaryId": 268,
+            "m_cardId": 83810,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 468,
+            "m_lettuceMercenaryId": 269,
+            "m_cardId": 83834,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 469,
+            "m_lettuceMercenaryId": 270,
+            "m_cardId": 83838,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 470,
+            "m_lettuceMercenaryId": 271,
+            "m_cardId": 83844,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 471,
+            "m_lettuceMercenaryId": 272,
+            "m_cardId": 83835,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 472,
+            "m_lettuceMercenaryId": 273,
+            "m_cardId": 83846,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 474,
+            "m_lettuceMercenaryId": 274,
+            "m_cardId": 83850,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 475,
+            "m_lettuceMercenaryId": 275,
+            "m_cardId": 83862,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 476,
+            "m_lettuceMercenaryId": 276,
+            "m_cardId": 83860,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 477,
+            "m_lettuceMercenaryId": 277,
+            "m_cardId": 83837,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 478,
+            "m_lettuceMercenaryId": 278,
+            "m_cardId": 83841,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 479,
+            "m_lettuceMercenaryId": 279,
+            "m_cardId": 83842,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 62,
+            "m_lettuceMercenaryId": 28,
+            "m_cardId": 64603,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 63,
+            "m_lettuceMercenaryId": 28,
+            "m_cardId": 64602,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 64,
+            "m_lettuceMercenaryId": 28,
+            "m_cardId": 64601,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 480,
+            "m_lettuceMercenaryId": 280,
+            "m_cardId": 83861,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 481,
+            "m_lettuceMercenaryId": 281,
+            "m_cardId": 83863,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 484,
+            "m_lettuceMercenaryId": 282,
+            "m_cardId": 83928,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 485,
+            "m_lettuceMercenaryId": 282,
+            "m_cardId": 83929,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 486,
+            "m_lettuceMercenaryId": 282,
+            "m_cardId": 83930,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 487,
+            "m_lettuceMercenaryId": 283,
+            "m_cardId": 83992,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 488,
+            "m_lettuceMercenaryId": 283,
+            "m_cardId": 83993,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 489,
+            "m_lettuceMercenaryId": 283,
+            "m_cardId": 83994,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 490,
+            "m_lettuceMercenaryId": 284,
+            "m_cardId": 84008,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 491,
+            "m_lettuceMercenaryId": 284,
+            "m_cardId": 84009,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 492,
+            "m_lettuceMercenaryId": 284,
+            "m_cardId": 84010,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 493,
+            "m_lettuceMercenaryId": 285,
+            "m_cardId": 84037,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 494,
+            "m_lettuceMercenaryId": 285,
+            "m_cardId": 84038,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 495,
+            "m_lettuceMercenaryId": 285,
+            "m_cardId": 84039,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 496,
+            "m_lettuceMercenaryId": 286,
+            "m_cardId": 84124,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 497,
+            "m_lettuceMercenaryId": 286,
+            "m_cardId": 84125,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 498,
+            "m_lettuceMercenaryId": 286,
+            "m_cardId": 84126,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 505,
+            "m_lettuceMercenaryId": 289,
+            "m_cardId": 84176,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 506,
+            "m_lettuceMercenaryId": 289,
+            "m_cardId": 84177,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 507,
+            "m_lettuceMercenaryId": 289,
+            "m_cardId": 84178,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 508,
+            "m_lettuceMercenaryId": 290,
+            "m_cardId": 84405,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 509,
+            "m_lettuceMercenaryId": 290,
+            "m_cardId": 84406,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 510,
+            "m_lettuceMercenaryId": 290,
+            "m_cardId": 84407,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 511,
+            "m_lettuceMercenaryId": 291,
+            "m_cardId": 84783,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 512,
+            "m_lettuceMercenaryId": 291,
+            "m_cardId": 84784,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 513,
+            "m_lettuceMercenaryId": 291,
+            "m_cardId": 84785,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 514,
+            "m_lettuceMercenaryId": 292,
+            "m_cardId": 84768,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 515,
+            "m_lettuceMercenaryId": 292,
+            "m_cardId": 84769,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 516,
+            "m_lettuceMercenaryId": 292,
+            "m_cardId": 84770,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 517,
+            "m_lettuceMercenaryId": 293,
+            "m_cardId": 84771,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 518,
+            "m_lettuceMercenaryId": 293,
+            "m_cardId": 84772,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 519,
+            "m_lettuceMercenaryId": 293,
+            "m_cardId": 84773,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 520,
+            "m_lettuceMercenaryId": 294,
+            "m_cardId": 85060,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 521,
+            "m_lettuceMercenaryId": 294,
+            "m_cardId": 85061,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 522,
+            "m_lettuceMercenaryId": 294,
+            "m_cardId": 85062,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 523,
+            "m_lettuceMercenaryId": 295,
+            "m_cardId": 85111,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 524,
+            "m_lettuceMercenaryId": 295,
+            "m_cardId": 85112,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 525,
+            "m_lettuceMercenaryId": 295,
+            "m_cardId": 85113,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 526,
+            "m_lettuceMercenaryId": 296,
+            "m_cardId": 84777,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 527,
+            "m_lettuceMercenaryId": 296,
+            "m_cardId": 84778,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 528,
+            "m_lettuceMercenaryId": 296,
+            "m_cardId": 84779,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 530,
+            "m_lettuceMercenaryId": 298,
+            "m_cardId": 84774,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 531,
+            "m_lettuceMercenaryId": 298,
+            "m_cardId": 84776,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 532,
+            "m_lettuceMercenaryId": 298,
+            "m_cardId": 84775,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 86,
+            "m_lettuceMercenaryId": 3,
+            "m_cardId": 64510,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 87,
+            "m_lettuceMercenaryId": 3,
+            "m_cardId": 64509,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 88,
+            "m_lettuceMercenaryId": 3,
+            "m_cardId": 63966,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 543,
+            "m_lettuceMercenaryId": 304,
+            "m_cardId": 85396,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 544,
+            "m_lettuceMercenaryId": 304,
+            "m_cardId": 85397,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 545,
+            "m_lettuceMercenaryId": 304,
+            "m_cardId": 85398,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 546,
+            "m_lettuceMercenaryId": 305,
+            "m_cardId": 85475,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 547,
+            "m_lettuceMercenaryId": 305,
+            "m_cardId": 85476,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 548,
+            "m_lettuceMercenaryId": 305,
+            "m_cardId": 85477,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 549,
+            "m_lettuceMercenaryId": 306,
+            "m_cardId": 84781,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 550,
+            "m_lettuceMercenaryId": 306,
+            "m_cardId": 84780,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 551,
+            "m_lettuceMercenaryId": 306,
+            "m_cardId": 84782,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 552,
+            "m_lettuceMercenaryId": 307,
+            "m_cardId": 86730,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 553,
+            "m_lettuceMercenaryId": 308,
+            "m_cardId": 85970,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 554,
+            "m_lettuceMercenaryId": 308,
+            "m_cardId": 85971,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 555,
+            "m_lettuceMercenaryId": 308,
+            "m_cardId": 85972,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 556,
+            "m_lettuceMercenaryId": 309,
+            "m_cardId": 86078,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 557,
+            "m_lettuceMercenaryId": 309,
+            "m_cardId": 86079,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 558,
+            "m_lettuceMercenaryId": 309,
+            "m_cardId": 86080,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 559,
+            "m_lettuceMercenaryId": 311,
+            "m_cardId": 86523,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 560,
+            "m_lettuceMercenaryId": 311,
+            "m_cardId": 86524,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 561,
+            "m_lettuceMercenaryId": 311,
+            "m_cardId": 86525,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 562,
+            "m_lettuceMercenaryId": 312,
+            "m_cardId": 86530,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 563,
+            "m_lettuceMercenaryId": 312,
+            "m_cardId": 86529,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 564,
+            "m_lettuceMercenaryId": 312,
+            "m_cardId": 86531,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 565,
+            "m_lettuceMercenaryId": 313,
+            "m_cardId": 86436,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 566,
+            "m_lettuceMercenaryId": 314,
+            "m_cardId": 86462,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 567,
+            "m_lettuceMercenaryId": 315,
+            "m_cardId": 86464,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 568,
+            "m_lettuceMercenaryId": 316,
+            "m_cardId": 86566,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 569,
+            "m_lettuceMercenaryId": 317,
+            "m_cardId": 86617,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 570,
+            "m_lettuceMercenaryId": 318,
+            "m_cardId": 86610,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 571,
+            "m_lettuceMercenaryId": 319,
+            "m_cardId": 86575,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 572,
+            "m_lettuceMercenaryId": 320,
+            "m_cardId": 86620,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 573,
+            "m_lettuceMercenaryId": 321,
+            "m_cardId": 86623,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 574,
+            "m_lettuceMercenaryId": 322,
+            "m_cardId": 86695,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 575,
+            "m_lettuceMercenaryId": 323,
+            "m_cardId": 86698,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 576,
+            "m_lettuceMercenaryId": 324,
+            "m_cardId": 86702,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 577,
+            "m_lettuceMercenaryId": 325,
+            "m_cardId": 86707,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 578,
+            "m_lettuceMercenaryId": 326,
+            "m_cardId": 86564,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 579,
+            "m_lettuceMercenaryId": 328,
+            "m_cardId": 86844,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 580,
+            "m_lettuceMercenaryId": 328,
+            "m_cardId": 86845,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 581,
+            "m_lettuceMercenaryId": 328,
+            "m_cardId": 86846,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 582,
+            "m_lettuceMercenaryId": 329,
+            "m_cardId": 86979,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 583,
+            "m_lettuceMercenaryId": 329,
+            "m_cardId": 86980,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 584,
+            "m_lettuceMercenaryId": 329,
+            "m_cardId": 86982,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 585,
+            "m_lettuceMercenaryId": 330,
+            "m_cardId": 86901,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 586,
+            "m_lettuceMercenaryId": 331,
+            "m_cardId": 86998,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 587,
+            "m_lettuceMercenaryId": 332,
+            "m_cardId": 87003,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 588,
+            "m_lettuceMercenaryId": 333,
+            "m_cardId": 87006,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 589,
+            "m_lettuceMercenaryId": 334,
+            "m_cardId": 87016,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 590,
+            "m_lettuceMercenaryId": 335,
+            "m_cardId": 87031,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 591,
+            "m_lettuceMercenaryId": 336,
+            "m_cardId": 87032,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 592,
+            "m_lettuceMercenaryId": 337,
+            "m_cardId": 87033,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 594,
+            "m_lettuceMercenaryId": 339,
+            "m_cardId": 87037,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 595,
+            "m_lettuceMercenaryId": 339,
+            "m_cardId": 87038,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 596,
+            "m_lettuceMercenaryId": 339,
+            "m_cardId": 87039,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 600,
+            "m_lettuceMercenaryId": 341,
+            "m_cardId": 87091,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 601,
+            "m_lettuceMercenaryId": 341,
+            "m_cardId": 87092,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 602,
+            "m_lettuceMercenaryId": 341,
+            "m_cardId": 87093,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 607,
+            "m_lettuceMercenaryId": 344,
+            "m_cardId": 87891,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 608,
+            "m_lettuceMercenaryId": 344,
+            "m_cardId": 87892,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 609,
+            "m_lettuceMercenaryId": 344,
+            "m_cardId": 87893,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 611,
+            "m_lettuceMercenaryId": 346,
+            "m_cardId": 87034,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 613,
+            "m_lettuceMercenaryId": 348,
+            "m_cardId": 86876,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 614,
+            "m_lettuceMercenaryId": 349,
+            "m_cardId": 86877,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 71,
+            "m_lettuceMercenaryId": 35,
+            "m_cardId": 64567,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 72,
+            "m_lettuceMercenaryId": 35,
+            "m_cardId": 64566,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 73,
+            "m_lettuceMercenaryId": 35,
+            "m_cardId": 64565,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 617,
+            "m_lettuceMercenaryId": 352,
+            "m_cardId": 87711,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 620,
+            "m_lettuceMercenaryId": 355,
+            "m_cardId": 88233,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 621,
+            "m_lettuceMercenaryId": 356,
+            "m_cardId": 88234,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 622,
+            "m_lettuceMercenaryId": 357,
+            "m_cardId": 88238,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 623,
+            "m_lettuceMercenaryId": 358,
+            "m_cardId": 88317,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 627,
+            "m_lettuceMercenaryId": 359,
+            "m_cardId": 88646,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 630,
+            "m_lettuceMercenaryId": 360,
+            "m_cardId": 88695,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 631,
+            "m_lettuceMercenaryId": 361,
+            "m_cardId": 88693,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 632,
+            "m_lettuceMercenaryId": 362,
+            "m_cardId": 89347,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 633,
+            "m_lettuceMercenaryId": 363,
+            "m_cardId": 89353,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 634,
+            "m_lettuceMercenaryId": 364,
+            "m_cardId": 89358,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 638,
+            "m_lettuceMercenaryId": 366,
+            "m_cardId": 89546,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 639,
+            "m_lettuceMercenaryId": 366,
+            "m_cardId": 89547,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 640,
+            "m_lettuceMercenaryId": 366,
+            "m_cardId": 89548,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 641,
+            "m_lettuceMercenaryId": 367,
+            "m_cardId": 89719,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 642,
+            "m_lettuceMercenaryId": 367,
+            "m_cardId": 89721,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 643,
+            "m_lettuceMercenaryId": 367,
+            "m_cardId": 89722,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 650,
+            "m_lettuceMercenaryId": 371,
+            "m_cardId": 89587,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 651,
+            "m_lettuceMercenaryId": 371,
+            "m_cardId": 89588,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 652,
+            "m_lettuceMercenaryId": 371,
+            "m_cardId": 89589,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 653,
+            "m_lettuceMercenaryId": 372,
+            "m_cardId": 90029,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 654,
+            "m_lettuceMercenaryId": 372,
+            "m_cardId": 90031,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 655,
+            "m_lettuceMercenaryId": 372,
+            "m_cardId": 90032,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 658,
+            "m_lettuceMercenaryId": 373,
+            "m_cardId": 90025,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 659,
+            "m_lettuceMercenaryId": 373,
+            "m_cardId": 90026,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 660,
+            "m_lettuceMercenaryId": 373,
+            "m_cardId": 90027,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 661,
+            "m_lettuceMercenaryId": 374,
+            "m_cardId": 90466,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 662,
+            "m_lettuceMercenaryId": 374,
+            "m_cardId": 90477,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 663,
+            "m_lettuceMercenaryId": 374,
+            "m_cardId": 90478,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 664,
+            "m_lettuceMercenaryId": 375,
+            "m_cardId": 90848,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 665,
+            "m_lettuceMercenaryId": 376,
+            "m_cardId": 90870,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 666,
+            "m_lettuceMercenaryId": 376,
+            "m_cardId": 90928,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 667,
+            "m_lettuceMercenaryId": 376,
+            "m_cardId": 90934,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 668,
+            "m_lettuceMercenaryId": 377,
+            "m_cardId": 90837,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 669,
+            "m_lettuceMercenaryId": 377,
+            "m_cardId": 90838,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 670,
+            "m_lettuceMercenaryId": 377,
+            "m_cardId": 90839,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 672,
+            "m_lettuceMercenaryId": 379,
+            "m_cardId": 91032,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 80,
+            "m_lettuceMercenaryId": 38,
+            "m_cardId": 64550,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 81,
+            "m_lettuceMercenaryId": 38,
+            "m_cardId": 64549,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 82,
+            "m_lettuceMercenaryId": 38,
+            "m_cardId": 64548,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 673,
+            "m_lettuceMercenaryId": 380,
+            "m_cardId": 91034,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 674,
+            "m_lettuceMercenaryId": 381,
+            "m_cardId": 91033,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 675,
+            "m_lettuceMercenaryId": 382,
+            "m_cardId": 91036,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 676,
+            "m_lettuceMercenaryId": 383,
+            "m_cardId": 90742,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 677,
+            "m_lettuceMercenaryId": 383,
+            "m_cardId": 90743,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 678,
+            "m_lettuceMercenaryId": 383,
+            "m_cardId": 90744,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 679,
+            "m_lettuceMercenaryId": 384,
+            "m_cardId": 89158,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 680,
+            "m_lettuceMercenaryId": 385,
+            "m_cardId": 89162,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 681,
+            "m_lettuceMercenaryId": 386,
+            "m_cardId": 91222,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 684,
+            "m_lettuceMercenaryId": 387,
+            "m_cardId": 91393,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 685,
+            "m_lettuceMercenaryId": 388,
+            "m_cardId": 89731,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 686,
+            "m_lettuceMercenaryId": 389,
+            "m_cardId": 89140,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 687,
+            "m_lettuceMercenaryId": 390,
+            "m_cardId": 91513,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 705,
+            "m_lettuceMercenaryId": 394,
+            "m_cardId": 89742,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 706,
+            "m_lettuceMercenaryId": 395,
+            "m_cardId": 89351,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 707,
+            "m_lettuceMercenaryId": 396,
+            "m_cardId": 92028,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 708,
+            "m_lettuceMercenaryId": 397,
+            "m_cardId": 92555,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 709,
+            "m_lettuceMercenaryId": 397,
+            "m_cardId": 92556,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 710,
+            "m_lettuceMercenaryId": 397,
+            "m_cardId": 92557,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 711,
+            "m_lettuceMercenaryId": 398,
+            "m_cardId": 92731,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 712,
+            "m_lettuceMercenaryId": 398,
+            "m_cardId": 92732,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 713,
+            "m_lettuceMercenaryId": 398,
+            "m_cardId": 92733,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 110,
+            "m_lettuceMercenaryId": 4,
+            "m_cardId": 64499,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 111,
+            "m_lettuceMercenaryId": 4,
+            "m_cardId": 64500,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 112,
+            "m_lettuceMercenaryId": 4,
+            "m_cardId": 63752,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 89,
+            "m_lettuceMercenaryId": 40,
+            "m_cardId": 64576,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 90,
+            "m_lettuceMercenaryId": 40,
+            "m_cardId": 64575,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 91,
+            "m_lettuceMercenaryId": 40,
+            "m_cardId": 64574,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 717,
+            "m_lettuceMercenaryId": 400,
+            "m_cardId": 92981,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 721,
+            "m_lettuceMercenaryId": 402,
+            "m_cardId": 92962,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 722,
+            "m_lettuceMercenaryId": 402,
+            "m_cardId": 92963,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 723,
+            "m_lettuceMercenaryId": 402,
+            "m_cardId": 92964,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 724,
+            "m_lettuceMercenaryId": 403,
+            "m_cardId": 93090,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 725,
+            "m_lettuceMercenaryId": 403,
+            "m_cardId": 93089,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 726,
+            "m_lettuceMercenaryId": 403,
+            "m_cardId": 93091,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 733,
+            "m_lettuceMercenaryId": 406,
+            "m_cardId": 93328,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 734,
+            "m_lettuceMercenaryId": 406,
+            "m_cardId": 93329,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 735,
+            "m_lettuceMercenaryId": 406,
+            "m_cardId": 93330,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 736,
+            "m_lettuceMercenaryId": 407,
+            "m_cardId": 93396,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 737,
+            "m_lettuceMercenaryId": 407,
+            "m_cardId": 93339,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 738,
+            "m_lettuceMercenaryId": 407,
+            "m_cardId": 93397,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 739,
+            "m_lettuceMercenaryId": 408,
+            "m_cardId": 93405,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 740,
+            "m_lettuceMercenaryId": 408,
+            "m_cardId": 93409,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 741,
+            "m_lettuceMercenaryId": 408,
+            "m_cardId": 93410,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 742,
+            "m_lettuceMercenaryId": 409,
+            "m_cardId": 93402,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 743,
+            "m_lettuceMercenaryId": 409,
+            "m_cardId": 93403,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 744,
+            "m_lettuceMercenaryId": 409,
+            "m_cardId": 93404,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 92,
+            "m_lettuceMercenaryId": 41,
+            "m_cardId": 64581,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 93,
+            "m_lettuceMercenaryId": 41,
+            "m_cardId": 64582,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 94,
+            "m_lettuceMercenaryId": 41,
+            "m_cardId": 64580,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 704,
+            "m_lettuceMercenaryId": 41,
+            "m_cardId": 92041,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 745,
+            "m_lettuceMercenaryId": 410,
+            "m_cardId": 94020,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 748,
+            "m_lettuceMercenaryId": 410,
+            "m_cardId": 94013,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 749,
+            "m_lettuceMercenaryId": 410,
+            "m_cardId": 94021,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 756,
+            "m_lettuceMercenaryId": 411,
+            "m_cardId": 94125,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 757,
+            "m_lettuceMercenaryId": 411,
+            "m_cardId": 94126,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 758,
+            "m_lettuceMercenaryId": 411,
+            "m_cardId": 94127,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 759,
+            "m_lettuceMercenaryId": 412,
+            "m_cardId": 94259,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 760,
+            "m_lettuceMercenaryId": 412,
+            "m_cardId": 94258,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 761,
+            "m_lettuceMercenaryId": 412,
+            "m_cardId": 94257,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 762,
+            "m_lettuceMercenaryId": 413,
+            "m_cardId": 94438,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 763,
+            "m_lettuceMercenaryId": 414,
+            "m_cardId": 70947,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 764,
+            "m_lettuceMercenaryId": 414,
+            "m_cardId": 70948,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 765,
+            "m_lettuceMercenaryId": 414,
+            "m_cardId": 70949,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 766,
+            "m_lettuceMercenaryId": 416,
+            "m_cardId": 70943,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 767,
+            "m_lettuceMercenaryId": 416,
+            "m_cardId": 70942,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 768,
+            "m_lettuceMercenaryId": 416,
+            "m_cardId": 70941,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 770,
+            "m_lettuceMercenaryId": 417,
+            "m_cardId": 95024,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 771,
+            "m_lettuceMercenaryId": 418,
+            "m_cardId": 94448,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 772,
+            "m_lettuceMercenaryId": 418,
+            "m_cardId": 94449,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 773,
+            "m_lettuceMercenaryId": 418,
+            "m_cardId": 94450,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 95,
+            "m_lettuceMercenaryId": 42,
+            "m_cardId": 64521,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 96,
+            "m_lettuceMercenaryId": 42,
+            "m_cardId": 64522,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 97,
+            "m_lettuceMercenaryId": 42,
+            "m_cardId": 64208,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 777,
+            "m_lettuceMercenaryId": 420,
+            "m_cardId": 95941,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 778,
+            "m_lettuceMercenaryId": 420,
+            "m_cardId": 95942,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 779,
+            "m_lettuceMercenaryId": 420,
+            "m_cardId": 95943,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 780,
+            "m_lettuceMercenaryId": 421,
+            "m_cardId": 95986,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 781,
+            "m_lettuceMercenaryId": 421,
+            "m_cardId": 95987,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 782,
+            "m_lettuceMercenaryId": 421,
+            "m_cardId": 95988,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 98,
+            "m_lettuceMercenaryId": 43,
+            "m_cardId": 64606,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 99,
+            "m_lettuceMercenaryId": 43,
+            "m_cardId": 64605,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 100,
+            "m_lettuceMercenaryId": 43,
+            "m_cardId": 64604,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 793,
+            "m_lettuceMercenaryId": 432,
+            "m_cardId": 96757,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 794,
+            "m_lettuceMercenaryId": 432,
+            "m_cardId": 96801,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 795,
+            "m_lettuceMercenaryId": 432,
+            "m_cardId": 96802,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 797,
+            "m_lettuceMercenaryId": 433,
+            "m_cardId": 97284,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 798,
+            "m_lettuceMercenaryId": 433,
+            "m_cardId": 97286,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 799,
+            "m_lettuceMercenaryId": 433,
+            "m_cardId": 97287,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 101,
+            "m_lettuceMercenaryId": 44,
+            "m_cardId": 64608,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 102,
+            "m_lettuceMercenaryId": 44,
+            "m_cardId": 64609,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 103,
+            "m_lettuceMercenaryId": 44,
+            "m_cardId": 64607,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 699,
+            "m_lettuceMercenaryId": 44,
+            "m_cardId": 92035,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 804,
+            "m_lettuceMercenaryId": 440,
+            "m_cardId": 97607,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 806,
+            "m_lettuceMercenaryId": 443,
+            "m_cardId": 97774,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 807,
+            "m_lettuceMercenaryId": 443,
+            "m_cardId": 97773,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 808,
+            "m_lettuceMercenaryId": 443,
+            "m_cardId": 97772,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 104,
+            "m_lettuceMercenaryId": 45,
+            "m_cardId": 64612,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 105,
+            "m_lettuceMercenaryId": 45,
+            "m_cardId": 64611,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 106,
+            "m_lettuceMercenaryId": 45,
+            "m_cardId": 64610,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 701,
+            "m_lettuceMercenaryId": 45,
+            "m_cardId": 92038,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 107,
+            "m_lettuceMercenaryId": 49,
+            "m_cardId": 70615,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 108,
+            "m_lettuceMercenaryId": 49,
+            "m_cardId": 70614,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 109,
+            "m_lettuceMercenaryId": 49,
+            "m_cardId": 70304,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 137,
+            "m_lettuceMercenaryId": 5,
+            "m_cardId": 64514,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 138,
+            "m_lettuceMercenaryId": 5,
+            "m_cardId": 64513,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 139,
+            "m_lettuceMercenaryId": 5,
+            "m_cardId": 63998,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 113,
+            "m_lettuceMercenaryId": 50,
+            "m_cardId": 70609,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 114,
+            "m_lettuceMercenaryId": 50,
+            "m_cardId": 70608,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 115,
+            "m_lettuceMercenaryId": 50,
+            "m_cardId": 70422,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 119,
+            "m_lettuceMercenaryId": 52,
+            "m_cardId": 70607,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 120,
+            "m_lettuceMercenaryId": 52,
+            "m_cardId": 70606,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 121,
+            "m_lettuceMercenaryId": 52,
+            "m_cardId": 70539,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 122,
+            "m_lettuceMercenaryId": 53,
+            "m_cardId": 70613,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 123,
+            "m_lettuceMercenaryId": 53,
+            "m_cardId": 70612,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 124,
+            "m_lettuceMercenaryId": 53,
+            "m_cardId": 70540,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 125,
+            "m_lettuceMercenaryId": 54,
+            "m_cardId": 70777,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 126,
+            "m_lettuceMercenaryId": 54,
+            "m_cardId": 70776,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 127,
+            "m_lettuceMercenaryId": 54,
+            "m_cardId": 70775,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 128,
+            "m_lettuceMercenaryId": 55,
+            "m_cardId": 70817,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 129,
+            "m_lettuceMercenaryId": 55,
+            "m_cardId": 70818,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 130,
+            "m_lettuceMercenaryId": 55,
+            "m_cardId": 70819,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 131,
+            "m_lettuceMercenaryId": 56,
+            "m_cardId": 70851,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 132,
+            "m_lettuceMercenaryId": 56,
+            "m_cardId": 70852,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 133,
+            "m_lettuceMercenaryId": 56,
+            "m_cardId": 70850,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 134,
+            "m_lettuceMercenaryId": 57,
+            "m_cardId": 70855,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 135,
+            "m_lettuceMercenaryId": 57,
+            "m_cardId": 70854,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 136,
+            "m_lettuceMercenaryId": 57,
+            "m_cardId": 70853,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 170,
+            "m_lettuceMercenaryId": 6,
+            "m_cardId": 64529,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 171,
+            "m_lettuceMercenaryId": 6,
+            "m_cardId": 64527,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 172,
+            "m_lettuceMercenaryId": 6,
+            "m_cardId": 64528,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 140,
+            "m_lettuceMercenaryId": 60,
+            "m_cardId": 70923,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 141,
+            "m_lettuceMercenaryId": 60,
+            "m_cardId": 70922,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 142,
+            "m_lettuceMercenaryId": 60,
+            "m_cardId": 70925,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 146,
+            "m_lettuceMercenaryId": 62,
+            "m_cardId": 70914,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 147,
+            "m_lettuceMercenaryId": 62,
+            "m_cardId": 70913,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 148,
+            "m_lettuceMercenaryId": 62,
+            "m_cardId": 70915,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 149,
+            "m_lettuceMercenaryId": 63,
+            "m_cardId": 70919,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 150,
+            "m_lettuceMercenaryId": 63,
+            "m_cardId": 70920,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 151,
+            "m_lettuceMercenaryId": 63,
+            "m_cardId": 70921,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 152,
+            "m_lettuceMercenaryId": 64,
+            "m_cardId": 70938,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 153,
+            "m_lettuceMercenaryId": 64,
+            "m_cardId": 70939,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 154,
+            "m_lettuceMercenaryId": 64,
+            "m_cardId": 70940,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 167,
+            "m_lettuceMercenaryId": 69,
+            "m_cardId": 70935,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 168,
+            "m_lettuceMercenaryId": 69,
+            "m_cardId": 70936,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 169,
+            "m_lettuceMercenaryId": 69,
+            "m_cardId": 70937,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 698,
+            "m_lettuceMercenaryId": 69,
+            "m_cardId": 92034,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 191,
+            "m_lettuceMercenaryId": 7,
+            "m_cardId": 64532,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 192,
+            "m_lettuceMercenaryId": 7,
+            "m_cardId": 64531,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 193,
+            "m_lettuceMercenaryId": 7,
+            "m_cardId": 64530,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 700,
+            "m_lettuceMercenaryId": 7,
+            "m_cardId": 92037,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 176,
+            "m_lettuceMercenaryId": 71,
+            "m_cardId": 70932,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 177,
+            "m_lettuceMercenaryId": 71,
+            "m_cardId": 70933,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 178,
+            "m_lettuceMercenaryId": 71,
+            "m_cardId": 70934,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 194,
+            "m_lettuceMercenaryId": 8,
+            "m_cardId": 64536,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 195,
+            "m_lettuceMercenaryId": 8,
+            "m_cardId": 64535,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 196,
+            "m_lettuceMercenaryId": 8,
+            "m_cardId": 64534,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 215,
+            "m_lettuceMercenaryId": 9,
+            "m_cardId": 64539,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 216,
+            "m_lettuceMercenaryId": 9,
+            "m_cardId": 64538,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 217,
+            "m_lettuceMercenaryId": 9,
+            "m_cardId": 64537,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 197,
+            "m_lettuceMercenaryId": 93,
+            "m_cardId": 72863,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 198,
+            "m_lettuceMercenaryId": 93,
+            "m_cardId": 72864,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 199,
+            "m_lettuceMercenaryId": 93,
+            "m_cardId": 72862,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 200,
+            "m_lettuceMercenaryId": 94,
+            "m_cardId": 72867,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 201,
+            "m_lettuceMercenaryId": 94,
+            "m_cardId": 72866,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 202,
+            "m_lettuceMercenaryId": 94,
+            "m_cardId": 72865,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 203,
+            "m_lettuceMercenaryId": 95,
+            "m_cardId": 72859,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 204,
+            "m_lettuceMercenaryId": 95,
+            "m_cardId": 72860,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 205,
+            "m_lettuceMercenaryId": 95,
+            "m_cardId": 72861,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 206,
+            "m_lettuceMercenaryId": 97,
+            "m_cardId": 73478,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 207,
+            "m_lettuceMercenaryId": 97,
+            "m_cardId": 73479,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 208,
+            "m_lettuceMercenaryId": 97,
+            "m_cardId": 73480,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 209,
+            "m_lettuceMercenaryId": 98,
+            "m_cardId": 73505,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 210,
+            "m_lettuceMercenaryId": 98,
+            "m_cardId": 73506,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 211,
+            "m_lettuceMercenaryId": 98,
+            "m_cardId": 73507,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 212,
+            "m_lettuceMercenaryId": 99,
+            "m_cardId": 73494,
+            "m_defaultVariation": 1
+        },
+        {
+            "m_ID": 213,
+            "m_lettuceMercenaryId": 99,
+            "m_cardId": 73492,
+            "m_defaultVariation": 0
+        },
+        {
+            "m_ID": 214,
+            "m_lettuceMercenaryId": 99,
+            "m_cardId": 73491,
+            "m_defaultVariation": 0
+        }
+    ]
+}

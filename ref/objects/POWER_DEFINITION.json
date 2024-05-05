@@ -1,0 +1,1050 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 7285586234737586484
+    },
+    "m_Name": "POWER_DEFINITION",
+    "Records": [
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": "This is just a label power"
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": "This should run before any other power can affect the board, so we can find the correct adjacent minion."
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": "This is just a label power"
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": "There a special case we want to change for 5 cost potion with Mystic Wool[1] and Heart of Fire[5].  We want to swich the order here so that Damage component goes first, then sweep."
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": "Draw 2 Cards."
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": "We have to iterated through \"Choices\" list to remove it from the class subset because the 3 different classes can each pull the same tri-class card and provide duplicate selections."
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": "When 'this turn effects' end, this card will be destroyed."
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": "Mo"
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": "Previously there were separate reference powers for each individual possible of overload, i.e. 1, 2, 3, 5, 10.  Also, some cards had unique power instances for overload of different numbers, like 4.  As such this doesn't have a neat Alias ID to map to in legacy scripts since it combines all of them into one with ref power params. "
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": "Very high priority, meant to occur before most other triggers.\n\nThis power exists to solve corner cases where other powers trigger on attack (eg: explosive trap) and happen before the weapon has a chance to trigger the immunity. For those cases, we have this power to catch the incoming damage and negate it.\n"
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": "This is just a label power"
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": "Common = 1, so all 5 common means sum is 5.  Then we replace with rare, common x4.  This is slightly more generous than norma\n\nImproving booster!\nAlways Epic, Rare, Common, Common, Common"
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        },
+        {
+            "m_ID": 0,
+            "m_notes": ""
+        }
+    ]
+}

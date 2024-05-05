@@ -1,0 +1,40 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -3861182231136886676
+    },
+    "m_Name": "QUEST_MODIFIER",
+    "Records": [
+        {
+            "m_ID": 1,
+            "m_event": 0,
+            "m_quota": 0,
+            "m_description": "",
+            "m_styleName": "",
+            "m_questName": {
+                "m_locValues": [
+                    "Test",
+                    "Test",
+                    "Prueba",
+                    "Prueba",
+                    "Test",
+                    "Test",
+                    "テスト",
+                    "시험",
+                    "Test",
+                    "Teste",
+                    "Тест",
+                    "ทดสอบ",
+                    "测试",
+                    "測試"
+                ],
+                "m_locId": 2729935
+            }
+        }
+    ]
+}

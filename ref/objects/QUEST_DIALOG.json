@@ -1,0 +1,44 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -6627668993387130280
+    },
+    "m_Name": "QUEST_DIALOG",
+    "Records": [
+        {
+            "m_ID": 1,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Welcome to Gadgetzan"
+        },
+        {
+            "m_ID": 2,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Join the Goons"
+        },
+        {
+            "m_ID": 3,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "A Job for Ya'"
+        },
+        {
+            "m_ID": 4,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Join the Jade Lotus"
+        },
+        {
+            "m_ID": 5,
+            "m_onCompleteBannerId": 0,
+            "m_noteDesc": "Wise Beyond Your Years"
+        },
+        {
+            "m_ID": 6,
+            "m_onCompleteBannerId": 39,
+            "m_noteDesc": "Join the Kabal"
+        }
+    ]
+}

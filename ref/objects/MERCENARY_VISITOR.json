@@ -1,0 +1,980 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 8610576568401381381
+    },
+    "m_Name": "MERCENARY_VISITOR",
+    "Records": [
+        {
+            "m_ID": 1823,
+            "m_event": -1,
+            "m_mercenaryId": 23,
+            "m_visitorType": 0,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 1824,
+            "m_event": -1,
+            "m_mercenaryId": 93,
+            "m_visitorType": 0,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 1825,
+            "m_event": -1,
+            "m_mercenaryId": 99,
+            "m_visitorType": 0,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 1826,
+            "m_event": -1,
+            "m_mercenaryId": 22,
+            "m_visitorType": 0,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 1827,
+            "m_event": -1,
+            "m_mercenaryId": 53,
+            "m_visitorType": 0,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 1828,
+            "m_event": -1,
+            "m_mercenaryId": 100,
+            "m_visitorType": 0,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 1829,
+            "m_event": -1,
+            "m_mercenaryId": 24,
+            "m_visitorType": 0,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 1830,
+            "m_event": -1,
+            "m_mercenaryId": 21,
+            "m_visitorType": 0,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 1831,
+            "m_event": -1,
+            "m_mercenaryId": 26,
+            "m_visitorType": 0,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 1832,
+            "m_event": -1,
+            "m_mercenaryId": 18,
+            "m_visitorType": 0,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 1833,
+            "m_event": -1,
+            "m_mercenaryId": 95,
+            "m_visitorType": 0,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 1834,
+            "m_event": -1,
+            "m_mercenaryId": 102,
+            "m_visitorType": 0,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 1835,
+            "m_event": -1,
+            "m_mercenaryId": 98,
+            "m_visitorType": 0,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 1836,
+            "m_event": -1,
+            "m_mercenaryId": 6,
+            "m_visitorType": 0,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 1837,
+            "m_event": -1,
+            "m_mercenaryId": 25,
+            "m_visitorType": 0,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 1838,
+            "m_event": -1,
+            "m_mercenaryId": 28,
+            "m_visitorType": 0,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 1839,
+            "m_event": -1,
+            "m_mercenaryId": 60,
+            "m_visitorType": 0,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 1840,
+            "m_event": -1,
+            "m_mercenaryId": 12,
+            "m_visitorType": 0,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 1841,
+            "m_event": -1,
+            "m_mercenaryId": 97,
+            "m_visitorType": 0,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 1842,
+            "m_event": -1,
+            "m_mercenaryId": 2,
+            "m_visitorType": 0,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 1843,
+            "m_event": -1,
+            "m_mercenaryId": 43,
+            "m_visitorType": 0,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 1844,
+            "m_event": -1,
+            "m_mercenaryId": 42,
+            "m_visitorType": 0,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 1845,
+            "m_event": -1,
+            "m_mercenaryId": 3,
+            "m_visitorType": 0,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 1846,
+            "m_event": -1,
+            "m_mercenaryId": 63,
+            "m_visitorType": 0,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 1847,
+            "m_event": -1,
+            "m_mercenaryId": 64,
+            "m_visitorType": 0,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 1848,
+            "m_event": -1,
+            "m_mercenaryId": 54,
+            "m_visitorType": 0,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 1849,
+            "m_event": -1,
+            "m_mercenaryId": 14,
+            "m_visitorType": 0,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 1850,
+            "m_event": -1,
+            "m_mercenaryId": 41,
+            "m_visitorType": 0,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 1851,
+            "m_event": -1,
+            "m_mercenaryId": 56,
+            "m_visitorType": 0,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 1852,
+            "m_event": -1,
+            "m_mercenaryId": 8,
+            "m_visitorType": 0,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 1853,
+            "m_event": -1,
+            "m_mercenaryId": 40,
+            "m_visitorType": 0,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 1854,
+            "m_event": -1,
+            "m_mercenaryId": 52,
+            "m_visitorType": 0,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 1855,
+            "m_event": -1,
+            "m_mercenaryId": 5,
+            "m_visitorType": 0,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 1856,
+            "m_event": -1,
+            "m_mercenaryId": 20,
+            "m_visitorType": 0,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 1857,
+            "m_event": -1,
+            "m_mercenaryId": 55,
+            "m_visitorType": 0,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 1858,
+            "m_event": -1,
+            "m_mercenaryId": 1,
+            "m_visitorType": 0,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 1859,
+            "m_event": -1,
+            "m_mercenaryId": 11,
+            "m_visitorType": 0,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 1860,
+            "m_event": -1,
+            "m_mercenaryId": 7,
+            "m_visitorType": 0,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 1861,
+            "m_event": -1,
+            "m_mercenaryId": 62,
+            "m_visitorType": 0,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 1862,
+            "m_event": -1,
+            "m_mercenaryId": 15,
+            "m_visitorType": 0,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 1863,
+            "m_event": -1,
+            "m_mercenaryId": 45,
+            "m_visitorType": 0,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 1864,
+            "m_event": -1,
+            "m_mercenaryId": 44,
+            "m_visitorType": 0,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 1865,
+            "m_event": -1,
+            "m_mercenaryId": 49,
+            "m_visitorType": 0,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 1866,
+            "m_event": -1,
+            "m_mercenaryId": 4,
+            "m_visitorType": 0,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 1867,
+            "m_event": -1,
+            "m_mercenaryId": 69,
+            "m_visitorType": 0,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 1868,
+            "m_event": -1,
+            "m_mercenaryId": 94,
+            "m_visitorType": 0,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 1869,
+            "m_event": -1,
+            "m_mercenaryId": 17,
+            "m_visitorType": 0,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 1870,
+            "m_event": -1,
+            "m_mercenaryId": 38,
+            "m_visitorType": 0,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 1871,
+            "m_event": -1,
+            "m_mercenaryId": 9,
+            "m_visitorType": 0,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 1872,
+            "m_event": -1,
+            "m_mercenaryId": 57,
+            "m_visitorType": 0,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 1873,
+            "m_event": -1,
+            "m_mercenaryId": 19,
+            "m_visitorType": 0,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 1874,
+            "m_event": -1,
+            "m_mercenaryId": 50,
+            "m_visitorType": 0,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 1931,
+            "m_event": -1,
+            "m_mercenaryId": 231,
+            "m_visitorType": 1,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 1938,
+            "m_event": -1,
+            "m_mercenaryId": 17,
+            "m_visitorType": 2,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 1939,
+            "m_event": -1,
+            "m_mercenaryId": 17,
+            "m_visitorType": 2,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 1941,
+            "m_event": -1,
+            "m_mercenaryId": 149,
+            "m_visitorType": 0,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 1945,
+            "m_event": -1,
+            "m_mercenaryId": 159,
+            "m_visitorType": 0,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 1946,
+            "m_event": -1,
+            "m_mercenaryId": 236,
+            "m_visitorType": 0,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 1947,
+            "m_event": -1,
+            "m_mercenaryId": 156,
+            "m_visitorType": 0,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 1950,
+            "m_event": -1,
+            "m_mercenaryId": 237,
+            "m_visitorType": 0,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 1979,
+            "m_event": -1,
+            "m_mercenaryId": 71,
+            "m_visitorType": 0,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 1980,
+            "m_event": -1,
+            "m_mercenaryId": 238,
+            "m_visitorType": 0,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 1981,
+            "m_event": -1,
+            "m_mercenaryId": 242,
+            "m_visitorType": 0,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 1983,
+            "m_event": -1,
+            "m_mercenaryId": 249,
+            "m_visitorType": 0,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 1984,
+            "m_event": -1,
+            "m_mercenaryId": 250,
+            "m_visitorType": 0,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 1985,
+            "m_event": -1,
+            "m_mercenaryId": 251,
+            "m_visitorType": 0,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 1986,
+            "m_event": -1,
+            "m_mercenaryId": 253,
+            "m_visitorType": 0,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 1987,
+            "m_event": -1,
+            "m_mercenaryId": 252,
+            "m_visitorType": 0,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 2003,
+            "m_event": 10000428,
+            "m_mercenaryId": 307,
+            "m_visitorType": 1,
+            "m_maxEventTasksPerDay": 2
+        },
+        {
+            "m_ID": 2018,
+            "m_event": -1,
+            "m_mercenaryId": 254,
+            "m_visitorType": 0,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 2019,
+            "m_event": -1,
+            "m_mercenaryId": 285,
+            "m_visitorType": 0,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 2022,
+            "m_event": -1,
+            "m_mercenaryId": 286,
+            "m_visitorType": 0,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 2023,
+            "m_event": -1,
+            "m_mercenaryId": 282,
+            "m_visitorType": 0,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 2024,
+            "m_event": -1,
+            "m_mercenaryId": 283,
+            "m_visitorType": 0,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 2029,
+            "m_event": -1,
+            "m_mercenaryId": 155,
+            "m_visitorType": 0,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 2030,
+            "m_event": -1,
+            "m_mercenaryId": 291,
+            "m_visitorType": 0,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 2031,
+            "m_event": -1,
+            "m_mercenaryId": 284,
+            "m_visitorType": 0,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 2035,
+            "m_event": -1,
+            "m_mercenaryId": 306,
+            "m_visitorType": 0,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 2036,
+            "m_event": -1,
+            "m_mercenaryId": 292,
+            "m_visitorType": 0,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 2037,
+            "m_event": -1,
+            "m_mercenaryId": 293,
+            "m_visitorType": 0,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 2038,
+            "m_event": -1,
+            "m_mercenaryId": 298,
+            "m_visitorType": 0,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 2039,
+            "m_event": 10000429,
+            "m_mercenaryId": 335,
+            "m_visitorType": 1,
+            "m_maxEventTasksPerDay": 2
+        },
+        {
+            "m_ID": 2040,
+            "m_event": -1,
+            "m_mercenaryId": 312,
+            "m_visitorType": 0,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 2043,
+            "m_event": 10000431,
+            "m_mercenaryId": 375,
+            "m_visitorType": 1,
+            "m_maxEventTasksPerDay": 2
+        },
+        {
+            "m_ID": 2045,
+            "m_event": -1,
+            "m_mercenaryId": 341,
+            "m_visitorType": 0,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 2046,
+            "m_event": 10000445,
+            "m_mercenaryId": 387,
+            "m_visitorType": 1,
+            "m_maxEventTasksPerDay": 2
+        },
+        {
+            "m_ID": 2047,
+            "m_event": -1,
+            "m_mercenaryId": 311,
+            "m_visitorType": 0,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 2048,
+            "m_event": -1,
+            "m_mercenaryId": 383,
+            "m_visitorType": 0,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 2049,
+            "m_event": -1,
+            "m_mercenaryId": 377,
+            "m_visitorType": 0,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 2050,
+            "m_event": -1,
+            "m_mercenaryId": 290,
+            "m_visitorType": 0,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 2052,
+            "m_event": -1,
+            "m_mercenaryId": 309,
+            "m_visitorType": 0,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 2053,
+            "m_event": -1,
+            "m_mercenaryId": 371,
+            "m_visitorType": 0,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 2054,
+            "m_event": -1,
+            "m_mercenaryId": 294,
+            "m_visitorType": 0,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 2055,
+            "m_event": -1,
+            "m_mercenaryId": 374,
+            "m_visitorType": 0,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 2056,
+            "m_event": -1,
+            "m_mercenaryId": 295,
+            "m_visitorType": 0,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 2057,
+            "m_event": -1,
+            "m_mercenaryId": 304,
+            "m_visitorType": 0,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 2058,
+            "m_event": -1,
+            "m_mercenaryId": 366,
+            "m_visitorType": 0,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 2059,
+            "m_event": -1,
+            "m_mercenaryId": 289,
+            "m_visitorType": 0,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 2060,
+            "m_event": -1,
+            "m_mercenaryId": 372,
+            "m_visitorType": 0,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 2061,
+            "m_event": -1,
+            "m_mercenaryId": 376,
+            "m_visitorType": 0,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 2062,
+            "m_event": -1,
+            "m_mercenaryId": 305,
+            "m_visitorType": 0,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 2063,
+            "m_event": -1,
+            "m_mercenaryId": 344,
+            "m_visitorType": 0,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 2064,
+            "m_event": -1,
+            "m_mercenaryId": 373,
+            "m_visitorType": 0,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 2065,
+            "m_event": -1,
+            "m_mercenaryId": 367,
+            "m_visitorType": 0,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 2066,
+            "m_event": -1,
+            "m_mercenaryId": 308,
+            "m_visitorType": 0,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 2067,
+            "m_event": 10000445,
+            "m_mercenaryId": 413,
+            "m_visitorType": 1,
+            "m_maxEventTasksPerDay": 2
+        },
+        {
+            "m_ID": 2068,
+            "m_event": 10000446,
+            "m_mercenaryId": 417,
+            "m_visitorType": 1,
+            "m_maxEventTasksPerDay": 2
+        },
+        {
+            "m_ID": 2071,
+            "m_event": -1,
+            "m_mercenaryId": 339,
+            "m_visitorType": 0,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 2072,
+            "m_event": -1,
+            "m_mercenaryId": 406,
+            "m_visitorType": 0,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 2073,
+            "m_event": -1,
+            "m_mercenaryId": 328,
+            "m_visitorType": 0,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 2074,
+            "m_event": -1,
+            "m_mercenaryId": 0,
+            "m_visitorType": 3,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 2076,
+            "m_event": -1,
+            "m_mercenaryId": 0,
+            "m_visitorType": 3,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 2077,
+            "m_event": -1,
+            "m_mercenaryId": 0,
+            "m_visitorType": 3,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 2078,
+            "m_event": -1,
+            "m_mercenaryId": 0,
+            "m_visitorType": 3,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 2079,
+            "m_event": -1,
+            "m_mercenaryId": 329,
+            "m_visitorType": 0,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 2080,
+            "m_event": -1,
+            "m_mercenaryId": 296,
+            "m_visitorType": 0,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 2082,
+            "m_event": -1,
+            "m_mercenaryId": 402,
+            "m_visitorType": 0,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 2083,
+            "m_event": -1,
+            "m_mercenaryId": 397,
+            "m_visitorType": 0,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 2084,
+            "m_event": -1,
+            "m_mercenaryId": 398,
+            "m_visitorType": 0,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 2085,
+            "m_event": -1,
+            "m_mercenaryId": 35,
+            "m_visitorType": 0,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 2086,
+            "m_event": -1,
+            "m_mercenaryId": 421,
+            "m_visitorType": 0,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 2087,
+            "m_event": -1,
+            "m_mercenaryId": 408,
+            "m_visitorType": 0,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 2088,
+            "m_event": -1,
+            "m_mercenaryId": 416,
+            "m_visitorType": 0,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 2089,
+            "m_event": -1,
+            "m_mercenaryId": 407,
+            "m_visitorType": 0,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 2090,
+            "m_event": -1,
+            "m_mercenaryId": 403,
+            "m_visitorType": 0,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 2091,
+            "m_event": -1,
+            "m_mercenaryId": 411,
+            "m_visitorType": 0,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 2092,
+            "m_event": -1,
+            "m_mercenaryId": 414,
+            "m_visitorType": 0,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 2093,
+            "m_event": -1,
+            "m_mercenaryId": 409,
+            "m_visitorType": 0,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 2094,
+            "m_event": -1,
+            "m_mercenaryId": 418,
+            "m_visitorType": 0,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 2095,
+            "m_event": -1,
+            "m_mercenaryId": 0,
+            "m_visitorType": 3,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 2096,
+            "m_event": -1,
+            "m_mercenaryId": 0,
+            "m_visitorType": 3,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 2106,
+            "m_event": -1,
+            "m_mercenaryId": 410,
+            "m_visitorType": 0,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 2117,
+            "m_event": 10000447,
+            "m_mercenaryId": 440,
+            "m_visitorType": 1,
+            "m_maxEventTasksPerDay": 2
+        },
+        {
+            "m_ID": 2124,
+            "m_event": -1,
+            "m_mercenaryId": 420,
+            "m_visitorType": 0,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 2125,
+            "m_event": -1,
+            "m_mercenaryId": 433,
+            "m_visitorType": 0,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 2169,
+            "m_event": -1,
+            "m_mercenaryId": 443,
+            "m_visitorType": 0,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 2170,
+            "m_event": -1,
+            "m_mercenaryId": 412,
+            "m_visitorType": 0,
+            "m_maxEventTasksPerDay": 1
+        },
+        {
+            "m_ID": 2171,
+            "m_event": -1,
+            "m_mercenaryId": 432,
+            "m_visitorType": 0,
+            "m_maxEventTasksPerDay": 1
+        }
+    ]
+}

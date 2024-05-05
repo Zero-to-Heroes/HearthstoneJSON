@@ -1,0 +1,38 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 8529511464850968838
+    },
+    "m_Name": "MERC_TRIGGERED_EVENT",
+    "Records": [
+        {
+            "m_ID": 2,
+            "m_mercenaryVillageTriggerId": 2,
+            "m_eventType": 1,
+            "m_successRequired": 0,
+            "m_visitorId": 0,
+            "m_quantity": 1
+        },
+        {
+            "m_ID": 3,
+            "m_mercenaryVillageTriggerId": 3,
+            "m_eventType": 1,
+            "m_successRequired": 0,
+            "m_visitorId": 0,
+            "m_quantity": 1
+        },
+        {
+            "m_ID": 5,
+            "m_mercenaryVillageTriggerId": 5,
+            "m_eventType": 3,
+            "m_successRequired": 0,
+            "m_visitorId": 0,
+            "m_quantity": 1
+        }
+    ]
+}

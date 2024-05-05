@@ -1,0 +1,1118 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -4927135946033709355
+    },
+    "m_Name": "LOGIN_POPUP_SEQUENCE_POPUP",
+    "Records": [
+        {
+            "m_ID": 1,
+            "m_loginPopupSequenceId": 1,
+            "m_popupType": 1,
+            "m_requiresWildUnlocked": 0,
+            "m_suppressForReturningPlayer": 0,
+            "m_prefabOverride": "LoginPopup_ReturnOfTheMech1.prefab:26c64c3f39179c7499a2ec758d1ed1a3",
+            "m_backgroundMaterial": "ReturnOfTheMechPopUps1.mat:d9ff3c82a5f93484e87b3cfcfd1ebd34",
+            "m_headerText": {
+                "m_locValues": [
+                    "UPGRADED!",
+                    "UPGRADE!",
+                    "¡MEJORA!",
+                    "¡MEJORADO!",
+                    "AMÉLIORATION !",
+                    "POTENZIATO!",
+                    "アップグレード！",
+                    "업그레이드!",
+                    "ULEPSZENIA!",
+                    "APRIMORADO!",
+                    "УЛУЧШЕНО!",
+                    "อัพเกรดแล้ว!",
+                    "更新完成！",
+                    "升級！"
+                ],
+                "m_locId": 2711104
+            },
+            "m_bodyText": {
+                "m_locValues": [
+                    "Dr. Boom has gone back to\nthe drawing board...",
+                    "Dr. Bumm hat ein paar\nzündende Ideen gehabt_...",
+                    "El Dr. Bum ha vuelto\na la mesa de diseño...",
+                    "El Dr. Bum ha regresado\na revisar sus planos...",
+                    "Le Dr Boum a revu sa copie\net revient à la charge…",
+                    "Il Dott. Boom è tornato\nalla fase di progettazione...",
+                    "ドクター・ブームは\n設計図を作り直してるぞ…",
+                    "박사 붐이 계획을\n수정하고 있습니다...",
+                    "Doktor Huk znów\nzasiadł nad deską kreślarską...",
+                    "Dr. Cabum está de volta\nà prancheta...",
+                    "Доктор Бум вернулся\nк чертежной доске...",
+                    "ด็อกเตอร์บูมกลับไปออกแบบใหม่...",
+                    "砰砰博士重新回到了设计桌前……",
+                    "爆爆博士重新回到了他的實驗室…"
+                ],
+                "m_locId": 2710924
+            },
+            "m_buttonText": {
+                "m_locValues": [
+                    "Continue",
+                    "Weiter",
+                    "Continuar",
+                    "Continuar",
+                    "Continuer",
+                    "Continua",
+                    "続ける",
+                    "계속",
+                    "Kontynuuj",
+                    "Continuar",
+                    "Продолжить",
+                    "ต่อไป",
+                    "继续",
+                    "繼續"
+                ],
+                "m_locId": 2710925
+            },
+            "m_cardId": 0,
+            "m_cardPremium": 0,
+            "m_featuredCardsEvent": "never"
+        },
+        {
+            "m_ID": 2,
+            "m_loginPopupSequenceId": 1,
+            "m_popupType": 1,
+            "m_requiresWildUnlocked": 0,
+            "m_suppressForReturningPlayer": 0,
+            "m_prefabOverride": "LoginPopup_ReturnOfTheMech2.prefab:ec4ea919dec696b429be2fa908d1aac6",
+            "m_backgroundMaterial": "ReturnOfTheMechPopUps2.mat:20cf81750da8fdd4cb7d4d0fa1d8b523",
+            "m_headerText": {
+                "m_locValues": [
+                    "Dr. Boom has granted a new card!",
+                    "Dr. Bumm hat ein Geschenk für Euch!",
+                    "¡El Dr. Bum ha otorgado una carta nueva!",
+                    "¡El Dr. Bum te ha dado una carta nueva!",
+                    "Le Dr Boum a inventé une nouvelle carte !",
+                    "Il Dott. Boom ti ha fornito una nuova carta!",
+                    "ドクター・ブームが新しいカードをくれたぞ！",
+                    "박사 붐이 새로운 카드를 줬습니다!",
+                    "Nowa karta od Doktora Huka!",
+                    "Dr. Cabum concedeu um novo card!",
+                    "Доктор Бум принес вам новую карту!",
+                    "ด็อกเตอร์บูมมอบการ์ดใหม่ให้!",
+                    "砰砰博士带来了一张全新卡牌！",
+                    "爆爆博士給了你一張新卡牌！"
+                ],
+                "m_locId": 2710923
+            },
+            "m_bodyText": {
+                "m_locValues": [
+                    "New Free\nLegendary!",
+                    "Neue legendäre\n         Karte!",
+                    "¡Nueva legendaria\ngratis!",
+                    "¡Nueva Legendaria\ngratis!",
+                    "Nouvelle carte\nlégendaire gratuite !",
+                    "Nuova Leggendaria\nGratis!",
+                    "新しい無料の\nレジェンド！",
+                    "새로운\n전설 카드!",
+                    "Nowa, darmowa legenda!",
+                    "Lendário\nnovo de graça!",
+                    "Бесплатная\nлегендарная карта!",
+                    "ฟรี! การ์ดใหม่\nระดับตำนาน",
+                    "全新免费\n传说卡牌！",
+                    "免費贈送的新傳說卡牌！"
+                ],
+                "m_locId": 2711105
+            },
+            "m_buttonText": {
+                "m_locValues": [
+                    "Next",
+                    "Weiter",
+                    "Siguiente",
+                    "Siguiente",
+                    "Suivant",
+                    "Avanti",
+                    "次へ",
+                    "다음",
+                    "Dalej",
+                    "Próximo",
+                    "Далее",
+                    "ถัดไป",
+                    "继续",
+                    "繼續"
+                ],
+                "m_locId": 2710926
+            },
+            "m_cardId": 56223,
+            "m_cardPremium": 1,
+            "m_featuredCardsEvent": "never"
+        },
+        {
+            "m_ID": 3,
+            "m_loginPopupSequenceId": 1,
+            "m_popupType": 2,
+            "m_requiresWildUnlocked": 0,
+            "m_suppressForReturningPlayer": 0,
+            "m_prefabOverride": "",
+            "m_backgroundMaterial": "",
+            "m_headerText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_bodyText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_buttonText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_cardId": 0,
+            "m_cardPremium": 0,
+            "m_featuredCardsEvent": "return_of_the_mech"
+        },
+        {
+            "m_ID": 9,
+            "m_loginPopupSequenceId": 13,
+            "m_popupType": 1,
+            "m_requiresWildUnlocked": 0,
+            "m_suppressForReturningPlayer": 0,
+            "m_prefabOverride": "WoodenSign_Paint_BT.prefab:51ff2687c6ccea94db4a8e60951d56c0",
+            "m_backgroundMaterial": "",
+            "m_headerText": {
+                "m_locValues": [
+                    "It's finally here!",
+                    "Endlich ist sie da!",
+                    "¡Ya está aquí!",
+                    "¡Por fin llegó!",
+                    "La voilà enfin !",
+                    "Finalmente è arrivata!",
+                    "ついに来た！",
+                    "드디어!",
+                    "Nareszcie!",
+                    "Finalmente chegou!",
+                    "Этот день настал!",
+                    "ในที่สุดก็มาแล้ว!",
+                    "终于来了！",
+                    "終於來了！"
+                ],
+                "m_locId": 2722883
+            },
+            "m_bodyText": {
+                "m_locValues": [
+                    "A new class has arrived in Hearthstone. Head to Solo Adventure to learn more...",
+                    "Eine neue Klasse ist in Hearthstone angekommen. Im Soloabenteuer erfahrt Ihr mehr_…",
+                    "Ha llegado una nueva clase a Hearthstone. Dirígete a Aventuras para saber más...",
+                    "Una nueva clase ha llegado a Hearthstone. Dirígete al modo Aventuras para conocerla…",
+                    "Une nouvelle classe fait son apparition dans Hearthstone. Rendez-vous dans le mode Aventures pour en savoir plus…",
+                    "Una nuova classe è arrivata su Hearthstone. Vai alla sezione Avventura per saperne di più...",
+                    "「ハースストーン」に新クラスが登場したぞ。その正体は「ソロ・アドベンチャー」で確認してくれ…",
+                    "하스스톤에 새로운 직업이 출시됐습니다.",
+                    "Do Hearthstone zawitała nowa klasa postaci. Przejdź do Przygody i dowiedz się więcej...",
+                    "Chegou uma nova classe em Hearthstone. Entre na Aventura para saber mais...",
+                    "В Hearthstone добавлен новый класс. Отправляйтесь в приключение, чтобы узнать о нем...",
+                    "Hearthstone มีคลาสใหม่แล้ว ดูเพิ่มเติมได้โดยไปที่การผจญภัยคนเดียว...",
+                    "《炉石传说》迎来了一个全新职业。前往冒险模式了解详情……",
+                    "有新職業加入爐石戰記了。快去單人模式看看…"
+                ],
+                "m_locId": 2722884
+            },
+            "m_buttonText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_cardId": 0,
+            "m_cardPremium": 0,
+            "m_featuredCardsEvent": "never"
+        },
+        {
+            "m_ID": 13,
+            "m_loginPopupSequenceId": 15,
+            "m_popupType": 1,
+            "m_requiresWildUnlocked": 0,
+            "m_suppressForReturningPlayer": 0,
+            "m_prefabOverride": "LoginPopup_PackRarity.prefab:e30c0ac11f6d5304e9f1d9b31c157ef2",
+            "m_backgroundMaterial": "",
+            "m_headerText": {
+                "m_locValues": [
+                    "Improved Card Packs!",
+                    "Verbesserte Kartenpackungen!",
+                    "¡Sobres de cartas mejorados!",
+                    "¡Paquetes de cartas mejorados!",
+                    "Paquets de cartes améliorés !",
+                    "Buste migliorate!",
+                    "ダブり防止がパワーアップ！",
+                    "개선된 카드 팩!",
+                    "Ulepszone pakiety kart!",
+                    "Pacotes de cards melhorados!",
+                    "Улучшенные комплекты!",
+                    "ปรับปรุงซองการ์ดใหม่!",
+                    "改进过的卡牌包！",
+                    "改良卡牌包！"
+                ],
+                "m_locId": 2724279
+            },
+            "m_bodyText": {
+                "m_locValues": [
+                    "When opening a pack, you will no longer receive more than 2 copies of any Common, Rare, or Epic card until you have owned (at any time) 2 copies of every card of that rarity from that set.",
+                    "Wenn ihr eine Packung öffnet, erhaltet ihr jetzt maximal 2_Kopien jeder gewöhnlichen, seltenen oder epischen Karte, bis eure Sammlung (zu einem beliebigen Zeitpunkt) 2_Kopien jeder Karte dieser Seltenheit aus dem entsprechenden Set enthalten hat.",
+                    "Al abrir un sobre, ya no recibirás más de 2 copias de cualquier carta común, poco común o épica hasta que hayas tenido (en cualquier momento) 2 copias de cada carta de esa rareza de ese conjunto.",
+                    "Desde ahora, cuando abras un paquete, ya no recibirás más de dos copias de una carta común, rara ni épica si no has tenido en tu colección (en algún momento) dos copias de cada carta de esa rareza correspondiente a ese kit.",
+                    "À l’ouverture d’un paquet, vous ne recevrez jamais plus de 2 copies maximum d’une carte commune, rare ou épique tant que vous n’avez pas possédé (à tout moment) 2 copies de chaque carte de cette rareté et de cet ensemble.",
+                    "Aprendo una busta, ora non potrai ricevere più di due copie di qualunque carta Comune, Rara o Epica finché non possederai (in qualsiasi momento) due copie di ogni carta di quella rarità di quel set.",
+                    "パックを開封する時、コモン、レア、またはエピックのカードが出る際に、既に2枚所有してるカードが出ることはなくなったぞ（ただし、そのセットでそのレア度のカード全てを2枚ずつ所有したらまた出るようになるからな）。",
+                    "이제 카드 팩을 개봉하면, 어느 시점에든 해당 세트의 해당 등급 카드를 2장씩 얻기 전에는 동일한 일반, 희귀, 특급 카드가 3장 이상 나오지 않습니다.",
+                    "Odtąd po otwarciu pakietu gracz będzie mógł otrzymać więcej niż 2 kopie zwykłej, rzadkiej lub epickiej karty tylko, jeśli posiadał (w dowolnym momencie) 2 kopie każdej karty tego poziomu rzadkości z danego zestawu.",
+                    "Quando você abrir um pacote, só poderá tirar mais de 2 cópias de um card Comum, Raro ou Épico se já tiver conseguido (a qualquer momento) 2 cópias de todos os cards dessa raridade do conjunto em questão.",
+                    "Открывая комплекты, вы больше не будете получать лишние копии карт обычного, редкого или эпического качества до тех пор, пока в вашей коллекции не будет по две копии каждой карты соответствующей редкости из этого дополнения.",
+                    "นับจากนี้ไปเมื่อเปิดซองการ์ด คุณจะได้รับการ์ด\nระดับทั่วไป หายาก หรือสุดยอดที่ซ้ำกันไม่เกิน 2 ใบ\nจนกว่าคุณจะมีการ์ดระดับนั้นจากชุดนั้นครบอย่างละ 2 ใบ",
+                    "当你打开卡牌包时，除非你（在任何时间点）已经拥有过该系列该稀有度下每张卡牌的2张复制，否则你不会开出任何普通，稀有或史诗品质卡牌的多于2张的复制。",
+                    "開卡包時，除非你已經擁有該系列及該稀有度的所有卡牌2張，否則不會在一包卡包中獲得大於2張普通、精良，以及史詩的相同卡牌。"
+                ],
+                "m_locId": 2724280
+            },
+            "m_buttonText": {
+                "m_locValues": [
+                    "Awesome!",
+                    "Fantastisch!",
+                    "¡Genial!",
+                    "¡Genial!",
+                    "Génial !",
+                    "Fantastico!",
+                    "すごい！",
+                    "끝내주네요!",
+                    "Rewelacja!",
+                    "Fantástico!",
+                    "Ура!",
+                    "สุดยอด!",
+                    "太棒了！",
+                    "太棒了!!"
+                ],
+                "m_locId": 2724784
+            },
+            "m_cardId": 0,
+            "m_cardPremium": 0,
+            "m_featuredCardsEvent": "never"
+        },
+        {
+            "m_ID": 15,
+            "m_loginPopupSequenceId": 18,
+            "m_popupType": 1,
+            "m_requiresWildUnlocked": 0,
+            "m_suppressForReturningPlayer": 0,
+            "m_prefabOverride": "LoginPopup_NewGameMode.prefab:d1634d7138e499143bbdd3770c84bb7e",
+            "m_backgroundMaterial": "",
+            "m_headerText": {
+                "m_locValues": [
+                    "New Mode Available!",
+                    "Neuer Modus verfügbar!",
+                    "¡Nuevo modo disponible!",
+                    "¡Nuevo modo disponible!",
+                    "Nouveau mode disponible !",
+                    "Nuova modalità disponibile!",
+                    "新モード登場！",
+                    "새로운 모드가 출시되었습니다!",
+                    "Dostępny jest nowy tryb!",
+                    "Novo modo disponível! ",
+                    "Новый режим!",
+                    "โหมดใหม่เปิดให้เล่นแล้ว!",
+                    "新模式登场！",
+                    "全新模式登場！"
+                ],
+                "m_locId": 2727291
+            },
+            "m_bodyText": {
+                "m_locValues": [
+                    "Duels",
+                    "Duelle",
+                    "Duelos",
+                    "Duelos",
+                    "Duels",
+                    "Duelli",
+                    "デュエル",
+                    "결투",
+                    "Starcia",
+                    "Duelos",
+                    "Дуэли",
+                    "ดวลเดือด",
+                    "对决模式",
+                    "決鬥擂台"
+                ],
+                "m_locId": 2734558
+            },
+            "m_buttonText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_cardId": 0,
+            "m_cardPremium": 0,
+            "m_featuredCardsEvent": "never"
+        },
+        {
+            "m_ID": 16,
+            "m_loginPopupSequenceId": 19,
+            "m_popupType": 1,
+            "m_requiresWildUnlocked": 0,
+            "m_suppressForReturningPlayer": 0,
+            "m_prefabOverride": "LoginPopup_BaconNotification.prefab:1266e4dbda556d040858d9dfb78e3255",
+            "m_backgroundMaterial": "",
+            "m_headerText": {
+                "m_locValues": [
+                    "Pirates have entered Battlegrounds!",
+                    "Piraten erobern das Schlachtfeld!",
+                    "¡Los piratas echan el ancla en Campos de batalla!",
+                    "¡Los Piratas desembarcaron en Campos de batalla!",
+                    "Les pirates partent à l’abordage des champs de bataille !",
+                    "I Pirati sono entrati in Battaglia!",
+                    "バトルグラウンドに海賊どもが乗り込んだぞ！",
+                    "해적들이 전장에 등장했습니다!",
+                    "Piraci przybili do brzegu w Ustawce!",
+                    "Piratas invadiram os Campos de Batalha!",
+                    "Пираты на полях сражений!",
+                    "โจรสลัดเข้าร่วม Battlegrounds แล้ว!",
+                    "海盗现已加入酒馆战棋！",
+                    "海盜加入英雄戰場！"
+                ],
+                "m_locId": 2727292
+            },
+            "m_bodyText": {
+                "m_locValues": [
+                    "• New minion type: Pirates!\n• 4 New Heroes, Arrr!\n• Balance updates!\n• Available minion types will now rotate each game!",
+                    "• Neuer Dienertyp: Piraten!\n• 4 Neue Helden, Arrr!\n• Balanceänderungen!\n• Verfügbare Dienertypen rotieren jetzt mit jedem Spiel!",
+                    "• Nuevo tipo de esbirro: ¡piratas!\n• 4 héroes nuevos, ¡arr!\n• ¡Actualizaciones de equilibrio!\n• ¡Los tipos de esbirros disponibles irán rotando en cada partida!",
+                    "• ¡Nuevo tipo de esbirro: Piratas!\n•¡Cuatro héroes nuevos, arrr!\n• ¡Actualizaciones de balance!\n• ¡Los esbirros disponibles ahora rotarán con cada partida!",
+                    "• Nouveau type de serviteur : les Pirates !\n• 4 nouveaux héros, ho ho ho !\n• Mises à jour d’équilibrage !\n• Les types de serviteurs disponibles changeront maintenant à chaque partie !",
+                    "• Nuovo tipo di servitore: Pirata!\n• 4 nuovi eroi. Arrr!\n• Aggiornamenti al bilanciamento!\n• I tipi di servitore disponibili cambieranno in ogni partita!",
+                    "• ミニオンの種族「海賊」が追加！\n• 4人の新ヒーロー、ヨーホー！\n• バランス調整！\n• 登場するミニオンの種族は対戦ごとにローテーションするぞ！",
+                    "• 새로운 하수인 종족: 해적!\n• 새로운 영웅 4명!\n• 밸런스 업데이트!\n• 이제 게임마다 등장하는 종족들이 달라집니다!",
+                    "• Nowy rodzaj stronników: Piraci!\n• 4 nowych bohaterów, arrr!\n• Aktualizacja balansu!\n• Dostępne rodzaje stronników będą teraz zmieniać się w każdej grze!",
+                    "• Novo tipo de lacaio: Piratas!\n• 4 novos heróis, iarrr!\n• Atualizações de balanceamento!\n• Agora haverá rodízio dos tipos de lacaios disponíveis a cada partida!",
+                    "• Новый тип существ: пираты!\n• 4 новых героя, йо-хо-хо!\n• Обновления баланса!\n• Теперь доступные типы существ будут меняться каждый матч!",
+                    "• มินเนี่ยนประเภทใหม่: โจรสลัด!\n• 4 ฮีโร่ใหม่ อาร์!\n• อัพเดตปรับสมดุล!\n• ประเภทมินเนี่ยนที่มีให้เลือก\nจะหมุนเวียนไปในแต่ละเกม!",
+                    "• 新随从类型：海盗！\n• 四名新英雄，呀儿！\n• 平衡性更新！\n• 可用的随从类型将在每局对战中轮换！",
+                    "• 新的手下類型：海盜！\n• 4個全新英雄，呀啊！\n• 平衡性更新！\n• 每場對戰會輪替可用的手下類型！"
+                ],
+                "m_locId": 2727293
+            },
+            "m_buttonText": {
+                "m_locValues": [
+                    "Sweet!",
+                    "Cool!",
+                    "¡Genial!",
+                    "¡Genial!",
+                    "Excellent !",
+                    "Bene!",
+                    "アホイ！",
+                    "확인",
+                    "Świetnie!",
+                    "Legal!",
+                    "Здорово!",
+                    "เยี่ยมเลย!",
+                    "太棒了！",
+                    "太棒了！"
+                ],
+                "m_locId": 2727294
+            },
+            "m_cardId": 0,
+            "m_cardPremium": 0,
+            "m_featuredCardsEvent": "never"
+        },
+        {
+            "m_ID": 4,
+            "m_loginPopupSequenceId": 2,
+            "m_popupType": 1,
+            "m_requiresWildUnlocked": 0,
+            "m_suppressForReturningPlayer": 0,
+            "m_prefabOverride": "",
+            "m_backgroundMaterial": "WildIntoStandardPopup.mat:5f65e53f123d2134ebc54b486b012290",
+            "m_headerText": {
+                "m_locValues": [
+                    "Treasures from the Tomb!",
+                    "Schätze aus der Gruft!",
+                    "¡Tesoros de la tumba!",
+                    "¡Tesoros de la tumba!",
+                    "Trésors de la tombe !",
+                    "Tesori dalle Tombe!",
+                    "遺跡の宝物！",
+                    "무덤의 보물!",
+                    "Skarby z grobowca!",
+                    "Tesouros da Tumba!",
+                    "Сокровища из гробницы!",
+                    "สมบัติจากสุสาน!",
+                    "古墓宝藏",
+                    "來自古墓的寶藏！"
+                ],
+                "m_locId": 2716460
+            },
+            "m_bodyText": {
+                "m_locValues": [
+                    "Ancient cards have been unleashed to\njoin your collection for a limited time!",
+                    "Uralte Karten wurden entfesselt und\nverstärken für kurze Zeit Eure Sammlung!",
+                    "¡Hemos liberado algunas cartas antiguas\npara que estén en tu colección un tiempo!",
+                    "¡Se han liberado cartas antiguas que se\nunirán a tu colección por un tiempo limitado!",
+                    "D’anciennes cartes peuvent rejoindre votre\n collection pour une durée limitée !",
+                    "Delle carte antiche si sono unite alla\ntua collezione per un tempo limitato!",
+                    "期間限定で、古代のカードが封印を解かれ\nあんたのコレクションに加わるぞ！",
+                    "한정된 기간 동안 고대의 카드들이 부활하여 당신의 수집품에 추가됩니다!",
+                    "Odkryto starożytne skarby,\nktóre dołączą na ograniczony czas do twojej kolekcji!",
+                    "Cards ancestrais estão disponíveis\npara a sua coleção por tempo limitado!",
+                    "Древние карты на время\nпопали к вам в коллекцию!",
+                    "การ์ดโบราณได้รับการปลดปล่อย\nให้เข้าร่วมคอลเลกชันคุณในระยะเวลาจำกัด!",
+                    "古老的卡牌重见天日，可在限定时间内将其加入到你的收藏！",
+                    "遠古卡牌重現天日，在限定期間內加入你的收藏。"
+                ],
+                "m_locId": 2716461
+            },
+            "m_buttonText": {
+                "m_locValues": [
+                    "OK",
+                    "OK",
+                    "Aceptar",
+                    "Aceptar",
+                    "OK",
+                    "OK",
+                    "OK",
+                    "확인",
+                    "OK",
+                    "OK",
+                    "ОК",
+                    "ตกลง",
+                    "确定",
+                    "確定"
+                ],
+                "m_locId": 2716462
+            },
+            "m_cardId": 0,
+            "m_cardPremium": 0,
+            "m_featuredCardsEvent": "never"
+        },
+        {
+            "m_ID": 5,
+            "m_loginPopupSequenceId": 2,
+            "m_popupType": 2,
+            "m_requiresWildUnlocked": 0,
+            "m_suppressForReturningPlayer": 0,
+            "m_prefabOverride": "",
+            "m_backgroundMaterial": "",
+            "m_headerText": {
+                "m_locValues": [
+                    "These cards are now available to everyone for a limited time.",
+                    "Diese Karten stehen allen Spielern für begrenzte Zeit zur Verfügung.",
+                    "Ahora estas cartas están disponibles para todos durante un tiempo.",
+                    "Estas cartas ya están disponibles para todos por un tiempo limitado.",
+                    "Tout le monde peut désormais utiliser ces cartes pour une durée limitée.",
+                    "Queste carte sono ora disponibili per tutti per un periodo limitato.",
+                    "期間限定で、誰でもこれらのカードを使えるようになったぞ。",
+                    "이 카드들은 한정된 기간 동안 모두가 사용할 수 있습니다!",
+                    "Przez ograniczony czas te karty są teraz dostępne dla wszystkich.",
+                    "Esses cards estão disponíveis para todos por tempo limitado.",
+                    "Эти карты доступны всем игрокам в течение ограниченного времени.",
+                    "การ์ดเหล่านี้เปิดให้ทุกคนใช้ในระยะเวลาจำกัด",
+                    "现在所有人都可以在限定时间内使用这些卡牌。",
+                    "大家都可以在限定期間內使用這些卡牌。"
+                ],
+                "m_locId": 2716782
+            },
+            "m_bodyText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_buttonText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_cardId": 0,
+            "m_cardPremium": 0,
+            "m_featuredCardsEvent": "wld_featured_cards"
+        },
+        {
+            "m_ID": 19,
+            "m_loginPopupSequenceId": 23,
+            "m_popupType": 1,
+            "m_requiresWildUnlocked": 0,
+            "m_suppressForReturningPlayer": 0,
+            "m_prefabOverride": "LoginPopup_BaconNotification.prefab:1266e4dbda556d040858d9dfb78e3255",
+            "m_backgroundMaterial": "",
+            "m_headerText": {
+                "m_locValues": [
+                    "Elementals have entered Battlegrounds!",
+                    "Elementare stürmen das Schlachtfeld!",
+                    "¡Llegan los elementales a Campos de batalla!",
+                    "¡Los Elementales desatan su furia en Campos de batalla!",
+                    "Les élémentaires partent à l’assaut des champs de bataille !",
+                    "Gli Elementali sono entrati in Battaglia!",
+                    "バトルグラウンドにエレメンタル達が出現したぞ！",
+                    "정령들이 전장에 등장했습니다!",
+                    "Żywiołaki zmaterializowały się w Ustawce!",
+                    "Elementais invadiram os Campos de Batalha!",
+                    "Элементали на полях сражений!",
+                    "วิญญาณธาตุเข้าร่วม Battlegrounds แล้ว!",
+                    "元素现已加入酒馆战棋！",
+                    "元素加入英雄戰場！"
+                ],
+                "m_locId": 2731995
+            },
+            "m_bodyText": {
+                "m_locValues": [
+                    "• New minion type: Elementals!\n• 4 New Heroes!\n• New rating system!\n• Ratings have been reset!",
+                    "• Neuer Dienertyp: Elementare!\n• 4 neue Helden!\n• Neues Wertungssystem!\n• Wertungen wurden zurückgesetzt!",
+                    "• Nuevo tipo de esbirro: ¡elementales!\n• ¡4 nuevos héroes!\n• ¡Nuevo sistema de clasificación!\n• ¡Se ha reiniciado la clasificación!",
+                    "• Nuevo tipo de esbirro: ¡Elementales!\n• ¡Cuatro héroes nuevos!\n• ¡Nuevo sistema de clasificación!\n•¡Se han restablecido las clasificaciones!",
+                    "• Nouveau type de serviteur : les Élémentaires !\n• 4 nouveaux héros !\n• Nouveau système de cote !\n• Les cotes ont été réinitialisées !",
+                    "• Nuovo tipo di servitore: Elementale!\n• 4 nuovi eroi!\n• Nuovo sistema di classifica!\n• La classifica è stata azzerata!",
+                    "• ミニオンの種族「エレメンタル」が追加！\n• 4人の新ヒーロー！\n• レーティングシステムが刷新！\n• レーティングはリセットされたぞ！",
+                    "• 새로운 하수인 종족: 정령!\n• 새로운 영웅 4명!\n• 새로운 평점 시스템!\n• 평점이 초기화됐습니다!",
+                    "• Nowy rodzaj stronników: Żywiołaki!\n• 4 nowych bohaterów!\n• Nowy system rankingowy!\n• Rankingi zostały zresetowane!",
+                    "• Novo tipo de lacaio: Elementais!\n• 4 novos heróis!\n• Novo sistema de classificação!\n• A classificação foi zerada!",
+                    "• Новый тип существ: элементали!\n• 4 новых героя!\n• Новая рейтинговая система!\n• Рейтинги были обнулены!",
+                    "• มินเนี่ยนประเภทใหม่: \nวิญญาณธาตุ!\n• 4 ฮีโร่ใหม่!\n• ระบบคะแนนใหม่!\n• คะแนนถูกรีเซ็ตแล้ว!",
+                    "•新随从类型：元素！\n•四名新英雄！\n•新等级系统！\n•等级已重置！",
+                    "• 新的手下類型：元素！\n• 4個全新英雄！\n• 新的積分系統！\n• 積分已經重置！"
+                ],
+                "m_locId": 2731996
+            },
+            "m_buttonText": {
+                "m_locValues": [
+                    "Sweet!",
+                    "Cool!",
+                    "¡Genial!",
+                    "¡Genial!",
+                    "Excellent !",
+                    "Bene!",
+                    "ステキ！",
+                    "좋네요!",
+                    "Świetnie!",
+                    "Legal!",
+                    "Здорово!",
+                    "เยี่ยมเลย!",
+                    "太棒了！",
+                    "太棒了！"
+                ],
+                "m_locId": 2731997
+            },
+            "m_cardId": 0,
+            "m_cardPremium": 0,
+            "m_featuredCardsEvent": "never"
+        },
+        {
+            "m_ID": 21,
+            "m_loginPopupSequenceId": 24,
+            "m_popupType": 1,
+            "m_requiresWildUnlocked": 0,
+            "m_suppressForReturningPlayer": 0,
+            "m_prefabOverride": "LoginPopup_Duels.prefab:2aebba5895fe598409248bbdcd1e6631",
+            "m_backgroundMaterial": "",
+            "m_headerText": {
+                "m_locValues": [
+                    "Heroic Mode and\nNew Unlockables!",
+                    "Heroischer Modus und neue\nfreischaltbare Fähigkeiten und Schätze!",
+                    "¡Modo heroico y\nnuevos desbloqueables!",
+                    "¡Modo heroico y\nnuevos desbloqueables!",
+                    "Mode héroïque et\nnouveaux contenus déblocables !",
+                    "Versione Eroica e\nnuovi oggetti sbloccabili!",
+                    "ヒロイックモードと\n新たな開放要素！",
+                    "영웅 난이도와\n새로운 보상!",
+                    "Tryb heroiczny\ni nowe elementy do odblokowania!",
+                    "Modo Heroico\ne novos desbloqueáveis!",
+                    "Героический режим\nи новые награды!",
+                    "โหมดฮีโร่และไอเท็มมากมายให้ปลดล็อค!",
+                    "英雄模式以及\n新的可解锁内容！",
+                    "英雄模式和新的可解鎖內容！"
+                ],
+                "m_locId": 2744845
+            },
+            "m_bodyText": {
+                "m_locValues": [
+                    "• Heroic Mode is here!\n• New Unlockable Hero Powers!\n• New Unlockable Signature Treasures!\n• Additional Passive Treasures!",
+                    "• Der heroische Modus ist da!\n• Neue freischaltbare Heldenfähigkeiten!\n• Neue freischaltbare Duellantenschätze!\n• Zusätzliche passive Schätze!",
+                    "• ¡Llega el modo heroico!\n• ¡Nuevos poderes de héroe desbloqueables!\n• ¡Nuevos tesoros distintivos desbloqueables!\n• ¡Más tesoros pasivos!",
+                    "• ¡Llegó el modo heroico!\n• ¡Nuevos Poderes de héroe desbloqueables!\n• ¡Nuevos Tesoros característicos desbloqueables!\n• ¡Tesoros pasivos adicionales!",
+                    "• Le mode héroïque est maintenant disponible !\n• Nouveaux pouvoirs héroïques déblocables !\n• Nouveaux trésors spéciaux déblocables !\n• Trésors passifs supplémentaires !",
+                    "• La versione Eroica è qui!\n• Nuovi Poteri Eroe sbloccabili!\n• Nuovi Tesori Distintivi sbloccabili!\n• Tesori Passivi aggiuntivi!",
+                    "• ヒロイックモード登場！\n• 新たなヒーローパワーが開放可能！\n• 新たな愛用の宝物が開放可能！\n• 常時発動の宝物を追加！",
+                    "• 영웅 난이도 추가!\n• 잠금 해제할 수 있는 새로운 영웅 능력!\n• 잠금 해제할 수 있는 새로운 고유 보물!\n• 지속 효과 보물 추가!",
+                    "• Tryb heroiczny już jest!\n• Nowe moce specjalne do odblokowania!\n• Wyjątkowe skarby do odblokowania!\n• Dodatkowe skarby pasywne!",
+                    "• Modo Heroico já disponível!\n• Novos poderes heroicos desbloqueáveis!\n• Novos tesouros exclusivos desbloqueáveis!\n• Mais tesouros passivos!",
+                    "• Новый героический режим — уже в игре!\n• Новые разблокируемые силы героя!\n• Новые разблокируемые фирменные сокровища!\n• Больше пассивных сокровищ!",
+                    "• โหมดฮีโร่ที่ท้าทาย!\n• พลังฮีโร่ใหม่ๆ ที่รอให้ปลดล็อค!\n• สมบัติประจำตัวมาใหม่!\n• สมบัติติดตัวที่มากขึ้น!",
+                    "• 英雄模式来啦！\n• 可解锁新的英雄技能！\n• 可解锁新的签名版宝藏！\n• 还有更多被动宝藏！",
+                    "• 英雄模式開放了！\n• 可解鎖新的英雄能力！\n• 可解鎖新的專屬寶藏！\n• 更多被動寶藏！"
+                ],
+                "m_locId": 2744846
+            },
+            "m_buttonText": {
+                "m_locValues": [
+                    "Sweet!",
+                    "Cool!",
+                    "¡Genial!",
+                    "¡Genial!",
+                    "Excellent !",
+                    "Bene!",
+                    "ステキ！",
+                    "좋네요!",
+                    "Świetnie!",
+                    "Legal!",
+                    "Класс!",
+                    "เยี่ยมเลย!",
+                    "太棒了！",
+                    "太棒了！"
+                ],
+                "m_locId": 2744847
+            },
+            "m_cardId": 0,
+            "m_cardPremium": 0,
+            "m_featuredCardsEvent": "never"
+        },
+        {
+            "m_ID": 24,
+            "m_loginPopupSequenceId": 26,
+            "m_popupType": 1,
+            "m_requiresWildUnlocked": 0,
+            "m_suppressForReturningPlayer": 0,
+            "m_prefabOverride": "LoginPopup_BaconNotification.prefab:1266e4dbda556d040858d9dfb78e3255",
+            "m_backgroundMaterial": "",
+            "m_headerText": {
+                "m_locValues": [
+                    "The Darkmoon Faire comes to the Battlegrounds!",
+                    "Der Dunkelmond-Jahrmarkt gastiert auf dem Schlachtfeld!",
+                    "¡La Feria de la Luna Negra llega a Campos de batalla!",
+                    "¡La Feria de la Luna Negra llega a Campos de batalla!",
+                    "La foire de Sombrelune débarque sur le champ de bataille !",
+                    "La Fiera di Lunacupa arriva in Battaglia!",
+                    "ダークムーン・フェアがバトルグラウンドにやって来た！",
+                    "다크문 축제가 전장에 찾아옵니다!",
+                    "Festyn Lunomroku przybywa do Ustawki!",
+                    "A Feira de Negraluna chega aos Campos de Batalha!",
+                    "«Ярмарка безумия» теперь и на полях сражений!",
+                    "งานดาร์คมูนแฟร์เริ่มแล้วที่ Battlegrounds!",
+                    "暗月马戏团来到了酒馆战棋！",
+                    "暗月馬戲團來到英雄戰場！"
+                ],
+                "m_locId": 2745589
+            },
+            "m_bodyText": {
+                "m_locValues": [
+                    "• 3 New Heroes!\n• 10 New Minions!\n• New Darkmoon Faire Prize System!",
+                    "• 3 neue Helden!\n• 10 neue Diener!\n• Neues System für Dunkelmond-Preise!",
+                    "• ¡3 nuevos héroes!\n• ¡10 nuevos esbirros!\n• ¡Nuevo sistema de premios de la Feria de la Luna Negra!",
+                    "• ¡3 héroes nuevos!\n• ¡10 esbirros nuevos!\n• ¡Nuevo sistema de premios de la Feria de la Luna Negra!",
+                    "• 3 nouveaux héros !\n• 10 nouveaux serviteurs !\n• Nouveau système de prix de la foire de Sombrelune !",
+                    "• 3 nuovi eroi!\n• 10 nuovi servitori!\n• Nuovo sistema di premi della Fiera di Lunacupa!",
+                    "• 新ヒーロー3人！\n• 新ミニオン10種！\n• 新登場のダークムーン・フェア景品システム！",
+                    "• 새로운 영웅 3명!\n• 새로운 하수인 10명!\n• 새로운 다크문 축제 경품 시스템!",
+                    "• 3 nowych bohaterów!\n• 10 nowych stronników!\n• Nowy system lunomrocznych nagród!",
+                    "• 3 Heróis novos!\n• 10 lacaios novos!\n• Novo sistema de premiação da Feira de Negraluna!",
+                    "• 3 новых героя!\n• 10 новых существ!\n• Новая система призов «Ярмарки безумия»!",
+                    "• 3 ฮีโร่ใหม่!\n• 10 มินเนี่ยนใหม่!\n• ระบบใหม่ รางวัลดาร์คมูนแฟร์!",
+                    "• 3位新英雄！\n• 10个新随从！\n• 全新的暗月马戏团奖品系统！",
+                    "• 3個全新英雄！\n• 10個全新手下！\n•全新暗月馬戲團獎品系統！"
+                ],
+                "m_locId": 2745590
+            },
+            "m_buttonText": {
+                "m_locValues": [
+                    "Sweet!",
+                    "Cool!",
+                    "¡Genial!",
+                    "¡Genial!",
+                    "Excellent !",
+                    "Bene!",
+                    "ステキ！",
+                    "좋네요!",
+                    "Świetnie!",
+                    "Legal!",
+                    "Класс!",
+                    "เยี่ยมเลย!",
+                    "太棒了！",
+                    "太棒了！"
+                ],
+                "m_locId": 2745591
+            },
+            "m_cardId": 0,
+            "m_cardPremium": 0,
+            "m_featuredCardsEvent": "never"
+        },
+        {
+            "m_ID": 25,
+            "m_loginPopupSequenceId": 27,
+            "m_popupType": 1,
+            "m_requiresWildUnlocked": 0,
+            "m_suppressForReturningPlayer": 1,
+            "m_prefabOverride": "LoginPopup_Duels.prefab:2aebba5895fe598409248bbdcd1e6631",
+            "m_backgroundMaterial": "",
+            "m_headerText": {
+                "m_locValues": [
+                    "Ratings Reset and\nNew Content!",
+                    "Wertung zurückgesetzt und\nneue Inhalte!",
+                    "¡Reinicio de clasificación\ny nuevo contenido!",
+                    "¡Reinicio de clasificación\ny contenido nuevo!",
+                    "Réinitialisation des cotes\net nouveaux contenus !",
+                    "Azzeramento del punteggio e nuovi contenuti!",
+                    "レーティングリセット\n＆新コンテンツ！",
+                    "평점 초기화 및\n새로운 즐길거리!",
+                    "Reset rankingów\ni nowa zawartość!",
+                    "Redefinição da classificação\ne novo conteúdo!",
+                    "Сброс рейтинга\nи новый контент!",
+                    "การรีเซ็ตคะแนนและเนื้อหาใหม่!",
+                    "等级重置以及\n新的内容！",
+                    "積分重置以及\n全新內容！"
+                ],
+                "m_locId": 2746141
+            },
+            "m_bodyText": {
+                "m_locValues": [
+                    "• Duels Ratings Reset!\n• New Unlockable Hero Powers!\n• New Unlockable Signature Treasures!\n• New Passive and Active Treasures!",
+                    "• Duellwertung zurückgesetzt!\n• Neue freischaltbare Heldenfähigkeiten!\n• Neue freischaltbare Duellantenschätze!\n• Neue passive und aktive Schätze!",
+                    "• ¡Reinicio de la clasificación de Duelos!\n• ¡Nuevos poderes de héroe desbloqueables!\n• ¡Nuevos tesoros distintivos desbloqueables!\n• ¡Nuevos tesoros pasivos y activos!",
+                    "• ¡Reinicio de clasificación de Duelos!\n• ¡Nuevos Poderes de héroe desbloqueables!\n• ¡Nuevos Tesoros característicos desbloqueables!\n• ¡Nuevos Tesoros activos y pasivos!",
+                    "• Réinitialisation des cotes de duels !\n• Nouveaux pouvoirs héroïques déblocables !\n• Nouveaux trésors spéciaux déblocables !\n• Nouveaux trésors actifs et passifs !",
+                    "• Azzeramento del punteggio dei Duelli!\n• Nuovi Poteri Eroe sbloccabili!\n• Nuovi Tesori Distintivi sbloccabili!\n• Nuovi Tesori attivi e passivi!",
+                    "• 「デュエル」レーティングをリセット！\n• 新たなヒーローパワーが開放可能！\n• 新たな愛用の宝物が開放可能！\n• 常時発動の宝物と発動式の宝物を追加！",
+                    "• 결투 평점 초기화!\n• 잠금 해제할 수 있는 새로운 영웅 능력!\n• 잠금 해제할 수 있는 새로운 고유 보물!\n• 새로운 보물과 지속 효과 보물!",
+                    "• Reset rankingów w Starciach!\n• Nowe moce specjalne do odblokowania!\n• Wyjątkowe skarby do odblokowania!\n• Nowe skarby pasywne i aktywne!",
+                    "• Classificação dos Duelos redefinida!\n• Novos Poderes Heroicos desbloqueáveis!\n• Novos Tesouros Exclusivos desbloqueáveis!\n• Novos Tesouros ativos e passivos!",
+                    "• Сброс рейтинга в дуэлях!\n• Новые разблокируемые силы героя!\n• Новые разблокируемые фирменные сокровища!\n• Новые пассивные и активные сокровища!",
+                    "• รีเซ็ตคะแนนดวลเดือด!\n• พลังฮีโร่แบบใหม่ที่ปลดล็อคได้!\n• สมบัติประจำคลาสแบบใหม่\nที่ปลดล็อคได้!\n• สมบัติใหม่ทั้งแบบติดตัวและแบบกดใช้!",
+                    "• 对决模式等级重置！\n• 可解锁新的英雄技能！\n• 可解锁新的签名版宝藏！\n• 还有更多主动和被动的宝藏！",
+                    "• 決鬥擂台積分重置！\n• 可解鎖新的英雄能力！\n• 可解鎖新的專屬寶藏！\n• 更多被動與主動寶藏！"
+                ],
+                "m_locId": 2746142
+            },
+            "m_buttonText": {
+                "m_locValues": [
+                    "Sweet!",
+                    "Cool!",
+                    "¡Genial!",
+                    "¡Genial!",
+                    "Excellent !",
+                    "Bene!",
+                    "ステキ！",
+                    "좋네요!",
+                    "Świetnie!",
+                    "Legal!",
+                    "Класс!",
+                    "เยี่ยมเลย!",
+                    "太棒了！",
+                    "太棒了！"
+                ],
+                "m_locId": 2746143
+            },
+            "m_cardId": 0,
+            "m_cardPremium": 0,
+            "m_featuredCardsEvent": "never"
+        },
+        {
+            "m_ID": 26,
+            "m_loginPopupSequenceId": 28,
+            "m_popupType": 1,
+            "m_requiresWildUnlocked": 1,
+            "m_suppressForReturningPlayer": 1,
+            "m_prefabOverride": "LoginPopup_ClassicMode.prefab:3eaf028d466162c4db2ebf2e97d48ff2",
+            "m_backgroundMaterial": "",
+            "m_headerText": {
+                "m_locValues": [
+                    "Introducing Classic Mode!",
+                    "Wir stellen vor: das Klassikformat!",
+                    "¡Presentamos el modo clásico!",
+                    "¡Presentamos el modo Clásico!",
+                    "Arrivée du mode Classique !",
+                    "Ecco la modalità Classica!",
+                    "「クラシックモード」が登場！",
+                    "클래식 모드를 소개합니다!",
+                    "Przedstawiamy tryb klasyczny!",
+                    "Apresentando o Modo Clássico!",
+                    "Представляем классический режим!",
+                    "ขอแนะนำโหมดคลาสสิค!",
+                    "经典模式现已登场！",
+                    "隆重推出經典模式！"
+                ],
+                "m_locId": 2754273
+            },
+            "m_bodyText": {
+                "m_locValues": [
+                    "Build a deck and fight it out like it's 2014!",
+                    "Erstellt ein Deck und kämpft, als wäre es 2014!",
+                    "¡Crea un mazo y lucha como si fuese 2014!",
+                    "¡Arma un mazo y sal a luchar como en 2014!",
+                    "Créez un deck et battez-vous comme en 2014 !",
+                    "Componi un mazzo e sfida gli avversari come nel 2014!",
+                    "2014年当時のようにデッキを組んで戦おう！",
+                    "2014년도로 돌아가 덱을 짜고 대결하세요!",
+                    "Stwórz talię i walcz, jak w 2014!",
+                    "Monte um deck e lute como se estivesse em 2014!",
+                    "Соберите колоду и сражайтесь как в 2014 году!",
+                    "สร้างเด็คแล้วสู้กันให้เหมือนอยู่ในปี 2014!",
+                    "构筑经典套牌，开始战斗，梦回2014！",
+                    "編組套牌，以2014年的方式戰鬥！"
+                ],
+                "m_locId": 2754276
+            },
+            "m_buttonText": {
+                "m_locValues": [
+                    "Sweet!",
+                    "Cool!",
+                    "¡Genial!",
+                    "¡Genial!",
+                    "Excellent !",
+                    "Bene!",
+                    "ステキ！",
+                    "좋네요!",
+                    "Świetnie!",
+                    "Legal!",
+                    "Класс!",
+                    "เยี่ยมเลย!",
+                    "太棒了！",
+                    "太棒了！"
+                ],
+                "m_locId": 2754275
+            },
+            "m_cardId": 0,
+            "m_cardPremium": 0,
+            "m_featuredCardsEvent": "never"
+        },
+        {
+            "m_ID": 6,
+            "m_loginPopupSequenceId": 3,
+            "m_popupType": 1,
+            "m_requiresWildUnlocked": 0,
+            "m_suppressForReturningPlayer": 0,
+            "m_prefabOverride": "",
+            "m_backgroundMaterial": "",
+            "m_headerText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_bodyText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_buttonText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_cardId": 0,
+            "m_cardPremium": 0,
+            "m_featuredCardsEvent": "never"
+        },
+        {
+            "m_ID": 29,
+            "m_loginPopupSequenceId": 43,
+            "m_popupType": 1,
+            "m_requiresWildUnlocked": 0,
+            "m_suppressForReturningPlayer": 0,
+            "m_prefabOverride": "",
+            "m_backgroundMaterial": "",
+            "m_headerText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_bodyText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_buttonText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_cardId": 0,
+            "m_cardPremium": 0,
+            "m_featuredCardsEvent": "never"
+        }
+    ]
+}

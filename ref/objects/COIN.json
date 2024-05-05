@@ -1,0 +1,1175 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 8848022360259359559
+    },
+    "m_Name": "COIN",
+    "Records": [
+        {
+            "m_ID": 1,
+            "m_enabled": 1,
+            "m_cardId": 1746,
+            "m_name": {
+                "m_locValues": [
+                    "The Coin",
+                    "Die Münze",
+                    "La moneda",
+                    "La moneda",
+                    "La pièce",
+                    "Moneta",
+                    "コイン",
+                    "동전 한 닢",
+                    "Moneta",
+                    "A Moeda",
+                    "Монетка",
+                    "เหรียญ",
+                    "幸运币",
+                    "幸運幣"
+                ],
+                "m_locId": 2744712
+            },
+            "m_description": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            }
+        },
+        {
+            "m_ID": 10,
+            "m_enabled": 1,
+            "m_cardId": 73367,
+            "m_name": {
+                "m_locValues": [
+                    "Stormwind Coin",
+                    "Münze aus Sturmwind",
+                    "Moneda de Ventormenta",
+                    "Moneda de Ventormenta",
+                    "Pièce de Hurlevent",
+                    "Moneta di Roccavento",
+                    "ストームウィンド・コイン",
+                    "스톰윈드 동전",
+                    "Moneta z Wichrogrodu",
+                    "Moeda de Ventobravo",
+                    "Штормградская монетка",
+                    "เหรียญสตอร์มวินด์",
+                    "暴风城幸运币",
+                    "暴風城幸運幣"
+                ],
+                "m_locId": 2765379
+            },
+            "m_description": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            }
+        },
+        {
+            "m_ID": 11,
+            "m_enabled": 1,
+            "m_cardId": 73368,
+            "m_name": {
+                "m_locValues": [
+                    "Lordaeron Coin",
+                    "Münze aus Lordaeron",
+                    "Moneda de Lordaeron",
+                    "Moneda de Lordaeron",
+                    "Pièce de Lordaeron",
+                    "Moneta di Lordaeron",
+                    "ローデロン・コイン",
+                    "로데론 동전",
+                    "Moneta z Lordaeronu",
+                    "Moeda de Lordaeron",
+                    "Лордеронская монетка",
+                    "เหรียญลอร์เดรอน",
+                    "洛丹伦幸运币",
+                    "羅德隆幸運幣"
+                ],
+                "m_locId": 2765380
+            },
+            "m_description": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            }
+        },
+        {
+            "m_ID": 2,
+            "m_enabled": 1,
+            "m_cardId": 64827,
+            "m_name": {
+                "m_locValues": [
+                    "Darkmoon Coin",
+                    "Dunkelmondmünze",
+                    "Moneda de la Luna Negra",
+                    "Moneda de la Luna Negra",
+                    "Pièce de Sombrelune",
+                    "Moneta di Lunacupa",
+                    "ダークムーン・コイン",
+                    "다크문 동전",
+                    "Lunomroczna moneta",
+                    "Moeda de Negraluna",
+                    "Монетка Новолуния",
+                    "เหรียญดาร์คมูน",
+                    "暗月幸运币",
+                    "暗月幸運幣"
+                ],
+                "m_locId": 2744071
+            },
+            "m_description": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            }
+        },
+        {
+            "m_ID": 24,
+            "m_enabled": 1,
+            "m_cardId": 73371,
+            "m_name": {
+                "m_locValues": [
+                    "Flexsplosion Coin",
+                    "Forscherfurormünze",
+                    "Moneda de bicexplosión",
+                    "Moneda de Flexplosión",
+                    "Pièce réflexe-plosive",
+                    "Moneta Esplosiva",
+                    "探検同盟コイン",
+                    "힘자랑 폭발 동전",
+                    "Eksplozycyjna moneta",
+                    "Moeda Flexplosão",
+                    "Монетка нарциссизма",
+                    "เหรียญระเบิดกล้าม",
+                    "肌动炸药幸运币",
+                    "肌力爆發幣"
+                ],
+                "m_locId": 2816055
+            },
+            "m_description": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            }
+        },
+        {
+            "m_ID": 25,
+            "m_enabled": 1,
+            "m_cardId": 73372,
+            "m_name": {
+                "m_locValues": [
+                    "EVIL Coin",
+                    "Ü.B.E.L.-Münze",
+                    "Moneda del MAL",
+                    "Moneda del M.A.L.",
+                    "Pièce du M.A.L.",
+                    "Moneta MALVAGIA",
+                    "悪党同盟コイン",
+                    "잔악무도 동전",
+                    "Moneta Ligi Z.Ł.A.",
+                    "Moeda da MAL",
+                    "Монетка ЗЛА",
+                    "เหรียญ EVIL",
+                    "怪盗军团幸运币",
+                    "邪惡陣線幣"
+                ],
+                "m_locId": 2816056
+            },
+            "m_description": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            }
+        },
+        {
+            "m_ID": 26,
+            "m_enabled": 1,
+            "m_cardId": 73370,
+            "m_name": {
+                "m_locValues": [
+                    "Draconic Coin",
+                    "Drakonische Münze",
+                    "Moneda dracónica",
+                    "Moneda dracónica",
+                    "Pièce draconique",
+                    "Moneta Draconica",
+                    "ドラゴン大決戦コイン",
+                    "용의 동전",
+                    "Drakoniczna moneta",
+                    "Moeda Dracônica",
+                    "Драконья монетка",
+                    "เหรียญมังกร",
+                    "龙族幸运币",
+                    "巨龍幣"
+                ],
+                "m_locId": 2816057
+            },
+            "m_description": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            }
+        },
+        {
+            "m_ID": 27,
+            "m_enabled": 1,
+            "m_cardId": 73369,
+            "m_name": {
+                "m_locValues": [
+                    "Black Temple Coin",
+                    "Münze des Schwarzen Tempels",
+                    "Moneda del Templo Oscuro",
+                    "Moneda del Templo Oscuro",
+                    "Pièce du Temple noir",
+                    "Moneta del Tempio Nero",
+                    "黒の寺院コイン",
+                    "검은 사원 동전",
+                    "Moneta Czarnej Świątyni",
+                    "Moeda do Templo Negro",
+                    "Монетка Черного Храма",
+                    "เหรียญวิหารทมิฬ",
+                    "黑暗神殿幸运币",
+                    "黑暗神廟幣"
+                ],
+                "m_locId": 2816058
+            },
+            "m_description": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            }
+        },
+        {
+            "m_ID": 28,
+            "m_enabled": 1,
+            "m_cardId": 80547,
+            "m_name": {
+                "m_locValues": [
+                    "Faction Pride Coin",
+                    "Fraktionsstolzmünze",
+                    "Moneda de orgullo de facción",
+                    "Moneda de orgullo de la facción",
+                    "Pièce fierté des factions",
+                    "Moneta dell'Orgoglio di Fazione",
+                    "陣営の誇りコイン",
+                    "진영의 자부심 동전",
+                    "Moneta dumy frakcji",
+                    "Moeda do Orgulho da Facção",
+                    "Монетка верности фракции",
+                    "เหรียญสังกัดแห่งศักดิ์ศรี",
+                    "阵营的骄傲幸运币",
+                    "陣營之光幸運幣"
+                ],
+                "m_locId": 2817202
+            },
+            "m_description": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            }
+        },
+        {
+            "m_ID": 29,
+            "m_enabled": 1,
+            "m_cardId": 80549,
+            "m_name": {
+                "m_locValues": [
+                    "Alterac General Coin",
+                    "Münze des Alteracgenerals",
+                    "Moneda general de Alterac",
+                    "Moneda general de Alterac",
+                    "Pièce général d’Alterac",
+                    "Moneta del Generale d'Alterac",
+                    "アルタラックの将軍コイン",
+                    "알터랙 장군 동전",
+                    "Ogólna moneta Alterak",
+                    "Moeda do General de Alterac",
+                    "Монетка альтеракского генерала",
+                    "เหรียญแม่ทัพแห่งอัลเทอแรค",
+                    "奥特兰克将军幸运币",
+                    "奧特蘭克將軍幸運幣"
+                ],
+                "m_locId": 2817203
+            },
+            "m_description": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            }
+        },
+        {
+            "m_ID": 3,
+            "m_enabled": 1,
+            "m_cardId": 64828,
+            "m_name": {
+                "m_locValues": [
+                    "Prize Coin",
+                    "Preismünze",
+                    "Moneda de premio",
+                    "Moneda de premio",
+                    "Pièce de trophée",
+                    "Moneta Premio",
+                    "賞品コイン",
+                    "경품 동전",
+                    "Zdobyczna moneta",
+                    "Moeda do Prêmio",
+                    "Призовая монетка",
+                    "เหรียญรางวัล",
+                    "奖品幸运币",
+                    "獎勵幸運幣"
+                ],
+                "m_locId": 2744072
+            },
+            "m_description": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            }
+        },
+        {
+            "m_ID": 33,
+            "m_enabled": 1,
+            "m_cardId": 85100,
+            "m_name": {
+                "m_locValues": [
+                    "Zin-Azshari Coin",
+                    "Münze aus Zin-Azshari",
+                    "Moneda de Zin-Azshari",
+                    "Moneda de Zin-Azshari",
+                    "Pièce de Zin-Azshari",
+                    "Moneta di Zin-Azshari",
+                    "ジン・アズシャリ・コイン",
+                    "진아즈샤리 동전",
+                    "Moneta Zin-Aszari",
+                    "Moeda de Zin-Azshari",
+                    "Монетка Зин-Азшари",
+                    "เหรียญซิน-อัซชารี",
+                    "辛艾萨莉幸运币",
+                    "辛艾薩拉幸運幣"
+                ],
+                "m_locId": 2827009
+            },
+            "m_description": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            }
+        },
+        {
+            "m_ID": 34,
+            "m_enabled": 1,
+            "m_cardId": 85103,
+            "m_name": {
+                "m_locValues": [
+                    "Sunken Coin",
+                    "Versunkene Münze",
+                    "Moneda sumergida",
+                    "Moneda sumergida",
+                    "Pièce engloutie",
+                    "Moneta Sommersa",
+                    "海底に眠るコイン",
+                    "가라앉은 동전",
+                    "Zatopiona moneta",
+                    "Moeda Submersa",
+                    "Затонувшая монетка",
+                    "เหรียญใต้บาดาล",
+                    "沉没的幸运币",
+                    "海底幸運幣"
+                ],
+                "m_locId": 2827023
+            },
+            "m_description": {
+                "m_locValues": [
+                    "[PH]\n\nEarnable after purchasing the <i>Voyage to the Sunken City</i> Tavern Pass.",
+                    "[PH]\n\nKann nach Kauf des Gasthauspasses zu <i>Reise in die Versunkene Stadt</i> freigeschaltet werden.",
+                    "[PH]\n\nSe puede obtener al comprar el pase de taberna de <i>Viaje a la Ciudad Sumergida</i>.",
+                    "[PH]\n\nEarnable after purchasing the <i>Voyage to the Sunken City</i> Tavern Pass.",
+                    "[PH]\n\nObtenue à l’achat du ticket de la taverne d’<i>Au cœur de la cité engloutie</i>.",
+                    "[PH]\n\nOttenibile dopo aver acquistato il Pass Locanda di <i>Rotta per la Città Sommersa</i>.",
+                    "[PH]\n\nEarnable after purchasing the <i>Voyage to the Sunken City</i> Tavern Pass.",
+                    "[PH]\n\nEarnable after purchasing the <i>Voyage to the Sunken City</i> Tavern Pass.",
+                    "[PH]\n\nEarnable after purchasing the <i>Voyage to the Sunken City</i> Tavern Pass.",
+                    "[PH]\n\nPossível de obter após comprar o Passe da Taverna de <i>Viagem à Cidade Submersa</i>.",
+                    "\n\nМожно открыть после покупки пропуска завсегдатая <i>«Путешествия в Затонувший город»</i>.",
+                    "[PH]\n\nEarnable after purchasing the <i>Voyage to the Sunken City</i> Tavern Pass.",
+                    "[PH]\n\nEarnable after purchasing the <i>Voyage to the Sunken City</i> Tavern Pass.",
+                    "[PH]\n\nEarnable after purchasing the <i>Voyage to the Sunken City</i> Tavern Pass."
+                ],
+                "m_locId": 2837773
+            }
+        },
+        {
+            "m_ID": 38,
+            "m_enabled": 1,
+            "m_cardId": 95003,
+            "m_name": {
+                "m_locValues": [
+                    "Venthyr Coin",
+                    "Münze der Venthyr",
+                    "Moneda venthyr",
+                    "Moneda venthyr",
+                    "Pièce des Venthyrs",
+                    "Moneta dei Venthyr",
+                    "ヴェンシア・コイン",
+                    "벤티르 동전",
+                    "Moneta Ventirów",
+                    "Moeda Venthyr",
+                    "Монетка вентиров",
+                    "เหรียญเวนเธียร์",
+                    "温西尔幸运币",
+                    "汎希爾幸運幣"
+                ],
+                "m_locId": 2849819
+            },
+            "m_description": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            }
+        },
+        {
+            "m_ID": 39,
+            "m_enabled": 1,
+            "m_cardId": 95004,
+            "m_name": {
+                "m_locValues": [
+                    "Castle Nathria Coin",
+                    "Münze aus Schloss Nathria",
+                    "Moneda del Castillo de Nathria",
+                    "Moneda del Castillo Nathria",
+                    "Pièce du château Nathria",
+                    "Moneta del Castello di Nathria",
+                    "ナスリア城コイン",
+                    "나스리아 성채 동전",
+                    "Moneta twierdzy Nathria",
+                    "Moeda do Castelo de Nathria",
+                    "Монетка замка Нафрия",
+                    "เหรียญปราสาทนาเธรีย",
+                    "纳斯利亚堡幸运币",
+                    "納撒亞城幸運幣"
+                ],
+                "m_locId": 2849821
+            },
+            "m_description": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            }
+        },
+        {
+            "m_ID": 40,
+            "m_enabled": 1,
+            "m_cardId": 97904,
+            "m_name": {
+                "m_locValues": [
+                    "Silvermoon Coin",
+                    "Münze von Silbermond",
+                    "Moneda de Lunargenta",
+                    "Moneda de Lunargenta",
+                    "Pièce de Lune-d’Argent",
+                    "Moneta di Lunargenta",
+                    "シルバームーン・コイン",
+                    "실버문 동전",
+                    "Moneta Srebrnej Luny",
+                    "Portal de Luaprata",
+                    "Монетка Луносвета",
+                    "เหรียญซิลเวอร์มูน",
+                    "银月城幸运币",
+                    "銀月城幸運幣"
+                ],
+                "m_locId": 2858915
+            },
+            "m_description": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            }
+        },
+        {
+            "m_ID": 41,
+            "m_enabled": 1,
+            "m_cardId": 97905,
+            "m_name": {
+                "m_locValues": [
+                    "Scourge Coin",
+                    "Münze der Geißel",
+                    "Moneda de la Plaga",
+                    "Moneda de la Plaga",
+                    "Pièce du Fléau",
+                    "Moneta del Flagello",
+                    "スコージ・コイン",
+                    "스컬지 동전",
+                    "Moneta Plagi",
+                    "Moeda do Flagelo",
+                    "Монетка Плети",
+                    "เหรียญสเคิร์จ",
+                    "天灾幸运币",
+                    "天譴軍團幸運幣"
+                ],
+                "m_locId": 2858917
+            },
+            "m_description": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            }
+        },
+        {
+            "m_ID": 46,
+            "m_enabled": 1,
+            "m_cardId": 102103,
+            "m_name": {
+                "m_locValues": [
+                    "Vinyl Coin",
+                    "Vinylmünze",
+                    "Moneda de vinilo",
+                    "Moneda de vinilo",
+                    "Pièce de vinyle",
+                    "Moneta in Vinile",
+                    "ヴァイナル・コイン",
+                    "음반 동전",
+                    "Winylowa moneta",
+                    "Moeda de Vinil",
+                    "Виниловая монетка",
+                    "เหรียญไวนิล",
+                    "黑胶幸运币",
+                    "黑膠幸運幣"
+                ],
+                "m_locId": 2869528
+            },
+            "m_description": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            }
+        },
+        {
+            "m_ID": 47,
+            "m_enabled": 1,
+            "m_cardId": 102104,
+            "m_name": {
+                "m_locValues": [
+                    "Festival Coin",
+                    "Festivalmünze",
+                    "Moneda del festival",
+                    "Moneda del Festival",
+                    "Pièce de la fête",
+                    "Moneta del Festival",
+                    "レジェフェス・コイン",
+                    "노래자랑 동전",
+                    "Festiwalowa moneta",
+                    "Moeda do Festival",
+                    "Фестивальная монетка",
+                    "เหรียญเทศกาล",
+                    "音乐节幸运币",
+                    "音樂祭幸運幣"
+                ],
+                "m_locId": 2869529
+            },
+            "m_description": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            }
+        },
+        {
+            "m_ID": 48,
+            "m_enabled": 1,
+            "m_cardId": 102178,
+            "m_name": {
+                "m_locValues": [
+                    "Ancient Coin",
+                    "Uralte Münze",
+                    "Moneda ancestral",
+                    "Moneda ancestral",
+                    "Pièce ancienne",
+                    "Moneta Antica",
+                    "古代のコイン",
+                    "고대의 동전",
+                    "Prastara moneta",
+                    "Moeda Antiga",
+                    "Древняя монета",
+                    "เหรียญโบราณ",
+                    "远古幸运币",
+                    "遠古之幣"
+                ],
+                "m_locId": 2869699
+            },
+            "m_description": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            }
+        },
+        {
+            "m_ID": 49,
+            "m_enabled": 1,
+            "m_cardId": 102179,
+            "m_name": {
+                "m_locValues": [
+                    "Astral Coin",
+                    "Astrale Münze",
+                    "Moneda astral",
+                    "Moneda astral",
+                    "Pièce astrale",
+                    "Moneta Astrale",
+                    "星霊コイン",
+                    "천공의 동전",
+                    "Astralna moneta",
+                    "Moeda Astral",
+                    "Астральная монета",
+                    "เหรียญดวงดาว",
+                    "星界幸运币",
+                    "星界之幣"
+                ],
+                "m_locId": 2869700
+            },
+            "m_description": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            }
+        },
+        {
+            "m_ID": 5,
+            "m_enabled": 1,
+            "m_cardId": 66957,
+            "m_name": {
+                "m_locValues": [
+                    "Horde Coin",
+                    "Hordemünze",
+                    "Moneda de la Horda",
+                    "Moneda de la Horda",
+                    "Pièce de la Horde",
+                    "Moneta dell'Orda",
+                    "ホード・コイン",
+                    "호드 동전",
+                    "Moneta Hordy",
+                    "Moeda da Horda",
+                    "Монетка Орды",
+                    "เหรียญชนเผ่า",
+                    "部落幸运币",
+                    "部落幸運幣"
+                ],
+                "m_locId": 2755871
+            },
+            "m_description": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            }
+        },
+        {
+            "m_ID": 50,
+            "m_enabled": 1,
+            "m_cardId": 104872,
+            "m_name": {
+                "m_locValues": [
+                    "Townsfolk Coin",
+                    "Städter-Münze",
+                    "Moneda de vecino del pueblo",
+                    "Moneda de habitante",
+                    "Pièce de la population",
+                    "Moneta dei Cittadini",
+                    "鉱山町コイン",
+                    "마을 주민 동전",
+                    "Moneta mieszczanina",
+                    "Moeda de Habitantes",
+                    "Монетка поселенцев",
+                    "เหรียญชาวเมือง",
+                    "镇民幸运币",
+                    "鎮民幸運幣"
+                ],
+                "m_locId": 2885097
+            },
+            "m_description": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            }
+        },
+        {
+            "m_ID": 51,
+            "m_enabled": 1,
+            "m_cardId": 104873,
+            "m_name": {
+                "m_locValues": [
+                    "Outlaw Coin",
+                    "Gesetzlosen-Münze",
+                    "Moneda de forajido",
+                    "Moneda de forajido",
+                    "Pièce des hors-la-loi",
+                    "Moneta dei Fuorilegge",
+                    "アウトロー・コイン",
+                    "무법자 동전",
+                    "Moneta banity",
+                    "Moeda de Fora da Lei",
+                    "Монетка бандитов",
+                    "เหรียญอาชญากร",
+                    "狂徒幸运币",
+                    "暴徒幸運幣"
+                ],
+                "m_locId": 2885098
+            },
+            "m_description": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            }
+        },
+        {
+            "m_ID": 53,
+            "m_enabled": 1,
+            "m_cardId": 111604,
+            "m_name": {
+                "m_locValues": [
+                    "Birthday Coin",
+                    "Jubiläumsmünze",
+                    "Moneda de cumpleaños",
+                    "Moneda de cumpleaños",
+                    "Pièce d’anniversaire",
+                    "Moneta di Compleanno",
+                    "バースデー・コイン",
+                    "생일 동전",
+                    "Urodzinowa moneta",
+                    "Moeda de Aniversário",
+                    "Монетка годовщины",
+                    "เหรียญวันเกิด",
+                    "生日幸运币",
+                    "生日幸運幣"
+                ],
+                "m_locId": 2891229
+            },
+            "m_description": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            }
+        },
+        {
+            "m_ID": 6,
+            "m_enabled": 1,
+            "m_cardId": 66958,
+            "m_name": {
+                "m_locValues": [
+                    "Kazakus Coin",
+                    "Kazakus’ Münze",
+                    "Moneda de Kazakus",
+                    "Moneda de Kazakus",
+                    "Pièce de Kazakus",
+                    "Moneta di Kazakus",
+                    "カザカス・コイン",
+                    "카자쿠스 동전",
+                    "Moneta Kozakusa",
+                    "Moeda de Kazakus",
+                    "Монетка Казакуса",
+                    "เหรียญคาซากัส",
+                    "卡扎库斯幸运币",
+                    "卡札克斯幸運幣"
+                ],
+                "m_locId": 2755872
+            },
+            "m_description": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            }
+        },
+        {
+            "m_ID": 7,
+            "m_enabled": 1,
+            "m_cardId": 66959,
+            "m_name": {
+                "m_locValues": [
+                    "Bigglesworth Coin",
+                    "Bigglesworths Münze",
+                    "Moneda de Baldomero",
+                    "Moneda de Baldomero",
+                    "Pièce de Bigglesworth",
+                    "Moneta del Signor Bigolo",
+                    "ビグルスワース・コイン",
+                    "비글스워스 동전",
+                    "Moneta Sierściucha",
+                    "Moeda de Bigglesworth",
+                    "Монетка Бигглсуорта",
+                    "เหรียญบิกเกิลสเวิร์ธ",
+                    "比格沃斯幸运币",
+                    "畢勾沃斯幸運幣"
+                ],
+                "m_locId": 2755873
+            },
+            "m_description": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            }
+        }
+    ]
+}

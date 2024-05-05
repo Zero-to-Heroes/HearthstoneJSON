@@ -1,0 +1,578 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -5746235758674424071
+    },
+    "m_Name": "LEAGUE",
+    "Records": [
+        {
+            "m_ID": 1,
+            "m_leagueType": 1,
+            "m_leagueLevel": 2,
+            "m_leagueVersion": 1,
+            "m_initialSeasonId": 0,
+            "m_promoteToLeagueType": 0,
+            "m_canPromoteSelfManually": 0,
+            "m_lockWildBoosters": 0,
+            "m_lockWildCards": 0,
+            "m_lockCardsFromSubsetId": 0,
+            "m_lockedBoosterText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_lockedCardUnplayableText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_lockedCardPopupTitleText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_lockedCardPopupBodyText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_seasonRollRewardMinWins": 0,
+            "m_seasonEndRewardChestId": 0,
+            "m_seasonCardBackMinWins": 0,
+            "m_rankedIntroSeenRequirement": 0,
+            "m_bonusStarsPopupSeenRequirement": 0,
+            "m_rewardsVersion": 0
+        },
+        {
+            "m_ID": 2,
+            "m_leagueType": 2,
+            "m_leagueLevel": 1,
+            "m_leagueVersion": 1,
+            "m_initialSeasonId": 0,
+            "m_promoteToLeagueType": 1,
+            "m_canPromoteSelfManually": 1,
+            "m_lockWildBoosters": 1,
+            "m_lockWildCards": 1,
+            "m_lockCardsFromSubsetId": 1685,
+            "m_lockedBoosterText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_lockedCardUnplayableText": {
+                "m_locValues": [
+                    "Playable at\nRank 25.",
+                    "Ab Rang 25\nspielbar.",
+                    "Se puede jugar\ncon rango 25.",
+                    "Disponible en\nel rango 25.",
+                    "Jouable au\nrang 25.",
+                    "Giocabile al\nGrado 25.",
+                    "ランク25から\n使用可能。",
+                    "25등급 달성 시\n사용 가능",
+                    "Można użyć\npo osiągnięciu rangi 25.",
+                    "Jogável no\nRanque 25.",
+                    "Можно использовать\nс 25-го ранга.",
+                    "ใช้ได้เมื่อถึง\nอันดับ 25",
+                    "需要25级\n才能使用",
+                    "達到階級25\n才能使用"
+                ],
+                "m_locId": 2703409
+            },
+            "m_lockedCardPopupTitleText": {
+                "m_locValues": [
+                    "Requires Rank 25",
+                    "Erfordert Rang 25",
+                    "Requiere el rango 25",
+                    "Requiere rango 25",
+                    "Requiert le rang 25",
+                    "Richiede il Grado 25",
+                    "ランク25以上専用",
+                    "25등급 필요",
+                    "Wymaga rangi 25",
+                    "Requer Ranque 25",
+                    "Требуется 25-й ранг",
+                    "อันดับ 25 ขึ้นไป",
+                    "需要25级",
+                    "需要階級25"
+                ],
+                "m_locId": 2703411
+            },
+            "m_lockedCardPopupBodyText": {
+                "m_locValues": [
+                    "This card is un-playable until you reach Rank 25.",
+                    "Diese Karte könnt Ihr erst ab Rang 25 verwenden.",
+                    "No puedes jugar esta carta hasta que alcances el rango 25.",
+                    "No puedes jugar con esta carta hasta alcanzar el rango 25.",
+                    "Vous ne pouvez pas jouer cette carte tant que vous n’avez pas atteint le rang 25.",
+                    "Questa carta sarà giocabile una volta raggiunto il Grado 25.",
+                    "[x]このカードはランク25に到達するまで使用できないぞ。",
+                    "이 카드는 25등급을 달성해야 사용할 수 있습니다.",
+                    "Ta karta będzie dostępna dopiero, gdy osiągniesz rangę 25.",
+                    "Este card não pode ser jogado até você chegar ao Ranque 25.",
+                    "Эту карту нельзя использовать, пока вы не достигнете 25-го ранга.",
+                    "ใช้การ์ดนี้ไม่ได้จนกว่าจะไปถึงอันดับ 25",
+                    "这张卡牌需要你达到25级才能使用。",
+                    "這張卡牌要等你達到階級25才能解鎖。"
+                ],
+                "m_locId": 2703412
+            },
+            "m_seasonRollRewardMinWins": 0,
+            "m_seasonEndRewardChestId": 0,
+            "m_seasonCardBackMinWins": 0,
+            "m_rankedIntroSeenRequirement": 0,
+            "m_bonusStarsPopupSeenRequirement": 0,
+            "m_rewardsVersion": 0
+        },
+        {
+            "m_ID": 3,
+            "m_leagueType": 1,
+            "m_leagueLevel": 2,
+            "m_leagueVersion": 2,
+            "m_initialSeasonId": 64,
+            "m_promoteToLeagueType": 0,
+            "m_canPromoteSelfManually": 0,
+            "m_lockWildBoosters": 0,
+            "m_lockWildCards": 0,
+            "m_lockCardsFromSubsetId": 0,
+            "m_lockedBoosterText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_lockedCardUnplayableText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_lockedCardPopupTitleText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_lockedCardPopupBodyText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_seasonRollRewardMinWins": 0,
+            "m_seasonEndRewardChestId": 0,
+            "m_seasonCardBackMinWins": 0,
+            "m_rankedIntroSeenRequirement": 0,
+            "m_bonusStarsPopupSeenRequirement": 0,
+            "m_rewardsVersion": 0
+        },
+        {
+            "m_ID": 4,
+            "m_leagueType": 2,
+            "m_leagueLevel": 1,
+            "m_leagueVersion": 2,
+            "m_initialSeasonId": 64,
+            "m_promoteToLeagueType": 1,
+            "m_canPromoteSelfManually": 1,
+            "m_lockWildBoosters": 1,
+            "m_lockWildCards": 1,
+            "m_lockCardsFromSubsetId": 1685,
+            "m_lockedBoosterText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_lockedCardUnplayableText": {
+                "m_locValues": [
+                    "Playable at\nRank 25.",
+                    "Ab Rang 25\nspielbar.",
+                    "Se puede jugar\ncon rango 25.",
+                    "Disponible en\nel rango 25.",
+                    "Jouable au\nrang 25.",
+                    "Giocabile al\nGrado 25.",
+                    "ランク25から\n使用可能。",
+                    "25등급 달성 시\n사용 가능",
+                    "Można użyć\npo osiągnięciu rangi 25.",
+                    "Jogável no\nRanque 25.",
+                    "Можно использовать\nс 25-го ранга.",
+                    "ใช้ได้เมื่อคุณไปถึง\nอันดับ 25",
+                    "需要25级\n才能使用",
+                    "達到階級25\n才能使用"
+                ],
+                "m_locId": 2707589
+            },
+            "m_lockedCardPopupTitleText": {
+                "m_locValues": [
+                    "Requires Rank 25",
+                    "Erfordert Rang 25",
+                    "Requiere el rango 25",
+                    "Requiere rango 25",
+                    "Requiert le rang 25",
+                    "Richiede il Grado 25",
+                    "ランク25以上専用",
+                    "25등급 필요",
+                    "Wymaga rangi 25",
+                    "Requer Ranque 25",
+                    "Требуется 25-й ранг",
+                    "อันดับ 25 ขึ้นไป",
+                    "需要25级",
+                    "需要階級25"
+                ],
+                "m_locId": 2707590
+            },
+            "m_lockedCardPopupBodyText": {
+                "m_locValues": [
+                    "This card is un-playable until you reach Rank 25.",
+                    "Diese Karte könnt Ihr erst ab Rang 25 verwenden.",
+                    "No puedes jugar esta carta hasta que alcances el rango 25.",
+                    "No puedes jugar con esta carta hasta alcanzar el rango 25.",
+                    "Vous ne pouvez pas jouer cette carte tant que vous n’avez pas atteint le rang 25.",
+                    "Questa carta sarà giocabile una volta raggiunto il Grado 25.",
+                    "[x]このカードはランク25に到達するまで使用できないぞ。",
+                    "이 카드는 25등급을 달성해야 사용할 수 있습니다.",
+                    "Ta karta będzie dostępna dopiero, gdy osiągniesz rangę 25.",
+                    "Este card não pode ser jogado até você chegar ao Ranque 25.",
+                    "Эту карту нельзя использовать, пока вы не достигнете 25-го ранга.",
+                    "ใช้การ์ดนี้ไม่ได้จนกว่าจะไปถึงอันดับ 25",
+                    "这张卡牌需要你达到25级才能使用。",
+                    "這張卡牌要等你達到階級25才能解鎖。"
+                ],
+                "m_locId": 2707591
+            },
+            "m_seasonRollRewardMinWins": 0,
+            "m_seasonEndRewardChestId": 0,
+            "m_seasonCardBackMinWins": 0,
+            "m_rankedIntroSeenRequirement": 0,
+            "m_bonusStarsPopupSeenRequirement": 0,
+            "m_rewardsVersion": 0
+        },
+        {
+            "m_ID": 5,
+            "m_leagueType": 1,
+            "m_leagueLevel": 2,
+            "m_leagueVersion": 3,
+            "m_initialSeasonId": 78,
+            "m_promoteToLeagueType": 0,
+            "m_canPromoteSelfManually": 0,
+            "m_lockWildBoosters": 0,
+            "m_lockWildCards": 0,
+            "m_lockCardsFromSubsetId": 0,
+            "m_lockedBoosterText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_lockedCardUnplayableText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_lockedCardPopupTitleText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_lockedCardPopupBodyText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_seasonRollRewardMinWins": 0,
+            "m_seasonEndRewardChestId": 61,
+            "m_seasonCardBackMinWins": 5,
+            "m_rankedIntroSeenRequirement": 3,
+            "m_bonusStarsPopupSeenRequirement": 3,
+            "m_rewardsVersion": 1
+        },
+        {
+            "m_ID": 6,
+            "m_leagueType": 2,
+            "m_leagueLevel": 1,
+            "m_leagueVersion": 3,
+            "m_initialSeasonId": 78,
+            "m_promoteToLeagueType": 1,
+            "m_canPromoteSelfManually": 1,
+            "m_lockWildBoosters": 1,
+            "m_lockWildCards": 1,
+            "m_lockCardsFromSubsetId": 1685,
+            "m_lockedBoosterText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_lockedCardUnplayableText": {
+                "m_locValues": [
+                    "Available after Apprenticeship",
+                    "Verfügbar nach der Lehrlingsphase",
+                    "Disponible después del aprendizaje",
+                    "Disponible después del aprendizaje",
+                    "Disponible après l’apprentissage",
+                    "Disponibile dopo l'Addestramento",
+                    "入門者卒業後に利用可能",
+                    "수습 과정 이후 가능",
+                    "Dostępna po ukończeniu szkolenia",
+                    "Disponível após Aprendizado",
+                    "Требуется пройти курс новичка",
+                    "ใช้ได้หลังผ่าน[b]การฝึกมือใหม่",
+                    "学徒阶段后可用",
+                    "取得學徒資格後開放"
+                ],
+                "m_locId": 2719288
+            },
+            "m_lockedCardPopupTitleText": {
+                "m_locValues": [
+                    "Available after Apprenticeship",
+                    "Verfügbar nach der Lehrlingsphase",
+                    "Disponible después del aprendizaje",
+                    "Disponible después del aprendizaje",
+                    "Disponible après l’apprentissage",
+                    "Disponibile dopo l'Addestramento",
+                    "入門者卒業後に利用可能",
+                    "수습 과정 이후 가능",
+                    "Dostępna po ukończeniu szkolenia",
+                    "Disponível após Aprendizado",
+                    "Требуется пройти курс новичка",
+                    "ใช้ได้หลังผ่าน[b]การฝึกมือใหม่",
+                    "学徒阶段后可用",
+                    "取得學徒資格後開放"
+                ],
+                "m_locId": 2719289
+            },
+            "m_lockedCardPopupBodyText": {
+                "m_locValues": [
+                    "This card is not available until you complete your Apprenticeship.",
+                    "Diese Karte könnt Ihr erst nach Abschluss der Lehrlingsphase verwenden.",
+                    "Esta carta no estará disponible hasta que completes el aprendizaje.",
+                    "Esta carta no estará disponible hasta que hayas completado tu aprendizaje.",
+                    "Cette carte n’est pas disponible tant que vous n’avez pas complété votre apprentissage.",
+                    "Questa carta non è disponibile prima di aver completato l'Addestramento.",
+                    "このカードは入門者には使えないぞ。",
+                    "이 카드는 수습 과정을 마쳐야 사용할 수 있습니다.",
+                    "Ta karta będzie dostępna dopiero, gdy ukończysz szkolenie.",
+                    "Este card só estará disponível até você concluir o Aprendizado.",
+                    "Эту карту нельзя использовать, пока вы не пройдете курс новичка.",
+                    "การ์ดนี้ยังใช้ไม่ได้จนกว่า[b]คุณจะผ่านการฝึกมือใหม่",
+                    "这张卡牌需要你完成学徒阶段才能使用。",
+                    "這張卡牌必須等你取得學徒資格才能使用。"
+                ],
+                "m_locId": 2719290
+            },
+            "m_seasonRollRewardMinWins": 0,
+            "m_seasonEndRewardChestId": 61,
+            "m_seasonCardBackMinWins": 5,
+            "m_rankedIntroSeenRequirement": 0,
+            "m_bonusStarsPopupSeenRequirement": 0,
+            "m_rewardsVersion": 1
+        }
+    ]
+}
