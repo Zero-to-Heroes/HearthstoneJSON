@@ -11295,68 +11295,6 @@
             "m_unlockEvent": 164
         },
         {
-            "m_ID": 93,
-            "m_cardId": 59537,
-            "m_name": {
-                "m_locValues": [
-                    "Togwaggle",
-                    "Togwaggel",
-                    "Togafloja",
-                    "Togwaggle",
-                    "Cire-Pilleur",
-                    "Cobaldo",
-                    "トグワグル",
-                    "토그왜글",
-                    "Trzęsibrzuch",
-                    "Fubalumba",
-                    "Вихлепых",
-                    "ท็อกแว็กเกิล",
-                    "托瓦格尔",
-                    "托戈瓦哥"
-                ],
-                "m_locId": 2718229
-            },
-            "m_shortName": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_flavorText": {
-                "m_locValues": [
-                    "Only grins when he is smelling treasure.",
-                    "Lächelt nur, wenn er Schätze wittert.",
-                    "Solo sonríe cuando huele tesoros.",
-                    "Sonríe únicamente cuando huele tesoros.",
-                    "Ne sourit qu’au doux parfum d’un trésor.",
-                    "Sorride soltanto quando sente odore di tesori.",
-                    "宝のニオイを嗅ぎ取った時だけ、王はニヤリと笑う。",
-                    "그가 웃고 있다면 어딘가에서 보물의 냄새를 맡았다는 겁니다.",
-                    "Jak tylko wyniucha skarb, szczerzy się jak kobold do świecuni.",
-                    "Só ri quando sente cheiro de tesouro.",
-                    "Он ухмыляется, только когда чует сокровища.",
-                    "ยิ้มเมื่อรู้สึกว่าสมบัติ\nอยู่ใกล้ๆ เท่านั้น",
-                    "只有闻着财宝时他才会开心一笑。",
-                    "只有寶藏的氣味能讓他展現笑容"
-                ],
-                "m_locId": 2718230
-            },
-            "m_unlockEvent": 164
-        },
-        {
             "m_ID": 90,
             "m_cardId": 59388,
             "m_name": {
@@ -11539,6 +11477,68 @@
                     "古代神祇的狂熱分子，還有語調柔和的說話方式"
                 ],
                 "m_locId": 2718228
+            },
+            "m_unlockEvent": 164
+        },
+        {
+            "m_ID": 93,
+            "m_cardId": 59537,
+            "m_name": {
+                "m_locValues": [
+                    "Togwaggle",
+                    "Togwaggel",
+                    "Togafloja",
+                    "Togwaggle",
+                    "Cire-Pilleur",
+                    "Cobaldo",
+                    "トグワグル",
+                    "토그왜글",
+                    "Trzęsibrzuch",
+                    "Fubalumba",
+                    "Вихлепых",
+                    "ท็อกแว็กเกิล",
+                    "托瓦格尔",
+                    "托戈瓦哥"
+                ],
+                "m_locId": 2718229
+            },
+            "m_shortName": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_flavorText": {
+                "m_locValues": [
+                    "Only grins when he is smelling treasure.",
+                    "Lächelt nur, wenn er Schätze wittert.",
+                    "Solo sonríe cuando huele tesoros.",
+                    "Sonríe únicamente cuando huele tesoros.",
+                    "Ne sourit qu’au doux parfum d’un trésor.",
+                    "Sorride soltanto quando sente odore di tesori.",
+                    "宝のニオイを嗅ぎ取った時だけ、王はニヤリと笑う。",
+                    "그가 웃고 있다면 어딘가에서 보물의 냄새를 맡았다는 겁니다.",
+                    "Jak tylko wyniucha skarb, szczerzy się jak kobold do świecuni.",
+                    "Só ri quando sente cheiro de tesouro.",
+                    "Он ухмыляется, только когда чует сокровища.",
+                    "ยิ้มเมื่อรู้สึกว่าสมบัติ\nอยู่ใกล้ๆ เท่านั้น",
+                    "只有闻着财宝时他才会开心一笑。",
+                    "只有寶藏的氣味能讓他展現笑容"
+                ],
+                "m_locId": 2718230
             },
             "m_unlockEvent": 164
         },
