@@ -875,150 +875,6 @@
             "m_borderType": 1
         },
         {
-            "m_ID": 4,
-            "m_enabled": 1,
-            "m_rarityId": 3,
-            "m_fullBoardPrefab": "ThreeKingdoms_1_Board.prefab:98f7b00ca6b598748a81e83c7e0ab1a3",
-            "m_fullBoardPrefabPhone": "ThreeKingdoms_1_Board_Phone.prefab:4bf3385fe00f06e4cb237c07d72f305a",
-            "m_fullTavernBoardPrefab": "Default_1T_Board.prefab:3e3de375694b2504cb99031806d0d068",
-            "m_fullTavernBoardPrefabPhone": "Default_1T_Board_Phone.prefab:9fc3c1e16769c6b4982d89c6b7c43843",
-            "m_collectionName": {
-                "m_locValues": [
-                    "Jade Gardens",
-                    "Jadegärten",
-                    "Jardines de jade",
-                    "Jardines de jade",
-                    "Jardins de jade",
-                    "Giardini di Giada",
-                    "翡翠の園",
-                    "비취 정원",
-                    "Nefrytowe Ogrody",
-                    "Jardins de Jade",
-                    "Нефритовые сады",
-                    "สวนหยก",
-                    "青玉园林",
-                    "翠玉花園"
-                ],
-                "m_locId": 2813218
-            },
-            "m_collectionShortName": {
-                "m_locValues": [
-                    "Jade Gardens",
-                    "Jadegärten",
-                    "Jardines de jade",
-                    "Jardines de jade",
-                    "Jardins de jade",
-                    "Giardini di Giada",
-                    "翡翠の園",
-                    "비취 정원",
-                    "Nefrytowe Ogrody",
-                    "Jardins de Jade",
-                    "Нефритовые сады",
-                    "สวนหยก",
-                    "青玉园林",
-                    "翠玉花園"
-                ],
-                "m_locId": 2815901
-            },
-            "m_description": {
-                "m_locValues": [
-                    "The most noble of jade golems watch over this warrior's terrace.",
-                    "Die edelsten Jadegolems wachen über diese Terrasse der Krieger.",
-                    "Los gólems de jade más nobles vigilan la terraza de este guerrero.",
-                    "Los gólems de jade más nobles protegen este bancal de guerreros.",
-                    "Le plus noble des golems de jade protège la terrasse de ce guerrier.",
-                    "Il più nobile dei Golem di Giada protegge questa terrazza dei guerrieri.",
-                    "最も高貴なる翡翠のゴーレム達がこの戦士のテラスを見守っている。",
-                    "가장 고귀한 비취 골렘들이 전사들의 정원을 지켜봅니다.",
-                    "Tego skweru wojowników strzegą najszlachetniejsze spośród nefrytowych golemów.",
-                    "O mais nobre dos golens de jade vigia o terraço deste guerreiro.",
-                    "Эту террасу воинов охраняют самые благородные нефритовые големы.",
-                    "เหล่าเจดโกเล็ม[b]ผู้ทรงคุณธรรม[b]คอยคุ้มครองสวน[b]ของนักรบแห่งนี้",
-                    "这片猛将的园地由最高贵的青玉魔像亲自把守。",
-                    "這座戰士的露台由最尊貴的翠玉魔像把守著。"
-                ],
-                "m_locId": 2813219
-            },
-            "m_detailsTexture": "ThreeKingdoms_1_Texture_Details.tif:c86c876721991444088f3d1a1baaed3c",
-            "m_detailsTexturePhone": "ThreeKingdoms_1_Texture_Details_Phone.tif:17a093f7a4894a545a9271d50e35a743",
-            "m_detailsMovie": "ThreeKingdoms_1_Video.mp4:7f2fbc35b6135f647a998101467b144f",
-            "m_detailsMoviePhone": "ThreeKingdoms_1_Video_Phone.mp4:09ef6ca685a2d6746804d557b66439d6",
-            "m_detailsRenderConfig": "ThreeKingdoms_1_Configuration.asset:b8068f984f1827d4a9263834d1e8c894",
-            "m_borderType": 0
-        },
-        {
-            "m_ID": 40,
-            "m_enabled": 1,
-            "m_rarityId": 3,
-            "m_fullBoardPrefab": "SilvermoonScourge_1_Board.prefab:e8689f737f6a06840a6c0c1ed727d134",
-            "m_fullBoardPrefabPhone": "SilvermoonScourge_1_Board_Phone.prefab:08e2839c074e02e41a93d8ce189449e6",
-            "m_fullTavernBoardPrefab": "Default_1T_Board.prefab:3e3de375694b2504cb99031806d0d068",
-            "m_fullTavernBoardPrefabPhone": "Default_1T_Board_Phone.prefab:9fc3c1e16769c6b4982d89c6b7c43843",
-            "m_collectionName": {
-                "m_locValues": [
-                    "The Ramparts",
-                    "Die Befestigungen",
-                    "Las murallas",
-                    "Las murallas",
-                    "Les remparts",
-                    "Bastioni",
-                    "塁壁",
-                    "진지",
-                    "Umocnienia",
-                    "As Muralhas",
-                    "Укрепления",
-                    "ปราการแนวรบ",
-                    "战火城墙",
-                    "堡壘"
-                ],
-                "m_locId": 2861371
-            },
-            "m_collectionShortName": {
-                "m_locValues": [
-                    "The Ramparts",
-                    "Die Befestigungen",
-                    "Las murallas",
-                    "Las murallas",
-                    "Les remparts",
-                    "Bastioni",
-                    "塁壁",
-                    "진지",
-                    "Umocnienia",
-                    "As Muralhas",
-                    "Укрепления",
-                    "ปราการแนวรบ",
-                    "战火城墙",
-                    "堡壘"
-                ],
-                "m_locId": 2861372
-            },
-            "m_description": {
-                "m_locValues": [
-                    "The fight for Silvermoon is here. Choose your side and take the fight to the Battlegrounds!\n\nEarnable after purchasing the Battlegrounds Season Pass in Season <i>3</i>.",
-                    "Der Kampf um Silbermond hat begonnen. Wählt Eure Seite und tragt den Kampf auf das Schlachtfeld!\n\nKann nach Kauf des Schlachtfeld-Saisonpasses in Saison <i>3</i> freigeschaltet werden.",
-                    "La batalla por Lunargenta ha llegado. ¡Elige tu bando y ponte a luchar en Campos de batalla!\n\nSe puede conseguir al comprar el pase de temporada de Campos de batalla en la temporada <i>3</i>.",
-                    "La batalla por Lunargenta ha comenzado. ¡Elige tu bando y lleva la pelea a los Campos de batalla!\n\nSe puede obtener después de comprar el Pase de temporada de Campos de batalla en la temporada <i>3</i>.",
-                    "L’heure de la bataille pour Lune-d’Argent est arrivée. Choisissez votre camp et faites-lui honneur sur les champs de bataille.\n\nS’obtient après avoir acheté le ticket saisonnier des champs de bataille lors de la saison <i>3</i>.",
-                    "Lo scontro per Lunargenta è iniziato. Scegli da che parte stare e combatti in Battaglia!\n\nOttenibile dopo aver acquistato il Pass Battaglia Stagionale nella Stagione <i>3</i>.",
-                    "シルバームーンの戦いが始まる。寄騎する陣営を選び、バトルグラウンドに挑もう！\n\nバトルグラウンド・シーズン<i>3</i>の「シーズンパス」購入後に獲得可能となる。",
-                    "실버문 전투가 시작되었습니다. 진영을 선택하고 전장으로 나아가세요!\n\n<i>3</i> 시즌 전장 시즌 패스를 구매한 후 획득 가능",
-                    "Nadeszła bitwa o Srebrną Lunę. Opowiedz się po którejś stronie i przenieś walkę do Ustawki!\n\nDo zdobycia w karnecie sezonowym Ustawki w sezonie <i>3</i>.",
-                    "A luta por Luaprata já começou. Escolha seu lado e entre nos Campos de Batalha!\n\nPossível de obter após comprar o Passe de Temporada dos Campos de Batalha na Temporada <i>3</i>.",
-                    "Битва за Луносвет началась. Выберите сторону и отправьтесь на поля сражений!\n\nМожно открыть после покупки пропуска <i>3-го</i> сезона полей сражений.",
-                    "ศึกชิงซิลเวอร์มูนเริ่มขึ้นแล้ว เลือกฝ่ายของคุณแล้วต่อสู้[b]ชิงชัยใน Battlegrounds!\n\nปลดล็อคได้หลังจากซื้อ\nซีซันพาส_Battlegrounds ในซีซัน_<i>3</i>",
-                    "银月城之战在此打响。选择你的阵营，在酒馆战棋中大战一番吧！\n\n购买第<i>3</i>赛季的酒馆战棋赛季通行证后开放解锁。",
-                    "銀月城之戰即將到來。選擇你的陣營，在英雄戰場中奮戰吧！\n\n需在賽季<i>3</i>購買英雄戰場賽季通行證才有機會取得。"
-                ],
-                "m_locId": 2861373
-            },
-            "m_detailsTexture": "Default_C_Texture_Details.tif:eabeb582892282b44bbbc7a595f743bc",
-            "m_detailsTexturePhone": "Default_1C_Texture_Details_Phone.tif:ba985e88917058d4ca530c44fb42d8f6",
-            "m_detailsMovie": "UndeadVsSilvermoon_PC_GS_001.mp4:f5ff8fc20a6c5a1448feba0f8e17f695",
-            "m_detailsMoviePhone": "UndeadVsSilvermoon_Mobile_GS_001.mp4:c2c6f6103079dbf448f1cbece3a36937",
-            "m_detailsRenderConfig": "SilvermoonScourge_1_Configuration.asset:85630085c3b7e0840824f2493e3d8b38",
-            "m_borderType": 0
-        },
-        {
             "m_ID": 42,
             "m_enabled": 1,
             "m_rarityId": 4,
@@ -1163,6 +1019,78 @@
             "m_borderType": 0
         },
         {
+            "m_ID": 4,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_fullBoardPrefab": "ThreeKingdoms_1_Board.prefab:98f7b00ca6b598748a81e83c7e0ab1a3",
+            "m_fullBoardPrefabPhone": "ThreeKingdoms_1_Board_Phone.prefab:4bf3385fe00f06e4cb237c07d72f305a",
+            "m_fullTavernBoardPrefab": "Default_1T_Board.prefab:3e3de375694b2504cb99031806d0d068",
+            "m_fullTavernBoardPrefabPhone": "Default_1T_Board_Phone.prefab:9fc3c1e16769c6b4982d89c6b7c43843",
+            "m_collectionName": {
+                "m_locValues": [
+                    "Jade Gardens",
+                    "Jadegärten",
+                    "Jardines de jade",
+                    "Jardines de jade",
+                    "Jardins de jade",
+                    "Giardini di Giada",
+                    "翡翠の園",
+                    "비취 정원",
+                    "Nefrytowe Ogrody",
+                    "Jardins de Jade",
+                    "Нефритовые сады",
+                    "สวนหยก",
+                    "青玉园林",
+                    "翠玉花園"
+                ],
+                "m_locId": 2813218
+            },
+            "m_collectionShortName": {
+                "m_locValues": [
+                    "Jade Gardens",
+                    "Jadegärten",
+                    "Jardines de jade",
+                    "Jardines de jade",
+                    "Jardins de jade",
+                    "Giardini di Giada",
+                    "翡翠の園",
+                    "비취 정원",
+                    "Nefrytowe Ogrody",
+                    "Jardins de Jade",
+                    "Нефритовые сады",
+                    "สวนหยก",
+                    "青玉园林",
+                    "翠玉花園"
+                ],
+                "m_locId": 2815901
+            },
+            "m_description": {
+                "m_locValues": [
+                    "The most noble of jade golems watch over this warrior's terrace.",
+                    "Die edelsten Jadegolems wachen über diese Terrasse der Krieger.",
+                    "Los gólems de jade más nobles vigilan la terraza de este guerrero.",
+                    "Los gólems de jade más nobles protegen este bancal de guerreros.",
+                    "Le plus noble des golems de jade protège la terrasse de ce guerrier.",
+                    "Il più nobile dei Golem di Giada protegge questa terrazza dei guerrieri.",
+                    "最も高貴なる翡翠のゴーレム達がこの戦士のテラスを見守っている。",
+                    "가장 고귀한 비취 골렘들이 전사들의 정원을 지켜봅니다.",
+                    "Tego skweru wojowników strzegą najszlachetniejsze spośród nefrytowych golemów.",
+                    "O mais nobre dos golens de jade vigia o terraço deste guerreiro.",
+                    "Эту террасу воинов охраняют самые благородные нефритовые големы.",
+                    "เหล่าเจดโกเล็ม[b]ผู้ทรงคุณธรรม[b]คอยคุ้มครองสวน[b]ของนักรบแห่งนี้",
+                    "这片猛将的园地由最高贵的青玉魔像亲自把守。",
+                    "這座戰士的露台由最尊貴的翠玉魔像把守著。"
+                ],
+                "m_locId": 2813219
+            },
+            "m_detailsTexture": "ThreeKingdoms_1_Texture_Details.tif:c86c876721991444088f3d1a1baaed3c",
+            "m_detailsTexturePhone": "ThreeKingdoms_1_Texture_Details_Phone.tif:17a093f7a4894a545a9271d50e35a743",
+            "m_detailsMovie": "ThreeKingdoms_1_Video.mp4:7f2fbc35b6135f647a998101467b144f",
+            "m_detailsMoviePhone": "ThreeKingdoms_1_Video_Phone.mp4:09ef6ca685a2d6746804d557b66439d6",
+            "m_detailsRenderConfig": "ThreeKingdoms_1_Configuration.asset:b8068f984f1827d4a9263834d1e8c894",
+            "m_borderType": 0
+        },
+        {
             "m_ID": 45,
             "m_enabled": 1,
             "m_rarityId": 3,
@@ -1232,6 +1160,78 @@
             "m_detailsMovie": "Scholomance_ForbiddenLibrary_PC.mp4:c2ba1174e41ec2744ba081e1a4daf6e3",
             "m_detailsMoviePhone": "Scholomance_ForbiddenLibrary_Phone.mp4:85fb0064f3ac05947b81b47447e30f81",
             "m_detailsRenderConfig": "Scholomance_Board_Configuration.asset:1f54f4ca4b92faf40b388464cc68a9ca",
+            "m_borderType": 0
+        },
+        {
+            "m_ID": 40,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_fullBoardPrefab": "SilvermoonScourge_1_Board.prefab:e8689f737f6a06840a6c0c1ed727d134",
+            "m_fullBoardPrefabPhone": "SilvermoonScourge_1_Board_Phone.prefab:08e2839c074e02e41a93d8ce189449e6",
+            "m_fullTavernBoardPrefab": "Default_1T_Board.prefab:3e3de375694b2504cb99031806d0d068",
+            "m_fullTavernBoardPrefabPhone": "Default_1T_Board_Phone.prefab:9fc3c1e16769c6b4982d89c6b7c43843",
+            "m_collectionName": {
+                "m_locValues": [
+                    "The Ramparts",
+                    "Die Befestigungen",
+                    "Las murallas",
+                    "Las murallas",
+                    "Les remparts",
+                    "Bastioni",
+                    "塁壁",
+                    "진지",
+                    "Umocnienia",
+                    "As Muralhas",
+                    "Укрепления",
+                    "ปราการแนวรบ",
+                    "战火城墙",
+                    "堡壘"
+                ],
+                "m_locId": 2861371
+            },
+            "m_collectionShortName": {
+                "m_locValues": [
+                    "The Ramparts",
+                    "Die Befestigungen",
+                    "Las murallas",
+                    "Las murallas",
+                    "Les remparts",
+                    "Bastioni",
+                    "塁壁",
+                    "진지",
+                    "Umocnienia",
+                    "As Muralhas",
+                    "Укрепления",
+                    "ปราการแนวรบ",
+                    "战火城墙",
+                    "堡壘"
+                ],
+                "m_locId": 2861372
+            },
+            "m_description": {
+                "m_locValues": [
+                    "The fight for Silvermoon is here. Choose your side and take the fight to the Battlegrounds!\n\nEarnable after purchasing the Battlegrounds Season Pass in Season <i>3</i>.",
+                    "Der Kampf um Silbermond hat begonnen. Wählt Eure Seite und tragt den Kampf auf das Schlachtfeld!\n\nKann nach Kauf des Schlachtfeld-Saisonpasses in Saison <i>3</i> freigeschaltet werden.",
+                    "La batalla por Lunargenta ha llegado. ¡Elige tu bando y ponte a luchar en Campos de batalla!\n\nSe puede conseguir al comprar el pase de temporada de Campos de batalla en la temporada <i>3</i>.",
+                    "La batalla por Lunargenta ha comenzado. ¡Elige tu bando y lleva la pelea a los Campos de batalla!\n\nSe puede obtener después de comprar el Pase de temporada de Campos de batalla en la temporada <i>3</i>.",
+                    "L’heure de la bataille pour Lune-d’Argent est arrivée. Choisissez votre camp et faites-lui honneur sur les champs de bataille.\n\nS’obtient après avoir acheté le ticket saisonnier des champs de bataille lors de la saison <i>3</i>.",
+                    "Lo scontro per Lunargenta è iniziato. Scegli da che parte stare e combatti in Battaglia!\n\nOttenibile dopo aver acquistato il Pass Battaglia Stagionale nella Stagione <i>3</i>.",
+                    "シルバームーンの戦いが始まる。寄騎する陣営を選び、バトルグラウンドに挑もう！\n\nバトルグラウンド・シーズン<i>3</i>の「シーズンパス」購入後に獲得可能となる。",
+                    "실버문 전투가 시작되었습니다. 진영을 선택하고 전장으로 나아가세요!\n\n<i>3</i> 시즌 전장 시즌 패스를 구매한 후 획득 가능",
+                    "Nadeszła bitwa o Srebrną Lunę. Opowiedz się po którejś stronie i przenieś walkę do Ustawki!\n\nDo zdobycia w karnecie sezonowym Ustawki w sezonie <i>3</i>.",
+                    "A luta por Luaprata já começou. Escolha seu lado e entre nos Campos de Batalha!\n\nPossível de obter após comprar o Passe de Temporada dos Campos de Batalha na Temporada <i>3</i>.",
+                    "Битва за Луносвет началась. Выберите сторону и отправьтесь на поля сражений!\n\nМожно открыть после покупки пропуска <i>3-го</i> сезона полей сражений.",
+                    "ศึกชิงซิลเวอร์มูนเริ่มขึ้นแล้ว เลือกฝ่ายของคุณแล้วต่อสู้[b]ชิงชัยใน Battlegrounds!\n\nปลดล็อคได้หลังจากซื้อ\nซีซันพาส_Battlegrounds ในซีซัน_<i>3</i>",
+                    "银月城之战在此打响。选择你的阵营，在酒馆战棋中大战一番吧！\n\n购买第<i>3</i>赛季的酒馆战棋赛季通行证后开放解锁。",
+                    "銀月城之戰即將到來。選擇你的陣營，在英雄戰場中奮戰吧！\n\n需在賽季<i>3</i>購買英雄戰場賽季通行證才有機會取得。"
+                ],
+                "m_locId": 2861373
+            },
+            "m_detailsTexture": "Default_C_Texture_Details.tif:eabeb582892282b44bbbc7a595f743bc",
+            "m_detailsTexturePhone": "Default_1C_Texture_Details_Phone.tif:ba985e88917058d4ca530c44fb42d8f6",
+            "m_detailsMovie": "UndeadVsSilvermoon_PC_GS_001.mp4:f5ff8fc20a6c5a1448feba0f8e17f695",
+            "m_detailsMoviePhone": "UndeadVsSilvermoon_Mobile_GS_001.mp4:c2c6f6103079dbf448f1cbece3a36937",
+            "m_detailsRenderConfig": "SilvermoonScourge_1_Configuration.asset:85630085c3b7e0840824f2493e3d8b38",
             "m_borderType": 0
         },
         {
@@ -1307,150 +1307,6 @@
             "m_borderType": 1
         },
         {
-            "m_ID": 49,
-            "m_enabled": 1,
-            "m_rarityId": 4,
-            "m_fullBoardPrefab": "Wonders_1C_Board.prefab:cae6ffdec69ab3041ba43df813bfef33",
-            "m_fullBoardPrefabPhone": "Wonders_1C_Board_Phone.prefab:ae496ce0625a841439876786b21d4222",
-            "m_fullTavernBoardPrefab": "Wonders_1T_Board.prefab:a69f8df92733f834e8198bfa43a08802",
-            "m_fullTavernBoardPrefabPhone": "Wonders_1T_Board_Phone.prefab:79f2c3dcb88964f439de8b8bc6c24f81",
-            "m_collectionName": {
-                "m_locValues": [
-                    "Sands of Time",
-                    "Sande der Zeit",
-                    "Arenas del tiempo",
-                    "Arenas del tiempo",
-                    "Sables du temps",
-                    "Sabbie del Tempo",
-                    "時の砂",
-                    "시간의 모래",
-                    "Piaski czasu",
-                    "Areias do Tempo",
-                    "Пески времени",
-                    "ทรายแห่งเวลา",
-                    "时间之沙",
-                    "時間之沙"
-                ],
-                "m_locId": 2878862
-            },
-            "m_collectionShortName": {
-                "m_locValues": [
-                    "Sands of Time",
-                    "Sande der Zeit",
-                    "Arenas del tiempo",
-                    "Arenas del tiempo",
-                    "Sables du temps",
-                    "Sabbie del Tempo",
-                    "時の砂",
-                    "시간의 모래",
-                    "Piaski czasu",
-                    "Areias do Tempo",
-                    "Пески времени",
-                    "ทรายแห่งเวลา",
-                    "时间之沙",
-                    "時間之沙"
-                ],
-                "m_locId": 2880426
-            },
-            "m_description": {
-                "m_locValues": [
-                    "They can fall backwards, forwards, or even sideways!\n\nPurchasable when available in the shop.",
-                    "Sie können nach hinten, nach vorne oder sogar zur Seite fallen!\n\nKann bei Verfügbarkeit im Shop erworben werden.",
-                    "¡Caen hacia atrás, hacia delante e incluso de lado!\n\nSe compra en la tienda cuando esté disponible.",
-                    "¡Caen hacia atrás, hacia delante e incluso de lado!\n\nSe puede comprar si está disponible en la tienda.",
-                    "Ils s’écoulent parfois à l’endroit, parfois à l’envers, et parfois même en spirale !\n\nCe plateau s’obtient en l’achetant lorsqu’il est disponible dans la boutique.",
-                    "Cadono in avanti, all'indietro o addirittura di lato!\n\nAcquistabile quando disponibile nel negozio.",
-                    "七転八倒どころか、千転万倒だってできるぞ！\n\nショップでの販売時に購入可能。",
-                    "사방으로 흘러내릴 수 있습니다!\n\n상점에서 판매 시 구매하여 획득",
-                    "Przesypują się do tyłu, do przodu, a nawet na boki!\n\nDo zakupu po udostępnieniu w sklepie.",
-                    "Podem recuar, avançar ou até ir para o lado!\n\nPossível de adquirir quando disponível na loja.",
-                    "Эти пески могут течь назад, вперед и даже вбок!\n\nМожно приобрести в магазине.",
-                    "มันอาจไหลย้อนกลับ ไปข้างหน้า หรือไปด้านข้างก็ได้!\n\nซื้อได้เมื่อวางจำหน่ายในร้านค้า",
-                    "可以倒流，正流，甚至测流！\n\n可以在上架期间在商店购买。",
-                    "可以向後、向前，甚至是向側邊傾倒！\n\n於商店上架時購買取得。"
-                ],
-                "m_locId": 2880427
-            },
-            "m_detailsTexture": "",
-            "m_detailsTexturePhone": "",
-            "m_detailsMovie": "",
-            "m_detailsMoviePhone": "",
-            "m_detailsRenderConfig": "Wonders_Board_Config.asset:7a84c7c000c10d6439f85362a8e20bfb",
-            "m_borderType": 1
-        },
-        {
-            "m_ID": 50,
-            "m_enabled": 1,
-            "m_rarityId": 3,
-            "m_fullBoardPrefab": "HCHallowsEnd_Board.prefab:3514999b4e2092d43a4519311ae5160d",
-            "m_fullBoardPrefabPhone": "HCHallowsEnd_Board_Phone.prefab:afad1f1b3e1cd4644b8c5917a0e59c43",
-            "m_fullTavernBoardPrefab": "Default_1T_Board.prefab:3e3de375694b2504cb99031806d0d068",
-            "m_fullTavernBoardPrefabPhone": "Default_1T_Board_Phone.prefab:9fc3c1e16769c6b4982d89c6b7c43843",
-            "m_collectionName": {
-                "m_locValues": [
-                    "Creepy Crypt",
-                    "Unheimliche Gruft",
-                    "Tétrica cripta",
-                    "Cripta espeluznante",
-                    "Crypte effrayante",
-                    "Cripta Inquietante",
-                    "クリーピー・クリプト",
-                    "섬뜩한 묘실",
-                    "Koszmarna Krypta",
-                    "Cripta Sinistra",
-                    "Страшный склеп",
-                    "สุสานสยองขวัญ",
-                    "恐怖地穴",
-                    "恐怖墓穴"
-                ],
-                "m_locId": 2880425
-            },
-            "m_collectionShortName": {
-                "m_locValues": [
-                    "Creepy Crypt",
-                    "Unheimliche Gruft",
-                    "Tétrica cripta",
-                    "Cripta espeluznante",
-                    "Crypte effrayante",
-                    "Cripta Inquietante",
-                    "クリーピー・クリプト",
-                    "섬뜩한 묘실",
-                    "Koszmarna Krypta",
-                    "Cripta Sinistra",
-                    "Страшный склеп",
-                    "สุสานสยองขวัญ",
-                    "恐怖地穴",
-                    "恐怖墓穴"
-                ],
-                "m_locId": 2884613
-            },
-            "m_description": {
-                "m_locValues": [
-                    "Get in the spooky spirit with this haunted cemetery featuring its own friendly ghost.\n\nPurchasable when available in the shop.",
-                    "Kommt in Gruselstimmung mithilfe dieses heimgesuchten Friedhofs. Freundlicher Geist inklusive.\n\nKann bei Verfügbarkeit im Shop erworben werden.",
-                    "Contágiate del espíritu terrorífico de Halloween con este cementerio encantado que viene con un fantasma amistoso incluido. Se compra en la tienda cuando esté disponible.",
-                    "Contágiate del espíritu del terror con este cementerio embrujado. Incluye su propio fantasma. Se puede comprar si está disponible en la tienda.",
-                    "Ce cimetière et le fantôme qui le hante vous donneront la chair de poule. Ce plateau s’obtient en l’achetant lorsqu’il est disponible dans la boutique.",
-                    "Immergiti in un’atmosfera tenebrosa con questo cimitero infestato e il suo amichevole fantasma. Acquistabile quando disponibile nel negozio.",
-                    "気さくな幽霊が憑りつく呪われた墓地で、ドッキリ体験を味わおう。ショップでの販売時に購入可能。",
-                    "친숙한 유령이 등장하는 이 귀신 들린 묘실에서 섬뜩한 분위기를 체험하세요. 상점에서 판매 시 구매하여 획득",
-                    "Poczuj klimat grozy tego cmentarzyska nawiedzanego przez przyjaznego ducha. Do zakupu po udostępnieniu w sklepie.",
-                    "Entre no espírito assustador com este cemitério assombrado com seu fantasma aliado. Possível de adquirir quando disponível na loja.",
-                    "Проникнитесь атмосферой ужаса благодаря этому кладбищу с призраками — один из которых, впрочем, настроен дружелюбно. Можно приобрести в магазине.",
-                    "ต้อนรับบรรยากาศขนหัวลุก[b]ด้วยสุสานผีสิงแห่งนี้ที่มาพร้อม[b]ผีเพื่อนรัก หาได้จากการซื้อใน[b]ร้านค้า",
-                    "墓园中的鬼灵生性友善，都来浸入这鬼灵精怪的氛围吧。\n\n可以在上架期间在商店购买。",
-                    "在這個鬧鬼的墓地感受一下可怕氣氛，而且裡面還居住著友善的鬼魂。於商店上架時購買取得。"
-                ],
-                "m_locId": 2885277
-            },
-            "m_detailsTexture": "",
-            "m_detailsTexturePhone": "",
-            "m_detailsMovie": "",
-            "m_detailsMoviePhone": "",
-            "m_detailsRenderConfig": "HCHallowsEnd_Board_Config.asset:4a5b1f210fdd39f4284c70459003f1af",
-            "m_borderType": 0
-        },
-        {
             "m_ID": 53,
             "m_enabled": 1,
             "m_rarityId": 3,
@@ -1523,6 +1379,78 @@
             "m_borderType": 0
         },
         {
+            "m_ID": 49,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_fullBoardPrefab": "Wonders_1C_Board.prefab:cae6ffdec69ab3041ba43df813bfef33",
+            "m_fullBoardPrefabPhone": "Wonders_1C_Board_Phone.prefab:ae496ce0625a841439876786b21d4222",
+            "m_fullTavernBoardPrefab": "Wonders_1T_Board.prefab:a69f8df92733f834e8198bfa43a08802",
+            "m_fullTavernBoardPrefabPhone": "Wonders_1T_Board_Phone.prefab:79f2c3dcb88964f439de8b8bc6c24f81",
+            "m_collectionName": {
+                "m_locValues": [
+                    "Sands of Time",
+                    "Sande der Zeit",
+                    "Arenas del tiempo",
+                    "Arenas del tiempo",
+                    "Sables du temps",
+                    "Sabbie del Tempo",
+                    "時の砂",
+                    "시간의 모래",
+                    "Piaski czasu",
+                    "Areias do Tempo",
+                    "Пески времени",
+                    "ทรายแห่งเวลา",
+                    "时间之沙",
+                    "時間之沙"
+                ],
+                "m_locId": 2878862
+            },
+            "m_collectionShortName": {
+                "m_locValues": [
+                    "Sands of Time",
+                    "Sande der Zeit",
+                    "Arenas del tiempo",
+                    "Arenas del tiempo",
+                    "Sables du temps",
+                    "Sabbie del Tempo",
+                    "時の砂",
+                    "시간의 모래",
+                    "Piaski czasu",
+                    "Areias do Tempo",
+                    "Пески времени",
+                    "ทรายแห่งเวลา",
+                    "时间之沙",
+                    "時間之沙"
+                ],
+                "m_locId": 2880426
+            },
+            "m_description": {
+                "m_locValues": [
+                    "They can fall backwards, forwards, or even sideways!\n\nPurchasable when available in the shop.",
+                    "Sie können nach hinten, nach vorne oder sogar zur Seite fallen!\n\nKann bei Verfügbarkeit im Shop erworben werden.",
+                    "¡Caen hacia atrás, hacia delante e incluso de lado!\n\nSe compra en la tienda cuando esté disponible.",
+                    "¡Caen hacia atrás, hacia delante e incluso de lado!\n\nSe puede comprar si está disponible en la tienda.",
+                    "Ils s’écoulent parfois à l’endroit, parfois à l’envers, et parfois même en spirale !\n\nCe plateau s’obtient en l’achetant lorsqu’il est disponible dans la boutique.",
+                    "Cadono in avanti, all'indietro o addirittura di lato!\n\nAcquistabile quando disponibile nel negozio.",
+                    "七転八倒どころか、千転万倒だってできるぞ！\n\nショップでの販売時に購入可能。",
+                    "사방으로 흘러내릴 수 있습니다!\n\n상점에서 판매 시 구매하여 획득",
+                    "Przesypują się do tyłu, do przodu, a nawet na boki!\n\nDo zakupu po udostępnieniu w sklepie.",
+                    "Podem recuar, avançar ou até ir para o lado!\n\nPossível de adquirir quando disponível na loja.",
+                    "Эти пески могут течь назад, вперед и даже вбок!\n\nМожно приобрести в магазине.",
+                    "มันอาจไหลย้อนกลับ ไปข้างหน้า หรือไปด้านข้างก็ได้!\n\nซื้อได้เมื่อวางจำหน่ายในร้านค้า",
+                    "可以倒流，正流，甚至测流！\n\n可以在上架期间在商店购买。",
+                    "可以向後、向前，甚至是向側邊傾倒！\n\n於商店上架時購買取得。"
+                ],
+                "m_locId": 2880427
+            },
+            "m_detailsTexture": "",
+            "m_detailsTexturePhone": "",
+            "m_detailsMovie": "",
+            "m_detailsMoviePhone": "",
+            "m_detailsRenderConfig": "Wonders_Board_Config.asset:7a84c7c000c10d6439f85362a8e20bfb",
+            "m_borderType": 1
+        },
+        {
             "m_ID": 54,
             "m_enabled": 1,
             "m_rarityId": 3,
@@ -1592,6 +1520,78 @@
             "m_detailsMovie": "",
             "m_detailsMoviePhone": "",
             "m_detailsRenderConfig": "10thAnnie_Board_Configuration.asset:9dc24993d3d5a4749833a0e4cc0acab1",
+            "m_borderType": 0
+        },
+        {
+            "m_ID": 50,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_fullBoardPrefab": "HCHallowsEnd_Board.prefab:3514999b4e2092d43a4519311ae5160d",
+            "m_fullBoardPrefabPhone": "HCHallowsEnd_Board_Phone.prefab:afad1f1b3e1cd4644b8c5917a0e59c43",
+            "m_fullTavernBoardPrefab": "Default_1T_Board.prefab:3e3de375694b2504cb99031806d0d068",
+            "m_fullTavernBoardPrefabPhone": "Default_1T_Board_Phone.prefab:9fc3c1e16769c6b4982d89c6b7c43843",
+            "m_collectionName": {
+                "m_locValues": [
+                    "Creepy Crypt",
+                    "Unheimliche Gruft",
+                    "Tétrica cripta",
+                    "Cripta espeluznante",
+                    "Crypte effrayante",
+                    "Cripta Inquietante",
+                    "クリーピー・クリプト",
+                    "섬뜩한 묘실",
+                    "Koszmarna Krypta",
+                    "Cripta Sinistra",
+                    "Страшный склеп",
+                    "สุสานสยองขวัญ",
+                    "恐怖地穴",
+                    "恐怖墓穴"
+                ],
+                "m_locId": 2880425
+            },
+            "m_collectionShortName": {
+                "m_locValues": [
+                    "Creepy Crypt",
+                    "Unheimliche Gruft",
+                    "Tétrica cripta",
+                    "Cripta espeluznante",
+                    "Crypte effrayante",
+                    "Cripta Inquietante",
+                    "クリーピー・クリプト",
+                    "섬뜩한 묘실",
+                    "Koszmarna Krypta",
+                    "Cripta Sinistra",
+                    "Страшный склеп",
+                    "สุสานสยองขวัญ",
+                    "恐怖地穴",
+                    "恐怖墓穴"
+                ],
+                "m_locId": 2884613
+            },
+            "m_description": {
+                "m_locValues": [
+                    "Get in the spooky spirit with this haunted cemetery featuring its own friendly ghost.\n\nPurchasable when available in the shop.",
+                    "Kommt in Gruselstimmung mithilfe dieses heimgesuchten Friedhofs. Freundlicher Geist inklusive.\n\nKann bei Verfügbarkeit im Shop erworben werden.",
+                    "Contágiate del espíritu terrorífico de Halloween con este cementerio encantado que viene con un fantasma amistoso incluido. Se compra en la tienda cuando esté disponible.",
+                    "Contágiate del espíritu del terror con este cementerio embrujado. Incluye su propio fantasma. Se puede comprar si está disponible en la tienda.",
+                    "Ce cimetière et le fantôme qui le hante vous donneront la chair de poule. Ce plateau s’obtient en l’achetant lorsqu’il est disponible dans la boutique.",
+                    "Immergiti in un’atmosfera tenebrosa con questo cimitero infestato e il suo amichevole fantasma. Acquistabile quando disponibile nel negozio.",
+                    "気さくな幽霊が憑りつく呪われた墓地で、ドッキリ体験を味わおう。ショップでの販売時に購入可能。",
+                    "친숙한 유령이 등장하는 이 귀신 들린 묘실에서 섬뜩한 분위기를 체험하세요. 상점에서 판매 시 구매하여 획득",
+                    "Poczuj klimat grozy tego cmentarzyska nawiedzanego przez przyjaznego ducha. Do zakupu po udostępnieniu w sklepie.",
+                    "Entre no espírito assustador com este cemitério assombrado com seu fantasma aliado. Possível de adquirir quando disponível na loja.",
+                    "Проникнитесь атмосферой ужаса благодаря этому кладбищу с призраками — один из которых, впрочем, настроен дружелюбно. Можно приобрести в магазине.",
+                    "ต้อนรับบรรยากาศขนหัวลุก[b]ด้วยสุสานผีสิงแห่งนี้ที่มาพร้อม[b]ผีเพื่อนรัก หาได้จากการซื้อใน[b]ร้านค้า",
+                    "墓园中的鬼灵生性友善，都来浸入这鬼灵精怪的氛围吧。\n\n可以在上架期间在商店购买。",
+                    "在這個鬧鬼的墓地感受一下可怕氣氛，而且裡面還居住著友善的鬼魂。於商店上架時購買取得。"
+                ],
+                "m_locId": 2885277
+            },
+            "m_detailsTexture": "",
+            "m_detailsTexturePhone": "",
+            "m_detailsMovie": "",
+            "m_detailsMoviePhone": "",
+            "m_detailsRenderConfig": "HCHallowsEnd_Board_Config.asset:4a5b1f210fdd39f4284c70459003f1af",
             "m_borderType": 0
         }
     ]

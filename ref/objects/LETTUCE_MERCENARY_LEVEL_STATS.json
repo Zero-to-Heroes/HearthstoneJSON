@@ -53351,846 +53351,6 @@
             "m_health": 85
         },
         {
-            "m_ID": 41,
-            "m_lettuceMercenaryId": 45,
-            "m_lettuceMercenaryLevelId": 1,
-            "m_attack": 1,
-            "m_health": 8
-        },
-        {
-            "m_ID": 42,
-            "m_lettuceMercenaryId": 45,
-            "m_lettuceMercenaryLevelId": 2,
-            "m_attack": 1,
-            "m_health": 10
-        },
-        {
-            "m_ID": 43,
-            "m_lettuceMercenaryId": 45,
-            "m_lettuceMercenaryLevelId": 3,
-            "m_attack": 1,
-            "m_health": 13
-        },
-        {
-            "m_ID": 44,
-            "m_lettuceMercenaryId": 45,
-            "m_lettuceMercenaryLevelId": 4,
-            "m_attack": 1,
-            "m_health": 15
-        },
-        {
-            "m_ID": 45,
-            "m_lettuceMercenaryId": 45,
-            "m_lettuceMercenaryLevelId": 5,
-            "m_attack": 2,
-            "m_health": 18
-        },
-        {
-            "m_ID": 7018,
-            "m_lettuceMercenaryId": 45,
-            "m_lettuceMercenaryLevelId": 6,
-            "m_attack": 2,
-            "m_health": 20
-        },
-        {
-            "m_ID": 7019,
-            "m_lettuceMercenaryId": 45,
-            "m_lettuceMercenaryLevelId": 7,
-            "m_attack": 2,
-            "m_health": 23
-        },
-        {
-            "m_ID": 7020,
-            "m_lettuceMercenaryId": 45,
-            "m_lettuceMercenaryLevelId": 8,
-            "m_attack": 2,
-            "m_health": 25
-        },
-        {
-            "m_ID": 7021,
-            "m_lettuceMercenaryId": 45,
-            "m_lettuceMercenaryLevelId": 9,
-            "m_attack": 3,
-            "m_health": 28
-        },
-        {
-            "m_ID": 7022,
-            "m_lettuceMercenaryId": 45,
-            "m_lettuceMercenaryLevelId": 10,
-            "m_attack": 3,
-            "m_health": 30
-        },
-        {
-            "m_ID": 7023,
-            "m_lettuceMercenaryId": 45,
-            "m_lettuceMercenaryLevelId": 11,
-            "m_attack": 3,
-            "m_health": 33
-        },
-        {
-            "m_ID": 7024,
-            "m_lettuceMercenaryId": 45,
-            "m_lettuceMercenaryLevelId": 12,
-            "m_attack": 4,
-            "m_health": 36
-        },
-        {
-            "m_ID": 7025,
-            "m_lettuceMercenaryId": 45,
-            "m_lettuceMercenaryLevelId": 13,
-            "m_attack": 4,
-            "m_health": 38
-        },
-        {
-            "m_ID": 7026,
-            "m_lettuceMercenaryId": 45,
-            "m_lettuceMercenaryLevelId": 14,
-            "m_attack": 4,
-            "m_health": 41
-        },
-        {
-            "m_ID": 7027,
-            "m_lettuceMercenaryId": 45,
-            "m_lettuceMercenaryLevelId": 15,
-            "m_attack": 4,
-            "m_health": 43
-        },
-        {
-            "m_ID": 7028,
-            "m_lettuceMercenaryId": 45,
-            "m_lettuceMercenaryLevelId": 16,
-            "m_attack": 5,
-            "m_health": 46
-        },
-        {
-            "m_ID": 7029,
-            "m_lettuceMercenaryId": 45,
-            "m_lettuceMercenaryLevelId": 17,
-            "m_attack": 5,
-            "m_health": 48
-        },
-        {
-            "m_ID": 7030,
-            "m_lettuceMercenaryId": 45,
-            "m_lettuceMercenaryLevelId": 18,
-            "m_attack": 5,
-            "m_health": 51
-        },
-        {
-            "m_ID": 7031,
-            "m_lettuceMercenaryId": 45,
-            "m_lettuceMercenaryLevelId": 19,
-            "m_attack": 5,
-            "m_health": 53
-        },
-        {
-            "m_ID": 7032,
-            "m_lettuceMercenaryId": 45,
-            "m_lettuceMercenaryLevelId": 20,
-            "m_attack": 6,
-            "m_health": 56
-        },
-        {
-            "m_ID": 7033,
-            "m_lettuceMercenaryId": 45,
-            "m_lettuceMercenaryLevelId": 21,
-            "m_attack": 6,
-            "m_health": 59
-        },
-        {
-            "m_ID": 7034,
-            "m_lettuceMercenaryId": 45,
-            "m_lettuceMercenaryLevelId": 22,
-            "m_attack": 6,
-            "m_health": 61
-        },
-        {
-            "m_ID": 7035,
-            "m_lettuceMercenaryId": 45,
-            "m_lettuceMercenaryLevelId": 23,
-            "m_attack": 7,
-            "m_health": 64
-        },
-        {
-            "m_ID": 7036,
-            "m_lettuceMercenaryId": 45,
-            "m_lettuceMercenaryLevelId": 24,
-            "m_attack": 7,
-            "m_health": 66
-        },
-        {
-            "m_ID": 7037,
-            "m_lettuceMercenaryId": 45,
-            "m_lettuceMercenaryLevelId": 25,
-            "m_attack": 7,
-            "m_health": 69
-        },
-        {
-            "m_ID": 7038,
-            "m_lettuceMercenaryId": 45,
-            "m_lettuceMercenaryLevelId": 26,
-            "m_attack": 7,
-            "m_health": 71
-        },
-        {
-            "m_ID": 7039,
-            "m_lettuceMercenaryId": 45,
-            "m_lettuceMercenaryLevelId": 27,
-            "m_attack": 8,
-            "m_health": 74
-        },
-        {
-            "m_ID": 7040,
-            "m_lettuceMercenaryId": 45,
-            "m_lettuceMercenaryLevelId": 28,
-            "m_attack": 8,
-            "m_health": 76
-        },
-        {
-            "m_ID": 7041,
-            "m_lettuceMercenaryId": 45,
-            "m_lettuceMercenaryLevelId": 29,
-            "m_attack": 8,
-            "m_health": 79
-        },
-        {
-            "m_ID": 7042,
-            "m_lettuceMercenaryId": 45,
-            "m_lettuceMercenaryLevelId": 30,
-            "m_attack": 9,
-            "m_health": 82
-        },
-        {
-            "m_ID": 7073,
-            "m_lettuceMercenaryId": 49,
-            "m_lettuceMercenaryLevelId": 1,
-            "m_attack": 3,
-            "m_health": 10
-        },
-        {
-            "m_ID": 7074,
-            "m_lettuceMercenaryId": 49,
-            "m_lettuceMercenaryLevelId": 2,
-            "m_attack": 3,
-            "m_health": 12
-        },
-        {
-            "m_ID": 7075,
-            "m_lettuceMercenaryId": 49,
-            "m_lettuceMercenaryLevelId": 3,
-            "m_attack": 3,
-            "m_health": 14
-        },
-        {
-            "m_ID": 7076,
-            "m_lettuceMercenaryId": 49,
-            "m_lettuceMercenaryLevelId": 4,
-            "m_attack": 3,
-            "m_health": 16
-        },
-        {
-            "m_ID": 7077,
-            "m_lettuceMercenaryId": 49,
-            "m_lettuceMercenaryLevelId": 5,
-            "m_attack": 3,
-            "m_health": 18
-        },
-        {
-            "m_ID": 7078,
-            "m_lettuceMercenaryId": 49,
-            "m_lettuceMercenaryLevelId": 6,
-            "m_attack": 4,
-            "m_health": 21
-        },
-        {
-            "m_ID": 7079,
-            "m_lettuceMercenaryId": 49,
-            "m_lettuceMercenaryLevelId": 7,
-            "m_attack": 4,
-            "m_health": 23
-        },
-        {
-            "m_ID": 7080,
-            "m_lettuceMercenaryId": 49,
-            "m_lettuceMercenaryLevelId": 8,
-            "m_attack": 4,
-            "m_health": 25
-        },
-        {
-            "m_ID": 7081,
-            "m_lettuceMercenaryId": 49,
-            "m_lettuceMercenaryLevelId": 9,
-            "m_attack": 4,
-            "m_health": 27
-        },
-        {
-            "m_ID": 7082,
-            "m_lettuceMercenaryId": 49,
-            "m_lettuceMercenaryLevelId": 10,
-            "m_attack": 5,
-            "m_health": 29
-        },
-        {
-            "m_ID": 7083,
-            "m_lettuceMercenaryId": 49,
-            "m_lettuceMercenaryLevelId": 11,
-            "m_attack": 5,
-            "m_health": 32
-        },
-        {
-            "m_ID": 7084,
-            "m_lettuceMercenaryId": 49,
-            "m_lettuceMercenaryLevelId": 12,
-            "m_attack": 5,
-            "m_health": 34
-        },
-        {
-            "m_ID": 7085,
-            "m_lettuceMercenaryId": 49,
-            "m_lettuceMercenaryLevelId": 13,
-            "m_attack": 5,
-            "m_health": 36
-        },
-        {
-            "m_ID": 7086,
-            "m_lettuceMercenaryId": 49,
-            "m_lettuceMercenaryLevelId": 14,
-            "m_attack": 6,
-            "m_health": 38
-        },
-        {
-            "m_ID": 7087,
-            "m_lettuceMercenaryId": 49,
-            "m_lettuceMercenaryLevelId": 15,
-            "m_attack": 6,
-            "m_health": 40
-        },
-        {
-            "m_ID": 7088,
-            "m_lettuceMercenaryId": 49,
-            "m_lettuceMercenaryLevelId": 16,
-            "m_attack": 6,
-            "m_health": 43
-        },
-        {
-            "m_ID": 7089,
-            "m_lettuceMercenaryId": 49,
-            "m_lettuceMercenaryLevelId": 17,
-            "m_attack": 6,
-            "m_health": 45
-        },
-        {
-            "m_ID": 7090,
-            "m_lettuceMercenaryId": 49,
-            "m_lettuceMercenaryLevelId": 18,
-            "m_attack": 7,
-            "m_health": 47
-        },
-        {
-            "m_ID": 7091,
-            "m_lettuceMercenaryId": 49,
-            "m_lettuceMercenaryLevelId": 19,
-            "m_attack": 7,
-            "m_health": 49
-        },
-        {
-            "m_ID": 7092,
-            "m_lettuceMercenaryId": 49,
-            "m_lettuceMercenaryLevelId": 20,
-            "m_attack": 7,
-            "m_health": 51
-        },
-        {
-            "m_ID": 7093,
-            "m_lettuceMercenaryId": 49,
-            "m_lettuceMercenaryLevelId": 21,
-            "m_attack": 7,
-            "m_health": 54
-        },
-        {
-            "m_ID": 7094,
-            "m_lettuceMercenaryId": 49,
-            "m_lettuceMercenaryLevelId": 22,
-            "m_attack": 8,
-            "m_health": 56
-        },
-        {
-            "m_ID": 7095,
-            "m_lettuceMercenaryId": 49,
-            "m_lettuceMercenaryLevelId": 23,
-            "m_attack": 8,
-            "m_health": 58
-        },
-        {
-            "m_ID": 7096,
-            "m_lettuceMercenaryId": 49,
-            "m_lettuceMercenaryLevelId": 24,
-            "m_attack": 8,
-            "m_health": 60
-        },
-        {
-            "m_ID": 7097,
-            "m_lettuceMercenaryId": 49,
-            "m_lettuceMercenaryLevelId": 25,
-            "m_attack": 8,
-            "m_health": 62
-        },
-        {
-            "m_ID": 7098,
-            "m_lettuceMercenaryId": 49,
-            "m_lettuceMercenaryLevelId": 26,
-            "m_attack": 9,
-            "m_health": 65
-        },
-        {
-            "m_ID": 7099,
-            "m_lettuceMercenaryId": 49,
-            "m_lettuceMercenaryLevelId": 27,
-            "m_attack": 9,
-            "m_health": 67
-        },
-        {
-            "m_ID": 7100,
-            "m_lettuceMercenaryId": 49,
-            "m_lettuceMercenaryLevelId": 28,
-            "m_attack": 9,
-            "m_health": 69
-        },
-        {
-            "m_ID": 7101,
-            "m_lettuceMercenaryId": 49,
-            "m_lettuceMercenaryLevelId": 29,
-            "m_attack": 9,
-            "m_health": 71
-        },
-        {
-            "m_ID": 7102,
-            "m_lettuceMercenaryId": 49,
-            "m_lettuceMercenaryLevelId": 30,
-            "m_attack": 10,
-            "m_health": 74
-        },
-        {
-            "m_ID": 4953,
-            "m_lettuceMercenaryId": 5,
-            "m_lettuceMercenaryLevelId": 1,
-            "m_attack": 1,
-            "m_health": 8
-        },
-        {
-            "m_ID": 4954,
-            "m_lettuceMercenaryId": 5,
-            "m_lettuceMercenaryLevelId": 2,
-            "m_attack": 1,
-            "m_health": 10
-        },
-        {
-            "m_ID": 4955,
-            "m_lettuceMercenaryId": 5,
-            "m_lettuceMercenaryLevelId": 3,
-            "m_attack": 1,
-            "m_health": 12
-        },
-        {
-            "m_ID": 4956,
-            "m_lettuceMercenaryId": 5,
-            "m_lettuceMercenaryLevelId": 4,
-            "m_attack": 1,
-            "m_health": 14
-        },
-        {
-            "m_ID": 4957,
-            "m_lettuceMercenaryId": 5,
-            "m_lettuceMercenaryLevelId": 5,
-            "m_attack": 1,
-            "m_health": 17
-        },
-        {
-            "m_ID": 4958,
-            "m_lettuceMercenaryId": 5,
-            "m_lettuceMercenaryLevelId": 6,
-            "m_attack": 1,
-            "m_health": 19
-        },
-        {
-            "m_ID": 4959,
-            "m_lettuceMercenaryId": 5,
-            "m_lettuceMercenaryLevelId": 7,
-            "m_attack": 2,
-            "m_health": 21
-        },
-        {
-            "m_ID": 4960,
-            "m_lettuceMercenaryId": 5,
-            "m_lettuceMercenaryLevelId": 8,
-            "m_attack": 2,
-            "m_health": 23
-        },
-        {
-            "m_ID": 4961,
-            "m_lettuceMercenaryId": 5,
-            "m_lettuceMercenaryLevelId": 9,
-            "m_attack": 2,
-            "m_health": 26
-        },
-        {
-            "m_ID": 4962,
-            "m_lettuceMercenaryId": 5,
-            "m_lettuceMercenaryLevelId": 10,
-            "m_attack": 2,
-            "m_health": 28
-        },
-        {
-            "m_ID": 4963,
-            "m_lettuceMercenaryId": 5,
-            "m_lettuceMercenaryLevelId": 11,
-            "m_attack": 2,
-            "m_health": 30
-        },
-        {
-            "m_ID": 4964,
-            "m_lettuceMercenaryId": 5,
-            "m_lettuceMercenaryLevelId": 12,
-            "m_attack": 2,
-            "m_health": 33
-        },
-        {
-            "m_ID": 4965,
-            "m_lettuceMercenaryId": 5,
-            "m_lettuceMercenaryLevelId": 13,
-            "m_attack": 3,
-            "m_health": 35
-        },
-        {
-            "m_ID": 4966,
-            "m_lettuceMercenaryId": 5,
-            "m_lettuceMercenaryLevelId": 14,
-            "m_attack": 3,
-            "m_health": 37
-        },
-        {
-            "m_ID": 4967,
-            "m_lettuceMercenaryId": 5,
-            "m_lettuceMercenaryLevelId": 15,
-            "m_attack": 3,
-            "m_health": 39
-        },
-        {
-            "m_ID": 4968,
-            "m_lettuceMercenaryId": 5,
-            "m_lettuceMercenaryLevelId": 16,
-            "m_attack": 3,
-            "m_health": 42
-        },
-        {
-            "m_ID": 4969,
-            "m_lettuceMercenaryId": 5,
-            "m_lettuceMercenaryLevelId": 17,
-            "m_attack": 3,
-            "m_health": 44
-        },
-        {
-            "m_ID": 4970,
-            "m_lettuceMercenaryId": 5,
-            "m_lettuceMercenaryLevelId": 18,
-            "m_attack": 3,
-            "m_health": 46
-        },
-        {
-            "m_ID": 4971,
-            "m_lettuceMercenaryId": 5,
-            "m_lettuceMercenaryLevelId": 19,
-            "m_attack": 4,
-            "m_health": 48
-        },
-        {
-            "m_ID": 4972,
-            "m_lettuceMercenaryId": 5,
-            "m_lettuceMercenaryLevelId": 20,
-            "m_attack": 4,
-            "m_health": 51
-        },
-        {
-            "m_ID": 4973,
-            "m_lettuceMercenaryId": 5,
-            "m_lettuceMercenaryLevelId": 21,
-            "m_attack": 4,
-            "m_health": 53
-        },
-        {
-            "m_ID": 4974,
-            "m_lettuceMercenaryId": 5,
-            "m_lettuceMercenaryLevelId": 22,
-            "m_attack": 4,
-            "m_health": 55
-        },
-        {
-            "m_ID": 4975,
-            "m_lettuceMercenaryId": 5,
-            "m_lettuceMercenaryLevelId": 23,
-            "m_attack": 4,
-            "m_health": 58
-        },
-        {
-            "m_ID": 4976,
-            "m_lettuceMercenaryId": 5,
-            "m_lettuceMercenaryLevelId": 24,
-            "m_attack": 4,
-            "m_health": 60
-        },
-        {
-            "m_ID": 4977,
-            "m_lettuceMercenaryId": 5,
-            "m_lettuceMercenaryLevelId": 25,
-            "m_attack": 5,
-            "m_health": 62
-        },
-        {
-            "m_ID": 4978,
-            "m_lettuceMercenaryId": 5,
-            "m_lettuceMercenaryLevelId": 26,
-            "m_attack": 5,
-            "m_health": 64
-        },
-        {
-            "m_ID": 4979,
-            "m_lettuceMercenaryId": 5,
-            "m_lettuceMercenaryLevelId": 27,
-            "m_attack": 5,
-            "m_health": 67
-        },
-        {
-            "m_ID": 4980,
-            "m_lettuceMercenaryId": 5,
-            "m_lettuceMercenaryLevelId": 28,
-            "m_attack": 5,
-            "m_health": 69
-        },
-        {
-            "m_ID": 4981,
-            "m_lettuceMercenaryId": 5,
-            "m_lettuceMercenaryLevelId": 29,
-            "m_attack": 5,
-            "m_health": 71
-        },
-        {
-            "m_ID": 4982,
-            "m_lettuceMercenaryId": 5,
-            "m_lettuceMercenaryLevelId": 30,
-            "m_attack": 6,
-            "m_health": 74
-        },
-        {
-            "m_ID": 7103,
-            "m_lettuceMercenaryId": 50,
-            "m_lettuceMercenaryLevelId": 1,
-            "m_attack": 2,
-            "m_health": 13
-        },
-        {
-            "m_ID": 7104,
-            "m_lettuceMercenaryId": 50,
-            "m_lettuceMercenaryLevelId": 2,
-            "m_attack": 2,
-            "m_health": 15
-        },
-        {
-            "m_ID": 7105,
-            "m_lettuceMercenaryId": 50,
-            "m_lettuceMercenaryLevelId": 3,
-            "m_attack": 2,
-            "m_health": 17
-        },
-        {
-            "m_ID": 7106,
-            "m_lettuceMercenaryId": 50,
-            "m_lettuceMercenaryLevelId": 4,
-            "m_attack": 2,
-            "m_health": 19
-        },
-        {
-            "m_ID": 7107,
-            "m_lettuceMercenaryId": 50,
-            "m_lettuceMercenaryLevelId": 5,
-            "m_attack": 3,
-            "m_health": 22
-        },
-        {
-            "m_ID": 7108,
-            "m_lettuceMercenaryId": 50,
-            "m_lettuceMercenaryLevelId": 6,
-            "m_attack": 3,
-            "m_health": 24
-        },
-        {
-            "m_ID": 7109,
-            "m_lettuceMercenaryId": 50,
-            "m_lettuceMercenaryLevelId": 7,
-            "m_attack": 3,
-            "m_health": 26
-        },
-        {
-            "m_ID": 7110,
-            "m_lettuceMercenaryId": 50,
-            "m_lettuceMercenaryLevelId": 8,
-            "m_attack": 4,
-            "m_health": 28
-        },
-        {
-            "m_ID": 7111,
-            "m_lettuceMercenaryId": 50,
-            "m_lettuceMercenaryLevelId": 9,
-            "m_attack": 4,
-            "m_health": 31
-        },
-        {
-            "m_ID": 7112,
-            "m_lettuceMercenaryId": 50,
-            "m_lettuceMercenaryLevelId": 10,
-            "m_attack": 4,
-            "m_health": 33
-        },
-        {
-            "m_ID": 7113,
-            "m_lettuceMercenaryId": 50,
-            "m_lettuceMercenaryLevelId": 11,
-            "m_attack": 5,
-            "m_health": 35
-        },
-        {
-            "m_ID": 7114,
-            "m_lettuceMercenaryId": 50,
-            "m_lettuceMercenaryLevelId": 12,
-            "m_attack": 5,
-            "m_health": 38
-        },
-        {
-            "m_ID": 7115,
-            "m_lettuceMercenaryId": 50,
-            "m_lettuceMercenaryLevelId": 13,
-            "m_attack": 5,
-            "m_health": 40
-        },
-        {
-            "m_ID": 7116,
-            "m_lettuceMercenaryId": 50,
-            "m_lettuceMercenaryLevelId": 14,
-            "m_attack": 6,
-            "m_health": 42
-        },
-        {
-            "m_ID": 7117,
-            "m_lettuceMercenaryId": 50,
-            "m_lettuceMercenaryLevelId": 15,
-            "m_attack": 6,
-            "m_health": 44
-        },
-        {
-            "m_ID": 7118,
-            "m_lettuceMercenaryId": 50,
-            "m_lettuceMercenaryLevelId": 16,
-            "m_attack": 6,
-            "m_health": 47
-        },
-        {
-            "m_ID": 7119,
-            "m_lettuceMercenaryId": 50,
-            "m_lettuceMercenaryLevelId": 17,
-            "m_attack": 6,
-            "m_health": 49
-        },
-        {
-            "m_ID": 7120,
-            "m_lettuceMercenaryId": 50,
-            "m_lettuceMercenaryLevelId": 18,
-            "m_attack": 7,
-            "m_health": 51
-        },
-        {
-            "m_ID": 7121,
-            "m_lettuceMercenaryId": 50,
-            "m_lettuceMercenaryLevelId": 19,
-            "m_attack": 7,
-            "m_health": 53
-        },
-        {
-            "m_ID": 7122,
-            "m_lettuceMercenaryId": 50,
-            "m_lettuceMercenaryLevelId": 20,
-            "m_attack": 7,
-            "m_health": 56
-        },
-        {
-            "m_ID": 7123,
-            "m_lettuceMercenaryId": 50,
-            "m_lettuceMercenaryLevelId": 21,
-            "m_attack": 8,
-            "m_health": 58
-        },
-        {
-            "m_ID": 7124,
-            "m_lettuceMercenaryId": 50,
-            "m_lettuceMercenaryLevelId": 22,
-            "m_attack": 8,
-            "m_health": 60
-        },
-        {
-            "m_ID": 7125,
-            "m_lettuceMercenaryId": 50,
-            "m_lettuceMercenaryLevelId": 23,
-            "m_attack": 8,
-            "m_health": 63
-        },
-        {
-            "m_ID": 7126,
-            "m_lettuceMercenaryId": 50,
-            "m_lettuceMercenaryLevelId": 24,
-            "m_attack": 9,
-            "m_health": 65
-        },
-        {
-            "m_ID": 7127,
-            "m_lettuceMercenaryId": 50,
-            "m_lettuceMercenaryLevelId": 25,
-            "m_attack": 9,
-            "m_health": 67
-        },
-        {
-            "m_ID": 7128,
-            "m_lettuceMercenaryId": 50,
-            "m_lettuceMercenaryLevelId": 26,
-            "m_attack": 9,
-            "m_health": 69
-        },
-        {
-            "m_ID": 7129,
-            "m_lettuceMercenaryId": 50,
-            "m_lettuceMercenaryLevelId": 27,
-            "m_attack": 10,
-            "m_health": 72
-        },
-        {
-            "m_ID": 7130,
-            "m_lettuceMercenaryId": 50,
-            "m_lettuceMercenaryLevelId": 28,
-            "m_attack": 10,
-            "m_health": 74
-        },
-        {
-            "m_ID": 7131,
-            "m_lettuceMercenaryId": 50,
-            "m_lettuceMercenaryLevelId": 29,
-            "m_attack": 10,
-            "m_health": 76
-        },
-        {
-            "m_ID": 7132,
-            "m_lettuceMercenaryId": 50,
-            "m_lettuceMercenaryLevelId": 30,
-            "m_attack": 11,
-            "m_health": 79
-        },
-        {
             "m_ID": 7163,
             "m_lettuceMercenaryId": 52,
             "m_lettuceMercenaryLevelId": 1,
@@ -54611,6 +53771,426 @@
             "m_health": 66
         },
         {
+            "m_ID": 41,
+            "m_lettuceMercenaryId": 45,
+            "m_lettuceMercenaryLevelId": 1,
+            "m_attack": 1,
+            "m_health": 8
+        },
+        {
+            "m_ID": 42,
+            "m_lettuceMercenaryId": 45,
+            "m_lettuceMercenaryLevelId": 2,
+            "m_attack": 1,
+            "m_health": 10
+        },
+        {
+            "m_ID": 43,
+            "m_lettuceMercenaryId": 45,
+            "m_lettuceMercenaryLevelId": 3,
+            "m_attack": 1,
+            "m_health": 13
+        },
+        {
+            "m_ID": 44,
+            "m_lettuceMercenaryId": 45,
+            "m_lettuceMercenaryLevelId": 4,
+            "m_attack": 1,
+            "m_health": 15
+        },
+        {
+            "m_ID": 45,
+            "m_lettuceMercenaryId": 45,
+            "m_lettuceMercenaryLevelId": 5,
+            "m_attack": 2,
+            "m_health": 18
+        },
+        {
+            "m_ID": 7018,
+            "m_lettuceMercenaryId": 45,
+            "m_lettuceMercenaryLevelId": 6,
+            "m_attack": 2,
+            "m_health": 20
+        },
+        {
+            "m_ID": 7019,
+            "m_lettuceMercenaryId": 45,
+            "m_lettuceMercenaryLevelId": 7,
+            "m_attack": 2,
+            "m_health": 23
+        },
+        {
+            "m_ID": 7020,
+            "m_lettuceMercenaryId": 45,
+            "m_lettuceMercenaryLevelId": 8,
+            "m_attack": 2,
+            "m_health": 25
+        },
+        {
+            "m_ID": 7021,
+            "m_lettuceMercenaryId": 45,
+            "m_lettuceMercenaryLevelId": 9,
+            "m_attack": 3,
+            "m_health": 28
+        },
+        {
+            "m_ID": 7022,
+            "m_lettuceMercenaryId": 45,
+            "m_lettuceMercenaryLevelId": 10,
+            "m_attack": 3,
+            "m_health": 30
+        },
+        {
+            "m_ID": 7023,
+            "m_lettuceMercenaryId": 45,
+            "m_lettuceMercenaryLevelId": 11,
+            "m_attack": 3,
+            "m_health": 33
+        },
+        {
+            "m_ID": 7024,
+            "m_lettuceMercenaryId": 45,
+            "m_lettuceMercenaryLevelId": 12,
+            "m_attack": 4,
+            "m_health": 36
+        },
+        {
+            "m_ID": 7025,
+            "m_lettuceMercenaryId": 45,
+            "m_lettuceMercenaryLevelId": 13,
+            "m_attack": 4,
+            "m_health": 38
+        },
+        {
+            "m_ID": 7026,
+            "m_lettuceMercenaryId": 45,
+            "m_lettuceMercenaryLevelId": 14,
+            "m_attack": 4,
+            "m_health": 41
+        },
+        {
+            "m_ID": 7027,
+            "m_lettuceMercenaryId": 45,
+            "m_lettuceMercenaryLevelId": 15,
+            "m_attack": 4,
+            "m_health": 43
+        },
+        {
+            "m_ID": 7028,
+            "m_lettuceMercenaryId": 45,
+            "m_lettuceMercenaryLevelId": 16,
+            "m_attack": 5,
+            "m_health": 46
+        },
+        {
+            "m_ID": 7029,
+            "m_lettuceMercenaryId": 45,
+            "m_lettuceMercenaryLevelId": 17,
+            "m_attack": 5,
+            "m_health": 48
+        },
+        {
+            "m_ID": 7030,
+            "m_lettuceMercenaryId": 45,
+            "m_lettuceMercenaryLevelId": 18,
+            "m_attack": 5,
+            "m_health": 51
+        },
+        {
+            "m_ID": 7031,
+            "m_lettuceMercenaryId": 45,
+            "m_lettuceMercenaryLevelId": 19,
+            "m_attack": 5,
+            "m_health": 53
+        },
+        {
+            "m_ID": 7032,
+            "m_lettuceMercenaryId": 45,
+            "m_lettuceMercenaryLevelId": 20,
+            "m_attack": 6,
+            "m_health": 56
+        },
+        {
+            "m_ID": 7033,
+            "m_lettuceMercenaryId": 45,
+            "m_lettuceMercenaryLevelId": 21,
+            "m_attack": 6,
+            "m_health": 59
+        },
+        {
+            "m_ID": 7034,
+            "m_lettuceMercenaryId": 45,
+            "m_lettuceMercenaryLevelId": 22,
+            "m_attack": 6,
+            "m_health": 61
+        },
+        {
+            "m_ID": 7035,
+            "m_lettuceMercenaryId": 45,
+            "m_lettuceMercenaryLevelId": 23,
+            "m_attack": 7,
+            "m_health": 64
+        },
+        {
+            "m_ID": 7036,
+            "m_lettuceMercenaryId": 45,
+            "m_lettuceMercenaryLevelId": 24,
+            "m_attack": 7,
+            "m_health": 66
+        },
+        {
+            "m_ID": 7037,
+            "m_lettuceMercenaryId": 45,
+            "m_lettuceMercenaryLevelId": 25,
+            "m_attack": 7,
+            "m_health": 69
+        },
+        {
+            "m_ID": 7038,
+            "m_lettuceMercenaryId": 45,
+            "m_lettuceMercenaryLevelId": 26,
+            "m_attack": 7,
+            "m_health": 71
+        },
+        {
+            "m_ID": 7039,
+            "m_lettuceMercenaryId": 45,
+            "m_lettuceMercenaryLevelId": 27,
+            "m_attack": 8,
+            "m_health": 74
+        },
+        {
+            "m_ID": 7040,
+            "m_lettuceMercenaryId": 45,
+            "m_lettuceMercenaryLevelId": 28,
+            "m_attack": 8,
+            "m_health": 76
+        },
+        {
+            "m_ID": 7041,
+            "m_lettuceMercenaryId": 45,
+            "m_lettuceMercenaryLevelId": 29,
+            "m_attack": 8,
+            "m_health": 79
+        },
+        {
+            "m_ID": 7042,
+            "m_lettuceMercenaryId": 45,
+            "m_lettuceMercenaryLevelId": 30,
+            "m_attack": 9,
+            "m_health": 82
+        },
+        {
+            "m_ID": 7073,
+            "m_lettuceMercenaryId": 49,
+            "m_lettuceMercenaryLevelId": 1,
+            "m_attack": 3,
+            "m_health": 10
+        },
+        {
+            "m_ID": 7074,
+            "m_lettuceMercenaryId": 49,
+            "m_lettuceMercenaryLevelId": 2,
+            "m_attack": 3,
+            "m_health": 12
+        },
+        {
+            "m_ID": 7075,
+            "m_lettuceMercenaryId": 49,
+            "m_lettuceMercenaryLevelId": 3,
+            "m_attack": 3,
+            "m_health": 14
+        },
+        {
+            "m_ID": 7076,
+            "m_lettuceMercenaryId": 49,
+            "m_lettuceMercenaryLevelId": 4,
+            "m_attack": 3,
+            "m_health": 16
+        },
+        {
+            "m_ID": 7077,
+            "m_lettuceMercenaryId": 49,
+            "m_lettuceMercenaryLevelId": 5,
+            "m_attack": 3,
+            "m_health": 18
+        },
+        {
+            "m_ID": 7078,
+            "m_lettuceMercenaryId": 49,
+            "m_lettuceMercenaryLevelId": 6,
+            "m_attack": 4,
+            "m_health": 21
+        },
+        {
+            "m_ID": 7079,
+            "m_lettuceMercenaryId": 49,
+            "m_lettuceMercenaryLevelId": 7,
+            "m_attack": 4,
+            "m_health": 23
+        },
+        {
+            "m_ID": 7080,
+            "m_lettuceMercenaryId": 49,
+            "m_lettuceMercenaryLevelId": 8,
+            "m_attack": 4,
+            "m_health": 25
+        },
+        {
+            "m_ID": 7081,
+            "m_lettuceMercenaryId": 49,
+            "m_lettuceMercenaryLevelId": 9,
+            "m_attack": 4,
+            "m_health": 27
+        },
+        {
+            "m_ID": 7082,
+            "m_lettuceMercenaryId": 49,
+            "m_lettuceMercenaryLevelId": 10,
+            "m_attack": 5,
+            "m_health": 29
+        },
+        {
+            "m_ID": 7083,
+            "m_lettuceMercenaryId": 49,
+            "m_lettuceMercenaryLevelId": 11,
+            "m_attack": 5,
+            "m_health": 32
+        },
+        {
+            "m_ID": 7084,
+            "m_lettuceMercenaryId": 49,
+            "m_lettuceMercenaryLevelId": 12,
+            "m_attack": 5,
+            "m_health": 34
+        },
+        {
+            "m_ID": 7085,
+            "m_lettuceMercenaryId": 49,
+            "m_lettuceMercenaryLevelId": 13,
+            "m_attack": 5,
+            "m_health": 36
+        },
+        {
+            "m_ID": 7086,
+            "m_lettuceMercenaryId": 49,
+            "m_lettuceMercenaryLevelId": 14,
+            "m_attack": 6,
+            "m_health": 38
+        },
+        {
+            "m_ID": 7087,
+            "m_lettuceMercenaryId": 49,
+            "m_lettuceMercenaryLevelId": 15,
+            "m_attack": 6,
+            "m_health": 40
+        },
+        {
+            "m_ID": 7088,
+            "m_lettuceMercenaryId": 49,
+            "m_lettuceMercenaryLevelId": 16,
+            "m_attack": 6,
+            "m_health": 43
+        },
+        {
+            "m_ID": 7089,
+            "m_lettuceMercenaryId": 49,
+            "m_lettuceMercenaryLevelId": 17,
+            "m_attack": 6,
+            "m_health": 45
+        },
+        {
+            "m_ID": 7090,
+            "m_lettuceMercenaryId": 49,
+            "m_lettuceMercenaryLevelId": 18,
+            "m_attack": 7,
+            "m_health": 47
+        },
+        {
+            "m_ID": 7091,
+            "m_lettuceMercenaryId": 49,
+            "m_lettuceMercenaryLevelId": 19,
+            "m_attack": 7,
+            "m_health": 49
+        },
+        {
+            "m_ID": 7092,
+            "m_lettuceMercenaryId": 49,
+            "m_lettuceMercenaryLevelId": 20,
+            "m_attack": 7,
+            "m_health": 51
+        },
+        {
+            "m_ID": 7093,
+            "m_lettuceMercenaryId": 49,
+            "m_lettuceMercenaryLevelId": 21,
+            "m_attack": 7,
+            "m_health": 54
+        },
+        {
+            "m_ID": 7094,
+            "m_lettuceMercenaryId": 49,
+            "m_lettuceMercenaryLevelId": 22,
+            "m_attack": 8,
+            "m_health": 56
+        },
+        {
+            "m_ID": 7095,
+            "m_lettuceMercenaryId": 49,
+            "m_lettuceMercenaryLevelId": 23,
+            "m_attack": 8,
+            "m_health": 58
+        },
+        {
+            "m_ID": 7096,
+            "m_lettuceMercenaryId": 49,
+            "m_lettuceMercenaryLevelId": 24,
+            "m_attack": 8,
+            "m_health": 60
+        },
+        {
+            "m_ID": 7097,
+            "m_lettuceMercenaryId": 49,
+            "m_lettuceMercenaryLevelId": 25,
+            "m_attack": 8,
+            "m_health": 62
+        },
+        {
+            "m_ID": 7098,
+            "m_lettuceMercenaryId": 49,
+            "m_lettuceMercenaryLevelId": 26,
+            "m_attack": 9,
+            "m_health": 65
+        },
+        {
+            "m_ID": 7099,
+            "m_lettuceMercenaryId": 49,
+            "m_lettuceMercenaryLevelId": 27,
+            "m_attack": 9,
+            "m_health": 67
+        },
+        {
+            "m_ID": 7100,
+            "m_lettuceMercenaryId": 49,
+            "m_lettuceMercenaryLevelId": 28,
+            "m_attack": 9,
+            "m_health": 69
+        },
+        {
+            "m_ID": 7101,
+            "m_lettuceMercenaryId": 49,
+            "m_lettuceMercenaryLevelId": 29,
+            "m_attack": 9,
+            "m_health": 71
+        },
+        {
+            "m_ID": 7102,
+            "m_lettuceMercenaryId": 49,
+            "m_lettuceMercenaryLevelId": 30,
+            "m_attack": 10,
+            "m_health": 74
+        },
+        {
             "m_ID": 7223,
             "m_lettuceMercenaryId": 54,
             "m_lettuceMercenaryLevelId": 1,
@@ -54819,6 +54399,216 @@
             "m_lettuceMercenaryLevelId": 30,
             "m_attack": 12,
             "m_health": 79
+        },
+        {
+            "m_ID": 4953,
+            "m_lettuceMercenaryId": 5,
+            "m_lettuceMercenaryLevelId": 1,
+            "m_attack": 1,
+            "m_health": 8
+        },
+        {
+            "m_ID": 4954,
+            "m_lettuceMercenaryId": 5,
+            "m_lettuceMercenaryLevelId": 2,
+            "m_attack": 1,
+            "m_health": 10
+        },
+        {
+            "m_ID": 4955,
+            "m_lettuceMercenaryId": 5,
+            "m_lettuceMercenaryLevelId": 3,
+            "m_attack": 1,
+            "m_health": 12
+        },
+        {
+            "m_ID": 4956,
+            "m_lettuceMercenaryId": 5,
+            "m_lettuceMercenaryLevelId": 4,
+            "m_attack": 1,
+            "m_health": 14
+        },
+        {
+            "m_ID": 4957,
+            "m_lettuceMercenaryId": 5,
+            "m_lettuceMercenaryLevelId": 5,
+            "m_attack": 1,
+            "m_health": 17
+        },
+        {
+            "m_ID": 4958,
+            "m_lettuceMercenaryId": 5,
+            "m_lettuceMercenaryLevelId": 6,
+            "m_attack": 1,
+            "m_health": 19
+        },
+        {
+            "m_ID": 4959,
+            "m_lettuceMercenaryId": 5,
+            "m_lettuceMercenaryLevelId": 7,
+            "m_attack": 2,
+            "m_health": 21
+        },
+        {
+            "m_ID": 4960,
+            "m_lettuceMercenaryId": 5,
+            "m_lettuceMercenaryLevelId": 8,
+            "m_attack": 2,
+            "m_health": 23
+        },
+        {
+            "m_ID": 4961,
+            "m_lettuceMercenaryId": 5,
+            "m_lettuceMercenaryLevelId": 9,
+            "m_attack": 2,
+            "m_health": 26
+        },
+        {
+            "m_ID": 4962,
+            "m_lettuceMercenaryId": 5,
+            "m_lettuceMercenaryLevelId": 10,
+            "m_attack": 2,
+            "m_health": 28
+        },
+        {
+            "m_ID": 4963,
+            "m_lettuceMercenaryId": 5,
+            "m_lettuceMercenaryLevelId": 11,
+            "m_attack": 2,
+            "m_health": 30
+        },
+        {
+            "m_ID": 4964,
+            "m_lettuceMercenaryId": 5,
+            "m_lettuceMercenaryLevelId": 12,
+            "m_attack": 2,
+            "m_health": 33
+        },
+        {
+            "m_ID": 4965,
+            "m_lettuceMercenaryId": 5,
+            "m_lettuceMercenaryLevelId": 13,
+            "m_attack": 3,
+            "m_health": 35
+        },
+        {
+            "m_ID": 4966,
+            "m_lettuceMercenaryId": 5,
+            "m_lettuceMercenaryLevelId": 14,
+            "m_attack": 3,
+            "m_health": 37
+        },
+        {
+            "m_ID": 4967,
+            "m_lettuceMercenaryId": 5,
+            "m_lettuceMercenaryLevelId": 15,
+            "m_attack": 3,
+            "m_health": 39
+        },
+        {
+            "m_ID": 4968,
+            "m_lettuceMercenaryId": 5,
+            "m_lettuceMercenaryLevelId": 16,
+            "m_attack": 3,
+            "m_health": 42
+        },
+        {
+            "m_ID": 4969,
+            "m_lettuceMercenaryId": 5,
+            "m_lettuceMercenaryLevelId": 17,
+            "m_attack": 3,
+            "m_health": 44
+        },
+        {
+            "m_ID": 4970,
+            "m_lettuceMercenaryId": 5,
+            "m_lettuceMercenaryLevelId": 18,
+            "m_attack": 3,
+            "m_health": 46
+        },
+        {
+            "m_ID": 4971,
+            "m_lettuceMercenaryId": 5,
+            "m_lettuceMercenaryLevelId": 19,
+            "m_attack": 4,
+            "m_health": 48
+        },
+        {
+            "m_ID": 4972,
+            "m_lettuceMercenaryId": 5,
+            "m_lettuceMercenaryLevelId": 20,
+            "m_attack": 4,
+            "m_health": 51
+        },
+        {
+            "m_ID": 4973,
+            "m_lettuceMercenaryId": 5,
+            "m_lettuceMercenaryLevelId": 21,
+            "m_attack": 4,
+            "m_health": 53
+        },
+        {
+            "m_ID": 4974,
+            "m_lettuceMercenaryId": 5,
+            "m_lettuceMercenaryLevelId": 22,
+            "m_attack": 4,
+            "m_health": 55
+        },
+        {
+            "m_ID": 4975,
+            "m_lettuceMercenaryId": 5,
+            "m_lettuceMercenaryLevelId": 23,
+            "m_attack": 4,
+            "m_health": 58
+        },
+        {
+            "m_ID": 4976,
+            "m_lettuceMercenaryId": 5,
+            "m_lettuceMercenaryLevelId": 24,
+            "m_attack": 4,
+            "m_health": 60
+        },
+        {
+            "m_ID": 4977,
+            "m_lettuceMercenaryId": 5,
+            "m_lettuceMercenaryLevelId": 25,
+            "m_attack": 5,
+            "m_health": 62
+        },
+        {
+            "m_ID": 4978,
+            "m_lettuceMercenaryId": 5,
+            "m_lettuceMercenaryLevelId": 26,
+            "m_attack": 5,
+            "m_health": 64
+        },
+        {
+            "m_ID": 4979,
+            "m_lettuceMercenaryId": 5,
+            "m_lettuceMercenaryLevelId": 27,
+            "m_attack": 5,
+            "m_health": 67
+        },
+        {
+            "m_ID": 4980,
+            "m_lettuceMercenaryId": 5,
+            "m_lettuceMercenaryLevelId": 28,
+            "m_attack": 5,
+            "m_health": 69
+        },
+        {
+            "m_ID": 4981,
+            "m_lettuceMercenaryId": 5,
+            "m_lettuceMercenaryLevelId": 29,
+            "m_attack": 5,
+            "m_health": 71
+        },
+        {
+            "m_ID": 4982,
+            "m_lettuceMercenaryId": 5,
+            "m_lettuceMercenaryLevelId": 30,
+            "m_attack": 6,
+            "m_health": 74
         },
         {
             "m_ID": 7253,
@@ -55661,6 +55451,426 @@
             "m_health": 69
         },
         {
+            "m_ID": 7103,
+            "m_lettuceMercenaryId": 50,
+            "m_lettuceMercenaryLevelId": 1,
+            "m_attack": 2,
+            "m_health": 13
+        },
+        {
+            "m_ID": 7104,
+            "m_lettuceMercenaryId": 50,
+            "m_lettuceMercenaryLevelId": 2,
+            "m_attack": 2,
+            "m_health": 15
+        },
+        {
+            "m_ID": 7105,
+            "m_lettuceMercenaryId": 50,
+            "m_lettuceMercenaryLevelId": 3,
+            "m_attack": 2,
+            "m_health": 17
+        },
+        {
+            "m_ID": 7106,
+            "m_lettuceMercenaryId": 50,
+            "m_lettuceMercenaryLevelId": 4,
+            "m_attack": 2,
+            "m_health": 19
+        },
+        {
+            "m_ID": 7107,
+            "m_lettuceMercenaryId": 50,
+            "m_lettuceMercenaryLevelId": 5,
+            "m_attack": 3,
+            "m_health": 22
+        },
+        {
+            "m_ID": 7108,
+            "m_lettuceMercenaryId": 50,
+            "m_lettuceMercenaryLevelId": 6,
+            "m_attack": 3,
+            "m_health": 24
+        },
+        {
+            "m_ID": 7109,
+            "m_lettuceMercenaryId": 50,
+            "m_lettuceMercenaryLevelId": 7,
+            "m_attack": 3,
+            "m_health": 26
+        },
+        {
+            "m_ID": 7110,
+            "m_lettuceMercenaryId": 50,
+            "m_lettuceMercenaryLevelId": 8,
+            "m_attack": 4,
+            "m_health": 28
+        },
+        {
+            "m_ID": 7111,
+            "m_lettuceMercenaryId": 50,
+            "m_lettuceMercenaryLevelId": 9,
+            "m_attack": 4,
+            "m_health": 31
+        },
+        {
+            "m_ID": 7112,
+            "m_lettuceMercenaryId": 50,
+            "m_lettuceMercenaryLevelId": 10,
+            "m_attack": 4,
+            "m_health": 33
+        },
+        {
+            "m_ID": 7113,
+            "m_lettuceMercenaryId": 50,
+            "m_lettuceMercenaryLevelId": 11,
+            "m_attack": 5,
+            "m_health": 35
+        },
+        {
+            "m_ID": 7114,
+            "m_lettuceMercenaryId": 50,
+            "m_lettuceMercenaryLevelId": 12,
+            "m_attack": 5,
+            "m_health": 38
+        },
+        {
+            "m_ID": 7115,
+            "m_lettuceMercenaryId": 50,
+            "m_lettuceMercenaryLevelId": 13,
+            "m_attack": 5,
+            "m_health": 40
+        },
+        {
+            "m_ID": 7116,
+            "m_lettuceMercenaryId": 50,
+            "m_lettuceMercenaryLevelId": 14,
+            "m_attack": 6,
+            "m_health": 42
+        },
+        {
+            "m_ID": 7117,
+            "m_lettuceMercenaryId": 50,
+            "m_lettuceMercenaryLevelId": 15,
+            "m_attack": 6,
+            "m_health": 44
+        },
+        {
+            "m_ID": 7118,
+            "m_lettuceMercenaryId": 50,
+            "m_lettuceMercenaryLevelId": 16,
+            "m_attack": 6,
+            "m_health": 47
+        },
+        {
+            "m_ID": 7119,
+            "m_lettuceMercenaryId": 50,
+            "m_lettuceMercenaryLevelId": 17,
+            "m_attack": 6,
+            "m_health": 49
+        },
+        {
+            "m_ID": 7120,
+            "m_lettuceMercenaryId": 50,
+            "m_lettuceMercenaryLevelId": 18,
+            "m_attack": 7,
+            "m_health": 51
+        },
+        {
+            "m_ID": 7121,
+            "m_lettuceMercenaryId": 50,
+            "m_lettuceMercenaryLevelId": 19,
+            "m_attack": 7,
+            "m_health": 53
+        },
+        {
+            "m_ID": 7122,
+            "m_lettuceMercenaryId": 50,
+            "m_lettuceMercenaryLevelId": 20,
+            "m_attack": 7,
+            "m_health": 56
+        },
+        {
+            "m_ID": 7123,
+            "m_lettuceMercenaryId": 50,
+            "m_lettuceMercenaryLevelId": 21,
+            "m_attack": 8,
+            "m_health": 58
+        },
+        {
+            "m_ID": 7124,
+            "m_lettuceMercenaryId": 50,
+            "m_lettuceMercenaryLevelId": 22,
+            "m_attack": 8,
+            "m_health": 60
+        },
+        {
+            "m_ID": 7125,
+            "m_lettuceMercenaryId": 50,
+            "m_lettuceMercenaryLevelId": 23,
+            "m_attack": 8,
+            "m_health": 63
+        },
+        {
+            "m_ID": 7126,
+            "m_lettuceMercenaryId": 50,
+            "m_lettuceMercenaryLevelId": 24,
+            "m_attack": 9,
+            "m_health": 65
+        },
+        {
+            "m_ID": 7127,
+            "m_lettuceMercenaryId": 50,
+            "m_lettuceMercenaryLevelId": 25,
+            "m_attack": 9,
+            "m_health": 67
+        },
+        {
+            "m_ID": 7128,
+            "m_lettuceMercenaryId": 50,
+            "m_lettuceMercenaryLevelId": 26,
+            "m_attack": 9,
+            "m_health": 69
+        },
+        {
+            "m_ID": 7129,
+            "m_lettuceMercenaryId": 50,
+            "m_lettuceMercenaryLevelId": 27,
+            "m_attack": 10,
+            "m_health": 72
+        },
+        {
+            "m_ID": 7130,
+            "m_lettuceMercenaryId": 50,
+            "m_lettuceMercenaryLevelId": 28,
+            "m_attack": 10,
+            "m_health": 74
+        },
+        {
+            "m_ID": 7131,
+            "m_lettuceMercenaryId": 50,
+            "m_lettuceMercenaryLevelId": 29,
+            "m_attack": 10,
+            "m_health": 76
+        },
+        {
+            "m_ID": 7132,
+            "m_lettuceMercenaryId": 50,
+            "m_lettuceMercenaryLevelId": 30,
+            "m_attack": 11,
+            "m_health": 79
+        },
+        {
+            "m_ID": 5193,
+            "m_lettuceMercenaryId": 9,
+            "m_lettuceMercenaryLevelId": 1,
+            "m_attack": 3,
+            "m_health": 13
+        },
+        {
+            "m_ID": 5194,
+            "m_lettuceMercenaryId": 9,
+            "m_lettuceMercenaryLevelId": 2,
+            "m_attack": 3,
+            "m_health": 15
+        },
+        {
+            "m_ID": 5195,
+            "m_lettuceMercenaryId": 9,
+            "m_lettuceMercenaryLevelId": 3,
+            "m_attack": 3,
+            "m_health": 17
+        },
+        {
+            "m_ID": 5196,
+            "m_lettuceMercenaryId": 9,
+            "m_lettuceMercenaryLevelId": 4,
+            "m_attack": 3,
+            "m_health": 19
+        },
+        {
+            "m_ID": 5197,
+            "m_lettuceMercenaryId": 9,
+            "m_lettuceMercenaryLevelId": 5,
+            "m_attack": 4,
+            "m_health": 21
+        },
+        {
+            "m_ID": 5198,
+            "m_lettuceMercenaryId": 9,
+            "m_lettuceMercenaryLevelId": 6,
+            "m_attack": 4,
+            "m_health": 24
+        },
+        {
+            "m_ID": 5199,
+            "m_lettuceMercenaryId": 9,
+            "m_lettuceMercenaryLevelId": 7,
+            "m_attack": 4,
+            "m_health": 26
+        },
+        {
+            "m_ID": 5200,
+            "m_lettuceMercenaryId": 9,
+            "m_lettuceMercenaryLevelId": 8,
+            "m_attack": 5,
+            "m_health": 28
+        },
+        {
+            "m_ID": 5201,
+            "m_lettuceMercenaryId": 9,
+            "m_lettuceMercenaryLevelId": 9,
+            "m_attack": 5,
+            "m_health": 30
+        },
+        {
+            "m_ID": 5202,
+            "m_lettuceMercenaryId": 9,
+            "m_lettuceMercenaryLevelId": 10,
+            "m_attack": 5,
+            "m_health": 33
+        },
+        {
+            "m_ID": 5203,
+            "m_lettuceMercenaryId": 9,
+            "m_lettuceMercenaryLevelId": 11,
+            "m_attack": 6,
+            "m_health": 35
+        },
+        {
+            "m_ID": 5204,
+            "m_lettuceMercenaryId": 9,
+            "m_lettuceMercenaryLevelId": 12,
+            "m_attack": 6,
+            "m_health": 37
+        },
+        {
+            "m_ID": 5205,
+            "m_lettuceMercenaryId": 9,
+            "m_lettuceMercenaryLevelId": 13,
+            "m_attack": 6,
+            "m_health": 39
+        },
+        {
+            "m_ID": 5206,
+            "m_lettuceMercenaryId": 9,
+            "m_lettuceMercenaryLevelId": 14,
+            "m_attack": 7,
+            "m_health": 42
+        },
+        {
+            "m_ID": 5207,
+            "m_lettuceMercenaryId": 9,
+            "m_lettuceMercenaryLevelId": 15,
+            "m_attack": 7,
+            "m_health": 44
+        },
+        {
+            "m_ID": 5208,
+            "m_lettuceMercenaryId": 9,
+            "m_lettuceMercenaryLevelId": 16,
+            "m_attack": 7,
+            "m_health": 46
+        },
+        {
+            "m_ID": 5209,
+            "m_lettuceMercenaryId": 9,
+            "m_lettuceMercenaryLevelId": 17,
+            "m_attack": 7,
+            "m_health": 48
+        },
+        {
+            "m_ID": 5210,
+            "m_lettuceMercenaryId": 9,
+            "m_lettuceMercenaryLevelId": 18,
+            "m_attack": 8,
+            "m_health": 51
+        },
+        {
+            "m_ID": 5211,
+            "m_lettuceMercenaryId": 9,
+            "m_lettuceMercenaryLevelId": 19,
+            "m_attack": 8,
+            "m_health": 53
+        },
+        {
+            "m_ID": 5212,
+            "m_lettuceMercenaryId": 9,
+            "m_lettuceMercenaryLevelId": 20,
+            "m_attack": 8,
+            "m_health": 55
+        },
+        {
+            "m_ID": 5213,
+            "m_lettuceMercenaryId": 9,
+            "m_lettuceMercenaryLevelId": 21,
+            "m_attack": 9,
+            "m_health": 57
+        },
+        {
+            "m_ID": 5214,
+            "m_lettuceMercenaryId": 9,
+            "m_lettuceMercenaryLevelId": 22,
+            "m_attack": 9,
+            "m_health": 60
+        },
+        {
+            "m_ID": 5215,
+            "m_lettuceMercenaryId": 9,
+            "m_lettuceMercenaryLevelId": 23,
+            "m_attack": 9,
+            "m_health": 62
+        },
+        {
+            "m_ID": 5216,
+            "m_lettuceMercenaryId": 9,
+            "m_lettuceMercenaryLevelId": 24,
+            "m_attack": 10,
+            "m_health": 64
+        },
+        {
+            "m_ID": 5217,
+            "m_lettuceMercenaryId": 9,
+            "m_lettuceMercenaryLevelId": 25,
+            "m_attack": 10,
+            "m_health": 66
+        },
+        {
+            "m_ID": 5218,
+            "m_lettuceMercenaryId": 9,
+            "m_lettuceMercenaryLevelId": 26,
+            "m_attack": 10,
+            "m_health": 69
+        },
+        {
+            "m_ID": 5219,
+            "m_lettuceMercenaryId": 9,
+            "m_lettuceMercenaryLevelId": 27,
+            "m_attack": 11,
+            "m_health": 71
+        },
+        {
+            "m_ID": 5220,
+            "m_lettuceMercenaryId": 9,
+            "m_lettuceMercenaryLevelId": 28,
+            "m_attack": 11,
+            "m_health": 73
+        },
+        {
+            "m_ID": 5221,
+            "m_lettuceMercenaryId": 9,
+            "m_lettuceMercenaryLevelId": 29,
+            "m_attack": 11,
+            "m_health": 75
+        },
+        {
+            "m_ID": 5222,
+            "m_lettuceMercenaryId": 9,
+            "m_lettuceMercenaryLevelId": 30,
+            "m_attack": 12,
+            "m_health": 78
+        },
+        {
             "m_ID": 7403,
             "m_lettuceMercenaryId": 60,
             "m_lettuceMercenaryLevelId": 1,
@@ -56289,6 +56499,426 @@
             "m_lettuceMercenaryLevelId": 30,
             "m_attack": 8,
             "m_health": 79
+        },
+        {
+            "m_ID": 8303,
+            "m_lettuceMercenaryId": 93,
+            "m_lettuceMercenaryLevelId": 1,
+            "m_attack": 3,
+            "m_health": 13
+        },
+        {
+            "m_ID": 8304,
+            "m_lettuceMercenaryId": 93,
+            "m_lettuceMercenaryLevelId": 2,
+            "m_attack": 3,
+            "m_health": 14
+        },
+        {
+            "m_ID": 8305,
+            "m_lettuceMercenaryId": 93,
+            "m_lettuceMercenaryLevelId": 3,
+            "m_attack": 3,
+            "m_health": 16
+        },
+        {
+            "m_ID": 8306,
+            "m_lettuceMercenaryId": 93,
+            "m_lettuceMercenaryLevelId": 4,
+            "m_attack": 3,
+            "m_health": 18
+        },
+        {
+            "m_ID": 8307,
+            "m_lettuceMercenaryId": 93,
+            "m_lettuceMercenaryLevelId": 5,
+            "m_attack": 3,
+            "m_health": 20
+        },
+        {
+            "m_ID": 8308,
+            "m_lettuceMercenaryId": 93,
+            "m_lettuceMercenaryLevelId": 6,
+            "m_attack": 3,
+            "m_health": 22
+        },
+        {
+            "m_ID": 8309,
+            "m_lettuceMercenaryId": 93,
+            "m_lettuceMercenaryLevelId": 7,
+            "m_attack": 4,
+            "m_health": 24
+        },
+        {
+            "m_ID": 8310,
+            "m_lettuceMercenaryId": 93,
+            "m_lettuceMercenaryLevelId": 8,
+            "m_attack": 4,
+            "m_health": 26
+        },
+        {
+            "m_ID": 8311,
+            "m_lettuceMercenaryId": 93,
+            "m_lettuceMercenaryLevelId": 9,
+            "m_attack": 4,
+            "m_health": 27
+        },
+        {
+            "m_ID": 8312,
+            "m_lettuceMercenaryId": 93,
+            "m_lettuceMercenaryLevelId": 10,
+            "m_attack": 4,
+            "m_health": 29
+        },
+        {
+            "m_ID": 8313,
+            "m_lettuceMercenaryId": 93,
+            "m_lettuceMercenaryLevelId": 11,
+            "m_attack": 4,
+            "m_health": 31
+        },
+        {
+            "m_ID": 8314,
+            "m_lettuceMercenaryId": 93,
+            "m_lettuceMercenaryLevelId": 12,
+            "m_attack": 4,
+            "m_health": 33
+        },
+        {
+            "m_ID": 8315,
+            "m_lettuceMercenaryId": 93,
+            "m_lettuceMercenaryLevelId": 13,
+            "m_attack": 5,
+            "m_health": 35
+        },
+        {
+            "m_ID": 8316,
+            "m_lettuceMercenaryId": 93,
+            "m_lettuceMercenaryLevelId": 14,
+            "m_attack": 5,
+            "m_health": 37
+        },
+        {
+            "m_ID": 8317,
+            "m_lettuceMercenaryId": 93,
+            "m_lettuceMercenaryLevelId": 15,
+            "m_attack": 5,
+            "m_health": 39
+        },
+        {
+            "m_ID": 8318,
+            "m_lettuceMercenaryId": 93,
+            "m_lettuceMercenaryLevelId": 16,
+            "m_attack": 5,
+            "m_health": 40
+        },
+        {
+            "m_ID": 8319,
+            "m_lettuceMercenaryId": 93,
+            "m_lettuceMercenaryLevelId": 17,
+            "m_attack": 5,
+            "m_health": 42
+        },
+        {
+            "m_ID": 8320,
+            "m_lettuceMercenaryId": 93,
+            "m_lettuceMercenaryLevelId": 18,
+            "m_attack": 5,
+            "m_health": 44
+        },
+        {
+            "m_ID": 8321,
+            "m_lettuceMercenaryId": 93,
+            "m_lettuceMercenaryLevelId": 19,
+            "m_attack": 6,
+            "m_health": 46
+        },
+        {
+            "m_ID": 8322,
+            "m_lettuceMercenaryId": 93,
+            "m_lettuceMercenaryLevelId": 20,
+            "m_attack": 6,
+            "m_health": 48
+        },
+        {
+            "m_ID": 8323,
+            "m_lettuceMercenaryId": 93,
+            "m_lettuceMercenaryLevelId": 21,
+            "m_attack": 6,
+            "m_health": 50
+        },
+        {
+            "m_ID": 8324,
+            "m_lettuceMercenaryId": 93,
+            "m_lettuceMercenaryLevelId": 22,
+            "m_attack": 6,
+            "m_health": 52
+        },
+        {
+            "m_ID": 8325,
+            "m_lettuceMercenaryId": 93,
+            "m_lettuceMercenaryLevelId": 23,
+            "m_attack": 6,
+            "m_health": 53
+        },
+        {
+            "m_ID": 8326,
+            "m_lettuceMercenaryId": 93,
+            "m_lettuceMercenaryLevelId": 24,
+            "m_attack": 6,
+            "m_health": 55
+        },
+        {
+            "m_ID": 8327,
+            "m_lettuceMercenaryId": 93,
+            "m_lettuceMercenaryLevelId": 25,
+            "m_attack": 7,
+            "m_health": 57
+        },
+        {
+            "m_ID": 8328,
+            "m_lettuceMercenaryId": 93,
+            "m_lettuceMercenaryLevelId": 26,
+            "m_attack": 7,
+            "m_health": 59
+        },
+        {
+            "m_ID": 8329,
+            "m_lettuceMercenaryId": 93,
+            "m_lettuceMercenaryLevelId": 27,
+            "m_attack": 7,
+            "m_health": 61
+        },
+        {
+            "m_ID": 8330,
+            "m_lettuceMercenaryId": 93,
+            "m_lettuceMercenaryLevelId": 28,
+            "m_attack": 7,
+            "m_health": 63
+        },
+        {
+            "m_ID": 8331,
+            "m_lettuceMercenaryId": 93,
+            "m_lettuceMercenaryLevelId": 29,
+            "m_attack": 7,
+            "m_health": 65
+        },
+        {
+            "m_ID": 8332,
+            "m_lettuceMercenaryId": 93,
+            "m_lettuceMercenaryLevelId": 30,
+            "m_attack": 8,
+            "m_health": 67
+        },
+        {
+            "m_ID": 8333,
+            "m_lettuceMercenaryId": 94,
+            "m_lettuceMercenaryLevelId": 1,
+            "m_attack": 3,
+            "m_health": 13
+        },
+        {
+            "m_ID": 8334,
+            "m_lettuceMercenaryId": 94,
+            "m_lettuceMercenaryLevelId": 2,
+            "m_attack": 3,
+            "m_health": 15
+        },
+        {
+            "m_ID": 8335,
+            "m_lettuceMercenaryId": 94,
+            "m_lettuceMercenaryLevelId": 3,
+            "m_attack": 3,
+            "m_health": 18
+        },
+        {
+            "m_ID": 8336,
+            "m_lettuceMercenaryId": 94,
+            "m_lettuceMercenaryLevelId": 4,
+            "m_attack": 3,
+            "m_health": 20
+        },
+        {
+            "m_ID": 8337,
+            "m_lettuceMercenaryId": 94,
+            "m_lettuceMercenaryLevelId": 5,
+            "m_attack": 4,
+            "m_health": 23
+        },
+        {
+            "m_ID": 8338,
+            "m_lettuceMercenaryId": 94,
+            "m_lettuceMercenaryLevelId": 6,
+            "m_attack": 4,
+            "m_health": 25
+        },
+        {
+            "m_ID": 8339,
+            "m_lettuceMercenaryId": 94,
+            "m_lettuceMercenaryLevelId": 7,
+            "m_attack": 4,
+            "m_health": 28
+        },
+        {
+            "m_ID": 8340,
+            "m_lettuceMercenaryId": 94,
+            "m_lettuceMercenaryLevelId": 8,
+            "m_attack": 4,
+            "m_health": 30
+        },
+        {
+            "m_ID": 8341,
+            "m_lettuceMercenaryId": 94,
+            "m_lettuceMercenaryLevelId": 9,
+            "m_attack": 5,
+            "m_health": 33
+        },
+        {
+            "m_ID": 8342,
+            "m_lettuceMercenaryId": 94,
+            "m_lettuceMercenaryLevelId": 10,
+            "m_attack": 5,
+            "m_health": 35
+        },
+        {
+            "m_ID": 8343,
+            "m_lettuceMercenaryId": 94,
+            "m_lettuceMercenaryLevelId": 11,
+            "m_attack": 5,
+            "m_health": 38
+        },
+        {
+            "m_ID": 8344,
+            "m_lettuceMercenaryId": 94,
+            "m_lettuceMercenaryLevelId": 12,
+            "m_attack": 6,
+            "m_health": 40
+        },
+        {
+            "m_ID": 8345,
+            "m_lettuceMercenaryId": 94,
+            "m_lettuceMercenaryLevelId": 13,
+            "m_attack": 6,
+            "m_health": 43
+        },
+        {
+            "m_ID": 8346,
+            "m_lettuceMercenaryId": 94,
+            "m_lettuceMercenaryLevelId": 14,
+            "m_attack": 6,
+            "m_health": 45
+        },
+        {
+            "m_ID": 8347,
+            "m_lettuceMercenaryId": 94,
+            "m_lettuceMercenaryLevelId": 15,
+            "m_attack": 6,
+            "m_health": 48
+        },
+        {
+            "m_ID": 8348,
+            "m_lettuceMercenaryId": 94,
+            "m_lettuceMercenaryLevelId": 16,
+            "m_attack": 7,
+            "m_health": 50
+        },
+        {
+            "m_ID": 8349,
+            "m_lettuceMercenaryId": 94,
+            "m_lettuceMercenaryLevelId": 17,
+            "m_attack": 7,
+            "m_health": 53
+        },
+        {
+            "m_ID": 8350,
+            "m_lettuceMercenaryId": 94,
+            "m_lettuceMercenaryLevelId": 18,
+            "m_attack": 7,
+            "m_health": 55
+        },
+        {
+            "m_ID": 8351,
+            "m_lettuceMercenaryId": 94,
+            "m_lettuceMercenaryLevelId": 19,
+            "m_attack": 7,
+            "m_health": 58
+        },
+        {
+            "m_ID": 8352,
+            "m_lettuceMercenaryId": 94,
+            "m_lettuceMercenaryLevelId": 20,
+            "m_attack": 8,
+            "m_health": 60
+        },
+        {
+            "m_ID": 8353,
+            "m_lettuceMercenaryId": 94,
+            "m_lettuceMercenaryLevelId": 21,
+            "m_attack": 8,
+            "m_health": 63
+        },
+        {
+            "m_ID": 8354,
+            "m_lettuceMercenaryId": 94,
+            "m_lettuceMercenaryLevelId": 22,
+            "m_attack": 8,
+            "m_health": 65
+        },
+        {
+            "m_ID": 8355,
+            "m_lettuceMercenaryId": 94,
+            "m_lettuceMercenaryLevelId": 23,
+            "m_attack": 9,
+            "m_health": 68
+        },
+        {
+            "m_ID": 8356,
+            "m_lettuceMercenaryId": 94,
+            "m_lettuceMercenaryLevelId": 24,
+            "m_attack": 9,
+            "m_health": 70
+        },
+        {
+            "m_ID": 8357,
+            "m_lettuceMercenaryId": 94,
+            "m_lettuceMercenaryLevelId": 25,
+            "m_attack": 9,
+            "m_health": 73
+        },
+        {
+            "m_ID": 8358,
+            "m_lettuceMercenaryId": 94,
+            "m_lettuceMercenaryLevelId": 26,
+            "m_attack": 9,
+            "m_health": 75
+        },
+        {
+            "m_ID": 8359,
+            "m_lettuceMercenaryId": 94,
+            "m_lettuceMercenaryLevelId": 27,
+            "m_attack": 10,
+            "m_health": 78
+        },
+        {
+            "m_ID": 8360,
+            "m_lettuceMercenaryId": 94,
+            "m_lettuceMercenaryLevelId": 28,
+            "m_attack": 10,
+            "m_health": 80
+        },
+        {
+            "m_ID": 8361,
+            "m_lettuceMercenaryId": 94,
+            "m_lettuceMercenaryLevelId": 29,
+            "m_attack": 10,
+            "m_health": 83
+        },
+        {
+            "m_ID": 8362,
+            "m_lettuceMercenaryId": 94,
+            "m_lettuceMercenaryLevelId": 30,
+            "m_attack": 11,
+            "m_health": 86
         },
         {
             "m_ID": 7523,
@@ -56921,1056 +57551,6 @@
             "m_health": 76
         },
         {
-            "m_ID": 7733,
-            "m_lettuceMercenaryId": 71,
-            "m_lettuceMercenaryLevelId": 1,
-            "m_attack": 3,
-            "m_health": 13
-        },
-        {
-            "m_ID": 7734,
-            "m_lettuceMercenaryId": 71,
-            "m_lettuceMercenaryLevelId": 2,
-            "m_attack": 3,
-            "m_health": 15
-        },
-        {
-            "m_ID": 7735,
-            "m_lettuceMercenaryId": 71,
-            "m_lettuceMercenaryLevelId": 3,
-            "m_attack": 3,
-            "m_health": 17
-        },
-        {
-            "m_ID": 7736,
-            "m_lettuceMercenaryId": 71,
-            "m_lettuceMercenaryLevelId": 4,
-            "m_attack": 3,
-            "m_health": 19
-        },
-        {
-            "m_ID": 7737,
-            "m_lettuceMercenaryId": 71,
-            "m_lettuceMercenaryLevelId": 5,
-            "m_attack": 3,
-            "m_health": 21
-        },
-        {
-            "m_ID": 7738,
-            "m_lettuceMercenaryId": 71,
-            "m_lettuceMercenaryLevelId": 6,
-            "m_attack": 4,
-            "m_health": 23
-        },
-        {
-            "m_ID": 7739,
-            "m_lettuceMercenaryId": 71,
-            "m_lettuceMercenaryLevelId": 7,
-            "m_attack": 4,
-            "m_health": 25
-        },
-        {
-            "m_ID": 7740,
-            "m_lettuceMercenaryId": 71,
-            "m_lettuceMercenaryLevelId": 8,
-            "m_attack": 4,
-            "m_health": 27
-        },
-        {
-            "m_ID": 7741,
-            "m_lettuceMercenaryId": 71,
-            "m_lettuceMercenaryLevelId": 9,
-            "m_attack": 4,
-            "m_health": 30
-        },
-        {
-            "m_ID": 7742,
-            "m_lettuceMercenaryId": 71,
-            "m_lettuceMercenaryLevelId": 10,
-            "m_attack": 4,
-            "m_health": 32
-        },
-        {
-            "m_ID": 7743,
-            "m_lettuceMercenaryId": 71,
-            "m_lettuceMercenaryLevelId": 11,
-            "m_attack": 5,
-            "m_health": 34
-        },
-        {
-            "m_ID": 7744,
-            "m_lettuceMercenaryId": 71,
-            "m_lettuceMercenaryLevelId": 12,
-            "m_attack": 5,
-            "m_health": 36
-        },
-        {
-            "m_ID": 7745,
-            "m_lettuceMercenaryId": 71,
-            "m_lettuceMercenaryLevelId": 13,
-            "m_attack": 5,
-            "m_health": 38
-        },
-        {
-            "m_ID": 7746,
-            "m_lettuceMercenaryId": 71,
-            "m_lettuceMercenaryLevelId": 14,
-            "m_attack": 5,
-            "m_health": 40
-        },
-        {
-            "m_ID": 7747,
-            "m_lettuceMercenaryId": 71,
-            "m_lettuceMercenaryLevelId": 15,
-            "m_attack": 5,
-            "m_health": 42
-        },
-        {
-            "m_ID": 7748,
-            "m_lettuceMercenaryId": 71,
-            "m_lettuceMercenaryLevelId": 16,
-            "m_attack": 6,
-            "m_health": 45
-        },
-        {
-            "m_ID": 7749,
-            "m_lettuceMercenaryId": 71,
-            "m_lettuceMercenaryLevelId": 17,
-            "m_attack": 6,
-            "m_health": 47
-        },
-        {
-            "m_ID": 7750,
-            "m_lettuceMercenaryId": 71,
-            "m_lettuceMercenaryLevelId": 18,
-            "m_attack": 6,
-            "m_health": 49
-        },
-        {
-            "m_ID": 7751,
-            "m_lettuceMercenaryId": 71,
-            "m_lettuceMercenaryLevelId": 19,
-            "m_attack": 6,
-            "m_health": 51
-        },
-        {
-            "m_ID": 7752,
-            "m_lettuceMercenaryId": 71,
-            "m_lettuceMercenaryLevelId": 20,
-            "m_attack": 6,
-            "m_health": 53
-        },
-        {
-            "m_ID": 7753,
-            "m_lettuceMercenaryId": 71,
-            "m_lettuceMercenaryLevelId": 21,
-            "m_attack": 7,
-            "m_health": 55
-        },
-        {
-            "m_ID": 7754,
-            "m_lettuceMercenaryId": 71,
-            "m_lettuceMercenaryLevelId": 22,
-            "m_attack": 7,
-            "m_health": 57
-        },
-        {
-            "m_ID": 7755,
-            "m_lettuceMercenaryId": 71,
-            "m_lettuceMercenaryLevelId": 23,
-            "m_attack": 7,
-            "m_health": 60
-        },
-        {
-            "m_ID": 7756,
-            "m_lettuceMercenaryId": 71,
-            "m_lettuceMercenaryLevelId": 24,
-            "m_attack": 7,
-            "m_health": 62
-        },
-        {
-            "m_ID": 7757,
-            "m_lettuceMercenaryId": 71,
-            "m_lettuceMercenaryLevelId": 25,
-            "m_attack": 7,
-            "m_health": 64
-        },
-        {
-            "m_ID": 7758,
-            "m_lettuceMercenaryId": 71,
-            "m_lettuceMercenaryLevelId": 26,
-            "m_attack": 8,
-            "m_health": 66
-        },
-        {
-            "m_ID": 7759,
-            "m_lettuceMercenaryId": 71,
-            "m_lettuceMercenaryLevelId": 27,
-            "m_attack": 8,
-            "m_health": 68
-        },
-        {
-            "m_ID": 7760,
-            "m_lettuceMercenaryId": 71,
-            "m_lettuceMercenaryLevelId": 28,
-            "m_attack": 8,
-            "m_health": 70
-        },
-        {
-            "m_ID": 7761,
-            "m_lettuceMercenaryId": 71,
-            "m_lettuceMercenaryLevelId": 29,
-            "m_attack": 8,
-            "m_health": 72
-        },
-        {
-            "m_ID": 7762,
-            "m_lettuceMercenaryId": 71,
-            "m_lettuceMercenaryLevelId": 30,
-            "m_attack": 9,
-            "m_health": 75
-        },
-        {
-            "m_ID": 5133,
-            "m_lettuceMercenaryId": 8,
-            "m_lettuceMercenaryLevelId": 1,
-            "m_attack": 1,
-            "m_health": 12
-        },
-        {
-            "m_ID": 5134,
-            "m_lettuceMercenaryId": 8,
-            "m_lettuceMercenaryLevelId": 2,
-            "m_attack": 1,
-            "m_health": 14
-        },
-        {
-            "m_ID": 5135,
-            "m_lettuceMercenaryId": 8,
-            "m_lettuceMercenaryLevelId": 3,
-            "m_attack": 1,
-            "m_health": 16
-        },
-        {
-            "m_ID": 5136,
-            "m_lettuceMercenaryId": 8,
-            "m_lettuceMercenaryLevelId": 4,
-            "m_attack": 1,
-            "m_health": 18
-        },
-        {
-            "m_ID": 5137,
-            "m_lettuceMercenaryId": 8,
-            "m_lettuceMercenaryLevelId": 5,
-            "m_attack": 1,
-            "m_health": 20
-        },
-        {
-            "m_ID": 5138,
-            "m_lettuceMercenaryId": 8,
-            "m_lettuceMercenaryLevelId": 6,
-            "m_attack": 1,
-            "m_health": 22
-        },
-        {
-            "m_ID": 5139,
-            "m_lettuceMercenaryId": 8,
-            "m_lettuceMercenaryLevelId": 7,
-            "m_attack": 1,
-            "m_health": 24
-        },
-        {
-            "m_ID": 5140,
-            "m_lettuceMercenaryId": 8,
-            "m_lettuceMercenaryLevelId": 8,
-            "m_attack": 1,
-            "m_health": 26
-        },
-        {
-            "m_ID": 5141,
-            "m_lettuceMercenaryId": 8,
-            "m_lettuceMercenaryLevelId": 9,
-            "m_attack": 1,
-            "m_health": 28
-        },
-        {
-            "m_ID": 5142,
-            "m_lettuceMercenaryId": 8,
-            "m_lettuceMercenaryLevelId": 10,
-            "m_attack": 1,
-            "m_health": 30
-        },
-        {
-            "m_ID": 5143,
-            "m_lettuceMercenaryId": 8,
-            "m_lettuceMercenaryLevelId": 11,
-            "m_attack": 2,
-            "m_health": 32
-        },
-        {
-            "m_ID": 5144,
-            "m_lettuceMercenaryId": 8,
-            "m_lettuceMercenaryLevelId": 12,
-            "m_attack": 2,
-            "m_health": 34
-        },
-        {
-            "m_ID": 5145,
-            "m_lettuceMercenaryId": 8,
-            "m_lettuceMercenaryLevelId": 13,
-            "m_attack": 2,
-            "m_health": 36
-        },
-        {
-            "m_ID": 5146,
-            "m_lettuceMercenaryId": 8,
-            "m_lettuceMercenaryLevelId": 14,
-            "m_attack": 2,
-            "m_health": 38
-        },
-        {
-            "m_ID": 5147,
-            "m_lettuceMercenaryId": 8,
-            "m_lettuceMercenaryLevelId": 15,
-            "m_attack": 2,
-            "m_health": 40
-        },
-        {
-            "m_ID": 5148,
-            "m_lettuceMercenaryId": 8,
-            "m_lettuceMercenaryLevelId": 16,
-            "m_attack": 2,
-            "m_health": 42
-        },
-        {
-            "m_ID": 5149,
-            "m_lettuceMercenaryId": 8,
-            "m_lettuceMercenaryLevelId": 17,
-            "m_attack": 2,
-            "m_health": 44
-        },
-        {
-            "m_ID": 5150,
-            "m_lettuceMercenaryId": 8,
-            "m_lettuceMercenaryLevelId": 18,
-            "m_attack": 2,
-            "m_health": 46
-        },
-        {
-            "m_ID": 5151,
-            "m_lettuceMercenaryId": 8,
-            "m_lettuceMercenaryLevelId": 19,
-            "m_attack": 2,
-            "m_health": 48
-        },
-        {
-            "m_ID": 5152,
-            "m_lettuceMercenaryId": 8,
-            "m_lettuceMercenaryLevelId": 20,
-            "m_attack": 2,
-            "m_health": 50
-        },
-        {
-            "m_ID": 5153,
-            "m_lettuceMercenaryId": 8,
-            "m_lettuceMercenaryLevelId": 21,
-            "m_attack": 3,
-            "m_health": 52
-        },
-        {
-            "m_ID": 5154,
-            "m_lettuceMercenaryId": 8,
-            "m_lettuceMercenaryLevelId": 22,
-            "m_attack": 3,
-            "m_health": 54
-        },
-        {
-            "m_ID": 5155,
-            "m_lettuceMercenaryId": 8,
-            "m_lettuceMercenaryLevelId": 23,
-            "m_attack": 3,
-            "m_health": 56
-        },
-        {
-            "m_ID": 5156,
-            "m_lettuceMercenaryId": 8,
-            "m_lettuceMercenaryLevelId": 24,
-            "m_attack": 3,
-            "m_health": 58
-        },
-        {
-            "m_ID": 5157,
-            "m_lettuceMercenaryId": 8,
-            "m_lettuceMercenaryLevelId": 25,
-            "m_attack": 3,
-            "m_health": 60
-        },
-        {
-            "m_ID": 5158,
-            "m_lettuceMercenaryId": 8,
-            "m_lettuceMercenaryLevelId": 26,
-            "m_attack": 3,
-            "m_health": 62
-        },
-        {
-            "m_ID": 5159,
-            "m_lettuceMercenaryId": 8,
-            "m_lettuceMercenaryLevelId": 27,
-            "m_attack": 3,
-            "m_health": 64
-        },
-        {
-            "m_ID": 5160,
-            "m_lettuceMercenaryId": 8,
-            "m_lettuceMercenaryLevelId": 28,
-            "m_attack": 3,
-            "m_health": 66
-        },
-        {
-            "m_ID": 5161,
-            "m_lettuceMercenaryId": 8,
-            "m_lettuceMercenaryLevelId": 29,
-            "m_attack": 3,
-            "m_health": 68
-        },
-        {
-            "m_ID": 5162,
-            "m_lettuceMercenaryId": 8,
-            "m_lettuceMercenaryLevelId": 30,
-            "m_attack": 4,
-            "m_health": 70
-        },
-        {
-            "m_ID": 5193,
-            "m_lettuceMercenaryId": 9,
-            "m_lettuceMercenaryLevelId": 1,
-            "m_attack": 3,
-            "m_health": 13
-        },
-        {
-            "m_ID": 5194,
-            "m_lettuceMercenaryId": 9,
-            "m_lettuceMercenaryLevelId": 2,
-            "m_attack": 3,
-            "m_health": 15
-        },
-        {
-            "m_ID": 5195,
-            "m_lettuceMercenaryId": 9,
-            "m_lettuceMercenaryLevelId": 3,
-            "m_attack": 3,
-            "m_health": 17
-        },
-        {
-            "m_ID": 5196,
-            "m_lettuceMercenaryId": 9,
-            "m_lettuceMercenaryLevelId": 4,
-            "m_attack": 3,
-            "m_health": 19
-        },
-        {
-            "m_ID": 5197,
-            "m_lettuceMercenaryId": 9,
-            "m_lettuceMercenaryLevelId": 5,
-            "m_attack": 4,
-            "m_health": 21
-        },
-        {
-            "m_ID": 5198,
-            "m_lettuceMercenaryId": 9,
-            "m_lettuceMercenaryLevelId": 6,
-            "m_attack": 4,
-            "m_health": 24
-        },
-        {
-            "m_ID": 5199,
-            "m_lettuceMercenaryId": 9,
-            "m_lettuceMercenaryLevelId": 7,
-            "m_attack": 4,
-            "m_health": 26
-        },
-        {
-            "m_ID": 5200,
-            "m_lettuceMercenaryId": 9,
-            "m_lettuceMercenaryLevelId": 8,
-            "m_attack": 5,
-            "m_health": 28
-        },
-        {
-            "m_ID": 5201,
-            "m_lettuceMercenaryId": 9,
-            "m_lettuceMercenaryLevelId": 9,
-            "m_attack": 5,
-            "m_health": 30
-        },
-        {
-            "m_ID": 5202,
-            "m_lettuceMercenaryId": 9,
-            "m_lettuceMercenaryLevelId": 10,
-            "m_attack": 5,
-            "m_health": 33
-        },
-        {
-            "m_ID": 5203,
-            "m_lettuceMercenaryId": 9,
-            "m_lettuceMercenaryLevelId": 11,
-            "m_attack": 6,
-            "m_health": 35
-        },
-        {
-            "m_ID": 5204,
-            "m_lettuceMercenaryId": 9,
-            "m_lettuceMercenaryLevelId": 12,
-            "m_attack": 6,
-            "m_health": 37
-        },
-        {
-            "m_ID": 5205,
-            "m_lettuceMercenaryId": 9,
-            "m_lettuceMercenaryLevelId": 13,
-            "m_attack": 6,
-            "m_health": 39
-        },
-        {
-            "m_ID": 5206,
-            "m_lettuceMercenaryId": 9,
-            "m_lettuceMercenaryLevelId": 14,
-            "m_attack": 7,
-            "m_health": 42
-        },
-        {
-            "m_ID": 5207,
-            "m_lettuceMercenaryId": 9,
-            "m_lettuceMercenaryLevelId": 15,
-            "m_attack": 7,
-            "m_health": 44
-        },
-        {
-            "m_ID": 5208,
-            "m_lettuceMercenaryId": 9,
-            "m_lettuceMercenaryLevelId": 16,
-            "m_attack": 7,
-            "m_health": 46
-        },
-        {
-            "m_ID": 5209,
-            "m_lettuceMercenaryId": 9,
-            "m_lettuceMercenaryLevelId": 17,
-            "m_attack": 7,
-            "m_health": 48
-        },
-        {
-            "m_ID": 5210,
-            "m_lettuceMercenaryId": 9,
-            "m_lettuceMercenaryLevelId": 18,
-            "m_attack": 8,
-            "m_health": 51
-        },
-        {
-            "m_ID": 5211,
-            "m_lettuceMercenaryId": 9,
-            "m_lettuceMercenaryLevelId": 19,
-            "m_attack": 8,
-            "m_health": 53
-        },
-        {
-            "m_ID": 5212,
-            "m_lettuceMercenaryId": 9,
-            "m_lettuceMercenaryLevelId": 20,
-            "m_attack": 8,
-            "m_health": 55
-        },
-        {
-            "m_ID": 5213,
-            "m_lettuceMercenaryId": 9,
-            "m_lettuceMercenaryLevelId": 21,
-            "m_attack": 9,
-            "m_health": 57
-        },
-        {
-            "m_ID": 5214,
-            "m_lettuceMercenaryId": 9,
-            "m_lettuceMercenaryLevelId": 22,
-            "m_attack": 9,
-            "m_health": 60
-        },
-        {
-            "m_ID": 5215,
-            "m_lettuceMercenaryId": 9,
-            "m_lettuceMercenaryLevelId": 23,
-            "m_attack": 9,
-            "m_health": 62
-        },
-        {
-            "m_ID": 5216,
-            "m_lettuceMercenaryId": 9,
-            "m_lettuceMercenaryLevelId": 24,
-            "m_attack": 10,
-            "m_health": 64
-        },
-        {
-            "m_ID": 5217,
-            "m_lettuceMercenaryId": 9,
-            "m_lettuceMercenaryLevelId": 25,
-            "m_attack": 10,
-            "m_health": 66
-        },
-        {
-            "m_ID": 5218,
-            "m_lettuceMercenaryId": 9,
-            "m_lettuceMercenaryLevelId": 26,
-            "m_attack": 10,
-            "m_health": 69
-        },
-        {
-            "m_ID": 5219,
-            "m_lettuceMercenaryId": 9,
-            "m_lettuceMercenaryLevelId": 27,
-            "m_attack": 11,
-            "m_health": 71
-        },
-        {
-            "m_ID": 5220,
-            "m_lettuceMercenaryId": 9,
-            "m_lettuceMercenaryLevelId": 28,
-            "m_attack": 11,
-            "m_health": 73
-        },
-        {
-            "m_ID": 5221,
-            "m_lettuceMercenaryId": 9,
-            "m_lettuceMercenaryLevelId": 29,
-            "m_attack": 11,
-            "m_health": 75
-        },
-        {
-            "m_ID": 5222,
-            "m_lettuceMercenaryId": 9,
-            "m_lettuceMercenaryLevelId": 30,
-            "m_attack": 12,
-            "m_health": 78
-        },
-        {
-            "m_ID": 8303,
-            "m_lettuceMercenaryId": 93,
-            "m_lettuceMercenaryLevelId": 1,
-            "m_attack": 3,
-            "m_health": 13
-        },
-        {
-            "m_ID": 8304,
-            "m_lettuceMercenaryId": 93,
-            "m_lettuceMercenaryLevelId": 2,
-            "m_attack": 3,
-            "m_health": 14
-        },
-        {
-            "m_ID": 8305,
-            "m_lettuceMercenaryId": 93,
-            "m_lettuceMercenaryLevelId": 3,
-            "m_attack": 3,
-            "m_health": 16
-        },
-        {
-            "m_ID": 8306,
-            "m_lettuceMercenaryId": 93,
-            "m_lettuceMercenaryLevelId": 4,
-            "m_attack": 3,
-            "m_health": 18
-        },
-        {
-            "m_ID": 8307,
-            "m_lettuceMercenaryId": 93,
-            "m_lettuceMercenaryLevelId": 5,
-            "m_attack": 3,
-            "m_health": 20
-        },
-        {
-            "m_ID": 8308,
-            "m_lettuceMercenaryId": 93,
-            "m_lettuceMercenaryLevelId": 6,
-            "m_attack": 3,
-            "m_health": 22
-        },
-        {
-            "m_ID": 8309,
-            "m_lettuceMercenaryId": 93,
-            "m_lettuceMercenaryLevelId": 7,
-            "m_attack": 4,
-            "m_health": 24
-        },
-        {
-            "m_ID": 8310,
-            "m_lettuceMercenaryId": 93,
-            "m_lettuceMercenaryLevelId": 8,
-            "m_attack": 4,
-            "m_health": 26
-        },
-        {
-            "m_ID": 8311,
-            "m_lettuceMercenaryId": 93,
-            "m_lettuceMercenaryLevelId": 9,
-            "m_attack": 4,
-            "m_health": 27
-        },
-        {
-            "m_ID": 8312,
-            "m_lettuceMercenaryId": 93,
-            "m_lettuceMercenaryLevelId": 10,
-            "m_attack": 4,
-            "m_health": 29
-        },
-        {
-            "m_ID": 8313,
-            "m_lettuceMercenaryId": 93,
-            "m_lettuceMercenaryLevelId": 11,
-            "m_attack": 4,
-            "m_health": 31
-        },
-        {
-            "m_ID": 8314,
-            "m_lettuceMercenaryId": 93,
-            "m_lettuceMercenaryLevelId": 12,
-            "m_attack": 4,
-            "m_health": 33
-        },
-        {
-            "m_ID": 8315,
-            "m_lettuceMercenaryId": 93,
-            "m_lettuceMercenaryLevelId": 13,
-            "m_attack": 5,
-            "m_health": 35
-        },
-        {
-            "m_ID": 8316,
-            "m_lettuceMercenaryId": 93,
-            "m_lettuceMercenaryLevelId": 14,
-            "m_attack": 5,
-            "m_health": 37
-        },
-        {
-            "m_ID": 8317,
-            "m_lettuceMercenaryId": 93,
-            "m_lettuceMercenaryLevelId": 15,
-            "m_attack": 5,
-            "m_health": 39
-        },
-        {
-            "m_ID": 8318,
-            "m_lettuceMercenaryId": 93,
-            "m_lettuceMercenaryLevelId": 16,
-            "m_attack": 5,
-            "m_health": 40
-        },
-        {
-            "m_ID": 8319,
-            "m_lettuceMercenaryId": 93,
-            "m_lettuceMercenaryLevelId": 17,
-            "m_attack": 5,
-            "m_health": 42
-        },
-        {
-            "m_ID": 8320,
-            "m_lettuceMercenaryId": 93,
-            "m_lettuceMercenaryLevelId": 18,
-            "m_attack": 5,
-            "m_health": 44
-        },
-        {
-            "m_ID": 8321,
-            "m_lettuceMercenaryId": 93,
-            "m_lettuceMercenaryLevelId": 19,
-            "m_attack": 6,
-            "m_health": 46
-        },
-        {
-            "m_ID": 8322,
-            "m_lettuceMercenaryId": 93,
-            "m_lettuceMercenaryLevelId": 20,
-            "m_attack": 6,
-            "m_health": 48
-        },
-        {
-            "m_ID": 8323,
-            "m_lettuceMercenaryId": 93,
-            "m_lettuceMercenaryLevelId": 21,
-            "m_attack": 6,
-            "m_health": 50
-        },
-        {
-            "m_ID": 8324,
-            "m_lettuceMercenaryId": 93,
-            "m_lettuceMercenaryLevelId": 22,
-            "m_attack": 6,
-            "m_health": 52
-        },
-        {
-            "m_ID": 8325,
-            "m_lettuceMercenaryId": 93,
-            "m_lettuceMercenaryLevelId": 23,
-            "m_attack": 6,
-            "m_health": 53
-        },
-        {
-            "m_ID": 8326,
-            "m_lettuceMercenaryId": 93,
-            "m_lettuceMercenaryLevelId": 24,
-            "m_attack": 6,
-            "m_health": 55
-        },
-        {
-            "m_ID": 8327,
-            "m_lettuceMercenaryId": 93,
-            "m_lettuceMercenaryLevelId": 25,
-            "m_attack": 7,
-            "m_health": 57
-        },
-        {
-            "m_ID": 8328,
-            "m_lettuceMercenaryId": 93,
-            "m_lettuceMercenaryLevelId": 26,
-            "m_attack": 7,
-            "m_health": 59
-        },
-        {
-            "m_ID": 8329,
-            "m_lettuceMercenaryId": 93,
-            "m_lettuceMercenaryLevelId": 27,
-            "m_attack": 7,
-            "m_health": 61
-        },
-        {
-            "m_ID": 8330,
-            "m_lettuceMercenaryId": 93,
-            "m_lettuceMercenaryLevelId": 28,
-            "m_attack": 7,
-            "m_health": 63
-        },
-        {
-            "m_ID": 8331,
-            "m_lettuceMercenaryId": 93,
-            "m_lettuceMercenaryLevelId": 29,
-            "m_attack": 7,
-            "m_health": 65
-        },
-        {
-            "m_ID": 8332,
-            "m_lettuceMercenaryId": 93,
-            "m_lettuceMercenaryLevelId": 30,
-            "m_attack": 8,
-            "m_health": 67
-        },
-        {
-            "m_ID": 8333,
-            "m_lettuceMercenaryId": 94,
-            "m_lettuceMercenaryLevelId": 1,
-            "m_attack": 3,
-            "m_health": 13
-        },
-        {
-            "m_ID": 8334,
-            "m_lettuceMercenaryId": 94,
-            "m_lettuceMercenaryLevelId": 2,
-            "m_attack": 3,
-            "m_health": 15
-        },
-        {
-            "m_ID": 8335,
-            "m_lettuceMercenaryId": 94,
-            "m_lettuceMercenaryLevelId": 3,
-            "m_attack": 3,
-            "m_health": 18
-        },
-        {
-            "m_ID": 8336,
-            "m_lettuceMercenaryId": 94,
-            "m_lettuceMercenaryLevelId": 4,
-            "m_attack": 3,
-            "m_health": 20
-        },
-        {
-            "m_ID": 8337,
-            "m_lettuceMercenaryId": 94,
-            "m_lettuceMercenaryLevelId": 5,
-            "m_attack": 4,
-            "m_health": 23
-        },
-        {
-            "m_ID": 8338,
-            "m_lettuceMercenaryId": 94,
-            "m_lettuceMercenaryLevelId": 6,
-            "m_attack": 4,
-            "m_health": 25
-        },
-        {
-            "m_ID": 8339,
-            "m_lettuceMercenaryId": 94,
-            "m_lettuceMercenaryLevelId": 7,
-            "m_attack": 4,
-            "m_health": 28
-        },
-        {
-            "m_ID": 8340,
-            "m_lettuceMercenaryId": 94,
-            "m_lettuceMercenaryLevelId": 8,
-            "m_attack": 4,
-            "m_health": 30
-        },
-        {
-            "m_ID": 8341,
-            "m_lettuceMercenaryId": 94,
-            "m_lettuceMercenaryLevelId": 9,
-            "m_attack": 5,
-            "m_health": 33
-        },
-        {
-            "m_ID": 8342,
-            "m_lettuceMercenaryId": 94,
-            "m_lettuceMercenaryLevelId": 10,
-            "m_attack": 5,
-            "m_health": 35
-        },
-        {
-            "m_ID": 8343,
-            "m_lettuceMercenaryId": 94,
-            "m_lettuceMercenaryLevelId": 11,
-            "m_attack": 5,
-            "m_health": 38
-        },
-        {
-            "m_ID": 8344,
-            "m_lettuceMercenaryId": 94,
-            "m_lettuceMercenaryLevelId": 12,
-            "m_attack": 6,
-            "m_health": 40
-        },
-        {
-            "m_ID": 8345,
-            "m_lettuceMercenaryId": 94,
-            "m_lettuceMercenaryLevelId": 13,
-            "m_attack": 6,
-            "m_health": 43
-        },
-        {
-            "m_ID": 8346,
-            "m_lettuceMercenaryId": 94,
-            "m_lettuceMercenaryLevelId": 14,
-            "m_attack": 6,
-            "m_health": 45
-        },
-        {
-            "m_ID": 8347,
-            "m_lettuceMercenaryId": 94,
-            "m_lettuceMercenaryLevelId": 15,
-            "m_attack": 6,
-            "m_health": 48
-        },
-        {
-            "m_ID": 8348,
-            "m_lettuceMercenaryId": 94,
-            "m_lettuceMercenaryLevelId": 16,
-            "m_attack": 7,
-            "m_health": 50
-        },
-        {
-            "m_ID": 8349,
-            "m_lettuceMercenaryId": 94,
-            "m_lettuceMercenaryLevelId": 17,
-            "m_attack": 7,
-            "m_health": 53
-        },
-        {
-            "m_ID": 8350,
-            "m_lettuceMercenaryId": 94,
-            "m_lettuceMercenaryLevelId": 18,
-            "m_attack": 7,
-            "m_health": 55
-        },
-        {
-            "m_ID": 8351,
-            "m_lettuceMercenaryId": 94,
-            "m_lettuceMercenaryLevelId": 19,
-            "m_attack": 7,
-            "m_health": 58
-        },
-        {
-            "m_ID": 8352,
-            "m_lettuceMercenaryId": 94,
-            "m_lettuceMercenaryLevelId": 20,
-            "m_attack": 8,
-            "m_health": 60
-        },
-        {
-            "m_ID": 8353,
-            "m_lettuceMercenaryId": 94,
-            "m_lettuceMercenaryLevelId": 21,
-            "m_attack": 8,
-            "m_health": 63
-        },
-        {
-            "m_ID": 8354,
-            "m_lettuceMercenaryId": 94,
-            "m_lettuceMercenaryLevelId": 22,
-            "m_attack": 8,
-            "m_health": 65
-        },
-        {
-            "m_ID": 8355,
-            "m_lettuceMercenaryId": 94,
-            "m_lettuceMercenaryLevelId": 23,
-            "m_attack": 9,
-            "m_health": 68
-        },
-        {
-            "m_ID": 8356,
-            "m_lettuceMercenaryId": 94,
-            "m_lettuceMercenaryLevelId": 24,
-            "m_attack": 9,
-            "m_health": 70
-        },
-        {
-            "m_ID": 8357,
-            "m_lettuceMercenaryId": 94,
-            "m_lettuceMercenaryLevelId": 25,
-            "m_attack": 9,
-            "m_health": 73
-        },
-        {
-            "m_ID": 8358,
-            "m_lettuceMercenaryId": 94,
-            "m_lettuceMercenaryLevelId": 26,
-            "m_attack": 9,
-            "m_health": 75
-        },
-        {
-            "m_ID": 8359,
-            "m_lettuceMercenaryId": 94,
-            "m_lettuceMercenaryLevelId": 27,
-            "m_attack": 10,
-            "m_health": 78
-        },
-        {
-            "m_ID": 8360,
-            "m_lettuceMercenaryId": 94,
-            "m_lettuceMercenaryLevelId": 28,
-            "m_attack": 10,
-            "m_health": 80
-        },
-        {
-            "m_ID": 8361,
-            "m_lettuceMercenaryId": 94,
-            "m_lettuceMercenaryLevelId": 29,
-            "m_attack": 10,
-            "m_health": 83
-        },
-        {
-            "m_ID": 8362,
-            "m_lettuceMercenaryId": 94,
-            "m_lettuceMercenaryLevelId": 30,
-            "m_attack": 11,
-            "m_health": 86
-        },
-        {
             "m_ID": 8363,
             "m_lettuceMercenaryId": 95,
             "m_lettuceMercenaryLevelId": 1,
@@ -58179,6 +57759,216 @@
             "m_lettuceMercenaryLevelId": 30,
             "m_attack": 11,
             "m_health": 74
+        },
+        {
+            "m_ID": 7733,
+            "m_lettuceMercenaryId": 71,
+            "m_lettuceMercenaryLevelId": 1,
+            "m_attack": 3,
+            "m_health": 13
+        },
+        {
+            "m_ID": 7734,
+            "m_lettuceMercenaryId": 71,
+            "m_lettuceMercenaryLevelId": 2,
+            "m_attack": 3,
+            "m_health": 15
+        },
+        {
+            "m_ID": 7735,
+            "m_lettuceMercenaryId": 71,
+            "m_lettuceMercenaryLevelId": 3,
+            "m_attack": 3,
+            "m_health": 17
+        },
+        {
+            "m_ID": 7736,
+            "m_lettuceMercenaryId": 71,
+            "m_lettuceMercenaryLevelId": 4,
+            "m_attack": 3,
+            "m_health": 19
+        },
+        {
+            "m_ID": 7737,
+            "m_lettuceMercenaryId": 71,
+            "m_lettuceMercenaryLevelId": 5,
+            "m_attack": 3,
+            "m_health": 21
+        },
+        {
+            "m_ID": 7738,
+            "m_lettuceMercenaryId": 71,
+            "m_lettuceMercenaryLevelId": 6,
+            "m_attack": 4,
+            "m_health": 23
+        },
+        {
+            "m_ID": 7739,
+            "m_lettuceMercenaryId": 71,
+            "m_lettuceMercenaryLevelId": 7,
+            "m_attack": 4,
+            "m_health": 25
+        },
+        {
+            "m_ID": 7740,
+            "m_lettuceMercenaryId": 71,
+            "m_lettuceMercenaryLevelId": 8,
+            "m_attack": 4,
+            "m_health": 27
+        },
+        {
+            "m_ID": 7741,
+            "m_lettuceMercenaryId": 71,
+            "m_lettuceMercenaryLevelId": 9,
+            "m_attack": 4,
+            "m_health": 30
+        },
+        {
+            "m_ID": 7742,
+            "m_lettuceMercenaryId": 71,
+            "m_lettuceMercenaryLevelId": 10,
+            "m_attack": 4,
+            "m_health": 32
+        },
+        {
+            "m_ID": 7743,
+            "m_lettuceMercenaryId": 71,
+            "m_lettuceMercenaryLevelId": 11,
+            "m_attack": 5,
+            "m_health": 34
+        },
+        {
+            "m_ID": 7744,
+            "m_lettuceMercenaryId": 71,
+            "m_lettuceMercenaryLevelId": 12,
+            "m_attack": 5,
+            "m_health": 36
+        },
+        {
+            "m_ID": 7745,
+            "m_lettuceMercenaryId": 71,
+            "m_lettuceMercenaryLevelId": 13,
+            "m_attack": 5,
+            "m_health": 38
+        },
+        {
+            "m_ID": 7746,
+            "m_lettuceMercenaryId": 71,
+            "m_lettuceMercenaryLevelId": 14,
+            "m_attack": 5,
+            "m_health": 40
+        },
+        {
+            "m_ID": 7747,
+            "m_lettuceMercenaryId": 71,
+            "m_lettuceMercenaryLevelId": 15,
+            "m_attack": 5,
+            "m_health": 42
+        },
+        {
+            "m_ID": 7748,
+            "m_lettuceMercenaryId": 71,
+            "m_lettuceMercenaryLevelId": 16,
+            "m_attack": 6,
+            "m_health": 45
+        },
+        {
+            "m_ID": 7749,
+            "m_lettuceMercenaryId": 71,
+            "m_lettuceMercenaryLevelId": 17,
+            "m_attack": 6,
+            "m_health": 47
+        },
+        {
+            "m_ID": 7750,
+            "m_lettuceMercenaryId": 71,
+            "m_lettuceMercenaryLevelId": 18,
+            "m_attack": 6,
+            "m_health": 49
+        },
+        {
+            "m_ID": 7751,
+            "m_lettuceMercenaryId": 71,
+            "m_lettuceMercenaryLevelId": 19,
+            "m_attack": 6,
+            "m_health": 51
+        },
+        {
+            "m_ID": 7752,
+            "m_lettuceMercenaryId": 71,
+            "m_lettuceMercenaryLevelId": 20,
+            "m_attack": 6,
+            "m_health": 53
+        },
+        {
+            "m_ID": 7753,
+            "m_lettuceMercenaryId": 71,
+            "m_lettuceMercenaryLevelId": 21,
+            "m_attack": 7,
+            "m_health": 55
+        },
+        {
+            "m_ID": 7754,
+            "m_lettuceMercenaryId": 71,
+            "m_lettuceMercenaryLevelId": 22,
+            "m_attack": 7,
+            "m_health": 57
+        },
+        {
+            "m_ID": 7755,
+            "m_lettuceMercenaryId": 71,
+            "m_lettuceMercenaryLevelId": 23,
+            "m_attack": 7,
+            "m_health": 60
+        },
+        {
+            "m_ID": 7756,
+            "m_lettuceMercenaryId": 71,
+            "m_lettuceMercenaryLevelId": 24,
+            "m_attack": 7,
+            "m_health": 62
+        },
+        {
+            "m_ID": 7757,
+            "m_lettuceMercenaryId": 71,
+            "m_lettuceMercenaryLevelId": 25,
+            "m_attack": 7,
+            "m_health": 64
+        },
+        {
+            "m_ID": 7758,
+            "m_lettuceMercenaryId": 71,
+            "m_lettuceMercenaryLevelId": 26,
+            "m_attack": 8,
+            "m_health": 66
+        },
+        {
+            "m_ID": 7759,
+            "m_lettuceMercenaryId": 71,
+            "m_lettuceMercenaryLevelId": 27,
+            "m_attack": 8,
+            "m_health": 68
+        },
+        {
+            "m_ID": 7760,
+            "m_lettuceMercenaryId": 71,
+            "m_lettuceMercenaryLevelId": 28,
+            "m_attack": 8,
+            "m_health": 70
+        },
+        {
+            "m_ID": 7761,
+            "m_lettuceMercenaryId": 71,
+            "m_lettuceMercenaryLevelId": 29,
+            "m_attack": 8,
+            "m_health": 72
+        },
+        {
+            "m_ID": 7762,
+            "m_lettuceMercenaryId": 71,
+            "m_lettuceMercenaryLevelId": 30,
+            "m_attack": 9,
+            "m_health": 75
         },
         {
             "m_ID": 8393,
@@ -58809,6 +58599,216 @@
             "m_lettuceMercenaryLevelId": 30,
             "m_attack": 13,
             "m_health": 87
+        },
+        {
+            "m_ID": 5133,
+            "m_lettuceMercenaryId": 8,
+            "m_lettuceMercenaryLevelId": 1,
+            "m_attack": 1,
+            "m_health": 12
+        },
+        {
+            "m_ID": 5134,
+            "m_lettuceMercenaryId": 8,
+            "m_lettuceMercenaryLevelId": 2,
+            "m_attack": 1,
+            "m_health": 14
+        },
+        {
+            "m_ID": 5135,
+            "m_lettuceMercenaryId": 8,
+            "m_lettuceMercenaryLevelId": 3,
+            "m_attack": 1,
+            "m_health": 16
+        },
+        {
+            "m_ID": 5136,
+            "m_lettuceMercenaryId": 8,
+            "m_lettuceMercenaryLevelId": 4,
+            "m_attack": 1,
+            "m_health": 18
+        },
+        {
+            "m_ID": 5137,
+            "m_lettuceMercenaryId": 8,
+            "m_lettuceMercenaryLevelId": 5,
+            "m_attack": 1,
+            "m_health": 20
+        },
+        {
+            "m_ID": 5138,
+            "m_lettuceMercenaryId": 8,
+            "m_lettuceMercenaryLevelId": 6,
+            "m_attack": 1,
+            "m_health": 22
+        },
+        {
+            "m_ID": 5139,
+            "m_lettuceMercenaryId": 8,
+            "m_lettuceMercenaryLevelId": 7,
+            "m_attack": 1,
+            "m_health": 24
+        },
+        {
+            "m_ID": 5140,
+            "m_lettuceMercenaryId": 8,
+            "m_lettuceMercenaryLevelId": 8,
+            "m_attack": 1,
+            "m_health": 26
+        },
+        {
+            "m_ID": 5141,
+            "m_lettuceMercenaryId": 8,
+            "m_lettuceMercenaryLevelId": 9,
+            "m_attack": 1,
+            "m_health": 28
+        },
+        {
+            "m_ID": 5142,
+            "m_lettuceMercenaryId": 8,
+            "m_lettuceMercenaryLevelId": 10,
+            "m_attack": 1,
+            "m_health": 30
+        },
+        {
+            "m_ID": 5143,
+            "m_lettuceMercenaryId": 8,
+            "m_lettuceMercenaryLevelId": 11,
+            "m_attack": 2,
+            "m_health": 32
+        },
+        {
+            "m_ID": 5144,
+            "m_lettuceMercenaryId": 8,
+            "m_lettuceMercenaryLevelId": 12,
+            "m_attack": 2,
+            "m_health": 34
+        },
+        {
+            "m_ID": 5145,
+            "m_lettuceMercenaryId": 8,
+            "m_lettuceMercenaryLevelId": 13,
+            "m_attack": 2,
+            "m_health": 36
+        },
+        {
+            "m_ID": 5146,
+            "m_lettuceMercenaryId": 8,
+            "m_lettuceMercenaryLevelId": 14,
+            "m_attack": 2,
+            "m_health": 38
+        },
+        {
+            "m_ID": 5147,
+            "m_lettuceMercenaryId": 8,
+            "m_lettuceMercenaryLevelId": 15,
+            "m_attack": 2,
+            "m_health": 40
+        },
+        {
+            "m_ID": 5148,
+            "m_lettuceMercenaryId": 8,
+            "m_lettuceMercenaryLevelId": 16,
+            "m_attack": 2,
+            "m_health": 42
+        },
+        {
+            "m_ID": 5149,
+            "m_lettuceMercenaryId": 8,
+            "m_lettuceMercenaryLevelId": 17,
+            "m_attack": 2,
+            "m_health": 44
+        },
+        {
+            "m_ID": 5150,
+            "m_lettuceMercenaryId": 8,
+            "m_lettuceMercenaryLevelId": 18,
+            "m_attack": 2,
+            "m_health": 46
+        },
+        {
+            "m_ID": 5151,
+            "m_lettuceMercenaryId": 8,
+            "m_lettuceMercenaryLevelId": 19,
+            "m_attack": 2,
+            "m_health": 48
+        },
+        {
+            "m_ID": 5152,
+            "m_lettuceMercenaryId": 8,
+            "m_lettuceMercenaryLevelId": 20,
+            "m_attack": 2,
+            "m_health": 50
+        },
+        {
+            "m_ID": 5153,
+            "m_lettuceMercenaryId": 8,
+            "m_lettuceMercenaryLevelId": 21,
+            "m_attack": 3,
+            "m_health": 52
+        },
+        {
+            "m_ID": 5154,
+            "m_lettuceMercenaryId": 8,
+            "m_lettuceMercenaryLevelId": 22,
+            "m_attack": 3,
+            "m_health": 54
+        },
+        {
+            "m_ID": 5155,
+            "m_lettuceMercenaryId": 8,
+            "m_lettuceMercenaryLevelId": 23,
+            "m_attack": 3,
+            "m_health": 56
+        },
+        {
+            "m_ID": 5156,
+            "m_lettuceMercenaryId": 8,
+            "m_lettuceMercenaryLevelId": 24,
+            "m_attack": 3,
+            "m_health": 58
+        },
+        {
+            "m_ID": 5157,
+            "m_lettuceMercenaryId": 8,
+            "m_lettuceMercenaryLevelId": 25,
+            "m_attack": 3,
+            "m_health": 60
+        },
+        {
+            "m_ID": 5158,
+            "m_lettuceMercenaryId": 8,
+            "m_lettuceMercenaryLevelId": 26,
+            "m_attack": 3,
+            "m_health": 62
+        },
+        {
+            "m_ID": 5159,
+            "m_lettuceMercenaryId": 8,
+            "m_lettuceMercenaryLevelId": 27,
+            "m_attack": 3,
+            "m_health": 64
+        },
+        {
+            "m_ID": 5160,
+            "m_lettuceMercenaryId": 8,
+            "m_lettuceMercenaryLevelId": 28,
+            "m_attack": 3,
+            "m_health": 66
+        },
+        {
+            "m_ID": 5161,
+            "m_lettuceMercenaryId": 8,
+            "m_lettuceMercenaryLevelId": 29,
+            "m_attack": 3,
+            "m_health": 68
+        },
+        {
+            "m_ID": 5162,
+            "m_lettuceMercenaryId": 8,
+            "m_lettuceMercenaryLevelId": 30,
+            "m_attack": 4,
+            "m_health": 70
         }
     ]
 }
