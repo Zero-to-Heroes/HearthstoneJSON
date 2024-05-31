@@ -5692,52 +5692,6 @@
             }
         },
         {
-            "m_ID": 90,
-            "m_lettuceMercenaryId": 52,
-            "m_name": {
-                "m_locValues": [
-                    "Orc",
-                    "Orc",
-                    "Orco",
-                    "Orco",
-                    "Orc",
-                    "Orco",
-                    "オーク",
-                    "오크",
-                    "Ork",
-                    "Orc",
-                    "Орк",
-                    "ออร์ค",
-                    "兽人",
-                    "獸人"
-                ],
-                "m_locId": 2752960
-            }
-        },
-        {
-            "m_ID": 91,
-            "m_lettuceMercenaryId": 53,
-            "m_name": {
-                "m_locValues": [
-                    "Orc",
-                    "Orc",
-                    "Orco",
-                    "Orco",
-                    "Orc",
-                    "Orco",
-                    "オーク",
-                    "오크",
-                    "Ork",
-                    "Orc",
-                    "Орк",
-                    "ออร์ค",
-                    "兽人",
-                    "獸人"
-                ],
-                "m_locId": 2752978
-            }
-        },
-        {
             "m_ID": 83,
             "m_lettuceMercenaryId": 45,
             "m_name": {
@@ -5784,29 +5738,6 @@
             }
         },
         {
-            "m_ID": 92,
-            "m_lettuceMercenaryId": 54,
-            "m_name": {
-                "m_locValues": [
-                    "Demon",
-                    "Dämon",
-                    "Demonio",
-                    "Demonio",
-                    "Démon",
-                    "Demone",
-                    "悪魔",
-                    "악마",
-                    "Demon",
-                    "Demônio",
-                    "Демон",
-                    "ปีศาจ",
-                    "恶魔",
-                    "惡魔"
-                ],
-                "m_locId": 2753477
-            }
-        },
-        {
             "m_ID": 9,
             "m_lettuceMercenaryId": 5,
             "m_name": {
@@ -5827,6 +5758,98 @@
                     "神聖"
                 ],
                 "m_locId": 2745527
+            }
+        },
+        {
+            "m_ID": 88,
+            "m_lettuceMercenaryId": 50,
+            "m_name": {
+                "m_locValues": [
+                    "Orc",
+                    "Orc",
+                    "Orco",
+                    "Orco",
+                    "Orc",
+                    "Orco",
+                    "オーク",
+                    "오크",
+                    "Ork",
+                    "Orc",
+                    "Орк",
+                    "ออร์ค",
+                    "兽人",
+                    "獸人"
+                ],
+                "m_locId": 2752735
+            }
+        },
+        {
+            "m_ID": 90,
+            "m_lettuceMercenaryId": 52,
+            "m_name": {
+                "m_locValues": [
+                    "Orc",
+                    "Orc",
+                    "Orco",
+                    "Orco",
+                    "Orc",
+                    "Orco",
+                    "オーク",
+                    "오크",
+                    "Ork",
+                    "Orc",
+                    "Орк",
+                    "ออร์ค",
+                    "兽人",
+                    "獸人"
+                ],
+                "m_locId": 2752960
+            }
+        },
+        {
+            "m_ID": 91,
+            "m_lettuceMercenaryId": 53,
+            "m_name": {
+                "m_locValues": [
+                    "Orc",
+                    "Orc",
+                    "Orco",
+                    "Orco",
+                    "Orc",
+                    "Orco",
+                    "オーク",
+                    "오크",
+                    "Ork",
+                    "Orc",
+                    "Орк",
+                    "ออร์ค",
+                    "兽人",
+                    "獸人"
+                ],
+                "m_locId": 2752978
+            }
+        },
+        {
+            "m_ID": 92,
+            "m_lettuceMercenaryId": 54,
+            "m_name": {
+                "m_locValues": [
+                    "Demon",
+                    "Dämon",
+                    "Demonio",
+                    "Demonio",
+                    "Démon",
+                    "Demone",
+                    "悪魔",
+                    "악마",
+                    "Demon",
+                    "Demônio",
+                    "Демон",
+                    "ปีศาจ",
+                    "恶魔",
+                    "惡魔"
+                ],
+                "m_locId": 2753477
             }
         },
         {
@@ -5922,52 +5945,6 @@
             }
         },
         {
-            "m_ID": 88,
-            "m_lettuceMercenaryId": 50,
-            "m_name": {
-                "m_locValues": [
-                    "Orc",
-                    "Orc",
-                    "Orco",
-                    "Orco",
-                    "Orc",
-                    "Orco",
-                    "オーク",
-                    "오크",
-                    "Ork",
-                    "Orc",
-                    "Орк",
-                    "ออร์ค",
-                    "兽人",
-                    "獸人"
-                ],
-                "m_locId": 2752735
-            }
-        },
-        {
-            "m_ID": 17,
-            "m_lettuceMercenaryId": 9,
-            "m_name": {
-                "m_locValues": [
-                    "Human",
-                    "Mensch",
-                    "Humano",
-                    "Humano",
-                    "Humain",
-                    "Umano",
-                    "ヒューマン",
-                    "인간",
-                    "Człowiek",
-                    "Humano",
-                    "Человек",
-                    "มนุษย์",
-                    "人类",
-                    "人類"
-                ],
-                "m_locId": 2745519
-            }
-        },
-        {
             "m_ID": 105,
             "m_lettuceMercenaryId": 60,
             "m_name": {
@@ -6034,52 +6011,6 @@
                     "野獸"
                 ],
                 "m_locId": 2755093
-            }
-        },
-        {
-            "m_ID": 150,
-            "m_lettuceMercenaryId": 93,
-            "m_name": {
-                "m_locValues": [
-                    "Human",
-                    "Mensch",
-                    "Humano",
-                    "Humano",
-                    "Humain",
-                    "Umano",
-                    "ヒューマン",
-                    "인간",
-                    "Człowiek",
-                    "Humano",
-                    "Человек",
-                    "มนุษย์",
-                    "人类",
-                    "人類"
-                ],
-                "m_locId": 2759583
-            }
-        },
-        {
-            "m_ID": 151,
-            "m_lettuceMercenaryId": 94,
-            "m_name": {
-                "m_locValues": [
-                    "Human",
-                    "Mensch",
-                    "Humano",
-                    "Humano",
-                    "Humain",
-                    "Umano",
-                    "ヒューマン",
-                    "인간",
-                    "Człowiek",
-                    "Humano",
-                    "Человек",
-                    "มนุษย์",
-                    "人类",
-                    "人類"
-                ],
-                "m_locId": 2759584
             }
         },
         {
@@ -6152,29 +6083,6 @@
             }
         },
         {
-            "m_ID": 152,
-            "m_lettuceMercenaryId": 95,
-            "m_name": {
-                "m_locValues": [
-                    "Human",
-                    "Mensch",
-                    "Humano",
-                    "Humano",
-                    "Humain",
-                    "Umano",
-                    "ヒューマン",
-                    "인간",
-                    "Człowiek",
-                    "Humano",
-                    "Человек",
-                    "มนุษย์",
-                    "人类",
-                    "人類"
-                ],
-                "m_locId": 2759585
-            }
-        },
-        {
             "m_ID": 130,
             "m_lettuceMercenaryId": 71,
             "m_name": {
@@ -6195,6 +6103,121 @@
                     "攻擊"
                 ],
                 "m_locId": 2755100
+            }
+        },
+        {
+            "m_ID": 15,
+            "m_lettuceMercenaryId": 8,
+            "m_name": {
+                "m_locValues": [
+                    "Shadow",
+                    "Schatten",
+                    "Sombras",
+                    "Sombra",
+                    "Ombre",
+                    "Ombra",
+                    "影",
+                    "암흑",
+                    "Cień",
+                    "Sombra",
+                    "Тьма",
+                    "ความมืด",
+                    "暗影",
+                    "暗影"
+                ],
+                "m_locId": 2745545
+            }
+        },
+        {
+            "m_ID": 17,
+            "m_lettuceMercenaryId": 9,
+            "m_name": {
+                "m_locValues": [
+                    "Human",
+                    "Mensch",
+                    "Humano",
+                    "Humano",
+                    "Humain",
+                    "Umano",
+                    "ヒューマン",
+                    "인간",
+                    "Człowiek",
+                    "Humano",
+                    "Человек",
+                    "มนุษย์",
+                    "人类",
+                    "人類"
+                ],
+                "m_locId": 2745519
+            }
+        },
+        {
+            "m_ID": 150,
+            "m_lettuceMercenaryId": 93,
+            "m_name": {
+                "m_locValues": [
+                    "Human",
+                    "Mensch",
+                    "Humano",
+                    "Humano",
+                    "Humain",
+                    "Umano",
+                    "ヒューマン",
+                    "인간",
+                    "Człowiek",
+                    "Humano",
+                    "Человек",
+                    "มนุษย์",
+                    "人类",
+                    "人類"
+                ],
+                "m_locId": 2759583
+            }
+        },
+        {
+            "m_ID": 151,
+            "m_lettuceMercenaryId": 94,
+            "m_name": {
+                "m_locValues": [
+                    "Human",
+                    "Mensch",
+                    "Humano",
+                    "Humano",
+                    "Humain",
+                    "Umano",
+                    "ヒューマン",
+                    "인간",
+                    "Człowiek",
+                    "Humano",
+                    "Человек",
+                    "มนุษย์",
+                    "人类",
+                    "人類"
+                ],
+                "m_locId": 2759584
+            }
+        },
+        {
+            "m_ID": 152,
+            "m_lettuceMercenaryId": 95,
+            "m_name": {
+                "m_locValues": [
+                    "Human",
+                    "Mensch",
+                    "Humano",
+                    "Humano",
+                    "Humain",
+                    "Umano",
+                    "ヒューマン",
+                    "인간",
+                    "Człowiek",
+                    "Humano",
+                    "Человек",
+                    "มนุษย์",
+                    "人类",
+                    "人類"
+                ],
+                "m_locId": 2759585
             }
         },
         {
@@ -6264,29 +6287,6 @@
                     "未分類"
                 ],
                 "m_locId": 2761077
-            }
-        },
-        {
-            "m_ID": 15,
-            "m_lettuceMercenaryId": 8,
-            "m_name": {
-                "m_locValues": [
-                    "Shadow",
-                    "Schatten",
-                    "Sombras",
-                    "Sombra",
-                    "Ombre",
-                    "Ombra",
-                    "影",
-                    "암흑",
-                    "Cień",
-                    "Sombra",
-                    "Тьма",
-                    "ความมืด",
-                    "暗影",
-                    "暗影"
-                ],
-                "m_locId": 2745545
             }
         }
     ]

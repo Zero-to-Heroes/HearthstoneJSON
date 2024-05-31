@@ -875,6 +875,150 @@
             "m_borderType": 1
         },
         {
+            "m_ID": 4,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_fullBoardPrefab": "ThreeKingdoms_1_Board.prefab:98f7b00ca6b598748a81e83c7e0ab1a3",
+            "m_fullBoardPrefabPhone": "ThreeKingdoms_1_Board_Phone.prefab:4bf3385fe00f06e4cb237c07d72f305a",
+            "m_fullTavernBoardPrefab": "Default_1T_Board.prefab:3e3de375694b2504cb99031806d0d068",
+            "m_fullTavernBoardPrefabPhone": "Default_1T_Board_Phone.prefab:9fc3c1e16769c6b4982d89c6b7c43843",
+            "m_collectionName": {
+                "m_locValues": [
+                    "Jade Gardens",
+                    "Jadegärten",
+                    "Jardines de jade",
+                    "Jardines de jade",
+                    "Jardins de jade",
+                    "Giardini di Giada",
+                    "翡翠の園",
+                    "비취 정원",
+                    "Nefrytowe Ogrody",
+                    "Jardins de Jade",
+                    "Нефритовые сады",
+                    "สวนหยก",
+                    "青玉园林",
+                    "翠玉花園"
+                ],
+                "m_locId": 2813218
+            },
+            "m_collectionShortName": {
+                "m_locValues": [
+                    "Jade Gardens",
+                    "Jadegärten",
+                    "Jardines de jade",
+                    "Jardines de jade",
+                    "Jardins de jade",
+                    "Giardini di Giada",
+                    "翡翠の園",
+                    "비취 정원",
+                    "Nefrytowe Ogrody",
+                    "Jardins de Jade",
+                    "Нефритовые сады",
+                    "สวนหยก",
+                    "青玉园林",
+                    "翠玉花園"
+                ],
+                "m_locId": 2815901
+            },
+            "m_description": {
+                "m_locValues": [
+                    "The most noble of jade golems watch over this warrior's terrace.",
+                    "Die edelsten Jadegolems wachen über diese Terrasse der Krieger.",
+                    "Los gólems de jade más nobles vigilan la terraza de este guerrero.",
+                    "Los gólems de jade más nobles protegen este bancal de guerreros.",
+                    "Le plus noble des golems de jade protège la terrasse de ce guerrier.",
+                    "Il più nobile dei Golem di Giada protegge questa terrazza dei guerrieri.",
+                    "最も高貴なる翡翠のゴーレム達がこの戦士のテラスを見守っている。",
+                    "가장 고귀한 비취 골렘들이 전사들의 정원을 지켜봅니다.",
+                    "Tego skweru wojowników strzegą najszlachetniejsze spośród nefrytowych golemów.",
+                    "O mais nobre dos golens de jade vigia o terraço deste guerreiro.",
+                    "Эту террасу воинов охраняют самые благородные нефритовые големы.",
+                    "เหล่าเจดโกเล็ม[b]ผู้ทรงคุณธรรม[b]คอยคุ้มครองสวน[b]ของนักรบแห่งนี้",
+                    "这片猛将的园地由最高贵的青玉魔像亲自把守。",
+                    "這座戰士的露台由最尊貴的翠玉魔像把守著。"
+                ],
+                "m_locId": 2813219
+            },
+            "m_detailsTexture": "ThreeKingdoms_1_Texture_Details.tif:c86c876721991444088f3d1a1baaed3c",
+            "m_detailsTexturePhone": "ThreeKingdoms_1_Texture_Details_Phone.tif:17a093f7a4894a545a9271d50e35a743",
+            "m_detailsMovie": "ThreeKingdoms_1_Video.mp4:7f2fbc35b6135f647a998101467b144f",
+            "m_detailsMoviePhone": "ThreeKingdoms_1_Video_Phone.mp4:09ef6ca685a2d6746804d557b66439d6",
+            "m_detailsRenderConfig": "ThreeKingdoms_1_Configuration.asset:b8068f984f1827d4a9263834d1e8c894",
+            "m_borderType": 0
+        },
+        {
+            "m_ID": 40,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_fullBoardPrefab": "SilvermoonScourge_1_Board.prefab:e8689f737f6a06840a6c0c1ed727d134",
+            "m_fullBoardPrefabPhone": "SilvermoonScourge_1_Board_Phone.prefab:08e2839c074e02e41a93d8ce189449e6",
+            "m_fullTavernBoardPrefab": "Default_1T_Board.prefab:3e3de375694b2504cb99031806d0d068",
+            "m_fullTavernBoardPrefabPhone": "Default_1T_Board_Phone.prefab:9fc3c1e16769c6b4982d89c6b7c43843",
+            "m_collectionName": {
+                "m_locValues": [
+                    "The Ramparts",
+                    "Die Befestigungen",
+                    "Las murallas",
+                    "Las murallas",
+                    "Les remparts",
+                    "Bastioni",
+                    "塁壁",
+                    "진지",
+                    "Umocnienia",
+                    "As Muralhas",
+                    "Укрепления",
+                    "ปราการแนวรบ",
+                    "战火城墙",
+                    "堡壘"
+                ],
+                "m_locId": 2861371
+            },
+            "m_collectionShortName": {
+                "m_locValues": [
+                    "The Ramparts",
+                    "Die Befestigungen",
+                    "Las murallas",
+                    "Las murallas",
+                    "Les remparts",
+                    "Bastioni",
+                    "塁壁",
+                    "진지",
+                    "Umocnienia",
+                    "As Muralhas",
+                    "Укрепления",
+                    "ปราการแนวรบ",
+                    "战火城墙",
+                    "堡壘"
+                ],
+                "m_locId": 2861372
+            },
+            "m_description": {
+                "m_locValues": [
+                    "The fight for Silvermoon is here. Choose your side and take the fight to the Battlegrounds!\n\nEarnable after purchasing the Battlegrounds Season Pass in Season <i>3</i>.",
+                    "Der Kampf um Silbermond hat begonnen. Wählt Eure Seite und tragt den Kampf auf das Schlachtfeld!\n\nKann nach Kauf des Schlachtfeld-Saisonpasses in Saison <i>3</i> freigeschaltet werden.",
+                    "La batalla por Lunargenta ha llegado. ¡Elige tu bando y ponte a luchar en Campos de batalla!\n\nSe puede conseguir al comprar el pase de temporada de Campos de batalla en la temporada <i>3</i>.",
+                    "La batalla por Lunargenta ha comenzado. ¡Elige tu bando y lleva la pelea a los Campos de batalla!\n\nSe puede obtener después de comprar el Pase de temporada de Campos de batalla en la temporada <i>3</i>.",
+                    "L’heure de la bataille pour Lune-d’Argent est arrivée. Choisissez votre camp et faites-lui honneur sur les champs de bataille.\n\nS’obtient après avoir acheté le ticket saisonnier des champs de bataille lors de la saison <i>3</i>.",
+                    "Lo scontro per Lunargenta è iniziato. Scegli da che parte stare e combatti in Battaglia!\n\nOttenibile dopo aver acquistato il Pass Battaglia Stagionale nella Stagione <i>3</i>.",
+                    "シルバームーンの戦いが始まる。寄騎する陣営を選び、バトルグラウンドに挑もう！\n\nバトルグラウンド・シーズン<i>3</i>の「シーズンパス」購入後に獲得可能となる。",
+                    "실버문 전투가 시작되었습니다. 진영을 선택하고 전장으로 나아가세요!\n\n<i>3</i> 시즌 전장 시즌 패스를 구매한 후 획득 가능",
+                    "Nadeszła bitwa o Srebrną Lunę. Opowiedz się po którejś stronie i przenieś walkę do Ustawki!\n\nDo zdobycia w karnecie sezonowym Ustawki w sezonie <i>3</i>.",
+                    "A luta por Luaprata já começou. Escolha seu lado e entre nos Campos de Batalha!\n\nPossível de obter após comprar o Passe de Temporada dos Campos de Batalha na Temporada <i>3</i>.",
+                    "Битва за Луносвет началась. Выберите сторону и отправьтесь на поля сражений!\n\nМожно открыть после покупки пропуска <i>3-го</i> сезона полей сражений.",
+                    "ศึกชิงซิลเวอร์มูนเริ่มขึ้นแล้ว เลือกฝ่ายของคุณแล้วต่อสู้[b]ชิงชัยใน Battlegrounds!\n\nปลดล็อคได้หลังจากซื้อ\nซีซันพาส_Battlegrounds ในซีซัน_<i>3</i>",
+                    "银月城之战在此打响。选择你的阵营，在酒馆战棋中大战一番吧！\n\n购买第<i>3</i>赛季的酒馆战棋赛季通行证后开放解锁。",
+                    "銀月城之戰即將到來。選擇你的陣營，在英雄戰場中奮戰吧！\n\n需在賽季<i>3</i>購買英雄戰場賽季通行證才有機會取得。"
+                ],
+                "m_locId": 2861373
+            },
+            "m_detailsTexture": "Default_C_Texture_Details.tif:eabeb582892282b44bbbc7a595f743bc",
+            "m_detailsTexturePhone": "Default_1C_Texture_Details_Phone.tif:ba985e88917058d4ca530c44fb42d8f6",
+            "m_detailsMovie": "UndeadVsSilvermoon_PC_GS_001.mp4:f5ff8fc20a6c5a1448feba0f8e17f695",
+            "m_detailsMoviePhone": "UndeadVsSilvermoon_Mobile_GS_001.mp4:c2c6f6103079dbf448f1cbece3a36937",
+            "m_detailsRenderConfig": "SilvermoonScourge_1_Configuration.asset:85630085c3b7e0840824f2493e3d8b38",
+            "m_borderType": 0
+        },
+        {
             "m_ID": 42,
             "m_enabled": 1,
             "m_rarityId": 4,
@@ -1019,78 +1163,6 @@
             "m_borderType": 0
         },
         {
-            "m_ID": 4,
-            "m_enabled": 1,
-            "m_rarityId": 3,
-            "m_fullBoardPrefab": "ThreeKingdoms_1_Board.prefab:98f7b00ca6b598748a81e83c7e0ab1a3",
-            "m_fullBoardPrefabPhone": "ThreeKingdoms_1_Board_Phone.prefab:4bf3385fe00f06e4cb237c07d72f305a",
-            "m_fullTavernBoardPrefab": "Default_1T_Board.prefab:3e3de375694b2504cb99031806d0d068",
-            "m_fullTavernBoardPrefabPhone": "Default_1T_Board_Phone.prefab:9fc3c1e16769c6b4982d89c6b7c43843",
-            "m_collectionName": {
-                "m_locValues": [
-                    "Jade Gardens",
-                    "Jadegärten",
-                    "Jardines de jade",
-                    "Jardines de jade",
-                    "Jardins de jade",
-                    "Giardini di Giada",
-                    "翡翠の園",
-                    "비취 정원",
-                    "Nefrytowe Ogrody",
-                    "Jardins de Jade",
-                    "Нефритовые сады",
-                    "สวนหยก",
-                    "青玉园林",
-                    "翠玉花園"
-                ],
-                "m_locId": 2813218
-            },
-            "m_collectionShortName": {
-                "m_locValues": [
-                    "Jade Gardens",
-                    "Jadegärten",
-                    "Jardines de jade",
-                    "Jardines de jade",
-                    "Jardins de jade",
-                    "Giardini di Giada",
-                    "翡翠の園",
-                    "비취 정원",
-                    "Nefrytowe Ogrody",
-                    "Jardins de Jade",
-                    "Нефритовые сады",
-                    "สวนหยก",
-                    "青玉园林",
-                    "翠玉花園"
-                ],
-                "m_locId": 2815901
-            },
-            "m_description": {
-                "m_locValues": [
-                    "The most noble of jade golems watch over this warrior's terrace.",
-                    "Die edelsten Jadegolems wachen über diese Terrasse der Krieger.",
-                    "Los gólems de jade más nobles vigilan la terraza de este guerrero.",
-                    "Los gólems de jade más nobles protegen este bancal de guerreros.",
-                    "Le plus noble des golems de jade protège la terrasse de ce guerrier.",
-                    "Il più nobile dei Golem di Giada protegge questa terrazza dei guerrieri.",
-                    "最も高貴なる翡翠のゴーレム達がこの戦士のテラスを見守っている。",
-                    "가장 고귀한 비취 골렘들이 전사들의 정원을 지켜봅니다.",
-                    "Tego skweru wojowników strzegą najszlachetniejsze spośród nefrytowych golemów.",
-                    "O mais nobre dos golens de jade vigia o terraço deste guerreiro.",
-                    "Эту террасу воинов охраняют самые благородные нефритовые големы.",
-                    "เหล่าเจดโกเล็ม[b]ผู้ทรงคุณธรรม[b]คอยคุ้มครองสวน[b]ของนักรบแห่งนี้",
-                    "这片猛将的园地由最高贵的青玉魔像亲自把守。",
-                    "這座戰士的露台由最尊貴的翠玉魔像把守著。"
-                ],
-                "m_locId": 2813219
-            },
-            "m_detailsTexture": "ThreeKingdoms_1_Texture_Details.tif:c86c876721991444088f3d1a1baaed3c",
-            "m_detailsTexturePhone": "ThreeKingdoms_1_Texture_Details_Phone.tif:17a093f7a4894a545a9271d50e35a743",
-            "m_detailsMovie": "ThreeKingdoms_1_Video.mp4:7f2fbc35b6135f647a998101467b144f",
-            "m_detailsMoviePhone": "ThreeKingdoms_1_Video_Phone.mp4:09ef6ca685a2d6746804d557b66439d6",
-            "m_detailsRenderConfig": "ThreeKingdoms_1_Configuration.asset:b8068f984f1827d4a9263834d1e8c894",
-            "m_borderType": 0
-        },
-        {
             "m_ID": 45,
             "m_enabled": 1,
             "m_rarityId": 3,
@@ -1160,78 +1232,6 @@
             "m_detailsMovie": "Scholomance_ForbiddenLibrary_PC.mp4:c2ba1174e41ec2744ba081e1a4daf6e3",
             "m_detailsMoviePhone": "Scholomance_ForbiddenLibrary_Phone.mp4:85fb0064f3ac05947b81b47447e30f81",
             "m_detailsRenderConfig": "Scholomance_Board_Configuration.asset:1f54f4ca4b92faf40b388464cc68a9ca",
-            "m_borderType": 0
-        },
-        {
-            "m_ID": 40,
-            "m_enabled": 1,
-            "m_rarityId": 3,
-            "m_fullBoardPrefab": "SilvermoonScourge_1_Board.prefab:e8689f737f6a06840a6c0c1ed727d134",
-            "m_fullBoardPrefabPhone": "SilvermoonScourge_1_Board_Phone.prefab:08e2839c074e02e41a93d8ce189449e6",
-            "m_fullTavernBoardPrefab": "Default_1T_Board.prefab:3e3de375694b2504cb99031806d0d068",
-            "m_fullTavernBoardPrefabPhone": "Default_1T_Board_Phone.prefab:9fc3c1e16769c6b4982d89c6b7c43843",
-            "m_collectionName": {
-                "m_locValues": [
-                    "The Ramparts",
-                    "Die Befestigungen",
-                    "Las murallas",
-                    "Las murallas",
-                    "Les remparts",
-                    "Bastioni",
-                    "塁壁",
-                    "진지",
-                    "Umocnienia",
-                    "As Muralhas",
-                    "Укрепления",
-                    "ปราการแนวรบ",
-                    "战火城墙",
-                    "堡壘"
-                ],
-                "m_locId": 2861371
-            },
-            "m_collectionShortName": {
-                "m_locValues": [
-                    "The Ramparts",
-                    "Die Befestigungen",
-                    "Las murallas",
-                    "Las murallas",
-                    "Les remparts",
-                    "Bastioni",
-                    "塁壁",
-                    "진지",
-                    "Umocnienia",
-                    "As Muralhas",
-                    "Укрепления",
-                    "ปราการแนวรบ",
-                    "战火城墙",
-                    "堡壘"
-                ],
-                "m_locId": 2861372
-            },
-            "m_description": {
-                "m_locValues": [
-                    "The fight for Silvermoon is here. Choose your side and take the fight to the Battlegrounds!\n\nEarnable after purchasing the Battlegrounds Season Pass in Season <i>3</i>.",
-                    "Der Kampf um Silbermond hat begonnen. Wählt Eure Seite und tragt den Kampf auf das Schlachtfeld!\n\nKann nach Kauf des Schlachtfeld-Saisonpasses in Saison <i>3</i> freigeschaltet werden.",
-                    "La batalla por Lunargenta ha llegado. ¡Elige tu bando y ponte a luchar en Campos de batalla!\n\nSe puede conseguir al comprar el pase de temporada de Campos de batalla en la temporada <i>3</i>.",
-                    "La batalla por Lunargenta ha comenzado. ¡Elige tu bando y lleva la pelea a los Campos de batalla!\n\nSe puede obtener después de comprar el Pase de temporada de Campos de batalla en la temporada <i>3</i>.",
-                    "L’heure de la bataille pour Lune-d’Argent est arrivée. Choisissez votre camp et faites-lui honneur sur les champs de bataille.\n\nS’obtient après avoir acheté le ticket saisonnier des champs de bataille lors de la saison <i>3</i>.",
-                    "Lo scontro per Lunargenta è iniziato. Scegli da che parte stare e combatti in Battaglia!\n\nOttenibile dopo aver acquistato il Pass Battaglia Stagionale nella Stagione <i>3</i>.",
-                    "シルバームーンの戦いが始まる。寄騎する陣営を選び、バトルグラウンドに挑もう！\n\nバトルグラウンド・シーズン<i>3</i>の「シーズンパス」購入後に獲得可能となる。",
-                    "실버문 전투가 시작되었습니다. 진영을 선택하고 전장으로 나아가세요!\n\n<i>3</i> 시즌 전장 시즌 패스를 구매한 후 획득 가능",
-                    "Nadeszła bitwa o Srebrną Lunę. Opowiedz się po którejś stronie i przenieś walkę do Ustawki!\n\nDo zdobycia w karnecie sezonowym Ustawki w sezonie <i>3</i>.",
-                    "A luta por Luaprata já começou. Escolha seu lado e entre nos Campos de Batalha!\n\nPossível de obter após comprar o Passe de Temporada dos Campos de Batalha na Temporada <i>3</i>.",
-                    "Битва за Луносвет началась. Выберите сторону и отправьтесь на поля сражений!\n\nМожно открыть после покупки пропуска <i>3-го</i> сезона полей сражений.",
-                    "ศึกชิงซิลเวอร์มูนเริ่มขึ้นแล้ว เลือกฝ่ายของคุณแล้วต่อสู้[b]ชิงชัยใน Battlegrounds!\n\nปลดล็อคได้หลังจากซื้อ\nซีซันพาส_Battlegrounds ในซีซัน_<i>3</i>",
-                    "银月城之战在此打响。选择你的阵营，在酒馆战棋中大战一番吧！\n\n购买第<i>3</i>赛季的酒馆战棋赛季通行证后开放解锁。",
-                    "銀月城之戰即將到來。選擇你的陣營，在英雄戰場中奮戰吧！\n\n需在賽季<i>3</i>購買英雄戰場賽季通行證才有機會取得。"
-                ],
-                "m_locId": 2861373
-            },
-            "m_detailsTexture": "Default_C_Texture_Details.tif:eabeb582892282b44bbbc7a595f743bc",
-            "m_detailsTexturePhone": "Default_1C_Texture_Details_Phone.tif:ba985e88917058d4ca530c44fb42d8f6",
-            "m_detailsMovie": "UndeadVsSilvermoon_PC_GS_001.mp4:f5ff8fc20a6c5a1448feba0f8e17f695",
-            "m_detailsMoviePhone": "UndeadVsSilvermoon_Mobile_GS_001.mp4:c2c6f6103079dbf448f1cbece3a36937",
-            "m_detailsRenderConfig": "SilvermoonScourge_1_Configuration.asset:85630085c3b7e0840824f2493e3d8b38",
             "m_borderType": 0
         },
         {
@@ -1307,78 +1307,6 @@
             "m_borderType": 1
         },
         {
-            "m_ID": 53,
-            "m_enabled": 1,
-            "m_rarityId": 3,
-            "m_fullBoardPrefab": "LunarFireFestival_1C.prefab:ebbbcf8fd1a947d48ad3eb7907617112",
-            "m_fullBoardPrefabPhone": "LunarFireFestival_1C_Phone.prefab:1582e8cdf88445643a23c18a6b769acb",
-            "m_fullTavernBoardPrefab": "Default_1T_Board.prefab:3e3de375694b2504cb99031806d0d068",
-            "m_fullTavernBoardPrefabPhone": "Default_1T_Board_Phone.prefab:9fc3c1e16769c6b4982d89c6b7c43843",
-            "m_collectionName": {
-                "m_locValues": [
-                    "Dragon Grounds",
-                    "Drachenfeld",
-                    "Campo de los Dragones",
-                    "Terreno de Dragones",
-                    "Terres draconiques",
-                    "Terreni del Drago",
-                    "ドラゴングラウンド",
-                    "용의 대지",
-                    "Smocze Terytorium",
-                    "Território Dracônico",
-                    "Драконьи земли",
-                    "ลานมังกร",
-                    "舞龙之园",
-                    "巨龍之地"
-                ],
-                "m_locId": 2886346
-            },
-            "m_collectionShortName": {
-                "m_locValues": [
-                    "Dragon Grounds",
-                    "Drachenfeld",
-                    "Campo de los Dragones",
-                    "Terreno de Dragones",
-                    "Terres draconiques",
-                    "Terreni del Drago",
-                    "ドラゴングラウンド",
-                    "용의 대지",
-                    "Smocze Terytorium",
-                    "Território Dracônico",
-                    "Драконьи земли",
-                    "ลานมังกร",
-                    "舞龙之园",
-                    "巨龍之地"
-                ],
-                "m_locId": 2886347
-            },
-            "m_description": {
-                "m_locValues": [
-                    "Get ready for a roarin’ celebration!\n\nPurchasable when available in the shop.",
-                    "Dieses Fest wird der Brüller!\n\nKann im Shop erworben werden.",
-                    "¡Prepárate para una celebración a base de rugidos!\n\nSe compra en la tienda cuando esté disponible.",
-                    "¡Prepárate para una estruendosa celebración!\n\nSe compra cuando esté disponible en la tienda.",
-                    "Une fête inoubliable vous attend !\n\nCe plateau s’obtient en l’achetant lorsqu’il est disponible dans la boutique.",
-                    "Preparati a dei festeggiamenti infiammati!\n\nAcquistabile quando disponibile nel negozio.",
-                    "高らかにお祝いの咆哮をあげろ！\n\nショップでの販売時に購入可能。",
-                    "시끌벅적한 축제를 준비하세요!\n\n상점에서 판매 시 구매하여 획득",
-                    "Jak świętować, to ze smokami!\n\nDo zakupu po udostępnieniu w sklepie.",
-                    "Essa celebração promete botar pra esquentar!\n\nPossível de adquirir quando disponível na loja.",
-                    "Новый год с рыком врывается в вашу жизнь — встречайте его!\n\nМожно приобрести в магазине.",
-                    "เตรียมตัวฉลองกันให้กึกก้อง!\n\nซื้อได้เมื่อวางจำหน่ายในร้านค้า",
-                    "舞龙长啸，喜迎新春！\n\n可以在上架期间在商店购买。",
-                    "準備好在狂吼之中大肆慶祝吧！\n\n於商店上架時可購買取得。"
-                ],
-                "m_locId": 2886348
-            },
-            "m_detailsTexture": "",
-            "m_detailsTexturePhone": "",
-            "m_detailsMovie": "",
-            "m_detailsMoviePhone": "",
-            "m_detailsRenderConfig": "LunarFireFestival_Configuration.asset:6d4fa5c4ac5a8cd4c8358c82f0c13762",
-            "m_borderType": 0
-        },
-        {
             "m_ID": 49,
             "m_enabled": 1,
             "m_rarityId": 4,
@@ -1451,78 +1379,6 @@
             "m_borderType": 1
         },
         {
-            "m_ID": 54,
-            "m_enabled": 1,
-            "m_rarityId": 3,
-            "m_fullBoardPrefab": "10thAnnie_Board.prefab:97ff30d1c5e74e24e8a55c3bc1d64f20",
-            "m_fullBoardPrefabPhone": "10thAnnie_Board_Phone.prefab:bdd8debd31d2ed84caab153e0e7c3951",
-            "m_fullTavernBoardPrefab": "Default_1T_Board.prefab:3e3de375694b2504cb99031806d0d068",
-            "m_fullTavernBoardPrefabPhone": "Default_1T_Board_Phone.prefab:9fc3c1e16769c6b4982d89c6b7c43843",
-            "m_collectionName": {
-                "m_locValues": [
-                    "Anniversary",
-                    "Jubiläum",
-                    "Aniversario",
-                    "Aniversario",
-                    "Anniversaire",
-                    "Anniversario",
-                    "アニバーサリー",
-                    "기념일",
-                    "Jubileusz",
-                    "Aniversário",
-                    "Годовщина",
-                    "ฉลองครบรอบ",
-                    "周年庆典",
-                    "週年慶"
-                ],
-                "m_locId": 2889291
-            },
-            "m_collectionShortName": {
-                "m_locValues": [
-                    "Anniversary",
-                    "Jubiläum",
-                    "Aniversario",
-                    "Aniversario",
-                    "Anniversaire",
-                    "Anniversario",
-                    "アニバーサリー",
-                    "기념일",
-                    "Jubileusz",
-                    "Aniversário",
-                    "Годовщина",
-                    "ฉลองครบรอบ",
-                    "周年庆典",
-                    "週年慶"
-                ],
-                "m_locId": 2889292
-            },
-            "m_description": {
-                "m_locValues": [
-                    "When it’s your birthday, you can have your cake and fight it too!\n\nPurchasable when available in the shop.",
-                    "Am Geburtstag ist der Kuchen nicht nur zum Essen da!\n\nKann bei Verfügbarkeit im Shop erworben werden.",
-                    "Cuando sea tu cumple, ¡podrás tomar tarta y darte de tortas con ella!\n\nSe compra en la tienda cuando esté disponible.",
-                    "Cuando sea tu cumpleaños, ¡podrás comer pastel y dar pastelazos!\n\nSe puede comprar si está disponible en la tienda.",
-                    "Les anniversaires sont l’occasion rêvée de se faire plaisir et de se défouler !\n\nCe plateau peut être acheté lorsqu’il est disponible dans la boutique.",
-                    "In occasione del tuo compleanno, torte e zuffe sono d'obbligo!\n\nAcquistabile quando disponibile nel negozio.",
-                    "このケーキは見る用？食べる用？バースデーの主役ならどっちもアリだ！\n\nショップでの販売時に購入可能。",
-                    "여러분 생일에는 케이크도 받고 케이크에서 싸울 수도 있습니다!\n\n상점에서 판매 시 구매하여 획득",
-                    "Nie ma jak torcik i Ustaweczka w urodzinki!\n\nDo zakupu po udostępnieniu w sklepie.",
-                    "No dia do seu aniversário, você ganha o bolo e ainda pode lutar com ele!\n\nPossível de adquirir quando disponível na loja.",
-                    "День рождения — время получать подарки и раздавать тумаки!\n\nМожно приобрести в магазине.",
-                    "ในวันเกิดของคุณ_คุณไม่ต้อง[b]เลือกว่าจะกินเค้กหรือจะต่อสู้!\n\nซื้อได้เมื่อวางจำหน่ายในร้านค้า",
-                    "生日蛋糕，好吃又好玩！\n\n可以在上架期间在商店购买。",
-                    "在你的生日當天，你可以吃蛋糕，也可以跟蛋糕對戰！\n\n於商店上架時可購買取得。"
-                ],
-                "m_locId": 2889293
-            },
-            "m_detailsTexture": "",
-            "m_detailsTexturePhone": "",
-            "m_detailsMovie": "",
-            "m_detailsMoviePhone": "",
-            "m_detailsRenderConfig": "10thAnnie_Board_Configuration.asset:9dc24993d3d5a4749833a0e4cc0acab1",
-            "m_borderType": 0
-        },
-        {
             "m_ID": 50,
             "m_enabled": 1,
             "m_rarityId": 3,
@@ -1592,6 +1448,150 @@
             "m_detailsMovie": "",
             "m_detailsMoviePhone": "",
             "m_detailsRenderConfig": "HCHallowsEnd_Board_Config.asset:4a5b1f210fdd39f4284c70459003f1af",
+            "m_borderType": 0
+        },
+        {
+            "m_ID": 53,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_fullBoardPrefab": "LunarFireFestival_1C.prefab:ebbbcf8fd1a947d48ad3eb7907617112",
+            "m_fullBoardPrefabPhone": "LunarFireFestival_1C_Phone.prefab:1582e8cdf88445643a23c18a6b769acb",
+            "m_fullTavernBoardPrefab": "Default_1T_Board.prefab:3e3de375694b2504cb99031806d0d068",
+            "m_fullTavernBoardPrefabPhone": "Default_1T_Board_Phone.prefab:9fc3c1e16769c6b4982d89c6b7c43843",
+            "m_collectionName": {
+                "m_locValues": [
+                    "Dragon Grounds",
+                    "Drachenfeld",
+                    "Campo de los Dragones",
+                    "Terreno de Dragones",
+                    "Terres draconiques",
+                    "Terreni del Drago",
+                    "ドラゴングラウンド",
+                    "용의 대지",
+                    "Smocze Terytorium",
+                    "Território Dracônico",
+                    "Драконьи земли",
+                    "ลานมังกร",
+                    "舞龙之园",
+                    "巨龍之地"
+                ],
+                "m_locId": 2886346
+            },
+            "m_collectionShortName": {
+                "m_locValues": [
+                    "Dragon Grounds",
+                    "Drachenfeld",
+                    "Campo de los Dragones",
+                    "Terreno de Dragones",
+                    "Terres draconiques",
+                    "Terreni del Drago",
+                    "ドラゴングラウンド",
+                    "용의 대지",
+                    "Smocze Terytorium",
+                    "Território Dracônico",
+                    "Драконьи земли",
+                    "ลานมังกร",
+                    "舞龙之园",
+                    "巨龍之地"
+                ],
+                "m_locId": 2886347
+            },
+            "m_description": {
+                "m_locValues": [
+                    "Get ready for a roarin’ celebration!\n\nPurchasable when available in the shop.",
+                    "Dieses Fest wird der Brüller!\n\nKann im Shop erworben werden.",
+                    "¡Prepárate para una celebración a base de rugidos!\n\nSe compra en la tienda cuando esté disponible.",
+                    "¡Prepárate para una estruendosa celebración!\n\nSe compra cuando esté disponible en la tienda.",
+                    "Une fête inoubliable vous attend !\n\nCe plateau s’obtient en l’achetant lorsqu’il est disponible dans la boutique.",
+                    "Preparati a dei festeggiamenti infiammati!\n\nAcquistabile quando disponibile nel negozio.",
+                    "高らかにお祝いの咆哮をあげろ！\n\nショップでの販売時に購入可能。",
+                    "시끌벅적한 축제를 준비하세요!\n\n상점에서 판매 시 구매하여 획득",
+                    "Jak świętować, to ze smokami!\n\nDo zakupu po udostępnieniu w sklepie.",
+                    "Essa celebração promete botar pra esquentar!\n\nPossível de adquirir quando disponível na loja.",
+                    "Новый год с рыком врывается в вашу жизнь — встречайте его!\n\nМожно приобрести в магазине.",
+                    "เตรียมตัวฉลองกันให้กึกก้อง!\n\nซื้อได้เมื่อวางจำหน่ายในร้านค้า",
+                    "舞龙长啸，喜迎新春！\n\n可以在上架期间在商店购买。",
+                    "準備好在狂吼之中大肆慶祝吧！\n\n於商店上架時可購買取得。"
+                ],
+                "m_locId": 2886348
+            },
+            "m_detailsTexture": "",
+            "m_detailsTexturePhone": "",
+            "m_detailsMovie": "",
+            "m_detailsMoviePhone": "",
+            "m_detailsRenderConfig": "LunarFireFestival_Configuration.asset:6d4fa5c4ac5a8cd4c8358c82f0c13762",
+            "m_borderType": 0
+        },
+        {
+            "m_ID": 54,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_fullBoardPrefab": "10thAnnie_Board.prefab:97ff30d1c5e74e24e8a55c3bc1d64f20",
+            "m_fullBoardPrefabPhone": "10thAnnie_Board_Phone.prefab:bdd8debd31d2ed84caab153e0e7c3951",
+            "m_fullTavernBoardPrefab": "Default_1T_Board.prefab:3e3de375694b2504cb99031806d0d068",
+            "m_fullTavernBoardPrefabPhone": "Default_1T_Board_Phone.prefab:9fc3c1e16769c6b4982d89c6b7c43843",
+            "m_collectionName": {
+                "m_locValues": [
+                    "Anniversary",
+                    "Jubiläum",
+                    "Aniversario",
+                    "Aniversario",
+                    "Anniversaire",
+                    "Anniversario",
+                    "アニバーサリー",
+                    "기념일",
+                    "Jubileusz",
+                    "Aniversário",
+                    "Годовщина",
+                    "ฉลองครบรอบ",
+                    "周年庆典",
+                    "週年慶"
+                ],
+                "m_locId": 2889291
+            },
+            "m_collectionShortName": {
+                "m_locValues": [
+                    "Anniversary",
+                    "Jubiläum",
+                    "Aniversario",
+                    "Aniversario",
+                    "Anniversaire",
+                    "Anniversario",
+                    "アニバーサリー",
+                    "기념일",
+                    "Jubileusz",
+                    "Aniversário",
+                    "Годовщина",
+                    "ฉลองครบรอบ",
+                    "周年庆典",
+                    "週年慶"
+                ],
+                "m_locId": 2889292
+            },
+            "m_description": {
+                "m_locValues": [
+                    "When it’s your birthday, you can have your cake and fight it too!\n\nPurchasable when available in the shop.",
+                    "Am Geburtstag ist der Kuchen nicht nur zum Essen da!\n\nKann bei Verfügbarkeit im Shop erworben werden.",
+                    "Cuando sea tu cumple, ¡podrás tomar tarta y darte de tortas con ella!\n\nSe compra en la tienda cuando esté disponible.",
+                    "Cuando sea tu cumpleaños, ¡podrás comer pastel y dar pastelazos!\n\nSe puede comprar si está disponible en la tienda.",
+                    "Les anniversaires sont l’occasion rêvée de se faire plaisir et de se défouler !\n\nCe plateau peut être acheté lorsqu’il est disponible dans la boutique.",
+                    "In occasione del tuo compleanno, torte e zuffe sono d'obbligo!\n\nAcquistabile quando disponibile nel negozio.",
+                    "このケーキは見る用？食べる用？バースデーの主役ならどっちもアリだ！\n\nショップでの販売時に購入可能。",
+                    "여러분 생일에는 케이크도 받고 케이크에서 싸울 수도 있습니다!\n\n상점에서 판매 시 구매하여 획득",
+                    "Nie ma jak torcik i Ustaweczka w urodzinki!\n\nDo zakupu po udostępnieniu w sklepie.",
+                    "No dia do seu aniversário, você ganha o bolo e ainda pode lutar com ele!\n\nPossível de adquirir quando disponível na loja.",
+                    "День рождения — время получать подарки и раздавать тумаки!\n\nМожно приобрести в магазине.",
+                    "ในวันเกิดของคุณ_คุณไม่ต้อง[b]เลือกว่าจะกินเค้กหรือจะต่อสู้!\n\nซื้อได้เมื่อวางจำหน่ายในร้านค้า",
+                    "生日蛋糕，好吃又好玩！\n\n可以在上架期间在商店购买。",
+                    "在你的生日當天，你可以吃蛋糕，也可以跟蛋糕對戰！\n\n於商店上架時可購買取得。"
+                ],
+                "m_locId": 2889293
+            },
+            "m_detailsTexture": "",
+            "m_detailsTexturePhone": "",
+            "m_detailsMovie": "",
+            "m_detailsMoviePhone": "",
+            "m_detailsRenderConfig": "10thAnnie_Board_Configuration.asset:9dc24993d3d5a4749833a0e4cc0acab1",
             "m_borderType": 0
         }
     ]

@@ -3179,78 +3179,6 @@
             "m_capsuleType": 1
         },
         {
-            "m_ID": 72,
-            "m_enabled": 1,
-            "m_rarityId": 3,
-            "m_collectionName": {
-                "m_locValues": [
-                    "Endless Fables (Rare Strike)",
-                    "Endlose Fabeln (seltener Angriff)",
-                    "Sinfín de fábulas (asalto poco común)",
-                    "Fábulas infinitas (azote raro)",
-                    "Histoires sans fin (frappe rare)",
-                    "Favole Infinite (Colpo Raro)",
-                    "終わりなき伝記（レアストライク）",
-                    "끝없는 우화 (희귀 타격 효과)",
-                    "Nieskończone Baśnie (rzadkie zwieńczenie)",
-                    "Fábulas Sem Fim (Ataque Raro)",
-                    "Сказки без конца (редкий удар)",
-                    "ตำนานไม่รู้จบ (ท่าโจมตีระดับหายาก)",
-                    "无尽寓言（稀有打击特效）",
-                    "無盡寓言(精良攻擊特效)"
-                ],
-                "m_locId": 2896606
-            },
-            "m_collectionShortName": {
-                "m_locValues": [
-                    "Endless Fables (Rare)",
-                    "Endlose Fabeln (selten)",
-                    "Sinfín de fábulas (poco común)",
-                    "Fábulas infinitas (raro)",
-                    "Histoires sans fin (rare)",
-                    "Favole Infinite (Raro)",
-                    "終わりなき伝記（レア）",
-                    "끝없는 우화 (희귀)",
-                    "Nieskończone Baśnie (rzadkie)",
-                    "Fábulas Sem Fim (Raro)",
-                    "Сказки без конца (редкий)",
-                    "ตำนานไม่รู้จบ (หายาก)",
-                    "无尽寓言（稀有）",
-                    "無盡寓言(精良)"
-                ],
-                "m_locId": 2896607
-            },
-            "m_description": {
-                "m_locValues": [
-                    "This Rare Strike adds a little something special to all your Battlegrounds Heroes’ attacks.\n\nEarnable after purchasing the Battlegrounds Season Pass in Season <i>7</i>.",
-                    "Dieser seltene Angriffseffekt verleiht den Angriffen Eurer Schlachtfeldhelden etwas Besonderes.\n\nKann nach Kauf des Schlachtfeld-Saisonpasses in Saison <i>7</i> freigeschaltet werden.",
-                    "Este asalto poco común les da un toque especial a todos los ataques de tus héroes de Campos de batalla.\n\nSe puede conseguir al comprar el pase de temporada de Campos de batalla de la temporada <i>7</i>.",
-                    "Este azote raro les da un toque especial a todos los ataques de tus héroes de Campos de batalla.\n\nSe puede obtener después de comprar el Pase de temporada de Campos de batalla en la temporada <i>7</i>.",
-                    "Cette frappe rare ajoute un petit quelque chose à toutes les attaques de vos héros et héroïnes de champs de bataille.\n\nS’obtient après avoir acheté le ticket saisonnier des champs de bataille lors de la saison <i>7</i>.",
-                    "Questo Colpo Raro aggiunge qualcosa di speciale agli attacchi dei tuoi eroi della Battaglia.\n\nOttenibile dopo aver acquistato il Pass Battaglia Stagionale nella Stagione <i>7</i>.",
-                    "このレアストライクは、バトルグラウンドのヒーローの攻撃に少々スペシャルな何かを加えるぞ。\n\nバトルグラウンド・シーズン<i>7</i>の「シーズンパス」購入後に獲得可能となる。",
-                    "희귀 타격 효과로 전장 영웅의 공격을 특별하게 꾸미세요.\n\n<i>7</i>시즌 전장 시즌 패스를 구매한 후 획득 가능",
-                    "To rzadkie zwieńczenie doda nieco finezji atakom twoich bohaterów podczas Ustawki.\n\nDo zdobycia w karnecie sezonowym Ustawki w sezonie <i>7</i>.",
-                    "Esse Ataque Raro adiciona algo especial a todos os ataques dos seus Heróis dos Campos de Batalha.\n\nPossível de obter após comprar o Passe de Temporada dos Campos de Batalha na Temporada <i>7</i>.",
-                    "Этот редкий удар придаст изюминку атакам ваших героев на полях сражений.\n\nМожно открыть после покупки пропуска <i>7-го</i> сезона полей сражений.",
-                    "ท่าโจมตีระดับหายากท่านี้[b]เพิ่มความพิเศษให้การโจมตี[b]ของฮีโร่ Battlegrounds[b]ของคุณ!\n\nปลดล็อคได้หลังจากซื้อ\nซีซันพาส Battlegrounds\nในซีซัน_<i>7</i>",
-                    "这款稀有打击特效可以为你战棋英雄的攻击增添特效。\n\n购买第<i>7</i>赛季的酒馆战棋赛季通行证后开放解锁。",
-                    "精良攻擊特效會讓英雄戰場全部的英雄在攻擊時增加一點特殊效果。\n\n需在賽季<i>7</i>購買英雄戰場賽季通行證才有機會取得。"
-                ],
-                "m_locId": 2896608
-            },
-            "m_gameplaySettings": "EndlessFables_RareStrike.asset:64dc8ed63ee40e34ba9aaf2e6c754c21",
-            "m_destroyOpponentPrefab": "",
-            "m_destroyOpponentVictoryPrefab": "",
-            "m_detailsTexture": "Legendary_Strike_Rare.png:9afb0c44b14d8ba4f9ffb30d51893e78",
-            "m_detailsMovie": "ETCWorldTourAttack_Rare.mp4:299b9a7963e7b894680f9a20476a48e9",
-            "m_detailsRenderConfig": "EndlessFables Rare Configuration.asset:b8d65da1d061d7f45a0082c07788cea9",
-            "m_miniBodyMaterial": "EndlessFables_Rare_Material_CollectionMini_Body.mat:597562c21bc93c641bad2662a4c58fc2",
-            "m_miniArtMaterial": "EndlessFables_Rare_Material_CollectionMini_Art.mat:58c89e999a6096548bd0133c67253884",
-            "m_isDefault": 0,
-            "m_capsuleType": 0
-        },
-        {
             "m_ID": 68,
             "m_enabled": 1,
             "m_rarityId": 4,
@@ -3535,6 +3463,78 @@
             "m_detailsRenderConfig": "EndlessFables Epic Configuration.asset:a2fda27d168949e48b2ddb85da8e64f8",
             "m_miniBodyMaterial": "EndlessFables_Epic_Material_CollectionMini_Body.mat:13ac613d8ba426547ae0126339d66cb5",
             "m_miniArtMaterial": "EndlessFables_Epic_Material_CollectionMini_Art.mat:cbd812345d201d4438802f6c901a8764",
+            "m_isDefault": 0,
+            "m_capsuleType": 0
+        },
+        {
+            "m_ID": 72,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_collectionName": {
+                "m_locValues": [
+                    "Endless Fables (Rare Strike)",
+                    "Endlose Fabeln (seltener Angriff)",
+                    "Sinfín de fábulas (asalto poco común)",
+                    "Fábulas infinitas (azote raro)",
+                    "Histoires sans fin (frappe rare)",
+                    "Favole Infinite (Colpo Raro)",
+                    "終わりなき伝記（レアストライク）",
+                    "끝없는 우화 (희귀 타격 효과)",
+                    "Nieskończone Baśnie (rzadkie zwieńczenie)",
+                    "Fábulas Sem Fim (Ataque Raro)",
+                    "Сказки без конца (редкий удар)",
+                    "ตำนานไม่รู้จบ (ท่าโจมตีระดับหายาก)",
+                    "无尽寓言（稀有打击特效）",
+                    "無盡寓言(精良攻擊特效)"
+                ],
+                "m_locId": 2896606
+            },
+            "m_collectionShortName": {
+                "m_locValues": [
+                    "Endless Fables (Rare)",
+                    "Endlose Fabeln (selten)",
+                    "Sinfín de fábulas (poco común)",
+                    "Fábulas infinitas (raro)",
+                    "Histoires sans fin (rare)",
+                    "Favole Infinite (Raro)",
+                    "終わりなき伝記（レア）",
+                    "끝없는 우화 (희귀)",
+                    "Nieskończone Baśnie (rzadkie)",
+                    "Fábulas Sem Fim (Raro)",
+                    "Сказки без конца (редкий)",
+                    "ตำนานไม่รู้จบ (หายาก)",
+                    "无尽寓言（稀有）",
+                    "無盡寓言(精良)"
+                ],
+                "m_locId": 2896607
+            },
+            "m_description": {
+                "m_locValues": [
+                    "This Rare Strike adds a little something special to all your Battlegrounds Heroes’ attacks.\n\nEarnable after purchasing the Battlegrounds Season Pass in Season <i>7</i>.",
+                    "Dieser seltene Angriffseffekt verleiht den Angriffen Eurer Schlachtfeldhelden etwas Besonderes.\n\nKann nach Kauf des Schlachtfeld-Saisonpasses in Saison <i>7</i> freigeschaltet werden.",
+                    "Este asalto poco común les da un toque especial a todos los ataques de tus héroes de Campos de batalla.\n\nSe puede conseguir al comprar el pase de temporada de Campos de batalla de la temporada <i>7</i>.",
+                    "Este azote raro les da un toque especial a todos los ataques de tus héroes de Campos de batalla.\n\nSe puede obtener después de comprar el Pase de temporada de Campos de batalla en la temporada <i>7</i>.",
+                    "Cette frappe rare ajoute un petit quelque chose à toutes les attaques de vos héros et héroïnes de champs de bataille.\n\nS’obtient après avoir acheté le ticket saisonnier des champs de bataille lors de la saison <i>7</i>.",
+                    "Questo Colpo Raro aggiunge qualcosa di speciale agli attacchi dei tuoi eroi della Battaglia.\n\nOttenibile dopo aver acquistato il Pass Battaglia Stagionale nella Stagione <i>7</i>.",
+                    "このレアストライクは、バトルグラウンドのヒーローの攻撃に少々スペシャルな何かを加えるぞ。\n\nバトルグラウンド・シーズン<i>7</i>の「シーズンパス」購入後に獲得可能となる。",
+                    "희귀 타격 효과로 전장 영웅의 공격을 특별하게 꾸미세요.\n\n<i>7</i>시즌 전장 시즌 패스를 구매한 후 획득 가능",
+                    "To rzadkie zwieńczenie doda nieco finezji atakom twoich bohaterów podczas Ustawki.\n\nDo zdobycia w karnecie sezonowym Ustawki w sezonie <i>7</i>.",
+                    "Esse Ataque Raro adiciona algo especial a todos os ataques dos seus Heróis dos Campos de Batalha.\n\nPossível de obter após comprar o Passe de Temporada dos Campos de Batalha na Temporada <i>7</i>.",
+                    "Этот редкий удар придаст изюминку атакам ваших героев на полях сражений.\n\nМожно открыть после покупки пропуска <i>7-го</i> сезона полей сражений.",
+                    "ท่าโจมตีระดับหายากท่านี้[b]เพิ่มความพิเศษให้การโจมตี[b]ของฮีโร่ Battlegrounds[b]ของคุณ!\n\nปลดล็อคได้หลังจากซื้อ\nซีซันพาส Battlegrounds\nในซีซัน_<i>7</i>",
+                    "这款稀有打击特效可以为你战棋英雄的攻击增添特效。\n\n购买第<i>7</i>赛季的酒馆战棋赛季通行证后开放解锁。",
+                    "精良攻擊特效會讓英雄戰場全部的英雄在攻擊時增加一點特殊效果。\n\n需在賽季<i>7</i>購買英雄戰場賽季通行證才有機會取得。"
+                ],
+                "m_locId": 2896608
+            },
+            "m_gameplaySettings": "EndlessFables_RareStrike.asset:64dc8ed63ee40e34ba9aaf2e6c754c21",
+            "m_destroyOpponentPrefab": "",
+            "m_destroyOpponentVictoryPrefab": "",
+            "m_detailsTexture": "Legendary_Strike_Rare.png:9afb0c44b14d8ba4f9ffb30d51893e78",
+            "m_detailsMovie": "ETCWorldTourAttack_Rare.mp4:299b9a7963e7b894680f9a20476a48e9",
+            "m_detailsRenderConfig": "EndlessFables Rare Configuration.asset:b8d65da1d061d7f45a0082c07788cea9",
+            "m_miniBodyMaterial": "EndlessFables_Rare_Material_CollectionMini_Body.mat:597562c21bc93c641bad2662a4c58fc2",
+            "m_miniArtMaterial": "EndlessFables_Rare_Material_CollectionMini_Art.mat:58c89e999a6096548bd0133c67253884",
             "m_isDefault": 0,
             "m_capsuleType": 0
         }

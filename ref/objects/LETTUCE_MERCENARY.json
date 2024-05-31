@@ -7123,62 +7123,6 @@
             "m_coinCraftCost": 100
         },
         {
-            "m_ID": 52,
-            "m_noteDesc": "Saurfang",
-            "m_rarityId": 4,
-            "m_collectible": 1,
-            "m_craftable": 1,
-            "m_acquireType": 1,
-            "m_howToAcquireText": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_coinCraftCost": 300
-        },
-        {
-            "m_ID": 53,
-            "m_noteDesc": "Blademaster Samuro",
-            "m_rarityId": 3,
-            "m_collectible": 1,
-            "m_craftable": 0,
-            "m_acquireType": 2,
-            "m_howToAcquireText": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_coinCraftCost": 100
-        },
-        {
             "m_ID": 45,
             "m_noteDesc": "Tamsin Roame",
             "m_rarityId": 3,
@@ -7235,8 +7179,8 @@
             "m_coinCraftCost": 500
         },
         {
-            "m_ID": 54,
-            "m_noteDesc": "Mannoroth",
+            "m_ID": 5,
+            "m_noteDesc": "Prophet Velen",
             "m_rarityId": 4,
             "m_collectible": 1,
             "m_craftable": 1,
@@ -7263,8 +7207,92 @@
             "m_coinCraftCost": 300
         },
         {
-            "m_ID": 5,
-            "m_noteDesc": "Prophet Velen",
+            "m_ID": 50,
+            "m_noteDesc": "Garrosh Hellscream",
+            "m_rarityId": 5,
+            "m_collectible": 1,
+            "m_craftable": 1,
+            "m_acquireType": 1,
+            "m_howToAcquireText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_coinCraftCost": 500
+        },
+        {
+            "m_ID": 52,
+            "m_noteDesc": "Saurfang",
+            "m_rarityId": 4,
+            "m_collectible": 1,
+            "m_craftable": 1,
+            "m_acquireType": 1,
+            "m_howToAcquireText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_coinCraftCost": 300
+        },
+        {
+            "m_ID": 53,
+            "m_noteDesc": "Blademaster Samuro",
+            "m_rarityId": 3,
+            "m_collectible": 1,
+            "m_craftable": 0,
+            "m_acquireType": 2,
+            "m_howToAcquireText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_coinCraftCost": 100
+        },
+        {
+            "m_ID": 54,
+            "m_noteDesc": "Mannoroth",
             "m_rarityId": 4,
             "m_collectible": 1,
             "m_craftable": 1,
@@ -7403,62 +7431,6 @@
             "m_coinCraftCost": 500
         },
         {
-            "m_ID": 50,
-            "m_noteDesc": "Garrosh Hellscream",
-            "m_rarityId": 5,
-            "m_collectible": 1,
-            "m_craftable": 1,
-            "m_acquireType": 1,
-            "m_howToAcquireText": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_coinCraftCost": 500
-        },
-        {
-            "m_ID": 9,
-            "m_noteDesc": "Varian Wrynn",
-            "m_rarityId": 4,
-            "m_collectible": 1,
-            "m_craftable": 1,
-            "m_acquireType": 1,
-            "m_howToAcquireText": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_coinCraftCost": 300
-        },
-        {
             "m_ID": 60,
             "m_noteDesc": "Gul'dan",
             "m_rarityId": 5,
@@ -7541,62 +7513,6 @@
                 "m_locId": 0
             },
             "m_coinCraftCost": 100
-        },
-        {
-            "m_ID": 93,
-            "m_noteDesc": "Anduin Wrynn",
-            "m_rarityId": 5,
-            "m_collectible": 1,
-            "m_craftable": 1,
-            "m_acquireType": 1,
-            "m_howToAcquireText": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_coinCraftCost": 500
-        },
-        {
-            "m_ID": 94,
-            "m_noteDesc": "Uther",
-            "m_rarityId": 5,
-            "m_collectible": 1,
-            "m_craftable": 1,
-            "m_acquireType": 1,
-            "m_howToAcquireText": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_coinCraftCost": 500
         },
         {
             "m_ID": 64,
@@ -7683,12 +7599,12 @@
             "m_coinCraftCost": 100
         },
         {
-            "m_ID": 95,
-            "m_noteDesc": "Cornelius Roame",
+            "m_ID": 71,
+            "m_noteDesc": "Trigore",
             "m_rarityId": 3,
             "m_collectible": 1,
-            "m_craftable": 0,
-            "m_acquireType": 2,
+            "m_craftable": 1,
+            "m_acquireType": 1,
             "m_howToAcquireText": {
                 "m_locValues": [
                     "",
@@ -7711,12 +7627,124 @@
             "m_coinCraftCost": 100
         },
         {
-            "m_ID": 71,
-            "m_noteDesc": "Trigore",
-            "m_rarityId": 3,
+            "m_ID": 8,
+            "m_noteDesc": "Natalie Seline",
+            "m_rarityId": 4,
             "m_collectible": 1,
             "m_craftable": 1,
             "m_acquireType": 1,
+            "m_howToAcquireText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_coinCraftCost": 300
+        },
+        {
+            "m_ID": 9,
+            "m_noteDesc": "Varian Wrynn",
+            "m_rarityId": 4,
+            "m_collectible": 1,
+            "m_craftable": 1,
+            "m_acquireType": 1,
+            "m_howToAcquireText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_coinCraftCost": 300
+        },
+        {
+            "m_ID": 93,
+            "m_noteDesc": "Anduin Wrynn",
+            "m_rarityId": 5,
+            "m_collectible": 1,
+            "m_craftable": 1,
+            "m_acquireType": 1,
+            "m_howToAcquireText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_coinCraftCost": 500
+        },
+        {
+            "m_ID": 94,
+            "m_noteDesc": "Uther",
+            "m_rarityId": 5,
+            "m_collectible": 1,
+            "m_craftable": 1,
+            "m_acquireType": 1,
+            "m_howToAcquireText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_coinCraftCost": 500
+        },
+        {
+            "m_ID": 95,
+            "m_noteDesc": "Cornelius Roame",
+            "m_rarityId": 3,
+            "m_collectible": 1,
+            "m_craftable": 0,
+            "m_acquireType": 2,
             "m_howToAcquireText": {
                 "m_locValues": [
                     "",
@@ -7821,34 +7849,6 @@
                 "m_locId": 0
             },
             "m_coinCraftCost": 500
-        },
-        {
-            "m_ID": 8,
-            "m_noteDesc": "Natalie Seline",
-            "m_rarityId": 4,
-            "m_collectible": 1,
-            "m_craftable": 1,
-            "m_acquireType": 1,
-            "m_howToAcquireText": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_coinCraftCost": 300
         }
     ]
 }
