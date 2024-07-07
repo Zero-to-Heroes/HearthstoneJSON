@@ -59,7 +59,7 @@ def main():
 def generate_card_textures(src, args):
 	for root, dirs, files in os.walk(src):
 		for file_name in files:
-			# print(f"file_name: {file_name}")
+			print(f"file_name: {file_name}")
 			# generate file_path
 			file_path = os.path.join(root, file_name)
 			# load that file via UnityPy.load
