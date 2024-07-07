@@ -317,6 +317,17 @@
             "m_rerollCountMax": 1,
             "m_questPoolType": 3,
             "m_rewardTrackType": 7
+        },
+        {
+            "m_ID": 46,
+            "m_grantDayOfWeek": -1,
+            "m_grantHourOfDay": 0,
+            "m_numQuestsGranted": 2,
+            "m_maxQuestsActive": 2,
+            "m_maxQuestsBanked": 0,
+            "m_rerollCountMax": 1,
+            "m_questPoolType": 3,
+            "m_rewardTrackType": 7
         }
     ]
 }
