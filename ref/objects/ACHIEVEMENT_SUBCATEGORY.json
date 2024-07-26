@@ -433,7 +433,32 @@
                 "m_locId": 2884754
             },
             "m_icon": "TOY",
-            "m_sortOrder": 0
+            "m_sortOrder": 91
+        },
+        {
+            "m_ID": 247,
+            "m_achievementCategoryId": 2,
+            "m_name": {
+                "m_locValues": [
+                    "Paradise",
+                    "Paradies",
+                    "Paraíso",
+                    "Paraíso",
+                    "Paradis",
+                    "Paradiso",
+                    "パラダイス",
+                    "극락",
+                    "Tropiki",
+                    "Paraíso",
+                    "Раздор",
+                    "Paradise",
+                    "胜地历险记",
+                    "天堂島"
+                ],
+                "m_locId": 2901734
+            },
+            "m_icon": "VAC",
+            "m_sortOrder": 90
         },
         {
             "m_ID": 6,
@@ -1258,7 +1283,32 @@
                 "m_locId": 2884755
             },
             "m_icon": "TOY",
-            "m_sortOrder": 0
+            "m_sortOrder": 90
+        },
+        {
+            "m_ID": 248,
+            "m_achievementCategoryId": 3,
+            "m_name": {
+                "m_locValues": [
+                    "Perils in Paradise",
+                    "Gefahr im Paradies",
+                    "Peligro en el Paraíso",
+                    "Peligros en el Paraíso",
+                    "Paradis en péril",
+                    "Periglio in Paradiso",
+                    "大ピンチ！パイレーツ・パラダイス",
+                    "극한의 극락",
+                    "Tarapaty w tropikach",
+                    "Perigos no Paraíso",
+                    "Раздор в тропиках",
+                    "Perils in Paradise",
+                    "胜地历险记",
+                    "天堂島危機"
+                ],
+                "m_locId": 2901735
+            },
+            "m_icon": "VAC",
+            "m_sortOrder": 89
         },
         {
             "m_ID": 23,

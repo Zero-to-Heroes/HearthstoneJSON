@@ -210,7 +210,7 @@
         },
         {
             "m_ID": 17,
-            "m_noteDesc": "Immune\n",
+            "m_noteDesc": "Immune",
             "m_tagId": 240,
             "m_name": "GLOBAL_KEYWORD_IMMUNE",
             "m_text": "GLOBAL_KEYWORD_IMMUNE_TEXT",
@@ -1111,6 +1111,39 @@
             "m_tooltipInitOrder": 157000
         },
         {
+            "m_ID": 307,
+            "m_noteDesc": "Rogue Tourist",
+            "m_tagId": 3597,
+            "m_name": "GLOBAL_KEYWORD_ROGUE_TOURIST",
+            "m_text": "GLOBAL_KEYWORD_ROGUE_TOURIST_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_ROGUE_TOURIST_TEXT",
+            "m_collectionText": "",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 10005
+        },
+        {
+            "m_ID": 308,
+            "m_noteDesc": "Warlock Tourist",
+            "m_tagId": 3598,
+            "m_name": "GLOBAL_KEYWORD_WARLOCK_TOURIST",
+            "m_text": "GLOBAL_KEYWORD_WARLOCK_TOURIST_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_WARLOCK_TOURIST_TEXT",
+            "m_collectionText": "",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 10010
+        },
+        {
+            "m_ID": 309,
+            "m_noteDesc": "Death Knight Tourist",
+            "m_tagId": 3599,
+            "m_name": "GLOBAL_KEYWORD_DEATH_KNIGHT_TOURIST",
+            "m_text": "GLOBAL_KEYWORD_DEATH_KNIGHT_TOURIST_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_DEATH_KNIGHT_TOURIST_TEXT",
+            "m_collectionText": "",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 10007
+        },
+        {
             "m_ID": 31,
             "m_noteDesc": "Quest\n",
             "m_tagId": 462,
@@ -1122,6 +1155,94 @@
             "m_tooltipInitOrder": 75000
         },
         {
+            "m_ID": 310,
+            "m_noteDesc": "Shaman Tourist",
+            "m_tagId": 3600,
+            "m_name": "GLOBAL_KEYWORD_SHAMAN_TOURIST",
+            "m_text": "GLOBAL_KEYWORD_SHAMAN_TOURIST_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_SHAMAN_TOURIST_TEXT",
+            "m_collectionText": "",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 10008
+        },
+        {
+            "m_ID": 311,
+            "m_noteDesc": "Demon Hunter Tourist",
+            "m_tagId": 3601,
+            "m_name": "GLOBAL_KEYWORD_DEMON_HUNTER_TOURIST",
+            "m_text": "GLOBAL_KEYWORD_DEMON_HUNTER_TOURIST_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_DEMON_HUNTER_TOURIST_TEXT",
+            "m_collectionText": "",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 10000
+        },
+        {
+            "m_ID": 312,
+            "m_noteDesc": "Priest Tourist",
+            "m_tagId": 3602,
+            "m_name": "GLOBAL_KEYWORD_PRIEST_TOURIST",
+            "m_text": "GLOBAL_KEYWORD_PRIEST_TOURIST_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_PRIEST_TOURIST_TEXT",
+            "m_collectionText": "",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 10009
+        },
+        {
+            "m_ID": 313,
+            "m_noteDesc": "Hunter Tourist",
+            "m_tagId": 3603,
+            "m_name": "GLOBAL_KEYWORD_HUNTER_TOURIST",
+            "m_text": "GLOBAL_KEYWORD_HUNTER_TOURIST_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_HUNTER_TOURIST_TEXT",
+            "m_collectionText": "",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 10006
+        },
+        {
+            "m_ID": 314,
+            "m_noteDesc": "Warrior Tourist",
+            "m_tagId": 3604,
+            "m_name": "GLOBAL_KEYWORD_WARRIOR_TOURIST",
+            "m_text": "GLOBAL_KEYWORD_WARRIOR_TOURIST_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_WARRIOR_TOURIST_TEXT",
+            "m_collectionText": "",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 10003
+        },
+        {
+            "m_ID": 315,
+            "m_noteDesc": "Druid Tourist",
+            "m_tagId": 3605,
+            "m_name": "GLOBAL_KEYWORD_DRUID_TOURIST",
+            "m_text": "GLOBAL_KEYWORD_DRUID_TOURIST_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_DRUID_TOURIST_TEXT",
+            "m_collectionText": "",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 10002
+        },
+        {
+            "m_ID": 316,
+            "m_noteDesc": "Mage Tourist",
+            "m_tagId": 3606,
+            "m_name": "GLOBAL_KEYWORD_MAGE_TOURIST",
+            "m_text": "GLOBAL_KEYWORD_MAGE_TOURIST_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_MAGE_TOURIST_TEXT",
+            "m_collectionText": "",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 10001
+        },
+        {
+            "m_ID": 317,
+            "m_noteDesc": "Paladin Tourist",
+            "m_tagId": 3607,
+            "m_name": "GLOBAL_KEYWORD_PALADIN_TOURIST",
+            "m_text": "GLOBAL_KEYWORD_PALADIN_TOURIST_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_PALADIN_TOURIST_TEXT",
+            "m_collectionText": "",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 10004
+        },
+        {
             "m_ID": 32,
             "m_noteDesc": "Poisonous\n",
             "m_tagId": 363,
@@ -1131,6 +1252,17 @@
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
             "m_tooltipInitOrder": 77000
+        },
+        {
+            "m_ID": 320,
+            "m_noteDesc": "Temporary",
+            "m_tagId": 3630,
+            "m_name": "GLOBAL_KEYWORD_TEMPORARY",
+            "m_text": "GLOBAL_KEYWORD_TEMPORARY_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_TEMPORARY_TEXT",
+            "m_collectionText": "",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 169000
         },
         {
             "m_ID": 33,

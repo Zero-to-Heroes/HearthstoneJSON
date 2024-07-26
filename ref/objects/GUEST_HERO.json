@@ -9621,316 +9621,6 @@
             "m_unlockEvent": 164
         },
         {
-            "m_ID": 55,
-            "m_cardId": 48996,
-            "m_name": {
-                "m_locValues": [
-                    "Sephira Dusktalon",
-                    "Sephira Düsterkralle",
-                    "Sephira Garraoscura",
-                    "Sephira Garranocturna",
-                    "Sephira Serre-Obscure",
-                    "Sephira Vesprartiglio",
-                    "サフィラ・ダスクタロン",
-                    "세피라 더스크탈론",
-                    "Zefira, Pazur Mroku",
-                    "Sefira Garra Crepuscular",
-                    "Сефира Сумрачный Коготь",
-                    "เซฟิร่า ดัสก์ทาลอน",
-                    "瑟菲拉·暮爪",
-                    "賽菲拉‧暮爪"
-                ],
-                "m_locId": 2709592
-            },
-            "m_shortName": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_flavorText": {
-                "m_locValues": [
-                    "She's got claws that catch!",
-                    "Wehe, sie bekommt Euch in die Fänge!",
-                    "¡Sus garras te atrapan!",
-                    "¡Tiene zarpas que desgarran!",
-                    "Elle a des griffes qui happent !",
-                    "I suoi artigli sono affilati come... artigli.",
-                    "引き掴むあたしの鈎爪！！",
-                    "주문이 필요해? 나도 필요해!",
-                    "Ma łapy pazurzaste!",
-                    "Uma mulher de garra!",
-                    "Ее путь лежит в глущобу!",
-                    "เล็บของเธอขยุ้มรัด!",
-                    "她的爪子伸得特别长！",
-                    "她也有抓人的爪子！"
-                ],
-                "m_locId": 2709601
-            },
-            "m_unlockEvent": 164
-        },
-        {
-            "m_ID": 56,
-            "m_cardId": 48942,
-            "m_name": {
-                "m_locValues": [
-                    "Raeth Ghostsong",
-                    "Raeth Geistersang",
-                    "Raeth Cantofantasma",
-                    "Raeth Cantagórico",
-                    "Raeth Chantespectre",
-                    "Raeth Cantospettrale",
-                    "レアス・ゴーストソング",
-                    "라에스 고스트송",
-                    "Raet, Kantyk Duchów",
-                    "Raeth Canção Espectral",
-                    "Раэт Песнь Призраков",
-                    "เรธ โกสต์ซอง",
-                    "拉斯·灵歌",
-                    "瑞斯‧鬼曲"
-                ],
-                "m_locId": 2709593
-            },
-            "m_shortName": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_flavorText": {
-                "m_locValues": [
-                    "Just darn creepy!",
-                    "Einfach nur gruselig!",
-                    "¡Simplemente espeluznante!",
-                    "¡Es realmente espeluznante!",
-                    "Il fait vraiment peur à voir !",
-                    "A dir poco inquietante.",
-                    "キモォォォォォいッ説明不能！！",
-                    "그냥 소름끼칩니다!",
-                    "Prawdziwie upiorny koleżka!",
-                    "Dá arrepios!",
-                    "Просто жуть!",
-                    "น่าขนลุกเป็นบ้า!",
-                    "一首可怕的歌！",
-                    "恐怖喔～恐怖到了極點！"
-                ],
-                "m_locId": 2709602
-            },
-            "m_unlockEvent": 164
-        },
-        {
-            "m_ID": 57,
-            "m_cardId": 56193,
-            "m_name": {
-                "m_locValues": [
-                    "Tol Barad",
-                    "Tol Barad",
-                    "Tol Barad",
-                    "Tol Barad",
-                    "Tol Barad",
-                    "Tol Barad",
-                    "トル・バラド",
-                    "톨 바라드",
-                    "Tol Barad",
-                    "Tol Barad",
-                    "Тол Барад",
-                    "ทอลบาราด",
-                    "托尔巴拉德",
-                    "托巴拉德"
-                ],
-                "m_locId": 2710406
-            },
-            "m_shortName": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_flavorText": {
-                "m_locValues": [
-                    "Play a minion and get a random spell of the same cost, but for free!",
-                    "Spielt einen Diener aus und erhaltet einen zufälligen Zauber mit den gleichen Kosten, der aber kostenlos ist!",
-                    "Cuando juegas un esbirro, obtienes un hechizo aleatorio del mismo coste, ¡pero gratis!",
-                    "Juega un esbirro y obtendrás un hechizo aleatorio del mismo costo... ¡gratis!",
-                    "Jouez un serviteur et obtenez un sort aléatoire de même coût gratuitement !",
-                    "Gioca un servitore e otterrai una Magia casuale gratuita dello stesso costo!",
-                    "手札からミニオンを出すと、同コストのランダムな呪文がコスト（0）になって手に入る！",
-                    "하수인을 내면 같은 비용의 무작위 주문을 손으로 가져옵니다. 그 주문의 비용은 0이 되고요!",
-                    "Zagraj stronnika. Otrzymasz zaklęcie o tym samym koszcie, lecz będzie ono darmowe!",
-                    "Jogue um lacaio e receba um feitiço aleatório com o mesmo custo, mas de graça!",
-                    "Разыграйте существо и получите случайное заклинание за ту же ману, которое вы сможете разыграть бесплатно!",
-                    "เล่นมินเนี่ยนเพื่อรับ\nเวทมนตร์แบบสุ่มที่มี\nค่าร่ายเท่ามินเนี่ยนตัวนั้น แต่ลดค่าร่ายเหลือ (0)!",
-                    "召唤随从时会随机获得与之法力值消耗相同的法术，且法术的法力值消耗为\n（0）点！",
-                    "打出手下就能獲得同樣法力消耗的隨機法術，而且施放這些法術還無需消耗法力！"
-                ],
-                "m_locId": 2710415
-            },
-            "m_unlockEvent": 164
-        },
-        {
-            "m_ID": 58,
-            "m_cardId": 56194,
-            "m_name": {
-                "m_locValues": [
-                    "Yellow-Brick",
-                    "Herz und Courage",
-                    "Baldosas amarillas",
-                    "Camino amarillo",
-                    "Briques jaunes",
-                    "Sentiero Dorato",
-                    "黄色い喧嘩の道",
-                    "노란 벽돌",
-                    "Żółta kostka",
-                    "Tijolo Amarelo",
-                    "Желтый кирпич",
-                    "ถนนอิฐสีเหลือง",
-                    "绿野大作战",
-                    "綠野牌蹤"
-                ],
-                "m_locId": 2710407
-            },
-            "m_shortName": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_flavorText": {
-                "m_locValues": [
-                    "Start the game with Dorothee! She grants Charge on her left and Taunt on her right.",
-                    "Ihr beginnt das Spiel mit Dorothee! Sie verleiht Dienern zu ihrer Linken Ansturm und Dienern zu ihrer Rechten Spott.",
-                    "¡Comienza el juego con Dorothee! Otorga Cargar a su izquierda y Provocar a su derecha.",
-                    "¡Empiezas la partida con Dorothee! Otorga Carga a la izquierda y Provocación a la derecha.",
-                    "Vous commencez la partie avec Dorothée ! Elle confère Charge à sa gauche et Provocation à sa droite.",
-                    "Inizi la partita con Dorothee, che fornisce Carica ai servitori alla sua sinistra e Provocazione a quelli alla sua destra.",
-                    "「ドロジー」がいる状態で対戦開始！彼女の左のミニオンには突撃が、右のミニオンには挑発が付与されるんだ。",
-                    "도로시를 소환하고 게임을 시작합니다! 왼쪽에 있는 하수인에게는 돌진을, 오른쪽에 있는 하수인에게는 도발을 부여합니다.",
-                    "Rozpocznij grę z Dorotką, która zapewnia Szarżę stronnikom po lewej stronie oraz Prowokację po prawej.",
-                    "Comece o jogo com Doroteia! Ela concede Investida à esquerda e Provocar à direita.",
-                    "Вы начинаете матч с Дороти, которая дает «Рывок» существам слева от себя и «Провокацию» — существам справа от себя.",
-                    "เริ่มเกมพร้อมโดโรธี! มินเนี่ยนด้านซ้ายมือของเธอมีบุกทะลวง ส่วนมินเนี่ยนด้านขวามือของเธอมียั่วยุ",
-                    "和多萝茜并肩战斗！在她左边的随从会获得冲锋，而右边的随从则获得嘲讽。",
-                    "用桃樂絲開始賽局！她會賦予左邊的手下衝鋒，右邊的手下嘲諷"
-                ],
-                "m_locId": 2710416
-            },
-            "m_unlockEvent": 164
-        },
-        {
-            "m_ID": 59,
-            "m_cardId": 56195,
-            "m_name": {
-                "m_locValues": [
-                    "Catacombs",
-                    "Katakomben",
-                    "Catacumbas",
-                    "Catacumbas",
-                    "Catacombes",
-                    "Catacombe",
-                    "迷宮",
-                    "지하 미궁",
-                    "Katakumby",
-                    "Catacumbas",
-                    "Катакомбы",
-                    "สุสานใต้ดิน",
-                    "地下宝藏",
-                    "地下城"
-                ],
-                "m_locId": 2710408
-            },
-            "m_shortName": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_flavorText": {
-                "m_locValues": [
-                    "Play minions to complete your quest and get an awesome treasure!",
-                    "Spielt Diener aus, um Eure Quest abzuschließen und einen wertvollen Schatz zu erhalten!",
-                    "¡Juega esbirros para completar tu misión y consigue un tesoro alucinante!",
-                    "¡Juega esbirros para completar tu misión y recibe un tesoro increíble!",
-                    "Jouez des serviteurs pour terminer votre quête et obtenir un fabuleux trésor !",
-                    "Gioca servitori per completare la tua Missione e ottenere un fantastico Tesoro!",
-                    "手札からミニオンを出してクエストを完遂し、すごいお宝を手に入れよう！",
-                    "하수인을 내서 퀘스트를 완료하고 멋진 보물을 받으세요!",
-                    "Zagrywaj stronników, aby wykonać zadanie i zdobyć wspaniały skarb!",
-                    "Jogue lacaios para concluir sua missão e receber um tesouro fantástico!",
-                    "Разыгрывайте существ, чтобы выполнить задачу и получить фантастическое сокровище!",
-                    "เล่นมินเนี่ยนเพื่อทำ\nเควสต์ของคุณให้สำเร็จ\nและรับสมบัติสุดเจ๋ง!",
-                    "使用随从牌来完成你的任务，获得惊人的宝藏！",
-                    "打出手下以完成任務，獲得驚人的寶藏！"
-                ],
-                "m_locId": 2710417
-            },
-            "m_unlockEvent": 164
-        },
-        {
             "m_ID": 60,
             "m_cardId": 56196,
             "m_name": {
@@ -10055,6 +9745,68 @@
             "m_unlockEvent": 164
         },
         {
+            "m_ID": 55,
+            "m_cardId": 48996,
+            "m_name": {
+                "m_locValues": [
+                    "Sephira Dusktalon",
+                    "Sephira Düsterkralle",
+                    "Sephira Garraoscura",
+                    "Sephira Garranocturna",
+                    "Sephira Serre-Obscure",
+                    "Sephira Vesprartiglio",
+                    "サフィラ・ダスクタロン",
+                    "세피라 더스크탈론",
+                    "Zefira, Pazur Mroku",
+                    "Sefira Garra Crepuscular",
+                    "Сефира Сумрачный Коготь",
+                    "เซฟิร่า ดัสก์ทาลอน",
+                    "瑟菲拉·暮爪",
+                    "賽菲拉‧暮爪"
+                ],
+                "m_locId": 2709592
+            },
+            "m_shortName": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_flavorText": {
+                "m_locValues": [
+                    "She's got claws that catch!",
+                    "Wehe, sie bekommt Euch in die Fänge!",
+                    "¡Sus garras te atrapan!",
+                    "¡Tiene zarpas que desgarran!",
+                    "Elle a des griffes qui happent !",
+                    "I suoi artigli sono affilati come... artigli.",
+                    "引き掴むあたしの鈎爪！！",
+                    "주문이 필요해? 나도 필요해!",
+                    "Ma łapy pazurzaste!",
+                    "Uma mulher de garra!",
+                    "Ее путь лежит в глущобу!",
+                    "เล็บของเธอขยุ้มรัด!",
+                    "她的爪子伸得特别长！",
+                    "她也有抓人的爪子！"
+                ],
+                "m_locId": 2709601
+            },
+            "m_unlockEvent": 164
+        },
+        {
             "m_ID": 62,
             "m_cardId": 56198,
             "m_name": {
@@ -10117,6 +9869,68 @@
             "m_unlockEvent": 164
         },
         {
+            "m_ID": 56,
+            "m_cardId": 48942,
+            "m_name": {
+                "m_locValues": [
+                    "Raeth Ghostsong",
+                    "Raeth Geistersang",
+                    "Raeth Cantofantasma",
+                    "Raeth Cantagórico",
+                    "Raeth Chantespectre",
+                    "Raeth Cantospettrale",
+                    "レアス・ゴーストソング",
+                    "라에스 고스트송",
+                    "Raet, Kantyk Duchów",
+                    "Raeth Canção Espectral",
+                    "Раэт Песнь Призраков",
+                    "เรธ โกสต์ซอง",
+                    "拉斯·灵歌",
+                    "瑞斯‧鬼曲"
+                ],
+                "m_locId": 2709593
+            },
+            "m_shortName": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_flavorText": {
+                "m_locValues": [
+                    "Just darn creepy!",
+                    "Einfach nur gruselig!",
+                    "¡Simplemente espeluznante!",
+                    "¡Es realmente espeluznante!",
+                    "Il fait vraiment peur à voir !",
+                    "A dir poco inquietante.",
+                    "キモォォォォォいッ説明不能！！",
+                    "그냥 소름끼칩니다!",
+                    "Prawdziwie upiorny koleżka!",
+                    "Dá arrepios!",
+                    "Просто жуть!",
+                    "น่าขนลุกเป็นบ้า!",
+                    "一首可怕的歌！",
+                    "恐怖喔～恐怖到了極點！"
+                ],
+                "m_locId": 2709602
+            },
+            "m_unlockEvent": 164
+        },
+        {
             "m_ID": 63,
             "m_cardId": 56199,
             "m_name": {
@@ -10175,6 +9989,68 @@
                     "你的套牌將由隨機的傳說卡牌組成，每張傳說牌各有4張"
                 ],
                 "m_locId": 2710421
+            },
+            "m_unlockEvent": 164
+        },
+        {
+            "m_ID": 57,
+            "m_cardId": 56193,
+            "m_name": {
+                "m_locValues": [
+                    "Tol Barad",
+                    "Tol Barad",
+                    "Tol Barad",
+                    "Tol Barad",
+                    "Tol Barad",
+                    "Tol Barad",
+                    "トル・バラド",
+                    "톨 바라드",
+                    "Tol Barad",
+                    "Tol Barad",
+                    "Тол Барад",
+                    "ทอลบาราด",
+                    "托尔巴拉德",
+                    "托巴拉德"
+                ],
+                "m_locId": 2710406
+            },
+            "m_shortName": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_flavorText": {
+                "m_locValues": [
+                    "Play a minion and get a random spell of the same cost, but for free!",
+                    "Spielt einen Diener aus und erhaltet einen zufälligen Zauber mit den gleichen Kosten, der aber kostenlos ist!",
+                    "Cuando juegas un esbirro, obtienes un hechizo aleatorio del mismo coste, ¡pero gratis!",
+                    "Juega un esbirro y obtendrás un hechizo aleatorio del mismo costo... ¡gratis!",
+                    "Jouez un serviteur et obtenez un sort aléatoire de même coût gratuitement !",
+                    "Gioca un servitore e otterrai una Magia casuale gratuita dello stesso costo!",
+                    "手札からミニオンを出すと、同コストのランダムな呪文がコスト（0）になって手に入る！",
+                    "하수인을 내면 같은 비용의 무작위 주문을 손으로 가져옵니다. 그 주문의 비용은 0이 되고요!",
+                    "Zagraj stronnika. Otrzymasz zaklęcie o tym samym koszcie, lecz będzie ono darmowe!",
+                    "Jogue um lacaio e receba um feitiço aleatório com o mesmo custo, mas de graça!",
+                    "Разыграйте существо и получите случайное заклинание за ту же ману, которое вы сможете разыграть бесплатно!",
+                    "เล่นมินเนี่ยนเพื่อรับ\nเวทมนตร์แบบสุ่มที่มี\nค่าร่ายเท่ามินเนี่ยนตัวนั้น แต่ลดค่าร่ายเหลือ (0)!",
+                    "召唤随从时会随机获得与之法力值消耗相同的法术，且法术的法力值消耗为\n（0）点！",
+                    "打出手下就能獲得同樣法力消耗的隨機法術，而且施放這些法術還無需消耗法力！"
+                ],
+                "m_locId": 2710415
             },
             "m_unlockEvent": 164
         },
@@ -10303,6 +10179,68 @@
             "m_unlockEvent": 164
         },
         {
+            "m_ID": 58,
+            "m_cardId": 56194,
+            "m_name": {
+                "m_locValues": [
+                    "Yellow-Brick",
+                    "Herz und Courage",
+                    "Baldosas amarillas",
+                    "Camino amarillo",
+                    "Briques jaunes",
+                    "Sentiero Dorato",
+                    "黄色い喧嘩の道",
+                    "노란 벽돌",
+                    "Żółta kostka",
+                    "Tijolo Amarelo",
+                    "Желтый кирпич",
+                    "ถนนอิฐสีเหลือง",
+                    "绿野大作战",
+                    "綠野牌蹤"
+                ],
+                "m_locId": 2710407
+            },
+            "m_shortName": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_flavorText": {
+                "m_locValues": [
+                    "Start the game with Dorothee! She grants Charge on her left and Taunt on her right.",
+                    "Ihr beginnt das Spiel mit Dorothee! Sie verleiht Dienern zu ihrer Linken Ansturm und Dienern zu ihrer Rechten Spott.",
+                    "¡Comienza el juego con Dorothee! Otorga Cargar a su izquierda y Provocar a su derecha.",
+                    "¡Empiezas la partida con Dorothee! Otorga Carga a la izquierda y Provocación a la derecha.",
+                    "Vous commencez la partie avec Dorothée ! Elle confère Charge à sa gauche et Provocation à sa droite.",
+                    "Inizi la partita con Dorothee, che fornisce Carica ai servitori alla sua sinistra e Provocazione a quelli alla sua destra.",
+                    "「ドロジー」がいる状態で対戦開始！彼女の左のミニオンには突撃が、右のミニオンには挑発が付与されるんだ。",
+                    "도로시를 소환하고 게임을 시작합니다! 왼쪽에 있는 하수인에게는 돌진을, 오른쪽에 있는 하수인에게는 도발을 부여합니다.",
+                    "Rozpocznij grę z Dorotką, która zapewnia Szarżę stronnikom po lewej stronie oraz Prowokację po prawej.",
+                    "Comece o jogo com Doroteia! Ela concede Investida à esquerda e Provocar à direita.",
+                    "Вы начинаете матч с Дороти, которая дает «Рывок» существам слева от себя и «Провокацию» — существам справа от себя.",
+                    "เริ่มเกมพร้อมโดโรธี! มินเนี่ยนด้านซ้ายมือของเธอมีบุกทะลวง ส่วนมินเนี่ยนด้านขวามือของเธอมียั่วยุ",
+                    "和多萝茜并肩战斗！在她左边的随从会获得冲锋，而右边的随从则获得嘲讽。",
+                    "用桃樂絲開始賽局！她會賦予左邊的手下衝鋒，右邊的手下嘲諷"
+                ],
+                "m_locId": 2710416
+            },
+            "m_unlockEvent": 164
+        },
+        {
             "m_ID": 67,
             "m_cardId": 57252,
             "m_name": {
@@ -10361,6 +10299,68 @@
                     "他們說，去偷一座城市吧。他們說，應該會很好玩吧"
                 ],
                 "m_locId": 2713048
+            },
+            "m_unlockEvent": 164
+        },
+        {
+            "m_ID": 59,
+            "m_cardId": 56195,
+            "m_name": {
+                "m_locValues": [
+                    "Catacombs",
+                    "Katakomben",
+                    "Catacumbas",
+                    "Catacumbas",
+                    "Catacombes",
+                    "Catacombe",
+                    "迷宮",
+                    "지하 미궁",
+                    "Katakumby",
+                    "Catacumbas",
+                    "Катакомбы",
+                    "สุสานใต้ดิน",
+                    "地下宝藏",
+                    "地下城"
+                ],
+                "m_locId": 2710408
+            },
+            "m_shortName": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_flavorText": {
+                "m_locValues": [
+                    "Play minions to complete your quest and get an awesome treasure!",
+                    "Spielt Diener aus, um Eure Quest abzuschließen und einen wertvollen Schatz zu erhalten!",
+                    "¡Juega esbirros para completar tu misión y consigue un tesoro alucinante!",
+                    "¡Juega esbirros para completar tu misión y recibe un tesoro increíble!",
+                    "Jouez des serviteurs pour terminer votre quête et obtenir un fabuleux trésor !",
+                    "Gioca servitori per completare la tua Missione e ottenere un fantastico Tesoro!",
+                    "手札からミニオンを出してクエストを完遂し、すごいお宝を手に入れよう！",
+                    "하수인을 내서 퀘스트를 완료하고 멋진 보물을 받으세요!",
+                    "Zagrywaj stronników, aby wykonać zadanie i zdobyć wspaniały skarb!",
+                    "Jogue lacaios para concluir sua missão e receber um tesouro fantástico!",
+                    "Разыгрывайте существ, чтобы выполнить задачу и получить фантастическое сокровище!",
+                    "เล่นมินเนี่ยนเพื่อทำ\nเควสต์ของคุณให้สำเร็จ\nและรับสมบัติสุดเจ๋ง!",
+                    "使用随从牌来完成你的任务，获得惊人的宝藏！",
+                    "打出手下以完成任務，獲得驚人的寶藏！"
+                ],
+                "m_locId": 2710417
             },
             "m_unlockEvent": 164
         },
@@ -10489,502 +10489,6 @@
             "m_unlockEvent": 164
         },
         {
-            "m_ID": 70,
-            "m_cardId": 57261,
-            "m_name": {
-                "m_locValues": [
-                    "Hagatha",
-                    "Hagatha",
-                    "Hagatha",
-                    "Hagatha",
-                    "Hagatha",
-                    "Hagatha",
-                    "ハガサ",
-                    "하가사",
-                    "Złagata",
-                    "Hagatha",
-                    "Хагата",
-                    "ฮากาธา!",
-                    "哈加莎",
-                    "哈嘉薩"
-                ],
-                "m_locId": 2713046
-            },
-            "m_shortName": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_flavorText": {
-                "m_locValues": [
-                    "\"A curse upon you! A curse upon this mountain!\"",
-                    "„Ich verfluche Euch und diesen Berg gleich mit!“",
-                    "«¡Yo te maldigo! ¡Yo maldigo esta montaña!».",
-                    "\"¡Te maldigo! ¡Te maldigo, montaña!\"",
-                    "« Je vous maudis ! Et je maudis cette montagne ! »",
-                    "\"Che tu sia maledetto! Che questa montagna sia maledetta!\"",
-                    "「呪われろ！お前達も、この山もだ！」",
-                    "\"저주를! 이 산에 저주를!\"",
-                    "„Przeklinam ciebie i tę okropną górę!”.",
-                    "\"Maldito seja você! Maldita seja esta montanha!\"",
-                    "«Будьте вы прокляты с вашей горой!»",
-                    "\"ข้าขอสาปแช่งเจ้า! ข้าขอสาปแช่ง\nภูเขาบ้านี่ด้วย!\"",
-                    "“我诅咒你！诅咒这破山！”",
-                    "「你這個該死的傢伙！你這個該死的黑石山！」"
-                ],
-                "m_locId": 2713051
-            },
-            "m_unlockEvent": 164
-        },
-        {
-            "m_ID": 71,
-            "m_cardId": 57267,
-            "m_name": {
-                "m_locValues": [
-                    "Rafaam",
-                    "Rafaam",
-                    "Rafaam",
-                    "Rafaam",
-                    "Rafaam",
-                    "Rafaam",
-                    "ラファーム",
-                    "라팜",
-                    "Rafaam",
-                    "Rafaam",
-                    "Рафаам",
-                    "ราฟาม",
-                    "拉法姆",
-                    "拉法姆"
-                ],
-                "m_locId": 2713047
-            },
-            "m_shortName": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_flavorText": {
-                "m_locValues": [
-                    "\"This is everyone's fault but mine!\"",
-                    "„Einmal mit Profis ...“",
-                    "«¡Todos tienen la culpa menos yo!».",
-                    "\"¡Esto es culpa de todos menos mía!\"",
-                    "« C’est la faute de tout le monde sauf moi ! »",
-                    "\"La colpa di tutto questo è di tutti tranne che mia!",
-                    "「この失敗は全員の責任だ、我以外の！」",
-                    "\"나 빼고 모든 녀석들 탓이야!\"",
-                    "„Ja z tym nie mam w ogóle nic wspólnego!”.",
-                    "\"A culpa é de qualquer um, menos minha!\"",
-                    "«Я-то тут точно ни при чем!»",
-                    "\"ทุกอย่างเป็นความผิด\nของทุกคนที่ไม่ใช่ข้า!\"",
-                    "“全是他们的错，跟我没关系！”",
-                    "「這都是你們的錯！只有我沒有錯！」"
-                ],
-                "m_locId": 2713052
-            },
-            "m_unlockEvent": 164
-        },
-        {
-            "m_ID": 72,
-            "m_cardId": 57633,
-            "m_name": {
-                "m_locValues": [
-                    "Garrosh",
-                    "Garrosh",
-                    "Garrosh",
-                    "Garrosh",
-                    "Garrosh",
-                    "Garrosh",
-                    "ガロッシュ",
-                    "가로쉬",
-                    "Garosz",
-                    "Garrosh",
-                    "Гаррош",
-                    "แกร์รอช",
-                    "加尔鲁什",
-                    "卡爾洛斯"
-                ],
-                "m_locId": 2713821
-            },
-            "m_shortName": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_flavorText": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_unlockEvent": 164
-        },
-        {
-            "m_ID": 73,
-            "m_cardId": 57635,
-            "m_name": {
-                "m_locValues": [
-                    "Thrall",
-                    "Thrall",
-                    "Thrall",
-                    "Thrall",
-                    "Thrall",
-                    "Thrall",
-                    "スロール",
-                    "스랄",
-                    "Thrall",
-                    "Thrall",
-                    "Тралл",
-                    "ธรอล",
-                    "萨尔",
-                    "索爾"
-                ],
-                "m_locId": 2713824
-            },
-            "m_shortName": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_flavorText": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_unlockEvent": 164
-        },
-        {
-            "m_ID": 79,
-            "m_cardId": 637,
-            "m_name": {
-                "m_locValues": [
-                    "Jaina",
-                    "Jaina",
-                    "Jaina",
-                    "Jaina",
-                    "Jaina",
-                    "Jaina",
-                    "ジェイナ",
-                    "제이나",
-                    "Jaina",
-                    "Jaina",
-                    "Джайна",
-                    "เจน่า",
-                    "吉安娜",
-                    "珍娜"
-                ],
-                "m_locId": 2713830
-            },
-            "m_shortName": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_flavorText": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_unlockEvent": 164
-        },
-        {
-            "m_ID": 81,
-            "m_cardId": 57580,
-            "m_name": {
-                "m_locValues": [
-                    "Mage / Rogue",
-                    "Magier / Schurke",
-                    "Mago / Pícaro",
-                    "Mago/Pícaro",
-                    "Mage / Voleur",
-                    "Mago/Ladro",
-                    "メイジ / ローグ",
-                    "마법사 / 도적",
-                    "Mag/łotr",
-                    "Mago / Ladino",
-                    "Маг_/ разбойник",
-                    "เมจ / โร้ก",
-                    "法师/潜行者",
-                    "法師 / 盜賊"
-                ],
-                "m_locId": 2714063
-            },
-            "m_shortName": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_flavorText": {
-                "m_locValues": [
-                    "The dashing treasure hunter is now dabbling in magic.",
-                    "Der schneidige Schatzjäger versucht sich jetzt auch als Magier.",
-                    "Este apuesto cazador de tesoros está haciendo pinitos en la magia.",
-                    "El elegante cazador de tesoros ahora está incursionando en la magia.",
-                    "L’intrépide chasseur de trésors s’essaie à la magie.",
-                    "Un affascinante\ncacciatore di tesori\nche ora si diletta\ncon la magia.",
-                    "伊達なトレジャーハンター。新たに身に着けた魔法は伊達じゃない！",
-                    "호쾌한 이 보물 사냥꾼은 마법에도 손을 대기 시작했습니다.",
-                    "Przebojowy awanturnik para się teraz magią.",
-                    "O intrépido caçador de tesouros agora está se metendo com magia.",
-                    "Бравый охотник за сокровищами решил попробовать себя в магии.",
-                    "นักล่าสมบัติทรงเสน่ห์\nผู้หันมาลองใช้เวทมนตร์",
-                    "这个帅气的宝藏猎人跨界玩起了魔法。",
-                    "這位高大威猛的寶物獵人現在居然玩起魔法了"
-                ],
-                "m_locId": 2714067
-            },
-            "m_unlockEvent": 164
-        },
-        {
-            "m_ID": 82,
-            "m_cardId": 57581,
-            "m_name": {
-                "m_locValues": [
-                    "Paladin / Shaman",
-                    "Paladin / Schamane",
-                    "Paladín / Chamán",
-                    "Paladín/Chamán",
-                    "Paladin / Chaman",
-                    "Paladino/Sciamano",
-                    "パラディン / シャーマン",
-                    "성기사 / 주술사",
-                    "Paladyn/szaman",
-                    "Paladino / Xamã",
-                    "Паладин_/ шаман",
-                    "พาลาดิน / ชาแมน",
-                    "圣骑士/萨满祭司",
-                    "聖騎士 / 薩滿"
-                ],
-                "m_locId": 2714064
-            },
-            "m_shortName": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_flavorText": {
-                "m_locValues": [
-                    "A dapper gentleman-explorer with a taste for fish.",
-                    "Ein echter Gentleman mit einer Vorliebe für Fisch.",
-                    "Un elegante caballero explorador aficionado al pescado.",
-                    "Un pulcro expedicionario caballeroso con debilidad por los peces.",
-                    "Un gentleman explorateur avec un penchant pour le poisson.",
-                    "Un elegante esploratore gentilmurloc che adora i pesci.",
-                    "魚好きの粋な探検紳士。",
-                    "고상한 신사인 이 탐험가는 물고기들과 각별한 관계를 유지하고 있습니다.",
-                    "Elegancki odkrywca\nz upodobaniem do owoców morza.",
-                    "Um explorador cheio de cavalheirismo, mas chegado num peixe.",
-                    "Достойнейший джентльмен, ценящий приключения и свежую рыбу.",
-                    "สุภาพบุรุษนักสำรวจ\nสุดโก้เก๋ผู้ชื่นชอบปลา",
-                    "高贵的探险者，精致的绅士，就是\n有点腥。",
-                    "洗鍊俐落的紳士探險者，他對魚的品味可是非常講究的呢"
-                ],
-                "m_locId": 2714068
-            },
-            "m_unlockEvent": 164
-        },
-        {
-            "m_ID": 83,
-            "m_cardId": 57582,
-            "m_name": {
-                "m_locValues": [
-                    "Druid / Priest",
-                    "Druide / Priester",
-                    "Druida / Sacerdote",
-                    "Druida/Sacerdotisa",
-                    "Druide / Prêtre",
-                    "Druido/Sacerdote",
-                    "ドルイド / プリースト",
-                    "드루이드 / 사제",
-                    "Druid/kapłan",
-                    "Druida / Sacerdote",
-                    "Друид_/ жрец",
-                    "ดรูอิด / พรีสต์",
-                    "德鲁伊/牧师",
-                    "德魯伊 / 牧師"
-                ],
-                "m_locId": 2714065
-            },
-            "m_shortName": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_flavorText": {
-                "m_locValues": [
-                    "The book-smart explorer has proven formidable in the field.",
-                    "Diese belesene Forscherin hat sich auch in der Praxis bewiesen.",
-                    "La erudita exploradora ha demostrado ser formidable en el trabajo de campo.",
-                    "La expedicionaria sabelotodo ha demostrado ser formidable en el trabajo de campo.",
-                    "L’exploratrice érudite fait des merveilles sur le terrain.",
-                    "Un'erudita esploratrice che si è dimostrata formidabile sul campo di battaglia.",
-                    "学術文献に精通した探検家は、現場でも「知は力なり」を証明する。",
-                    "박학다식한 이 탐험가는 현장에서도 뛰어난 능력을 보입니다.",
-                    "Błyskotliwa uczona wspaniale radzi sobie w terenie.",
-                    "Essa exploradora com dotes acadêmicos se provou excelente em campo.",
-                    "Ее не страшит ни пыль библиотек, ни пыль гробниц.",
-                    "นักสำรวจฉลาดล้ำ\nผู้มีทักษะภาคสนาม\nโดดเด่นเป็นที่ยอมรับ",
-                    "理论方面的高手，实地探险时也身手\n不凡。",
-                    "這位博學的探險者，她作戰的本領可絲毫不亞於做研究"
-                ],
-                "m_locId": 2714069
-            },
-            "m_unlockEvent": 164
-        },
-        {
             "m_ID": 84,
             "m_cardId": 57583,
             "m_name": {
@@ -11105,6 +10609,68 @@
                     "是德魯伊，也是牧師，更是探險者！"
                 ],
                 "m_locId": 2714441
+            },
+            "m_unlockEvent": 164
+        },
+        {
+            "m_ID": 70,
+            "m_cardId": 57261,
+            "m_name": {
+                "m_locValues": [
+                    "Hagatha",
+                    "Hagatha",
+                    "Hagatha",
+                    "Hagatha",
+                    "Hagatha",
+                    "Hagatha",
+                    "ハガサ",
+                    "하가사",
+                    "Złagata",
+                    "Hagatha",
+                    "Хагата",
+                    "ฮากาธา!",
+                    "哈加莎",
+                    "哈嘉薩"
+                ],
+                "m_locId": 2713046
+            },
+            "m_shortName": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_flavorText": {
+                "m_locValues": [
+                    "\"A curse upon you! A curse upon this mountain!\"",
+                    "„Ich verfluche Euch und diesen Berg gleich mit!“",
+                    "«¡Yo te maldigo! ¡Yo maldigo esta montaña!».",
+                    "\"¡Te maldigo! ¡Te maldigo, montaña!\"",
+                    "« Je vous maudis ! Et je maudis cette montagne ! »",
+                    "\"Che tu sia maledetto! Che questa montagna sia maledetta!\"",
+                    "「呪われろ！お前達も、この山もだ！」",
+                    "\"저주를! 이 산에 저주를!\"",
+                    "„Przeklinam ciebie i tę okropną górę!”.",
+                    "\"Maldito seja você! Maldita seja esta montanha!\"",
+                    "«Будьте вы прокляты с вашей горой!»",
+                    "\"ข้าขอสาปแช่งเจ้า! ข้าขอสาปแช่ง\nภูเขาบ้านี่ด้วย!\"",
+                    "“我诅咒你！诅咒这破山！”",
+                    "「你這個該死的傢伙！你這個該死的黑石山！」"
+                ],
+                "m_locId": 2713051
             },
             "m_unlockEvent": 164
         },
@@ -11233,6 +10799,68 @@
             "m_unlockEvent": 164
         },
         {
+            "m_ID": 71,
+            "m_cardId": 57267,
+            "m_name": {
+                "m_locValues": [
+                    "Rafaam",
+                    "Rafaam",
+                    "Rafaam",
+                    "Rafaam",
+                    "Rafaam",
+                    "Rafaam",
+                    "ラファーム",
+                    "라팜",
+                    "Rafaam",
+                    "Rafaam",
+                    "Рафаам",
+                    "ราฟาม",
+                    "拉法姆",
+                    "拉法姆"
+                ],
+                "m_locId": 2713047
+            },
+            "m_shortName": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_flavorText": {
+                "m_locValues": [
+                    "\"This is everyone's fault but mine!\"",
+                    "„Einmal mit Profis ...“",
+                    "«¡Todos tienen la culpa menos yo!».",
+                    "\"¡Esto es culpa de todos menos mía!\"",
+                    "« C’est la faute de tout le monde sauf moi ! »",
+                    "\"La colpa di tutto questo è di tutti tranne che mia!",
+                    "「この失敗は全員の責任だ、我以外の！」",
+                    "\"나 빼고 모든 녀석들 탓이야!\"",
+                    "„Ja z tym nie mam w ogóle nic wspólnego!”.",
+                    "\"A culpa é de qualquer um, menos minha!\"",
+                    "«Я-то тут точно ни при чем!»",
+                    "\"ทุกอย่างเป็นความผิด\nของทุกคนที่ไม่ใช่ข้า!\"",
+                    "“全是他们的错，跟我没关系！”",
+                    "「這都是你們的錯！只有我沒有錯！」"
+                ],
+                "m_locId": 2713052
+            },
+            "m_unlockEvent": 164
+        },
+        {
             "m_ID": 89,
             "m_cardId": 59387,
             "m_name": {
@@ -11291,6 +10919,130 @@
                     "里諾搞砸的事情，她每次都能幫忙妥善解決。就除了那一次以外…"
                 ],
                 "m_locId": 2717795
+            },
+            "m_unlockEvent": 164
+        },
+        {
+            "m_ID": 72,
+            "m_cardId": 57633,
+            "m_name": {
+                "m_locValues": [
+                    "Garrosh",
+                    "Garrosh",
+                    "Garrosh",
+                    "Garrosh",
+                    "Garrosh",
+                    "Garrosh",
+                    "ガロッシュ",
+                    "가로쉬",
+                    "Garosz",
+                    "Garrosh",
+                    "Гаррош",
+                    "แกร์รอช",
+                    "加尔鲁什",
+                    "卡爾洛斯"
+                ],
+                "m_locId": 2713821
+            },
+            "m_shortName": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_flavorText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_unlockEvent": 164
+        },
+        {
+            "m_ID": 73,
+            "m_cardId": 57635,
+            "m_name": {
+                "m_locValues": [
+                    "Thrall",
+                    "Thrall",
+                    "Thrall",
+                    "Thrall",
+                    "Thrall",
+                    "Thrall",
+                    "スロール",
+                    "스랄",
+                    "Thrall",
+                    "Thrall",
+                    "Тралл",
+                    "ธรอล",
+                    "萨尔",
+                    "索爾"
+                ],
+                "m_locId": 2713824
+            },
+            "m_shortName": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_flavorText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
             },
             "m_unlockEvent": 164
         },
@@ -11729,6 +11481,68 @@
             "m_unlockEvent": 164
         },
         {
+            "m_ID": 79,
+            "m_cardId": 637,
+            "m_name": {
+                "m_locValues": [
+                    "Jaina",
+                    "Jaina",
+                    "Jaina",
+                    "Jaina",
+                    "Jaina",
+                    "Jaina",
+                    "ジェイナ",
+                    "제이나",
+                    "Jaina",
+                    "Jaina",
+                    "Джайна",
+                    "เจน่า",
+                    "吉安娜",
+                    "珍娜"
+                ],
+                "m_locId": 2713830
+            },
+            "m_shortName": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_flavorText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_unlockEvent": 164
+        },
+        {
             "m_ID": 97,
             "m_cardId": 59933,
             "m_name": {
@@ -11911,6 +11725,192 @@
                     "再怎樣破舊陳腐的廢墟，他都忍不住想進去看看"
                 ],
                 "m_locId": 2719613
+            },
+            "m_unlockEvent": 164
+        },
+        {
+            "m_ID": 81,
+            "m_cardId": 57580,
+            "m_name": {
+                "m_locValues": [
+                    "Mage / Rogue",
+                    "Magier / Schurke",
+                    "Mago / Pícaro",
+                    "Mago/Pícaro",
+                    "Mage / Voleur",
+                    "Mago/Ladro",
+                    "メイジ / ローグ",
+                    "마법사 / 도적",
+                    "Mag/łotr",
+                    "Mago / Ladino",
+                    "Маг_/ разбойник",
+                    "เมจ / โร้ก",
+                    "法师/潜行者",
+                    "法師 / 盜賊"
+                ],
+                "m_locId": 2714063
+            },
+            "m_shortName": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_flavorText": {
+                "m_locValues": [
+                    "The dashing treasure hunter is now dabbling in magic.",
+                    "Der schneidige Schatzjäger versucht sich jetzt auch als Magier.",
+                    "Este apuesto cazador de tesoros está haciendo pinitos en la magia.",
+                    "El elegante cazador de tesoros ahora está incursionando en la magia.",
+                    "L’intrépide chasseur de trésors s’essaie à la magie.",
+                    "Un affascinante\ncacciatore di tesori\nche ora si diletta\ncon la magia.",
+                    "伊達なトレジャーハンター。新たに身に着けた魔法は伊達じゃない！",
+                    "호쾌한 이 보물 사냥꾼은 마법에도 손을 대기 시작했습니다.",
+                    "Przebojowy awanturnik para się teraz magią.",
+                    "O intrépido caçador de tesouros agora está se metendo com magia.",
+                    "Бравый охотник за сокровищами решил попробовать себя в магии.",
+                    "นักล่าสมบัติทรงเสน่ห์\nผู้หันมาลองใช้เวทมนตร์",
+                    "这个帅气的宝藏猎人跨界玩起了魔法。",
+                    "這位高大威猛的寶物獵人現在居然玩起魔法了"
+                ],
+                "m_locId": 2714067
+            },
+            "m_unlockEvent": 164
+        },
+        {
+            "m_ID": 82,
+            "m_cardId": 57581,
+            "m_name": {
+                "m_locValues": [
+                    "Paladin / Shaman",
+                    "Paladin / Schamane",
+                    "Paladín / Chamán",
+                    "Paladín/Chamán",
+                    "Paladin / Chaman",
+                    "Paladino/Sciamano",
+                    "パラディン / シャーマン",
+                    "성기사 / 주술사",
+                    "Paladyn/szaman",
+                    "Paladino / Xamã",
+                    "Паладин_/ шаман",
+                    "พาลาดิน / ชาแมน",
+                    "圣骑士/萨满祭司",
+                    "聖騎士 / 薩滿"
+                ],
+                "m_locId": 2714064
+            },
+            "m_shortName": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_flavorText": {
+                "m_locValues": [
+                    "A dapper gentleman-explorer with a taste for fish.",
+                    "Ein echter Gentleman mit einer Vorliebe für Fisch.",
+                    "Un elegante caballero explorador aficionado al pescado.",
+                    "Un pulcro expedicionario caballeroso con debilidad por los peces.",
+                    "Un gentleman explorateur avec un penchant pour le poisson.",
+                    "Un elegante esploratore gentilmurloc che adora i pesci.",
+                    "魚好きの粋な探検紳士。",
+                    "고상한 신사인 이 탐험가는 물고기들과 각별한 관계를 유지하고 있습니다.",
+                    "Elegancki odkrywca\nz upodobaniem do owoców morza.",
+                    "Um explorador cheio de cavalheirismo, mas chegado num peixe.",
+                    "Достойнейший джентльмен, ценящий приключения и свежую рыбу.",
+                    "สุภาพบุรุษนักสำรวจ\nสุดโก้เก๋ผู้ชื่นชอบปลา",
+                    "高贵的探险者，精致的绅士，就是\n有点腥。",
+                    "洗鍊俐落的紳士探險者，他對魚的品味可是非常講究的呢"
+                ],
+                "m_locId": 2714068
+            },
+            "m_unlockEvent": 164
+        },
+        {
+            "m_ID": 83,
+            "m_cardId": 57582,
+            "m_name": {
+                "m_locValues": [
+                    "Druid / Priest",
+                    "Druide / Priester",
+                    "Druida / Sacerdote",
+                    "Druida/Sacerdotisa",
+                    "Druide / Prêtre",
+                    "Druido/Sacerdote",
+                    "ドルイド / プリースト",
+                    "드루이드 / 사제",
+                    "Druid/kapłan",
+                    "Druida / Sacerdote",
+                    "Друид_/ жрец",
+                    "ดรูอิด / พรีสต์",
+                    "德鲁伊/牧师",
+                    "德魯伊 / 牧師"
+                ],
+                "m_locId": 2714065
+            },
+            "m_shortName": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_flavorText": {
+                "m_locValues": [
+                    "The book-smart explorer has proven formidable in the field.",
+                    "Diese belesene Forscherin hat sich auch in der Praxis bewiesen.",
+                    "La erudita exploradora ha demostrado ser formidable en el trabajo de campo.",
+                    "La expedicionaria sabelotodo ha demostrado ser formidable en el trabajo de campo.",
+                    "L’exploratrice érudite fait des merveilles sur le terrain.",
+                    "Un'erudita esploratrice che si è dimostrata formidabile sul campo di battaglia.",
+                    "学術文献に精通した探検家は、現場でも「知は力なり」を証明する。",
+                    "박학다식한 이 탐험가는 현장에서도 뛰어난 능력을 보입니다.",
+                    "Błyskotliwa uczona wspaniale radzi sobie w terenie.",
+                    "Essa exploradora com dotes acadêmicos se provou excelente em campo.",
+                    "Ее не страшит ни пыль библиотек, ни пыль гробниц.",
+                    "นักสำรวจฉลาดล้ำ\nผู้มีทักษะภาคสนาม\nโดดเด่นเป็นที่ยอมรับ",
+                    "理论方面的高手，实地探险时也身手\n不凡。",
+                    "這位博學的探險者，她作戰的本領可絲毫不亞於做研究"
+                ],
+                "m_locId": 2714069
             },
             "m_unlockEvent": 164
         }

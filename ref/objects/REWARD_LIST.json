@@ -22459,6 +22459,167 @@
             "m_chooseOne": 0
         },
         {
+            "m_ID": 2022,
+            "m_description": {
+                "m_locValues": [
+                    "Seafarer's Coin",
+                    "Seefahrermünze",
+                    "Moneda de navegante",
+                    "Moneda de navegante",
+                    "Pièce de navigation",
+                    "Moneta del Marinaio",
+                    "船乗りのコイン",
+                    "뱃사람의 동전",
+                    "Moneta korsarza",
+                    "Moeda do Marinheiro",
+                    "Монетка морехода",
+                    "เหรียญนักเดินเรือ",
+                    "海员的幸运币",
+                    "水手幣"
+                ],
+                "m_locId": 2902354
+            },
+            "m_chooseOne": 0
+        },
+        {
+            "m_ID": 2023,
+            "m_description": {
+                "m_locValues": [
+                    "Signature Power Spike x2",
+                    "Markanter Kraftschub x2",
+                    "Mate potente distintiva x2",
+                    "2 Remate de poder insignia",
+                    "Carte signature Volée puissante ×2",
+                    "Aumento di Potenza Pregiata x2",
+                    "シグネチャー「パワースパイク」x2",
+                    "간판 강력 스파이크 2장",
+                    "2 x specjalna karta Skok mocy",
+                    "Cortada Cravada Exclusivo x2",
+                    "«Энергичный удар»",
+                    "2x ลูกตบหน้าเน็ตซิกเนเจอร์",
+                    "2张异画大力扣杀",
+                    "珍藏強力殺球x2"
+                ],
+                "m_locId": 2902690
+            },
+            "m_chooseOne": 0
+        },
+        {
+            "m_ID": 2024,
+            "m_description": {
+                "m_locValues": [
+                    "Signature Adaptive Amalgam x2",
+                    "Markante Adaptive Mutation x2",
+                    "Amalgama adaptable distintiva x2",
+                    "2 Amalgama adaptable insignia",
+                    "Carte signature Amalgame adaptable ×2",
+                    "Amalgama Adattivo Pregiata x2",
+                    "シグネチャー「適応的融合体」x2",
+                    "간판 적응형 융합체 2장",
+                    "2 x specjalna karta Adaptacyjny amalgamat",
+                    "Amálgama Adaptativa Exclusivo x2",
+                    "«Изменчивая химера»",
+                    "2x อะมัลกัมแปรสภาพซิกเนเจอร์",
+                    "2张异画进化融合怪",
+                    "珍藏適應型聚合體x2"
+                ],
+                "m_locId": 2902691
+            },
+            "m_chooseOne": 0
+        },
+        {
+            "m_ID": 2026,
+            "m_description": {
+                "m_locValues": [
+                    "Gorgonzormu (Uncraftable Legendary)",
+                    "Legendäre Karte Gorgonzormu (nicht herstellbar)",
+                    "Gorgonzormu (legendaria, no se puede crear)",
+                    "Gorgonzormu (legendaria no creable)",
+                    "Carte légendaire Gorgonzormu (impossible à créer)",
+                    "Gorgonzormu (Leggendaria vincolata)",
+                    "「ゴルゴンゾルム」（作成不能レジェンド）",
+                    "고르곤조르무 (제작 불가 전설 카드)",
+                    "Karta Gorgonzormu (legendarna niewytwarzalna)",
+                    "Gorgonzormu (Incriável Lendário)",
+                    "Карта «Горгонзорму» (нельзя создать, легендарная карта)",
+                    "กอร์กอนซอร์มู (ระดับตำนาน สร้างไม่ได้)",
+                    "戈贡佐姆（无法制作的传说卡牌）",
+                    "戈貢佐姆(無法合成 - 傳說)"
+                ],
+                "m_locId": 2902755
+            },
+            "m_chooseOne": 0
+        },
+        {
+            "m_ID": 2027,
+            "m_description": {
+                "m_locValues": [
+                    "2x Golden Drink Server (Uncraftable Common)",
+                    "2x goldene gewöhnliche Karte Kellner (nicht herstellbar)",
+                    "2x Camarglero dorada (común, no se puede crear)",
+                    "2 Mesero dorada (común no creable)",
+                    "Carte commune dorée Serveur de boissons ×2 (impossible à créer)",
+                    "2x Ca-mur-iere Dorata (Comune vincolata)",
+                    "ゴールデン「ドリンク係」x2（作成不能コモン）",
+                    "황금 음료 서버 2장 (제작 불가 일반 카드)",
+                    "2 x złota karta Kelnermrgl (zwykła niewytwarzalna)",
+                    "2x Garçom de Bebidas Dourado (Incriável Comum)",
+                    "2 золотые карты «Разносчик напитков» (нельзя создать, обычная карта)",
+                    "2x เด็กเสิร์ฟเครื่องดื่มสีทอง (ระดับทั่วไป สร้างไม่ได้)",
+                    "2张金色饮品侍者（无法制作的普通卡牌）",
+                    "2x 飲料服務生金卡\n(無法合成 - 普通)"
+                ],
+                "m_locId": 2902756
+            },
+            "m_chooseOne": 0
+        },
+        {
+            "m_ID": 2028,
+            "m_description": {
+                "m_locValues": [
+                    "2x Golden Beached Whale (Uncraftable Common)",
+                    "2x goldene gewöhnliche Karte Gestrandeter Wal (nicht herstellbar)",
+                    "2x Cachalote varado dorada (común, no se puede crear)",
+                    "2 Ballena varada dorada (común no creable)",
+                    "Carte commune dorée Baleine échouée ×2 (impossible à créer)",
+                    "2x Balena Spiaggiata Dorata (Comune vincolata)",
+                    "ゴールデン「座礁クジラ」x2（作成不能コモン）",
+                    "황금 떠밀려 온 고래 2장 (제작 불가 일반 카드)",
+                    "2 x złota karta Wyrzucony wieloryb (zwykła niewytwarzalna)",
+                    "2x Baleia Encalhada Dourado (Incriável Comum)",
+                    "2 золотые карты «Выброшенный кит» (нельзя создать, обычная карта)",
+                    "2x วาฬเกยตื้นสีทอง (ระดับทั่วไป สร้างไม่ได้)",
+                    "2张金色搁浅巨鲸（无法制作的普通卡牌）",
+                    "2x 擱淺鯨魚金卡(無法合成 - 普通)"
+                ],
+                "m_locId": 2902757
+            },
+            "m_chooseOne": 0
+        },
+        {
+            "m_ID": 2029,
+            "m_description": {
+                "m_locValues": [
+                    "2x Golden Pet Parrot (Uncraftable Common)",
+                    "2x goldene gewöhnliche Karte Zahmer Papagei (nicht herstellbar)",
+                    "2x Loro de compañía dorada (común, no se puede crear)",
+                    "2 Loro mascota dorada (común no creable)",
+                    "Carte commune dorée Perroquet de compagnie ×2 (impossible à créer)",
+                    "2x Pappagallo Addomesticato Dorata (Comune vincolata)",
+                    "ゴールデン「ペットのオウム」x2（作成不能コモン）",
+                    "황금 반려 앵무새 2장 (제작 불가 일반 카드)",
+                    "2 x złota karta Udomowiona papuga (zwykła niewytwarzalna)",
+                    "2x Papagaio de Estimação Dourado (Incriável Comum)",
+                    "2 золотые карты «Пернатый питомец» (нельзя создать, обычная карта)",
+                    "2x นกแก้วเลี้ยงสีทอง (ระดับทั่วไป สร้างไม่ได้)",
+                    "2张金色宠物鹦鹉（无法制作的普通卡牌）",
+                    "2x 寵物鸚鵡金卡(無法合成 - 普通)"
+                ],
+                "m_locId": 2902758
+            },
+            "m_chooseOne": 0
+        },
+        {
             "m_ID": 203,
             "m_description": {
                 "m_locValues": [
@@ -22478,6 +22639,236 @@
                     "精良核心中立金卡"
                 ],
                 "m_locId": 2757987
+            },
+            "m_chooseOne": 0
+        },
+        {
+            "m_ID": 2030,
+            "m_description": {
+                "m_locValues": [
+                    "Golden Bumbling Bellhop (Uncraftable Rare)",
+                    "Goldene seltene Karte Tollpatschiger Page (nicht herstellbar)",
+                    "Botones torpón dorada (poco común, no se puede crear)",
+                    "Botones despistado dorada (rara no creable)",
+                    "Carte rare dorée Bagagiste maladroit (impossible à créer)",
+                    "Facchino Maldestro Dorata (Rara vincolata)",
+                    "ゴールデン「ぶきっちょな案内係」（作成不能レア）",
+                    "황금 실수투성이 짐꾼 (제작 불가 희귀 카드)",
+                    "Złota karta Niewydarzony goniec (rzadka niewytwarzalna)",
+                    "Carregador Atrapalhado Dourado (Incriável Raro)",
+                    "Золотая карта «Неуклюжий коридорный» (нельзя создать, редкая карта)",
+                    "เด็กถือกระเป๋างุ่มง่ามสีทอง (ระดับหายาก สร้างไม่ได้)",
+                    "金色笨拙的搬运工（无法制作的稀有卡牌）",
+                    "笨手笨腳的門僮金卡(無法合成 - 精良)"
+                ],
+                "m_locId": 2902759
+            },
+            "m_chooseOne": 0
+        },
+        {
+            "m_ID": 2031,
+            "m_description": {
+                "m_locValues": [
+                    "Perils in Paradise Card Back",
+                    "Kartenrücken Gefahr im Paradies",
+                    "Dorso de carta de Peligro en el Paraíso",
+                    "Dorso de carta de Peligros en el Paraíso",
+                    "Dos de carte Paradis en péril",
+                    "Dorso Periglio in Paradiso",
+                    "カード裏面デザイン「大ピンチ！パイレーツ・パラダイス」",
+                    "극한의 극락 카드 뒷면",
+                    "Rewers Tarapaty w tropikach",
+                    "Verso de card Perigos no Paraíso",
+                    "Рубашка «Раздор в тропиках»",
+                    "หลังการ์ด Perils in Paradise",
+                    "胜地历险记卡背图案",
+                    "天堂島危機卡背"
+                ],
+                "m_locId": 2902760
+            },
+            "m_chooseOne": 0
+        },
+        {
+            "m_ID": 2032,
+            "m_description": {
+                "m_locValues": [
+                    "Random Latest Expansion Legendary Card",
+                    "Zufällige legendäre Karte der neuesten Erweiterung",
+                    "Carta legendaria aleatoria de la última expansión",
+                    "Carta legendaria aleatoria de la expansión más reciente",
+                    "Carte légendaire aléatoire de l’extension la plus récente",
+                    "Carta Leggendaria casuale dell'ultima espansione",
+                    "最新拡張版のランダムなレジェンドカード",
+                    "무작위 최신 확장팩 전설 카드",
+                    "Losowa legendarna karta z najnowszego rozszerzenia",
+                    "Card Lendário aleatório da expansão mais recente",
+                    "Случайная легендарная карта из последнего дополнения",
+                    "การ์ดระดับตำนานแบบสุ่มจากส่วนเสริมล่าสุด",
+                    "最新扩展包的随机传说卡牌",
+                    "隨機最新資料片傳說卡牌"
+                ],
+                "m_locId": 2902761
+            },
+            "m_chooseOne": 0
+        },
+        {
+            "m_ID": 2033,
+            "m_description": {
+                "m_locValues": [
+                    "Golden Bumbling Bellhop (Uncraftable Rare)",
+                    "Goldene seltene Karte Tollpatschiger Page (nicht herstellbar)",
+                    "Botones torpón dorada (poco común, no se puede crear)",
+                    "Botones despistado dorada (rara no creable)",
+                    "Carte rare dorée Bagagiste maladroit (impossible à créer)",
+                    "Facchino Maldestro Dorata (Rara vincolata)",
+                    "ゴールデン「ぶきっちょな案内係」（作成不能レア）",
+                    "황금 실수투성이 짐꾼 (제작 불가 희귀 카드)",
+                    "Złota karta Niewydarzony goniec (rzadka niewytwarzalna)",
+                    "Carregador Atrapalhado Dourado (Incriável Raro)",
+                    "Золотая карта «Неуклюжий коридорный» (нельзя создать, редкая карта)",
+                    "เด็กถือกระเป๋างุ่มง่ามสีทอง (ระดับหายาก สร้างไม่ได้)",
+                    "金色笨拙的搬运工（无法制作的稀有卡牌）",
+                    "笨手笨腳的門僮金卡(無法合成 - 精良)"
+                ],
+                "m_locId": 2902762
+            },
+            "m_chooseOne": 0
+        },
+        {
+            "m_ID": 2034,
+            "m_description": {
+                "m_locValues": [
+                    "Golden Knickknack Shack (Uncraftable Rare)",
+                    "Goldene seltene Karte Plunderbude (nicht herstellbar)",
+                    "Caseta de cachivaches dorada (poco común, no se puede crear)",
+                    "Cabaña de chucherías dorada (rara no creable)",
+                    "Carte rare dorée Cabane à bibelots (impossible à créer)",
+                    "Bazar delle Curiosità Dorata (Rara vincolata)",
+                    "ゴールデン「小間物小屋」（作成不能レア）",
+                    "황금 소품 오두막 (제작 불가 희귀 카드)",
+                    "Złota karta Bibelociarnia (rzadka niewytwarzalna)",
+                    "Tenda das Quinquilharias Dourado (Incriável Raro)",
+                    "Золотая карта «Хижина безделушек» (нельзя создать, редкая карта)",
+                    "ร้านขายของฝากสีทอง (ระดับหายาก สร้างไม่ได้)",
+                    "金色小玩物小屋（无法制作的稀有卡牌）",
+                    "擺飾品小店金卡(無法合成 - 精良)"
+                ],
+                "m_locId": 2902763
+            },
+            "m_chooseOne": 0
+        },
+        {
+            "m_ID": 2035,
+            "m_description": {
+                "m_locValues": [
+                    "Golden Knickknack Shack (Uncraftable Rare)",
+                    "Goldene seltene Karte Plunderbude (nicht herstellbar)",
+                    "Caseta de cachivaches dorada (poco común, no se puede crear)",
+                    "Cabaña de chucherías dorada (rara no creable)",
+                    "Carte rare dorée Cabane à bibelots (impossible à créer)",
+                    "Bazar delle Curiosità Dorata (Rara vincolata)",
+                    "ゴールデン「小間物小屋」（作成不能レア）",
+                    "황금 소품 오두막 (제작 불가 희귀 카드)",
+                    "Złota karta Bibelociarnia (rzadka niewytwarzalna)",
+                    "Tenda das Quinquilharias Dourado (Incriável Raro)",
+                    "Золотая карта «Хижина безделушек» (нельзя создать, редкая карта)",
+                    "ร้านขายของฝากสีทอง (ระดับหายาก สร้างไม่ได้)",
+                    "金色小玩物小屋（无法制作的稀有卡牌）",
+                    "擺飾品小店金卡(無法合成 - 精良)"
+                ],
+                "m_locId": 2902764
+            },
+            "m_chooseOne": 0
+        },
+        {
+            "m_ID": 2036,
+            "m_description": {
+                "m_locValues": [
+                    "Golden Brittlebone Buccaneer (Uncraftable Rare)",
+                    "Goldene seltene Karte Morschknochenbukanierin (nicht herstellbar)",
+                    "Bucanera Huesos Flojos dorada (poco común, no se puede crear)",
+                    "Bucanera Huesofrágil dorada (rara no creable)",
+                    "Carte rare dorée Pirate os-vermoulu (impossible à créer)",
+                    "Bucaniera Ossafragili Dorata (Rara vincolata)",
+                    "ゴールデン「粉骨のバッカニーア」（作成不能レア）",
+                    "황금 약골 해적단원 (제작 불가 희귀 카드)",
+                    "Złota karta Kościana korsarka (rzadka niewytwarzalna)",
+                    "Bucaneiro Ossofraco Dourado (Incriável Raro)",
+                    "Золотая карта «Костлявый буканьер» (нельзя создать, редкая карта)",
+                    "โจรสลัดบริตเทิลโบนสีทอง (ระดับหายาก สร้างไม่ได้)",
+                    "金色脆骨海盗（无法制作的稀有卡牌）",
+                    "脆骨海賊金卡(無法合成 - 精良)"
+                ],
+                "m_locId": 2902765
+            },
+            "m_chooseOne": 0
+        },
+        {
+            "m_ID": 2037,
+            "m_description": {
+                "m_locValues": [
+                    "Golden Brittlebone Buccaneer (Uncraftable Rare)",
+                    "Goldene seltene Karte Morschknochenbukanierin (nicht herstellbar)",
+                    "Bucanera Huesos Flojos dorada (poco común, no se puede crear)",
+                    "Bucanera Huesofrágil dorada (rara no creable)",
+                    "Carte rare dorée Pirate os-vermoulu (impossible à créer)",
+                    "Bucaniera Ossafragili Dorata (Rara vincolata)",
+                    "ゴールデン「粉骨のバッカニーア」（作成不能レア）",
+                    "황금 약골 해적단원 (제작 불가 희귀 카드)",
+                    "Złota karta Kościana korsarka (rzadka niewytwarzalna)",
+                    "Bucaneiro Ossofraco Dourado (Incriável Raro)",
+                    "Золотая карта «Костлявый буканьер» (нельзя создать, редкая карта)",
+                    "โจรสลัดบริตเทิลโบนสีทอง (ระดับหายาก สร้างไม่ได้)",
+                    "金色脆骨海盗（无法制作的稀有卡牌）",
+                    "脆骨海賊金卡(無法合成 - 精良)"
+                ],
+                "m_locId": 2902766
+            },
+            "m_chooseOne": 0
+        },
+        {
+            "m_ID": 2038,
+            "m_description": {
+                "m_locValues": [
+                    "Golden Carry-On Grub (Uncraftable Epic)",
+                    "Goldene epische Karte Handgepäcklarve (nicht herstellbar)",
+                    "Larva de mano dorada (épica, no se puede crear)",
+                    "Larva de mano dorada (épica no creable)",
+                    "Carte épique dorée Larve de transport (impossible à créer)",
+                    "Bruco Cargo Dorata (Epica vincolata)",
+                    "ゴールデン「腐肉食いの荷物持ち」（作成不能エピック）",
+                    "황금 휴대용 구더기 (제작 불가 특급 카드)",
+                    "Złota karta Podręczny czerw (epicka niewytwarzalna)",
+                    "Grude de Mão Dourado (Incriável Épico)",
+                    "Золотая карта «Личинка в переноске» (нельзя создать, эпическая карта)",
+                    "หนอนขึ้นเครื่องสีทอง (ระดับสุดยอด สร้างไม่ได้)",
+                    "金色随行肉虫（无法制作的史诗卡牌）",
+                    "隨身腐肉蟲金卡(無法合成 - 史詩)"
+                ],
+                "m_locId": 2902767
+            },
+            "m_chooseOne": 0
+        },
+        {
+            "m_ID": 2039,
+            "m_description": {
+                "m_locValues": [
+                    "Golden Carry-On Grub (Uncraftable Epic)",
+                    "Goldene epische Karte Handgepäcklarve (nicht herstellbar)",
+                    "Larva de mano dorada (épica, no se puede crear)",
+                    "Larva de mano dorada (épica no creable)",
+                    "Carte épique dorée Larve de transport (impossible à créer)",
+                    "Bruco Cargo Dorata (Epica vincolata)",
+                    "ゴールデン「腐肉食いの荷物持ち」（作成不能エピック）",
+                    "황금 휴대용 구더기 (제작 불가 특급 카드)",
+                    "Złota karta Podręczny czerw (epicka niewytwarzalna)",
+                    "Grude de Mão Dourado (Incriável Épico)",
+                    "Золотая карта «Личинка в переноске» (нельзя создать, эпическая карта)",
+                    "หนอนขึ้นเครื่องสีทอง (ระดับสุดยอด สร้างไม่ได้)",
+                    "金色随行肉虫（无法制作的史诗卡牌）",
+                    "隨身腐肉蟲金卡(無法合成 - 史詩)"
+                ],
+                "m_locId": 2902768
             },
             "m_chooseOne": 0
         },
@@ -22505,6 +22896,236 @@
             "m_chooseOne": 0
         },
         {
+            "m_ID": 2040,
+            "m_description": {
+                "m_locValues": [
+                    "10% XP Boost",
+                    "10 % EP-Schub",
+                    "Aumento de PE del 10%",
+                    "Potenciador de EXP de 10%",
+                    "10 % de points d’EXP supplémentaires",
+                    "Bonus 10% PE",
+                    "XPブースト10%",
+                    "10% 경험치 부스트",
+                    "Premia 10% do PD",
+                    "10% de Impulso de EXP",
+                    "+10% к опыту",
+                    "บูสต์ XP 10%",
+                    "10%经验值加成",
+                    "10%經驗值獎勵"
+                ],
+                "m_locId": 2902769
+            },
+            "m_chooseOne": 0
+        },
+        {
+            "m_ID": 2041,
+            "m_description": {
+                "m_locValues": [
+                    "Diamond A. F. Kay",
+                    "Diamantkarte A. F. Karla",
+                    "A. F. Ka de diamante",
+                    "Au Sente diamante",
+                    "Carte diamant A. F. Kah",
+                    "A. F. Kappa Diamante",
+                    "ダイヤモンド「A. F. ケイ」",
+                    "다이아몬드 A. F. 케이",
+                    "Diamentowa karta B.R.B. Ara",
+                    "Ausentina Diamante",
+                    "Алмазный облик «А. Ф. Ка»",
+                    "เอ เอฟ เคย์ขอบเพชร",
+                    "钻石挂机的阿凯",
+                    "詹莉‧伊夏鑽石卡牌"
+                ],
+                "m_locId": 2902770
+            },
+            "m_chooseOne": 0
+        },
+        {
+            "m_ID": 2042,
+            "m_description": {
+                "m_locValues": [
+                    "2x Signature Tidepool Pupil (Common)",
+                    "2x Markanter Gezeitenstrolch (gewöhnlich)",
+                    "2x Alumno de albariza distintiva (común)",
+                    "2 Aprendiz del charco insignia (común)",
+                    "Carte commune signature Élève des marées ×2",
+                    "2x Piccolo Biologo Marino Pregiata (Comune)",
+                    "シグネチャー「潮だまりの生徒」x2（コモン）",
+                    "간판 조수웅덩이 학생 2장 (일반 카드)",
+                    "2 x specjalna karta Basenowy uczniak (zwykła)",
+                    "2x Pupilo da Poçamaré Exclusivo (Comum)",
+                    "2 особые карты «Ученик из лужи» (обычная карта)",
+                    "2x นากาน้อยข้างแอ่งซิกเนเจอร์ (ระดับทั่วไป)",
+                    "2张异画潮池学徒（普通卡牌）",
+                    "2x 珍藏潮池幼生(普通)"
+                ],
+                "m_locId": 2902771
+            },
+            "m_chooseOne": 0
+        },
+        {
+            "m_ID": 2043,
+            "m_description": {
+                "m_locValues": [
+                    "Poxi Card Back",
+                    "Kartenrücken Poxi",
+                    "Dorso de carta de Poxi",
+                    "Dorso de carta de Poxi",
+                    "Dos de carte Poxi",
+                    "Dorso Poxi",
+                    "カード裏面デザイン「ポクシー」",
+                    "폭시 카드 뒷면",
+                    "Rewers Poxi",
+                    "Verso de card Poxi",
+                    "Рубашка «Чирия»",
+                    "หลังการ์ดพ็อกซี่",
+                    "波克西卡背图案",
+                    "皰克西卡背"
+                ],
+                "m_locId": 2902772
+            },
+            "m_chooseOne": 0
+        },
+        {
+            "m_ID": 2044,
+            "m_description": {
+                "m_locValues": [
+                    "Hearthstone Hero Skin - Surfer Rastakhan",
+                    "Hearthstone: Heldenskin – Surfer Rastakhan",
+                    "Aspecto de héroe de Hearthstone - Rastakhan surfero",
+                    "Diseño de héroe de Hearthstone: Rastakhan surfista",
+                    "Modèle héroïque de Hearthstone : Rastakhan le surfeur",
+                    "Modello eroe di Hearthstone - Rastakhan Surfista",
+                    "王道用ヒーロースキン - サーファーのラスタカン",
+                    "하스스톤 영웅 스킨 - 서퍼 라스타칸",
+                    "Skórka bohatera – Surfer Rastakan",
+                    "Visual de Herói de Hearthstone – Rastakhan Surfista",
+                    "Облик героя Hearthstone «Серфер Растахан»",
+                    "สกินฮีโร่ Hearthstone - ราสตาคานโต้คลื่น",
+                    "传统对战英雄皮肤 - 冲浪者拉斯塔哈",
+                    "爐石戰記英雄造型：衝浪拉斯塔哈"
+                ],
+                "m_locId": 2902773
+            },
+            "m_chooseOne": 0
+        },
+        {
+            "m_ID": 2045,
+            "m_description": {
+                "m_locValues": [
+                    "Golden Seaside Giant (Uncraftable Epic)",
+                    "Goldene epische Karte Strandriese (nicht herstellbar)",
+                    "Gigante del litoral dorada (épica, no se puede crear)",
+                    "Gigante de la orilla dorada (épica no creable)",
+                    "Carte épique dorée Géant des côtes (impossible à créer)",
+                    "Gigante della Costa Dorata (Epica vincolata)",
+                    "ゴールデン「海辺の巨人」（作成不能エピック）",
+                    "황금 해변의 거인 (제작 불가 특급 카드)",
+                    "Złota karta Nadmorski olbrzym (epicka niewytwarzalna)",
+                    "Gigante da Praia Dourado (Incriável Épico)",
+                    "Золотая карта «Приморский гигант» (нельзя создать, эпическая карта)",
+                    "ยักษ์ริมเลสีทอง (ระดับสุดยอด สร้างไม่ได้)",
+                    "金色海滨巨人（无法制作的史诗卡牌）",
+                    "海濱巨人金卡(無法合成 - 史詩)"
+                ],
+                "m_locId": 2902774
+            },
+            "m_chooseOne": 0
+        },
+        {
+            "m_ID": 2046,
+            "m_description": {
+                "m_locValues": [
+                    "Hearthstone Hero Skin - Catnap Xuen",
+                    "Hearthstone: Heldenskin – Catnap Xuen",
+                    "Aspecto de héroe de Hearthstone - Xuen de siesta",
+                    "Diseño de héroe de Hearthstone: Xuen de siesta",
+                    "Modèle héroïque de Hearthstone : Xuen, couché au soleil",
+                    "Modello eroe di Hearthstone - Xuen Rilassato",
+                    "王道用ヒーロースキン - ネコろびシューエン",
+                    "하스스톤 영웅 스킨 - 낮잠 쉬엔",
+                    "Skórka bohatera – Rozleniwiony Xuen",
+                    "Visual de Herói de Hearthstone – Xuen Soneca Felina",
+                    "Облик героя Hearthstone «Дремлющий Сюэнь»",
+                    "สกินฮีโร่ Hearthstone - ชูเอนนอนสบาย",
+                    "传统对战英雄皮肤 - 眯眯小猫雪怒",
+                    "爐石戰記英雄造型：打盹雪怒"
+                ],
+                "m_locId": 2902775
+            },
+            "m_chooseOne": 0
+        },
+        {
+            "m_ID": 2047,
+            "m_description": {
+                "m_locValues": [
+                    "15% XP Boost",
+                    "15 % EP-Schub",
+                    "Aumento de PE del 15%",
+                    "Potenciador de EXP de 15%",
+                    "15 % de points d’EXP supplémentaires",
+                    "Bonus 15% PE",
+                    "XPブースト15%",
+                    "15% 경험치 부스트",
+                    "Premia 15% do PD",
+                    "15% de Impulso de EXP",
+                    "+15% к опыту",
+                    "บูสต์ XP 15%",
+                    "15%经验值加成",
+                    "15%經驗值獎勵"
+                ],
+                "m_locId": 2902776
+            },
+            "m_chooseOne": 0
+        },
+        {
+            "m_ID": 2048,
+            "m_description": {
+                "m_locValues": [
+                    "Golden Seaside Giant (Uncraftable Epic)",
+                    "Goldene epische Karte Strandriese (nicht herstellbar)",
+                    "Gigante del litoral dorada (épica, no se puede crear)",
+                    "Gigante de la orilla dorada (épica no creable)",
+                    "Carte épique dorée Géant des côtes (impossible à créer)",
+                    "Gigante della Costa Dorata (Epica vincolata)",
+                    "ゴールデン「海辺の巨人」（作成不能エピック）",
+                    "황금 해변의 거인 (제작 불가 특급 카드)",
+                    "Złota karta Nadmorski olbrzym (epicka niewytwarzalna)",
+                    "Gigante da Praia Dourado (Incriável Épico)",
+                    "Золотая карта «Приморский гигант» (нельзя создать, эпическая карта)",
+                    "ยักษ์ริมเลสีทอง (ระดับสุดยอด สร้างไม่ได้)",
+                    "金色海滨巨人（无法制作的史诗卡牌）",
+                    "海濱巨人金卡(無法合成 - 史詩)"
+                ],
+                "m_locId": 2902777
+            },
+            "m_chooseOne": 0
+        },
+        {
+            "m_ID": 2049,
+            "m_description": {
+                "m_locValues": [
+                    "2x Signature Hydration Station (Rare)",
+                    "2x Markantes Hydrierrevier (selten)",
+                    "2x Estación de hidratación distintiva (poco común)",
+                    "2 Estación de hidratación insignia (rara)",
+                    "Carte rare signature Zone d’hydratation ×2",
+                    "2x Punto Ristoro Pregiata (Rara)",
+                    "シグネチャー「給水ステーション」x2（レア）",
+                    "물 공급지 2장 (희귀 카드)",
+                    "2 x specjalna karta Stacja nawadniająca (rzadka)",
+                    "2x Posto de Hidratação Exclusivo (Raro)",
+                    "2 особые карты «Водопой» (редкая карта)",
+                    "2x จุดพักดื่มน้ำซิกเนเจอร์ (ระดับหายาก)",
+                    "2张异画补水区（稀有卡牌）",
+                    "2x 珍藏補水站(精良)"
+                ],
+                "m_locId": 2902778
+            },
+            "m_chooseOne": 0
+        },
+        {
             "m_ID": 205,
             "m_description": {
                 "m_locValues": [
@@ -22524,6 +23145,351 @@
                     "傳說核心中立金卡"
                 ],
                 "m_locId": 2755801
+            },
+            "m_chooseOne": 0
+        },
+        {
+            "m_ID": 2050,
+            "m_description": {
+                "m_locValues": [
+                    "Hearthstone Hero Skin - Lifeguard Hedanis",
+                    "Hearthstone: Heldenskin – Bademeister Hedanis",
+                    "Aspecto de héroe de Hearthstone - Hedanis socorrista",
+                    "Diseño de héroe de Hearthstone: Salvavidas Hedanis",
+                    "Modèle héroïque de Hearthstone : Hedanis le sauveteur",
+                    "Modello eroe di Hearthstone - Guardaspiaggia Hedanis",
+                    "王道用ヒーロースキン - ライフガードのヘダニス",
+                    "하스스톤 영웅 스킨 - 안전요원 헤다니스",
+                    "Skórka bohatera – Ratownik Hedanis",
+                    "Visual de Herói de Hearthstone – Hedanis Salva-vidas",
+                    "Облик героя Hearthstone «Спасатель Геданис»",
+                    "สกินฮีโร่ Hearthstone - เฮดานิสไลฟ์การ์ด",
+                    "传统对战英雄皮肤 - 救生员赫达尼斯",
+                    "爐石戰記英雄造型：救生員希丹尼斯"
+                ],
+                "m_locId": 2902779
+            },
+            "m_chooseOne": 0
+        },
+        {
+            "m_ID": 2051,
+            "m_description": {
+                "m_locValues": [
+                    "Golden Marin the Manager (Uncraftable Legendary)",
+                    "Goldene legendäre Karte Marin der Manager (nicht herstellbar)",
+                    "Marin el Gerente dorada (legendaria, no se puede crear)",
+                    "Marin, el gerente dorada (legendaria no creable)",
+                    "Carte légendaire dorée Marin le responsable (impossible à créer)",
+                    "Marin il Manager Dorata (Leggendaria vincolata)",
+                    "ゴールデン「支配人のマリン」（作成不能レジェンド）",
+                    "황금 지배인 마린 (제작 불가 전설 카드)",
+                    "Złota karta Marin Zarządca (legendarna niewytwarzalna)",
+                    "Marin, o Gerente Dourado (Incriável Lendário)",
+                    "Золотая карта «Менеджер Марин» (нельзя создать, легендарная карта)",
+                    "ผู้จัดการมารินสีทอง (ระดับตำนาน สร้างไม่ได้)",
+                    "金色经理马林（无法制作的传说卡牌）",
+                    "經理馬林金卡(無法合成 - 傳說)"
+                ],
+                "m_locId": 2902780
+            },
+            "m_chooseOne": 0
+        },
+        {
+            "m_ID": 2052,
+            "m_description": {
+                "m_locValues": [
+                    "Hearthstone Hero Skin - Canoe Huln",
+                    "Hearthstone: Heldenskin – Kanu-Huln",
+                    "Aspecto de héroe de Hearthstone - Huln en canoa",
+                    "Diseño de héroe de Hearthstone: Huln en canoa",
+                    "Modèle héroïque de Hearthstone : Huln le kayakiste",
+                    "Modello eroe di Hearthstone - Canottiere Huln",
+                    "王道用ヒーロースキン - カヌー乗りハルン",
+                    "하스스톤 영웅 스킨 - 카누 훌른",
+                    "Skórka bohatera – Kajakowy Huln",
+                    "Visual de Herói de Hearthstone – Huln Canoeiro",
+                    "Облик героя Hearthstone «Халн в каноэ»",
+                    "สกินฮีโร่ Hearthstone - ฮัลน์พายเรือ",
+                    "传统对战英雄皮肤 - 划艇胡恩",
+                    "爐石戰記英雄造型：獨木舟胡恩"
+                ],
+                "m_locId": 2902781
+            },
+            "m_chooseOne": 0
+        },
+        {
+            "m_ID": 2053,
+            "m_description": {
+                "m_locValues": [
+                    "Hearthstone Hero Skin - Poxi",
+                    "Hearthstone: Heldenskin – Poxi",
+                    "Aspecto de héroe de Hearthstone - Poxi",
+                    "Diseño de heroína de Hearthstone: Poxi",
+                    "Modèle héroïque de Hearthstone : Poxi",
+                    "Modello eroe di Hearthstone - Poxi",
+                    "王道用ヒーロースキン - ポクシー",
+                    "하스스톤 영웅 스킨 - 폭시",
+                    "Skórka bohatera – Poxi",
+                    "Visual de Herói de Hearthstone – Poxi",
+                    "Облик героя Hearthstone «Чирия»",
+                    "สกินฮีโร่ Hearthstone - พ็อกซี่",
+                    "传统对战英雄皮肤 - 波克西",
+                    "爐石戰記英雄造型：皰克西"
+                ],
+                "m_locId": 2902782
+            },
+            "m_chooseOne": 0
+        },
+        {
+            "m_ID": 2054,
+            "m_description": {
+                "m_locValues": [
+                    "Golden Gorgonzormu (Uncraftable Legendary)",
+                    "Goldene legendäre Karte Gorgonzormu (nicht herstellbar)",
+                    "Gorgonzormu dorada (legendaria, no se puede crear)",
+                    "Gorgonzormu dorada (legendaria no creable)",
+                    "Carte légendaire dorée Gorgonzormu (impossible à créer)",
+                    "Gorgonzormu Dorata (Leggendaria vincolata)",
+                    "ゴールデン「ゴルゴンゾルム」（作成不能レジェンド）",
+                    "황금 고르곤조르무 (제작 불가 전설 카드)",
+                    "Złota karta Gorgonzormu (legendarna niewytwarzalna)",
+                    "Gorgonzormu Dourado (Incriável Lendário)",
+                    "Золотая карта «Горгонзорму» (нельзя создать, легендарная карта)",
+                    "กอร์กอนซอร์มูสีทอง (ระดับตำนาน สร้างไม่ได้)",
+                    "金色戈贡佐姆（无法制作的传说卡牌）",
+                    "戈貢佐姆金卡(無法合成 - 傳說)"
+                ],
+                "m_locId": 2902783
+            },
+            "m_chooseOne": 0
+        },
+        {
+            "m_ID": 2055,
+            "m_description": {
+                "m_locValues": [
+                    "Hearthstone Hero Skin - Highsea Edwin",
+                    "Hearthstone: Heldenskin – Hochsee-Edwin",
+                    "Aspecto de héroe de Hearthstone - Edwin de Alta Mar",
+                    "Diseño de héroe de Hearthstone: Edwin de altamar",
+                    "Modèle héroïque de Hearthstone : Edwin en haute mer",
+                    "Modello eroe di Hearthstone - Edwin Altomare",
+                    "王道用ヒーロースキン - 大海原のエドウィン",
+                    "하스스톤 영웅 스킨 - 망망대해 에드윈",
+                    "Skórka bohatera – Morski Rozbójnik Edwin",
+                    "Visual de Herói de Hearthstone – Edwin do Alto-Mar",
+                    "Облик героя Hearthstone «Пират Эдвин»",
+                    "สกินฮีโร่ Hearthstone - เอ็ดวินล่องสมุทร",
+                    "传统对战英雄皮肤 - 公海狂徒艾德温",
+                    "爐石戰記英雄造型：汪洋艾德溫"
+                ],
+                "m_locId": 2902784
+            },
+            "m_chooseOne": 0
+        },
+        {
+            "m_ID": 2056,
+            "m_description": {
+                "m_locValues": [
+                    "Hearthstone Hero Skin - Hot Spring Deathwing",
+                    "Hearthstone: Heldenskin – Thermalquellen-Todesschwinge",
+                    "Aspecto de héroe de Hearthstone - Alamuerte del Manantial Caliente",
+                    "Diseño de héroe de Hearthstone: Alamuerte de aguas termales",
+                    "Modèle héroïque de Hearthstone : Aile de mort magmatique",
+                    "Modello eroe di Hearthstone - Alamorte delle Terme",
+                    "王道用ヒーロースキン - 温泉デスウィング",
+                    "하스스톤 영웅 스킨 - 온천 데스윙",
+                    "Skórka bohatera – Spieczony Śmiercioskrzydły",
+                    "Visual de Herói de Hearthstone – Asa da Morte das Termas",
+                    "Облик героя Hearthstone «Купающийся Смертокрыл»",
+                    "สกินฮีโร่ Hearthstone - เดธวิงบ่อร้อน",
+                    "传统对战英雄皮肤 - 温泉死亡之翼",
+                    "爐石戰記英雄造型：溫泉死亡之翼"
+                ],
+                "m_locId": 2902785
+            },
+            "m_chooseOne": 0
+        },
+        {
+            "m_ID": 2057,
+            "m_description": {
+                "m_locValues": [
+                    "20% XP Boost",
+                    "20 % EP-Schub",
+                    "Aumento de PE del 20%",
+                    "Potenciador de EXP de 20%",
+                    "20 % de points d’EXP supplémentaires",
+                    "Bonus 20% PE",
+                    "XPブースト20%",
+                    "20% 경험치 부스트",
+                    "Premia 20% do PD",
+                    "20% de Impulso de EXP",
+                    "+20% к опыту",
+                    "บูสต์ XP 20%",
+                    "20%经验值加成",
+                    "20%經驗值獎勵"
+                ],
+                "m_locId": 2902786
+            },
+            "m_chooseOne": 0
+        },
+        {
+            "m_ID": 2058,
+            "m_description": {
+                "m_locValues": [
+                    "2x Signature Mixologist (Epic)",
+                    "2x Markanter Mixologe (episch)",
+                    "2x Mixólogo distintiva (épica)",
+                    "2 Mixólogo insignia (épica)",
+                    "Carte épique signature Mixologue ×2",
+                    "2x Mixologo Pregiata (Epica)",
+                    "シグネチャー「ミクソロジスト」x2（エピック）",
+                    "간판 조주사 2장 (특급 카드)",
+                    "2 x specjalna karta Miksolożka (epicka)",
+                    "2x Mixólogo Exclusivo (Épico)",
+                    "2 особые карты «Миксолог» (эпическая карта)",
+                    "2x นักผสมเครื่องดื่มซิกเนเจอร์ (ระดับสุดยอด)",
+                    "2张异画混调师（史诗卡牌）",
+                    "2x 珍藏藥劑混合師(史詩)"
+                ],
+                "m_locId": 2902787
+            },
+            "m_chooseOne": 0
+        },
+        {
+            "m_ID": 2059,
+            "m_description": {
+                "m_locValues": [
+                    "Golden Standard Pack",
+                    "Goldene Standardpackung",
+                    "Sobre estándar dorado",
+                    "Paquete estándar dorado",
+                    "Paquet standard doré",
+                    "Busta Standard Dorata",
+                    "ゴールデンスタンダードパック",
+                    "황금 정규 팩",
+                    "Złoty pakiet standardowy",
+                    "Pacote Padrão Dourado",
+                    "Золотой стандартный комплект",
+                    "ซองการ์ดมาตรฐานสีทอง",
+                    "金色标准卡牌包",
+                    "黃金標準規則卡牌包"
+                ],
+                "m_locId": 2902788
+            },
+            "m_chooseOne": 0
+        },
+        {
+            "m_ID": 2060,
+            "m_description": {
+                "m_locValues": [
+                    "Hearthstone Hero Skin - Castle Nozdormu",
+                    "Hearthstone: Heldenskin – Sandburg-Nozdormu",
+                    "Aspecto de héroe de Hearthstone - Nozdormu en el castillo",
+                    "Diseño de héroe de Hearthstone: Nozdormu de castillo",
+                    "Modèle héroïque : Nozdormu, sculpteur de sable",
+                    "Modello eroe di Hearthstone - Nozdormu del Castello",
+                    "王道用ヒーロースキン - 砂のお城のノズドルム",
+                    "하스스톤 영웅 스킨 - 모래성 노즈도르무",
+                    "Skórka bohatera – Piaskowy Nozdormu",
+                    "Visual de Herói de Hearthstone – Nozdormu Castelão",
+                    "Облик героя Hearthstone «Ноздорму в замке»",
+                    "สกินฮีโร่ Hearthstone - นอซดอร์มูปราสาททราย",
+                    "传统对战英雄皮肤 - 沙滩城堡诺兹多姆",
+                    "爐石戰記英雄造型：沙堡諾茲多姆"
+                ],
+                "m_locId": 2902789
+            },
+            "m_chooseOne": 0
+        },
+        {
+            "m_ID": 2061,
+            "m_description": {
+                "m_locValues": [
+                    "Golden Standard Pack",
+                    "Goldene Standardpackung",
+                    "Sobre estándar dorado",
+                    "Paquete estándar dorado",
+                    "Paquet standard doré",
+                    "Busta Standard Dorata",
+                    "ゴールデンスタンダードパック",
+                    "황금 정규 팩",
+                    "Złoty pakiet standardowy",
+                    "Pacote Padrão Dourado",
+                    "Золотой стандартный комплект",
+                    "ซองการ์ดมาตรฐานสีทอง",
+                    "金色标准卡牌包",
+                    "黃金標準規則卡牌包"
+                ],
+                "m_locId": 2902790
+            },
+            "m_chooseOne": 0
+        },
+        {
+            "m_ID": 2062,
+            "m_description": {
+                "m_locValues": [
+                    "Hearthstone Hero Skins - Mermaid Kit, Pier Halveria, N'Zoth, Last Resort",
+                    "Hearthstone: Heldenskin – Meerjungfrau-Kit, Pier-Halveria, N'Zoth, Letzte Zuflucht",
+                    "Aspectos de héroe de Hearthstone - Kit Sirena, Halveria del embarcadero, N'Zoth Último Recurso",
+                    "Diseños de héroe de Hearthstone: Sirena Kit, Halveria de muelle y N'Zoth, Último recurso",
+                    "Modèles héroïques de Hearthstone : Petite sirène, Halveria à toute vitesse et N’Zoth tempête tropicale",
+                    "Modello eroe di Hearthstone - Kit Sirena, Halveria Ottovolante, N'zoth, Ultima Spiaggia",
+                    "王道用ヒーロースキン - マーメイド・キット、波止場のハルヴェリア、失楽園＝ゾス",
+                    "하스스톤 영웅 스킨 - 인어 키트, 놀이공원 할베리아, 최후의 리조트 느조스",
+                    "Skórki bohaterów – Syrena Kit, Rozpędzona Halveria, N'Zoth, Ostateczna Destynacja",
+                    "Visual de Herói de Hearthstone – Kit Sereia, Halveria do Píer, N'Zoth, o Descanso Final",
+                    "Облики героя Hearthstone «Русалка Кит», «Причальная Гальверия» и «Н'Зот Последний Отдых»",
+                    "สกินฮีโร่ Hearthstone - คิทนางเงือก, ฮัลเวเรียสุดเหวี่ยง, นาซอธ จุดจบการพักร้อน",
+                    "传统对战英雄皮肤 - 美人鱼基特，码头飞车哈维利亚，胜地古神恩佐斯",
+                    "爐石戰記英雄造型：人魚基德、長堤樂園哈維莉亞、最後手段恩若司"
+                ],
+                "m_locId": 2902791
+            },
+            "m_chooseOne": 0
+        },
+        {
+            "m_ID": 2063,
+            "m_description": {
+                "m_locValues": [
+                    "Sand Coin",
+                    "Sandmünze",
+                    "Moneda de arena",
+                    "Moneda de arena",
+                    "Pièce des sables",
+                    "Moneta della Sabbia",
+                    "人魚のコイン",
+                    "모래 동전",
+                    "Plażowa moneta",
+                    "Moeda de Areia",
+                    "Песчаная монетка",
+                    "เหรียญทราย",
+                    "沙钱幸运币",
+                    "沙幣"
+                ],
+                "m_locId": 2902792
+            },
+            "m_chooseOne": 0
+        },
+        {
+            "m_ID": 2064,
+            "m_description": {
+                "m_locValues": [
+                    "Perils in Paradise Card Pack",
+                    "Kartenpackung Gefahr im Paradies",
+                    "Sobre de Peligro en el Paraíso",
+                    "Paquete de cartas de Peligros en el Paraíso",
+                    "Paquet de cartes de Paradis en péril",
+                    "Busta di carte di Periglio in Paradiso",
+                    "「大ピンチ！パイレーツ・パラダイス」カードパック",
+                    "극한의 극락 카드 팩",
+                    "Pakiet z Tarapatów w tropikach",
+                    "Pacote de cards Perigos no Paraíso",
+                    "Комплект «Раздор в тропиках»",
+                    "ซองการ์ด Perils in Paradise",
+                    "胜地历险记卡牌包",
+                    "天堂島危機卡牌包"
+                ],
+                "m_locId": 2902844
             },
             "m_chooseOne": 0
         },
@@ -22708,6 +23674,29 @@
                     "15%經驗值獎勵"
                 ],
                 "m_locId": 2755828
+            },
+            "m_chooseOne": 0
+        },
+        {
+            "m_ID": 2162,
+            "m_description": {
+                "m_locValues": [
+                    "Hearthstone Hero Skin - Icecream Sai",
+                    "Hearthstone: Heldenskin – Eiscreme-Sai",
+                    "Aspecto de héroe de Hearthstone - Sai helado",
+                    "Diseño de héroe de Hearthstone: Sai helado",
+                    "Modèle héroïque de Hearthstone : Sai, amateur de glace",
+                    "Modello eroe di Hearthstone - Sai Amante del Gelato",
+                    "王道用ヒーロースキン - アイスクリーム・サイ",
+                    "하스스톤 영웅 스킨 - 아이스크림 사이",
+                    "Skórka bohatera – Sai Lodomiot",
+                    "Visual de Herói de Hearthstone – Sai Sorvete",
+                    "Облик героя Hearthstone «Мороженщик Сай»",
+                    "สกินฮีโร่ Hearthstone - ไซไอศกรีม",
+                    "传统对战英雄皮肤 - 冰淇淋萨伊",
+                    "爐石戰記英雄造型：冰淇淋薩伊"
+                ],
+                "m_locId": 2904115
             },
             "m_chooseOne": 0
         },
