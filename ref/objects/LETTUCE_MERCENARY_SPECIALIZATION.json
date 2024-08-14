@@ -5255,6 +5255,75 @@
             }
         },
         {
+            "m_ID": 471,
+            "m_lettuceMercenaryId": 414,
+            "m_name": {
+                "m_locValues": [
+                    "Attack",
+                    "Angriff",
+                    "Ataque",
+                    "Ataque",
+                    "Attaque",
+                    "Attacco",
+                    "攻撃",
+                    "공격",
+                    "Atak",
+                    "Ataque",
+                    "Атака",
+                    "โจมตี",
+                    "攻击",
+                    "攻擊"
+                ],
+                "m_locId": 2848301
+            }
+        },
+        {
+            "m_ID": 472,
+            "m_lettuceMercenaryId": 416,
+            "m_name": {
+                "m_locValues": [
+                    "Orc",
+                    "Orc",
+                    "Orco",
+                    "Orco",
+                    "Orc",
+                    "Orco",
+                    "オーク",
+                    "오크",
+                    "Ork",
+                    "Orc",
+                    "Орк",
+                    "ออร์ค",
+                    "兽人",
+                    "獸人"
+                ],
+                "m_locId": 2849612
+            }
+        },
+        {
+            "m_ID": 473,
+            "m_lettuceMercenaryId": 418,
+            "m_name": {
+                "m_locValues": [
+                    "Orc",
+                    "Orc",
+                    "Orco",
+                    "Orco",
+                    "Orc",
+                    "Orco",
+                    "オーク",
+                    "오크",
+                    "Ork",
+                    "Orc",
+                    "Орк",
+                    "ออร์ค",
+                    "兽人",
+                    "獸人"
+                ],
+                "m_locId": 2850857
+            }
+        },
+        {
             "m_ID": 464,
             "m_lettuceMercenaryId": 406,
             "m_name": {
@@ -5439,98 +5508,6 @@
             }
         },
         {
-            "m_ID": 471,
-            "m_lettuceMercenaryId": 414,
-            "m_name": {
-                "m_locValues": [
-                    "Attack",
-                    "Angriff",
-                    "Ataque",
-                    "Ataque",
-                    "Attaque",
-                    "Attacco",
-                    "攻撃",
-                    "공격",
-                    "Atak",
-                    "Ataque",
-                    "Атака",
-                    "โจมตี",
-                    "攻击",
-                    "攻擊"
-                ],
-                "m_locId": 2848301
-            }
-        },
-        {
-            "m_ID": 472,
-            "m_lettuceMercenaryId": 416,
-            "m_name": {
-                "m_locValues": [
-                    "Orc",
-                    "Orc",
-                    "Orco",
-                    "Orco",
-                    "Orc",
-                    "Orco",
-                    "オーク",
-                    "오크",
-                    "Ork",
-                    "Orc",
-                    "Орк",
-                    "ออร์ค",
-                    "兽人",
-                    "獸人"
-                ],
-                "m_locId": 2849612
-            }
-        },
-        {
-            "m_ID": 473,
-            "m_lettuceMercenaryId": 418,
-            "m_name": {
-                "m_locValues": [
-                    "Orc",
-                    "Orc",
-                    "Orco",
-                    "Orco",
-                    "Orc",
-                    "Orco",
-                    "オーク",
-                    "오크",
-                    "Ork",
-                    "Orc",
-                    "Орк",
-                    "ออร์ค",
-                    "兽人",
-                    "獸人"
-                ],
-                "m_locId": 2850857
-            }
-        },
-        {
-            "m_ID": 77,
-            "m_lettuceMercenaryId": 42,
-            "m_name": {
-                "m_locValues": [
-                    "Beast",
-                    "Wildtier",
-                    "Bestia",
-                    "Bestia",
-                    "Bête",
-                    "Bestia",
-                    "獣",
-                    "야수",
-                    "Bestia",
-                    "Fera",
-                    "Зверь",
-                    "สัตว์",
-                    "野兽",
-                    "野獸"
-                ],
-                "m_locId": 2753695
-            }
-        },
-        {
             "m_ID": 475,
             "m_lettuceMercenaryId": 420,
             "m_name": {
@@ -5623,6 +5600,29 @@
             }
         },
         {
+            "m_ID": 77,
+            "m_lettuceMercenaryId": 42,
+            "m_name": {
+                "m_locValues": [
+                    "Beast",
+                    "Wildtier",
+                    "Bestia",
+                    "Bestia",
+                    "Bête",
+                    "Bestia",
+                    "獣",
+                    "야수",
+                    "Bestia",
+                    "Fera",
+                    "Зверь",
+                    "สัตว์",
+                    "野兽",
+                    "野獸"
+                ],
+                "m_locId": 2753695
+            }
+        },
+        {
             "m_ID": 488,
             "m_lettuceMercenaryId": 433,
             "m_name": {
@@ -5646,6 +5646,29 @@
             }
         },
         {
+            "m_ID": 97,
+            "m_lettuceMercenaryId": 56,
+            "m_name": {
+                "m_locValues": [
+                    "Murloc",
+                    "Murloc",
+                    "Múrloc",
+                    "Múrloc",
+                    "Murloc",
+                    "Murloc",
+                    "マーロック",
+                    "멀록",
+                    "Murlok",
+                    "Murloc",
+                    "Мурлок",
+                    "เมอร์ล็อค",
+                    "鱼人",
+                    "魚人"
+                ],
+                "m_locId": 2753565
+            }
+        },
+        {
             "m_ID": 82,
             "m_lettuceMercenaryId": 44,
             "m_name": {
@@ -5666,6 +5689,52 @@
                     "未分類"
                 ],
                 "m_locId": 2744773
+            }
+        },
+        {
+            "m_ID": 99,
+            "m_lettuceMercenaryId": 57,
+            "m_name": {
+                "m_locValues": [
+                    "Dragon",
+                    "Drache",
+                    "Dragón",
+                    "Dragón",
+                    "Dragon",
+                    "Drago",
+                    "ドラゴン",
+                    "용족",
+                    "Smok",
+                    "Dragão",
+                    "Дракон",
+                    "มังกร",
+                    "龙",
+                    "龍類"
+                ],
+                "m_locId": 2753616
+            }
+        },
+        {
+            "m_ID": 11,
+            "m_lettuceMercenaryId": 6,
+            "m_name": {
+                "m_locValues": [
+                    "Orc",
+                    "Orc",
+                    "Orco",
+                    "Orco",
+                    "Orc",
+                    "Orco",
+                    "オーク",
+                    "오크",
+                    "Ork",
+                    "Orc",
+                    "Орк",
+                    "ออร์ค",
+                    "兽人",
+                    "獸人"
+                ],
+                "m_locId": 2745521
             }
         },
         {
@@ -5853,98 +5922,6 @@
             }
         },
         {
-            "m_ID": 95,
-            "m_lettuceMercenaryId": 55,
-            "m_name": {
-                "m_locValues": [
-                    "Demon",
-                    "Dämon",
-                    "Demonio",
-                    "Demonio",
-                    "Démon",
-                    "Demone",
-                    "悪魔",
-                    "악마",
-                    "Demon",
-                    "Demônio",
-                    "Демон",
-                    "ปีศาจ",
-                    "恶魔",
-                    "惡魔"
-                ],
-                "m_locId": 2753553
-            }
-        },
-        {
-            "m_ID": 97,
-            "m_lettuceMercenaryId": 56,
-            "m_name": {
-                "m_locValues": [
-                    "Murloc",
-                    "Murloc",
-                    "Múrloc",
-                    "Múrloc",
-                    "Murloc",
-                    "Murloc",
-                    "マーロック",
-                    "멀록",
-                    "Murlok",
-                    "Murloc",
-                    "Мурлок",
-                    "เมอร์ล็อค",
-                    "鱼人",
-                    "魚人"
-                ],
-                "m_locId": 2753565
-            }
-        },
-        {
-            "m_ID": 99,
-            "m_lettuceMercenaryId": 57,
-            "m_name": {
-                "m_locValues": [
-                    "Dragon",
-                    "Drache",
-                    "Dragón",
-                    "Dragón",
-                    "Dragon",
-                    "Drago",
-                    "ドラゴン",
-                    "용족",
-                    "Smok",
-                    "Dragão",
-                    "Дракон",
-                    "มังกร",
-                    "龙",
-                    "龍類"
-                ],
-                "m_locId": 2753616
-            }
-        },
-        {
-            "m_ID": 11,
-            "m_lettuceMercenaryId": 6,
-            "m_name": {
-                "m_locValues": [
-                    "Orc",
-                    "Orc",
-                    "Orco",
-                    "Orco",
-                    "Orc",
-                    "Orco",
-                    "オーク",
-                    "오크",
-                    "Ork",
-                    "Orc",
-                    "Орк",
-                    "ออร์ค",
-                    "兽人",
-                    "獸人"
-                ],
-                "m_locId": 2745521
-            }
-        },
-        {
             "m_ID": 105,
             "m_lettuceMercenaryId": 60,
             "m_name": {
@@ -5965,6 +5942,29 @@
                     "魔化"
                 ],
                 "m_locId": 2753904
+            }
+        },
+        {
+            "m_ID": 95,
+            "m_lettuceMercenaryId": 55,
+            "m_name": {
+                "m_locValues": [
+                    "Demon",
+                    "Dämon",
+                    "Demonio",
+                    "Demonio",
+                    "Démon",
+                    "Demone",
+                    "悪魔",
+                    "악마",
+                    "Demon",
+                    "Demônio",
+                    "Демон",
+                    "ปีศาจ",
+                    "恶魔",
+                    "惡魔"
+                ],
+                "m_locId": 2753553
             }
         },
         {
@@ -5991,75 +5991,6 @@
             }
         },
         {
-            "m_ID": 120,
-            "m_lettuceMercenaryId": 63,
-            "m_name": {
-                "m_locValues": [
-                    "Beast",
-                    "Wildtier",
-                    "Bestia",
-                    "Bestia",
-                    "Bête",
-                    "Bestia",
-                    "獣",
-                    "야수",
-                    "Bestia",
-                    "Fera",
-                    "Зверь",
-                    "สัตว์",
-                    "野兽",
-                    "野獸"
-                ],
-                "m_locId": 2755093
-            }
-        },
-        {
-            "m_ID": 121,
-            "m_lettuceMercenaryId": 64,
-            "m_name": {
-                "m_locValues": [
-                    "Arcane",
-                    "Arkan",
-                    "Arcano",
-                    "Arcano",
-                    "Arcanes",
-                    "Arcano",
-                    "魔力",
-                    "비전",
-                    "Moc tajemna",
-                    "Arcano",
-                    "Тайная магия",
-                    "มนตรา",
-                    "奥术",
-                    "秘法"
-                ],
-                "m_locId": 2755098
-            }
-        },
-        {
-            "m_ID": 128,
-            "m_lettuceMercenaryId": 69,
-            "m_name": {
-                "m_locValues": [
-                    "Arcane",
-                    "Arkan",
-                    "Arcano",
-                    "Arcano",
-                    "Arcanes",
-                    "Arcano",
-                    "魔力",
-                    "비전",
-                    "Moc tajemna",
-                    "Arcano",
-                    "Тайная магия",
-                    "มนตรา",
-                    "奥术",
-                    "秘法"
-                ],
-                "m_locId": 2755086
-            }
-        },
-        {
             "m_ID": 13,
             "m_lettuceMercenaryId": 7,
             "m_name": {
@@ -6080,6 +6011,29 @@
                     "連擊"
                 ],
                 "m_locId": 2755101
+            }
+        },
+        {
+            "m_ID": 120,
+            "m_lettuceMercenaryId": 63,
+            "m_name": {
+                "m_locValues": [
+                    "Beast",
+                    "Wildtier",
+                    "Bestia",
+                    "Bestia",
+                    "Bête",
+                    "Bestia",
+                    "獣",
+                    "야수",
+                    "Bestia",
+                    "Fera",
+                    "Зверь",
+                    "สัตว์",
+                    "野兽",
+                    "野獸"
+                ],
+                "m_locId": 2755093
             }
         },
         {
@@ -6106,6 +6060,29 @@
             }
         },
         {
+            "m_ID": 121,
+            "m_lettuceMercenaryId": 64,
+            "m_name": {
+                "m_locValues": [
+                    "Arcane",
+                    "Arkan",
+                    "Arcano",
+                    "Arcano",
+                    "Arcanes",
+                    "Arcano",
+                    "魔力",
+                    "비전",
+                    "Moc tajemna",
+                    "Arcano",
+                    "Тайная магия",
+                    "มนตรา",
+                    "奥术",
+                    "秘法"
+                ],
+                "m_locId": 2755098
+            }
+        },
+        {
             "m_ID": 15,
             "m_lettuceMercenaryId": 8,
             "m_name": {
@@ -6126,6 +6103,29 @@
                     "暗影"
                 ],
                 "m_locId": 2745545
+            }
+        },
+        {
+            "m_ID": 128,
+            "m_lettuceMercenaryId": 69,
+            "m_name": {
+                "m_locValues": [
+                    "Arcane",
+                    "Arkan",
+                    "Arcano",
+                    "Arcano",
+                    "Arcanes",
+                    "Arcano",
+                    "魔力",
+                    "비전",
+                    "Moc tajemna",
+                    "Arcano",
+                    "Тайная магия",
+                    "มนตรา",
+                    "奥术",
+                    "秘法"
+                ],
+                "m_locId": 2755086
             }
         },
         {
@@ -6175,52 +6175,6 @@
             }
         },
         {
-            "m_ID": 151,
-            "m_lettuceMercenaryId": 94,
-            "m_name": {
-                "m_locValues": [
-                    "Human",
-                    "Mensch",
-                    "Humano",
-                    "Humano",
-                    "Humain",
-                    "Umano",
-                    "ヒューマン",
-                    "인간",
-                    "Człowiek",
-                    "Humano",
-                    "Человек",
-                    "มนุษย์",
-                    "人类",
-                    "人類"
-                ],
-                "m_locId": 2759584
-            }
-        },
-        {
-            "m_ID": 152,
-            "m_lettuceMercenaryId": 95,
-            "m_name": {
-                "m_locValues": [
-                    "Human",
-                    "Mensch",
-                    "Humano",
-                    "Humano",
-                    "Humain",
-                    "Umano",
-                    "ヒューマン",
-                    "인간",
-                    "Człowiek",
-                    "Humano",
-                    "Человек",
-                    "มนุษย์",
-                    "人类",
-                    "人類"
-                ],
-                "m_locId": 2759585
-            }
-        },
-        {
             "m_ID": 154,
             "m_lettuceMercenaryId": 97,
             "m_name": {
@@ -6244,6 +6198,29 @@
             }
         },
         {
+            "m_ID": 151,
+            "m_lettuceMercenaryId": 94,
+            "m_name": {
+                "m_locValues": [
+                    "Human",
+                    "Mensch",
+                    "Humano",
+                    "Humano",
+                    "Humain",
+                    "Umano",
+                    "ヒューマン",
+                    "인간",
+                    "Człowiek",
+                    "Humano",
+                    "Человек",
+                    "มนุษย์",
+                    "人类",
+                    "人類"
+                ],
+                "m_locId": 2759584
+            }
+        },
+        {
             "m_ID": 155,
             "m_lettuceMercenaryId": 98,
             "m_name": {
@@ -6264,6 +6241,29 @@
                     "火焰"
                 ],
                 "m_locId": 2761059
+            }
+        },
+        {
+            "m_ID": 152,
+            "m_lettuceMercenaryId": 95,
+            "m_name": {
+                "m_locValues": [
+                    "Human",
+                    "Mensch",
+                    "Humano",
+                    "Humano",
+                    "Humain",
+                    "Umano",
+                    "ヒューマン",
+                    "인간",
+                    "Człowiek",
+                    "Humano",
+                    "Человек",
+                    "มนุษย์",
+                    "人类",
+                    "人類"
+                ],
+                "m_locId": 2759585
             }
         },
         {

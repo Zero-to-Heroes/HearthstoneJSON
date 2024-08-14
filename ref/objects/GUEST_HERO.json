@@ -4165,254 +4165,6 @@
             "m_unlockEvent": 164
         },
         {
-            "m_ID": 29,
-            "m_cardId": 54548,
-            "m_name": {
-                "m_locValues": [
-                    "Rogue",
-                    "Schurke",
-                    "Pícara",
-                    "Pícaro",
-                    "Voleur",
-                    "Ladro",
-                    "ローグ",
-                    "도적",
-                    "Łotr",
-                    "Ladino",
-                    "Разбойник",
-                    "โร้ก",
-                    "潜行者",
-                    "盜賊"
-                ],
-                "m_locId": 2707390
-            },
-            "m_shortName": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_flavorText": {
-                "m_locValues": [
-                    "This fleet-footed vulpera pirate captain has gone freelance.",
-                    "Diese ausgefuchste Freibeuterin verdingt sich mittlerweile als Söldnerin.",
-                    "Esta veloz capitana pirata vulpera ha decidido ir por libre.",
-                    "Esta ágil capitana pirata vulpera ahora trabaja de forma independiente.",
-                    "Une vulpérine capitaine pirate extrêmement vive d’esprit qui s’est mise à son compte.",
-                    "Questa rapidissima pirata Vulpera ha deciso di mettersi in proprio.",
-                    "ヴァルペラの海賊船長の人生も順風満帆にはいかず、現在フリーランスだ。",
-                    "발 빠른 이 불페라 해적 선장은 이제 용병이 되었습니다.",
-                    "Szybkonoga lisołaczka, a zarazem kapitan pirackiej załogi, przyjmuje przestępcze zlecenia!",
-                    "Esta vulpera capitã-pirata decidiu fazer uns serviços por fora.",
-                    "Быстроногая вульпера-пиратка, которая не чурается грязной работенки.",
-                    "วัลเพ-รากัปตันโจรสลัด\nแสนว่องไวหันมา\nรับงานนอกแทนแล้ว",
-                    "这位漂泊不定的狐人海盗船长现在成了自由职业者。",
-                    "這位狐狸人海盜船長離開了原本的船隊，尋找新的勾當"
-                ],
-                "m_locId": 2707391
-            },
-            "m_unlockEvent": 164
-        },
-        {
-            "m_ID": 3,
-            "m_cardId": 48486,
-            "m_name": {
-                "m_locValues": [
-                    "Tracker",
-                    "Fährtenleserin",
-                    "Rastreadora",
-                    "Rastreador",
-                    "Pisteur",
-                    "Braccatrice",
-                    "追跡者",
-                    "추적자",
-                    "Tropicielka",
-                    "Rastreadora",
-                    "Следопыт",
-                    "นักแกะรอย",
-                    "精英刺客",
-                    "追獵者"
-                ],
-                "m_locId": 2691721
-            },
-            "m_shortName": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_flavorText": {
-                "m_locValues": [
-                    "Scavenge for spells to turn a monster's power against itself.",
-                    "Bemächtigt Euch der Zauber Eures Gegners und schlagt ihn mit seinen eigenen Waffen.",
-                    "Rebusca hechizos para utilizar el poder de un monstruo en su contra.",
-                    "Busca hechizos para usar el poder de un monstruo en su contra.",
-                    "Vous trouvez des sorts vous permettant de retourner le pouvoir d’un monstre contre lui.",
-                    "Recupera Magie per usare i poteri dei mostri contro di loro.",
-                    "呪文を再利用し、怪物の力で怪物を討とう。",
-                    "주문을 발견하여 괴물의 힘을 역이용하세요.",
-                    "Wyszukuj zaklęcia, dzięki którym moce potworów zwrócą się przeciwko nim.",
-                    "Encontre feitiços para usar o poder de um monstro contra ele mesmo.",
-                    "Отыщите нужное заклинание и обратите силу монстра ему во вред.",
-                    "เก็บกู้เวทมนตร์แล้วใช้พลังของ\nมอนสเตอร์ย้อนทำลายตัวมันเอง",
-                    "利用各种精妙的法术让怪物应接不暇。",
-                    "尋覓各種資源，運用法術化解怪物的攻勢"
-                ],
-                "m_locId": 2691722
-            },
-            "m_unlockEvent": 164
-        },
-        {
-            "m_ID": 30,
-            "m_cardId": 54549,
-            "m_name": {
-                "m_locValues": [
-                    "Paladin",
-                    "Paladin",
-                    "Paladín",
-                    "Paladín",
-                    "Paladin",
-                    "Paladino",
-                    "パラディン",
-                    "성기사",
-                    "Paladyn",
-                    "Paladino",
-                    "Паладин",
-                    "พาลาดิน",
-                    "圣骑士",
-                    "聖騎士"
-                ],
-                "m_locId": 2707392
-            },
-            "m_shortName": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_flavorText": {
-                "m_locValues": [
-                    "A vengeful paladin who’s breaking vows and faces alike.",
-                    "Ein rachsüchtiger Paladin, der Schwüre und Knochen gleichermaßen bricht.",
-                    "Un paladín vengativo que rompe juramentos y caras a la par.",
-                    "Un paladín vengativo que rompe juramentos y cabezas por igual.",
-                    "Un paladin vengeur qui a brisé ses vœux… et quelques crânes par la même occasion.",
-                    "Un Paladino in cerca di vendetta, che infrange giuramenti... e molto altro.",
-                    "復讐に燃えるパラディンは、破戒と破壊に手を染めた。",
-                    "자신이 한 맹세와 사람들의 얼굴을 모두 깨부수고 다니는 성기사입니다.",
-                    "Pałający żądzą zemsty paladyn, który łamie przysięgi i szczęki.",
-                    "Paladino vingativo que está quebrando votos de lealdade e a cara de muita gente.",
-                    "Мстительный паладин, который любит нарушать данные обеты и бить в лицо.",
-                    "พาลาดินอาฆาตแค้น\nที่พร้อมจะทำลาย\nคำสาบานและใบหน้า",
-                    "复仇心切的圣骑士不仅要打破誓言，还要打爆你的脸。",
-                    "復仇心切的聖騎士，打破了自己的誓言、也打破了許多人的頭"
-                ],
-                "m_locId": 2707393
-            },
-            "m_unlockEvent": 164
-        },
-        {
-            "m_ID": 309,
-            "m_cardId": 76333,
-            "m_name": {
-                "m_locValues": [
-                    "Tamsin",
-                    "Tamsin",
-                    "Tamsin",
-                    "Tamsin",
-                    "Tamsin",
-                    "Tamsin",
-                    "タムシン",
-                    "탬신",
-                    "Tamsin",
-                    "Tamsin",
-                    "Тамсин",
-                    "แทมซิน",
-                    "塔姆辛",
-                    "塔姆辛"
-                ],
-                "m_locId": 2806774
-            },
-            "m_shortName": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_flavorText": {
-                "m_locValues": [
-                    "Chapter Five\nA clever warlock returns home with a sinister agenda.",
-                    "Kapitel 5\nEine raffinierte Hexenmeisterin kehrt mit finsteren Plänen nach Hause zurück.",
-                    "Capítulo cinco\nUna astuta bruja vuelve a casa con un plan perverso.",
-                    "Capítulo cinco\nUna bruja astuta regresa a su hogar con planes macabros.",
-                    "Chapitre V\nUne brillante démoniste, pétrie de sinistres intentions, rentre chez elle.",
-                    "Capitolo Cinque\nUna Strega perspicace torna a casa con un piano sinistro.",
-                    "第V章\n狡猾なるウォーロックは邪悪な目的を胸に故郷へ戻る。",
-                    "제5장\n총명한 흑마법사가 사악한 계획을 품고 고향으로 돌아왔습니다.",
-                    "Rozdział V\nSprytna czarnoksiężniczka powraca z mrocznymi zamiarami.",
-                    "Capítulo Cinco\nUma bruxa sagaz volta para casa com um plano sinistro.",
-                    "Глава пятая\nОдаренная чернокнижница возвращается домой с дурными намерениями.",
-                    "บทที่ห้า\nวอร์ล็อคผู้ปราดเปรื่องหวนคืน\nสู่บ้านพร้อมเจตนาร้าย",
-                    "第五章\n聪明的术士，带着邪恶的计划返乡。",
-                    "第五章\n狡詐的術士回到故鄉，預備實現她惡毒的計畫"
-                ],
-                "m_locId": 2806775
-            },
-            "m_unlockEvent": 203
-        },
-        {
             "m_ID": 31,
             "m_cardId": 54550,
             "m_name": {
@@ -4471,6 +4223,68 @@
                     "到底是哪個天才把高殺傷力的狙擊槍交給豺狼人？"
                 ],
                 "m_locId": 2707395
+            },
+            "m_unlockEvent": 164
+        },
+        {
+            "m_ID": 29,
+            "m_cardId": 54548,
+            "m_name": {
+                "m_locValues": [
+                    "Rogue",
+                    "Schurke",
+                    "Pícara",
+                    "Pícaro",
+                    "Voleur",
+                    "Ladro",
+                    "ローグ",
+                    "도적",
+                    "Łotr",
+                    "Ladino",
+                    "Разбойник",
+                    "โร้ก",
+                    "潜行者",
+                    "盜賊"
+                ],
+                "m_locId": 2707390
+            },
+            "m_shortName": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_flavorText": {
+                "m_locValues": [
+                    "This fleet-footed vulpera pirate captain has gone freelance.",
+                    "Diese ausgefuchste Freibeuterin verdingt sich mittlerweile als Söldnerin.",
+                    "Esta veloz capitana pirata vulpera ha decidido ir por libre.",
+                    "Esta ágil capitana pirata vulpera ahora trabaja de forma independiente.",
+                    "Une vulpérine capitaine pirate extrêmement vive d’esprit qui s’est mise à son compte.",
+                    "Questa rapidissima pirata Vulpera ha deciso di mettersi in proprio.",
+                    "ヴァルペラの海賊船長の人生も順風満帆にはいかず、現在フリーランスだ。",
+                    "발 빠른 이 불페라 해적 선장은 이제 용병이 되었습니다.",
+                    "Szybkonoga lisołaczka, a zarazem kapitan pirackiej załogi, przyjmuje przestępcze zlecenia!",
+                    "Esta vulpera capitã-pirata decidiu fazer uns serviços por fora.",
+                    "Быстроногая вульпера-пиратка, которая не чурается грязной работенки.",
+                    "วัลเพ-รากัปตันโจรสลัด\nแสนว่องไวหันมา\nรับงานนอกแทนแล้ว",
+                    "这位漂泊不定的狐人海盗船长现在成了自由职业者。",
+                    "這位狐狸人海盜船長離開了原本的船隊，尋找新的勾當"
+                ],
+                "m_locId": 2707391
             },
             "m_unlockEvent": 164
         },
@@ -4535,6 +4349,68 @@
                 "m_locId": 2811588
             },
             "m_unlockEvent": 203
+        },
+        {
+            "m_ID": 3,
+            "m_cardId": 48486,
+            "m_name": {
+                "m_locValues": [
+                    "Tracker",
+                    "Fährtenleserin",
+                    "Rastreadora",
+                    "Rastreador",
+                    "Pisteur",
+                    "Braccatrice",
+                    "追跡者",
+                    "추적자",
+                    "Tropicielka",
+                    "Rastreadora",
+                    "Следопыт",
+                    "นักแกะรอย",
+                    "精英刺客",
+                    "追獵者"
+                ],
+                "m_locId": 2691721
+            },
+            "m_shortName": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_flavorText": {
+                "m_locValues": [
+                    "Scavenge for spells to turn a monster's power against itself.",
+                    "Bemächtigt Euch der Zauber Eures Gegners und schlagt ihn mit seinen eigenen Waffen.",
+                    "Rebusca hechizos para utilizar el poder de un monstruo en su contra.",
+                    "Busca hechizos para usar el poder de un monstruo en su contra.",
+                    "Vous trouvez des sorts vous permettant de retourner le pouvoir d’un monstre contre lui.",
+                    "Recupera Magie per usare i poteri dei mostri contro di loro.",
+                    "呪文を再利用し、怪物の力で怪物を討とう。",
+                    "주문을 발견하여 괴물의 힘을 역이용하세요.",
+                    "Wyszukuj zaklęcia, dzięki którym moce potworów zwrócą się przeciwko nim.",
+                    "Encontre feitiços para usar o poder de um monstro contra ele mesmo.",
+                    "Отыщите нужное заклинание и обратите силу монстра ему во вред.",
+                    "เก็บกู้เวทมนตร์แล้วใช้พลังของ\nมอนสเตอร์ย้อนทำลายตัวมันเอง",
+                    "利用各种精妙的法术让怪物应接不暇。",
+                    "尋覓各種資源，運用法術化解怪物的攻勢"
+                ],
+                "m_locId": 2691722
+            },
+            "m_unlockEvent": 164
         },
         {
             "m_ID": 311,
@@ -6831,6 +6707,68 @@
             "m_unlockEvent": 164
         },
         {
+            "m_ID": 30,
+            "m_cardId": 54549,
+            "m_name": {
+                "m_locValues": [
+                    "Paladin",
+                    "Paladin",
+                    "Paladín",
+                    "Paladín",
+                    "Paladin",
+                    "Paladino",
+                    "パラディン",
+                    "성기사",
+                    "Paladyn",
+                    "Paladino",
+                    "Паладин",
+                    "พาลาดิน",
+                    "圣骑士",
+                    "聖騎士"
+                ],
+                "m_locId": 2707392
+            },
+            "m_shortName": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_flavorText": {
+                "m_locValues": [
+                    "A vengeful paladin who’s breaking vows and faces alike.",
+                    "Ein rachsüchtiger Paladin, der Schwüre und Knochen gleichermaßen bricht.",
+                    "Un paladín vengativo que rompe juramentos y caras a la par.",
+                    "Un paladín vengativo que rompe juramentos y cabezas por igual.",
+                    "Un paladin vengeur qui a brisé ses vœux… et quelques crânes par la même occasion.",
+                    "Un Paladino in cerca di vendetta, che infrange giuramenti... e molto altro.",
+                    "復讐に燃えるパラディンは、破戒と破壊に手を染めた。",
+                    "자신이 한 맹세와 사람들의 얼굴을 모두 깨부수고 다니는 성기사입니다.",
+                    "Pałający żądzą zemsty paladyn, który łamie przysięgi i szczęki.",
+                    "Paladino vingativo que está quebrando votos de lealdade e a cara de muita gente.",
+                    "Мстительный паладин, который любит нарушать данные обеты и бить в лицо.",
+                    "พาลาดินอาฆาตแค้น\nที่พร้อมจะทำลาย\nคำสาบานและใบหน้า",
+                    "复仇心切的圣骑士不仅要打破誓言，还要打爆你的脸。",
+                    "復仇心切的聖騎士，打破了自己的誓言、也打破了許多人的頭"
+                ],
+                "m_locId": 2707393
+            },
+            "m_unlockEvent": 164
+        },
+        {
             "m_ID": 35,
             "m_cardId": 54554,
             "m_name": {
@@ -7823,88 +7761,26 @@
             "m_unlockEvent": 164
         },
         {
-            "m_ID": 379,
-            "m_cardId": 98483,
+            "m_ID": 309,
+            "m_cardId": 76333,
             "m_name": {
                 "m_locValues": [
-                    "Experimental Star",
-                    "Experimenteller Star",
-                    "Estrella experimental",
-                    "Estrella experimental",
-                    "Star de l’expérimental",
-                    "Stella della Sperimentale",
-                    "エクスペリメンタルスター",
-                    "실험 스타",
-                    "Gwiazda eksperymentów",
-                    "Estrela do Experimental",
-                    "Хиппи-звезда ",
-                    "ศิลปินเอ็กซ์เพอริเมนทัล",
-                    "试验巨星",
-                    "實驗音樂新星"
+                    "Tamsin",
+                    "Tamsin",
+                    "Tamsin",
+                    "Tamsin",
+                    "Tamsin",
+                    "Tamsin",
+                    "タムシン",
+                    "탬신",
+                    "Tamsin",
+                    "Tamsin",
+                    "Тамсин",
+                    "แทมซิน",
+                    "塔姆辛",
+                    "塔姆辛"
                 ],
-                "m_locId": 2860321
-            },
-            "m_shortName": {
-                "m_locValues": [
-                    "Experimental Star",
-                    "Experimenteller Star",
-                    "Estrella experimental",
-                    "Estrella experimental",
-                    "Star de l’expérimental",
-                    "Stella della Sperimentale",
-                    "エクスペリメンタルスター",
-                    "실험 스타",
-                    "Gwiazda eksperymentów",
-                    "Estrela do Experimental",
-                    "Хиппи-звезда ",
-                    "ศิลปินเอ็กซ์เพอริเมนทัล",
-                    "试验巨星",
-                    "實驗音樂新星"
-                ],
-                "m_locId": 2871790
-            },
-            "m_flavorText": {
-                "m_locValues": [
-                    "Chill out with incredible acoustic sets that will lift everyone's spirits!",
-                    "Lasst unglaubliche Akustikklänge ertönen, die garantiert die Stimmung heben!",
-                    "¡Relájate con increíbles melodías acústicas capaces de calmar a las fieras!",
-                    "¡Relajantes e increíbles kits acústicos que levantarán los ánimos de todos!",
-                    "Détendez-vous grâce au son incroyable de sets acoustiques enivrants !",
-                    "Rilassati con incredibili set acustici, capaci di risollevare lo spirito di chiunque!",
-                    "みんなを愉快な気分にするアコースティックなセットでゆったりしよう！",
-                    "모두를 기분 좋게 만들어 줄 어쿠스틱 음악 세트입니다!",
-                    "Wyluzuj się przy niesamowitych akustycznych setach, które podniosą wszystkich na duchu!",
-                    "Relaxe com músicas acústicas incríveis que animam qualquer um!",
-                    "Расслабьтесь и насладитесь невероятным акустическим звучанием, которое всем придется по душе!",
-                    "ผ่อนคลายกับเซ็ตเพลงอะคูสติก\nที่พาให้หัวใจอิ่มเอม!",
-                    "换上神奇的尖端设备，调动每一个人的神经！",
-                    "在美妙不插電音樂當中好好放鬆，感受靈魂的昇華！"
-                ],
-                "m_locId": 2860322
-            },
-            "m_unlockEvent": 164
-        },
-        {
-            "m_ID": 38,
-            "m_cardId": 7,
-            "m_name": {
-                "m_locValues": [
-                    "Garrosh",
-                    "Garrosh",
-                    "Garrosh",
-                    "Garrosh",
-                    "Garrosh",
-                    "Garrosh",
-                    "ガロッシュ",
-                    "가로쉬",
-                    "Garosz",
-                    "Garrosh",
-                    "Гаррош",
-                    "แกร์รอช",
-                    "加尔鲁什",
-                    "卡爾洛斯"
-                ],
-                "m_locId": 2705283
+                "m_locId": 2806774
             },
             "m_shortName": {
                 "m_locValues": [
@@ -7927,582 +7803,24 @@
             },
             "m_flavorText": {
                 "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
+                    "Chapter Five\nA clever warlock returns home with a sinister agenda.",
+                    "Kapitel 5\nEine raffinierte Hexenmeisterin kehrt mit finsteren Plänen nach Hause zurück.",
+                    "Capítulo cinco\nUna astuta bruja vuelve a casa con un plan perverso.",
+                    "Capítulo cinco\nUna bruja astuta regresa a su hogar con planes macabros.",
+                    "Chapitre V\nUne brillante démoniste, pétrie de sinistres intentions, rentre chez elle.",
+                    "Capitolo Cinque\nUna Strega perspicace torna a casa con un piano sinistro.",
+                    "第V章\n狡猾なるウォーロックは邪悪な目的を胸に故郷へ戻る。",
+                    "제5장\n총명한 흑마법사가 사악한 계획을 품고 고향으로 돌아왔습니다.",
+                    "Rozdział V\nSprytna czarnoksiężniczka powraca z mrocznymi zamiarami.",
+                    "Capítulo Cinco\nUma bruxa sagaz volta para casa com um plano sinistro.",
+                    "Глава пятая\nОдаренная чернокнижница возвращается домой с дурными намерениями.",
+                    "บทที่ห้า\nวอร์ล็อคผู้ปราดเปรื่องหวนคืน\nสู่บ้านพร้อมเจตนาร้าย",
+                    "第五章\n聪明的术士，带着邪恶的计划返乡。",
+                    "第五章\n狡詐的術士回到故鄉，預備實現她惡毒的計畫"
                 ],
-                "m_locId": 0
+                "m_locId": 2806775
             },
-            "m_unlockEvent": 164
-        },
-        {
-            "m_ID": 380,
-            "m_cardId": 98490,
-            "m_name": {
-                "m_locValues": [
-                    "Metal Star",
-                    "Metal-Star",
-                    "Estrella del metal",
-                    "Estrella metalera",
-                    "Star du metal",
-                    "Stella del Metal",
-                    "メタルスター",
-                    "메탈 스타",
-                    "Gwiazda metalu",
-                    "Estrela do Metal",
-                    "Звезда метала",
-                    "ศิลปินเมทัล",
-                    "金属巨星",
-                    "重金屬新星"
-                ],
-                "m_locId": 2860323
-            },
-            "m_shortName": {
-                "m_locValues": [
-                    "Metal Star",
-                    "Metal-Star",
-                    "Estrella del metal",
-                    "Estrella metalera",
-                    "Star du metal",
-                    "Stella del Metal",
-                    "メタルスター",
-                    "메탈 스타",
-                    "Gwiazda metalu",
-                    "Estrela do Metal",
-                    "Звезда метала",
-                    "ศิลปินเมทัล",
-                    "金属巨星",
-                    "重金屬新星"
-                ],
-                "m_locId": 2871791
-            },
-            "m_flavorText": {
-                "m_locValues": [
-                    "They'll unleash their hardcore side with thrashing beats and howling wails!",
-                    "Mit schmetternden Beats und kreischendem Geheul lässt er seiner Hardcore-Seite freien Lauf!",
-                    "¡Dejará ver su lado más radical con un ritmo desgarrador y gritos guturales!",
-                    "¡Dará rienda suelta a su lado más salvaje con ritmos abrumadores y aullidos estridentes!",
-                    "Déchaînez votre côté hardcore avec un son tonitruant et des cris déchirants !",
-                    "Scatena il lato più selvaggio con ritmi ossessivi e ululati spaventosi!",
-                    "弾き刻むビートと吠え叫ぶ慟哭で、ハードコアな面を解き放とう！",
-                    "강렬한 비트와 울부짖는 포효로 하드코어 성격을 마구 뽐냅니다!",
-                    "Pokażą swoją hardkorową stronę z dzikimi rytmami i prawdziwym skowytem!",
-                    "Eles vão mostrar o lado hardcore com batidas pesadas e vocais sinistros!",
-                    "Суровые ритмы и пронзительные вопли позволят их необузданному нраву вырваться на волю!",
-                    "ปลดปล่อยความฮาร์ดคอร์\nด้วยบีตดังโครมครามและ\nเสียงคำรามโหยหวน!",
-                    "节奏！尖叫！释放心中硬核的一面！",
-                    "硬蕊精神會在鞭擊節奏和嚎叫嘶吼中徹底解放！"
-                ],
-                "m_locId": 2860324
-            },
-            "m_unlockEvent": 164
-        },
-        {
-            "m_ID": 381,
-            "m_cardId": 98491,
-            "m_name": {
-                "m_locValues": [
-                    "Emo Star",
-                    "Emo-Star",
-                    "Estrella emo",
-                    "Estrella emo",
-                    "Star de l’emo",
-                    "Stella Emo",
-                    "エモスター",
-                    "이모 스타",
-                    "Gwiazda emo",
-                    "Estrela do Emo",
-                    "Звезда эмо",
-                    "ศิลปินอีโม",
-                    "情绪巨星",
-                    "情緒搖滾新星"
-                ],
-                "m_locId": 2860325
-            },
-            "m_shortName": {
-                "m_locValues": [
-                    "Emo Star",
-                    "Emo-Star",
-                    "Estrella emo",
-                    "Estrella emo",
-                    "Star de l’emo",
-                    "Stella Emo",
-                    "エモスター",
-                    "이모 스타",
-                    "Gwiazda emo",
-                    "Estrela do Emo",
-                    "Звезда эмо",
-                    "ศิลปินอีโม",
-                    "情绪巨星",
-                    "情緒搖滾新星"
-                ],
-                "m_locId": 2871792
-            },
-            "m_flavorText": {
-                "m_locValues": [
-                    "Let their angst and insecurity work for them instead of against them!",
-                    "Lasst seine Zweifel und Unsicherheit für anstatt gegen ihn arbeiten!",
-                    "¡Deja que su angustia e inseguridades le sirvan para conseguir algo!",
-                    "¡Deja que su angustia y su inseguridad trabajen a su favor en lugar de en su contra!",
-                    "Laissez vos angoisses et votre insécurité jouer avec vous plutôt que contre vous !",
-                    "Lascia che l'angoscia e l'insicurezza lavorino in suo favore, invece di contrastarlo!",
-                    "怒りや不安に足を引っ張らせず、背中を押させよう！",
-                    "불안과 초조함을 역으로 이용해 보세요!",
-                    "Obróć ich lęki i obawy na ich korzyść!",
-                    "A revolta e insegurança vão agir a favor deles em vez de contra eles!",
-                    "Пусть их тревожность и комплексы приносят им пользу!",
-                    "เปลี่ยนความกลัดกลุ้มกังวล\nที่กัดกินใจให้กลายเป็นพลัง!",
-                    "让焦虑和不安为己所用，不再与自己对抗！",
-                    "轉化焦慮和不安，把阻力化為助力！"
-                ],
-                "m_locId": 2860326
-            },
-            "m_unlockEvent": 164
-        },
-        {
-            "m_ID": 382,
-            "m_cardId": 98493,
-            "m_name": {
-                "m_locValues": [
-                    "EDM Star",
-                    "EDM-Star",
-                    "Estrella del dance",
-                    "Estrella electrónica",
-                    "Star de l’EDM",
-                    "Stella dell'Elettronica",
-                    "EDMスター",
-                    "EDM 스타",
-                    "Gwiazda EDM",
-                    "Estrela da Dance Music",
-                    "Звезда EDM",
-                    "ศิลปิน EDM",
-                    "电子巨星",
-                    "電子舞曲新星"
-                ],
-                "m_locId": 2860327
-            },
-            "m_shortName": {
-                "m_locValues": [
-                    "EDM Star",
-                    "EDM-Star",
-                    "Estrella del dance",
-                    "Estrella electrónica",
-                    "Star de l’EDM",
-                    "Stella dell'Elettronica",
-                    "EDMスター",
-                    "EDM 스타",
-                    "Gwiazda EDM",
-                    "Estrela da Dance Music",
-                    "Звезда EDM",
-                    "ศิลปิน EDM",
-                    "电子巨星",
-                    "電子舞曲新星"
-                ],
-                "m_locId": 2871793
-            },
-            "m_flavorText": {
-                "m_locValues": [
-                    "Get ready to party with catchy and energetic beats!",
-                    "Macht Euch bereit für eine Party mit eingängigen und energetischen Beats!",
-                    "¡Sal de fiesta y disfruta de pegadizas y enérgicas canciones!",
-                    "¡Prepárate para la fiesta con ritmos pegadizos y enérgicos!",
-                    "Préparez-vous à faire la fête sur des morceaux énergiques et entraînants !",
-                    "Preparati alla festa con dei ritmi orecchiabili ed energici!",
-                    "キャッチーでエネルギッシュなビートのパーティーに備えよう！",
-                    "중독성 있고 활발한 비트로 파티를 즐겨요!",
-                    "Przygotuj się na imprezę z wpadającymi w ucho, energetycznymi kawałkami!",
-                    "Prepare-se para a festa com batidas energéticas e irresistíveis!",
-                    "Готовьтесь отплясывать под зажигательные и запоминающиеся ритмы!",
-                    "เตรียมตัวปาร์ตี้ไปกับ\nบีตติดหูเร้าอารมณ์!",
-                    "迷人的电子乐响起，派对就要开始了！",
-                    "在令人著迷的輕快節奏中享受派對吧！"
-                ],
-                "m_locId": 2860328
-            },
-            "m_unlockEvent": 164
-        },
-        {
-            "m_ID": 383,
-            "m_cardId": 98492,
-            "m_name": {
-                "m_locValues": [
-                    "Folk Star",
-                    "Folk-Star",
-                    "Estrella folk",
-                    "Estrella folk",
-                    "Star du folk",
-                    "Stella del Folk",
-                    "フォークスター",
-                    "포크 스타",
-                    "Gwiazda folku",
-                    "Estrela do Folk",
-                    "Звезда фолка",
-                    "ศิลปินโฟล์ก",
-                    "民谣巨星",
-                    "民謠新星"
-                ],
-                "m_locId": 2860329
-            },
-            "m_shortName": {
-                "m_locValues": [
-                    "Folk Star",
-                    "Folk-Star",
-                    "Estrella folk",
-                    "Estrella folk",
-                    "Star du folk",
-                    "Stella del Folk",
-                    "フォークスター",
-                    "포크 스타",
-                    "Gwiazda folku",
-                    "Estrela do Folk",
-                    "Звезда фолка",
-                    "ศิลปินโฟล์ก",
-                    "民谣巨星",
-                    "民謠新星"
-                ],
-                "m_locId": 2871794
-            },
-            "m_flavorText": {
-                "m_locValues": [
-                    "Take their music to groovy new places that defy expectations!",
-                    "Entdeckt mit ihrer Musik abgefahrene neue Grooves jenseits aller Vorstellung!",
-                    "¡Supera todas las expectativas con sus ritmos exóticos!",
-                    "¡Llevan su música a nuevos lugares que sobrepasan toda expectativa!",
-                    "Transportez votre public avec une musique groovy qui redéfinit le genre !",
-                    "Porta la musica in nuovi luoghi che superano ogni aspettativa!",
-                    "音楽を、みんなの期待を上回るグルーヴィーな新天地へ弾き上げよう！",
-                    "음악을 들으며 예상을 뛰어넘는 새로운 장소로 떠나 보세요!",
-                    "Zagraj ich muzykę na klimatyczne nowe sposoby, które zaskoczą wszystkich!",
-                    "Leve a música deles para embalar novos lugares que desafiam expectativas!",
-                    "Устройте незабываемое музыкальное путешествие, полное приятных неожиданностей!",
-                    "นำดนตรีไปยังสถานที่ใหม่ๆ สุดจี๊ดจ๊าดที่ฉีกทุกความคาดหมาย!",
-                    "让轻音乐进入清新脱俗的新境界！",
-                    "把音樂帶到全新的舞動天地，超越任何期待的限制！"
-                ],
-                "m_locId": 2860330
-            },
-            "m_unlockEvent": 164
-        },
-        {
-            "m_ID": 384,
-            "m_cardId": 98484,
-            "m_name": {
-                "m_locValues": [
-                    "Pop Star",
-                    "Popstar",
-                    "Estrella del pop",
-                    "Estrella pop",
-                    "Star de la pop",
-                    "Stella del Pop",
-                    "ポップスター",
-                    "팝 스타",
-                    "Gwiazda popu",
-                    "Estrela do Pop",
-                    "Поп-звезда",
-                    "ศิลปินป๊อป",
-                    "流行巨星",
-                    "流行樂新星"
-                ],
-                "m_locId": 2860331
-            },
-            "m_shortName": {
-                "m_locValues": [
-                    "Pop Star",
-                    "Popstar",
-                    "Estrella del pop",
-                    "Estrella pop",
-                    "Star de la pop",
-                    "Stella del Pop",
-                    "ポップスター",
-                    "팝 스타",
-                    "Gwiazda popu",
-                    "Estrela do Pop",
-                    "Поп-звезда",
-                    "ศิลปินป๊อป",
-                    "流行巨星",
-                    "流行樂新星"
-                ],
-                "m_locId": 2871795
-            },
-            "m_flavorText": {
-                "m_locValues": [
-                    "Own the stage with outstanding charisma and dance routines!",
-                    "Nehmt mit herausragendem Charisma und tollen Tanzeinlagen Euren Platz im Rampenlicht ein!",
-                    "¡Domina el escenario gracias a tu inimitable carisma y coreografías!",
-                    "¡Apodérate del escenario con un carisma de otro mundo y coreografías de baile!",
-                    "Enflammez la scène grâce à votre charisme exceptionnel et vos chorégraphies !",
-                    "Domina il palco con un incredibile carisma e bellissime coreografie!",
-                    "圧倒的カリスマとダンスルーチンで、ステージを支配しよう！",
-                    "훌륭한 카리스마와 안무로 무대를 장악하세요!",
-                    "Zawładnij sceną z niesamowitą charyzmą i czadową choreografią!",
-                    "Tome conta do palco com um carisma incrível e passos de dança!",
-                    "Станьте звездой сцены благодаря несравненной харизме и хореографии!",
-                    "ครองเวทีด้วยเสน่ห์ล้นเหลือ\nและท่าเต้นเป๊ะปัง!",
-                    "跳起精彩舞步，展现惊人魅力，称霸整座舞台！",
-                    "用動人魅力和華麗編舞在舞台稱霸！"
-                ],
-                "m_locId": 2860332
-            },
-            "m_unlockEvent": 164
-        },
-        {
-            "m_ID": 385,
-            "m_cardId": 98485,
-            "m_name": {
-                "m_locValues": [
-                    "Disco Star",
-                    "Disco-Star",
-                    "Estrella disco",
-                    "Estrella disco",
-                    "Star du disco",
-                    "Stella della Disco",
-                    "ディスコスター",
-                    "디스코 스타",
-                    "Gwiazda disco",
-                    "Estrela da Disco",
-                    "Звезда диско",
-                    "ศิลปินดิสโก้",
-                    "迪斯科巨星",
-                    "迪斯可新星"
-                ],
-                "m_locId": 2860333
-            },
-            "m_shortName": {
-                "m_locValues": [
-                    "Disco Star",
-                    "Disco-Star",
-                    "Estrella disco",
-                    "Estrella disco",
-                    "Star du disco",
-                    "Stella della Disco",
-                    "ディスコスター",
-                    "디스코 스타",
-                    "Gwiazda disco",
-                    "Estrela da Disco",
-                    "Звезда диско",
-                    "ศิลปินดิสโก้",
-                    "迪斯科巨星",
-                    "迪斯可新星"
-                ],
-                "m_locId": 2871796
-            },
-            "m_flavorText": {
-                "m_locValues": [
-                    "Shine bright with a special sparkly groove!",
-                    "Werdet mit einem besonders funkelnden Groove zum hellsten Stern am Starhimmel!",
-                    "¡Resplandece con un ritmo especialmente brillante!",
-                    "¡Brilla intensamente con un ritmo reluciente especial!",
-                    "Brillez de mille feux avec un groove étincelant !",
-                    "Risplendi con uno speciale ritmo scintillante!",
-                    "キラメキのグルーヴで眩しく輝こう！",
-                    "특별하게 반짝이는 그루브로 빛을 발하세요!",
-                    "Zabłyśnij niczym gwiazda z tymi świetlistymi utworami!",
-                    "Ofusque tudo com o brilho cintilante da balada!",
-                    "Зажигайте под неповторимые яркие мелодии!",
-                    "เฉิดฉายด้วยจังหวะพิเศษที่\nส่องประกายระยิบระยับ!",
-                    "和星光中的节律一同闪耀！",
-                    "用閃亮的特殊節奏在舞池裡大放光芒！"
-                ],
-                "m_locId": 2860334
-            },
-            "m_unlockEvent": 164
-        },
-        {
-            "m_ID": 386,
-            "m_cardId": 98486,
-            "m_name": {
-                "m_locValues": [
-                    "Hip-Hop Star",
-                    "Hip-Hop-Star",
-                    "Estrella del hip-hop",
-                    "Estrella de hip-hop",
-                    "Star du hip-hop",
-                    "Stella dell'Hip-Hop",
-                    "ヒップホップスター",
-                    "힙합 스타",
-                    "Gwiazda hip-hopu",
-                    "Estrela do Hip-Hop",
-                    "Звезда хип-хопа",
-                    "ศิลปินฮิปฮอป",
-                    "嘻哈巨星",
-                    "嘻哈新星"
-                ],
-                "m_locId": 2860335
-            },
-            "m_shortName": {
-                "m_locValues": [
-                    "Hip-Hop Star",
-                    "Hip-Hop-Star",
-                    "Estrella del hip-hop",
-                    "Estrella de hip-hop",
-                    "Star du hip-hop",
-                    "Stella dell'Hip-Hop",
-                    "ヒップホップスター",
-                    "힙합 스타",
-                    "Gwiazda hip-hopu",
-                    "Estrela do Hip-Hop",
-                    "Звезда хип-хопа",
-                    "ศิลปินฮิปฮอป",
-                    "嘻哈巨星",
-                    "嘻哈新星"
-                ],
-                "m_locId": 2871797
-            },
-            "m_flavorText": {
-                "m_locValues": [
-                    "Spit straight fire through your powerful lyrics and flow!",
-                    "Singt Euch mit brandheißen Reimen und unvergleichlichem Flow an die Spitze!",
-                    "¡Escupe fuego con tus enérgicas letras y derrochando estilo!",
-                    "¡Suelta las rimas más brutales con tus letras poderosas y tu estilo único!",
-                    "Mettez le feu avec votre sens du rythme et vos meilleures rimes !",
-                    "Sputa fuoco con un flusso inarrestabile di parole potenti!",
-                    "パワフルなリリックとフローで激アツなライムを踏もう！",
-                    "강렬한 가사와 리듬을 타고 불꽃 랩을 뱉으세요!",
-                    "Z takimi tekstami i wczuciem rozpalisz widownię niczym smoczy ogień!",
-                    "Use letras poderosas e melodias para incendiar tudo!",
-                    "Наполните свои стихи настоящей пылкостью!",
-                    "แร็ปรัวเร็วเป็นไฟด้วยเนื้อเพลง\nและโฟลว์สุดทรงพลัง!",
-                    "带劲的歌词，有力的节奏，一次唱个够！",
-                    "用嗆辣的歌詞和流暢的韻律噴爆對手！"
-                ],
-                "m_locId": 2860336
-            },
-            "m_unlockEvent": 164
-        },
-        {
-            "m_ID": 387,
-            "m_cardId": 98487,
-            "m_name": {
-                "m_locValues": [
-                    "Jazz Star",
-                    "Jazz-Star",
-                    "Estrella del jazz",
-                    "Estrella de jazz",
-                    "Star du jazz",
-                    "Stella del Jazz",
-                    "ジャズスター",
-                    "재즈 스타",
-                    "Gwiazda jazzu",
-                    "Estrela do Jazz",
-                    "Звезда джаза",
-                    "ศิลปินแจ๊ส",
-                    "爵士巨星",
-                    "爵士樂新星"
-                ],
-                "m_locId": 2860337
-            },
-            "m_shortName": {
-                "m_locValues": [
-                    "Jazz Star",
-                    "Jazz-Star",
-                    "Estrella del jazz",
-                    "Estrella de jazz",
-                    "Star du jazz",
-                    "Stella del Jazz",
-                    "ジャズスター",
-                    "재즈 스타",
-                    "Gwiazda jazzu",
-                    "Estrela do Jazz",
-                    "Звезда джаза",
-                    "ศิลปินแจ๊ส",
-                    "爵士巨星",
-                    "爵士樂新星"
-                ],
-                "m_locId": 2871798
-            },
-            "m_flavorText": {
-                "m_locValues": [
-                    "Enjoy jamming out with the coolest cats at the festival!",
-                    "Erlebt eine Jam-Session mit den coolsten Typen beim Festival!",
-                    "¡Improvisa con los gatos más molones del festival!",
-                    "¡Disfruta de improvisar con los músicos más en onda del festival!",
-                    "Profitez d’un concert improvisé avec les artistes les plus cools du festival !",
-                    "Goditi il divertimento con i gatti più rilassati del festival!",
-                    "フェスで一番クールなネコちゃんたちとのジャムセッションを楽しもう！",
-                    "시원시원한 고양이들과 함께 음악을 즐겨요!",
-                    "Baw się dobrze przy improwizacji z najluźniejszą ekipą na festiwalu!",
-                    "Divirta-se numa jam com os artistas mais descolados do festival!",
-                    "Получите максимум удовольствия от совместных выступлений с самыми классными гостями фестиваля!",
-                    "ร่วมบรรเลงเพลงเพลินใจกับ\nเหล่าคนคูลแห่งเทศกาลดนตรี!",
-                    "和音乐节上酷酷的大猫好好玩儿吧！",
-                    "和音樂祭最酷的音樂家一起即興吧！"
-                ],
-                "m_locId": 2860338
-            },
-            "m_unlockEvent": 164
-        },
-        {
-            "m_ID": 388,
-            "m_cardId": 98489,
-            "m_name": {
-                "m_locValues": [
-                    "Rock Star",
-                    "Rockstar",
-                    "Estrella del rock",
-                    "Estrella de rock",
-                    "Star du rock",
-                    "Stella del Rock",
-                    "ロックスター",
-                    "록 스타",
-                    "Gwiazda rocka",
-                    "Estrela do Rock",
-                    "Рок-звезда",
-                    "ศิลปินร็อค",
-                    "摇滚巨星",
-                    "搖滾新星"
-                ],
-                "m_locId": 2860339
-            },
-            "m_shortName": {
-                "m_locValues": [
-                    "Rock Star",
-                    "Rockstar",
-                    "Estrella del rock",
-                    "Estrella de rock",
-                    "Star du rock",
-                    "Stella del Rock",
-                    "ロックスター",
-                    "록 스타",
-                    "Gwiazda rocka",
-                    "Estrela do Rock",
-                    "Рок-звезда",
-                    "ศิลปินร็อค",
-                    "摇滚巨星",
-                    "搖滾新星"
-                ],
-                "m_locId": 2871799
-            },
-            "m_flavorText": {
-                "m_locValues": [
-                    "Crank the volume all the way up to eleven!",
-                    "Dreht die Lautstärke voll auf und lasst es krachen!",
-                    "¡Sube el ampli y roquea a todo trapo!",
-                    "¡Sube el volumen al máximo y mucho más!",
-                    "Montez le son et faites péter les basses !",
-                    "Alza il volume oltre il massimo!",
-                    "ボリュームを限界突破でブチ上げよう！",
-                    "볼륨을 최대로 끌어올리세요!",
-                    "Podkręć głośność poza skalę!",
-                    "Coloque o volume no máximo!",
-                    "Выставите громкость на максимум!",
-                    "เร่งเสียงให้ดังกระหึ่ม\nจนปรอทแตก!",
-                    "把音量开到十一档！",
-                    "音量全開，毫無保留！"
-                ],
-                "m_locId": 2860340
-            },
-            "m_unlockEvent": 164
+            "m_unlockEvent": 203
         },
         {
             "m_ID": 389,
@@ -8567,6 +7885,68 @@
             "m_unlockEvent": 164
         },
         {
+            "m_ID": 379,
+            "m_cardId": 98483,
+            "m_name": {
+                "m_locValues": [
+                    "Experimental Star",
+                    "Experimenteller Star",
+                    "Estrella experimental",
+                    "Estrella experimental",
+                    "Star de l’expérimental",
+                    "Stella della Sperimentale",
+                    "エクスペリメンタルスター",
+                    "실험 스타",
+                    "Gwiazda eksperymentów",
+                    "Estrela do Experimental",
+                    "Хиппи-звезда ",
+                    "ศิลปินเอ็กซ์เพอริเมนทัล",
+                    "试验巨星",
+                    "實驗音樂新星"
+                ],
+                "m_locId": 2860321
+            },
+            "m_shortName": {
+                "m_locValues": [
+                    "Experimental Star",
+                    "Experimenteller Star",
+                    "Estrella experimental",
+                    "Estrella experimental",
+                    "Star de l’expérimental",
+                    "Stella della Sperimentale",
+                    "エクスペリメンタルスター",
+                    "실험 스타",
+                    "Gwiazda eksperymentów",
+                    "Estrela do Experimental",
+                    "Хиппи-звезда ",
+                    "ศิลปินเอ็กซ์เพอริเมนทัล",
+                    "试验巨星",
+                    "實驗音樂新星"
+                ],
+                "m_locId": 2871790
+            },
+            "m_flavorText": {
+                "m_locValues": [
+                    "Chill out with incredible acoustic sets that will lift everyone's spirits!",
+                    "Lasst unglaubliche Akustikklänge ertönen, die garantiert die Stimmung heben!",
+                    "¡Relájate con increíbles melodías acústicas capaces de calmar a las fieras!",
+                    "¡Relajantes e increíbles kits acústicos que levantarán los ánimos de todos!",
+                    "Détendez-vous grâce au son incroyable de sets acoustiques enivrants !",
+                    "Rilassati con incredibili set acustici, capaci di risollevare lo spirito di chiunque!",
+                    "みんなを愉快な気分にするアコースティックなセットでゆったりしよう！",
+                    "모두를 기분 좋게 만들어 줄 어쿠스틱 음악 세트입니다!",
+                    "Wyluzuj się przy niesamowitych akustycznych setach, które podniosą wszystkich na duchu!",
+                    "Relaxe com músicas acústicas incríveis que animam qualquer um!",
+                    "Расслабьтесь и насладитесь невероятным акустическим звучанием, которое всем придется по душе!",
+                    "ผ่อนคลายกับเซ็ตเพลงอะคูสติก\nที่พาให้หัวใจอิ่มเอม!",
+                    "换上神奇的尖端设备，调动每一个人的神经！",
+                    "在美妙不插電音樂當中好好放鬆，感受靈魂的昇華！"
+                ],
+                "m_locId": 2860322
+            },
+            "m_unlockEvent": 164
+        },
+        {
             "m_ID": 39,
             "m_cardId": 813,
             "m_name": {
@@ -8587,6 +7967,68 @@
                     "安杜因"
                 ],
                 "m_locId": 2705284
+            },
+            "m_shortName": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_flavorText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_unlockEvent": 164
+        },
+        {
+            "m_ID": 38,
+            "m_cardId": 7,
+            "m_name": {
+                "m_locValues": [
+                    "Garrosh",
+                    "Garrosh",
+                    "Garrosh",
+                    "Garrosh",
+                    "Garrosh",
+                    "Garrosh",
+                    "ガロッシュ",
+                    "가로쉬",
+                    "Garosz",
+                    "Garrosh",
+                    "Гаррош",
+                    "แกร์รอช",
+                    "加尔鲁什",
+                    "卡爾洛斯"
+                ],
+                "m_locId": 2705283
             },
             "m_shortName": {
                 "m_locValues": [
@@ -8687,6 +8129,68 @@
                     "不滿意這回合的結果？那就改變一下時間線吧！"
                 ],
                 "m_locId": 2691724
+            },
+            "m_unlockEvent": 164
+        },
+        {
+            "m_ID": 380,
+            "m_cardId": 98490,
+            "m_name": {
+                "m_locValues": [
+                    "Metal Star",
+                    "Metal-Star",
+                    "Estrella del metal",
+                    "Estrella metalera",
+                    "Star du metal",
+                    "Stella del Metal",
+                    "メタルスター",
+                    "메탈 스타",
+                    "Gwiazda metalu",
+                    "Estrela do Metal",
+                    "Звезда метала",
+                    "ศิลปินเมทัล",
+                    "金属巨星",
+                    "重金屬新星"
+                ],
+                "m_locId": 2860323
+            },
+            "m_shortName": {
+                "m_locValues": [
+                    "Metal Star",
+                    "Metal-Star",
+                    "Estrella del metal",
+                    "Estrella metalera",
+                    "Star du metal",
+                    "Stella del Metal",
+                    "メタルスター",
+                    "메탈 스타",
+                    "Gwiazda metalu",
+                    "Estrela do Metal",
+                    "Звезда метала",
+                    "ศิลปินเมทัล",
+                    "金属巨星",
+                    "重金屬新星"
+                ],
+                "m_locId": 2871791
+            },
+            "m_flavorText": {
+                "m_locValues": [
+                    "They'll unleash their hardcore side with thrashing beats and howling wails!",
+                    "Mit schmetternden Beats und kreischendem Geheul lässt er seiner Hardcore-Seite freien Lauf!",
+                    "¡Dejará ver su lado más radical con un ritmo desgarrador y gritos guturales!",
+                    "¡Dará rienda suelta a su lado más salvaje con ritmos abrumadores y aullidos estridentes!",
+                    "Déchaînez votre côté hardcore avec un son tonitruant et des cris déchirants !",
+                    "Scatena il lato più selvaggio con ritmi ossessivi e ululati spaventosi!",
+                    "弾き刻むビートと吠え叫ぶ慟哭で、ハードコアな面を解き放とう！",
+                    "강렬한 비트와 울부짖는 포효로 하드코어 성격을 마구 뽐냅니다!",
+                    "Pokażą swoją hardkorową stronę z dzikimi rytmami i prawdziwym skowytem!",
+                    "Eles vão mostrar o lado hardcore com batidas pesadas e vocais sinistros!",
+                    "Суровые ритмы и пронзительные вопли позволят их необузданному нраву вырваться на волю!",
+                    "ปลดปล่อยความฮาร์ดคอร์\nด้วยบีตดังโครมครามและ\nเสียงคำรามโหยหวน!",
+                    "节奏！尖叫！释放心中硬核的一面！",
+                    "硬蕊精神會在鞭擊節奏和嚎叫嘶吼中徹底解放！"
+                ],
+                "m_locId": 2860324
             },
             "m_unlockEvent": 164
         },
@@ -8815,6 +8319,68 @@
             "m_unlockEvent": 164
         },
         {
+            "m_ID": 381,
+            "m_cardId": 98491,
+            "m_name": {
+                "m_locValues": [
+                    "Emo Star",
+                    "Emo-Star",
+                    "Estrella emo",
+                    "Estrella emo",
+                    "Star de l’emo",
+                    "Stella Emo",
+                    "エモスター",
+                    "이모 스타",
+                    "Gwiazda emo",
+                    "Estrela do Emo",
+                    "Звезда эмо",
+                    "ศิลปินอีโม",
+                    "情绪巨星",
+                    "情緒搖滾新星"
+                ],
+                "m_locId": 2860325
+            },
+            "m_shortName": {
+                "m_locValues": [
+                    "Emo Star",
+                    "Emo-Star",
+                    "Estrella emo",
+                    "Estrella emo",
+                    "Star de l’emo",
+                    "Stella Emo",
+                    "エモスター",
+                    "이모 스타",
+                    "Gwiazda emo",
+                    "Estrela do Emo",
+                    "Звезда эмо",
+                    "ศิลปินอีโม",
+                    "情绪巨星",
+                    "情緒搖滾新星"
+                ],
+                "m_locId": 2871792
+            },
+            "m_flavorText": {
+                "m_locValues": [
+                    "Let their angst and insecurity work for them instead of against them!",
+                    "Lasst seine Zweifel und Unsicherheit für anstatt gegen ihn arbeiten!",
+                    "¡Deja que su angustia e inseguridades le sirvan para conseguir algo!",
+                    "¡Deja que su angustia y su inseguridad trabajen a su favor en lugar de en su contra!",
+                    "Laissez vos angoisses et votre insécurité jouer avec vous plutôt que contre vous !",
+                    "Lascia che l'angoscia e l'insicurezza lavorino in suo favore, invece di contrastarlo!",
+                    "怒りや不安に足を引っ張らせず、背中を押させよう！",
+                    "불안과 초조함을 역으로 이용해 보세요!",
+                    "Obróć ich lęki i obawy na ich korzyść!",
+                    "A revolta e insegurança vão agir a favor deles em vez de contra eles!",
+                    "Пусть их тревожность и комплексы приносят им пользу!",
+                    "เปลี่ยนความกลัดกลุ้มกังวล\nที่กัดกินใจให้กลายเป็นพลัง!",
+                    "让焦虑和不安为己所用，不再与自己对抗！",
+                    "轉化焦慮和不安，把阻力化為助力！"
+                ],
+                "m_locId": 2860326
+            },
+            "m_unlockEvent": 164
+        },
+        {
             "m_ID": 42,
             "m_cardId": 1066,
             "m_name": {
@@ -8873,6 +8439,68 @@
                     ""
                 ],
                 "m_locId": 0
+            },
+            "m_unlockEvent": 164
+        },
+        {
+            "m_ID": 382,
+            "m_cardId": 98493,
+            "m_name": {
+                "m_locValues": [
+                    "EDM Star",
+                    "EDM-Star",
+                    "Estrella del dance",
+                    "Estrella electrónica",
+                    "Star de l’EDM",
+                    "Stella dell'Elettronica",
+                    "EDMスター",
+                    "EDM 스타",
+                    "Gwiazda EDM",
+                    "Estrela da Dance Music",
+                    "Звезда EDM",
+                    "ศิลปิน EDM",
+                    "电子巨星",
+                    "電子舞曲新星"
+                ],
+                "m_locId": 2860327
+            },
+            "m_shortName": {
+                "m_locValues": [
+                    "EDM Star",
+                    "EDM-Star",
+                    "Estrella del dance",
+                    "Estrella electrónica",
+                    "Star de l’EDM",
+                    "Stella dell'Elettronica",
+                    "EDMスター",
+                    "EDM 스타",
+                    "Gwiazda EDM",
+                    "Estrela da Dance Music",
+                    "Звезда EDM",
+                    "ศิลปิน EDM",
+                    "电子巨星",
+                    "電子舞曲新星"
+                ],
+                "m_locId": 2871793
+            },
+            "m_flavorText": {
+                "m_locValues": [
+                    "Get ready to party with catchy and energetic beats!",
+                    "Macht Euch bereit für eine Party mit eingängigen und energetischen Beats!",
+                    "¡Sal de fiesta y disfruta de pegadizas y enérgicas canciones!",
+                    "¡Prepárate para la fiesta con ritmos pegadizos y enérgicos!",
+                    "Préparez-vous à faire la fête sur des morceaux énergiques et entraînants !",
+                    "Preparati alla festa con dei ritmi orecchiabili ed energici!",
+                    "キャッチーでエネルギッシュなビートのパーティーに備えよう！",
+                    "중독성 있고 활발한 비트로 파티를 즐겨요!",
+                    "Przygotuj się na imprezę z wpadającymi w ucho, energetycznymi kawałkami!",
+                    "Prepare-se para a festa com batidas energéticas e irresistíveis!",
+                    "Готовьтесь отплясывать под зажигательные и запоминающиеся ритмы!",
+                    "เตรียมตัวปาร์ตี้ไปกับ\nบีตติดหูเร้าอารมณ์!",
+                    "迷人的电子乐响起，派对就要开始了！",
+                    "在令人著迷的輕快節奏中享受派對吧！"
+                ],
+                "m_locId": 2860328
             },
             "m_unlockEvent": 164
         },
@@ -8997,6 +8625,68 @@
                     ""
                 ],
                 "m_locId": 0
+            },
+            "m_unlockEvent": 164
+        },
+        {
+            "m_ID": 383,
+            "m_cardId": 98492,
+            "m_name": {
+                "m_locValues": [
+                    "Folk Star",
+                    "Folk-Star",
+                    "Estrella folk",
+                    "Estrella folk",
+                    "Star du folk",
+                    "Stella del Folk",
+                    "フォークスター",
+                    "포크 스타",
+                    "Gwiazda folku",
+                    "Estrela do Folk",
+                    "Звезда фолка",
+                    "ศิลปินโฟล์ก",
+                    "民谣巨星",
+                    "民謠新星"
+                ],
+                "m_locId": 2860329
+            },
+            "m_shortName": {
+                "m_locValues": [
+                    "Folk Star",
+                    "Folk-Star",
+                    "Estrella folk",
+                    "Estrella folk",
+                    "Star du folk",
+                    "Stella del Folk",
+                    "フォークスター",
+                    "포크 스타",
+                    "Gwiazda folku",
+                    "Estrela do Folk",
+                    "Звезда фолка",
+                    "ศิลปินโฟล์ก",
+                    "民谣巨星",
+                    "民謠新星"
+                ],
+                "m_locId": 2871794
+            },
+            "m_flavorText": {
+                "m_locValues": [
+                    "Take their music to groovy new places that defy expectations!",
+                    "Entdeckt mit ihrer Musik abgefahrene neue Grooves jenseits aller Vorstellung!",
+                    "¡Supera todas las expectativas con sus ritmos exóticos!",
+                    "¡Llevan su música a nuevos lugares que sobrepasan toda expectativa!",
+                    "Transportez votre public avec une musique groovy qui redéfinit le genre !",
+                    "Porta la musica in nuovi luoghi che superano ogni aspettativa!",
+                    "音楽を、みんなの期待を上回るグルーヴィーな新天地へ弾き上げよう！",
+                    "음악을 들으며 예상을 뛰어넘는 새로운 장소로 떠나 보세요!",
+                    "Zagraj ich muzykę na klimatyczne nowe sposoby, które zaskoczą wszystkich!",
+                    "Leve a música deles para embalar novos lugares que desafiam expectativas!",
+                    "Устройте незабываемое музыкальное путешествие, полное приятных неожиданностей!",
+                    "นำดนตรีไปยังสถานที่ใหม่ๆ สุดจี๊ดจ๊าดที่ฉีกทุกความคาดหมาย!",
+                    "让轻音乐进入清新脱俗的新境界！",
+                    "把音樂帶到全新的舞動天地，超越任何期待的限制！"
+                ],
+                "m_locId": 2860330
             },
             "m_unlockEvent": 164
         },
@@ -9311,312 +9001,312 @@
             "m_unlockEvent": 164
         },
         {
-            "m_ID": 50,
-            "m_cardId": 55904,
+            "m_ID": 384,
+            "m_cardId": 98484,
             "m_name": {
                 "m_locValues": [
-                    "Myra Rotspring",
-                    "Myra Modertrank",
-                    "Myra Putregás",
-                    "Myra Poza Podrida",
-                    "Myra Sourcepus",
-                    "Myra Fontemarcia",
-                    "マイラ・ロットスプリング",
-                    "마이라 로트스프링",
-                    "Gnijąca Mira",
-                    "Myra Molapodre",
-                    "Мира Гниллинг",
-                    "ไมร่า ร็อตสปริง",
-                    "迈拉·腐泉",
-                    "麥菈‧腐泉"
+                    "Pop Star",
+                    "Popstar",
+                    "Estrella del pop",
+                    "Estrella pop",
+                    "Star de la pop",
+                    "Stella del Pop",
+                    "ポップスター",
+                    "팝 스타",
+                    "Gwiazda popu",
+                    "Estrela do Pop",
+                    "Поп-звезда",
+                    "ศิลปินป๊อป",
+                    "流行巨星",
+                    "流行樂新星"
                 ],
-                "m_locId": 2709587
+                "m_locId": 2860331
             },
             "m_shortName": {
                 "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
+                    "Pop Star",
+                    "Popstar",
+                    "Estrella del pop",
+                    "Estrella pop",
+                    "Star de la pop",
+                    "Stella del Pop",
+                    "ポップスター",
+                    "팝 스타",
+                    "Gwiazda popu",
+                    "Estrela do Pop",
+                    "Поп-звезда",
+                    "ศิลปินป๊อป",
+                    "流行巨星",
+                    "流行樂新星"
                 ],
-                "m_locId": 0
+                "m_locId": 2871795
             },
             "m_flavorText": {
                 "m_locValues": [
-                    "Scientifically proven to be deadly.",
-                    "Die Wissenschaft ist sich einig: Sie ist absolut tödlich.",
-                    "Su letalidad ha sido probada científicamente.",
-                    "Su letalidad está comprobada científicamente.",
-                    "Mortelle, c’est scientifiquement prouvé.",
-                    "Letale. È scientificamente provato.",
-                    "科学的に証明済みの危険度！！",
-                    "과학적으로 아주 치명적입니다.",
-                    "Naukowo udowodniono, że jest dosłownie zabójcza.",
-                    "Comprovadamente letal (por pesquisas científicas).",
-                    "Ее опыты смертоносны.",
-                    "วิทยาศาสตร์พิสูจน์แล้ว\nว่าอันตรายถึงตาย",
-                    "经科学认证的死亡之友。",
-                    "經科學證明十分致命"
+                    "Own the stage with outstanding charisma and dance routines!",
+                    "Nehmt mit herausragendem Charisma und tollen Tanzeinlagen Euren Platz im Rampenlicht ein!",
+                    "¡Domina el escenario gracias a tu inimitable carisma y coreografías!",
+                    "¡Apodérate del escenario con un carisma de otro mundo y coreografías de baile!",
+                    "Enflammez la scène grâce à votre charisme exceptionnel et vos chorégraphies !",
+                    "Domina il palco con un incredibile carisma e bellissime coreografie!",
+                    "圧倒的カリスマとダンスルーチンで、ステージを支配しよう！",
+                    "훌륭한 카리스마와 안무로 무대를 장악하세요!",
+                    "Zawładnij sceną z niesamowitą charyzmą i czadową choreografią!",
+                    "Tome conta do palco com um carisma incrível e passos de dança!",
+                    "Станьте звездой сцены благодаря несравненной харизме и хореографии!",
+                    "ครองเวทีด้วยเสน่ห์ล้นเหลือ\nและท่าเต้นเป๊ะปัง!",
+                    "跳起精彩舞步，展现惊人魅力，称霸整座舞台！",
+                    "用動人魅力和華麗編舞在舞台稱霸！"
                 ],
-                "m_locId": 2709596
+                "m_locId": 2860332
             },
             "m_unlockEvent": 164
         },
         {
-            "m_ID": 51,
-            "m_cardId": 55866,
+            "m_ID": 385,
+            "m_cardId": 98485,
             "m_name": {
                 "m_locValues": [
-                    "George the Fallen",
-                    "Gustav der Gefallene",
-                    "George el Caído",
-                    "George el Caído",
-                    "George le Déchu",
-                    "Paolo il Caduto",
-                    "地獄のジョージ",
-                    "타락한 조지",
-                    "Zbychu Upadły",
-                    "Jorge, o Degredado",
-                    "Джордж Падший",
-                    "จอร์จผู้หลงผิด",
-                    "堕落的乔治",
-                    "墮落的喬治"
+                    "Disco Star",
+                    "Disco-Star",
+                    "Estrella disco",
+                    "Estrella disco",
+                    "Star du disco",
+                    "Stella della Disco",
+                    "ディスコスター",
+                    "디스코 스타",
+                    "Gwiazda disco",
+                    "Estrela da Disco",
+                    "Звезда диско",
+                    "ศิลปินดิสโก้",
+                    "迪斯科巨星",
+                    "迪斯可新星"
                 ],
-                "m_locId": 2709588
+                "m_locId": 2860333
             },
             "m_shortName": {
                 "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
+                    "Disco Star",
+                    "Disco-Star",
+                    "Estrella disco",
+                    "Estrella disco",
+                    "Star du disco",
+                    "Stella della Disco",
+                    "ディスコスター",
+                    "디스코 스타",
+                    "Gwiazda disco",
+                    "Estrela da Disco",
+                    "Звезда диско",
+                    "ศิลปินดิสโก้",
+                    "迪斯科巨星",
+                    "迪斯可新星"
                 ],
-                "m_locId": 0
+                "m_locId": 2871796
             },
             "m_flavorText": {
                 "m_locValues": [
-                    "Lost without Karl.",
-                    "Ohne Karl ist er nicht mehr derselbe.",
-                    "Está completamente perdido sin Karl.",
-                    "Sin Karl, ha perdido el rumbo.",
-                    "Perdu sans Karl.",
-                    "Non è più lo stesso senza Dino.",
-                    "道に迷ってここまで来たッ！カールはどこへ消えた？",
-                    "길을 잃었습니다. 칼 없이.",
-                    "Całkowicie zagubiony bez Rycha.",
-                    "Perdido sem Carlos.",
-                    "Страдает без Карла.",
-                    "ไร้จุดหมายเมื่อไม่มีคาร์ล",
-                    "迷失在没有卡尔的世界。",
-                    "失去了卡爾，失去了方向"
+                    "Shine bright with a special sparkly groove!",
+                    "Werdet mit einem besonders funkelnden Groove zum hellsten Stern am Starhimmel!",
+                    "¡Resplandece con un ritmo especialmente brillante!",
+                    "¡Brilla intensamente con un ritmo reluciente especial!",
+                    "Brillez de mille feux avec un groove étincelant !",
+                    "Risplendi con uno speciale ritmo scintillante!",
+                    "キラメキのグルーヴで眩しく輝こう！",
+                    "특별하게 반짝이는 그루브로 빛을 발하세요!",
+                    "Zabłyśnij niczym gwiazda z tymi świetlistymi utworami!",
+                    "Ofusque tudo com o brilho cintilante da balada!",
+                    "Зажигайте под неповторимые яркие мелодии!",
+                    "เฉิดฉายด้วยจังหวะพิเศษที่\nส่องประกายระยิบระยับ!",
+                    "和星光中的节律一同闪耀！",
+                    "用閃亮的特殊節奏在舞池裡大放光芒！"
                 ],
-                "m_locId": 2709597
+                "m_locId": 2860334
             },
             "m_unlockEvent": 164
         },
         {
-            "m_ID": 52,
-            "m_cardId": 48182,
+            "m_ID": 386,
+            "m_cardId": 98486,
             "m_name": {
                 "m_locValues": [
-                    "Manhunter Ivan",
-                    "Kopfgeldjäger Ivan",
-                    "Cazarrecompensas Ivan",
-                    "Iván, el Cazador",
-                    "Ivan le Piège-proies",
-                    "Ivan il Cacciatore",
-                    "人狩りアイヴァン",
-                    "인간사냥꾼 아이반",
-                    "Krwawy Iwan",
-                    "Caçador de Homens Ivan",
-                    "Ловец Айван",
-                    "แมนฮันเตอร์ ไอวาน",
-                    "捕猎者伊凡",
-                    "追捕者艾凡"
+                    "Hip-Hop Star",
+                    "Hip-Hop-Star",
+                    "Estrella del hip-hop",
+                    "Estrella de hip-hop",
+                    "Star du hip-hop",
+                    "Stella dell'Hip-Hop",
+                    "ヒップホップスター",
+                    "힙합 스타",
+                    "Gwiazda hip-hopu",
+                    "Estrela do Hip-Hop",
+                    "Звезда хип-хопа",
+                    "ศิลปินฮิปฮอป",
+                    "嘻哈巨星",
+                    "嘻哈新星"
                 ],
-                "m_locId": 2709589
+                "m_locId": 2860335
             },
             "m_shortName": {
                 "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
+                    "Hip-Hop Star",
+                    "Hip-Hop-Star",
+                    "Estrella del hip-hop",
+                    "Estrella de hip-hop",
+                    "Star du hip-hop",
+                    "Stella dell'Hip-Hop",
+                    "ヒップホップスター",
+                    "힙합 스타",
+                    "Gwiazda hip-hopu",
+                    "Estrela do Hip-Hop",
+                    "Звезда хип-хопа",
+                    "ศิลปินฮิปฮอป",
+                    "嘻哈巨星",
+                    "嘻哈新星"
                 ],
-                "m_locId": 0
+                "m_locId": 2871797
             },
             "m_flavorText": {
                 "m_locValues": [
-                    "Hunting without a permit!",
-                    "Ob er wohl einen Jagdschein hat?",
-                    "¡Caza sin licencia!",
-                    "No tiene licencia para cazar.",
-                    "Il chasse sans permis !",
-                    "La sua licenza di\ncaccia è scaduta\ndecine di anni fa.",
-                    "狩猟許可なんぞ知ったことか！！",
-                    "불법 사냥 중!",
-                    "Poluje bez pozwolenia!",
-                    "Caçando sem licença!",
-                    "Сезон охоты открыт!",
-                    "ล่าโดยไม่มีใบอนุญาต!",
-                    "其实是偷猎者！",
-                    "無照狩獵！"
+                    "Spit straight fire through your powerful lyrics and flow!",
+                    "Singt Euch mit brandheißen Reimen und unvergleichlichem Flow an die Spitze!",
+                    "¡Escupe fuego con tus enérgicas letras y derrochando estilo!",
+                    "¡Suelta las rimas más brutales con tus letras poderosas y tu estilo único!",
+                    "Mettez le feu avec votre sens du rythme et vos meilleures rimes !",
+                    "Sputa fuoco con un flusso inarrestabile di parole potenti!",
+                    "パワフルなリリックとフローで激アツなライムを踏もう！",
+                    "강렬한 가사와 리듬을 타고 불꽃 랩을 뱉으세요!",
+                    "Z takimi tekstami i wczuciem rozpalisz widownię niczym smoczy ogień!",
+                    "Use letras poderosas e melodias para incendiar tudo!",
+                    "Наполните свои стихи настоящей пылкостью!",
+                    "แร็ปรัวเร็วเป็นไฟด้วยเนื้อเพลง\nและโฟลว์สุดทรงพลัง!",
+                    "带劲的歌词，有力的节奏，一次唱个够！",
+                    "用嗆辣的歌詞和流暢的韻律噴爆對手！"
                 ],
-                "m_locId": 2709598
+                "m_locId": 2860336
             },
             "m_unlockEvent": 164
         },
         {
-            "m_ID": 53,
-            "m_cardId": 47001,
+            "m_ID": 387,
+            "m_cardId": 98487,
             "m_name": {
                 "m_locValues": [
-                    "Voodoomaster Vex",
-                    "Voodoomeister Vex",
-                    "Vudumántico Vex",
-                    "Gurú del vudú Vex",
-                    "Maître-vaudou Oxir",
-                    "Mastro Vudù Vex",
-                    "ヴードゥー師ヴェックス",
-                    "부두장인 벡스",
-                    "Wex Nadznachor",
-                    "Mestre de Vodu Vex",
-                    "Мастер вуду Згрыз",
-                    "วูดูมาสเตอร์ เว็กซ์",
-                    "巫毒大师维克斯",
-                    "巫毒大師維克斯"
+                    "Jazz Star",
+                    "Jazz-Star",
+                    "Estrella del jazz",
+                    "Estrella de jazz",
+                    "Star du jazz",
+                    "Stella del Jazz",
+                    "ジャズスター",
+                    "재즈 스타",
+                    "Gwiazda jazzu",
+                    "Estrela do Jazz",
+                    "Звезда джаза",
+                    "ศิลปินแจ๊ส",
+                    "爵士巨星",
+                    "爵士樂新星"
                 ],
-                "m_locId": 2709590
+                "m_locId": 2860337
             },
             "m_shortName": {
                 "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
+                    "Jazz Star",
+                    "Jazz-Star",
+                    "Estrella del jazz",
+                    "Estrella de jazz",
+                    "Star du jazz",
+                    "Stella del Jazz",
+                    "ジャズスター",
+                    "재즈 스타",
+                    "Gwiazda jazzu",
+                    "Estrela do Jazz",
+                    "Звезда джаза",
+                    "ศิลปินแจ๊ส",
+                    "爵士巨星",
+                    "爵士樂新星"
                 ],
-                "m_locId": 0
+                "m_locId": 2871798
             },
             "m_flavorText": {
                 "m_locValues": [
-                    "Who do? You do! Do what? Remind me of Vex.",
-                    "Halb Troll, halb Kobold. Voll und ganz Voodoo.",
-                    "Ya verás cuando empiecen a derretirse todas esas velas...",
-                    "Ahora lo Vex, ahora no lo Vex.",
-                    "Occire ? Occire ! Oxir est là !",
-                    "Non fa altro che vexxare gli altri.",
-                    "ここが天下一ヴドゥ祭の会場ばー？",
-                    "너도 나도 부두에 몰두!",
-                    "Voodoo takie, że nie ma to tamto!",
-                    "Jacu? Não, não... Vodu é com o Mestre Vex.",
-                    "Не проклянет, так загрызет.",
-                    "วูมั้ยดู วูมั้ยดู วูดูไม่เสียตังค์",
-                    "你！你得提醒我，我是维克斯。",
-                    "戰吼的力量！死亡的力量！巫毒的力量！"
+                    "Enjoy jamming out with the coolest cats at the festival!",
+                    "Erlebt eine Jam-Session mit den coolsten Typen beim Festival!",
+                    "¡Improvisa con los gatos más molones del festival!",
+                    "¡Disfruta de improvisar con los músicos más en onda del festival!",
+                    "Profitez d’un concert improvisé avec les artistes les plus cools du festival !",
+                    "Goditi il divertimento con i gatti più rilassati del festival!",
+                    "フェスで一番クールなネコちゃんたちとのジャムセッションを楽しもう！",
+                    "시원시원한 고양이들과 함께 음악을 즐겨요!",
+                    "Baw się dobrze przy improwizacji z najluźniejszą ekipą na festiwalu!",
+                    "Divirta-se numa jam com os artistas mais descolados do festival!",
+                    "Получите максимум удовольствия от совместных выступлений с самыми классными гостями фестиваля!",
+                    "ร่วมบรรเลงเพลงเพลินใจกับ\nเหล่าคนคูลแห่งเทศกาลดนตรี!",
+                    "和音乐节上酷酷的大猫好好玩儿吧！",
+                    "和音樂祭最酷的音樂家一起即興吧！"
                 ],
-                "m_locId": 2709599
+                "m_locId": 2860338
             },
             "m_unlockEvent": 164
         },
         {
-            "m_ID": 54,
-            "m_cardId": 47365,
+            "m_ID": 388,
+            "m_cardId": 98489,
             "m_name": {
                 "m_locValues": [
-                    "Russell the Bard",
-                    "Russell der Barde",
-                    "Russell el Bardo",
-                    "Russell, el bardo",
-                    "Russell le barde",
-                    "Russell il Bardo",
-                    "吟遊詩人ラッセル",
-                    "음유시인 러셀",
-                    "Bard Jaskierniak",
-                    "Russell, o Bardo",
-                    "Бард Рассел",
-                    "นักกวีรัสเซล",
-                    "游吟诗人拉赛尔",
-                    "吟遊詩人羅賽爾"
+                    "Rock Star",
+                    "Rockstar",
+                    "Estrella del rock",
+                    "Estrella de rock",
+                    "Star du rock",
+                    "Stella del Rock",
+                    "ロックスター",
+                    "록 스타",
+                    "Gwiazda rocka",
+                    "Estrela do Rock",
+                    "Рок-звезда",
+                    "ศิลปินร็อค",
+                    "摇滚巨星",
+                    "搖滾新星"
                 ],
-                "m_locId": 2709591
+                "m_locId": 2860339
             },
             "m_shortName": {
                 "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
+                    "Rock Star",
+                    "Rockstar",
+                    "Estrella del rock",
+                    "Estrella de rock",
+                    "Star du rock",
+                    "Stella del Rock",
+                    "ロックスター",
+                    "록 스타",
+                    "Gwiazda rocka",
+                    "Estrela do Rock",
+                    "Рок-звезда",
+                    "ศิลปินร็อค",
+                    "摇滚巨星",
+                    "搖滾新星"
                 ],
-                "m_locId": 0
+                "m_locId": 2871799
             },
             "m_flavorText": {
                 "m_locValues": [
-                    "Here to write an E.V.I.L. anthem!",
-                    "Er soll Ü.B.E.L.s Schurkentaten besingen.",
-                    "¡Ha venido a componer un himno del MAL!",
-                    "¡Ha venido a escribir el himno del M.A.L.!",
-                    "Il va composer l’hymne de la Légion du M.A.L. !",
-                    "Incaricato di comporre l'inno del M.A.L.E.",
-                    "悪党同盟のテーマ曲を書きに来た！！",
-                    "아주 잔.악.무.도.한 노래를 만들려고 합니다!",
-                    "Chciałby napisać hymn Ligi Z.Ł.A!",
-                    "Veio para compor o hino da M.A.L.!",
-                    "Он пришел, чтобы воспеть ЗЛО!",
-                    "มาเพื่อแต่งเพลง\nเชิดชูความชั่ว!",
-                    "前来书写怪盗的诗篇！",
-                    "來幫邪惡陣線寫隊呼和會歌的！"
+                    "Crank the volume all the way up to eleven!",
+                    "Dreht die Lautstärke voll auf und lasst es krachen!",
+                    "¡Sube el ampli y roquea a todo trapo!",
+                    "¡Sube el volumen al máximo y mucho más!",
+                    "Montez le son et faites péter les basses !",
+                    "Alza il volume oltre il massimo!",
+                    "ボリュームを限界突破でブチ上げよう！",
+                    "볼륨을 최대로 끌어올리세요!",
+                    "Podkręć głośność poza skalę!",
+                    "Coloque o volume no máximo!",
+                    "Выставите громкость на максимум!",
+                    "เร่งเสียงให้ดังกระหึ่ม\nจนปรอทแตก!",
+                    "把音量开到十一档！",
+                    "音量全開，毫無保留！"
                 ],
-                "m_locId": 2709600
+                "m_locId": 2860340
             },
             "m_unlockEvent": 164
         },
@@ -9745,68 +9435,6 @@
             "m_unlockEvent": 164
         },
         {
-            "m_ID": 55,
-            "m_cardId": 48996,
-            "m_name": {
-                "m_locValues": [
-                    "Sephira Dusktalon",
-                    "Sephira Düsterkralle",
-                    "Sephira Garraoscura",
-                    "Sephira Garranocturna",
-                    "Sephira Serre-Obscure",
-                    "Sephira Vesprartiglio",
-                    "サフィラ・ダスクタロン",
-                    "세피라 더스크탈론",
-                    "Zefira, Pazur Mroku",
-                    "Sefira Garra Crepuscular",
-                    "Сефира Сумрачный Коготь",
-                    "เซฟิร่า ดัสก์ทาลอน",
-                    "瑟菲拉·暮爪",
-                    "賽菲拉‧暮爪"
-                ],
-                "m_locId": 2709592
-            },
-            "m_shortName": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_flavorText": {
-                "m_locValues": [
-                    "She's got claws that catch!",
-                    "Wehe, sie bekommt Euch in die Fänge!",
-                    "¡Sus garras te atrapan!",
-                    "¡Tiene zarpas que desgarran!",
-                    "Elle a des griffes qui happent !",
-                    "I suoi artigli sono affilati come... artigli.",
-                    "引き掴むあたしの鈎爪！！",
-                    "주문이 필요해? 나도 필요해!",
-                    "Ma łapy pazurzaste!",
-                    "Uma mulher de garra!",
-                    "Ее путь лежит в глущобу!",
-                    "เล็บของเธอขยุ้มรัด!",
-                    "她的爪子伸得特别长！",
-                    "她也有抓人的爪子！"
-                ],
-                "m_locId": 2709601
-            },
-            "m_unlockEvent": 164
-        },
-        {
             "m_ID": 62,
             "m_cardId": 56198,
             "m_name": {
@@ -9869,68 +9497,6 @@
             "m_unlockEvent": 164
         },
         {
-            "m_ID": 56,
-            "m_cardId": 48942,
-            "m_name": {
-                "m_locValues": [
-                    "Raeth Ghostsong",
-                    "Raeth Geistersang",
-                    "Raeth Cantofantasma",
-                    "Raeth Cantagórico",
-                    "Raeth Chantespectre",
-                    "Raeth Cantospettrale",
-                    "レアス・ゴーストソング",
-                    "라에스 고스트송",
-                    "Raet, Kantyk Duchów",
-                    "Raeth Canção Espectral",
-                    "Раэт Песнь Призраков",
-                    "เรธ โกสต์ซอง",
-                    "拉斯·灵歌",
-                    "瑞斯‧鬼曲"
-                ],
-                "m_locId": 2709593
-            },
-            "m_shortName": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_flavorText": {
-                "m_locValues": [
-                    "Just darn creepy!",
-                    "Einfach nur gruselig!",
-                    "¡Simplemente espeluznante!",
-                    "¡Es realmente espeluznante!",
-                    "Il fait vraiment peur à voir !",
-                    "A dir poco inquietante.",
-                    "キモォォォォォいッ説明不能！！",
-                    "그냥 소름끼칩니다!",
-                    "Prawdziwie upiorny koleżka!",
-                    "Dá arrepios!",
-                    "Просто жуть!",
-                    "น่าขนลุกเป็นบ้า!",
-                    "一首可怕的歌！",
-                    "恐怖喔～恐怖到了極點！"
-                ],
-                "m_locId": 2709602
-            },
-            "m_unlockEvent": 164
-        },
-        {
             "m_ID": 63,
             "m_cardId": 56199,
             "m_name": {
@@ -9989,68 +9555,6 @@
                     "你的套牌將由隨機的傳說卡牌組成，每張傳說牌各有4張"
                 ],
                 "m_locId": 2710421
-            },
-            "m_unlockEvent": 164
-        },
-        {
-            "m_ID": 57,
-            "m_cardId": 56193,
-            "m_name": {
-                "m_locValues": [
-                    "Tol Barad",
-                    "Tol Barad",
-                    "Tol Barad",
-                    "Tol Barad",
-                    "Tol Barad",
-                    "Tol Barad",
-                    "トル・バラド",
-                    "톨 바라드",
-                    "Tol Barad",
-                    "Tol Barad",
-                    "Тол Барад",
-                    "ทอลบาราด",
-                    "托尔巴拉德",
-                    "托巴拉德"
-                ],
-                "m_locId": 2710406
-            },
-            "m_shortName": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_flavorText": {
-                "m_locValues": [
-                    "Play a minion and get a random spell of the same cost, but for free!",
-                    "Spielt einen Diener aus und erhaltet einen zufälligen Zauber mit den gleichen Kosten, der aber kostenlos ist!",
-                    "Cuando juegas un esbirro, obtienes un hechizo aleatorio del mismo coste, ¡pero gratis!",
-                    "Juega un esbirro y obtendrás un hechizo aleatorio del mismo costo... ¡gratis!",
-                    "Jouez un serviteur et obtenez un sort aléatoire de même coût gratuitement !",
-                    "Gioca un servitore e otterrai una Magia casuale gratuita dello stesso costo!",
-                    "手札からミニオンを出すと、同コストのランダムな呪文がコスト（0）になって手に入る！",
-                    "하수인을 내면 같은 비용의 무작위 주문을 손으로 가져옵니다. 그 주문의 비용은 0이 되고요!",
-                    "Zagraj stronnika. Otrzymasz zaklęcie o tym samym koszcie, lecz będzie ono darmowe!",
-                    "Jogue um lacaio e receba um feitiço aleatório com o mesmo custo, mas de graça!",
-                    "Разыграйте существо и получите случайное заклинание за ту же ману, которое вы сможете разыграть бесплатно!",
-                    "เล่นมินเนี่ยนเพื่อรับ\nเวทมนตร์แบบสุ่มที่มี\nค่าร่ายเท่ามินเนี่ยนตัวนั้น แต่ลดค่าร่ายเหลือ (0)!",
-                    "召唤随从时会随机获得与之法力值消耗相同的法术，且法术的法力值消耗为\n（0）点！",
-                    "打出手下就能獲得同樣法力消耗的隨機法術，而且施放這些法術還無需消耗法力！"
-                ],
-                "m_locId": 2710415
             },
             "m_unlockEvent": 164
         },
@@ -10179,68 +9683,6 @@
             "m_unlockEvent": 164
         },
         {
-            "m_ID": 58,
-            "m_cardId": 56194,
-            "m_name": {
-                "m_locValues": [
-                    "Yellow-Brick",
-                    "Herz und Courage",
-                    "Baldosas amarillas",
-                    "Camino amarillo",
-                    "Briques jaunes",
-                    "Sentiero Dorato",
-                    "黄色い喧嘩の道",
-                    "노란 벽돌",
-                    "Żółta kostka",
-                    "Tijolo Amarelo",
-                    "Желтый кирпич",
-                    "ถนนอิฐสีเหลือง",
-                    "绿野大作战",
-                    "綠野牌蹤"
-                ],
-                "m_locId": 2710407
-            },
-            "m_shortName": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_flavorText": {
-                "m_locValues": [
-                    "Start the game with Dorothee! She grants Charge on her left and Taunt on her right.",
-                    "Ihr beginnt das Spiel mit Dorothee! Sie verleiht Dienern zu ihrer Linken Ansturm und Dienern zu ihrer Rechten Spott.",
-                    "¡Comienza el juego con Dorothee! Otorga Cargar a su izquierda y Provocar a su derecha.",
-                    "¡Empiezas la partida con Dorothee! Otorga Carga a la izquierda y Provocación a la derecha.",
-                    "Vous commencez la partie avec Dorothée ! Elle confère Charge à sa gauche et Provocation à sa droite.",
-                    "Inizi la partita con Dorothee, che fornisce Carica ai servitori alla sua sinistra e Provocazione a quelli alla sua destra.",
-                    "「ドロジー」がいる状態で対戦開始！彼女の左のミニオンには突撃が、右のミニオンには挑発が付与されるんだ。",
-                    "도로시를 소환하고 게임을 시작합니다! 왼쪽에 있는 하수인에게는 돌진을, 오른쪽에 있는 하수인에게는 도발을 부여합니다.",
-                    "Rozpocznij grę z Dorotką, która zapewnia Szarżę stronnikom po lewej stronie oraz Prowokację po prawej.",
-                    "Comece o jogo com Doroteia! Ela concede Investida à esquerda e Provocar à direita.",
-                    "Вы начинаете матч с Дороти, которая дает «Рывок» существам слева от себя и «Провокацию» — существам справа от себя.",
-                    "เริ่มเกมพร้อมโดโรธี! มินเนี่ยนด้านซ้ายมือของเธอมีบุกทะลวง ส่วนมินเนี่ยนด้านขวามือของเธอมียั่วยุ",
-                    "和多萝茜并肩战斗！在她左边的随从会获得冲锋，而右边的随从则获得嘲讽。",
-                    "用桃樂絲開始賽局！她會賦予左邊的手下衝鋒，右邊的手下嘲諷"
-                ],
-                "m_locId": 2710416
-            },
-            "m_unlockEvent": 164
-        },
-        {
             "m_ID": 67,
             "m_cardId": 57252,
             "m_name": {
@@ -10303,26 +9745,26 @@
             "m_unlockEvent": 164
         },
         {
-            "m_ID": 59,
-            "m_cardId": 56195,
+            "m_ID": 50,
+            "m_cardId": 55904,
             "m_name": {
                 "m_locValues": [
-                    "Catacombs",
-                    "Katakomben",
-                    "Catacumbas",
-                    "Catacumbas",
-                    "Catacombes",
-                    "Catacombe",
-                    "迷宮",
-                    "지하 미궁",
-                    "Katakumby",
-                    "Catacumbas",
-                    "Катакомбы",
-                    "สุสานใต้ดิน",
-                    "地下宝藏",
-                    "地下城"
+                    "Myra Rotspring",
+                    "Myra Modertrank",
+                    "Myra Putregás",
+                    "Myra Poza Podrida",
+                    "Myra Sourcepus",
+                    "Myra Fontemarcia",
+                    "マイラ・ロットスプリング",
+                    "마이라 로트스프링",
+                    "Gnijąca Mira",
+                    "Myra Molapodre",
+                    "Мира Гниллинг",
+                    "ไมร่า ร็อตสปริง",
+                    "迈拉·腐泉",
+                    "麥菈‧腐泉"
                 ],
-                "m_locId": 2710408
+                "m_locId": 2709587
             },
             "m_shortName": {
                 "m_locValues": [
@@ -10345,22 +9787,22 @@
             },
             "m_flavorText": {
                 "m_locValues": [
-                    "Play minions to complete your quest and get an awesome treasure!",
-                    "Spielt Diener aus, um Eure Quest abzuschließen und einen wertvollen Schatz zu erhalten!",
-                    "¡Juega esbirros para completar tu misión y consigue un tesoro alucinante!",
-                    "¡Juega esbirros para completar tu misión y recibe un tesoro increíble!",
-                    "Jouez des serviteurs pour terminer votre quête et obtenir un fabuleux trésor !",
-                    "Gioca servitori per completare la tua Missione e ottenere un fantastico Tesoro!",
-                    "手札からミニオンを出してクエストを完遂し、すごいお宝を手に入れよう！",
-                    "하수인을 내서 퀘스트를 완료하고 멋진 보물을 받으세요!",
-                    "Zagrywaj stronników, aby wykonać zadanie i zdobyć wspaniały skarb!",
-                    "Jogue lacaios para concluir sua missão e receber um tesouro fantástico!",
-                    "Разыгрывайте существ, чтобы выполнить задачу и получить фантастическое сокровище!",
-                    "เล่นมินเนี่ยนเพื่อทำ\nเควสต์ของคุณให้สำเร็จ\nและรับสมบัติสุดเจ๋ง!",
-                    "使用随从牌来完成你的任务，获得惊人的宝藏！",
-                    "打出手下以完成任務，獲得驚人的寶藏！"
+                    "Scientifically proven to be deadly.",
+                    "Die Wissenschaft ist sich einig: Sie ist absolut tödlich.",
+                    "Su letalidad ha sido probada científicamente.",
+                    "Su letalidad está comprobada científicamente.",
+                    "Mortelle, c’est scientifiquement prouvé.",
+                    "Letale. È scientificamente provato.",
+                    "科学的に証明済みの危険度！！",
+                    "과학적으로 아주 치명적입니다.",
+                    "Naukowo udowodniono, że jest dosłownie zabójcza.",
+                    "Comprovadamente letal (por pesquisas científicas).",
+                    "Ее опыты смертоносны.",
+                    "วิทยาศาสตร์พิสูจน์แล้ว\nว่าอันตรายถึงตาย",
+                    "经科学认证的死亡之友。",
+                    "經科學證明十分致命"
                 ],
-                "m_locId": 2710417
+                "m_locId": 2709596
             },
             "m_unlockEvent": 164
         },
@@ -10427,6 +9869,68 @@
             "m_unlockEvent": 164
         },
         {
+            "m_ID": 51,
+            "m_cardId": 55866,
+            "m_name": {
+                "m_locValues": [
+                    "George the Fallen",
+                    "Gustav der Gefallene",
+                    "George el Caído",
+                    "George el Caído",
+                    "George le Déchu",
+                    "Paolo il Caduto",
+                    "地獄のジョージ",
+                    "타락한 조지",
+                    "Zbychu Upadły",
+                    "Jorge, o Degredado",
+                    "Джордж Падший",
+                    "จอร์จผู้หลงผิด",
+                    "堕落的乔治",
+                    "墮落的喬治"
+                ],
+                "m_locId": 2709588
+            },
+            "m_shortName": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_flavorText": {
+                "m_locValues": [
+                    "Lost without Karl.",
+                    "Ohne Karl ist er nicht mehr derselbe.",
+                    "Está completamente perdido sin Karl.",
+                    "Sin Karl, ha perdido el rumbo.",
+                    "Perdu sans Karl.",
+                    "Non è più lo stesso senza Dino.",
+                    "道に迷ってここまで来たッ！カールはどこへ消えた？",
+                    "길을 잃었습니다. 칼 없이.",
+                    "Całkowicie zagubiony bez Rycha.",
+                    "Perdido sem Carlos.",
+                    "Страдает без Карла.",
+                    "ไร้จุดหมายเมื่อไม่มีคาร์ล",
+                    "迷失在没有卡尔的世界。",
+                    "失去了卡爾，失去了方向"
+                ],
+                "m_locId": 2709597
+            },
+            "m_unlockEvent": 164
+        },
+        {
             "m_ID": 69,
             "m_cardId": 57256,
             "m_name": {
@@ -10489,26 +9993,26 @@
             "m_unlockEvent": 164
         },
         {
-            "m_ID": 84,
-            "m_cardId": 57583,
+            "m_ID": 52,
+            "m_cardId": 48182,
             "m_name": {
                 "m_locValues": [
-                    "Hunter / Warrior",
-                    "Jäger / Krieger",
-                    "Cazador / Guerrero",
-                    "Cazador/Guerrero",
-                    "Chasseur / Guerrier",
-                    "Cacciatore/Guerriero",
-                    "ハンター / ウォリアー",
-                    "사냥꾼 / 전사",
-                    "Łowca/wojownik",
-                    "Caçador / Guerreiro",
-                    "Охотник_/ воин",
-                    "ฮันเตอร์ / วอริเออร์",
-                    "猎人/战士",
-                    "獵人 / 戰士"
+                    "Manhunter Ivan",
+                    "Kopfgeldjäger Ivan",
+                    "Cazarrecompensas Ivan",
+                    "Iván, el Cazador",
+                    "Ivan le Piège-proies",
+                    "Ivan il Cacciatore",
+                    "人狩りアイヴァン",
+                    "인간사냥꾼 아이반",
+                    "Krwawy Iwan",
+                    "Caçador de Homens Ivan",
+                    "Ловец Айван",
+                    "แมนฮันเตอร์ ไอวาน",
+                    "捕猎者伊凡",
+                    "追捕者艾凡"
                 ],
-                "m_locId": 2714066
+                "m_locId": 2709589
             },
             "m_shortName": {
                 "m_locValues": [
@@ -10531,46 +10035,46 @@
             },
             "m_flavorText": {
                 "m_locValues": [
-                    "A fearless hunter of relics and lover of dinosaurs.",
-                    "Ein furchtloser Reliktjäger und begeisterter Dinozähmer.",
-                    "Un temerario cazador de reliquias y amante de los dinosaurios.",
-                    "Un temerario buscador de reliquias amante de los dinosaurios.",
-                    "Un chasseur de reliques intrépide et fasciné par les dinosaures.",
-                    "Un temerario cacciatore di reliquie, amante dei dinosauri.",
-                    "恐れ知らずの遺跡ハンター、そして恐竜愛好家。",
-                    "공룡을 좋아하는 용감한 유물 수집가입니다.",
-                    "Nieustraszony łowca reliktów i wielbiciel dinozaurów.",
-                    "Um caçador de relíquias corajoso que adora dinossauros.",
-                    "Бесстрашный охотник за артефактами и динозавровед.",
-                    "นักล่าสมบัติผู้ไม่กลัวสิ่งใด\nและคลั่งไคล้ไดโนเสาร์",
-                    "无畏的宝藏猎人，恐龙的大众情人。",
-                    "無畏無懼的古物獵人，而且熱愛恐龍"
+                    "Hunting without a permit!",
+                    "Ob er wohl einen Jagdschein hat?",
+                    "¡Caza sin licencia!",
+                    "No tiene licencia para cazar.",
+                    "Il chasse sans permis !",
+                    "La sua licenza di\ncaccia è scaduta\ndecine di anni fa.",
+                    "狩猟許可なんぞ知ったことか！！",
+                    "불법 사냥 중!",
+                    "Poluje bez pozwolenia!",
+                    "Caçando sem licença!",
+                    "Сезон охоты открыт!",
+                    "ล่าโดยไม่มีใบอนุญาต!",
+                    "其实是偷猎者！",
+                    "無照狩獵！"
                 ],
-                "m_locId": 2714070
+                "m_locId": 2709598
             },
             "m_unlockEvent": 164
         },
         {
-            "m_ID": 85,
-            "m_cardId": 56768,
+            "m_ID": 53,
+            "m_cardId": 47001,
             "m_name": {
                 "m_locValues": [
-                    "Elise",
-                    "Elise",
-                    "Elise",
-                    "Elisa",
-                    "Élise",
-                    "Elise",
-                    "エリーズ",
-                    "엘리스",
-                    "Eliza",
-                    "Elise",
-                    "Элиза",
-                    "เอลีส",
-                    "伊莉斯",
-                    "伊莉絲"
+                    "Voodoomaster Vex",
+                    "Voodoomeister Vex",
+                    "Vudumántico Vex",
+                    "Gurú del vudú Vex",
+                    "Maître-vaudou Oxir",
+                    "Mastro Vudù Vex",
+                    "ヴードゥー師ヴェックス",
+                    "부두장인 벡스",
+                    "Wex Nadznachor",
+                    "Mestre de Vodu Vex",
+                    "Мастер вуду Згрыз",
+                    "วูดูมาสเตอร์ เว็กซ์",
+                    "巫毒大师维克斯",
+                    "巫毒大師維克斯"
                 ],
-                "m_locId": 2714440
+                "m_locId": 2709590
             },
             "m_shortName": {
                 "m_locValues": [
@@ -10593,22 +10097,22 @@
             },
             "m_flavorText": {
                 "m_locValues": [
-                    "Part Druid, Part Priest, All Explorer!",
-                    "Halb Druidin, halb Priesterin – voll und ganz Entdeckerin!",
-                    "¡Parte druida, parte sacerdotisa y 100% expedicionaria!",
-                    "Mitad druida, mitad sacerdotisa, ¡100% expedicionaria!",
-                    "Mi-Druidesse, mi-prêtresse, 100% exploratrice !",
-                    "50% Druida, 50% Sacerdotessa e 100% esploratrice!",
-                    "半分はドルイド、半分はプリースト、全部が探検家！",
-                    "반은 드루이드, 반은 사제인 노련한 탐험가죠!",
-                    "W połowie druidka, w połowie kapłanka, ale przede wszystkim odkrywczyni!",
-                    "Parte druidesa, parte sacerdotisa... exploradora completa!",
-                    "Наполовину друид, наполовину жрица, на сто процентов исследовательница!",
-                    "ครึ่งดรูอิด ครึ่งพรีสต์ แต่เลือดนักสำรวจเต็มร้อย!",
-                    "一半是德鲁伊，一半是牧师的全职\n探险家！",
-                    "是德魯伊，也是牧師，更是探險者！"
+                    "Who do? You do! Do what? Remind me of Vex.",
+                    "Halb Troll, halb Kobold. Voll und ganz Voodoo.",
+                    "Ya verás cuando empiecen a derretirse todas esas velas...",
+                    "Ahora lo Vex, ahora no lo Vex.",
+                    "Occire ? Occire ! Oxir est là !",
+                    "Non fa altro che vexxare gli altri.",
+                    "ここが天下一ヴドゥ祭の会場ばー？",
+                    "너도 나도 부두에 몰두!",
+                    "Voodoo takie, że nie ma to tamto!",
+                    "Jacu? Não, não... Vodu é com o Mestre Vex.",
+                    "Не проклянет, так загрызет.",
+                    "วูมั้ยดู วูมั้ยดู วูดูไม่เสียตังค์",
+                    "你！你得提醒我，我是维克斯。",
+                    "戰吼的力量！死亡的力量！巫毒的力量！"
                 ],
-                "m_locId": 2714441
+                "m_locId": 2709599
             },
             "m_unlockEvent": 164
         },
@@ -10675,26 +10179,26 @@
             "m_unlockEvent": 164
         },
         {
-            "m_ID": 86,
-            "m_cardId": 59385,
+            "m_ID": 54,
+            "m_cardId": 47365,
             "m_name": {
                 "m_locValues": [
-                    "Reno Jackson",
-                    "Reno Jackson",
-                    "Reno Jackson",
-                    "Reno Jackson",
-                    "Reno Jackson",
-                    "Reno Jackson",
-                    "レノ・ジャクソン",
-                    "리노 잭슨",
-                    "Reno Jackson",
-                    "Reno Jackson",
-                    "Рено Джексон",
-                    "รีโน่ แจ็คสัน",
-                    "雷诺·杰克逊",
-                    "里諾‧傑克森"
+                    "Russell the Bard",
+                    "Russell der Barde",
+                    "Russell el Bardo",
+                    "Russell, el bardo",
+                    "Russell le barde",
+                    "Russell il Bardo",
+                    "吟遊詩人ラッセル",
+                    "음유시인 러셀",
+                    "Bard Jaskierniak",
+                    "Russell, o Bardo",
+                    "Бард Рассел",
+                    "นักกวีรัสเซล",
+                    "游吟诗人拉赛尔",
+                    "吟遊詩人羅賽爾"
                 ],
-                "m_locId": 2717788
+                "m_locId": 2709591
             },
             "m_shortName": {
                 "m_locValues": [
@@ -10717,84 +10221,22 @@
             },
             "m_flavorText": {
                 "m_locValues": [
-                    "The hardest part of his journey is getting started. Then the middle part. And also, the end.",
-                    "Der Anfang ist der schwerste Teil der Reise. Und dann der Mittelteil. Und nicht zu vergessen das Ende.",
-                    "La parte más dura de su viaje es el principio. Bueno, y la mitad. Y también el final.",
-                    "La parte más difícil de su travesía es la del comienzo. Luego la del medio. Y también el final.",
-                    "Le plus difficile dans une aventure, c’est de se lancer. Puis de continuer. Et de la terminer.",
-                    "Un esploratore coi baffi. Solo letteralmente.",
-                    "彼の冒険で一番困難なところは、始まりの部分だ。そして中盤。それと、終盤もだ。",
-                    "리노의 여정은 처음이 가장 힘듭니다. 그리고 중간도요. 그리고 끝도요.",
-                    "Najtrudniejsza część jego wędrówki to początek. I środek. Zakończenie w sumie też.",
-                    "A parte mais difícil da jornada para ele é o início. Depois o meio. Mas também o fim.",
-                    "Для него начало — самая сложная часть путешествия. Как и середина. И конец.",
-                    "ช่วงที่ลำบากที่สุดของ\nการเดินทางคือช่วงเริ่มต้น ช่วงกลางทาง ไปจนถึงปลายทางเลย",
-                    "旅途万事开头难。中间也难。结尾也难。",
-                    "對他來說，旅途的起步總是最難。除此之外中間部分也一樣難。最後還有收尾也最難。"
+                    "Here to write an E.V.I.L. anthem!",
+                    "Er soll Ü.B.E.L.s Schurkentaten besingen.",
+                    "¡Ha venido a componer un himno del MAL!",
+                    "¡Ha venido a escribir el himno del M.A.L.!",
+                    "Il va composer l’hymne de la Légion du M.A.L. !",
+                    "Incaricato di comporre l'inno del M.A.L.E.",
+                    "悪党同盟のテーマ曲を書きに来た！！",
+                    "아주 잔.악.무.도.한 노래를 만들려고 합니다!",
+                    "Chciałby napisać hymn Ligi Z.Ł.A!",
+                    "Veio para compor o hino da M.A.L.!",
+                    "Он пришел, чтобы воспеть ЗЛО!",
+                    "มาเพื่อแต่งเพลง\nเชิดชูความชั่ว!",
+                    "前来书写怪盗的诗篇！",
+                    "來幫邪惡陣線寫隊呼和會歌的！"
                 ],
-                "m_locId": 2717789
-            },
-            "m_unlockEvent": 164
-        },
-        {
-            "m_ID": 88,
-            "m_cardId": 59386,
-            "m_name": {
-                "m_locValues": [
-                    "Sir Finley",
-                    "Sir Finley",
-                    "Sir Finley",
-                    "Sir Aletardo",
-                    "Sir Finley",
-                    "Ser Pinnus",
-                    "サー・フィンレー",
-                    "핀리 경",
-                    "Sir Płetwin",
-                    "Dom Finlei",
-                    "Сэр Финли",
-                    "เซอร์ฟินลีย์",
-                    "芬利爵士",
-                    "芬利爵士"
-                ],
-                "m_locId": 2717792
-            },
-            "m_shortName": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_flavorText": {
-                "m_locValues": [
-                    "He'll go wherever adventure takes him! But kindly provide good directions.",
-                    "Er geht, wohin ihn das Abenteuer auch führen mag! Solange die Wegbeschreibung stimmt.",
-                    "¡Irá adondequiera que le lleve la aventura! Pero indícale bien el camino.",
-                    "¡Irá hacia donde sea que lo lleve la aventura! Pero sean amables y explíquenle el camino.",
-                    "Il ira où ses branchies le portent. Mais il s’en sortirait mieux avec un plan… ou une carte.",
-                    "Va ovunque lo conducano le avventure! Ma se vuoi dargli dei consigli sulla direzione da prendere, non li rifiuta.",
-                    "そこに冒険があれば、彼はどこにでも行く！ただし、丁寧な道案内があれば。",
-                    "모험이 있는 곳이라면 어디든 갑니다! 방향도 친절히 알려주면서요.",
-                    "Pójdzie tam, gdzie wezwie go przygoda! Ale najpierw uprzejmie prosi o dokładną mapę.",
-                    "Ele vai aonde a aventura levar! Mas, por favor, explique como chegar lá.",
-                    "Он бесстрашно идет дорогой приключений! Только иногда сбивается с пути.",
-                    "การผจญภัยอยู่ที่ไหน เขาจะไปที่นั่น! แต่บอกทางให้เขาดีๆ ล่ะ",
-                    "他会紧紧跟随探险之路的方向！不过请千万指一条好路。",
-                    "他樂意勇闖任何從未踏足的冒險領域！但請先提供詳細的交通資訊。"
-                ],
-                "m_locId": 2717793
+                "m_locId": 2709600
             },
             "m_unlockEvent": 164
         },
@@ -10861,26 +10303,26 @@
             "m_unlockEvent": 164
         },
         {
-            "m_ID": 89,
-            "m_cardId": 59387,
+            "m_ID": 55,
+            "m_cardId": 48996,
             "m_name": {
                 "m_locValues": [
-                    "Elise Starseeker",
-                    "Elise Sternensucher",
-                    "Elise Buscaestelar",
-                    "Elisa Buscaestelar",
-                    "Élise Cherchétoile",
-                    "Elise Cercastelle",
-                    "エリーズ・スターシーカー",
-                    "엘리스 스타시커",
-                    "Eliza Astrowidząca",
-                    "Elise Mirestela",
-                    "Элиза Звездочет",
-                    "เอลีส สตาร์ซีคเกอร์",
-                    "伊莉斯·逐星",
-                    "伊莉絲‧尋星者"
+                    "Sephira Dusktalon",
+                    "Sephira Düsterkralle",
+                    "Sephira Garraoscura",
+                    "Sephira Garranocturna",
+                    "Sephira Serre-Obscure",
+                    "Sephira Vesprartiglio",
+                    "サフィラ・ダスクタロン",
+                    "세피라 더스크탈론",
+                    "Zefira, Pazur Mroku",
+                    "Sefira Garra Crepuscular",
+                    "Сефира Сумрачный Коготь",
+                    "เซฟิร่า ดัสก์ทาลอน",
+                    "瑟菲拉·暮爪",
+                    "賽菲拉‧暮爪"
                 ],
-                "m_locId": 2717794
+                "m_locId": 2709592
             },
             "m_shortName": {
                 "m_locValues": [
@@ -10903,22 +10345,22 @@
             },
             "m_flavorText": {
                 "m_locValues": [
-                    "Reno's never gotten into a scrape that she couldn't get him out of. Except that one time…",
-                    "Es gab noch kein Schlamassel, aus dem sie Reno nicht retten konnte. Das eine Mal zählt nicht.",
-                    "Da igual el problema en el que se meta Reno, Elise siempre es capaz de sacarlo de él. Excepto aquella vez...",
-                    "Reno nunca se metió en un lío del cual ella no lo haya sacado. Salvo esa vez...",
-                    "Elle a toujours réussi à sortir Reno de ses ennuis, quels qu’ils soient. Excepté une fois…",
-                    "Dal prossimo anno terrà un corso all'università su come salvare altri esploratori da morte certa.",
-                    "レノがどんな窮地に陥っても、彼女は救い出して来た。あの一回を除いては…",
-                    "리노가 일으킨 문제는 엘리스가 웬만해선 해결했습니다. 단 한 번만 빼고요...",
-                    "Reno nigdy nie wpakował się w kłopoty, z których nie byłaby w stanie go wyciągnąć. Poza tym jednym razem...",
-                    "Reno nunca entrou numa furada de que não conseguisse sair. Tirando aquela vez...",
-                    "Она всегда вытаскивала Рено из разных переделок. Почти всегда...",
-                    "ไม่ว่ารีโน่จะต้องเผชิญกับอะไร เธอก็ช่วยเขาออกมาได้เสมอ ยกเว้นครั้งนั้นไว้ครั้งนึง...",
-                    "每当雷诺陷入困境，她总能捞他一手。除了那次……",
-                    "里諾搞砸的事情，她每次都能幫忙妥善解決。就除了那一次以外…"
+                    "She's got claws that catch!",
+                    "Wehe, sie bekommt Euch in die Fänge!",
+                    "¡Sus garras te atrapan!",
+                    "¡Tiene zarpas que desgarran!",
+                    "Elle a des griffes qui happent !",
+                    "I suoi artigli sono affilati come... artigli.",
+                    "引き掴むあたしの鈎爪！！",
+                    "주문이 필요해? 나도 필요해!",
+                    "Ma łapy pazurzaste!",
+                    "Uma mulher de garra!",
+                    "Ее путь лежит в глущобу!",
+                    "เล็บของเธอขยุ้มรัด!",
+                    "她的爪子伸得特别长！",
+                    "她也有抓人的爪子！"
                 ],
-                "m_locId": 2717795
+                "m_locId": 2709601
             },
             "m_unlockEvent": 164
         },
@@ -10985,6 +10427,68 @@
             "m_unlockEvent": 164
         },
         {
+            "m_ID": 56,
+            "m_cardId": 48942,
+            "m_name": {
+                "m_locValues": [
+                    "Raeth Ghostsong",
+                    "Raeth Geistersang",
+                    "Raeth Cantofantasma",
+                    "Raeth Cantagórico",
+                    "Raeth Chantespectre",
+                    "Raeth Cantospettrale",
+                    "レアス・ゴーストソング",
+                    "라에스 고스트송",
+                    "Raet, Kantyk Duchów",
+                    "Raeth Canção Espectral",
+                    "Раэт Песнь Призраков",
+                    "เรธ โกสต์ซอง",
+                    "拉斯·灵歌",
+                    "瑞斯‧鬼曲"
+                ],
+                "m_locId": 2709593
+            },
+            "m_shortName": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_flavorText": {
+                "m_locValues": [
+                    "Just darn creepy!",
+                    "Einfach nur gruselig!",
+                    "¡Simplemente espeluznante!",
+                    "¡Es realmente espeluznante!",
+                    "Il fait vraiment peur à voir !",
+                    "A dir poco inquietante.",
+                    "キモォォォォォいッ説明不能！！",
+                    "그냥 소름끼칩니다!",
+                    "Prawdziwie upiorny koleżka!",
+                    "Dá arrepios!",
+                    "Просто жуть!",
+                    "น่าขนลุกเป็นบ้า!",
+                    "一首可怕的歌！",
+                    "恐怖喔～恐怖到了極點！"
+                ],
+                "m_locId": 2709602
+            },
+            "m_unlockEvent": 164
+        },
+        {
             "m_ID": 73,
             "m_cardId": 57635,
             "m_name": {
@@ -11047,26 +10551,26 @@
             "m_unlockEvent": 164
         },
         {
-            "m_ID": 90,
-            "m_cardId": 59388,
+            "m_ID": 57,
+            "m_cardId": 56193,
             "m_name": {
                 "m_locValues": [
-                    "Brann Bronzebeard",
-                    "Brann Bronzebart",
-                    "Brann Barbabronce",
-                    "Brann Barbabronce",
-                    "Brann Barbe-de-Bronze",
-                    "Brann Barbabronzea",
-                    "ブラン・ブロンズビアード",
-                    "브란 브론즈비어드",
-                    "Brann Miedziobrody",
-                    "Brann Barbabronze",
-                    "Бранн Бронзобород",
-                    "แบรนน์ บรอนซ์เบียร์ด",
-                    "布莱恩·铜须",
-                    "布萊恩‧銅鬚"
+                    "Tol Barad",
+                    "Tol Barad",
+                    "Tol Barad",
+                    "Tol Barad",
+                    "Tol Barad",
+                    "Tol Barad",
+                    "トル・バラド",
+                    "톨 바라드",
+                    "Tol Barad",
+                    "Tol Barad",
+                    "Тол Барад",
+                    "ทอลบาราด",
+                    "托尔巴拉德",
+                    "托巴拉德"
                 ],
-                "m_locId": 2717798
+                "m_locId": 2710406
             },
             "m_shortName": {
                 "m_locValues": [
@@ -11089,46 +10593,46 @@
             },
             "m_flavorText": {
                 "m_locValues": [
-                    "His bags are packed, and he's ready to explore the frozen north! No coat needed.",
-                    "Die Taschen sind gepackt und er ist bereit, den eisigen Norden zu erforschen! Mantel optional.",
-                    "¡Lleva las bolsas llenas y está listo para explorar el gélido norte! Ni siquiera necesita un abrigo.",
-                    "Su equipaje está listo, ¡y está preparado para explorar el helado norte! No necesita abrigo.",
-                    "Ses sacs sont faits et il est prêt pour l’exploration des terres gelées du Nord. Même pas besoin de manteau !",
-                    "Ha preparato tutto per esplorare il gelido nord! Compreso un cappotto per la barba.",
-                    "荷造りは完了、北方の凍土の探検準備よしだ！寒いのには慣れてるぞ！",
-                    "만반의 준비를 갖추고 얼어붙은 북부를 탐험하길 기다리고 있습니다. 코트 정도는 없어도 괜찮다는군요.",
-                    "Wszystko spakowane, czas wyruszyć na mroźną północ! Na co komu kurtka?",
-                    "Ele já arrumou as bolsas e está pronto para explorar o norte gelado! Sem casaco.",
-                    "Сумки в сборе — можно отправляться исследовать север! Даже без шубы.",
-                    "กายพร้อม กระเป๋าพร้อม บุกแดนเหนือหนาวเหน็บได้! ไม่ต้องใช้เสื้อคลุมด้วยซ้ำ",
-                    "他装妥了背包，做好准备去探索冰冷的北方！并不需要加衣服。",
-                    "他打包完行李，準備好探索冰封北方大陸了！至於外套就不用了。"
+                    "Play a minion and get a random spell of the same cost, but for free!",
+                    "Spielt einen Diener aus und erhaltet einen zufälligen Zauber mit den gleichen Kosten, der aber kostenlos ist!",
+                    "Cuando juegas un esbirro, obtienes un hechizo aleatorio del mismo coste, ¡pero gratis!",
+                    "Juega un esbirro y obtendrás un hechizo aleatorio del mismo costo... ¡gratis!",
+                    "Jouez un serviteur et obtenez un sort aléatoire de même coût gratuitement !",
+                    "Gioca un servitore e otterrai una Magia casuale gratuita dello stesso costo!",
+                    "手札からミニオンを出すと、同コストのランダムな呪文がコスト（0）になって手に入る！",
+                    "하수인을 내면 같은 비용의 무작위 주문을 손으로 가져옵니다. 그 주문의 비용은 0이 되고요!",
+                    "Zagraj stronnika. Otrzymasz zaklęcie o tym samym koszcie, lecz będzie ono darmowe!",
+                    "Jogue um lacaio e receba um feitiço aleatório com o mesmo custo, mas de graça!",
+                    "Разыграйте существо и получите случайное заклинание за ту же ману, которое вы сможете разыграть бесплатно!",
+                    "เล่นมินเนี่ยนเพื่อรับ\nเวทมนตร์แบบสุ่มที่มี\nค่าร่ายเท่ามินเนี่ยนตัวนั้น แต่ลดค่าร่ายเหลือ (0)!",
+                    "召唤随从时会随机获得与之法力值消耗相同的法术，且法术的法力值消耗为\n（0）点！",
+                    "打出手下就能獲得同樣法力消耗的隨機法術，而且施放這些法術還無需消耗法力！"
                 ],
-                "m_locId": 2717799
+                "m_locId": 2710415
             },
             "m_unlockEvent": 164
         },
         {
-            "m_ID": 91,
-            "m_cardId": 59533,
+            "m_ID": 58,
+            "m_cardId": 56194,
             "m_name": {
                 "m_locValues": [
-                    "Dr. Boom",
-                    "Dr. Bumm",
-                    "Dr. Bum",
-                    "Dr. Bum",
-                    "Dr Boum",
-                    "Dott. Boom",
-                    "ドクター・ブーム",
-                    "박사 붐",
-                    "Doktor Huk",
-                    "Dr. Cabum",
-                    "Доктор Бум",
-                    "ด็อกเตอร์บูม",
-                    "砰砰博士",
-                    "爆爆博士"
+                    "Yellow-Brick",
+                    "Herz und Courage",
+                    "Baldosas amarillas",
+                    "Camino amarillo",
+                    "Briques jaunes",
+                    "Sentiero Dorato",
+                    "黄色い喧嘩の道",
+                    "노란 벽돌",
+                    "Żółta kostka",
+                    "Tijolo Amarelo",
+                    "Желтый кирпич",
+                    "ถนนอิฐสีเหลือง",
+                    "绿野大作战",
+                    "綠野牌蹤"
                 ],
-                "m_locId": 2718225
+                "m_locId": 2710407
             },
             "m_shortName": {
                 "m_locValues": [
@@ -11151,46 +10655,46 @@
             },
             "m_flavorText": {
                 "m_locValues": [
-                    "More like Boom in the tomb, am I right?",
-                    "Jagen wir die Gruft in die Luft!",
-                    "Será «Bum en la tumba», ¿no?",
-                    "Lo correcto sería \"Explosión en la tumba\", ¿verdad?",
-                    "Un savant passionné d’explosifs et de ruines antiques… Qu’est-ce qui pourrait mal tourner ?",
-                    "Senza qualche esplosione, le tombe sarebbero un mortorio, o sbaglio?",
-                    "墓所を訪れたドクターが一言「霊だぁ？」…ブゥーム霊だー…",
-                    "울둠에도 폭탄이 필요한 일이 분명 있을 겁니다.",
-                    "Huknięcie w grobowcu nigdy nie wróży nic dobrego.",
-                    "Tá mais pra Cabum na tumba, né não?",
-                    "Вы хотели сказать — страх и БАБАХ?!",
-                    "ทำไมไม่เป็นตูมตาม\nในสุสานล่ะ",
-                    "炸弹和古墓更配哦，不是吗？",
-                    "我覺得改叫「奧丹姆驚爆」比較好，你說對吧？"
+                    "Start the game with Dorothee! She grants Charge on her left and Taunt on her right.",
+                    "Ihr beginnt das Spiel mit Dorothee! Sie verleiht Dienern zu ihrer Linken Ansturm und Dienern zu ihrer Rechten Spott.",
+                    "¡Comienza el juego con Dorothee! Otorga Cargar a su izquierda y Provocar a su derecha.",
+                    "¡Empiezas la partida con Dorothee! Otorga Carga a la izquierda y Provocación a la derecha.",
+                    "Vous commencez la partie avec Dorothée ! Elle confère Charge à sa gauche et Provocation à sa droite.",
+                    "Inizi la partita con Dorothee, che fornisce Carica ai servitori alla sua sinistra e Provocazione a quelli alla sua destra.",
+                    "「ドロジー」がいる状態で対戦開始！彼女の左のミニオンには突撃が、右のミニオンには挑発が付与されるんだ。",
+                    "도로시를 소환하고 게임을 시작합니다! 왼쪽에 있는 하수인에게는 돌진을, 오른쪽에 있는 하수인에게는 도발을 부여합니다.",
+                    "Rozpocznij grę z Dorotką, która zapewnia Szarżę stronnikom po lewej stronie oraz Prowokację po prawej.",
+                    "Comece o jogo com Doroteia! Ela concede Investida à esquerda e Provocar à direita.",
+                    "Вы начинаете матч с Дороти, которая дает «Рывок» существам слева от себя и «Провокацию» — существам справа от себя.",
+                    "เริ่มเกมพร้อมโดโรธี! มินเนี่ยนด้านซ้ายมือของเธอมีบุกทะลวง ส่วนมินเนี่ยนด้านขวามือของเธอมียั่วยุ",
+                    "和多萝茜并肩战斗！在她左边的随从会获得冲锋，而右边的随从则获得嘲讽。",
+                    "用桃樂絲開始賽局！她會賦予左邊的手下衝鋒，右邊的手下嘲諷"
                 ],
-                "m_locId": 2718226
+                "m_locId": 2710416
             },
             "m_unlockEvent": 164
         },
         {
-            "m_ID": 92,
-            "m_cardId": 59536,
+            "m_ID": 59,
+            "m_cardId": 56195,
             "m_name": {
                 "m_locValues": [
-                    "Lazul",
-                    "Lazul",
-                    "Lazul",
-                    "Lazul",
-                    "Lazul",
-                    "Lazul",
-                    "ラズール",
-                    "라줄",
-                    "Lazul",
-                    "Lazul",
-                    "Лазул",
-                    "ลาซูล",
-                    "拉祖尔",
-                    "拉祖爾"
+                    "Catacombs",
+                    "Katakomben",
+                    "Catacumbas",
+                    "Catacumbas",
+                    "Catacombes",
+                    "Catacombe",
+                    "迷宮",
+                    "지하 미궁",
+                    "Katakumby",
+                    "Catacumbas",
+                    "Катакомбы",
+                    "สุสานใต้ดิน",
+                    "地下宝藏",
+                    "地下城"
                 ],
-                "m_locId": 2718227
+                "m_locId": 2710408
             },
             "m_shortName": {
                 "m_locValues": [
@@ -11213,46 +10717,46 @@
             },
             "m_flavorText": {
                 "m_locValues": [
-                    "Enthusiast of ancient deities speaking softly.",
-                    "Liebt uralte Gottheiten und Geflüster.",
-                    "Le encanta que las deidades ancestrales hablen bajito.",
-                    "Le encantan las deidades antiguas que hablan en susurros.",
-                    "Grande amatrice d’anciennes divinités aux murmures envoûtants.",
-                    "Appassionata di divinità del passato che parlano con voce molto bassa.",
-                    "ささやきかけてくる古代の神々の愛好家。",
-                    "감미롭게 말하는 고대 존재들을 신봉합니다.",
-                    "Wielbicielka pradawnych bóstw szepczących jej do ucha sekrety.",
-                    "Entusiasta de divindades ancestrais de fala macia.",
-                    "Сладкоголосая гадалка, живо интересующаяся древними божествами.",
-                    "ชื่นชอบเทพแห่งโบราณกาล\nที่พูดอย่างนิ่มนวล",
-                    "这些古神崇拜者说起话来阴阳怪调的。",
-                    "古代神祇的狂熱分子，還有語調柔和的說話方式"
+                    "Play minions to complete your quest and get an awesome treasure!",
+                    "Spielt Diener aus, um Eure Quest abzuschließen und einen wertvollen Schatz zu erhalten!",
+                    "¡Juega esbirros para completar tu misión y consigue un tesoro alucinante!",
+                    "¡Juega esbirros para completar tu misión y recibe un tesoro increíble!",
+                    "Jouez des serviteurs pour terminer votre quête et obtenir un fabuleux trésor !",
+                    "Gioca servitori per completare la tua Missione e ottenere un fantastico Tesoro!",
+                    "手札からミニオンを出してクエストを完遂し、すごいお宝を手に入れよう！",
+                    "하수인을 내서 퀘스트를 완료하고 멋진 보물을 받으세요!",
+                    "Zagrywaj stronników, aby wykonać zadanie i zdobyć wspaniały skarb!",
+                    "Jogue lacaios para concluir sua missão e receber um tesouro fantástico!",
+                    "Разыгрывайте существ, чтобы выполнить задачу и получить фантастическое сокровище!",
+                    "เล่นมินเนี่ยนเพื่อทำ\nเควสต์ของคุณให้สำเร็จ\nและรับสมบัติสุดเจ๋ง!",
+                    "使用随从牌来完成你的任务，获得惊人的宝藏！",
+                    "打出手下以完成任務，獲得驚人的寶藏！"
                 ],
-                "m_locId": 2718228
+                "m_locId": 2710417
             },
             "m_unlockEvent": 164
         },
         {
-            "m_ID": 93,
-            "m_cardId": 59537,
+            "m_ID": 84,
+            "m_cardId": 57583,
             "m_name": {
                 "m_locValues": [
-                    "Togwaggle",
-                    "Togwaggel",
-                    "Togafloja",
-                    "Togwaggle",
-                    "Cire-Pilleur",
-                    "Cobaldo",
-                    "トグワグル",
-                    "토그왜글",
-                    "Trzęsibrzuch",
-                    "Fubalumba",
-                    "Вихлепых",
-                    "ท็อกแว็กเกิล",
-                    "托瓦格尔",
-                    "托戈瓦哥"
+                    "Hunter / Warrior",
+                    "Jäger / Krieger",
+                    "Cazador / Guerrero",
+                    "Cazador/Guerrero",
+                    "Chasseur / Guerrier",
+                    "Cacciatore/Guerriero",
+                    "ハンター / ウォリアー",
+                    "사냥꾼 / 전사",
+                    "Łowca/wojownik",
+                    "Caçador / Guerreiro",
+                    "Охотник_/ воин",
+                    "ฮันเตอร์ / วอริเออร์",
+                    "猎人/战士",
+                    "獵人 / 戰士"
                 ],
-                "m_locId": 2718229
+                "m_locId": 2714066
             },
             "m_shortName": {
                 "m_locValues": [
@@ -11275,208 +10779,22 @@
             },
             "m_flavorText": {
                 "m_locValues": [
-                    "Only grins when he is smelling treasure.",
-                    "Lächelt nur, wenn er Schätze wittert.",
-                    "Solo sonríe cuando huele tesoros.",
-                    "Sonríe únicamente cuando huele tesoros.",
-                    "Ne sourit qu’au doux parfum d’un trésor.",
-                    "Sorride soltanto quando sente odore di tesori.",
-                    "宝のニオイを嗅ぎ取った時だけ、王はニヤリと笑う。",
-                    "그가 웃고 있다면 어딘가에서 보물의 냄새를 맡았다는 겁니다.",
-                    "Jak tylko wyniucha skarb, szczerzy się jak kobold do świecuni.",
-                    "Só ri quando sente cheiro de tesouro.",
-                    "Он ухмыляется, только когда чует сокровища.",
-                    "ยิ้มเมื่อรู้สึกว่าสมบัติ\nอยู่ใกล้ๆ เท่านั้น",
-                    "只有闻着财宝时他才会开心一笑。",
-                    "只有寶藏的氣味能讓他展現笑容"
+                    "A fearless hunter of relics and lover of dinosaurs.",
+                    "Ein furchtloser Reliktjäger und begeisterter Dinozähmer.",
+                    "Un temerario cazador de reliquias y amante de los dinosaurios.",
+                    "Un temerario buscador de reliquias amante de los dinosaurios.",
+                    "Un chasseur de reliques intrépide et fasciné par les dinosaures.",
+                    "Un temerario cacciatore di reliquie, amante dei dinosauri.",
+                    "恐れ知らずの遺跡ハンター、そして恐竜愛好家。",
+                    "공룡을 좋아하는 용감한 유물 수집가입니다.",
+                    "Nieustraszony łowca reliktów i wielbiciel dinozaurów.",
+                    "Um caçador de relíquias corajoso que adora dinossauros.",
+                    "Бесстрашный охотник за артефактами и динозавровед.",
+                    "นักล่าสมบัติผู้ไม่กลัวสิ่งใด\nและคลั่งไคล้ไดโนเสาร์",
+                    "无畏的宝藏猎人，恐龙的大众情人。",
+                    "無畏無懼的古物獵人，而且熱愛恐龍"
                 ],
-                "m_locId": 2718230
-            },
-            "m_unlockEvent": 164
-        },
-        {
-            "m_ID": 94,
-            "m_cardId": 59535,
-            "m_name": {
-                "m_locValues": [
-                    "Hagatha",
-                    "Hagatha",
-                    "Hagatha",
-                    "Hagatha",
-                    "Hagatha",
-                    "Hagatha",
-                    "ハガサ",
-                    "하가사",
-                    "Złagata",
-                    "Hagatha",
-                    "Хагата",
-                    "ฮากาธา",
-                    "哈加莎",
-                    "哈嘉薩"
-                ],
-                "m_locId": 2718231
-            },
-            "m_shortName": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_flavorText": {
-                "m_locValues": [
-                    "Hates every tomb except for her enemy's.",
-                    "Die einzigen Gräber, die sie nicht hasst, sind die ihrer Feinde.",
-                    "Odia todas las tumbas menos las de sus enemigos.",
-                    "Detesta todas las tumbas... menos las de sus enemigos.",
-                    "Déteste toutes les tombes, hormis celles de ses ennemis.",
-                    "Odia qualunque tomba, eccetto quella del nemico.",
-                    "墓なんか大嫌い。ただし敵の墓以外。",
-                    "모든 무덤을 싫어합니다. 자신의 적들의 무덤은 빼고요.",
-                    "Nie znosi grobowców, ale z radością zatańczy na kurhanie wroga.",
-                    "Odeia qualquer tumba, menos as dos inimigos.",
-                    "Ненавидит любые гробницы... кроме тех, где похоронены ее враги.",
-                    "สุสานเดียวที่ชอบ คือสุสานของศัตรู",
-                    "憎恨所有的古墓，除非是敌人的。",
-                    "討厭所有墳墓，除了她敵人的墳墓以外"
-                ],
-                "m_locId": 2718232
-            },
-            "m_unlockEvent": 164
-        },
-        {
-            "m_ID": 95,
-            "m_cardId": 59538,
-            "m_name": {
-                "m_locValues": [
-                    "Rafaam",
-                    "Rafaam",
-                    "Rafaam",
-                    "Rafaam",
-                    "Rafaam",
-                    "Rafaam",
-                    "ラファーム",
-                    "라팜",
-                    "Rafaam",
-                    "Rafaam",
-                    "Рафаам",
-                    "ราฟาม",
-                    "拉法姆",
-                    "拉法姆"
-                ],
-                "m_locId": 2718233
-            },
-            "m_shortName": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_flavorText": {
-                "m_locValues": [
-                    "\"Nothing in here could be as evil as I am!\"",
-                    "„Nichts, was sich hier verbirgt, ist annähernd so böse wie ich!“",
-                    "¡Aquí no hay nada que pueda ser más malvado que yo!",
-                    "\"¡Aquí dentro no debe haber nada más maligno que yo!\"",
-                    "Il n’y a rien ici qui soit plus maléfique que moi !",
-                    "\"Niente qui dentro può essere malvagio quanto me!\"",
-                    "「フン、ここに我より邪悪なものなどあるものか！」",
-                    "\"여기 있는 그 무엇도 나보다 사악할 순 없지!\"",
-                    "W złoczynieniu nie ma żadnej konkurencji!",
-                    "\"Nada no mundo é mau como eu!\"",
-                    "«Самое страшное зло в этих гробницах — я!»",
-                    "\"ไม่มีอะไรในนี้จะชั่วร้าย\nไปกว่าข้าได้หรอก!\"",
-                    "“这里没什么能比我更加邪恶啦！”",
-                    "「這裡誰能比我更邪惡！」"
-                ],
-                "m_locId": 2718234
-            },
-            "m_unlockEvent": 164
-        },
-        {
-            "m_ID": 96,
-            "m_cardId": 60009,
-            "m_name": {
-                "m_locValues": [
-                    "Reno Jackson",
-                    "Reno Jackson",
-                    "Reno Jackson",
-                    "Reno Jackson",
-                    "Reno Jackson",
-                    "Reno Jackson",
-                    "レノ・ジャクソン",
-                    "리노 잭슨",
-                    "Reno Jackson",
-                    "Reno Jackson",
-                    "Рено Джексон",
-                    "รีโน่ แจ็คสัน",
-                    "雷诺·杰克逊",
-                    "里諾‧傑克森"
-                ],
-                "m_locId": 2719606
-            },
-            "m_shortName": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_flavorText": {
-                "m_locValues": [
-                    "He's trying to cast a spell on you! Is it working?",
-                    "Er hat vor, Euch zu verzaubern. Na, klappt’s?",
-                    "¡Solo quiere hechizarte! ¿Está funcionando?",
-                    "¡Está intentando lanzarte un hechizo! ¿Funciona?",
-                    "Il essaie de vous lancer un sort ! Est-ce que ça a marché ?",
-                    "È pronto a comandarti a bacchetta!",
-                    "彼はあんたに呪文をかけようとしてるぞ！うまく行くんだろうか？",
-                    "당신에게 주문을 걸 준비가 됐습니다!",
-                    "Oczaruje cię raz-dwa! A przynajmniej tak mu się wydaje.",
-                    "Ele está tentando lançar um feitiço em você! Funcionou?",
-                    "Он произносит заклинание, указывая на вас! А оно точно сработает?",
-                    "เขาลองร่าย\nเวทมนตร์ใส่คุณอยู่! ได้ผลหรือเปล่า",
-                    "他正试着对你施放法术！感受到了吗？",
-                    "小心，他要對你施法術囉！…怎樣？有成功嗎？"
-                ],
-                "m_locId": 2719607
+                "m_locId": 2714070
             },
             "m_unlockEvent": 164
         },
@@ -11539,192 +10857,6 @@
                     ""
                 ],
                 "m_locId": 0
-            },
-            "m_unlockEvent": 164
-        },
-        {
-            "m_ID": 97,
-            "m_cardId": 59933,
-            "m_name": {
-                "m_locValues": [
-                    "Sir Finley",
-                    "Sir Finley",
-                    "Sir Finley",
-                    "Sir Aletardo",
-                    "Sir Finley",
-                    "Ser Pinnus",
-                    "サー・フィンレー",
-                    "핀리 경",
-                    "Sir Płetwin",
-                    "Dom Finlei",
-                    "Сэр Финли",
-                    "เซอร์ฟินลีย์",
-                    "芬利爵士",
-                    "芬利爵士"
-                ],
-                "m_locId": 2719608
-            },
-            "m_shortName": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_flavorText": {
-                "m_locValues": [
-                    "A bold murloc fears nothing--except running out of sunscreen.",
-                    "Ein tapferer Murloc fürchtet sich vor nichts_– außer davor, dass ihm die Sonnencreme ausgeht.",
-                    "Un múrloc audaz no le teme a nada..., salvo a quedarse sin protección solar.",
-                    "Un múrloc valiente que no le teme a nada… salvo a quedarse sin protector solar.",
-                    "Un Murloc courageux n’a peur de rien, à part peut-être de manquer de crème solaire.",
-                    "Un Murloc coraggioso che non ha paura di nulla... a parte finire la crema solare.",
-                    "勇敢なマーロックは何も恐れはしない――日焼け止めを切らすこと以外。",
-                    "이 담대한 멀록은 아무 것도 두려워하지 않습니다. 선크림이 떨어지는 것만 빼면요.",
-                    "Nie boi się niczego – poza nagłym niedoborem kremu do opalania.",
-                    "Um murloc audaz não teme nada, só ficar sem filtro solar.",
-                    "Этот отважный мурлок боится только одного: остаться без солнцезащитного крема.",
-                    "เมอร์ล็อคใจกล้าไม่เกรงกลัว\nสิ่งใด กลัวครีมกันแดดหมด\nเพียงอย่างเดียว",
-                    "他是如此的勇敢和无畏——除了在防晒油用完的情况下。",
-                    "這位勇敢的魚人無所畏懼，就只怕用完了防曬乳液"
-                ],
-                "m_locId": 2719609
-            },
-            "m_unlockEvent": 164
-        },
-        {
-            "m_ID": 98,
-            "m_cardId": 59998,
-            "m_name": {
-                "m_locValues": [
-                    "Elise Starseeker",
-                    "Elise Sternensucher",
-                    "Elise Buscaestelar",
-                    "Elisa Buscaestelar",
-                    "Élise Cherchétoile",
-                    "Elise Cercastelle",
-                    "エリーズ・スターシーカー",
-                    "엘리스 스타시커",
-                    "Eliza Astrowidząca",
-                    "Elise Mirestela",
-                    "Элиза Звездочет",
-                    "เอลีส สตาร์ซีคเกอร์",
-                    "伊莉斯·逐星",
-                    "伊莉絲‧尋星者"
-                ],
-                "m_locId": 2719610
-            },
-            "m_shortName": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_flavorText": {
-                "m_locValues": [
-                    "Don't worry, she has a plan! And a backup plan!",
-                    "Keine Sorge, sie hat einen Plan! Und einen Plan B!",
-                    "No temas, ¡que tiene un plan! ¡Y luego un plan B!",
-                    "¡No te preocupes, tiene un plan! ¡Y también un plan B!",
-                    "Ne vous en faites pas, elle a un plan ! Et aussi un plan de secours !",
-                    "Non preoccuparti, ha sempre un piano... e anche un piano di riserva!",
-                    "大丈夫、彼女には作戦がある！そして作戦Bもある！",
-                    "걱정 마세요! 엘리스에겐 언제나 계획이 있습니다. 그 계획이 실패했을 때의 계획도 있고요!",
-                    "Bez obaw, Eliza ma plan! I plan zapasowy!",
-                    "Não se preocupe, ela tem um plano! E um plano B também!",
-                    "Не бойтесь, у нее есть план! И еще один план на случай, если первый не сработает!",
-                    "ไม่ต้องกังวล เธอมีแผน!\nแถมมีแผนสำรองด้วย!",
-                    "别担心，她有计划！还有备用计划！",
-                    "別擔心，她全都計畫好了！連B計畫都準備好了！"
-                ],
-                "m_locId": 2719611
-            },
-            "m_unlockEvent": 164
-        },
-        {
-            "m_ID": 99,
-            "m_cardId": 60010,
-            "m_name": {
-                "m_locValues": [
-                    "Brann Bronzebeard",
-                    "Brann Bronzebart",
-                    "Brann Barbabronce",
-                    "Brann Barbabronce",
-                    "Brann Barbe-de-Bronze",
-                    "Brann Barbabronzea",
-                    "ブラン・ブロンズビアード",
-                    "브란 브론즈비어드",
-                    "Brann Miedziobrody",
-                    "Brann Barbabronze",
-                    "Бранн Бронзобород",
-                    "แบรนน์ บรอนซ์เบียร์ด",
-                    "布莱恩·铜须",
-                    "布萊恩‧銅鬚"
-                ],
-                "m_locId": 2719612
-            },
-            "m_shortName": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_flavorText": {
-                "m_locValues": [
-                    "He's never seen a musty old ruin he wouldn't explore.",
-                    "Es gibt keine modrige alte Ruine, die er nicht erforschen will.",
-                    "Nunca se ha topado con unas ruinas que no quisiera explorar.",
-                    "Las ruinas antiguas y repletas de moho son su perdición.",
-                    "Il n’y a pas une seule ruine au monde qu’il n’ait envie d’explorer.",
-                    "È sempre desideroso di esplorare ogni rovina antiquata.",
-                    "苔むした遺跡を見かけたら、探検せずにはいられない。",
-                    "퀴퀴하고 오래 된 폐허라면 그냥 지나치지 않는 드워프죠.",
-                    "„Rozpadające się ruiny? Tak, poproszę!”.",
-                    "Nunca viu uma ruína velha bolorenta que não quisesse explorar.",
-                    "Нет на Азероте таких руин, которые он не хотел бы исследовать.",
-                    "พร้อมสำรวจโบราณสถาน\nเก่าแก่ทุกที่",
-                    "这世上就没有布莱恩不会去探索的古老\n废墟。",
-                    "再怎樣破舊陳腐的廢墟，他都忍不住想進去看看"
-                ],
-                "m_locId": 2719613
             },
             "m_unlockEvent": 164
         },
@@ -11853,6 +10985,68 @@
             "m_unlockEvent": 164
         },
         {
+            "m_ID": 85,
+            "m_cardId": 56768,
+            "m_name": {
+                "m_locValues": [
+                    "Elise",
+                    "Elise",
+                    "Elise",
+                    "Elisa",
+                    "Élise",
+                    "Elise",
+                    "エリーズ",
+                    "엘리스",
+                    "Eliza",
+                    "Elise",
+                    "Элиза",
+                    "เอลีส",
+                    "伊莉斯",
+                    "伊莉絲"
+                ],
+                "m_locId": 2714440
+            },
+            "m_shortName": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_flavorText": {
+                "m_locValues": [
+                    "Part Druid, Part Priest, All Explorer!",
+                    "Halb Druidin, halb Priesterin – voll und ganz Entdeckerin!",
+                    "¡Parte druida, parte sacerdotisa y 100% expedicionaria!",
+                    "Mitad druida, mitad sacerdotisa, ¡100% expedicionaria!",
+                    "Mi-Druidesse, mi-prêtresse, 100% exploratrice !",
+                    "50% Druida, 50% Sacerdotessa e 100% esploratrice!",
+                    "半分はドルイド、半分はプリースト、全部が探検家！",
+                    "반은 드루이드, 반은 사제인 노련한 탐험가죠!",
+                    "W połowie druidka, w połowie kapłanka, ale przede wszystkim odkrywczyni!",
+                    "Parte druidesa, parte sacerdotisa... exploradora completa!",
+                    "Наполовину друид, наполовину жрица, на сто процентов исследовательница!",
+                    "ครึ่งดรูอิด ครึ่งพรีสต์ แต่เลือดนักสำรวจเต็มร้อย!",
+                    "一半是德鲁伊，一半是牧师的全职\n探险家！",
+                    "是德魯伊，也是牧師，更是探險者！"
+                ],
+                "m_locId": 2714441
+            },
+            "m_unlockEvent": 164
+        },
+        {
             "m_ID": 83,
             "m_cardId": 57582,
             "m_name": {
@@ -11911,6 +11105,812 @@
                     "這位博學的探險者，她作戰的本領可絲毫不亞於做研究"
                 ],
                 "m_locId": 2714069
+            },
+            "m_unlockEvent": 164
+        },
+        {
+            "m_ID": 86,
+            "m_cardId": 59385,
+            "m_name": {
+                "m_locValues": [
+                    "Reno Jackson",
+                    "Reno Jackson",
+                    "Reno Jackson",
+                    "Reno Jackson",
+                    "Reno Jackson",
+                    "Reno Jackson",
+                    "レノ・ジャクソン",
+                    "리노 잭슨",
+                    "Reno Jackson",
+                    "Reno Jackson",
+                    "Рено Джексон",
+                    "รีโน่ แจ็คสัน",
+                    "雷诺·杰克逊",
+                    "里諾‧傑克森"
+                ],
+                "m_locId": 2717788
+            },
+            "m_shortName": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_flavorText": {
+                "m_locValues": [
+                    "The hardest part of his journey is getting started. Then the middle part. And also, the end.",
+                    "Der Anfang ist der schwerste Teil der Reise. Und dann der Mittelteil. Und nicht zu vergessen das Ende.",
+                    "La parte más dura de su viaje es el principio. Bueno, y la mitad. Y también el final.",
+                    "La parte más difícil de su travesía es la del comienzo. Luego la del medio. Y también el final.",
+                    "Le plus difficile dans une aventure, c’est de se lancer. Puis de continuer. Et de la terminer.",
+                    "Un esploratore coi baffi. Solo letteralmente.",
+                    "彼の冒険で一番困難なところは、始まりの部分だ。そして中盤。それと、終盤もだ。",
+                    "리노의 여정은 처음이 가장 힘듭니다. 그리고 중간도요. 그리고 끝도요.",
+                    "Najtrudniejsza część jego wędrówki to początek. I środek. Zakończenie w sumie też.",
+                    "A parte mais difícil da jornada para ele é o início. Depois o meio. Mas também o fim.",
+                    "Для него начало — самая сложная часть путешествия. Как и середина. И конец.",
+                    "ช่วงที่ลำบากที่สุดของ\nการเดินทางคือช่วงเริ่มต้น ช่วงกลางทาง ไปจนถึงปลายทางเลย",
+                    "旅途万事开头难。中间也难。结尾也难。",
+                    "對他來說，旅途的起步總是最難。除此之外中間部分也一樣難。最後還有收尾也最難。"
+                ],
+                "m_locId": 2717789
+            },
+            "m_unlockEvent": 164
+        },
+        {
+            "m_ID": 93,
+            "m_cardId": 59537,
+            "m_name": {
+                "m_locValues": [
+                    "Togwaggle",
+                    "Togwaggel",
+                    "Togafloja",
+                    "Togwaggle",
+                    "Cire-Pilleur",
+                    "Cobaldo",
+                    "トグワグル",
+                    "토그왜글",
+                    "Trzęsibrzuch",
+                    "Fubalumba",
+                    "Вихлепых",
+                    "ท็อกแว็กเกิล",
+                    "托瓦格尔",
+                    "托戈瓦哥"
+                ],
+                "m_locId": 2718229
+            },
+            "m_shortName": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_flavorText": {
+                "m_locValues": [
+                    "Only grins when he is smelling treasure.",
+                    "Lächelt nur, wenn er Schätze wittert.",
+                    "Solo sonríe cuando huele tesoros.",
+                    "Sonríe únicamente cuando huele tesoros.",
+                    "Ne sourit qu’au doux parfum d’un trésor.",
+                    "Sorride soltanto quando sente odore di tesori.",
+                    "宝のニオイを嗅ぎ取った時だけ、王はニヤリと笑う。",
+                    "그가 웃고 있다면 어딘가에서 보물의 냄새를 맡았다는 겁니다.",
+                    "Jak tylko wyniucha skarb, szczerzy się jak kobold do świecuni.",
+                    "Só ri quando sente cheiro de tesouro.",
+                    "Он ухмыляется, только когда чует сокровища.",
+                    "ยิ้มเมื่อรู้สึกว่าสมบัติ\nอยู่ใกล้ๆ เท่านั้น",
+                    "只有闻着财宝时他才会开心一笑。",
+                    "只有寶藏的氣味能讓他展現笑容"
+                ],
+                "m_locId": 2718230
+            },
+            "m_unlockEvent": 164
+        },
+        {
+            "m_ID": 88,
+            "m_cardId": 59386,
+            "m_name": {
+                "m_locValues": [
+                    "Sir Finley",
+                    "Sir Finley",
+                    "Sir Finley",
+                    "Sir Aletardo",
+                    "Sir Finley",
+                    "Ser Pinnus",
+                    "サー・フィンレー",
+                    "핀리 경",
+                    "Sir Płetwin",
+                    "Dom Finlei",
+                    "Сэр Финли",
+                    "เซอร์ฟินลีย์",
+                    "芬利爵士",
+                    "芬利爵士"
+                ],
+                "m_locId": 2717792
+            },
+            "m_shortName": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_flavorText": {
+                "m_locValues": [
+                    "He'll go wherever adventure takes him! But kindly provide good directions.",
+                    "Er geht, wohin ihn das Abenteuer auch führen mag! Solange die Wegbeschreibung stimmt.",
+                    "¡Irá adondequiera que le lleve la aventura! Pero indícale bien el camino.",
+                    "¡Irá hacia donde sea que lo lleve la aventura! Pero sean amables y explíquenle el camino.",
+                    "Il ira où ses branchies le portent. Mais il s’en sortirait mieux avec un plan… ou une carte.",
+                    "Va ovunque lo conducano le avventure! Ma se vuoi dargli dei consigli sulla direzione da prendere, non li rifiuta.",
+                    "そこに冒険があれば、彼はどこにでも行く！ただし、丁寧な道案内があれば。",
+                    "모험이 있는 곳이라면 어디든 갑니다! 방향도 친절히 알려주면서요.",
+                    "Pójdzie tam, gdzie wezwie go przygoda! Ale najpierw uprzejmie prosi o dokładną mapę.",
+                    "Ele vai aonde a aventura levar! Mas, por favor, explique como chegar lá.",
+                    "Он бесстрашно идет дорогой приключений! Только иногда сбивается с пути.",
+                    "การผจญภัยอยู่ที่ไหน เขาจะไปที่นั่น! แต่บอกทางให้เขาดีๆ ล่ะ",
+                    "他会紧紧跟随探险之路的方向！不过请千万指一条好路。",
+                    "他樂意勇闖任何從未踏足的冒險領域！但請先提供詳細的交通資訊。"
+                ],
+                "m_locId": 2717793
+            },
+            "m_unlockEvent": 164
+        },
+        {
+            "m_ID": 94,
+            "m_cardId": 59535,
+            "m_name": {
+                "m_locValues": [
+                    "Hagatha",
+                    "Hagatha",
+                    "Hagatha",
+                    "Hagatha",
+                    "Hagatha",
+                    "Hagatha",
+                    "ハガサ",
+                    "하가사",
+                    "Złagata",
+                    "Hagatha",
+                    "Хагата",
+                    "ฮากาธา",
+                    "哈加莎",
+                    "哈嘉薩"
+                ],
+                "m_locId": 2718231
+            },
+            "m_shortName": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_flavorText": {
+                "m_locValues": [
+                    "Hates every tomb except for her enemy's.",
+                    "Die einzigen Gräber, die sie nicht hasst, sind die ihrer Feinde.",
+                    "Odia todas las tumbas menos las de sus enemigos.",
+                    "Detesta todas las tumbas... menos las de sus enemigos.",
+                    "Déteste toutes les tombes, hormis celles de ses ennemis.",
+                    "Odia qualunque tomba, eccetto quella del nemico.",
+                    "墓なんか大嫌い。ただし敵の墓以外。",
+                    "모든 무덤을 싫어합니다. 자신의 적들의 무덤은 빼고요.",
+                    "Nie znosi grobowców, ale z radością zatańczy na kurhanie wroga.",
+                    "Odeia qualquer tumba, menos as dos inimigos.",
+                    "Ненавидит любые гробницы... кроме тех, где похоронены ее враги.",
+                    "สุสานเดียวที่ชอบ คือสุสานของศัตรู",
+                    "憎恨所有的古墓，除非是敌人的。",
+                    "討厭所有墳墓，除了她敵人的墳墓以外"
+                ],
+                "m_locId": 2718232
+            },
+            "m_unlockEvent": 164
+        },
+        {
+            "m_ID": 89,
+            "m_cardId": 59387,
+            "m_name": {
+                "m_locValues": [
+                    "Elise Starseeker",
+                    "Elise Sternensucher",
+                    "Elise Buscaestelar",
+                    "Elisa Buscaestelar",
+                    "Élise Cherchétoile",
+                    "Elise Cercastelle",
+                    "エリーズ・スターシーカー",
+                    "엘리스 스타시커",
+                    "Eliza Astrowidząca",
+                    "Elise Mirestela",
+                    "Элиза Звездочет",
+                    "เอลีส สตาร์ซีคเกอร์",
+                    "伊莉斯·逐星",
+                    "伊莉絲‧尋星者"
+                ],
+                "m_locId": 2717794
+            },
+            "m_shortName": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_flavorText": {
+                "m_locValues": [
+                    "Reno's never gotten into a scrape that she couldn't get him out of. Except that one time…",
+                    "Es gab noch kein Schlamassel, aus dem sie Reno nicht retten konnte. Das eine Mal zählt nicht.",
+                    "Da igual el problema en el que se meta Reno, Elise siempre es capaz de sacarlo de él. Excepto aquella vez...",
+                    "Reno nunca se metió en un lío del cual ella no lo haya sacado. Salvo esa vez...",
+                    "Elle a toujours réussi à sortir Reno de ses ennuis, quels qu’ils soient. Excepté une fois…",
+                    "Dal prossimo anno terrà un corso all'università su come salvare altri esploratori da morte certa.",
+                    "レノがどんな窮地に陥っても、彼女は救い出して来た。あの一回を除いては…",
+                    "리노가 일으킨 문제는 엘리스가 웬만해선 해결했습니다. 단 한 번만 빼고요...",
+                    "Reno nigdy nie wpakował się w kłopoty, z których nie byłaby w stanie go wyciągnąć. Poza tym jednym razem...",
+                    "Reno nunca entrou numa furada de que não conseguisse sair. Tirando aquela vez...",
+                    "Она всегда вытаскивала Рено из разных переделок. Почти всегда...",
+                    "ไม่ว่ารีโน่จะต้องเผชิญกับอะไร เธอก็ช่วยเขาออกมาได้เสมอ ยกเว้นครั้งนั้นไว้ครั้งนึง...",
+                    "每当雷诺陷入困境，她总能捞他一手。除了那次……",
+                    "里諾搞砸的事情，她每次都能幫忙妥善解決。就除了那一次以外…"
+                ],
+                "m_locId": 2717795
+            },
+            "m_unlockEvent": 164
+        },
+        {
+            "m_ID": 95,
+            "m_cardId": 59538,
+            "m_name": {
+                "m_locValues": [
+                    "Rafaam",
+                    "Rafaam",
+                    "Rafaam",
+                    "Rafaam",
+                    "Rafaam",
+                    "Rafaam",
+                    "ラファーム",
+                    "라팜",
+                    "Rafaam",
+                    "Rafaam",
+                    "Рафаам",
+                    "ราฟาม",
+                    "拉法姆",
+                    "拉法姆"
+                ],
+                "m_locId": 2718233
+            },
+            "m_shortName": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_flavorText": {
+                "m_locValues": [
+                    "\"Nothing in here could be as evil as I am!\"",
+                    "„Nichts, was sich hier verbirgt, ist annähernd so böse wie ich!“",
+                    "¡Aquí no hay nada que pueda ser más malvado que yo!",
+                    "\"¡Aquí dentro no debe haber nada más maligno que yo!\"",
+                    "Il n’y a rien ici qui soit plus maléfique que moi !",
+                    "\"Niente qui dentro può essere malvagio quanto me!\"",
+                    "「フン、ここに我より邪悪なものなどあるものか！」",
+                    "\"여기 있는 그 무엇도 나보다 사악할 순 없지!\"",
+                    "W złoczynieniu nie ma żadnej konkurencji!",
+                    "\"Nada no mundo é mau como eu!\"",
+                    "«Самое страшное зло в этих гробницах — я!»",
+                    "\"ไม่มีอะไรในนี้จะชั่วร้าย\nไปกว่าข้าได้หรอก!\"",
+                    "“这里没什么能比我更加邪恶啦！”",
+                    "「這裡誰能比我更邪惡！」"
+                ],
+                "m_locId": 2718234
+            },
+            "m_unlockEvent": 164
+        },
+        {
+            "m_ID": 96,
+            "m_cardId": 60009,
+            "m_name": {
+                "m_locValues": [
+                    "Reno Jackson",
+                    "Reno Jackson",
+                    "Reno Jackson",
+                    "Reno Jackson",
+                    "Reno Jackson",
+                    "Reno Jackson",
+                    "レノ・ジャクソン",
+                    "리노 잭슨",
+                    "Reno Jackson",
+                    "Reno Jackson",
+                    "Рено Джексон",
+                    "รีโน่ แจ็คสัน",
+                    "雷诺·杰克逊",
+                    "里諾‧傑克森"
+                ],
+                "m_locId": 2719606
+            },
+            "m_shortName": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_flavorText": {
+                "m_locValues": [
+                    "He's trying to cast a spell on you! Is it working?",
+                    "Er hat vor, Euch zu verzaubern. Na, klappt’s?",
+                    "¡Solo quiere hechizarte! ¿Está funcionando?",
+                    "¡Está intentando lanzarte un hechizo! ¿Funciona?",
+                    "Il essaie de vous lancer un sort ! Est-ce que ça a marché ?",
+                    "È pronto a comandarti a bacchetta!",
+                    "彼はあんたに呪文をかけようとしてるぞ！うまく行くんだろうか？",
+                    "당신에게 주문을 걸 준비가 됐습니다!",
+                    "Oczaruje cię raz-dwa! A przynajmniej tak mu się wydaje.",
+                    "Ele está tentando lançar um feitiço em você! Funcionou?",
+                    "Он произносит заклинание, указывая на вас! А оно точно сработает?",
+                    "เขาลองร่าย\nเวทมนตร์ใส่คุณอยู่! ได้ผลหรือเปล่า",
+                    "他正试着对你施放法术！感受到了吗？",
+                    "小心，他要對你施法術囉！…怎樣？有成功嗎？"
+                ],
+                "m_locId": 2719607
+            },
+            "m_unlockEvent": 164
+        },
+        {
+            "m_ID": 90,
+            "m_cardId": 59388,
+            "m_name": {
+                "m_locValues": [
+                    "Brann Bronzebeard",
+                    "Brann Bronzebart",
+                    "Brann Barbabronce",
+                    "Brann Barbabronce",
+                    "Brann Barbe-de-Bronze",
+                    "Brann Barbabronzea",
+                    "ブラン・ブロンズビアード",
+                    "브란 브론즈비어드",
+                    "Brann Miedziobrody",
+                    "Brann Barbabronze",
+                    "Бранн Бронзобород",
+                    "แบรนน์ บรอนซ์เบียร์ด",
+                    "布莱恩·铜须",
+                    "布萊恩‧銅鬚"
+                ],
+                "m_locId": 2717798
+            },
+            "m_shortName": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_flavorText": {
+                "m_locValues": [
+                    "His bags are packed, and he's ready to explore the frozen north! No coat needed.",
+                    "Die Taschen sind gepackt und er ist bereit, den eisigen Norden zu erforschen! Mantel optional.",
+                    "¡Lleva las bolsas llenas y está listo para explorar el gélido norte! Ni siquiera necesita un abrigo.",
+                    "Su equipaje está listo, ¡y está preparado para explorar el helado norte! No necesita abrigo.",
+                    "Ses sacs sont faits et il est prêt pour l’exploration des terres gelées du Nord. Même pas besoin de manteau !",
+                    "Ha preparato tutto per esplorare il gelido nord! Compreso un cappotto per la barba.",
+                    "荷造りは完了、北方の凍土の探検準備よしだ！寒いのには慣れてるぞ！",
+                    "만반의 준비를 갖추고 얼어붙은 북부를 탐험하길 기다리고 있습니다. 코트 정도는 없어도 괜찮다는군요.",
+                    "Wszystko spakowane, czas wyruszyć na mroźną północ! Na co komu kurtka?",
+                    "Ele já arrumou as bolsas e está pronto para explorar o norte gelado! Sem casaco.",
+                    "Сумки в сборе — можно отправляться исследовать север! Даже без шубы.",
+                    "กายพร้อม กระเป๋าพร้อม บุกแดนเหนือหนาวเหน็บได้! ไม่ต้องใช้เสื้อคลุมด้วยซ้ำ",
+                    "他装妥了背包，做好准备去探索冰冷的北方！并不需要加衣服。",
+                    "他打包完行李，準備好探索冰封北方大陸了！至於外套就不用了。"
+                ],
+                "m_locId": 2717799
+            },
+            "m_unlockEvent": 164
+        },
+        {
+            "m_ID": 97,
+            "m_cardId": 59933,
+            "m_name": {
+                "m_locValues": [
+                    "Sir Finley",
+                    "Sir Finley",
+                    "Sir Finley",
+                    "Sir Aletardo",
+                    "Sir Finley",
+                    "Ser Pinnus",
+                    "サー・フィンレー",
+                    "핀리 경",
+                    "Sir Płetwin",
+                    "Dom Finlei",
+                    "Сэр Финли",
+                    "เซอร์ฟินลีย์",
+                    "芬利爵士",
+                    "芬利爵士"
+                ],
+                "m_locId": 2719608
+            },
+            "m_shortName": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_flavorText": {
+                "m_locValues": [
+                    "A bold murloc fears nothing--except running out of sunscreen.",
+                    "Ein tapferer Murloc fürchtet sich vor nichts_– außer davor, dass ihm die Sonnencreme ausgeht.",
+                    "Un múrloc audaz no le teme a nada..., salvo a quedarse sin protección solar.",
+                    "Un múrloc valiente que no le teme a nada… salvo a quedarse sin protector solar.",
+                    "Un Murloc courageux n’a peur de rien, à part peut-être de manquer de crème solaire.",
+                    "Un Murloc coraggioso che non ha paura di nulla... a parte finire la crema solare.",
+                    "勇敢なマーロックは何も恐れはしない――日焼け止めを切らすこと以外。",
+                    "이 담대한 멀록은 아무 것도 두려워하지 않습니다. 선크림이 떨어지는 것만 빼면요.",
+                    "Nie boi się niczego – poza nagłym niedoborem kremu do opalania.",
+                    "Um murloc audaz não teme nada, só ficar sem filtro solar.",
+                    "Этот отважный мурлок боится только одного: остаться без солнцезащитного крема.",
+                    "เมอร์ล็อคใจกล้าไม่เกรงกลัว\nสิ่งใด กลัวครีมกันแดดหมด\nเพียงอย่างเดียว",
+                    "他是如此的勇敢和无畏——除了在防晒油用完的情况下。",
+                    "這位勇敢的魚人無所畏懼，就只怕用完了防曬乳液"
+                ],
+                "m_locId": 2719609
+            },
+            "m_unlockEvent": 164
+        },
+        {
+            "m_ID": 91,
+            "m_cardId": 59533,
+            "m_name": {
+                "m_locValues": [
+                    "Dr. Boom",
+                    "Dr. Bumm",
+                    "Dr. Bum",
+                    "Dr. Bum",
+                    "Dr Boum",
+                    "Dott. Boom",
+                    "ドクター・ブーム",
+                    "박사 붐",
+                    "Doktor Huk",
+                    "Dr. Cabum",
+                    "Доктор Бум",
+                    "ด็อกเตอร์บูม",
+                    "砰砰博士",
+                    "爆爆博士"
+                ],
+                "m_locId": 2718225
+            },
+            "m_shortName": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_flavorText": {
+                "m_locValues": [
+                    "More like Boom in the tomb, am I right?",
+                    "Jagen wir die Gruft in die Luft!",
+                    "Será «Bum en la tumba», ¿no?",
+                    "Lo correcto sería \"Explosión en la tumba\", ¿verdad?",
+                    "Un savant passionné d’explosifs et de ruines antiques… Qu’est-ce qui pourrait mal tourner ?",
+                    "Senza qualche esplosione, le tombe sarebbero un mortorio, o sbaglio?",
+                    "墓所を訪れたドクターが一言「霊だぁ？」…ブゥーム霊だー…",
+                    "울둠에도 폭탄이 필요한 일이 분명 있을 겁니다.",
+                    "Huknięcie w grobowcu nigdy nie wróży nic dobrego.",
+                    "Tá mais pra Cabum na tumba, né não?",
+                    "Вы хотели сказать — страх и БАБАХ?!",
+                    "ทำไมไม่เป็นตูมตาม\nในสุสานล่ะ",
+                    "炸弹和古墓更配哦，不是吗？",
+                    "我覺得改叫「奧丹姆驚爆」比較好，你說對吧？"
+                ],
+                "m_locId": 2718226
+            },
+            "m_unlockEvent": 164
+        },
+        {
+            "m_ID": 98,
+            "m_cardId": 59998,
+            "m_name": {
+                "m_locValues": [
+                    "Elise Starseeker",
+                    "Elise Sternensucher",
+                    "Elise Buscaestelar",
+                    "Elisa Buscaestelar",
+                    "Élise Cherchétoile",
+                    "Elise Cercastelle",
+                    "エリーズ・スターシーカー",
+                    "엘리스 스타시커",
+                    "Eliza Astrowidząca",
+                    "Elise Mirestela",
+                    "Элиза Звездочет",
+                    "เอลีส สตาร์ซีคเกอร์",
+                    "伊莉斯·逐星",
+                    "伊莉絲‧尋星者"
+                ],
+                "m_locId": 2719610
+            },
+            "m_shortName": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_flavorText": {
+                "m_locValues": [
+                    "Don't worry, she has a plan! And a backup plan!",
+                    "Keine Sorge, sie hat einen Plan! Und einen Plan B!",
+                    "No temas, ¡que tiene un plan! ¡Y luego un plan B!",
+                    "¡No te preocupes, tiene un plan! ¡Y también un plan B!",
+                    "Ne vous en faites pas, elle a un plan ! Et aussi un plan de secours !",
+                    "Non preoccuparti, ha sempre un piano... e anche un piano di riserva!",
+                    "大丈夫、彼女には作戦がある！そして作戦Bもある！",
+                    "걱정 마세요! 엘리스에겐 언제나 계획이 있습니다. 그 계획이 실패했을 때의 계획도 있고요!",
+                    "Bez obaw, Eliza ma plan! I plan zapasowy!",
+                    "Não se preocupe, ela tem um plano! E um plano B também!",
+                    "Не бойтесь, у нее есть план! И еще один план на случай, если первый не сработает!",
+                    "ไม่ต้องกังวล เธอมีแผน!\nแถมมีแผนสำรองด้วย!",
+                    "别担心，她有计划！还有备用计划！",
+                    "別擔心，她全都計畫好了！連B計畫都準備好了！"
+                ],
+                "m_locId": 2719611
+            },
+            "m_unlockEvent": 164
+        },
+        {
+            "m_ID": 92,
+            "m_cardId": 59536,
+            "m_name": {
+                "m_locValues": [
+                    "Lazul",
+                    "Lazul",
+                    "Lazul",
+                    "Lazul",
+                    "Lazul",
+                    "Lazul",
+                    "ラズール",
+                    "라줄",
+                    "Lazul",
+                    "Lazul",
+                    "Лазул",
+                    "ลาซูล",
+                    "拉祖尔",
+                    "拉祖爾"
+                ],
+                "m_locId": 2718227
+            },
+            "m_shortName": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_flavorText": {
+                "m_locValues": [
+                    "Enthusiast of ancient deities speaking softly.",
+                    "Liebt uralte Gottheiten und Geflüster.",
+                    "Le encanta que las deidades ancestrales hablen bajito.",
+                    "Le encantan las deidades antiguas que hablan en susurros.",
+                    "Grande amatrice d’anciennes divinités aux murmures envoûtants.",
+                    "Appassionata di divinità del passato che parlano con voce molto bassa.",
+                    "ささやきかけてくる古代の神々の愛好家。",
+                    "감미롭게 말하는 고대 존재들을 신봉합니다.",
+                    "Wielbicielka pradawnych bóstw szepczących jej do ucha sekrety.",
+                    "Entusiasta de divindades ancestrais de fala macia.",
+                    "Сладкоголосая гадалка, живо интересующаяся древними божествами.",
+                    "ชื่นชอบเทพแห่งโบราณกาล\nที่พูดอย่างนิ่มนวล",
+                    "这些古神崇拜者说起话来阴阳怪调的。",
+                    "古代神祇的狂熱分子，還有語調柔和的說話方式"
+                ],
+                "m_locId": 2718228
+            },
+            "m_unlockEvent": 164
+        },
+        {
+            "m_ID": 99,
+            "m_cardId": 60010,
+            "m_name": {
+                "m_locValues": [
+                    "Brann Bronzebeard",
+                    "Brann Bronzebart",
+                    "Brann Barbabronce",
+                    "Brann Barbabronce",
+                    "Brann Barbe-de-Bronze",
+                    "Brann Barbabronzea",
+                    "ブラン・ブロンズビアード",
+                    "브란 브론즈비어드",
+                    "Brann Miedziobrody",
+                    "Brann Barbabronze",
+                    "Бранн Бронзобород",
+                    "แบรนน์ บรอนซ์เบียร์ด",
+                    "布莱恩·铜须",
+                    "布萊恩‧銅鬚"
+                ],
+                "m_locId": 2719612
+            },
+            "m_shortName": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_flavorText": {
+                "m_locValues": [
+                    "He's never seen a musty old ruin he wouldn't explore.",
+                    "Es gibt keine modrige alte Ruine, die er nicht erforschen will.",
+                    "Nunca se ha topado con unas ruinas que no quisiera explorar.",
+                    "Las ruinas antiguas y repletas de moho son su perdición.",
+                    "Il n’y a pas une seule ruine au monde qu’il n’ait envie d’explorer.",
+                    "È sempre desideroso di esplorare ogni rovina antiquata.",
+                    "苔むした遺跡を見かけたら、探検せずにはいられない。",
+                    "퀴퀴하고 오래 된 폐허라면 그냥 지나치지 않는 드워프죠.",
+                    "„Rozpadające się ruiny? Tak, poproszę!”.",
+                    "Nunca viu uma ruína velha bolorenta que não quisesse explorar.",
+                    "Нет на Азероте таких руин, которые он не хотел бы исследовать.",
+                    "พร้อมสำรวจโบราณสถาน\nเก่าแก่ทุกที่",
+                    "这世上就没有布莱恩不会去探索的古老\n废墟。",
+                    "再怎樣破舊陳腐的廢墟，他都忍不住想進去看看"
+                ],
+                "m_locId": 2719613
             },
             "m_unlockEvent": 164
         }

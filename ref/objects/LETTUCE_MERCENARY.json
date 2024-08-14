@@ -6507,6 +6507,146 @@
             "m_coinCraftCost": 100
         },
         {
+            "m_ID": 413,
+            "m_noteDesc": "Event Yogg-Saron",
+            "m_rarityId": 5,
+            "m_collectible": 0,
+            "m_craftable": 0,
+            "m_acquireType": 4,
+            "m_howToAcquireText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_coinCraftCost": 500
+        },
+        {
+            "m_ID": 414,
+            "m_noteDesc": "Aranna Starseeker",
+            "m_rarityId": 3,
+            "m_collectible": 1,
+            "m_craftable": 1,
+            "m_acquireType": 1,
+            "m_howToAcquireText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_coinCraftCost": 100
+        },
+        {
+            "m_ID": 416,
+            "m_noteDesc": "Garona Halforcen",
+            "m_rarityId": 3,
+            "m_collectible": 1,
+            "m_craftable": 1,
+            "m_acquireType": 1,
+            "m_howToAcquireText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_coinCraftCost": 100
+        },
+        {
+            "m_ID": 417,
+            "m_noteDesc": "Event C'Thun",
+            "m_rarityId": 5,
+            "m_collectible": 0,
+            "m_craftable": 0,
+            "m_acquireType": 4,
+            "m_howToAcquireText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_coinCraftCost": 500
+        },
+        {
+            "m_ID": 418,
+            "m_noteDesc": "Lord Godfrey",
+            "m_rarityId": 3,
+            "m_collectible": 1,
+            "m_craftable": 1,
+            "m_acquireType": 1,
+            "m_howToAcquireText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_coinCraftCost": 100
+        },
+        {
             "m_ID": 406,
             "m_noteDesc": "Mr. Bigglesworth",
             "m_rarityId": 4,
@@ -6731,174 +6871,6 @@
             "m_coinCraftCost": 100
         },
         {
-            "m_ID": 413,
-            "m_noteDesc": "Event Yogg-Saron",
-            "m_rarityId": 5,
-            "m_collectible": 0,
-            "m_craftable": 0,
-            "m_acquireType": 4,
-            "m_howToAcquireText": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_coinCraftCost": 500
-        },
-        {
-            "m_ID": 414,
-            "m_noteDesc": "Aranna Starseeker",
-            "m_rarityId": 3,
-            "m_collectible": 1,
-            "m_craftable": 1,
-            "m_acquireType": 1,
-            "m_howToAcquireText": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_coinCraftCost": 100
-        },
-        {
-            "m_ID": 416,
-            "m_noteDesc": "Garona Halforcen",
-            "m_rarityId": 3,
-            "m_collectible": 1,
-            "m_craftable": 1,
-            "m_acquireType": 1,
-            "m_howToAcquireText": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_coinCraftCost": 100
-        },
-        {
-            "m_ID": 417,
-            "m_noteDesc": "Event C'Thun",
-            "m_rarityId": 5,
-            "m_collectible": 0,
-            "m_craftable": 0,
-            "m_acquireType": 4,
-            "m_howToAcquireText": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_coinCraftCost": 500
-        },
-        {
-            "m_ID": 418,
-            "m_noteDesc": "Lord Godfrey",
-            "m_rarityId": 3,
-            "m_collectible": 1,
-            "m_craftable": 1,
-            "m_acquireType": 1,
-            "m_howToAcquireText": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_coinCraftCost": 100
-        },
-        {
-            "m_ID": 42,
-            "m_noteDesc": "King Mukla",
-            "m_rarityId": 4,
-            "m_collectible": 1,
-            "m_craftable": 1,
-            "m_acquireType": 1,
-            "m_howToAcquireText": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_coinCraftCost": 300
-        },
-        {
             "m_ID": 420,
             "m_noteDesc": "Chromie",
             "m_rarityId": 4,
@@ -7011,8 +6983,64 @@
             "m_coinCraftCost": 500
         },
         {
+            "m_ID": 42,
+            "m_noteDesc": "King Mukla",
+            "m_rarityId": 4,
+            "m_collectible": 1,
+            "m_craftable": 1,
+            "m_acquireType": 1,
+            "m_howToAcquireText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_coinCraftCost": 300
+        },
+        {
             "m_ID": 433,
             "m_noteDesc": "Arfus",
+            "m_rarityId": 4,
+            "m_collectible": 1,
+            "m_craftable": 1,
+            "m_acquireType": 1,
+            "m_howToAcquireText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_coinCraftCost": 300
+        },
+        {
+            "m_ID": 56,
+            "m_noteDesc": "Mutanus",
             "m_rarityId": 4,
             "m_collectible": 1,
             "m_craftable": 1,
@@ -7067,12 +7095,68 @@
             "m_coinCraftCost": 100
         },
         {
+            "m_ID": 57,
+            "m_noteDesc": "Warmaster Voone",
+            "m_rarityId": 4,
+            "m_collectible": 1,
+            "m_craftable": 1,
+            "m_acquireType": 1,
+            "m_howToAcquireText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_coinCraftCost": 300
+        },
+        {
             "m_ID": 440,
             "m_noteDesc": "Event Rattlegore",
             "m_rarityId": 4,
             "m_collectible": 0,
             "m_craftable": 0,
             "m_acquireType": 4,
+            "m_howToAcquireText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_coinCraftCost": 500
+        },
+        {
+            "m_ID": 6,
+            "m_noteDesc": "Grommash Hellscream",
+            "m_rarityId": 5,
+            "m_collectible": 1,
+            "m_craftable": 0,
+            "m_acquireType": 2,
             "m_howToAcquireText": {
                 "m_locValues": [
                     "",
@@ -7319,118 +7403,6 @@
             "m_coinCraftCost": 300
         },
         {
-            "m_ID": 55,
-            "m_noteDesc": "Rathorian",
-            "m_rarityId": 3,
-            "m_collectible": 1,
-            "m_craftable": 1,
-            "m_acquireType": 1,
-            "m_howToAcquireText": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_coinCraftCost": 100
-        },
-        {
-            "m_ID": 56,
-            "m_noteDesc": "Mutanus",
-            "m_rarityId": 4,
-            "m_collectible": 1,
-            "m_craftable": 1,
-            "m_acquireType": 1,
-            "m_howToAcquireText": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_coinCraftCost": 300
-        },
-        {
-            "m_ID": 57,
-            "m_noteDesc": "Warmaster Voone",
-            "m_rarityId": 4,
-            "m_collectible": 1,
-            "m_craftable": 1,
-            "m_acquireType": 1,
-            "m_howToAcquireText": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_coinCraftCost": 300
-        },
-        {
-            "m_ID": 6,
-            "m_noteDesc": "Grommash Hellscream",
-            "m_rarityId": 5,
-            "m_collectible": 1,
-            "m_craftable": 0,
-            "m_acquireType": 2,
-            "m_howToAcquireText": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_coinCraftCost": 500
-        },
-        {
             "m_ID": 60,
             "m_noteDesc": "Gul'dan",
             "m_rarityId": 5,
@@ -7457,6 +7429,34 @@
                 "m_locId": 0
             },
             "m_coinCraftCost": 500
+        },
+        {
+            "m_ID": 55,
+            "m_noteDesc": "Rathorian",
+            "m_rarityId": 3,
+            "m_collectible": 1,
+            "m_craftable": 1,
+            "m_acquireType": 1,
+            "m_howToAcquireText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_coinCraftCost": 100
         },
         {
             "m_ID": 62,
@@ -7487,8 +7487,8 @@
             "m_coinCraftCost": 300
         },
         {
-            "m_ID": 63,
-            "m_noteDesc": "Lady Anacondra",
+            "m_ID": 7,
+            "m_noteDesc": "Scabbs Cutterbutter",
             "m_rarityId": 3,
             "m_collectible": 1,
             "m_craftable": 1,
@@ -7515,64 +7515,8 @@
             "m_coinCraftCost": 100
         },
         {
-            "m_ID": 64,
-            "m_noteDesc": "Malfurion Stormrage",
-            "m_rarityId": 5,
-            "m_collectible": 1,
-            "m_craftable": 1,
-            "m_acquireType": 1,
-            "m_howToAcquireText": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_coinCraftCost": 500
-        },
-        {
-            "m_ID": 69,
-            "m_noteDesc": "Tyrande",
-            "m_rarityId": 4,
-            "m_collectible": 1,
-            "m_craftable": 0,
-            "m_acquireType": 2,
-            "m_howToAcquireText": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_coinCraftCost": 300
-        },
-        {
-            "m_ID": 7,
-            "m_noteDesc": "Scabbs Cutterbutter",
+            "m_ID": 63,
+            "m_noteDesc": "Lady Anacondra",
             "m_rarityId": 3,
             "m_collectible": 1,
             "m_craftable": 1,
@@ -7627,12 +7571,68 @@
             "m_coinCraftCost": 100
         },
         {
+            "m_ID": 64,
+            "m_noteDesc": "Malfurion Stormrage",
+            "m_rarityId": 5,
+            "m_collectible": 1,
+            "m_craftable": 1,
+            "m_acquireType": 1,
+            "m_howToAcquireText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_coinCraftCost": 500
+        },
+        {
             "m_ID": 8,
             "m_noteDesc": "Natalie Seline",
             "m_rarityId": 4,
             "m_collectible": 1,
             "m_craftable": 1,
             "m_acquireType": 1,
+            "m_howToAcquireText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_coinCraftCost": 300
+        },
+        {
+            "m_ID": 69,
+            "m_noteDesc": "Tyrande",
+            "m_rarityId": 4,
+            "m_collectible": 1,
+            "m_craftable": 0,
+            "m_acquireType": 2,
             "m_howToAcquireText": {
                 "m_locValues": [
                     "",
@@ -7711,8 +7711,8 @@
             "m_coinCraftCost": 500
         },
         {
-            "m_ID": 94,
-            "m_noteDesc": "Uther",
+            "m_ID": 97,
+            "m_noteDesc": "Jaina Proudmoore",
             "m_rarityId": 5,
             "m_collectible": 1,
             "m_craftable": 1,
@@ -7739,36 +7739,8 @@
             "m_coinCraftCost": 500
         },
         {
-            "m_ID": 95,
-            "m_noteDesc": "Cornelius Roame",
-            "m_rarityId": 3,
-            "m_collectible": 1,
-            "m_craftable": 0,
-            "m_acquireType": 2,
-            "m_howToAcquireText": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_coinCraftCost": 100
-        },
-        {
-            "m_ID": 97,
-            "m_noteDesc": "Jaina Proudmoore",
+            "m_ID": 94,
+            "m_noteDesc": "Uther",
             "m_rarityId": 5,
             "m_collectible": 1,
             "m_craftable": 1,
@@ -7821,6 +7793,34 @@
                 "m_locId": 0
             },
             "m_coinCraftCost": 300
+        },
+        {
+            "m_ID": 95,
+            "m_noteDesc": "Cornelius Roame",
+            "m_rarityId": 3,
+            "m_collectible": 1,
+            "m_craftable": 0,
+            "m_acquireType": 2,
+            "m_howToAcquireText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_coinCraftCost": 100
         },
         {
             "m_ID": 99,

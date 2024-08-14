@@ -11,33 +11,6 @@
     "m_Name": "SHOP_TIER",
     "Records": [
         {
-            "m_ID": 1,
-            "m_noteDesc": "Special Tier - Reserved for Welcome Bundle",
-            "m_style": "S",
-            "m_tags": "special",
-            "m_header": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_sortOrder": 0,
-            "m_disabled": 1
-        },
-        {
             "m_ID": 2,
             "m_noteDesc": "Bundles Tier - Typical Limited-Time Bundles like Pre-Purchase",
             "m_style": "A",
@@ -62,33 +35,6 @@
                 "m_locId": 0
             },
             "m_sortOrder": 1,
-            "m_disabled": 0
-        },
-        {
-            "m_ID": 3,
-            "m_noteDesc": "Standard Tier - Standard Booster Packs",
-            "m_style": "C",
-            "m_tags": "standard,boosters",
-            "m_header": {
-                "m_locValues": [
-                    "Card\nPacks",
-                    "Karten[d]packungen",
-                    "Sobres\nde cartas",
-                    "Paquetes\nde cartas",
-                    "Paquets\nde cartes",
-                    "Buste di\ncarte",
-                    "カードパック",
-                    "카드 팩",
-                    "Pakiety\nkart",
-                    "Pacotes\nde Cards",
-                    "Комплекты\nкарт",
-                    "ซอง\nการ์ด",
-                    "卡牌包",
-                    "卡牌包"
-                ],
-                "m_locId": 2716182
-            },
-            "m_sortOrder": 2,
             "m_disabled": 0
         },
         {
@@ -224,6 +170,60 @@
                 "m_locId": 0
             },
             "m_sortOrder": -1,
+            "m_disabled": 0
+        },
+        {
+            "m_ID": 1,
+            "m_noteDesc": "Special Tier - Reserved for Welcome Bundle",
+            "m_style": "S",
+            "m_tags": "special",
+            "m_header": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_sortOrder": 0,
+            "m_disabled": 1
+        },
+        {
+            "m_ID": 3,
+            "m_noteDesc": "Standard Tier - Standard Booster Packs",
+            "m_style": "C",
+            "m_tags": "standard,boosters",
+            "m_header": {
+                "m_locValues": [
+                    "Card\nPacks",
+                    "Karten[d]packungen",
+                    "Sobres\nde cartas",
+                    "Paquetes\nde cartas",
+                    "Paquets\nde cartes",
+                    "Buste di\ncarte",
+                    "カードパック",
+                    "카드 팩",
+                    "Pakiety\nkart",
+                    "Pacotes\nde Cards",
+                    "Комплекты\nкарт",
+                    "ซอง\nการ์ด",
+                    "卡牌包",
+                    "卡牌包"
+                ],
+                "m_locId": 2716182
+            },
+            "m_sortOrder": 2,
             "m_disabled": 0
         }
     ]
