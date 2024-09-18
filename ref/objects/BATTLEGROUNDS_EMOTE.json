@@ -4078,6 +4078,594 @@
             "m_borderType": 0
         },
         {
+            "m_ID": 185,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_collectionShortName": {
+                "m_locValues": [
+                    "Gnomeregan Omen",
+                    "Omen von Gnomeregan",
+                    "Augurio de Gnomeregan",
+                    "Augurio de Gnomeregan",
+                    "Présage de Gnomeregan",
+                    "Bifido di Gnomeregan",
+                    "ノームレガンのオーメン",
+                    "놈리건 오멘",
+                    "Omen z Gnomoregan",
+                    "Agouro de Gnomeregan",
+                    "Омен из Гномрегана",
+                    "โอเมนโนเมเรกัน",
+                    "诺莫瑞根的年兽",
+                    "諾姆瑞根年獸"
+                ],
+                "m_locId": 2906554
+            },
+            "m_description": {
+                "m_locValues": [
+                    "Emote in a match by selecting your hero.\n\nEarnable after purchasing the Battlegrounds Season Pass in Season <i>8</i>.",
+                    "Tippt im Match auf Euren Helden, um dieses Emote zu senden.\n\nKann nach Kauf des Schlachtfeld-Saisonpasses in Saison <i>8</i> freigeschaltet werden.",
+                    "Usa una frase durante un enfrentamiento seleccionando a tu héroe.\n\nSe puede conseguir al comprar el pase de temporada de Campos de batalla de la temporada <i>8</i>.",
+                    "Selecciona a tu héroe para usar emociones en una partida.\n\nSe puede obtener después de comprar el Pase de temporada de Campos de batalla en la temporada <i>8</i>.",
+                    "Utilisez des emotes dans vos parties en sélectionnant votre héros ou héroïne.\n\nS’obtient après avoir acheté le ticket saisonnier des champs de bataille lors de la saison <i>8</i>.",
+                    "Usa un'emote in partita selezionando il tuo eroe.\n\nOttenibile dopo aver acquistato il Pass Battaglia Stagionale nella Stagione <i>8</i>.",
+                    "対戦中にヒーローを選んで感情表現できる。\n\nバトルグラウンド・シーズン<i>8</i>の「シーズンパス」購入後に獲得可能となる。",
+                    "영웅을 선택하여 게임 중에 감정 표현을 전달하세요.\n\n<i>8</i>시즌 전장 시즌 패스를 구매한 후 획득 가능",
+                    "Użyj emotki podczas gry, wybierając swojego bohatera.\n\nDo zdobycia w karnecie sezonowym Ustawki w sezonie <i>8</i>.",
+                    "Use expressão numa partida selecionando seu herói.\n\nPossível de obter após comprar o Passe de Temporada dos Campos de Batalha na Temporada <i>8</i>.",
+                    "Воспользуйтесь репликами в ходе игры, выбрав героя.\n\nМожно открыть после покупки пропуска <i>8</i>-го сезона полей сражений.",
+                    "แสดงความรู้สึกในเกมได้โดยการเลือกฮีโร่ของคุณ\n\nปลดล็อคได้หลังจากซื้อซีซันพาส Battlegrounds ในซีซัน <i>8</i>",
+                    "选择你的英雄，在对战中发送表情。\n\n购买第<i>8</i>赛季的酒馆战棋赛季通行证后开放解锁。",
+                    "在對戰中選擇你的英雄即可使用表情符號。\n\n需在賽季<i>8</i>購買英雄戰場賽季通行證才有機會取得。"
+                ],
+                "m_locId": 2906555
+            },
+            "m_animationPath": "BV_GnomergonOmen_Rare.controller:8cc493b70622ae44eb7f1f32c69ebcec",
+            "m_xOffset": 0.0,
+            "m_zOffset": -0.053,
+            "m_isDefault": 0,
+            "m_isAnimating": 0,
+            "m_borderType": 0
+        },
+        {
+            "m_ID": 186,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_collectionShortName": {
+                "m_locValues": [
+                    "Future Nozdormu",
+                    "Nozdormu der Zukunft",
+                    "Nozdormu del Futuro",
+                    "Nozdormu del futuro",
+                    "Futur Nozdormu",
+                    "Nozdormu del Futuro",
+                    "未来のノズドルム",
+                    "미래 노즈도르무",
+                    "Nozdormu z Przyszłości",
+                    "Nozdormu do Futuro",
+                    "Ноздорму из будущего",
+                    "นอซดอร์มูจากอนาคต",
+                    "未来的诺兹多姆",
+                    "未來諾茲多姆"
+                ],
+                "m_locId": 2906556
+            },
+            "m_description": {
+                "m_locValues": [
+                    "Emote in a match by selecting your hero.\n\nEarnable after purchasing the Battlegrounds Season Pass in Season <i>8</i>.",
+                    "Tippt im Match auf Euren Helden, um dieses Emote zu senden.\n\nKann nach Kauf des Schlachtfeld-Saisonpasses in Saison <i>8</i> freigeschaltet werden.",
+                    "Usa una frase durante un enfrentamiento seleccionando a tu héroe.\n\nSe puede conseguir al comprar el pase de temporada de Campos de batalla de la temporada <i>8</i>.",
+                    "Selecciona a tu héroe para usar emociones en una partida.\n\nSe puede obtener después de comprar el Pase de temporada de Campos de batalla en la temporada <i>8</i>.",
+                    "Utilisez des emotes dans vos parties en sélectionnant votre héros ou héroïne.\n\nS’obtient après avoir acheté le ticket saisonnier des champs de bataille lors de la saison <i>8</i>.",
+                    "Usa un'emote in partita selezionando il tuo eroe.\n\nOttenibile dopo aver acquistato il Pass Battaglia Stagionale nella Stagione <i>8</i>.",
+                    "対戦中にヒーローを選んで感情表現できる。\n\nバトルグラウンド・シーズン<i>8</i>の「シーズンパス」購入後に獲得可能となる。",
+                    "영웅을 선택하여 게임 중에 감정 표현을 전달하세요.\n\n<i>8</i>시즌 전장 시즌 패스를 구매한 후 획득 가능",
+                    "Użyj emotki podczas gry, wybierając swojego bohatera.\n\nDo zdobycia w karnecie sezonowym Ustawki w sezonie <i>8</i>.",
+                    "Use expressão numa partida selecionando seu herói.\n\nPossível de obter após comprar o Passe de Temporada dos Campos de Batalha na Temporada <i>8</i>.",
+                    "Воспользуйтесь репликами в ходе игры, выбрав героя.\n\nМожно открыть после покупки пропуска <i>8</i>-го сезона полей сражений.",
+                    "แสดงความรู้สึกในเกมได้โดยการเลือกฮีโร่ของคุณ\n\nปลดล็อคได้หลังจากซื้อซีซันพาส Battlegrounds ในซีซัน <i>8</i>",
+                    "选择你的英雄，在对战中发送表情。\n\n购买第<i>8</i>赛季的酒馆战棋赛季通行证后开放解锁。",
+                    "在對戰中選擇你的英雄即可使用表情符號。\n\n需在賽季<i>8</i>購買英雄戰場賽季通行證才有機會取得。"
+                ],
+                "m_locId": 2906557
+            },
+            "m_animationPath": "BV_FutureNozdormu_Rare.controller:363d406f474f3c546b627ef6032cc61e",
+            "m_xOffset": 0.0,
+            "m_zOffset": -0.126,
+            "m_isDefault": 0,
+            "m_isAnimating": 0,
+            "m_borderType": 0
+        },
+        {
+            "m_ID": 187,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_collectionShortName": {
+                "m_locValues": [
+                    "Vendor Griftah",
+                    "Verkäufer Gaunah",
+                    "Vendedor Griftah",
+                    "Vendedor Griftah",
+                    "Eskrokar, vendeur de confiance",
+                    "Mercante Griftah",
+                    "商人グリフター",
+                    "상인 그립타",
+                    "Handlarz Przechera",
+                    "Trambik Comerciante",
+                    "Торговец Жуль",
+                    "พ่อค้ากริฟตาห์",
+                    "商人格里伏塔",
+                    "商人格利夫塔"
+                ],
+                "m_locId": 2906558
+            },
+            "m_description": {
+                "m_locValues": [
+                    "Emote in a match by selecting your hero.\n\nEarnable after purchasing the Battlegrounds Season Pass in Season <i>8</i>.",
+                    "Tippt im Match auf Euren Helden, um dieses Emote zu senden.\n\nKann nach Kauf des Schlachtfeld-Saisonpasses in Saison <i>8</i> freigeschaltet werden.",
+                    "Usa una frase durante un enfrentamiento seleccionando a tu héroe.\n\nSe puede conseguir al comprar el pase de temporada de Campos de batalla de la temporada <i>8</i>.",
+                    "Selecciona a tu héroe para usar emociones en una partida.\n\nSe puede obtener después de comprar el Pase de temporada de Campos de batalla en la temporada <i>8</i>.",
+                    "Utilisez des emotes dans vos parties en sélectionnant votre héros ou héroïne.\n\nS’obtient après avoir acheté le ticket saisonnier des champs de bataille lors de la saison <i>8</i>.",
+                    "Usa un'emote in partita selezionando il tuo eroe.\n\nOttenibile dopo aver acquistato il Pass Battaglia Stagionale nella Stagione <i>8</i>.",
+                    "対戦中にヒーローを選んで感情表現できる。\n\nバトルグラウンド・シーズン<i>8</i>の「シーズンパス」購入後に獲得可能となる。",
+                    "영웅을 선택하여 게임 중에 감정 표현을 전달하세요.\n\n<i>8</i>시즌 전장 시즌 패스를 구매한 후 획득 가능",
+                    "Użyj emotki podczas gry, wybierając swojego bohatera.\n\nDo zdobycia w karnecie sezonowym Ustawki w sezonie <i>8</i>.",
+                    "Use expressão numa partida selecionando seu herói.\n\nPossível de obter após comprar o Passe de Temporada dos Campos de Batalha na Temporada <i>8</i>.",
+                    "Воспользуйтесь репликами в ходе игры, выбрав героя.\n\nМожно открыть после покупки пропуска <i>8</i>-го сезона полей сражений.",
+                    "แสดงความรู้สึกในเกมได้โดยการเลือกฮีโร่ของคุณ\n\nปลดล็อคได้หลังจากซื้อซีซันพาส Battlegrounds ในซีซัน <i>8</i>",
+                    "选择你的英雄，在对战中发送表情。\n\n购买第<i>8</i>赛季的酒馆战棋赛季通行证后开放解锁。",
+                    "在對戰中選擇你的英雄即可使用表情符號。\n\n需在賽季<i>8</i>購買英雄戰場賽季通行證才有機會取得。"
+                ],
+                "m_locId": 2906559
+            },
+            "m_animationPath": "BV_Griftah_Rare.controller:d9041872f8b8f474ebf0b5cf7c029383",
+            "m_xOffset": 0.0,
+            "m_zOffset": -0.12,
+            "m_isDefault": 0,
+            "m_isAnimating": 0,
+            "m_borderType": 0
+        },
+        {
+            "m_ID": 188,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_collectionShortName": {
+                "m_locValues": [
+                    "Moody Jandice",
+                    "Launische Jandice",
+                    "Jandice malhumorada",
+                    "Jandice temperamental",
+                    "Jandice contrariée",
+                    "Jandice di Malumore",
+                    "不機嫌なジャンディス",
+                    "저기압 잔다이스",
+                    "Humorzasta Jandis",
+                    "Janice Rabugenta",
+                    "Капризная Джандис",
+                    "แจนดิซหัวเสีย",
+                    "阴郁的詹迪斯",
+                    "陰晴不定詹迪斯"
+                ],
+                "m_locId": 2906565
+            },
+            "m_description": {
+                "m_locValues": [
+                    "Emote in a match by selecting your hero.\n\nEarnable on the Battlegrounds Track in Season <i>8</i>.",
+                    "Tippt im Match auf Euren Helden, um dieses Emote zu senden.\n\nKann nach Kauf des Schlachtfeld-Saisonpasses in Saison <i>8</i> freigeschaltet werden.",
+                    "Usa una frase durante un enfrentamiento seleccionando a tu héroe.\n\nSe puede conseguir al comprar el pase de temporada de Campos de batalla de la temporada <i>8</i>.",
+                    "Selecciona a tu héroe para usar emociones en una partida.\n\nSe puede obtener después de comprar el Pase de temporada de Campos de batalla en la temporada <i>8</i>.",
+                    "Utilisez des emotes dans vos parties en sélectionnant votre héros ou héroïne.\n\nS’obtient après avoir acheté le ticket saisonnier des champs de bataille lors de la saison <i>8</i>.",
+                    "Usa un'emote in partita selezionando il tuo eroe.\n\nOttenibile dopo aver acquistato il Pass Battaglia Stagionale nella Stagione <i>8</i>.",
+                    "対戦中にヒーローを選んで感情表現できる。\n\nバトルグラウンド・シーズン<i>8</i>の「バトルグラウンド・レーン」で獲得可能。",
+                    "영웅을 선택하여 게임 중에 감정 표현을 전달하세요.\n\n<i>8</i>시즌 전장 시즌 패스를 구매한 후 획득 가능",
+                    "Użyj emotki podczas gry, wybierając swojego bohatera.\n\nDo zdobycia w karnecie sezonowym Ustawki w sezonie <i>8</i>.",
+                    "Use expressão numa partida selecionando seu herói.\n\nPossível de obter após comprar o Passe de Temporada dos Campos de Batalha na Temporada <i>8</i>.",
+                    "Воспользуйтесь репликами в ходе игры, выбрав героя.\n\nМожно открыть после покупки пропуска <i>8</i>-го сезона полей сражений.",
+                    "แสดงความรู้สึกในเกมได้โดยการเลือกฮีโร่ของคุณ\n\nปลดล็อคได้หลังจากซื้อซีซันพาส Battlegrounds ในซีซัน <i>8</i>",
+                    "选择你的英雄，在对战中发送表情。\n\n购买第<i>8</i>赛季的酒馆战棋赛季通行证后开放解锁。",
+                    "在對戰中選擇你的英雄即可使用表情符號。\n\n需在賽季<i>8</i>購買英雄戰場賽季通行證才有機會取得。"
+                ],
+                "m_locId": 2906560
+            },
+            "m_animationPath": "BV_MoodyJandice_Rare.controller:9a0fecb893be2f54aaba05b8bceaf821",
+            "m_xOffset": 0.0,
+            "m_zOffset": -0.09,
+            "m_isDefault": 0,
+            "m_isAnimating": 0,
+            "m_borderType": 0
+        },
+        {
+            "m_ID": 189,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_collectionShortName": {
+                "m_locValues": [
+                    "Castle Mutanus",
+                    "Burg-Mutanus",
+                    "Mutanus Castillo",
+                    "Mutanus castillo",
+                    "Mutanus le Rempart",
+                    "Mutanus Castello",
+                    "城のミュターヌス",
+                    "성 무타누스",
+                    "Zamkowy Mutanus",
+                    "Mutanus Castelão",
+                    "Дворцовый Мутанус",
+                    "มิวทานัสปราสาท",
+                    "城堡穆坦努斯",
+                    "城堡穆坦努斯"
+                ],
+                "m_locId": 2906563
+            },
+            "m_description": {
+                "m_locValues": [
+                    "Emote in a match by selecting your hero.\n\nEarnable on the Battlegrounds Track in Season <i>8</i>.",
+                    "Tippt im Match auf Euren Helden, um dieses Emote zu senden.\n\nKann nach Kauf des Schlachtfeld-Saisonpasses in Saison <i>8</i> freigeschaltet werden.",
+                    "Usa una frase durante un enfrentamiento seleccionando a tu héroe.\n\nSe puede conseguir al comprar el pase de temporada de Campos de batalla de la temporada <i>8</i>.",
+                    "Selecciona a tu héroe para usar emociones en una partida.\n\nSe puede obtener después de comprar el Pase de temporada de Campos de batalla en la temporada <i>8</i>.",
+                    "Utilisez des emotes dans vos parties en sélectionnant votre héros ou héroïne.\n\nS’obtient après avoir acheté le ticket saisonnier des champs de bataille lors de la saison <i>8</i>.",
+                    "Usa un'emote in partita selezionando il tuo eroe.\n\nOttenibile dopo aver acquistato il Pass Battaglia Stagionale nella Stagione <i>8</i>.",
+                    "対戦中にヒーローを選んで感情表現できる。\n\nバトルグラウンド・シーズン<i>8</i>の「バトルグラウンド・レーン」で獲得可能。",
+                    "영웅을 선택하여 게임 중에 감정 표현을 전달하세요.\n\n<i>8</i>시즌 전장 시즌 패스를 구매한 후 획득 가능",
+                    "Użyj emotki podczas gry, wybierając swojego bohatera.\n\nDo zdobycia w karnecie sezonowym Ustawki w sezonie <i>8</i>.",
+                    "Use expressão numa partida selecionando seu herói.\n\nPossível de obter após comprar o Passe de Temporada dos Campos de Batalha na Temporada <i>8</i>.",
+                    "Воспользуйтесь репликами в ходе игры, выбрав героя.\n\nМожно открыть после покупки пропуска <i>8</i>-го сезона полей сражений.",
+                    "แสดงความรู้สึกในเกมได้โดยการเลือกฮีโร่ของคุณ\n\nปลดล็อคได้หลังจากซื้อซีซันพาส Battlegrounds ในซีซัน <i>8</i>",
+                    "选择你的英雄，在对战中发送表情。\n\n购买第<i>8</i>赛季的酒馆战棋赛季通行证后开放解锁。",
+                    "在對戰中選擇你的英雄即可使用表情符號。\n\n需在賽季<i>8</i>購買英雄戰場賽季通行證才有機會取得。"
+                ],
+                "m_locId": 2906564
+            },
+            "m_animationPath": "BV_CastleMutanus_Rare.controller:5cf71a2b4db2b6a46a3a1d073010cab3",
+            "m_xOffset": 0.0,
+            "m_zOffset": -0.079,
+            "m_isDefault": 0,
+            "m_isAnimating": 0,
+            "m_borderType": 0
+        },
+        {
+            "m_ID": 190,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_collectionShortName": {
+                "m_locValues": [
+                    "Beach Chenvaala",
+                    "Strand-Chenvaala",
+                    "Chenvaala en la playa",
+                    "Chenvaala playero",
+                    "Chenvaa’la à la plage",
+                    "Chenvaala in Spiaggia",
+                    "ビーチのシェンヴァーラ",
+                    "해변 첸바라",
+                    "Plażowa Czenwaala",
+                    "Chenvaala Praiano",
+                    "Нави'ла на пляже",
+                    "เชนวาลาเที่ยวหาด",
+                    "滩头的齐恩瓦拉",
+                    "海灘泫瓦拉"
+                ],
+                "m_locId": 2906566
+            },
+            "m_description": {
+                "m_locValues": [
+                    "Emote in a match by selecting your hero.\n\nEarnable on the Battlegrounds Track in Season <i>8</i>.",
+                    "Tippt im Match auf Euren Helden, um dieses Emote zu senden.\n\nKann nach Kauf des Schlachtfeld-Saisonpasses in Saison <i>8</i> freigeschaltet werden.",
+                    "Usa una frase durante un enfrentamiento seleccionando a tu héroe.\n\nSe puede conseguir al comprar el pase de temporada de Campos de batalla de la temporada <i>8</i>.",
+                    "Selecciona a tu héroe para usar emociones en una partida.\n\nSe puede obtener después de comprar el Pase de temporada de Campos de batalla en la temporada <i>8</i>.",
+                    "Utilisez des emotes dans vos parties en sélectionnant votre héros ou héroïne.\n\nS’obtient après avoir acheté le ticket saisonnier des champs de bataille lors de la saison <i>8</i>.",
+                    "Usa un'emote in partita selezionando il tuo eroe.\n\nOttenibile dopo aver acquistato il Pass Battaglia Stagionale nella Stagione <i>8</i>.",
+                    "対戦中にヒーローを選んで感情表現できる。\n\nバトルグラウンド・シーズン<i>8</i>の「バトルグラウンド・レーン」で獲得可能。",
+                    "영웅을 선택하여 게임 중에 감정 표현을 전달하세요.\n\n<i>8</i>시즌 전장 시즌 패스를 구매한 후 획득 가능",
+                    "Użyj emotki podczas gry, wybierając swojego bohatera.\n\nDo zdobycia w karnecie sezonowym Ustawki w sezonie <i>8</i>.",
+                    "Use expressão numa partida selecionando seu herói.\n\nPossível de obter após comprar o Passe de Temporada dos Campos de Batalha na Temporada <i>8</i>.",
+                    "Воспользуйтесь репликами в ходе игры, выбрав героя.\n\nМожно открыть после покупки пропуска <i>8</i>-го сезона полей сражений.",
+                    "แสดงความรู้สึกในเกมได้โดยการเลือกฮีโร่ของคุณ\n\nปลดล็อคได้หลังจากซื้อซีซันพาส Battlegrounds ในซีซัน <i>8</i>",
+                    "选择你的英雄，在对战中发送表情。\n\n购买第<i>8</i>赛季的酒馆战棋赛季通行证后开放解锁。",
+                    "在對戰中選擇你的英雄即可使用表情符號。\n\n需在賽季<i>8</i>購買英雄戰場賽季通行證才有機會取得。"
+                ],
+                "m_locId": 2906567
+            },
+            "m_animationPath": "BV_BeachChenvaala_Rare.controller:4efcff644275e494981d417538776bf6",
+            "m_xOffset": 0.0,
+            "m_zOffset": -0.079,
+            "m_isDefault": 0,
+            "m_isAnimating": 0,
+            "m_borderType": 0
+        },
+        {
+            "m_ID": 191,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_collectionShortName": {
+                "m_locValues": [
+                    "Orgrimmar Faelin",
+                    "Faelin von Orgrimmar",
+                    "Faelin de Orgrimmar",
+                    "Faelin de Orgrimmar",
+                    "Faelin d’Orgrimmar",
+                    "Faelin di Orgrimmar",
+                    "オーグリマーのフェイリン",
+                    "오그리마 페이린",
+                    "Faelin z Orgrimmaru",
+                    "Faelin de Orgrimmar",
+                    "Фаэлин из Оргриммара",
+                    "เฟลินออร์กริมมาร์",
+                    "奥格瑞玛的费林",
+                    "奧格瑪費林"
+                ],
+                "m_locId": 2906568
+            },
+            "m_description": {
+                "m_locValues": [
+                    "Emote in a match by selecting your hero.\n\nEarnable on the Battlegrounds Track in Season <i>8</i>.",
+                    "Tippt im Match auf Euren Helden, um dieses Emote zu senden.\n\nKann nach Kauf des Schlachtfeld-Saisonpasses in Saison <i>8</i> freigeschaltet werden.",
+                    "Usa una frase durante un enfrentamiento seleccionando a tu héroe.\n\nSe puede conseguir al comprar el pase de temporada de Campos de batalla de la temporada <i>8</i>.",
+                    "Selecciona a tu héroe para usar emociones en una partida.\n\nSe puede obtener después de comprar el Pase de temporada de Campos de batalla en la temporada <i>8</i>.",
+                    "Utilisez des emotes dans vos parties en sélectionnant votre héros ou héroïne.\n\nS’obtient après avoir acheté le ticket saisonnier des champs de bataille lors de la saison <i>8</i>.",
+                    "Usa un'emote in partita selezionando il tuo eroe.\n\nOttenibile dopo aver acquistato il Pass Battaglia Stagionale nella Stagione <i>8</i>.",
+                    "対戦中にヒーローを選んで感情表現できる。\n\nバトルグラウンド・シーズン<i>8</i>の「バトルグラウンド・レーン」で獲得可能。",
+                    "영웅을 선택하여 게임 중에 감정 표현을 전달하세요.\n\n<i>8</i>시즌 전장 시즌 패스를 구매한 후 획득 가능",
+                    "Użyj emotki podczas gry, wybierając swojego bohatera.\n\nDo zdobycia w karnecie sezonowym Ustawki w sezonie <i>8</i>.",
+                    "Use expressão numa partida selecionando seu herói.\n\nPossível de obter após comprar o Passe de Temporada dos Campos de Batalha na Temporada <i>8</i>.",
+                    "Воспользуйтесь репликами в ходе игры, выбрав героя.\n\nМожно открыть после покупки пропуска <i>8</i>-го сезона полей сражений.",
+                    "แสดงความรู้สึกในเกมได้โดยการเลือกฮีโร่ของคุณ\n\nปลดล็อคได้หลังจากซื้อซีซันพาส Battlegrounds ในซีซัน <i>8</i>",
+                    "选择你的英雄，在对战中发送表情。\n\n购买第<i>8</i>赛季的酒馆战棋赛季通行证后开放解锁。",
+                    "在對戰中選擇你的英雄即可使用表情符號。\n\n需在賽季<i>8</i>購買英雄戰場賽季通行證才有機會取得。"
+                ],
+                "m_locId": 2906569
+            },
+            "m_animationPath": "BV_OrgrimmarFaelin_Epic.controller:59d2740b9d88e4746a893774717ad289",
+            "m_xOffset": -0.037,
+            "m_zOffset": -0.12,
+            "m_isDefault": 0,
+            "m_isAnimating": 1,
+            "m_borderType": 0
+        },
+        {
+            "m_ID": 192,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_collectionShortName": {
+                "m_locValues": [
+                    "Surfer Kael'thas",
+                    "Surfer Kael’thas",
+                    "Kael'thas surfero",
+                    "Kael'thas surfista",
+                    "Kael’thas le surfeur",
+                    "Kael'thas Surfista",
+                    "サーファーのケルサス",
+                    "서퍼 캘타스",
+                    "Kael'thas Surfer",
+                    "Kael'thas Surfista",
+                    "Серфер Кель'тас",
+                    "เคลธาสโต้คลื่น",
+                    "冲浪者凯尔萨斯",
+                    "衝浪手凱爾薩斯"
+                ],
+                "m_locId": 2906570
+            },
+            "m_description": {
+                "m_locValues": [
+                    "Emote in a match by selecting your hero.\n\nEarnable after purchasing the Battlegrounds Season Pass in Season <i>8</i>.",
+                    "Tippt im Match auf Euren Helden, um dieses Emote zu senden.\n\nKann nach Kauf des Schlachtfeld-Saisonpasses in Saison <i>8</i> freigeschaltet werden.",
+                    "Usa una frase durante un enfrentamiento seleccionando a tu héroe.\n\nSe puede conseguir al comprar el pase de temporada de Campos de batalla de la temporada <i>8</i>.",
+                    "Selecciona a tu héroe para usar emociones en una partida.\n\nSe puede obtener después de comprar el Pase de temporada de Campos de batalla en la temporada <i>8</i>.",
+                    "Utilisez des emotes dans vos parties en sélectionnant votre héros ou héroïne.\n\nS’obtient après avoir acheté le ticket saisonnier des champs de bataille lors de la saison <i>8</i>.",
+                    "Usa un'emote in partita selezionando il tuo eroe.\n\nOttenibile dopo aver acquistato il Pass Battaglia Stagionale nella Stagione <i>8</i>.",
+                    "対戦中にヒーローを選んで感情表現できる。\n\nバトルグラウンド・シーズン<i>8</i>の「シーズンパス」購入後に獲得可能となる。",
+                    "영웅을 선택하여 게임 중에 감정 표현을 전달하세요.\n\n<i>8</i>시즌 전장 시즌 패스를 구매한 후 획득 가능",
+                    "Użyj emotki podczas gry, wybierając swojego bohatera.\n\nDo zdobycia w karnecie sezonowym Ustawki w sezonie <i>8</i>.",
+                    "Use expressão numa partida selecionando seu herói.\n\nPossível de obter após comprar o Passe de Temporada dos Campos de Batalha na Temporada <i>8</i>.",
+                    "Воспользуйтесь репликами в ходе игры, выбрав героя.\n\nМожно открыть после покупки пропуска <i>8</i>-го сезона полей сражений.",
+                    "แสดงความรู้สึกในเกมได้โดยการเลือกฮีโร่ของคุณ\n\nปลดล็อคได้หลังจากซื้อซีซันพาส Battlegrounds ในซีซัน <i>8</i>",
+                    "选择你的英雄，在对战中发送表情。\n\n购买第<i>8</i>赛季的酒馆战棋赛季通行证后开放解锁。",
+                    "在對戰中選擇你的英雄即可使用表情符號。\n\n需在賽季<i>8</i>購買英雄戰場賽季通行證才有機會取得。"
+                ],
+                "m_locId": 2906571
+            },
+            "m_animationPath": "BV_SurferKaelthas_Epic.controller:91c3a71b81ba8734e821e6d575cc63d0",
+            "m_xOffset": 0.0,
+            "m_zOffset": -0.079,
+            "m_isDefault": 0,
+            "m_isAnimating": 1,
+            "m_borderType": 0
+        },
+        {
+            "m_ID": 193,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_collectionShortName": {
+                "m_locValues": [
+                    "Vacation Holmes",
+                    "Freizeit-Holmes",
+                    "Holmes de vacaciones",
+                    "Holmes vacacionista",
+                    "Holmes en vacances",
+                    "Holmes Vacanziero",
+                    "バカンスのホームズ",
+                    "휴가 홈즈",
+                    "Holmes Urlopowicz",
+                    "Holmes de Férias",
+                    "Холмс на отдыхе",
+                    "โฮล์มส์พักร้อน",
+                    "度假的福尔摩斯",
+                    "假期魚爾摩斯"
+                ],
+                "m_locId": 2906561
+            },
+            "m_description": {
+                "m_locValues": [
+                    "Emote in a match by selecting your hero.\n\nEarnable after purchasing the Battlegrounds Season Pass in Season <i>8</i>.",
+                    "Tippt im Match auf Euren Helden, um dieses Emote zu senden.\n\nKann nach Kauf des Schlachtfeld-Saisonpasses in Saison <i>8</i> freigeschaltet werden.",
+                    "Usa una frase durante un enfrentamiento seleccionando a tu héroe.\n\nSe puede conseguir al comprar el pase de temporada de Campos de batalla de la temporada <i>8</i>.",
+                    "Selecciona a tu héroe para usar emociones en una partida.\n\nSe puede obtener después de comprar el Pase de temporada de Campos de batalla en la temporada <i>8</i>.",
+                    "Utilisez des emotes dans vos parties en sélectionnant votre héros ou héroïne.\n\nS’obtient après avoir acheté le ticket saisonnier des champs de bataille lors de la saison <i>8</i>.",
+                    "Usa un'emote in partita selezionando il tuo eroe.\n\nOttenibile dopo aver acquistato il Pass Battaglia Stagionale nella Stagione <i>8</i>.",
+                    "対戦中にヒーローを選んで感情表現できる。\n\nバトルグラウンド・シーズン<i>8</i>の「シーズンパス」購入後に獲得可能となる。",
+                    "영웅을 선택하여 게임 중에 감정 표현을 전달하세요.\n\n<i>8</i>시즌 전장 시즌 패스를 구매한 후 획득 가능",
+                    "Użyj emotki podczas gry, wybierając swojego bohatera.\n\nDo zdobycia w karnecie sezonowym Ustawki w sezonie <i>8</i>.",
+                    "Use expressão numa partida selecionando seu herói.\n\nPossível de obter após comprar o Passe de Temporada dos Campos de Batalha na Temporada <i>8</i>.",
+                    "Воспользуйтесь репликами в ходе игры, выбрав героя.\n\nМожно открыть после покупки пропуска <i>8</i>-го сезона полей сражений.",
+                    "แสดงความรู้สึกในเกมได้โดยการเลือกฮีโร่ของคุณ\n\nปลดล็อคได้หลังจากซื้อซีซันพาส Battlegrounds ในซีซัน <i>8</i>",
+                    "选择你的英雄，在对战中发送表情。\n\n购买第<i>8</i>赛季的酒馆战棋赛季通行证后开放解锁。",
+                    "在對戰中選擇你的英雄即可使用表情符號。\n\n需在賽季<i>8</i>購買英雄戰場賽季通行證才有機會取得。"
+                ],
+                "m_locId": 2906562
+            },
+            "m_animationPath": "BV_VacationHolmes_Epic.controller:a5abbe602a6db894eba9fc56bd04f478",
+            "m_xOffset": -0.025,
+            "m_zOffset": -0.126,
+            "m_isDefault": 0,
+            "m_isAnimating": 1,
+            "m_borderType": 0
+        },
+        {
+            "m_ID": 194,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_collectionShortName": {
+                "m_locValues": [
+                    "Sunglasses Omen",
+                    "Sonnenbebrilltes Omen",
+                    "Augurio con gafas de sol",
+                    "Augurio con gafas de sol",
+                    "Présage à lunettes",
+                    "Bifido con Occhiali",
+                    "グラサンオーメン",
+                    "색안경 오멘",
+                    "Omen w Okularach",
+                    "Agouro de Óculos Escuros",
+                    "Омен — солнечные очки",
+                    "โอเมนแว่นกันแดด",
+                    "墨镜年兽",
+                    "墨鏡年獸"
+                ],
+                "m_locId": 2906578
+            },
+            "m_description": {
+                "m_locValues": [
+                    "Emote in a match by selecting your hero.\n\nEarnable after purchasing the Battlegrounds Season Pass in Season <i>8</i>.",
+                    "Tippt im Match auf Euren Helden, um dieses Emote zu senden.\n\nKann nach Kauf des Schlachtfeld-Saisonpasses in Saison <i>8</i> freigeschaltet werden.",
+                    "Usa una frase durante un enfrentamiento seleccionando a tu héroe.\n\nSe puede conseguir al comprar el pase de temporada de Campos de batalla de la temporada <i>8</i>.",
+                    "Selecciona a tu héroe para usar emociones en una partida.\n\nSe puede obtener después de comprar el Pase de temporada de Campos de batalla en la temporada <i>8</i>.",
+                    "Utilisez des emotes dans vos parties en sélectionnant votre héros ou héroïne.\n\nS’obtient après avoir acheté le ticket saisonnier des champs de bataille lors de la saison <i>8</i>.",
+                    "Usa un'emote in partita selezionando il tuo eroe.\n\nOttenibile dopo aver acquistato il Pass Battaglia Stagionale nella Stagione <i>8</i>.",
+                    "対戦中にヒーローを選んで感情表現できる。\n\nバトルグラウンド・シーズン<i>8</i>の「シーズンパス」購入後に獲得可能となる。",
+                    "영웅을 선택하여 게임 중에 감정 표현을 전달하세요.\n\n<i>8</i>시즌 전장 시즌 패스를 구매한 후 획득 가능",
+                    "Użyj emotki podczas gry, wybierając swojego bohatera.\n\nDo zdobycia w karnecie sezonowym Ustawki w sezonie <i>8</i>.",
+                    "Use expressão numa partida selecionando seu herói.\n\nPossível de obter após comprar o Passe de Temporada dos Campos de Batalha na Temporada <i>8</i>.",
+                    "Воспользуйтесь репликами в ходе игры, выбрав героя.\n\nМожно открыть после покупки пропуска <i>8</i>-го сезона полей сражений.",
+                    "แสดงความรู้สึกในเกมได้โดยการเลือกฮีโร่ของคุณ\n\nปลดล็อคได้หลังจากซื้อซีซันพาส Battlegrounds ในซีซัน <i>8</i>",
+                    "选择你的英雄，在对战中发送表情。\n\n购买第<i>8</i>赛季的酒馆战棋赛季通行证后开放解锁。",
+                    "在對戰中選擇你的英雄即可使用表情符號。\n\n需在賽季<i>8</i>購買英雄戰場賽季通行證才有機會取得。"
+                ],
+                "m_locId": 2906579
+            },
+            "m_animationPath": "BV_HaveFun_GnomergonOmen_Epic.controller:104218efae09cf848a5824bf9af8d8a1",
+            "m_xOffset": 0.0,
+            "m_zOffset": -0.17,
+            "m_isDefault": 0,
+            "m_isAnimating": 1,
+            "m_borderType": 0
+        },
+        {
+            "m_ID": 195,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_collectionShortName": {
+                "m_locValues": [
+                    "Laughing Nozdormu",
+                    "Lachender Nozdormu",
+                    "Nozdormu de risas",
+                    "Nozdormu sonriente",
+                    "Nozdormu rieur",
+                    "Nozdormu Ridacchiante",
+                    "笑うノズドルム",
+                    "폭소하는 노즈도르무",
+                    "Uchachany Nozdormu",
+                    "Nozdormu Sorridente",
+                    "Смеющийся Ноздорму",
+                    "นอซดอร์มูหัวเราะ",
+                    "大笑的诺兹多姆",
+                    "大笑諾茲多姆"
+                ],
+                "m_locId": 2906574
+            },
+            "m_description": {
+                "m_locValues": [
+                    "Emote in a match by selecting your hero.\n\nEarnable after purchasing the Battlegrounds Season Pass in Season <i>8</i>.",
+                    "Tippt im Match auf Euren Helden, um dieses Emote zu senden.\n\nKann nach Kauf des Schlachtfeld-Saisonpasses in Saison <i>8</i> freigeschaltet werden.",
+                    "Usa una frase durante un enfrentamiento seleccionando a tu héroe.\n\nSe puede conseguir al comprar el pase de temporada de Campos de batalla de la temporada <i>8</i>.",
+                    "Selecciona a tu héroe para usar emociones en una partida.\n\nSe puede obtener después de comprar el Pase de temporada de Campos de batalla en la temporada <i>8</i>.",
+                    "Utilisez des emotes dans vos parties en sélectionnant votre héros ou héroïne.\n\nS’obtient après avoir acheté le ticket saisonnier des champs de bataille lors de la saison <i>8</i>.",
+                    "Usa un'emote in partita selezionando il tuo eroe.\n\nOttenibile dopo aver acquistato il Pass Battaglia Stagionale nella Stagione <i>8</i>.",
+                    "対戦中にヒーローを選んで感情表現できる。\n\nバトルグラウンド・シーズン<i>8</i>の「シーズンパス」購入後に獲得可能となる。",
+                    "영웅을 선택하여 게임 중에 감정 표현을 전달하세요.\n\n<i>8</i>시즌 전장 시즌 패스를 구매한 후 획득 가능",
+                    "Użyj emotki podczas gry, wybierając swojego bohatera.\n\nDo zdobycia w karnecie sezonowym Ustawki w sezonie <i>8</i>.",
+                    "Use expressão numa partida selecionando seu herói.\n\nPossível de obter após comprar o Passe de Temporada dos Campos de Batalha na Temporada <i>8</i>.",
+                    "Воспользуйтесь репликами в ходе игры, выбрав героя.\n\nМожно открыть после покупки пропуска <i>8</i>-го сезона полей сражений.",
+                    "แสดงความรู้สึกในเกมได้โดยการเลือกฮีโร่ของคุณ\n\nปลดล็อคได้หลังจากซื้อซีซันพาส Battlegrounds ในซีซัน <i>8</i>",
+                    "选择你的英雄，在对战中发送表情。\n\n购买第<i>8</i>赛季的酒馆战棋赛季通行证后开放解锁。",
+                    "在對戰中選擇你的英雄即可使用表情符號。\n\n需在賽季<i>8</i>購買英雄戰場賽季通行證才有機會取得。"
+                ],
+                "m_locId": 2906575
+            },
+            "m_animationPath": "BV_HaveFun_FutureNozdormu_Rare.controller:3e1e703d9b01383489e716f56e65b05c",
+            "m_xOffset": 0.0,
+            "m_zOffset": -0.123,
+            "m_isDefault": 0,
+            "m_isAnimating": 0,
+            "m_borderType": 0
+        },
+        {
+            "m_ID": 196,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_collectionShortName": {
+                "m_locValues": [
+                    "Just Right Griftah",
+                    "„Genau richtig“-Gaunah",
+                    "Griftah en su punto",
+                    "Griftah a la perfección",
+                    "Parfait Eskrokar",
+                    "Griftah Perfezione",
+                    "ちょうどいいグリフター",
+                    "딱 좋아 그립타",
+                    "Przechera w Sam Raz",
+                    "Trambik na Medida Certa",
+                    "Жуль — в самый раз",
+                    "กริฟตาห์พอเหมาะ",
+                    "买就对了格里伏塔",
+                    "感覺正好格利夫塔"
+                ],
+                "m_locId": 2906572
+            },
+            "m_description": {
+                "m_locValues": [
+                    "Emote in a match by selecting your hero.\n\nEarnable after purchasing the Battlegrounds Season Pass in Season <i>8</i>.",
+                    "Tippt im Match auf Euren Helden, um dieses Emote zu senden.\n\nKann nach Kauf des Schlachtfeld-Saisonpasses in Saison <i>8</i> freigeschaltet werden.",
+                    "Usa una frase durante un enfrentamiento seleccionando a tu héroe.\n\nSe puede conseguir al comprar el pase de temporada de Campos de batalla de la temporada <i>8</i>.",
+                    "Selecciona a tu héroe para usar emociones en una partida.\n\nSe puede obtener después de comprar el Pase de temporada de Campos de batalla en la temporada <i>8</i>.",
+                    "Utilisez des emotes dans vos parties en sélectionnant votre héros ou héroïne.\n\nS’obtient après avoir acheté le ticket saisonnier des champs de bataille lors de la saison <i>8</i>.",
+                    "Usa un'emote in partita selezionando il tuo eroe.\n\nOttenibile dopo aver acquistato il Pass Battaglia Stagionale nella Stagione <i>8</i>.",
+                    "対戦中にヒーローを選んで感情表現できる。\n\nバトルグラウンド・シーズン<i>8</i>の「シーズンパス」購入後に獲得可能となる。",
+                    "영웅을 선택하여 게임 중에 감정 표현을 전달하세요.\n\n<i>8</i>시즌 전장 시즌 패스를 구매한 후 획득 가능",
+                    "Użyj emotki podczas gry, wybierając swojego bohatera.\n\nDo zdobycia w karnecie sezonowym Ustawki w sezonie <i>8</i>.",
+                    "Use expressão numa partida selecionando seu herói.\n\nPossível de obter após comprar o Passe de Temporada dos Campos de Batalha na Temporada <i>8</i>.",
+                    "Воспользуйтесь репликами в ходе игры, выбрав героя.\n\nМожно открыть после покупки пропуска <i>8</i>-го сезона полей сражений.",
+                    "แสดงความรู้สึกในเกมได้โดยการเลือกฮีโร่ของคุณ\n\nปลดล็อคได้หลังจากซื้อซีซันพาส Battlegrounds ในซีซัน <i>8</i>",
+                    "选择你的英雄，在对战中发送表情。\n\n购买第<i>8</i>赛季的酒馆战棋赛季通行证后开放解锁。",
+                    "在對戰中選擇你的英雄即可使用表情符號。\n\n需在賽季<i>8</i>購買英雄戰場賽季通行證才有機會取得。"
+                ],
+                "m_locId": 2906573
+            },
+            "m_animationPath": "BV_HaveFun_Griftah_Rare.controller:4ea7dba0b1840894da8390ea4d5303fb",
+            "m_xOffset": 0.0,
+            "m_zOffset": -0.079,
+            "m_isDefault": 0,
+            "m_isAnimating": 0,
+            "m_borderType": 0
+        },
+        {
             "m_ID": 2,
             "m_enabled": 1,
             "m_rarityId": 2,
@@ -4813,55 +5401,6 @@
             "m_borderType": 0
         },
         {
-            "m_ID": 42,
-            "m_enabled": 1,
-            "m_rarityId": 3,
-            "m_collectionShortName": {
-                "m_locValues": [
-                    "Seasick Cookie",
-                    "Seekranker Krümel",
-                    "Cocinitas mareado",
-                    "Cocinitas mareado",
-                    "Macaron malade en mer",
-                    "Mal di Mare di Dolcetto",
-                    "船酔いクッキー",
-                    "멀미하는 쿠키",
-                    "Chory Ciastek",
-                    "Cozito Mareado",
-                    "Морская болезнь Пирожка",
-                    "คุกกี้เมาคลื่น",
-                    "晕船的曲奇",
-                    "暈船的餅乾"
-                ],
-                "m_locId": 2857182
-            },
-            "m_description": {
-                "m_locValues": [
-                    "Emote in a match by selecting your hero. \n\nPurchasable when available in the shop.",
-                    "Tippt im Match auf Euren Helden, um dieses Emote zu senden.\n\nKann bei Verfügbarkeit im Shop erworben werden.",
-                    "Expresa una emoción durante la partida seleccionando a tu héroe.\n\nSe compra en la tienda cuando esté disponible.",
-                    "Selecciona a tu héroe para usar emociones en una partida.\n\nSe puede comprar si está disponible en la tienda.",
-                    "Utilisez des emotes dans vos parties en sélectionnant votre héros ou héroïne. \n\nCe plateau s’obtient en l’achetant lorsqu’il est disponible dans la boutique.",
-                    "Usa un'emote in partita selezionando il tuo eroe.\n\nAcquistabile quando disponibile nel negozio.",
-                    "対戦中にヒーローを選んで感情表現できる。\n\nショップでの販売時に購入可能。",
-                    "영웅을 선택하여 게임 중에 감정 표현을 전달하세요.\n\n상점에서 판매 시 구매하여 획득",
-                    "Użyj emotki podczas gry, wybierając swojego bohatera. \n\nDo zakupu po udostępnieniu w sklepie.",
-                    "Use expressão numa partida selecionando seu herói. \n\nPossível de adquirir quando disponível na loja.",
-                    "Воспользуйтесь репликами в ходе игры, выбрав своего героя.\n\nМожно приобрести в магазине.",
-                    "แสดงความรู้สึกในเกมได้โดยการเลือกฮีโร่ของคุณ\n\nซื้อได้เมื่อวางจำหน่ายในร้านค้า",
-                    "选择你的英雄，在对战中发送表情。\n\n可以在上架期间在商店购买。",
-                    "在對戰中選擇你的英雄即可使用表情符號。\n\n於商店上架時購買取得。"
-                ],
-                "m_locId": 2857183
-            },
-            "m_animationPath": "BG_Murlocs Cookie_the_Cook_final.controller:3e9230803d6faca49bf8ada2106d64fc",
-            "m_xOffset": -0.01,
-            "m_zOffset": -0.06,
-            "m_isDefault": 0,
-            "m_isAnimating": 0,
-            "m_borderType": 0
-        },
-        {
             "m_ID": 40,
             "m_enabled": 1,
             "m_rarityId": 3,
@@ -4906,55 +5445,6 @@
             "m_animationPath": "MG_Villains_Shadow_Helm_Saurfang_final.controller:3f36b0b9b8c6eac4eb6f333caa34af3c",
             "m_xOffset": 0.0,
             "m_zOffset": -0.079,
-            "m_isDefault": 0,
-            "m_isAnimating": 0,
-            "m_borderType": 0
-        },
-        {
-            "m_ID": 43,
-            "m_enabled": 1,
-            "m_rarityId": 3,
-            "m_collectionShortName": {
-                "m_locValues": [
-                    "Hat Tip Deryl",
-                    "Hut antippender Steppke",
-                    "Deryl saludando",
-                    "Daryl saludo con sombrero",
-                    "Daryl tirant son chapeau",
-                    "Punta di Cappello di Sfrl",
-                    "敬礼ダリル",
-                    "모자 인사 다릴",
-                    "Hejka, tu Daryl!",
-                    "Dário Tira-Chapéu",
-                    "Дэрил снимает шляпу",
-                    "เดริลขยับหมวก",
-                    "脱帽的达瑞尔",
-                    "舉帽戴瑞"
-                ],
-                "m_locId": 2857184
-            },
-            "m_description": {
-                "m_locValues": [
-                    "Emote in a match by selecting your hero. \n\nPurchasable when available in the shop.",
-                    "Tippt im Match auf Euren Helden, um dieses Emote zu senden.\n\nKann bei Verfügbarkeit im Shop erworben werden.",
-                    "Expresa una emoción durante la partida seleccionando a tu héroe.\n\nSe compra en la tienda cuando esté disponible.",
-                    "Selecciona a tu héroe para usar emociones en una partida.\n\nSe puede comprar si está disponible en la tienda.",
-                    "Utilisez des emotes dans vos parties en sélectionnant votre héros ou héroïne. \n\nCe plateau s’obtient en l’achetant lorsqu’il est disponible dans la boutique.",
-                    "Usa un'emote in partita selezionando il tuo eroe.\n\nAcquistabile quando disponibile nel negozio.",
-                    "対戦中にヒーローを選んで感情表現できる。\n\nショップでの販売時に購入可能。",
-                    "영웅을 선택하여 게임 중에 감정 표현을 전달하세요.\n\n상점에서 판매 시 구매하여 획득",
-                    "Użyj emotki podczas gry, wybierając swojego bohatera. \n\nDo zakupu po udostępnieniu w sklepie.",
-                    "Use expressão numa partida selecionando seu herói. \n\nPossível de adquirir quando disponível na loja.",
-                    "Воспользуйтесь репликами в ходе игры, выбрав своего героя.\n\nМожно приобрести в магазине.",
-                    "แสดงความรู้สึกในเกมได้โดยการเลือกฮีโร่ของคุณ\n\nซื้อได้เมื่อวางจำหน่ายในร้านค้า",
-                    "选择你的英雄，在对战中发送表情。\n\n可以在上架期间在商店购买。",
-                    "在對戰中選擇你的英雄即可使用表情符號。\n\n於商店上架時購買取得。"
-                ],
-                "m_locId": 2857185
-            },
-            "m_animationPath": "BG_Murlocs_Dancin_Deryl_final.controller:7cf0f9cd3fb69be409abecbf33c5f1bb",
-            "m_xOffset": -0.116,
-            "m_zOffset": -0.14,
             "m_isDefault": 0,
             "m_isAnimating": 0,
             "m_borderType": 0
@@ -5009,6 +5499,104 @@
             "m_borderType": 0
         },
         {
+            "m_ID": 42,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_collectionShortName": {
+                "m_locValues": [
+                    "Seasick Cookie",
+                    "Seekranker Krümel",
+                    "Cocinitas mareado",
+                    "Cocinitas mareado",
+                    "Macaron malade en mer",
+                    "Mal di Mare di Dolcetto",
+                    "船酔いクッキー",
+                    "멀미하는 쿠키",
+                    "Chory Ciastek",
+                    "Cozito Mareado",
+                    "Морская болезнь Пирожка",
+                    "คุกกี้เมาคลื่น",
+                    "晕船的曲奇",
+                    "暈船的餅乾"
+                ],
+                "m_locId": 2857182
+            },
+            "m_description": {
+                "m_locValues": [
+                    "Emote in a match by selecting your hero. \n\nPurchasable when available in the shop.",
+                    "Tippt im Match auf Euren Helden, um dieses Emote zu senden.\n\nKann bei Verfügbarkeit im Shop erworben werden.",
+                    "Expresa una emoción durante la partida seleccionando a tu héroe.\n\nSe compra en la tienda cuando esté disponible.",
+                    "Selecciona a tu héroe para usar emociones en una partida.\n\nSe puede comprar si está disponible en la tienda.",
+                    "Utilisez des emotes dans vos parties en sélectionnant votre héros ou héroïne. \n\nCe plateau s’obtient en l’achetant lorsqu’il est disponible dans la boutique.",
+                    "Usa un'emote in partita selezionando il tuo eroe.\n\nAcquistabile quando disponibile nel negozio.",
+                    "対戦中にヒーローを選んで感情表現できる。\n\nショップでの販売時に購入可能。",
+                    "영웅을 선택하여 게임 중에 감정 표현을 전달하세요.\n\n상점에서 판매 시 구매하여 획득",
+                    "Użyj emotki podczas gry, wybierając swojego bohatera. \n\nDo zakupu po udostępnieniu w sklepie.",
+                    "Use expressão numa partida selecionando seu herói. \n\nPossível de adquirir quando disponível na loja.",
+                    "Воспользуйтесь репликами в ходе игры, выбрав своего героя.\n\nМожно приобрести в магазине.",
+                    "แสดงความรู้สึกในเกมได้โดยการเลือกฮีโร่ของคุณ\n\nซื้อได้เมื่อวางจำหน่ายในร้านค้า",
+                    "选择你的英雄，在对战中发送表情。\n\n可以在上架期间在商店购买。",
+                    "在對戰中選擇你的英雄即可使用表情符號。\n\n於商店上架時購買取得。"
+                ],
+                "m_locId": 2857183
+            },
+            "m_animationPath": "BG_Murlocs Cookie_the_Cook_final.controller:3e9230803d6faca49bf8ada2106d64fc",
+            "m_xOffset": -0.01,
+            "m_zOffset": -0.06,
+            "m_isDefault": 0,
+            "m_isAnimating": 0,
+            "m_borderType": 0
+        },
+        {
+            "m_ID": 43,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_collectionShortName": {
+                "m_locValues": [
+                    "Hat Tip Deryl",
+                    "Hut antippender Steppke",
+                    "Deryl saludando",
+                    "Daryl saludo con sombrero",
+                    "Daryl tirant son chapeau",
+                    "Punta di Cappello di Sfrl",
+                    "敬礼ダリル",
+                    "모자 인사 다릴",
+                    "Hejka, tu Daryl!",
+                    "Dário Tira-Chapéu",
+                    "Дэрил снимает шляпу",
+                    "เดริลขยับหมวก",
+                    "脱帽的达瑞尔",
+                    "舉帽戴瑞"
+                ],
+                "m_locId": 2857184
+            },
+            "m_description": {
+                "m_locValues": [
+                    "Emote in a match by selecting your hero. \n\nPurchasable when available in the shop.",
+                    "Tippt im Match auf Euren Helden, um dieses Emote zu senden.\n\nKann bei Verfügbarkeit im Shop erworben werden.",
+                    "Expresa una emoción durante la partida seleccionando a tu héroe.\n\nSe compra en la tienda cuando esté disponible.",
+                    "Selecciona a tu héroe para usar emociones en una partida.\n\nSe puede comprar si está disponible en la tienda.",
+                    "Utilisez des emotes dans vos parties en sélectionnant votre héros ou héroïne. \n\nCe plateau s’obtient en l’achetant lorsqu’il est disponible dans la boutique.",
+                    "Usa un'emote in partita selezionando il tuo eroe.\n\nAcquistabile quando disponibile nel negozio.",
+                    "対戦中にヒーローを選んで感情表現できる。\n\nショップでの販売時に購入可能。",
+                    "영웅을 선택하여 게임 중에 감정 표현을 전달하세요.\n\n상점에서 판매 시 구매하여 획득",
+                    "Użyj emotki podczas gry, wybierając swojego bohatera. \n\nDo zakupu po udostępnieniu w sklepie.",
+                    "Use expressão numa partida selecionando seu herói. \n\nPossível de adquirir quando disponível na loja.",
+                    "Воспользуйтесь репликами в ходе игры, выбрав своего героя.\n\nМожно приобрести в магазине.",
+                    "แสดงความรู้สึกในเกมได้โดยการเลือกฮีโร่ของคุณ\n\nซื้อได้เมื่อวางจำหน่ายในร้านค้า",
+                    "选择你的英雄，在对战中发送表情。\n\n可以在上架期间在商店购买。",
+                    "在對戰中選擇你的英雄即可使用表情符號。\n\n於商店上架時購買取得。"
+                ],
+                "m_locId": 2857185
+            },
+            "m_animationPath": "BG_Murlocs_Dancin_Deryl_final.controller:7cf0f9cd3fb69be409abecbf33c5f1bb",
+            "m_xOffset": -0.116,
+            "m_zOffset": -0.14,
+            "m_isDefault": 0,
+            "m_isAnimating": 0,
+            "m_borderType": 0
+        },
+        {
             "m_ID": 44,
             "m_enabled": 1,
             "m_rarityId": 3,
@@ -5058,55 +5646,6 @@
             "m_borderType": 0
         },
         {
-            "m_ID": 48,
-            "m_enabled": 1,
-            "m_rarityId": 3,
-            "m_collectionShortName": {
-                "m_locValues": [
-                    "Flexin' Swolefin",
-                    "Angeber Muckiflosse",
-                    "Músculo de Escamazado",
-                    "Musculeta forzudo",
-                    "Gonflaileron frimeur",
-                    "Muscoli di Pinnagonfia",
-                    "筋肉ムキムキフィン",
-                    "몸자랑 근육지느러미",
-                    "Napinka Pompopłetwa",
-                    "Muquepina Sarado",
-                    "Мускулы Могучего Плавника",
-                    "สโวลฟินเบ่งกล้าม",
-                    "绷块的筋肉鱼人",
-                    "秀肌肉的壯鰭"
-                ],
-                "m_locId": 2857194
-            },
-            "m_description": {
-                "m_locValues": [
-                    "Emote in a match by selecting your hero. \n\nPurchasable when available in the shop.",
-                    "Tippt im Match auf Euren Helden, um dieses Emote zu senden.\n\nKann bei Verfügbarkeit im Shop erworben werden.",
-                    "Expresa una emoción durante la partida seleccionando a tu héroe.\n\nSe compra en la tienda cuando esté disponible.",
-                    "Selecciona a tu héroe para usar emociones en una partida.\n\nSe puede comprar si está disponible en la tienda.",
-                    "Utilisez des emotes dans vos parties en sélectionnant votre héros ou héroïne. \n\nCe plateau s’obtient en l’achetant lorsqu’il est disponible dans la boutique.",
-                    "Usa un'emote in partita selezionando il tuo eroe.\n\nAcquistabile quando disponibile nel negozio.",
-                    "対戦中にヒーローを選んで感情表現できる。\n\nショップでの販売時に購入可能。",
-                    "영웅을 선택하여 게임 중에 감정 표현을 전달하세요.\n\n상점에서 판매 시 구매하여 획득",
-                    "Użyj emotki podczas gry, wybierając swojego bohatera. \n\nDo zakupu po udostępnieniu w sklepie.",
-                    "Use expressão numa partida selecionando seu herói. \n\nPossível de adquirir quando disponível na loja.",
-                    "Воспользуйтесь репликами в ходе игры, выбрав своего героя.\n\nМожно приобрести в магазине.",
-                    "แสดงความรู้สึกในเกมได้โดยการเลือกฮีโร่ของคุณ\n\nซื้อได้เมื่อวางจำหน่ายในร้านค้า",
-                    "选择你的英雄，在对战中发送表情。\n\n可以在上架期间在商店购买。",
-                    "在對戰中選擇你的英雄即可使用表情符號。\n\n於商店上架時購買取得。"
-                ],
-                "m_locId": 2857195
-            },
-            "m_animationPath": "BG_Murlocs_Swolefin_final.controller:db82fe1c1479cee40bdc1b0cd9a292e3",
-            "m_xOffset": 0.013,
-            "m_zOffset": -0.079,
-            "m_isDefault": 0,
-            "m_isAnimating": 0,
-            "m_borderType": 0
-        },
-        {
             "m_ID": 45,
             "m_enabled": 1,
             "m_rarityId": 3,
@@ -5151,55 +5690,6 @@
             "m_animationPath": "BG_Murlocs_Mutanus_the_Devourer_final.controller:70a15281e93a8c74eb1ed751521614e9",
             "m_xOffset": 0.037,
             "m_zOffset": -0.079,
-            "m_isDefault": 0,
-            "m_isAnimating": 0,
-            "m_borderType": 0
-        },
-        {
-            "m_ID": 49,
-            "m_enabled": 1,
-            "m_rarityId": 3,
-            "m_collectionShortName": {
-                "m_locValues": [
-                    "Taunting Toxfin",
-                    "Spottende Giftflosse",
-                    "Toxinaleta chinchando",
-                    "Toxialeta provocador",
-                    "Aileron-Toxique provocateur",
-                    "Provocazione di Pinnatossica",
-                    "毒々フィンの挑発",
-                    "도발하는 독성지느러미 멀록",
-                    "Prowokujący Trutkopłetw",
-                    "Toxipina Provocador",
-                    "Насмешки Ядовитого Плавника",
-                    "ท็อกซ์ฟินท้าทาย",
-                    "嘲讽的毒鳍鱼人",
-                    "嘲諷的毒鰭魚人"
-                ],
-                "m_locId": 2857196
-            },
-            "m_description": {
-                "m_locValues": [
-                    "Emote in a match by selecting your hero. \n\nPurchasable when available in the shop.",
-                    "Tippt im Match auf Euren Helden, um dieses Emote zu senden.\n\nKann bei Verfügbarkeit im Shop erworben werden.",
-                    "Expresa una emoción durante la partida seleccionando a tu héroe.\n\nSe compra en la tienda cuando esté disponible.",
-                    "Selecciona a tu héroe para usar emociones en una partida.\n\nSe puede comprar si está disponible en la tienda.",
-                    "Utilisez des emotes dans vos parties en sélectionnant votre héros ou héroïne. \n\nCe plateau s’obtient en l’achetant lorsqu’il est disponible dans la boutique.",
-                    "Usa un'emote in partita selezionando il tuo eroe.\n\nAcquistabile quando disponibile nel negozio.",
-                    "対戦中にヒーローを選んで感情表現できる。\n\nショップでの販売時に購入可能。",
-                    "영웅을 선택하여 게임 중에 감정 표현을 전달하세요.\n\n상점에서 판매 시 구매하여 획득",
-                    "Użyj emotki podczas gry, wybierając swojego bohatera. \n\nDo zakupu po udostępnieniu w sklepie.",
-                    "Use expressão numa partida selecionando seu herói. \n\nPossível de adquirir quando disponível na loja.",
-                    "Воспользуйтесь репликами в ходе игры, выбрав своего героя.\n\nМожно приобрести в магазине.",
-                    "แสดงความรู้สึกในเกมได้โดยการเลือกฮีโร่ของคุณ\n\nซื้อได้เมื่อวางจำหน่ายในร้านค้า",
-                    "选择你的英雄，在对战中发送表情。\n\n可以在上架期间在商店购买。",
-                    "在對戰中選擇你的英雄即可使用表情符號。\n\n於商店上架時購買取得。"
-                ],
-                "m_locId": 2857197
-            },
-            "m_animationPath": "BG_Murlocs_Toxfin_final.controller:b6945f10a8f0448489b095174f386c32",
-            "m_xOffset": -0.01,
-            "m_zOffset": -0.09,
             "m_isDefault": 0,
             "m_isAnimating": 0,
             "m_borderType": 0
@@ -5299,6 +5789,692 @@
             "m_xOffset": 0.0,
             "m_zOffset": -0.079,
             "m_isDefault": 0,
+            "m_isAnimating": 0,
+            "m_borderType": 0
+        },
+        {
+            "m_ID": 48,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_collectionShortName": {
+                "m_locValues": [
+                    "Flexin' Swolefin",
+                    "Angeber Muckiflosse",
+                    "Músculo de Escamazado",
+                    "Musculeta forzudo",
+                    "Gonflaileron frimeur",
+                    "Muscoli di Pinnagonfia",
+                    "筋肉ムキムキフィン",
+                    "몸자랑 근육지느러미",
+                    "Napinka Pompopłetwa",
+                    "Muquepina Sarado",
+                    "Мускулы Могучего Плавника",
+                    "สโวลฟินเบ่งกล้าม",
+                    "绷块的筋肉鱼人",
+                    "秀肌肉的壯鰭"
+                ],
+                "m_locId": 2857194
+            },
+            "m_description": {
+                "m_locValues": [
+                    "Emote in a match by selecting your hero. \n\nPurchasable when available in the shop.",
+                    "Tippt im Match auf Euren Helden, um dieses Emote zu senden.\n\nKann bei Verfügbarkeit im Shop erworben werden.",
+                    "Expresa una emoción durante la partida seleccionando a tu héroe.\n\nSe compra en la tienda cuando esté disponible.",
+                    "Selecciona a tu héroe para usar emociones en una partida.\n\nSe puede comprar si está disponible en la tienda.",
+                    "Utilisez des emotes dans vos parties en sélectionnant votre héros ou héroïne. \n\nCe plateau s’obtient en l’achetant lorsqu’il est disponible dans la boutique.",
+                    "Usa un'emote in partita selezionando il tuo eroe.\n\nAcquistabile quando disponibile nel negozio.",
+                    "対戦中にヒーローを選んで感情表現できる。\n\nショップでの販売時に購入可能。",
+                    "영웅을 선택하여 게임 중에 감정 표현을 전달하세요.\n\n상점에서 판매 시 구매하여 획득",
+                    "Użyj emotki podczas gry, wybierając swojego bohatera. \n\nDo zakupu po udostępnieniu w sklepie.",
+                    "Use expressão numa partida selecionando seu herói. \n\nPossível de adquirir quando disponível na loja.",
+                    "Воспользуйтесь репликами в ходе игры, выбрав своего героя.\n\nМожно приобрести в магазине.",
+                    "แสดงความรู้สึกในเกมได้โดยการเลือกฮีโร่ของคุณ\n\nซื้อได้เมื่อวางจำหน่ายในร้านค้า",
+                    "选择你的英雄，在对战中发送表情。\n\n可以在上架期间在商店购买。",
+                    "在對戰中選擇你的英雄即可使用表情符號。\n\n於商店上架時購買取得。"
+                ],
+                "m_locId": 2857195
+            },
+            "m_animationPath": "BG_Murlocs_Swolefin_final.controller:db82fe1c1479cee40bdc1b0cd9a292e3",
+            "m_xOffset": 0.013,
+            "m_zOffset": -0.079,
+            "m_isDefault": 0,
+            "m_isAnimating": 0,
+            "m_borderType": 0
+        },
+        {
+            "m_ID": 49,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_collectionShortName": {
+                "m_locValues": [
+                    "Taunting Toxfin",
+                    "Spottende Giftflosse",
+                    "Toxinaleta chinchando",
+                    "Toxialeta provocador",
+                    "Aileron-Toxique provocateur",
+                    "Provocazione di Pinnatossica",
+                    "毒々フィンの挑発",
+                    "도발하는 독성지느러미 멀록",
+                    "Prowokujący Trutkopłetw",
+                    "Toxipina Provocador",
+                    "Насмешки Ядовитого Плавника",
+                    "ท็อกซ์ฟินท้าทาย",
+                    "嘲讽的毒鳍鱼人",
+                    "嘲諷的毒鰭魚人"
+                ],
+                "m_locId": 2857196
+            },
+            "m_description": {
+                "m_locValues": [
+                    "Emote in a match by selecting your hero. \n\nPurchasable when available in the shop.",
+                    "Tippt im Match auf Euren Helden, um dieses Emote zu senden.\n\nKann bei Verfügbarkeit im Shop erworben werden.",
+                    "Expresa una emoción durante la partida seleccionando a tu héroe.\n\nSe compra en la tienda cuando esté disponible.",
+                    "Selecciona a tu héroe para usar emociones en una partida.\n\nSe puede comprar si está disponible en la tienda.",
+                    "Utilisez des emotes dans vos parties en sélectionnant votre héros ou héroïne. \n\nCe plateau s’obtient en l’achetant lorsqu’il est disponible dans la boutique.",
+                    "Usa un'emote in partita selezionando il tuo eroe.\n\nAcquistabile quando disponibile nel negozio.",
+                    "対戦中にヒーローを選んで感情表現できる。\n\nショップでの販売時に購入可能。",
+                    "영웅을 선택하여 게임 중에 감정 표현을 전달하세요.\n\n상점에서 판매 시 구매하여 획득",
+                    "Użyj emotki podczas gry, wybierając swojego bohatera. \n\nDo zakupu po udostępnieniu w sklepie.",
+                    "Use expressão numa partida selecionando seu herói. \n\nPossível de adquirir quando disponível na loja.",
+                    "Воспользуйтесь репликами в ходе игры, выбрав своего героя.\n\nМожно приобрести в магазине.",
+                    "แสดงความรู้สึกในเกมได้โดยการเลือกฮีโร่ของคุณ\n\nซื้อได้เมื่อวางจำหน่ายในร้านค้า",
+                    "选择你的英雄，在对战中发送表情。\n\n可以在上架期间在商店购买。",
+                    "在對戰中選擇你的英雄即可使用表情符號。\n\n於商店上架時購買取得。"
+                ],
+                "m_locId": 2857197
+            },
+            "m_animationPath": "BG_Murlocs_Toxfin_final.controller:b6945f10a8f0448489b095174f386c32",
+            "m_xOffset": -0.01,
+            "m_zOffset": -0.09,
+            "m_isDefault": 0,
+            "m_isAnimating": 0,
+            "m_borderType": 0
+        },
+        {
+            "m_ID": 5,
+            "m_enabled": 1,
+            "m_rarityId": 2,
+            "m_collectionShortName": {
+                "m_locValues": [
+                    "Sad Dwarf",
+                    "Trauriger Zwerg",
+                    "Enano triste",
+                    "Enano triste",
+                    "Nain triste",
+                    "Nano Triste",
+                    "悲しむドワーフ",
+                    "슬픈 드워프",
+                    "Smutny krasnolud",
+                    "Anão Triste",
+                    "Грустный дворф",
+                    "คนแคระเศร้า",
+                    "忧伤的矮人",
+                    "悲傷矮人"
+                ],
+                "m_locId": 2833726
+            },
+            "m_description": {
+                "m_locValues": [
+                    "Emote in a match by selecting your hero.",
+                    "Tippt im Match auf Euren Helden, um dieses Emote zu senden.",
+                    "Expresa una emoción durante la partida seleccionando a tu héroe.",
+                    "Selecciona a tu héroe para usar emociones en una partida.",
+                    "Utilisez des emotes dans vos parties en sélectionnant votre héros ou héroïne.",
+                    "Usa un'emote in partita selezionando il tuo eroe.",
+                    "対戦中にヒーローを選んで感情表現できる。",
+                    "영웅을 선택하여 게임 중에 감정 표현을 전달하세요.",
+                    "Użyj emotki podczas gry, wybierając swojego bohatera.",
+                    "Use expressão numa partida selecionando seu herói.",
+                    "Воспользуйтесь репликами в ходе игры, выбрав своего героя.",
+                    "แสดงความรู้สึกในเกมได้โดยการเลือกฮีโร่ของคุณ",
+                    "选择你的英雄，在对战中发送表情。",
+                    "在對戰中選擇你的英雄即可使用表情符號。"
+                ],
+                "m_locId": 2853036
+            },
+            "m_animationPath": "Default_Emotes_4.controller:8f24feedc48b6154e974c55aace3360f",
+            "m_xOffset": 0.0,
+            "m_zOffset": -0.079,
+            "m_isDefault": 1,
+            "m_isAnimating": 0,
+            "m_borderType": 0
+        },
+        {
+            "m_ID": 50,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_collectionShortName": {
+                "m_locValues": [
+                    "Hallow's Faelin",
+                    "Faelin der Schlotternächte",
+                    "Faelin de Halloween",
+                    "Faelin Halloween",
+                    "Faelin de la Sanssaint",
+                    "Faelin della Veglia",
+                    "ハロウェンドのフェイリン",
+                    "할로윈 페이린",
+                    "Zadusznikowy Faelin",
+                    "Faelin da Noturnália",
+                    "Тыквовинский Фаэлин",
+                    "เฟลินคืนสยอง",
+                    "万圣节费林",
+                    "萬鬼節費林"
+                ],
+                "m_locId": 2858061
+            },
+            "m_description": {
+                "m_locValues": [
+                    "Emote in a match by selecting your hero.\n\nObtainable from a Battle Bash.",
+                    "Tippt im Match auf Euren Helden, um dieses Emote zu senden.\n\nKann beim Preishammer erhalten werden.",
+                    "Manda un emoticono durante un enfrentamiento seleccionando a tu héroe.\n\nSe obtiene en un Golpe de batalla.",
+                    "Selecciona a tu héroe para usar emociones en una partida.\n\nSe obtiene en un Golpe de suerte.",
+                    "Utilisez des emotes dans vos parties en sélectionnant votre héros ou héroïne.\n\nS’obtient en participant à une Lutte acharnée.",
+                    "Usa un'emote in partita selezionando il tuo eroe.\n\nOttenibile da una Lotteria.",
+                    "対戦中にヒーローを選んで感情表現できる。\n\nバトルバッシュで入手可能。",
+                    "영웅을 선택하여 게임 중에 감정 표현을 전달하세요.\n\n배틀 배쉬에서 획득 가능",
+                    "Użyj emotki podczas gry, wybierając swojego bohatera.\n\nDo zdobycia w Łupobiciu.",
+                    "Use expressão numa partida selecionando seu herói.\n\nPossível de obter em uma Trombada de Batalha.",
+                    "Воспользуйтесь репликами в ходе игры, выбрав своего героя.\n\nНаграда «Боевого разноса».",
+                    "แสดงความรู้สึกในเกมได้โดยการเลือกฮีโร่ของคุณ\n\nหาได้จากแบทเทิลแบช",
+                    "选择你的英雄，在对战中发送表情。\n\n可通过战棋宝锤获得该奖励。",
+                    "在對戰中選擇你的英雄即可使用表情符號。\n\n透過敲敲樂取得。"
+                ],
+                "m_locId": 2861163
+            },
+            "m_animationPath": "BG_Hallow_s_End_Ambassador_Faelin_final.controller:11bfd19067ad30d4e8af5feedf26d3eb",
+            "m_xOffset": -0.05,
+            "m_zOffset": -0.079,
+            "m_isDefault": 0,
+            "m_isAnimating": 0,
+            "m_borderType": 0
+        },
+        {
+            "m_ID": 51,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_collectionShortName": {
+                "m_locValues": [
+                    "Headless Horseman",
+                    "Der kopflose Reiter",
+                    "El Jinete decapitado",
+                    "Jinete decapitado",
+                    "Cavalier sans tête",
+                    "Cavaliere Senza Testa",
+                    "首なし騎士",
+                    "저주받은 기사",
+                    "Bezgłowy Jeździec",
+                    "Cavaleiro sem Cabeça",
+                    "Всадник без головы",
+                    "ทหารม้าไร้หัว",
+                    "无头骑士",
+                    "無頭騎士"
+                ],
+                "m_locId": 2858062
+            },
+            "m_description": {
+                "m_locValues": [
+                    "Emote in a match by selecting your hero.\n\nObtainable from a Battle Bash.",
+                    "Tippt im Match auf Euren Helden, um dieses Emote zu senden.\n\nKann beim Preishammer erhalten werden.",
+                    "Manda un emoticono durante un enfrentamiento seleccionando a tu héroe.\n\nSe obtiene en un Golpe de batalla.",
+                    "Selecciona a tu héroe para usar emociones en una partida.\n\nSe obtiene en un Golpe de suerte.",
+                    "Utilisez des emotes dans vos parties en sélectionnant votre héros ou héroïne.\n\nS’obtient en participant à une Lutte acharnée.",
+                    "Usa un'emote in partita selezionando il tuo eroe.\n\nOttenibile da una Lotteria.",
+                    "対戦中にヒーローを選んで感情表現できる。\n\nバトルバッシュで入手可能。",
+                    "영웅을 선택하여 게임 중에 감정 표현을 전달하세요.\n\n배틀 배쉬에서 획득 가능",
+                    "Użyj emotki podczas gry, wybierając swojego bohatera.\n\nDo zdobycia w Łupobiciu.",
+                    "Use expressão numa partida selecionando seu herói.\n\nPossível de obter em uma Trombada de Batalha.",
+                    "Воспользуйтесь репликами в ходе игры, выбрав своего героя.\n\nНаграда «Боевого разноса».",
+                    "แสดงความรู้สึกในเกมได้โดยการเลือกฮีโร่ของคุณ\n\nหาได้จากแบทเทิลแบช",
+                    "选择你的英雄，在对战中发送表情。\n\n可通过战棋宝锤获得该奖励。",
+                    "在對戰中選擇你的英雄即可使用表情符號。\n\n透過敲敲樂取得。"
+                ],
+                "m_locId": 2861164
+            },
+            "m_animationPath": "BG_Hallow_s_End_Headless_Horseman_final.controller:7676cb2914f9ffa43877386950be580f",
+            "m_xOffset": -0.04,
+            "m_zOffset": -0.07,
+            "m_isDefault": 0,
+            "m_isAnimating": 0,
+            "m_borderType": 0
+        },
+        {
+            "m_ID": 52,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_collectionShortName": {
+                "m_locValues": [
+                    "Hallow's Vashj",
+                    "Vashj der Schlotternächte",
+                    "Vashj de Halloween",
+                    "Vashj Halloween",
+                    "Vashj de la Sanssaint",
+                    "Vashj della Veglia",
+                    "ハロウェンドのヴァッシュ",
+                    "할로윈 바쉬",
+                    "Zadusznikowa Vash",
+                    "Vashj da Noturnália",
+                    "Тыквовинская леди Вайш",
+                    "วาชจ์คืนสยอง",
+                    "万圣节瓦丝琪",
+                    "萬鬼節瓦許"
+                ],
+                "m_locId": 2858063
+            },
+            "m_description": {
+                "m_locValues": [
+                    "Emote in a match by selecting your hero.\n\nObtainable by participating in a special event.",
+                    "Tippt im Match auf Euren Helden, um dieses Emote zu senden.\n\nBei einem besonderen Event erhältlich.",
+                    "Manda un emoticono durante un enfrentamiento seleccionando a tu héroe.\n\nSe obtiene al participar en un evento especial.",
+                    "Selecciona a tu héroe para usar emociones en una partida.\n\\Se obtiene al participar en un evento especial.",
+                    "Utilisez des emotes dans vos parties en sélectionnant votre héros ou héroïne.\n\nS’obtient en participant à un évènement spécial.",
+                    "Usa un'emote in partita selezionando il tuo eroe.\n\nOttenibile partecipando a un evento speciale.",
+                    "対戦中にヒーローを選んで感情表現できる。\n\nスペシャルイベントへの参加で入手可能。",
+                    "영웅을 선택하여 게임 중에 감정 표현을 전달하세요.\n\n특별 이벤트에 참여하여 획득 가능",
+                    "Użyj emotki podczas gry, wybierając swojego bohatera.\n\nNagroda za udział w specjalnym wydarzeniu.",
+                    "Use expressão numa partida selecionando seu herói.\n\nObtido ao participar de um evento especial.",
+                    "Воспользуйтесь репликами в ходе игры, выбрав своего героя.\n\nМожно получить в ходе особого события.",
+                    "แสดงความรู้สึกในเกมได้โดยการเลือกฮีโร่ของคุณ\n\nหาได้จากการเข้าร่วมกิจกรรมพิเศษ",
+                    "选择你的英雄，在对战中发送表情。\n\n参与特殊活动以获得该奖励。",
+                    "在對戰中選擇你的英雄即可使用表情符號。\n\n透過參與特殊活動取得。"
+                ],
+                "m_locId": 2861165
+            },
+            "m_animationPath": "BG_Hallow_s_End_Lady_Vashj_final.controller:a642456e42211c24bbf78448d9845d0d",
+            "m_xOffset": -0.06,
+            "m_zOffset": -0.13,
+            "m_isDefault": 0,
+            "m_isAnimating": 0,
+            "m_borderType": 0
+        },
+        {
+            "m_ID": 53,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_collectionShortName": {
+                "m_locValues": [
+                    "Witch Baz'hial",
+                    "Hexe Baz’hial",
+                    "Baz'hial bruja",
+                    "Bruja Baz'hial",
+                    "Baz’hial la sorcière",
+                    "Strega Baz'hial",
+                    "魔女バズィアル",
+                    "마녀 바즈하이알",
+                    "Wiedźma Baz'hial",
+                    "Bruxa Baz'hial",
+                    "Ведьма Баз'хиал",
+                    "แม่มดบาไซแอล",
+                    "女巫巴兹亚尔",
+                    "女巫拜茲希爾"
+                ],
+                "m_locId": 2858064
+            },
+            "m_description": {
+                "m_locValues": [
+                    "Emote in a match by selecting your hero.\n\nObtainable by participating in a special event.",
+                    "Tippt im Match auf Euren Helden, um dieses Emote zu senden.\n\nBei einem besonderen Event erhältlich.",
+                    "Manda un emoticono durante un enfrentamiento seleccionando a tu héroe.\n\nSe obtiene al participar en un evento especial.",
+                    "Selecciona a tu héroe para usar emociones en una partida.\n\\Se obtiene al participar en un evento especial.",
+                    "Utilisez des emotes dans vos parties en sélectionnant votre héros ou héroïne.\n\nS’obtient en participant à un évènement spécial.",
+                    "Usa un'emote in partita selezionando il tuo eroe.\n\nOttenibile partecipando a un evento speciale.",
+                    "対戦中にヒーローを選んで感情表現できる。\n\nスペシャルイベントへの参加で入手可能。",
+                    "영웅을 선택하여 게임 중에 감정 표현을 전달하세요.\n\n특별 이벤트에 참여하여 획득 가능",
+                    "Użyj emotki podczas gry, wybierając swojego bohatera.\n\nNagroda za udział w specjalnym wydarzeniu.",
+                    "Use expressão numa partida selecionando seu herói.\n\nObtido ao participar de um evento especial.",
+                    "Воспользуйтесь репликами в ходе игры, выбрав своего героя.\n\nМожно получить в ходе особого события.",
+                    "แสดงความรู้สึกในเกมได้โดยการเลือกฮีโร่ของคุณ\n\nหาได้จากการเข้าร่วมกิจกรรมพิเศษ",
+                    "选择你的英雄，在对战中发送表情。\n\n参与特殊活动以获得该奖励。",
+                    "在對戰中選擇你的英雄即可使用表情符號。\n\n透過參與特殊活動取得。"
+                ],
+                "m_locId": 2861166
+            },
+            "m_animationPath": "BG_Hallow_s_End_Lich_Bazhial_final.controller:b1ce9a5b628c5744099c862c50a8f558",
+            "m_xOffset": 0.0,
+            "m_zOffset": -0.107,
+            "m_isDefault": 0,
+            "m_isAnimating": 0,
+            "m_borderType": 0
+        },
+        {
+            "m_ID": 54,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_collectionShortName": {
+                "m_locValues": [
+                    "Hallow's Bigglesworth",
+                    "Bigglesworth der Schlotternächte",
+                    "Baldomero de Halloween",
+                    "Baldomero Halloween",
+                    "Bigglesworth de la Sanssaint",
+                    "Signor Bigolo della Veglia",
+                    "ハロウェンドのビグルスワース君",
+                    "할로윈 비글스워스",
+                    "Zadusznikowy Sierściuch",
+                    "Bigglesworth da Noturnália",
+                    "Тыквовинский Бигглсуорт",
+                    "บิกเกิลสเวิร์ธคืนสยอง",
+                    "万圣节比格沃斯",
+                    "萬鬼節畢勾沃斯"
+                ],
+                "m_locId": 2858065
+            },
+            "m_description": {
+                "m_locValues": [
+                    "Emote in a match by selecting your hero.\n\nObtainable from a Battle Bash.",
+                    "Tippt im Match auf Euren Helden, um dieses Emote zu senden.\n\nKann beim Preishammer erhalten werden.",
+                    "Manda un emoticono durante un enfrentamiento seleccionando a tu héroe.\n\nSe obtiene en un Golpe de batalla.",
+                    "Selecciona a tu héroe para usar emociones en una partida.\n\nSe obtiene en un Golpe de suerte.",
+                    "Utilisez des emotes dans vos parties en sélectionnant votre héros ou héroïne.\n\nS’obtient en participant à une Lutte acharnée.",
+                    "Usa un'emote in partita selezionando il tuo eroe.\n\nOttenibile da una Lotteria.",
+                    "対戦中にヒーローを選んで感情表現できる。\n\nバトルバッシュで入手可能。",
+                    "영웅을 선택하여 게임 중에 감정 표현을 전달하세요.\n\n배틀 배쉬에서 획득 가능",
+                    "Użyj emotki podczas gry, wybierając swojego bohatera.\n\nDo zdobycia w Łupobiciu.",
+                    "Use expressão numa partida selecionando seu herói.\n\nPossível de obter em uma Trombada de Batalha.",
+                    "Воспользуйтесь репликами в ходе игры, выбрав своего героя.\n\nНаграда «Боевого разноса».",
+                    "แสดงความรู้สึกในเกมได้โดยการเลือกฮีโร่ของคุณ\n\nหาได้จากแบทเทิลแบช",
+                    "选择你的英雄，在对战中发送表情。\n\n可通过战棋宝锤获得该奖励。",
+                    "在對戰中選擇你的英雄即可使用表情符號。\n\n透過敲敲樂取得。"
+                ],
+                "m_locId": 2861167
+            },
+            "m_animationPath": "BG_Hallow_s_End_Mr_Bigglesworth_final.controller:8b0bea09ab0d6664ea929dfa75845351",
+            "m_xOffset": -0.02,
+            "m_zOffset": -0.079,
+            "m_isDefault": 0,
+            "m_isAnimating": 0,
+            "m_borderType": 0
+        },
+        {
+            "m_ID": 55,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_collectionShortName": {
+                "m_locValues": [
+                    "Hallow's N'Zoth",
+                    "N’Zoth der Schlotternächte",
+                    "N'Zoth de Halloween",
+                    "N'Zoth Halloween",
+                    "N’Zoth de la Sanssaint",
+                    "N'zoth della Veglia",
+                    "ハロウェンドのン＝ゾス",
+                    "할로윈 느조스",
+                    "Zadusznikowy N'Zoth",
+                    "N'Zoth da Noturnália",
+                    "Тыквовинский Н'Зот",
+                    "นาซอธคืนสยอง",
+                    "万圣节恩佐斯",
+                    "萬鬼節恩若司"
+                ],
+                "m_locId": 2858066
+            },
+            "m_description": {
+                "m_locValues": [
+                    "Emote in a match by selecting your hero.\n\nObtainable from a Battle Bash.",
+                    "Tippt im Match auf Euren Helden, um dieses Emote zu senden.\n\nKann beim Preishammer erhalten werden.",
+                    "Manda un emoticono durante un enfrentamiento seleccionando a tu héroe.\n\nSe obtiene en un Golpe de batalla.",
+                    "Selecciona a tu héroe para usar emociones en una partida.\n\nSe obtiene en un Golpe de suerte.",
+                    "Utilisez des emotes dans vos parties en sélectionnant votre héros ou héroïne.\n\nS’obtient en participant à une Lutte acharnée.",
+                    "Usa un'emote in partita selezionando il tuo eroe.\n\nOttenibile da una Lotteria.",
+                    "対戦中にヒーローを選んで感情表現できる。\n\nバトルバッシュで入手可能。",
+                    "영웅을 선택하여 게임 중에 감정 표현을 전달하세요.\n\n배틀 배쉬에서 획득 가능",
+                    "Użyj emotki podczas gry, wybierając swojego bohatera.\n\nDo zdobycia w Łupobiciu.",
+                    "Use expressão numa partida selecionando seu herói.\n\nPossível de obter em uma Trombada de Batalha.",
+                    "Воспользуйтесь репликами в ходе игры, выбрав своего героя.\n\nНаграда «Боевого разноса».",
+                    "แสดงความรู้สึกในเกมได้โดยการเลือกฮีโร่ของคุณ\n\nหาได้จากแบทเทิลแบช",
+                    "选择你的英雄，在对战中发送表情。\n\n可通过战棋宝锤获得该奖励。",
+                    "在對戰中選擇你的英雄即可使用表情符號。\n\n透過敲敲樂取得。"
+                ],
+                "m_locId": 2861168
+            },
+            "m_animationPath": "BG_Hallow_s_End_N_Zoth_final.controller:fd610963c32e6ba498e2c55c204b1d8e",
+            "m_xOffset": -0.01,
+            "m_zOffset": -0.128,
+            "m_isDefault": 0,
+            "m_isAnimating": 0,
+            "m_borderType": 0
+        },
+        {
+            "m_ID": 56,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_collectionShortName": {
+                "m_locValues": [
+                    "Hallow's Rakanishu",
+                    "Rakanishu der Schlotternächte",
+                    "Rakanishu de Halloween",
+                    "Rakanishu Halloween",
+                    "Rakanishu de la Sanssaint",
+                    "Rakanishu della Veglia",
+                    "ハロウェンドのラカニシュ",
+                    "할로윈 라카니슈",
+                    "Zadusznikowy Rakaniszu",
+                    "Rakanishu da Noturnália",
+                    "Тыквовинский Раканишу",
+                    "รัคคานิชูคืนสยอง",
+                    "万圣节拉卡尼休",
+                    "萬鬼節拉卡尼休"
+                ],
+                "m_locId": 2858067
+            },
+            "m_description": {
+                "m_locValues": [
+                    "Emote in a match by selecting your hero.\n\nObtainable from a Battle Bash.",
+                    "Tippt im Match auf Euren Helden, um dieses Emote zu senden.\n\nKann beim Preishammer erhalten werden.",
+                    "Manda un emoticono durante un enfrentamiento seleccionando a tu héroe.\n\nSe obtiene en un Golpe de batalla.",
+                    "Selecciona a tu héroe para usar emociones en una partida.\n\nSe obtiene en un Golpe de suerte.",
+                    "Utilisez des emotes dans vos parties en sélectionnant votre héros ou héroïne.\n\nS’obtient en participant à une Lutte acharnée.",
+                    "Usa un'emote in partita selezionando il tuo eroe.\n\nOttenibile da una Lotteria.",
+                    "対戦中にヒーローを選んで感情表現できる。\n\nバトルバッシュで入手可能。",
+                    "영웅을 선택하여 게임 중에 감정 표현을 전달하세요.\n\n배틀 배쉬에서 획득 가능",
+                    "Użyj emotki podczas gry, wybierając swojego bohatera.\n\nDo zdobycia w Łupobiciu.",
+                    "Use expressão numa partida selecionando seu herói.\n\nPossível de obter em uma Trombada de Batalha.",
+                    "Воспользуйтесь репликами в ходе игры, выбрав своего героя.\n\nНаграда «Боевого разноса».",
+                    "แสดงความรู้สึกในเกมได้โดยการเลือกฮีโร่ของคุณ\n\nหาได้จากแบทเทิลแบช",
+                    "选择你的英雄，在对战中发送表情。\n\n可通过战棋宝锤获得该奖励。",
+                    "在對戰中選擇你的英雄即可使用表情符號。\n\n透過敲敲樂取得。"
+                ],
+                "m_locId": 2861169
+            },
+            "m_animationPath": "BG_Hallow_s_End_Rakanishu_final.controller:f07c07d88e28ce44499ca7bc6d65de13",
+            "m_xOffset": 0.0,
+            "m_zOffset": -0.079,
+            "m_isDefault": 0,
+            "m_isAnimating": 0,
+            "m_borderType": 0
+        },
+        {
+            "m_ID": 57,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_collectionShortName": {
+                "m_locValues": [
+                    "Hallow's Sarge",
+                    "Sarge der Schlotternächte",
+                    "Sarge de Halloween",
+                    "Serge Halloween",
+                    "Sergent de la Sanssaint",
+                    "Burba della Veglia",
+                    "ハロウェンドのサージ",
+                    "할로윈 대장님",
+                    "Zadusznikowy Sierżant",
+                    "Sarge da Noturnália",
+                    "Тыквовинский Серж",
+                    "ซาร์จคืนสยอง",
+                    "万圣节萨齐",
+                    "萬鬼節薩吉"
+                ],
+                "m_locId": 2858068
+            },
+            "m_description": {
+                "m_locValues": [
+                    "Emote in a match by selecting your hero.\n\nObtainable from a Battle Bash.",
+                    "Tippt im Match auf Euren Helden, um dieses Emote zu senden.\n\nKann beim Preishammer erhalten werden.",
+                    "Manda un emoticono durante un enfrentamiento seleccionando a tu héroe.\n\nSe obtiene en un Golpe de batalla.",
+                    "Selecciona a tu héroe para usar emociones en una partida.\n\nSe obtiene en un Golpe de suerte.",
+                    "Utilisez des emotes dans vos parties en sélectionnant votre héros ou héroïne.\n\nS’obtient en participant à une Lutte acharnée.",
+                    "Usa un'emote in partita selezionando il tuo eroe.\n\nOttenibile da una Lotteria.",
+                    "対戦中にヒーローを選んで感情表現できる。\n\nバトルバッシュで入手可能。",
+                    "영웅을 선택하여 게임 중에 감정 표현을 전달하세요.\n\n배틀 배쉬에서 획득 가능",
+                    "Użyj emotki podczas gry, wybierając swojego bohatera.\n\nDo zdobycia w Łupobiciu.",
+                    "Use expressão numa partida selecionando seu herói.\n\nPossível de obter em uma Trombada de Batalha.",
+                    "Воспользуйтесь репликами в ходе игры, выбрав своего героя.\n\nНаграда «Боевого разноса».",
+                    "แสดงความรู้สึกในเกมได้โดยการเลือกฮีโร่ของคุณ\n\nหาได้จากแบทเทิลแบช",
+                    "选择你的英雄，在对战中发送表情。\n\n可通过战棋宝锤获得该奖励。",
+                    "在對戰中選擇你的英雄即可使用表情符號。\n\n透過敲敲樂取得。"
+                ],
+                "m_locId": 2861170
+            },
+            "m_animationPath": "BG_Hallows_End_Sarge_final.controller:cd5afea628802884b86968b111f8d60c",
+            "m_xOffset": 0.0,
+            "m_zOffset": -0.079,
+            "m_isDefault": 0,
+            "m_isAnimating": 0,
+            "m_borderType": 0
+        },
+        {
+            "m_ID": 58,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_collectionShortName": {
+                "m_locValues": [
+                    "Foodie Cookie",
+                    "Gourmet Krümel",
+                    "Cocinitas gourmet",
+                    "Cocinitas gourmet",
+                    "Macaron, fin gourmet",
+                    "Dolcetto Culinario",
+                    "食通クッキー",
+                    "미식가 쿠키",
+                    "Ciastek Smakosz",
+                    "Cozito Gourmet",
+                    "Кулинар Пирожок",
+                    "คุกกี้นักกิน",
+                    "美食家曲奇",
+                    "愛吃鬼餅乾"
+                ],
+                "m_locId": 2860042
+            },
+            "m_description": {
+                "m_locValues": [
+                    "Emote in a match by selecting your hero.\n\nPurchasable when available in the shop.",
+                    "Tippt im Match auf Euren Helden, um dieses Emote zu senden.\n\nKann bei Verfügbarkeit im Shop erworben werden.",
+                    "Expresa una emoción durante la partida seleccionando a tu héroe.\n\nSe compra en la tienda cuando esté disponible.",
+                    "Selecciona a tu héroe para usar emociones en una partida.\n\nSe puede comprar si está disponible en la tienda.",
+                    "Utilisez des emotes dans vos parties en sélectionnant votre héros ou héroïne. \n\nCe plateau s’obtient en l’achetant lorsqu’il est disponible dans la boutique.",
+                    "Usa un'emote in partita selezionando il tuo eroe.\n\nAcquistabile quando disponibile nel negozio.",
+                    "対戦中にヒーローを選んで感情表現できる。\n\nショップでの販売時に購入可能。",
+                    "영웅을 선택하여 게임 중에 감정 표현을 전달하세요.\n\n상점에서 판매 시 구매하여 획득",
+                    "Użyj emotki podczas gry, wybierając swojego bohatera.\n\nDo zakupu po udostępnieniu w sklepie.",
+                    "Use expressão numa partida selecionando seu herói. \n\nPossível de adquirir quando disponível na loja.",
+                    "Воспользуйтесь репликами в ходе игры, выбрав своего героя.\n\nМожно приобрести в магазине.",
+                    "แสดงความรู้สึกในเกมได้โดยการเลือกฮีโร่ของคุณ\n\nซื้อได้เมื่อวางจำหน่ายในร้านค้า",
+                    "选择你的英雄，在对战中发送表情。\n\n可以在上架期间在商店购买。",
+                    "在對戰中選擇你的英雄即可使用表情符號。\n\n於商店上架時購買取得。"
+                ],
+                "m_locId": 2861847
+            },
+            "m_animationPath": "BG_Food_Cookie_final.controller:58c7ee2cb4f3be3469e0414b2a583d50",
+            "m_xOffset": 0.0,
+            "m_zOffset": -0.129,
+            "m_isDefault": 0,
+            "m_isAnimating": 0,
+            "m_borderType": 0
+        },
+        {
+            "m_ID": 59,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_collectionShortName": {
+                "m_locValues": [
+                    "Foodie A. F. Kay",
+                    "Gourmet A. F. Karla",
+                    "A. F. Ka gourmet",
+                    "Au Sente Gourmet",
+                    "A. F. Kah, fin gourmet",
+                    "A. F. Kappa Culinaria",
+                    "食通A. F. ケイ",
+                    "미식가 A. F. 케이",
+                    "B.R.B. Ara Smakoszka",
+                    "Ausentina Gourmet",
+                    "Кулинар А.Ф.Ка",
+                    "เอ เอฟ เคย์นักกิน",
+                    "美食家阿凯",
+                    "愛吃鬼詹莉‧伊夏"
+                ],
+                "m_locId": 2860043
+            },
+            "m_description": {
+                "m_locValues": [
+                    "Emote in a match by selecting your hero.\n\nPurchasable when available in the shop.",
+                    "Tippt im Match auf Euren Helden, um dieses Emote zu senden.\n\nKann bei Verfügbarkeit im Shop erworben werden.",
+                    "Expresa una emoción durante la partida seleccionando a tu héroe.\n\nSe compra en la tienda cuando esté disponible.",
+                    "Selecciona a tu héroe para usar emociones en una partida.\n\nSe puede comprar si está disponible en la tienda.",
+                    "Utilisez des emotes dans vos parties en sélectionnant votre héros ou héroïne. \n\nCe plateau s’obtient en l’achetant lorsqu’il est disponible dans la boutique.",
+                    "Usa un'emote in partita selezionando il tuo eroe.\n\nAcquistabile quando disponibile nel negozio.",
+                    "対戦中にヒーローを選んで感情表現できる。\n\nショップでの販売時に購入可能。",
+                    "영웅을 선택하여 게임 중에 감정 표현을 전달하세요.\n\n상점에서 판매 시 구매하여 획득",
+                    "Użyj emotki podczas gry, wybierając swojego bohatera.\n\nDo zakupu po udostępnieniu w sklepie.",
+                    "Use expressão numa partida selecionando seu herói. \n\nPossível de adquirir quando disponível na loja.",
+                    "Воспользуйтесь репликами в ходе игры, выбрав своего героя.\n\nМожно приобрести в магазине.",
+                    "แสดงความรู้สึกในเกมได้โดยการเลือกฮีโร่ของคุณ\n\nซื้อได้เมื่อวางจำหน่ายในร้านค้า",
+                    "选择你的英雄，在对战中发送表情。\n\n可以在上架期间在商店购买。",
+                    "在對戰中選擇你的英雄即可使用表情符號。\n\n於商店上架時購買取得。"
+                ],
+                "m_locId": 2861848
+            },
+            "m_animationPath": "BG_Food_AFK_Eating_Donut_final.controller:7826114d6014cae4d8bfe4229e5865d5",
+            "m_xOffset": -0.032,
+            "m_zOffset": -0.079,
+            "m_isDefault": 0,
+            "m_isAnimating": 0,
+            "m_borderType": 0
+        },
+        {
+            "m_ID": 6,
+            "m_enabled": 1,
+            "m_rarityId": 2,
+            "m_collectionShortName": {
+                "m_locValues": [
+                    "Sweaty Pandaren",
+                    "Schwitzender Pandaren",
+                    "Pandaren sudoroso",
+                    "Pandaren transpirado",
+                    "Pandaren anxieux",
+                    "Pandaren Sudato",
+                    "冷や汗パンダレン",
+                    "땀 삐질 판다렌",
+                    "Spocony pandaren",
+                    "Pandaren Suado",
+                    "Взмокший пандарен",
+                    "แพนดาเหงื่อตก",
+                    "流汗的熊猫人",
+                    "冒汗熊貓人"
+                ],
+                "m_locId": 2833728
+            },
+            "m_description": {
+                "m_locValues": [
+                    "Emote in a match by selecting your hero.",
+                    "Tippt im Match auf Euren Helden, um dieses Emote zu senden.",
+                    "Expresa una emoción durante la partida seleccionando a tu héroe.",
+                    "Selecciona a tu héroe para usar emociones en una partida.",
+                    "Utilisez des emotes dans vos parties en sélectionnant votre héros ou héroïne.",
+                    "Usa un'emote in partita selezionando il tuo eroe.",
+                    "対戦中にヒーローを選んで感情表現できる。",
+                    "영웅을 선택하여 게임 중에 감정 표현을 전달하세요.",
+                    "Użyj emotki podczas gry, wybierając swojego bohatera.",
+                    "Use expressão numa partida selecionando seu herói.",
+                    "Воспользуйтесь репликами в ходе игры, выбрав своего героя.",
+                    "แสดงความรู้สึกในเกมได้โดยการเลือกฮีโร่ของคุณ",
+                    "选择你的英雄，在对战中发送表情。",
+                    "在對戰中選擇你的英雄即可使用表情符號。"
+                ],
+                "m_locId": 2853037
+            },
+            "m_animationPath": "Default_Emotes_5.controller:e63e45ddf2c314b41bbe56b4e80a7288",
+            "m_xOffset": 0.0,
+            "m_zOffset": -0.079,
+            "m_isDefault": 1,
             "m_isAnimating": 0,
             "m_borderType": 0
         },
@@ -5793,55 +6969,6 @@
             "m_borderType": 0
         },
         {
-            "m_ID": 5,
-            "m_enabled": 1,
-            "m_rarityId": 2,
-            "m_collectionShortName": {
-                "m_locValues": [
-                    "Sad Dwarf",
-                    "Trauriger Zwerg",
-                    "Enano triste",
-                    "Enano triste",
-                    "Nain triste",
-                    "Nano Triste",
-                    "悲しむドワーフ",
-                    "슬픈 드워프",
-                    "Smutny krasnolud",
-                    "Anão Triste",
-                    "Грустный дворф",
-                    "คนแคระเศร้า",
-                    "忧伤的矮人",
-                    "悲傷矮人"
-                ],
-                "m_locId": 2833726
-            },
-            "m_description": {
-                "m_locValues": [
-                    "Emote in a match by selecting your hero.",
-                    "Tippt im Match auf Euren Helden, um dieses Emote zu senden.",
-                    "Expresa una emoción durante la partida seleccionando a tu héroe.",
-                    "Selecciona a tu héroe para usar emociones en una partida.",
-                    "Utilisez des emotes dans vos parties en sélectionnant votre héros ou héroïne.",
-                    "Usa un'emote in partita selezionando il tuo eroe.",
-                    "対戦中にヒーローを選んで感情表現できる。",
-                    "영웅을 선택하여 게임 중에 감정 표현을 전달하세요.",
-                    "Użyj emotki podczas gry, wybierając swojego bohatera.",
-                    "Use expressão numa partida selecionando seu herói.",
-                    "Воспользуйтесь репликами в ходе игры, выбрав своего героя.",
-                    "แสดงความรู้สึกในเกมได้โดยการเลือกฮีโร่ของคุณ",
-                    "选择你的英雄，在对战中发送表情。",
-                    "在對戰中選擇你的英雄即可使用表情符號。"
-                ],
-                "m_locId": 2853036
-            },
-            "m_animationPath": "Default_Emotes_4.controller:8f24feedc48b6154e974c55aace3360f",
-            "m_xOffset": 0.0,
-            "m_zOffset": -0.079,
-            "m_isDefault": 1,
-            "m_isAnimating": 0,
-            "m_borderType": 0
-        },
-        {
             "m_ID": 70,
             "m_enabled": 1,
             "m_rarityId": 3,
@@ -5886,55 +7013,6 @@
             "m_animationPath": "ICTF_FrostbittenGreybough_Final.controller:d9d0a358af7630840b6a5c8d114ee0e0",
             "m_xOffset": -0.017,
             "m_zOffset": -0.05,
-            "m_isDefault": 0,
-            "m_isAnimating": 0,
-            "m_borderType": 0
-        },
-        {
-            "m_ID": 50,
-            "m_enabled": 1,
-            "m_rarityId": 3,
-            "m_collectionShortName": {
-                "m_locValues": [
-                    "Hallow's Faelin",
-                    "Faelin der Schlotternächte",
-                    "Faelin de Halloween",
-                    "Faelin Halloween",
-                    "Faelin de la Sanssaint",
-                    "Faelin della Veglia",
-                    "ハロウェンドのフェイリン",
-                    "할로윈 페이린",
-                    "Zadusznikowy Faelin",
-                    "Faelin da Noturnália",
-                    "Тыквовинский Фаэлин",
-                    "เฟลินคืนสยอง",
-                    "万圣节费林",
-                    "萬鬼節費林"
-                ],
-                "m_locId": 2858061
-            },
-            "m_description": {
-                "m_locValues": [
-                    "Emote in a match by selecting your hero.\n\nObtainable from a Battle Bash.",
-                    "Tippt im Match auf Euren Helden, um dieses Emote zu senden.\n\nKann beim Preishammer erhalten werden.",
-                    "Manda un emoticono durante un enfrentamiento seleccionando a tu héroe.\n\nSe obtiene en un Golpe de batalla.",
-                    "Selecciona a tu héroe para usar emociones en una partida.\n\nSe obtiene en un Golpe de suerte.",
-                    "Utilisez des emotes dans vos parties en sélectionnant votre héros ou héroïne.\n\nS’obtient en participant à une Lutte acharnée.",
-                    "Usa un'emote in partita selezionando il tuo eroe.\n\nOttenibile da una Lotteria.",
-                    "対戦中にヒーローを選んで感情表現できる。\n\nバトルバッシュで入手可能。",
-                    "영웅을 선택하여 게임 중에 감정 표현을 전달하세요.\n\n배틀 배쉬에서 획득 가능",
-                    "Użyj emotki podczas gry, wybierając swojego bohatera.\n\nDo zdobycia w Łupobiciu.",
-                    "Use expressão numa partida selecionando seu herói.\n\nPossível de obter em uma Trombada de Batalha.",
-                    "Воспользуйтесь репликами в ходе игры, выбрав своего героя.\n\nНаграда «Боевого разноса».",
-                    "แสดงความรู้สึกในเกมได้โดยการเลือกฮีโร่ของคุณ\n\nหาได้จากแบทเทิลแบช",
-                    "选择你的英雄，在对战中发送表情。\n\n可通过战棋宝锤获得该奖励。",
-                    "在對戰中選擇你的英雄即可使用表情符號。\n\n透過敲敲樂取得。"
-                ],
-                "m_locId": 2861163
-            },
-            "m_animationPath": "BG_Hallow_s_End_Ambassador_Faelin_final.controller:11bfd19067ad30d4e8af5feedf26d3eb",
-            "m_xOffset": -0.05,
-            "m_zOffset": -0.079,
             "m_isDefault": 0,
             "m_isAnimating": 0,
             "m_borderType": 0
@@ -6038,55 +7116,6 @@
             "m_borderType": 0
         },
         {
-            "m_ID": 51,
-            "m_enabled": 1,
-            "m_rarityId": 3,
-            "m_collectionShortName": {
-                "m_locValues": [
-                    "Headless Horseman",
-                    "Der kopflose Reiter",
-                    "El Jinete decapitado",
-                    "Jinete decapitado",
-                    "Cavalier sans tête",
-                    "Cavaliere Senza Testa",
-                    "首なし騎士",
-                    "저주받은 기사",
-                    "Bezgłowy Jeździec",
-                    "Cavaleiro sem Cabeça",
-                    "Всадник без головы",
-                    "ทหารม้าไร้หัว",
-                    "无头骑士",
-                    "無頭騎士"
-                ],
-                "m_locId": 2858062
-            },
-            "m_description": {
-                "m_locValues": [
-                    "Emote in a match by selecting your hero.\n\nObtainable from a Battle Bash.",
-                    "Tippt im Match auf Euren Helden, um dieses Emote zu senden.\n\nKann beim Preishammer erhalten werden.",
-                    "Manda un emoticono durante un enfrentamiento seleccionando a tu héroe.\n\nSe obtiene en un Golpe de batalla.",
-                    "Selecciona a tu héroe para usar emociones en una partida.\n\nSe obtiene en un Golpe de suerte.",
-                    "Utilisez des emotes dans vos parties en sélectionnant votre héros ou héroïne.\n\nS’obtient en participant à une Lutte acharnée.",
-                    "Usa un'emote in partita selezionando il tuo eroe.\n\nOttenibile da una Lotteria.",
-                    "対戦中にヒーローを選んで感情表現できる。\n\nバトルバッシュで入手可能。",
-                    "영웅을 선택하여 게임 중에 감정 표현을 전달하세요.\n\n배틀 배쉬에서 획득 가능",
-                    "Użyj emotki podczas gry, wybierając swojego bohatera.\n\nDo zdobycia w Łupobiciu.",
-                    "Use expressão numa partida selecionando seu herói.\n\nPossível de obter em uma Trombada de Batalha.",
-                    "Воспользуйтесь репликами в ходе игры, выбрав своего героя.\n\nНаграда «Боевого разноса».",
-                    "แสดงความรู้สึกในเกมได้โดยการเลือกฮีโร่ของคุณ\n\nหาได้จากแบทเทิลแบช",
-                    "选择你的英雄，在对战中发送表情。\n\n可通过战棋宝锤获得该奖励。",
-                    "在對戰中選擇你的英雄即可使用表情符號。\n\n透過敲敲樂取得。"
-                ],
-                "m_locId": 2861164
-            },
-            "m_animationPath": "BG_Hallow_s_End_Headless_Horseman_final.controller:7676cb2914f9ffa43877386950be580f",
-            "m_xOffset": -0.04,
-            "m_zOffset": -0.07,
-            "m_isDefault": 0,
-            "m_isAnimating": 0,
-            "m_borderType": 0
-        },
-        {
             "m_ID": 73,
             "m_enabled": 1,
             "m_rarityId": 3,
@@ -6131,55 +7160,6 @@
             "m_animationPath": "ICTF_HaveFun2_Final.controller:01c6b298113ef0b4f9c0903cc129ec98",
             "m_xOffset": 0.0,
             "m_zOffset": 0.0,
-            "m_isDefault": 0,
-            "m_isAnimating": 0,
-            "m_borderType": 0
-        },
-        {
-            "m_ID": 52,
-            "m_enabled": 1,
-            "m_rarityId": 3,
-            "m_collectionShortName": {
-                "m_locValues": [
-                    "Hallow's Vashj",
-                    "Vashj der Schlotternächte",
-                    "Vashj de Halloween",
-                    "Vashj Halloween",
-                    "Vashj de la Sanssaint",
-                    "Vashj della Veglia",
-                    "ハロウェンドのヴァッシュ",
-                    "할로윈 바쉬",
-                    "Zadusznikowa Vash",
-                    "Vashj da Noturnália",
-                    "Тыквовинская леди Вайш",
-                    "วาชจ์คืนสยอง",
-                    "万圣节瓦丝琪",
-                    "萬鬼節瓦許"
-                ],
-                "m_locId": 2858063
-            },
-            "m_description": {
-                "m_locValues": [
-                    "Emote in a match by selecting your hero.\n\nObtainable by participating in a special event.",
-                    "Tippt im Match auf Euren Helden, um dieses Emote zu senden.\n\nBei einem besonderen Event erhältlich.",
-                    "Manda un emoticono durante un enfrentamiento seleccionando a tu héroe.\n\nSe obtiene al participar en un evento especial.",
-                    "Selecciona a tu héroe para usar emociones en una partida.\n\\Se obtiene al participar en un evento especial.",
-                    "Utilisez des emotes dans vos parties en sélectionnant votre héros ou héroïne.\n\nS’obtient en participant à un évènement spécial.",
-                    "Usa un'emote in partita selezionando il tuo eroe.\n\nOttenibile partecipando a un evento speciale.",
-                    "対戦中にヒーローを選んで感情表現できる。\n\nスペシャルイベントへの参加で入手可能。",
-                    "영웅을 선택하여 게임 중에 감정 표현을 전달하세요.\n\n특별 이벤트에 참여하여 획득 가능",
-                    "Użyj emotki podczas gry, wybierając swojego bohatera.\n\nNagroda za udział w specjalnym wydarzeniu.",
-                    "Use expressão numa partida selecionando seu herói.\n\nObtido ao participar de um evento especial.",
-                    "Воспользуйтесь репликами в ходе игры, выбрав своего героя.\n\nМожно получить в ходе особого события.",
-                    "แสดงความรู้สึกในเกมได้โดยการเลือกฮีโร่ของคุณ\n\nหาได้จากการเข้าร่วมกิจกรรมพิเศษ",
-                    "选择你的英雄，在对战中发送表情。\n\n参与特殊活动以获得该奖励。",
-                    "在對戰中選擇你的英雄即可使用表情符號。\n\n透過參與特殊活動取得。"
-                ],
-                "m_locId": 2861165
-            },
-            "m_animationPath": "BG_Hallow_s_End_Lady_Vashj_final.controller:a642456e42211c24bbf78448d9845d0d",
-            "m_xOffset": -0.06,
-            "m_zOffset": -0.13,
             "m_isDefault": 0,
             "m_isAnimating": 0,
             "m_borderType": 0
@@ -6283,55 +7263,6 @@
             "m_borderType": 0
         },
         {
-            "m_ID": 53,
-            "m_enabled": 1,
-            "m_rarityId": 3,
-            "m_collectionShortName": {
-                "m_locValues": [
-                    "Witch Baz'hial",
-                    "Hexe Baz’hial",
-                    "Baz'hial bruja",
-                    "Bruja Baz'hial",
-                    "Baz’hial la sorcière",
-                    "Strega Baz'hial",
-                    "魔女バズィアル",
-                    "마녀 바즈하이알",
-                    "Wiedźma Baz'hial",
-                    "Bruxa Baz'hial",
-                    "Ведьма Баз'хиал",
-                    "แม่มดบาไซแอล",
-                    "女巫巴兹亚尔",
-                    "女巫拜茲希爾"
-                ],
-                "m_locId": 2858064
-            },
-            "m_description": {
-                "m_locValues": [
-                    "Emote in a match by selecting your hero.\n\nObtainable by participating in a special event.",
-                    "Tippt im Match auf Euren Helden, um dieses Emote zu senden.\n\nBei einem besonderen Event erhältlich.",
-                    "Manda un emoticono durante un enfrentamiento seleccionando a tu héroe.\n\nSe obtiene al participar en un evento especial.",
-                    "Selecciona a tu héroe para usar emociones en una partida.\n\\Se obtiene al participar en un evento especial.",
-                    "Utilisez des emotes dans vos parties en sélectionnant votre héros ou héroïne.\n\nS’obtient en participant à un évènement spécial.",
-                    "Usa un'emote in partita selezionando il tuo eroe.\n\nOttenibile partecipando a un evento speciale.",
-                    "対戦中にヒーローを選んで感情表現できる。\n\nスペシャルイベントへの参加で入手可能。",
-                    "영웅을 선택하여 게임 중에 감정 표현을 전달하세요.\n\n특별 이벤트에 참여하여 획득 가능",
-                    "Użyj emotki podczas gry, wybierając swojego bohatera.\n\nNagroda za udział w specjalnym wydarzeniu.",
-                    "Use expressão numa partida selecionando seu herói.\n\nObtido ao participar de um evento especial.",
-                    "Воспользуйтесь репликами в ходе игры, выбрав своего героя.\n\nМожно получить в ходе особого события.",
-                    "แสดงความรู้สึกในเกมได้โดยการเลือกฮีโร่ของคุณ\n\nหาได้จากการเข้าร่วมกิจกรรมพิเศษ",
-                    "选择你的英雄，在对战中发送表情。\n\n参与特殊活动以获得该奖励。",
-                    "在對戰中選擇你的英雄即可使用表情符號。\n\n透過參與特殊活動取得。"
-                ],
-                "m_locId": 2861166
-            },
-            "m_animationPath": "BG_Hallow_s_End_Lich_Bazhial_final.controller:b1ce9a5b628c5744099c862c50a8f558",
-            "m_xOffset": 0.0,
-            "m_zOffset": -0.107,
-            "m_isDefault": 0,
-            "m_isAnimating": 0,
-            "m_borderType": 0
-        },
-        {
             "m_ID": 76,
             "m_enabled": 1,
             "m_rarityId": 3,
@@ -6430,55 +7361,6 @@
             "m_borderType": 0
         },
         {
-            "m_ID": 54,
-            "m_enabled": 1,
-            "m_rarityId": 3,
-            "m_collectionShortName": {
-                "m_locValues": [
-                    "Hallow's Bigglesworth",
-                    "Bigglesworth der Schlotternächte",
-                    "Baldomero de Halloween",
-                    "Baldomero Halloween",
-                    "Bigglesworth de la Sanssaint",
-                    "Signor Bigolo della Veglia",
-                    "ハロウェンドのビグルスワース君",
-                    "할로윈 비글스워스",
-                    "Zadusznikowy Sierściuch",
-                    "Bigglesworth da Noturnália",
-                    "Тыквовинский Бигглсуорт",
-                    "บิกเกิลสเวิร์ธคืนสยอง",
-                    "万圣节比格沃斯",
-                    "萬鬼節畢勾沃斯"
-                ],
-                "m_locId": 2858065
-            },
-            "m_description": {
-                "m_locValues": [
-                    "Emote in a match by selecting your hero.\n\nObtainable from a Battle Bash.",
-                    "Tippt im Match auf Euren Helden, um dieses Emote zu senden.\n\nKann beim Preishammer erhalten werden.",
-                    "Manda un emoticono durante un enfrentamiento seleccionando a tu héroe.\n\nSe obtiene en un Golpe de batalla.",
-                    "Selecciona a tu héroe para usar emociones en una partida.\n\nSe obtiene en un Golpe de suerte.",
-                    "Utilisez des emotes dans vos parties en sélectionnant votre héros ou héroïne.\n\nS’obtient en participant à une Lutte acharnée.",
-                    "Usa un'emote in partita selezionando il tuo eroe.\n\nOttenibile da una Lotteria.",
-                    "対戦中にヒーローを選んで感情表現できる。\n\nバトルバッシュで入手可能。",
-                    "영웅을 선택하여 게임 중에 감정 표현을 전달하세요.\n\n배틀 배쉬에서 획득 가능",
-                    "Użyj emotki podczas gry, wybierając swojego bohatera.\n\nDo zdobycia w Łupobiciu.",
-                    "Use expressão numa partida selecionando seu herói.\n\nPossível de obter em uma Trombada de Batalha.",
-                    "Воспользуйтесь репликами в ходе игры, выбрав своего героя.\n\nНаграда «Боевого разноса».",
-                    "แสดงความรู้สึกในเกมได้โดยการเลือกฮีโร่ของคุณ\n\nหาได้จากแบทเทิลแบช",
-                    "选择你的英雄，在对战中发送表情。\n\n可通过战棋宝锤获得该奖励。",
-                    "在對戰中選擇你的英雄即可使用表情符號。\n\n透過敲敲樂取得。"
-                ],
-                "m_locId": 2861167
-            },
-            "m_animationPath": "BG_Hallow_s_End_Mr_Bigglesworth_final.controller:8b0bea09ab0d6664ea929dfa75845351",
-            "m_xOffset": -0.02,
-            "m_zOffset": -0.079,
-            "m_isDefault": 0,
-            "m_isAnimating": 0,
-            "m_borderType": 0
-        },
-        {
             "m_ID": 78,
             "m_enabled": 1,
             "m_rarityId": 3,
@@ -6523,55 +7405,6 @@
             "m_animationPath": "Silvermoon_SunwellNguyen.controller:b10fc2d49bf7dcb45a823cad69f0c0a4",
             "m_xOffset": 0.0,
             "m_zOffset": -0.12,
-            "m_isDefault": 0,
-            "m_isAnimating": 0,
-            "m_borderType": 0
-        },
-        {
-            "m_ID": 55,
-            "m_enabled": 1,
-            "m_rarityId": 3,
-            "m_collectionShortName": {
-                "m_locValues": [
-                    "Hallow's N'Zoth",
-                    "N’Zoth der Schlotternächte",
-                    "N'Zoth de Halloween",
-                    "N'Zoth Halloween",
-                    "N’Zoth de la Sanssaint",
-                    "N'zoth della Veglia",
-                    "ハロウェンドのン＝ゾス",
-                    "할로윈 느조스",
-                    "Zadusznikowy N'Zoth",
-                    "N'Zoth da Noturnália",
-                    "Тыквовинский Н'Зот",
-                    "นาซอธคืนสยอง",
-                    "万圣节恩佐斯",
-                    "萬鬼節恩若司"
-                ],
-                "m_locId": 2858066
-            },
-            "m_description": {
-                "m_locValues": [
-                    "Emote in a match by selecting your hero.\n\nObtainable from a Battle Bash.",
-                    "Tippt im Match auf Euren Helden, um dieses Emote zu senden.\n\nKann beim Preishammer erhalten werden.",
-                    "Manda un emoticono durante un enfrentamiento seleccionando a tu héroe.\n\nSe obtiene en un Golpe de batalla.",
-                    "Selecciona a tu héroe para usar emociones en una partida.\n\nSe obtiene en un Golpe de suerte.",
-                    "Utilisez des emotes dans vos parties en sélectionnant votre héros ou héroïne.\n\nS’obtient en participant à une Lutte acharnée.",
-                    "Usa un'emote in partita selezionando il tuo eroe.\n\nOttenibile da una Lotteria.",
-                    "対戦中にヒーローを選んで感情表現できる。\n\nバトルバッシュで入手可能。",
-                    "영웅을 선택하여 게임 중에 감정 표현을 전달하세요.\n\n배틀 배쉬에서 획득 가능",
-                    "Użyj emotki podczas gry, wybierając swojego bohatera.\n\nDo zdobycia w Łupobiciu.",
-                    "Use expressão numa partida selecionando seu herói.\n\nPossível de obter em uma Trombada de Batalha.",
-                    "Воспользуйтесь репликами в ходе игры, выбрав своего героя.\n\nНаграда «Боевого разноса».",
-                    "แสดงความรู้สึกในเกมได้โดยการเลือกฮีโร่ของคุณ\n\nหาได้จากแบทเทิลแบช",
-                    "选择你的英雄，在对战中发送表情。\n\n可通过战棋宝锤获得该奖励。",
-                    "在對戰中選擇你的英雄即可使用表情符號。\n\n透過敲敲樂取得。"
-                ],
-                "m_locId": 2861168
-            },
-            "m_animationPath": "BG_Hallow_s_End_N_Zoth_final.controller:fd610963c32e6ba498e2c55c204b1d8e",
-            "m_xOffset": -0.01,
-            "m_zOffset": -0.128,
             "m_isDefault": 0,
             "m_isAnimating": 0,
             "m_borderType": 0
@@ -6626,55 +7459,6 @@
             "m_borderType": 0
         },
         {
-            "m_ID": 56,
-            "m_enabled": 1,
-            "m_rarityId": 3,
-            "m_collectionShortName": {
-                "m_locValues": [
-                    "Hallow's Rakanishu",
-                    "Rakanishu der Schlotternächte",
-                    "Rakanishu de Halloween",
-                    "Rakanishu Halloween",
-                    "Rakanishu de la Sanssaint",
-                    "Rakanishu della Veglia",
-                    "ハロウェンドのラカニシュ",
-                    "할로윈 라카니슈",
-                    "Zadusznikowy Rakaniszu",
-                    "Rakanishu da Noturnália",
-                    "Тыквовинский Раканишу",
-                    "รัคคานิชูคืนสยอง",
-                    "万圣节拉卡尼休",
-                    "萬鬼節拉卡尼休"
-                ],
-                "m_locId": 2858067
-            },
-            "m_description": {
-                "m_locValues": [
-                    "Emote in a match by selecting your hero.\n\nObtainable from a Battle Bash.",
-                    "Tippt im Match auf Euren Helden, um dieses Emote zu senden.\n\nKann beim Preishammer erhalten werden.",
-                    "Manda un emoticono durante un enfrentamiento seleccionando a tu héroe.\n\nSe obtiene en un Golpe de batalla.",
-                    "Selecciona a tu héroe para usar emociones en una partida.\n\nSe obtiene en un Golpe de suerte.",
-                    "Utilisez des emotes dans vos parties en sélectionnant votre héros ou héroïne.\n\nS’obtient en participant à une Lutte acharnée.",
-                    "Usa un'emote in partita selezionando il tuo eroe.\n\nOttenibile da una Lotteria.",
-                    "対戦中にヒーローを選んで感情表現できる。\n\nバトルバッシュで入手可能。",
-                    "영웅을 선택하여 게임 중에 감정 표현을 전달하세요.\n\n배틀 배쉬에서 획득 가능",
-                    "Użyj emotki podczas gry, wybierając swojego bohatera.\n\nDo zdobycia w Łupobiciu.",
-                    "Use expressão numa partida selecionando seu herói.\n\nPossível de obter em uma Trombada de Batalha.",
-                    "Воспользуйтесь репликами в ходе игры, выбрав своего героя.\n\nНаграда «Боевого разноса».",
-                    "แสดงความรู้สึกในเกมได้โดยการเลือกฮีโร่ของคุณ\n\nหาได้จากแบทเทิลแบช",
-                    "选择你的英雄，在对战中发送表情。\n\n可通过战棋宝锤获得该奖励。",
-                    "在對戰中選擇你的英雄即可使用表情符號。\n\n透過敲敲樂取得。"
-                ],
-                "m_locId": 2861169
-            },
-            "m_animationPath": "BG_Hallow_s_End_Rakanishu_final.controller:f07c07d88e28ce44499ca7bc6d65de13",
-            "m_xOffset": 0.0,
-            "m_zOffset": -0.079,
-            "m_isDefault": 0,
-            "m_isAnimating": 0,
-            "m_borderType": 0
-        },
-        {
             "m_ID": 8,
             "m_enabled": 1,
             "m_rarityId": 3,
@@ -6719,55 +7503,6 @@
             "m_animationPath": "Emote_Crying.controller:aa4d72af14a3b634d8d9c10dad736ce7",
             "m_xOffset": 0.0,
             "m_zOffset": -0.1,
-            "m_isDefault": 0,
-            "m_isAnimating": 0,
-            "m_borderType": 0
-        },
-        {
-            "m_ID": 57,
-            "m_enabled": 1,
-            "m_rarityId": 3,
-            "m_collectionShortName": {
-                "m_locValues": [
-                    "Hallow's Sarge",
-                    "Sarge der Schlotternächte",
-                    "Sarge de Halloween",
-                    "Serge Halloween",
-                    "Sergent de la Sanssaint",
-                    "Burba della Veglia",
-                    "ハロウェンドのサージ",
-                    "할로윈 대장님",
-                    "Zadusznikowy Sierżant",
-                    "Sarge da Noturnália",
-                    "Тыквовинский Серж",
-                    "ซาร์จคืนสยอง",
-                    "万圣节萨齐",
-                    "萬鬼節薩吉"
-                ],
-                "m_locId": 2858068
-            },
-            "m_description": {
-                "m_locValues": [
-                    "Emote in a match by selecting your hero.\n\nObtainable from a Battle Bash.",
-                    "Tippt im Match auf Euren Helden, um dieses Emote zu senden.\n\nKann beim Preishammer erhalten werden.",
-                    "Manda un emoticono durante un enfrentamiento seleccionando a tu héroe.\n\nSe obtiene en un Golpe de batalla.",
-                    "Selecciona a tu héroe para usar emociones en una partida.\n\nSe obtiene en un Golpe de suerte.",
-                    "Utilisez des emotes dans vos parties en sélectionnant votre héros ou héroïne.\n\nS’obtient en participant à une Lutte acharnée.",
-                    "Usa un'emote in partita selezionando il tuo eroe.\n\nOttenibile da una Lotteria.",
-                    "対戦中にヒーローを選んで感情表現できる。\n\nバトルバッシュで入手可能。",
-                    "영웅을 선택하여 게임 중에 감정 표현을 전달하세요.\n\n배틀 배쉬에서 획득 가능",
-                    "Użyj emotki podczas gry, wybierając swojego bohatera.\n\nDo zdobycia w Łupobiciu.",
-                    "Use expressão numa partida selecionando seu herói.\n\nPossível de obter em uma Trombada de Batalha.",
-                    "Воспользуйтесь репликами в ходе игры, выбрав своего героя.\n\nНаграда «Боевого разноса».",
-                    "แสดงความรู้สึกในเกมได้โดยการเลือกฮีโร่ของคุณ\n\nหาได้จากแบทเทิลแบช",
-                    "选择你的英雄，在对战中发送表情。\n\n可通过战棋宝锤获得该奖励。",
-                    "在對戰中選擇你的英雄即可使用表情符號。\n\n透過敲敲樂取得。"
-                ],
-                "m_locId": 2861170
-            },
-            "m_animationPath": "BG_Hallows_End_Sarge_final.controller:cd5afea628802884b86968b111f8d60c",
-            "m_xOffset": 0.0,
-            "m_zOffset": -0.079,
             "m_isDefault": 0,
             "m_isAnimating": 0,
             "m_borderType": 0
@@ -6866,55 +7601,6 @@
             "m_animationPath": "Scourge_ScourgestormMillhouse.controller:3ca3b91d7aff9e844a1710c960727930",
             "m_xOffset": -0.03,
             "m_zOffset": -0.1,
-            "m_isDefault": 0,
-            "m_isAnimating": 0,
-            "m_borderType": 0
-        },
-        {
-            "m_ID": 58,
-            "m_enabled": 1,
-            "m_rarityId": 3,
-            "m_collectionShortName": {
-                "m_locValues": [
-                    "Foodie Cookie",
-                    "Gourmet Krümel",
-                    "Cocinitas gourmet",
-                    "Cocinitas gourmet",
-                    "Macaron, fin gourmet",
-                    "Dolcetto Culinario",
-                    "食通クッキー",
-                    "미식가 쿠키",
-                    "Ciastek Smakosz",
-                    "Cozito Gourmet",
-                    "Кулинар Пирожок",
-                    "คุกกี้นักกิน",
-                    "美食家曲奇",
-                    "愛吃鬼餅乾"
-                ],
-                "m_locId": 2860042
-            },
-            "m_description": {
-                "m_locValues": [
-                    "Emote in a match by selecting your hero.\n\nPurchasable when available in the shop.",
-                    "Tippt im Match auf Euren Helden, um dieses Emote zu senden.\n\nKann bei Verfügbarkeit im Shop erworben werden.",
-                    "Expresa una emoción durante la partida seleccionando a tu héroe.\n\nSe compra en la tienda cuando esté disponible.",
-                    "Selecciona a tu héroe para usar emociones en una partida.\n\nSe puede comprar si está disponible en la tienda.",
-                    "Utilisez des emotes dans vos parties en sélectionnant votre héros ou héroïne. \n\nCe plateau s’obtient en l’achetant lorsqu’il est disponible dans la boutique.",
-                    "Usa un'emote in partita selezionando il tuo eroe.\n\nAcquistabile quando disponibile nel negozio.",
-                    "対戦中にヒーローを選んで感情表現できる。\n\nショップでの販売時に購入可能。",
-                    "영웅을 선택하여 게임 중에 감정 표현을 전달하세요.\n\n상점에서 판매 시 구매하여 획득",
-                    "Użyj emotki podczas gry, wybierając swojego bohatera.\n\nDo zakupu po udostępnieniu w sklepie.",
-                    "Use expressão numa partida selecionando seu herói. \n\nPossível de adquirir quando disponível na loja.",
-                    "Воспользуйтесь репликами в ходе игры, выбрав своего героя.\n\nМожно приобрести в магазине.",
-                    "แสดงความรู้สึกในเกมได้โดยการเลือกฮีโร่ของคุณ\n\nซื้อได้เมื่อวางจำหน่ายในร้านค้า",
-                    "选择你的英雄，在对战中发送表情。\n\n可以在上架期间在商店购买。",
-                    "在對戰中選擇你的英雄即可使用表情符號。\n\n於商店上架時購買取得。"
-                ],
-                "m_locId": 2861847
-            },
-            "m_animationPath": "BG_Food_Cookie_final.controller:58c7ee2cb4f3be3469e0414b2a583d50",
-            "m_xOffset": 0.0,
-            "m_zOffset": -0.129,
             "m_isDefault": 0,
             "m_isAnimating": 0,
             "m_borderType": 0
@@ -7508,104 +8194,6 @@
             "m_borderType": 0
         },
         {
-            "m_ID": 59,
-            "m_enabled": 1,
-            "m_rarityId": 3,
-            "m_collectionShortName": {
-                "m_locValues": [
-                    "Foodie A. F. Kay",
-                    "Gourmet A. F. Karla",
-                    "A. F. Ka gourmet",
-                    "Au Sente Gourmet",
-                    "A. F. Kah, fin gourmet",
-                    "A. F. Kappa Culinaria",
-                    "食通A. F. ケイ",
-                    "미식가 A. F. 케이",
-                    "B.R.B. Ara Smakoszka",
-                    "Ausentina Gourmet",
-                    "Кулинар А.Ф.Ка",
-                    "เอ เอฟ เคย์นักกิน",
-                    "美食家阿凯",
-                    "愛吃鬼詹莉‧伊夏"
-                ],
-                "m_locId": 2860043
-            },
-            "m_description": {
-                "m_locValues": [
-                    "Emote in a match by selecting your hero.\n\nPurchasable when available in the shop.",
-                    "Tippt im Match auf Euren Helden, um dieses Emote zu senden.\n\nKann bei Verfügbarkeit im Shop erworben werden.",
-                    "Expresa una emoción durante la partida seleccionando a tu héroe.\n\nSe compra en la tienda cuando esté disponible.",
-                    "Selecciona a tu héroe para usar emociones en una partida.\n\nSe puede comprar si está disponible en la tienda.",
-                    "Utilisez des emotes dans vos parties en sélectionnant votre héros ou héroïne. \n\nCe plateau s’obtient en l’achetant lorsqu’il est disponible dans la boutique.",
-                    "Usa un'emote in partita selezionando il tuo eroe.\n\nAcquistabile quando disponibile nel negozio.",
-                    "対戦中にヒーローを選んで感情表現できる。\n\nショップでの販売時に購入可能。",
-                    "영웅을 선택하여 게임 중에 감정 표현을 전달하세요.\n\n상점에서 판매 시 구매하여 획득",
-                    "Użyj emotki podczas gry, wybierając swojego bohatera.\n\nDo zakupu po udostępnieniu w sklepie.",
-                    "Use expressão numa partida selecionando seu herói. \n\nPossível de adquirir quando disponível na loja.",
-                    "Воспользуйтесь репликами в ходе игры, выбрав своего героя.\n\nМожно приобрести в магазине.",
-                    "แสดงความรู้สึกในเกมได้โดยการเลือกฮีโร่ของคุณ\n\nซื้อได้เมื่อวางจำหน่ายในร้านค้า",
-                    "选择你的英雄，在对战中发送表情。\n\n可以在上架期间在商店购买。",
-                    "在對戰中選擇你的英雄即可使用表情符號。\n\n於商店上架時購買取得。"
-                ],
-                "m_locId": 2861848
-            },
-            "m_animationPath": "BG_Food_AFK_Eating_Donut_final.controller:7826114d6014cae4d8bfe4229e5865d5",
-            "m_xOffset": -0.032,
-            "m_zOffset": -0.079,
-            "m_isDefault": 0,
-            "m_isAnimating": 0,
-            "m_borderType": 0
-        },
-        {
-            "m_ID": 6,
-            "m_enabled": 1,
-            "m_rarityId": 2,
-            "m_collectionShortName": {
-                "m_locValues": [
-                    "Sweaty Pandaren",
-                    "Schwitzender Pandaren",
-                    "Pandaren sudoroso",
-                    "Pandaren transpirado",
-                    "Pandaren anxieux",
-                    "Pandaren Sudato",
-                    "冷や汗パンダレン",
-                    "땀 삐질 판다렌",
-                    "Spocony pandaren",
-                    "Pandaren Suado",
-                    "Взмокший пандарен",
-                    "แพนดาเหงื่อตก",
-                    "流汗的熊猫人",
-                    "冒汗熊貓人"
-                ],
-                "m_locId": 2833728
-            },
-            "m_description": {
-                "m_locValues": [
-                    "Emote in a match by selecting your hero.",
-                    "Tippt im Match auf Euren Helden, um dieses Emote zu senden.",
-                    "Expresa una emoción durante la partida seleccionando a tu héroe.",
-                    "Selecciona a tu héroe para usar emociones en una partida.",
-                    "Utilisez des emotes dans vos parties en sélectionnant votre héros ou héroïne.",
-                    "Usa un'emote in partita selezionando il tuo eroe.",
-                    "対戦中にヒーローを選んで感情表現できる。",
-                    "영웅을 선택하여 게임 중에 감정 표현을 전달하세요.",
-                    "Użyj emotki podczas gry, wybierając swojego bohatera.",
-                    "Use expressão numa partida selecionando seu herói.",
-                    "Воспользуйтесь репликами в ходе игры, выбрав своего героя.",
-                    "แสดงความรู้สึกในเกมได้โดยการเลือกฮีโร่ของคุณ",
-                    "选择你的英雄，在对战中发送表情。",
-                    "在對戰中選擇你的英雄即可使用表情符號。"
-                ],
-                "m_locId": 2853037
-            },
-            "m_animationPath": "Default_Emotes_5.controller:e63e45ddf2c314b41bbe56b4e80a7288",
-            "m_xOffset": 0.0,
-            "m_zOffset": -0.079,
-            "m_isDefault": 1,
-            "m_isAnimating": 0,
-            "m_borderType": 0
-        },
-        {
             "m_ID": 94,
             "m_enabled": 1,
             "m_rarityId": 3,
@@ -7650,55 +8238,6 @@
             "m_animationPath": "Corgi_CorgiHappy.controller:5de9fbf782c923849bca0c7699da7967",
             "m_xOffset": 0.01,
             "m_zOffset": -0.07,
-            "m_isDefault": 0,
-            "m_isAnimating": 0,
-            "m_borderType": 0
-        },
-        {
-            "m_ID": 99,
-            "m_enabled": 1,
-            "m_rarityId": 3,
-            "m_collectionShortName": {
-                "m_locValues": [
-                    "Entrancing Ysera",
-                    "Ysera die Trancerin",
-                    "Ysera en trance",
-                    "Ysera Encantadora",
-                    "Ysera entraînante",
-                    "Ysera in Estasi",
-                    "魅惑のイセラ",
-                    "현혹하는 이세라",
-                    "Czarująca Ysera",
-                    "Ysera Hipnotizante",
-                    "Эффектная Изера",
-                    "อิเซร่าเพลงสะกด",
-                    "万人迷伊瑟拉",
-                    "出神誘惑伊瑟拉"
-                ],
-                "m_locId": 2872922
-            },
-            "m_description": {
-                "m_locValues": [
-                    "Emote in a match by selecting your hero.\n\nEarnable after purchasing the Battlegrounds Season Pass in Season <i>4</i>.",
-                    "Tippt im Match auf Euren Helden, um dieses Emote zu senden.\n\nKann nach Kauf des Schlachtfeld-Saisonpasses in Saison <i>4</i> freigeschaltet werden.",
-                    "Manda un emoticono durante un enfrentamiento seleccionando a tu héroe.\n\nSe puede conseguir al comprar el pase de temporada de Campos de batalla de la temporada <i>4</i>.",
-                    "Selecciona a tu héroe para usar emociones en una partida.\n\nSe puede obtener después de comprar el Pase de temporada de Campos de batalla en la temporada <i>4</i>.",
-                    "Utilisez des emotes dans vos parties en sélectionnant votre héros ou héroïne.\n\nS’obtient après avoir acheté le ticket saisonnier des champs de bataille lors de la saison <i>4</i>.",
-                    "Usa un'emote in partita selezionando il tuo eroe.\n\nOttenibile dopo aver acquistato il Pass Battaglia Stagionale nella Stagione <i>4</i>.",
-                    "対戦中にヒーローを選んで感情表現できる。\n\nバトルグラウンド・シーズン<i>4</i>の「シーズンパス」購入後に獲得可能となる。",
-                    "영웅을 선택하여 게임 중에 감정 표현을 전달하세요.\n\n<i>4</i>시즌 전장 시즌 패스를 구매한 후 획득 가능",
-                    "Użyj emotki podczas gry, wybierając swojego bohatera.\n\nDo zdobycia w karnecie sezonowym Ustawki w sezonie <i>4</i>.",
-                    "Use expressão numa partida selecionando seu herói.\n\nPossível de obter após comprar o Passe de Temporada dos Campos de Batalha na Temporada <i>4</i>.",
-                    "Воспользуйтесь репликами в ходе игры, выбрав своего героя.\n\nМожно открыть после покупки пропуска <i>4-го</i> сезона полей сражений.",
-                    "แสดงความรู้สึกในเกมได้โดยการเลือกฮีโร่ของคุณ\n\nปลดล็อคได้หลังจากซื้อซีซันพาส Battlegrounds ในซีซัน <i>4</i>",
-                    "选择你的英雄，在对战中发送表情。\n\n购买第<i>4</i>赛季的酒馆战棋赛季通行证后开放解锁。",
-                    "在對戰中選擇你的英雄即可使用表情符號。\n\n需在賽季<i>4</i>購買英雄戰場賽季通行證才有機會取得。"
-                ],
-                "m_locId": 2873502
-            },
-            "m_animationPath": "Entrancing_Ysera_final.controller:3a8d3cab4f3e6a848819e7d8a8f96f5a",
-            "m_xOffset": 0.0,
-            "m_zOffset": -0.1,
             "m_isDefault": 0,
             "m_isAnimating": 0,
             "m_borderType": 0
@@ -7895,6 +8434,55 @@
             "m_animationPath": "ETC_AKA Elite_Tauren_Chieftain_final.controller:df6742cf45b7043499043a2de6abf185",
             "m_xOffset": 0.0,
             "m_zOffset": -0.079,
+            "m_isDefault": 0,
+            "m_isAnimating": 0,
+            "m_borderType": 0
+        },
+        {
+            "m_ID": 99,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_collectionShortName": {
+                "m_locValues": [
+                    "Entrancing Ysera",
+                    "Ysera die Trancerin",
+                    "Ysera en trance",
+                    "Ysera Encantadora",
+                    "Ysera entraînante",
+                    "Ysera in Estasi",
+                    "魅惑のイセラ",
+                    "현혹하는 이세라",
+                    "Czarująca Ysera",
+                    "Ysera Hipnotizante",
+                    "Эффектная Изера",
+                    "อิเซร่าเพลงสะกด",
+                    "万人迷伊瑟拉",
+                    "出神誘惑伊瑟拉"
+                ],
+                "m_locId": 2872922
+            },
+            "m_description": {
+                "m_locValues": [
+                    "Emote in a match by selecting your hero.\n\nEarnable after purchasing the Battlegrounds Season Pass in Season <i>4</i>.",
+                    "Tippt im Match auf Euren Helden, um dieses Emote zu senden.\n\nKann nach Kauf des Schlachtfeld-Saisonpasses in Saison <i>4</i> freigeschaltet werden.",
+                    "Manda un emoticono durante un enfrentamiento seleccionando a tu héroe.\n\nSe puede conseguir al comprar el pase de temporada de Campos de batalla de la temporada <i>4</i>.",
+                    "Selecciona a tu héroe para usar emociones en una partida.\n\nSe puede obtener después de comprar el Pase de temporada de Campos de batalla en la temporada <i>4</i>.",
+                    "Utilisez des emotes dans vos parties en sélectionnant votre héros ou héroïne.\n\nS’obtient après avoir acheté le ticket saisonnier des champs de bataille lors de la saison <i>4</i>.",
+                    "Usa un'emote in partita selezionando il tuo eroe.\n\nOttenibile dopo aver acquistato il Pass Battaglia Stagionale nella Stagione <i>4</i>.",
+                    "対戦中にヒーローを選んで感情表現できる。\n\nバトルグラウンド・シーズン<i>4</i>の「シーズンパス」購入後に獲得可能となる。",
+                    "영웅을 선택하여 게임 중에 감정 표현을 전달하세요.\n\n<i>4</i>시즌 전장 시즌 패스를 구매한 후 획득 가능",
+                    "Użyj emotki podczas gry, wybierając swojego bohatera.\n\nDo zdobycia w karnecie sezonowym Ustawki w sezonie <i>4</i>.",
+                    "Use expressão numa partida selecionando seu herói.\n\nPossível de obter após comprar o Passe de Temporada dos Campos de Batalha na Temporada <i>4</i>.",
+                    "Воспользуйтесь репликами в ходе игры, выбрав своего героя.\n\nМожно открыть после покупки пропуска <i>4-го</i> сезона полей сражений.",
+                    "แสดงความรู้สึกในเกมได้โดยการเลือกฮีโร่ของคุณ\n\nปลดล็อคได้หลังจากซื้อซีซันพาส Battlegrounds ในซีซัน <i>4</i>",
+                    "选择你的英雄，在对战中发送表情。\n\n购买第<i>4</i>赛季的酒馆战棋赛季通行证后开放解锁。",
+                    "在對戰中選擇你的英雄即可使用表情符號。\n\n需在賽季<i>4</i>購買英雄戰場賽季通行證才有機會取得。"
+                ],
+                "m_locId": 2873502
+            },
+            "m_animationPath": "Entrancing_Ysera_final.controller:3a8d3cab4f3e6a848819e7d8a8f96f5a",
+            "m_xOffset": 0.0,
+            "m_zOffset": -0.1,
             "m_isDefault": 0,
             "m_isAnimating": 0,
             "m_borderType": 0

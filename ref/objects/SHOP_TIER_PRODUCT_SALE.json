@@ -12,6 +12,14 @@
     "Records": [
         {
             "m_ID": 0,
+            "m_tierId": 1,
+            "m_noteDesc": "Welcome Bundle",
+            "m_slotIndex": 0,
+            "m_pmtProductId": 40369,
+            "m_event": "always"
+        },
+        {
+            "m_ID": 0,
             "m_tierId": 2,
             "m_noteDesc": "15.2 - Saviors of Uldum Pre-Purchase Mega Bundle",
             "m_slotIndex": 0,
@@ -24,6 +32,54 @@
             "m_noteDesc": "15.2 - Saviors of Uldum Pre-Purchase",
             "m_slotIndex": 1,
             "m_pmtProductId": 55530,
+            "m_event": "always"
+        },
+        {
+            "m_ID": 0,
+            "m_tierId": 3,
+            "m_noteDesc": "15.0 - Saviors of Uldum Booster Packs",
+            "m_slotIndex": 0,
+            "m_pmtProductId": 60990,
+            "m_event": "always"
+        },
+        {
+            "m_ID": 0,
+            "m_tierId": 3,
+            "m_noteDesc": "14.0 - Rise of Shadows Booster Packs",
+            "m_slotIndex": 1,
+            "m_pmtProductId": 48471,
+            "m_event": "always"
+        },
+        {
+            "m_ID": 0,
+            "m_tierId": 3,
+            "m_noteDesc": "13.0 - Rastakhan's Rumble Booster Packs",
+            "m_slotIndex": 2,
+            "m_pmtProductId": 44450,
+            "m_event": "always"
+        },
+        {
+            "m_ID": 0,
+            "m_tierId": 3,
+            "m_noteDesc": "12.0 - Boomsday Project Booster Packs",
+            "m_slotIndex": 3,
+            "m_pmtProductId": 38899,
+            "m_event": "always"
+        },
+        {
+            "m_ID": 0,
+            "m_tierId": 3,
+            "m_noteDesc": "11.0 - Witchwood Booster Packs",
+            "m_slotIndex": 4,
+            "m_pmtProductId": 35932,
+            "m_event": "always"
+        },
+        {
+            "m_ID": 0,
+            "m_tierId": 3,
+            "m_noteDesc": "Classic Booster Packs",
+            "m_slotIndex": 5,
+            "m_pmtProductId": 237,
             "m_event": "always"
         },
         {
@@ -104,62 +160,6 @@
             "m_noteDesc": "",
             "m_slotIndex": 1,
             "m_pmtProductId": 22282,
-            "m_event": "always"
-        },
-        {
-            "m_ID": 0,
-            "m_tierId": 1,
-            "m_noteDesc": "Welcome Bundle",
-            "m_slotIndex": 0,
-            "m_pmtProductId": 40369,
-            "m_event": "always"
-        },
-        {
-            "m_ID": 0,
-            "m_tierId": 3,
-            "m_noteDesc": "15.0 - Saviors of Uldum Booster Packs",
-            "m_slotIndex": 0,
-            "m_pmtProductId": 60990,
-            "m_event": "always"
-        },
-        {
-            "m_ID": 0,
-            "m_tierId": 3,
-            "m_noteDesc": "14.0 - Rise of Shadows Booster Packs",
-            "m_slotIndex": 1,
-            "m_pmtProductId": 48471,
-            "m_event": "always"
-        },
-        {
-            "m_ID": 0,
-            "m_tierId": 3,
-            "m_noteDesc": "13.0 - Rastakhan's Rumble Booster Packs",
-            "m_slotIndex": 2,
-            "m_pmtProductId": 44450,
-            "m_event": "always"
-        },
-        {
-            "m_ID": 0,
-            "m_tierId": 3,
-            "m_noteDesc": "12.0 - Boomsday Project Booster Packs",
-            "m_slotIndex": 3,
-            "m_pmtProductId": 38899,
-            "m_event": "always"
-        },
-        {
-            "m_ID": 0,
-            "m_tierId": 3,
-            "m_noteDesc": "11.0 - Witchwood Booster Packs",
-            "m_slotIndex": 4,
-            "m_pmtProductId": 35932,
-            "m_event": "always"
-        },
-        {
-            "m_ID": 0,
-            "m_tierId": 3,
-            "m_noteDesc": "Classic Booster Packs",
-            "m_slotIndex": 5,
-            "m_pmtProductId": 237,
             "m_event": "always"
         }
     ]

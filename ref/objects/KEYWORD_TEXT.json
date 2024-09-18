@@ -870,7 +870,7 @@
         },
         {
             "m_ID": 262,
-            "m_noteDesc": "Bonus Effects\n",
+            "m_noteDesc": "Bonus Effects",
             "m_tagId": 2934,
             "m_name": "GLOBAL_KEYWORD_BONUSEFFECTS",
             "m_text": "GLOBAL_KEYWORD_BONUSEFFECTS_TEXT",
@@ -1265,6 +1265,17 @@
             "m_tooltipInitOrder": 169000
         },
         {
+            "m_ID": 329,
+            "m_noteDesc": "Trinket",
+            "m_tagId": 3407,
+            "m_name": "GLOBAL_KEYWORD_BACON_TRINKET",
+            "m_text": "GLOBAL_KEYWORD_BACON_TRINKET_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_BACON_TRINKET_TEXT",
+            "m_collectionText": "",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 190000
+        },
+        {
             "m_ID": 33,
             "m_noteDesc": "Boss\n",
             "m_tagId": 556,
@@ -1274,6 +1285,17 @@
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
             "m_tooltipInitOrder": 6000
+        },
+        {
+            "m_ID": 333,
+            "m_noteDesc": "Discounted",
+            "m_tagId": 3777,
+            "m_name": "GLOBAL_KEYWORD_BACON_DISCOUNTED",
+            "m_text": "GLOBAL_KEYWORD_BACON_DISCOUNTED_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_BACON_DISCOUNTED_TEXT",
+            "m_collectionText": "",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 191000
         },
         {
             "m_ID": 34,

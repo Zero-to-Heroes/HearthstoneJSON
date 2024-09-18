@@ -461,6 +461,131 @@
             "m_sortOrder": 90
         },
         {
+            "m_ID": 234,
+            "m_achievementCategoryId": 2,
+            "m_name": {
+                "m_locValues": [
+                    "Scholomance",
+                    "Scholomance",
+                    "Scholomance",
+                    "Scholomance",
+                    "Scholomance",
+                    "Scholomance",
+                    "スクロマンス",
+                    "스칼로맨스",
+                    "Scholomancjum",
+                    "Scolomântia",
+                    "Некроситет",
+                    "Scholomance",
+                    "通灵学园",
+                    "通靈學院"
+                ],
+                "m_locId": 2891475
+            },
+            "m_icon": "SCH",
+            "m_sortOrder": 102
+        },
+        {
+            "m_ID": 235,
+            "m_achievementCategoryId": 2,
+            "m_name": {
+                "m_locValues": [
+                    "Outland",
+                    "Scherbenwelt",
+                    "Terrallende",
+                    "Terrallende",
+                    "Outreterre",
+                    "Terre Esterne",
+                    "降魔の狩人",
+                    "아웃랜드",
+                    "Rubież",
+                    "Terralém",
+                    "Запределье",
+                    "Outland",
+                    "外域的灰烬",
+                    "外域"
+                ],
+                "m_locId": 2891555
+            },
+            "m_icon": "BT",
+            "m_sortOrder": 103
+        },
+        {
+            "m_ID": 236,
+            "m_achievementCategoryId": 2,
+            "m_name": {
+                "m_locValues": [
+                    "Descent of Dragons",
+                    "Erbe der Drachen",
+                    "El Descenso de los Dragones",
+                    "Descenso de los Dragones",
+                    "L’Envol des Dragons",
+                    "La Discesa dei Draghi",
+                    "ドラゴン大決戦",
+                    "용의 강림",
+                    "Wejście smoków",
+                    "Despontar dos Dragões",
+                    "Натиск драконов",
+                    "Descent of Dragons",
+                    "巨龙降临",
+                    "降臨！遠古巨龍"
+                ],
+                "m_locId": 2891662
+            },
+            "m_icon": "DRG",
+            "m_sortOrder": 104
+        },
+        {
+            "m_ID": 237,
+            "m_achievementCategoryId": 2,
+            "m_name": {
+                "m_locValues": [
+                    "Saviors of Uldum",
+                    "Retter von Uldum",
+                    "Salvadores de Uldum",
+                    "Defensores de Uldum",
+                    "Les Aventuriers d’Uldum",
+                    "Salvatori di Uldum",
+                    "探検同盟",
+                    "울둠의 구원자",
+                    "Wybawcy Uldum",
+                    "Salvadores de Uldum",
+                    "Спасители Ульдума",
+                    "Saviors of Uldum",
+                    "奥丹姆奇兵",
+                    "奧丹姆守護者"
+                ],
+                "m_locId": 2891812
+            },
+            "m_icon": "ULD",
+            "m_sortOrder": 105
+        },
+        {
+            "m_ID": 238,
+            "m_achievementCategoryId": 2,
+            "m_name": {
+                "m_locValues": [
+                    "Rise of Shadows",
+                    "Verschwörung der Schatten",
+                    "El Auge de las Sombras",
+                    "Ascenso de las Sombras",
+                    "L’Éveil des ombres",
+                    "L'ascesa delle ombre",
+                    "悪党同盟",
+                    "어둠의 반격",
+                    "Wyjście z cienia",
+                    "Ascensão das Sombras",
+                    "Возмездие теней",
+                    "Rise of Shadows",
+                    "暗影崛起",
+                    "反派大進擊"
+                ],
+                "m_locId": 2891871
+            },
+            "m_icon": "DAL",
+            "m_sortOrder": 106
+        },
+        {
             "m_ID": 6,
             "m_achievementCategoryId": 3,
             "m_name": {
