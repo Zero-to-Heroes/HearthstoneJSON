@@ -796,7 +796,7 @@
                     "Reno Sacerdote Dourado",
                     "Золотая колода «Жрец с Рено»",
                     "พรีสต์รีโน่สีทอง",
-                    "金色雷诺牧师",
+                    "雷诺牧师金色套牌",
                     "金卡里諾牧師"
                 ],
                 "m_locId": 2879059
@@ -820,7 +820,7 @@
                     "Ladino Pirata Dourado",
                     "Золотая колода «Разбойник на пиратах»",
                     "โร้กโจรสลัดสีทอง",
-                    "金色海盗潜行者",
+                    "海盗潜行者金色套牌",
                     "金卡海盜盜賊"
                 ],
                 "m_locId": 2879060
@@ -844,7 +844,7 @@
                     "Guerreiro C'Thun Dourado",
                     "Золотая колода «Воин с К'Туном»",
                     "วอริเออร์คาธูนสีทอง",
-                    "金色克苏恩战士",
+                    "克苏恩战士金色套牌",
                     "金卡克蘇恩戰士"
                 ],
                 "m_locId": 2879061
@@ -868,7 +868,7 @@
                     "Druida de Jade Dourado",
                     "Золотая колода «Нефритовый друид»",
                     "ดรูอิดเจดสีทอง",
-                    "金色青玉德鲁伊",
+                    "青玉德鲁伊金色套牌",
                     "金卡翠玉德魯伊"
                 ],
                 "m_locId": 2879062
@@ -892,7 +892,7 @@
                     "Bruxo de Descarte Dourado",
                     "Золотая колода «Чернокнижник на сбросе карт»",
                     "วอร์ล็อคทิ้งการ์ดสีทอง",
-                    "金色弃牌术士",
+                    "弃牌术士金色套牌",
                     "金卡棄牌術士"
                 ],
                 "m_locId": 2879063
@@ -916,7 +916,7 @@
                     "Xamã de Jade Dourado",
                     "Золотая колода «Нефритовый шаман»",
                     "ชาแมนเจดสีทอง",
-                    "金色青玉萨满祭司",
+                    "青玉萨满祭司金色套牌",
                     "金卡翠玉薩滿"
                 ],
                 "m_locId": 2879064
@@ -940,7 +940,7 @@
                     "CAÇADOR.DE.FERA.GRANDE! Dourado",
                     "Золотая колода «Охотник на большого зверя»",
                     "ฮันเตอร์ สัตว์ ใหญ่! สีทอง",
-                    "金色巨兽猎人",
+                    "巨兽猎人金色套牌",
                     "黃金強大、野獸、獵人！"
                 ],
                 "m_locId": 2879682
@@ -988,10 +988,58 @@
                     "Guerreiro de Armadura Dourado",
                     "Золотая колода «Бронированный воин»",
                     "วอริเออร์เกราะสีทอง",
-                    "金色护甲战士",
+                    "护甲战士金色套牌",
                     "金卡護甲戰士"
                 ],
                 "m_locId": 2881910
+            }
+        },
+        {
+            "m_ID": 88,
+            "m_deckTemplateId": 709,
+            "m_boosterId": 0,
+            "m_goldenName": {
+                "m_locValues": [
+                    "Golden Virtues of Handbuff",
+                    "Goldene Tugend der Handverstärkung",
+                    "La virtud de hinchar la mano dorado",
+                    "Virtud de mano potenciada dorada",
+                    "Améliorations en main dorées",
+                    "Virtù dei Potenziamenti alla Mano Dorato",
+                    "ゴールデン手札強化の美徳",
+                    "황금 손 강화의 미덕",
+                    "Złote Zalety wzmocnienia z ręki",
+                    "Virtudes de Bônus na Mão Dourado",
+                    "Золотая колода «Добродетель усиления»",
+                    "ความยิ่งใหญ่ของแฮนด์บัฟสีทอง",
+                    "污手的美德金色套牌",
+                    "黃金強化手牌的美德"
+                ],
+                "m_locId": 2908908
+            }
+        },
+        {
+            "m_ID": 89,
+            "m_deckTemplateId": 712,
+            "m_boosterId": 0,
+            "m_goldenName": {
+                "m_locValues": [
+                    "Golden Highlander Control",
+                    "Goldene Highlander-Kontrolle",
+                    "Control highlander dorado",
+                    "Control montañés dorada",
+                    "Contrôle en solitaire doré",
+                    "Controllo Highlander Dorato",
+                    "ゴールデン・ハイランダー・コントロール",
+                    "황금 하이랜더 컨트롤",
+                    "Złota Wysoka kontrola",
+                    "Controle do Planalto Dourado",
+                    "Золотая колода «Горный контроль»",
+                    "ไฮแลนเดอร์คอนโทรลสีทอง",
+                    "宇宙控制金色套牌",
+                    "黃金無雙控制"
+                ],
+                "m_locId": 2908909
             }
         },
         {

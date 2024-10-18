@@ -744,10 +744,6 @@
         },
         {
             "m_ID": 0,
-            "m_notes": ""
-        },
-        {
-            "m_ID": 0,
             "m_notes": "Previously there were separate reference powers for each individual possible of overload, i.e. 1, 2, 3, 5, 10.  Also, some cards had unique power instances for overload of different numbers, like 4.  As such this doesn't have a neat Alias ID to map to in legacy scripts since it combines all of them into one with ref power params. "
         },
         {

@@ -218,7 +218,7 @@
             "m_noteDesc": "Personalized Shop Offer Rules",
             "m_assetFlags": 0,
             "m_endpoint": 30,
-            "m_globalUrl": "https://oribos.blizzard.cn/legal/personalizedoffers"
+            "m_globalUrl": "https://hs.blizzard.cn/news/20240905/40856_1179106.html"
         },
         {
             "m_ID": 84,
@@ -235,11 +235,32 @@
             "m_globalUrl": "https://www.blizzard.com/legal/1d866a2c-a45d-4b3c-9d03-af900c428d4b"
         },
         {
+            "m_ID": 88,
+            "m_noteDesc": "Personal Info CN Only",
+            "m_assetFlags": 0,
+            "m_endpoint": 33,
+            "m_globalUrl": "https://account.battlenet.com.cn/data-sharing/device-info"
+        },
+        {
             "m_ID": 9,
             "m_noteDesc": "Data Management",
             "m_assetFlags": 0,
             "m_endpoint": 8,
             "m_globalUrl": "https://account.battle.net/login/sso?token={0}&ref=https://support.blizzard.com/help/product/services/1327"
+        },
+        {
+            "m_ID": 90,
+            "m_noteDesc": "SDK Info CN Only",
+            "m_assetFlags": 0,
+            "m_endpoint": 34,
+            "m_globalUrl": "https://wow.blizzard.cn/news/privacy/20240402/40295_1147022.html"
+        },
+        {
+            "m_ID": 91,
+            "m_noteDesc": "CN Registration Info",
+            "m_assetFlags": 0,
+            "m_endpoint": 35,
+            "m_globalUrl": "https://beian.miit.gov.cn/"
         }
     ]
 }
