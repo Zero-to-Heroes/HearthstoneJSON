@@ -586,6 +586,31 @@
             "m_sortOrder": 106
         },
         {
+            "m_ID": 253,
+            "m_achievementCategoryId": 2,
+            "m_name": {
+                "m_locValues": [
+                    "Great Dark Beyond",
+                    "Große Dunkle Weiten",
+                    "La Gran Oscuridad",
+                    "La Gran Oscuridad",
+                    "Ténèbre de l’Au-delà",
+                    "La Grande Oscurità",
+                    "ドラナイ伝",
+                    "끝없는 어둠",
+                    "Bezkresna ciemność",
+                    "Grande Treva Infinita",
+                    "Великая Запредельная Тьма",
+                    "Great Dark Beyond",
+                    "深暗领域",
+                    "星外暗界"
+                ],
+                "m_locId": 2902953
+            },
+            "m_icon": "GDB",
+            "m_sortOrder": 89
+        },
+        {
             "m_ID": 6,
             "m_achievementCategoryId": 3,
             "m_name": {
@@ -1434,6 +1459,31 @@
             },
             "m_icon": "VAC",
             "m_sortOrder": 89
+        },
+        {
+            "m_ID": 254,
+            "m_achievementCategoryId": 3,
+            "m_name": {
+                "m_locValues": [
+                    "The Great Dark Beyond",
+                    "Die Großen Dunklen Weiten",
+                    "La Gran Oscuridad",
+                    "La Gran Oscuridad",
+                    "La Ténèbre de l’Au-delà",
+                    "La Grande Oscurità",
+                    "暗黒宇宙ドラナイ伝",
+                    "끝없는 어둠",
+                    "Bezkresna ciemność",
+                    "Grande Treva Infinita",
+                    "Великая Запредельная Тьма",
+                    "The Great Dark Beyond",
+                    "深暗领域",
+                    "星外暗界"
+                ],
+                "m_locId": 2902954
+            },
+            "m_icon": "GDB",
+            "m_sortOrder": 88
         },
         {
             "m_ID": 23,
