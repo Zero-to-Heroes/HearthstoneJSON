@@ -1,0 +1,2363 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 2588313133747296705
+    },
+    "m_Name": "SPECIAL_EVENT",
+    "Records": [
+        {
+            "m_ID": 10,
+            "m_specialEventType": 12,
+            "m_eventTiming": 10000557,
+            "m_displayName": {
+                "m_locValues": [
+                    "Twist - A New Age",
+                    "Der Haken – Ein neues Zeitalter",
+                    "Giro - Una nueva era",
+                    "Imprevisto: Una nueva era",
+                    "Imprévu – Une nouvelle ère",
+                    "Distorto - Una nuova era",
+                    "ツイスト - 新時代",
+                    "변칙 - 신시대",
+                    "Przeplatanka – Nowa era",
+                    "Imprevisível — Uma Nova Era",
+                    "Твист – новый век",
+                    "ทวิสต์ - ยุคใหม่",
+                    "幻变模式 - 新的时代",
+                    "扭曲：新紀元"
+                ],
+                "m_locId": 2875505
+            },
+            "m_shortDescription": {
+                "m_locValues": [
+                    "Greatness, Now Even Greater!",
+                    "Großes, jetzt noch größer!",
+                    "La grandeza, ¡aún más grande!",
+                    "¡La grandeza es ahora aún más grande!",
+                    "La grandeur, plus grande que jamais !",
+                    "La grandezza, ora ancora più grande!",
+                    "偉大な奴らがさらにビッグになって帰ってきた！",
+                    "위대함이 이제 더 위대해졌습니다!",
+                    "Legendy zyskują nowy blask!",
+                    "Grandeza, agora ainda mais grandiosa!",
+                    "Поднимитесь к новым высотам славы!",
+                    "ความยิ่งใหญ่ ที่ยิ่งใหญ่ขึ้นไปอีก!",
+                    "精彩，更进一步！",
+                    "不只偉大，更加壯大！"
+                ],
+                "m_locId": 2875506
+            },
+            "m_longDescription": {
+                "m_locValues": [
+                    "Revel in legends of past ages, returned but with a TWIST! Complete quests to collect Event XP, earn rewards,\nand relive the glory!",
+                    "Schwelgt in den Legenden vergangener Zeiten – sie sind  zurück, allerdings mit einem HAKEN! Schließt Quests ab, um Event-EP zu sammeln, Belohnungen zu verdienen\nund den Ruhm noch einmal zu erleben!",
+                    "Regodéate con las leyendas del pasado, que les hemos dado un GIRO. Completa misiones para conseguir PE de evento, gana recompensas\n¡y revive la gloria!",
+                    "¡Deléitate con las leyendas de épocas pasadas que regresaron pero con un modo IMPREVISTO! ¡Completa misiones para recolectar EXP de evento, ganar recompensas\ny revive la gloria!",
+                    "Les légendes des ères passées n’ont pas dit leur dernier mot et reviennent de manière IMPRÉVUE ! Accomplissez des quêtes pour obtenir des points d’EXP d’évènement et des récompenses.\nQue votre gloire jaillisse une nouvelle fois !",
+                    "Le leggende delle ere passate fanno il loro ritorno, ma in modo IMPREVISTO! Completa le missioni per accumulare PE Evento, ottenere ricompense,\ne rivivere le antiche glorie!",
+                    "ツイストがセットになって昔のレジェンドたちが帰ってきた！クエストを達成してイベントXPを稼ぎ、報酬を獲得して、\n栄光を追体験しよう！",
+                    "변칙과 함께 돌아온 전설적인 과거를 만끽하세요! 퀘스트를 완료하여 이벤트 경험치를 모으고, 보상을 얻어\n영광의 순간을 다시 체험해 보세요!",
+                    "Rozkoszuj się legendami sprzed lat, które będą PRZEPLATAĆ się z nowymi kartami! Wykonuj zadania, aby zdobywać PD oraz nagrody\ni przeżyj niezapomniane chwile na nowo!",
+                    "Deleite-se com lendas de eras passadas, de volta agora com um modo Imprevisível! Complete missões para acumular EXP de Evento, ganhar recompensas,\ne reviver a glória!",
+                    "Вновь встретьтесь с легендами прошлого, которые вернулись, чтобы исполнить твист! Выполняйте задания и получайте опыт события, зарабатывайте награды\nи вспомните былую славу!",
+                    "ดื่มด่ำกับเหล่าตำนานยุคก่อนที่หวนกลับมาอย่างหักมุม! ทำเควสต์ให้สำเร็จเพื่อเก็บ XP_กิจกรรม รับรางวัล แล้วรำลึกถึงอดีตอันรุ่งโรจน์!",
+                    "旧日传奇，幻变回归！完成任务，获取活动经验值，赢得奖励，\n回味往昔的荣耀！",
+                    "盡情體驗過往的傳說吧，他們因為扭曲回歸了！完成任務來獲得活動經驗值、賺取獎勵\n並重現昔日的榮光！"
+                ],
+                "m_locId": 2875507
+            },
+            "m_chooseATrackPrompt": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            }
+        },
+        {
+            "m_ID": 11,
+            "m_specialEventType": 8,
+            "m_eventTiming": 10000558,
+            "m_displayName": {
+                "m_locValues": [
+                    "Midsummer Fire Festival",
+                    "Sonnenwendfest",
+                    "Festival del Fuego del Solsticio de Verano",
+                    "Festival de Fuego del Solsticio de Verano",
+                    "Fête du Feu du solstice d’été",
+                    "Festival del Fuoco di Mezza Estate",
+                    "真夏の炎祭り",
+                    "한여름 불꽃축제",
+                    "Festiwal Letniego Przesilenia",
+                    "Festival do Fogo do Solstício",
+                    "Огненный солнцеворот",
+                    "เทศกาลไฟมิดซัมเมอร์",
+                    "仲夏火焰节",
+                    "仲夏火焰節"
+                ],
+                "m_locId": 2875510
+            },
+            "m_shortDescription": {
+                "m_locValues": [
+                    "The Summer is Just Heating Up!",
+                    "Der Sommer wird gerade so richtig heiß!",
+                    "¡Ya se va sintiendo el calor estival!",
+                    "¡El verano apenas entra en calor!",
+                    "L’été s’annonce radieux !",
+                    "L'estate sta iniziando a scaldarsi!",
+                    "アツい夏のはじまりだ！",
+                    "뜨거운 여름이 시작됩니다!",
+                    "Lato robi się coraz gorętsze!",
+                    "O verão está esquentando!",
+                    "Лето становится еще жарче!",
+                    "ความร้อนแรงของฤดูร้อนเพิ่งจะเริ่มเท่านั้น!",
+                    "炎炎夏日，热力升级！",
+                    "火熱的夏天正要開始！"
+                ],
+                "m_locId": 2875511
+            },
+            "m_longDescription": {
+                "m_locValues": [
+                    "Midsummer festivities are back! Complete quests for either Hearthstone or Battlegrounds to collect Event XP, earn rewards, and kick off the Summer with a BANG!",
+                    "Das Sonnenwendfest ist zurück! Schließt Quests für Hearthstone oder dem Schlachtfeldmodus ab, um Event-EP zu sammeln, Belohnungen zu verdienen und den Sommer mit einem KNALL zu beginnen!",
+                    "¡Vuelven las celebraciones del solsticio! Completa misiones en Hearthstone o Campos de batalla para conseguir PE de evento, gana recompensas y empieza el verano a lo grande.",
+                    "¡Ya regresaron las festividades del Solsticio de Verano! ¡Completa misiones para Hearthstone o Campos de batalla para obtener EXP de evento, ganar recompensas y comenzar el verano con un BUM!",
+                    "Les festivités du solstice d’été sont de retour ! Accomplissez des quêtes pour les modes Hearthstone ou Champs de bataille afin d’obtenir des points d’EXP d’évènement et des récompenses. Saluez l’arrivée de l’été comme il se doit !",
+                    "I festeggiamenti di Mezza Estate sono tornati! Completa le missioni in Hearthstone o Battaglia per accumulare PE Evento, ottenere ricompense e inaugurare l'estate come si deve!",
+                    "真夏の炎祭りが帰ってきた！「ハースストーン」や「バトルグラウンド」のクエストを達成してイベントXPを稼ぎ、報酬を獲得して、ド派手に夏を始めよう！",
+                    "한여름 축제가 돌아왔습니다! 하스스톤 혹은 전장에서 퀘스트를 완료하여 이벤트 경험치를 모으고, 보상을 얻어 여름을 신나게 시작해 보세요!",
+                    "Powracają obchody Letniego Przesilenia! Wykonuj zadania w Hearthstone lub Ustawce, aby zdobywać PD wydarzenia oraz nagrody i rozpocząć lato w spektakularnym stylu!",
+                    "Os festejos do Solstício voltaram! Conclua missões em Hearthstone ou Campos de Batalha para acumular EXP de Evento, ganhar recompensas e começar o verão com um POU!",
+                    "Празднования Огненного солнцеворота возвращаются! Выполняйте задания в традиционном режиме Hearthstone или на полях сражений, чтобы получать опыт события, зарабатывать награды и встретить приход лета с размахом!",
+                    "งานฉลองมิดซัมเมอร์กลับมาแล้ว! ทำเควสต์ใน Hearthstone หรือ Battlegrounds ให้สำเร็จเพื่อเก็บ XP_กิจกรรม รับรางวัล และเริ่มต้นฤดูร้อนอย่างสุดปัง!",
+                    "又到了仲夏火焰节！在传统对战或酒馆战棋中完成任务，获取活动经验值，赢得奖励，开启美妙的夏天！",
+                    "仲夏節活動回來了！完成爐石戰記或英雄戰場的任務，收集活動經驗值並獲得獎勵，熱烈迎接這個夏天吧！"
+                ],
+                "m_locId": 2875512
+            },
+            "m_chooseATrackPrompt": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            }
+        },
+        {
+            "m_ID": 14,
+            "m_specialEventType": 13,
+            "m_eventTiming": 10000559,
+            "m_displayName": {
+                "m_locValues": [
+                    "Ulduar Grand Championship",
+                    "Ulduar-Meisterschaft",
+                    "Gran campeonato de Ulduar",
+                    "Gran campeonato de Ulduar",
+                    "Grand championnat d’Ulduar",
+                    "Grand Championship di Ulduar",
+                    "ウルドゥアー・グランド選手権",
+                    "울두아르 그랜드 챔피언십",
+                    "Wielkie Mistrzostwa Ulduaru",
+                    "Grande Campeonato de Ulduar",
+                    "Большой чемпионат Ульдуара",
+                    "อุลดูอาร์แกรนด์แชมเปี้ยนชิป",
+                    "决胜奥杜尔",
+                    "奧杜亞聯賽"
+                ],
+                "m_locId": 2877103
+            },
+            "m_shortDescription": {
+                "m_locValues": [
+                    "Take Up Arms in Glorious Combat!",
+                    "Folge dem Ruf zu den Waffen in einem glorreichen Kampf!",
+                    "¡Toma las armas en un glorioso combate!",
+                    "¡Toma las armas y enfréntate en combate!",
+                    "Prenez les armes et combattez pour la gloire !",
+                    "Armati per un glorioso combattimento!",
+                    "栄誉ある戦闘で武器を取ろう！",
+                    "영광스러운 전투에 참여해 무기를 드세요!",
+                    "Chwytaj za broń i okryj się chwałą w walce!",
+                    "Pegue em Armas em Glorioso Combate!",
+                    "Сойдитесь в славном бою!",
+                    "หยิบอาวุธลุกขึ้นสู้เพื่อความรุ่งโรจน์!",
+                    "拿起武器，搏取荣耀！",
+                    "在光榮的戰鬥中大展身手吧！"
+                ],
+                "m_locId": 2877104
+            },
+            "m_longDescription": {
+                "m_locValues": [
+                    "The combat grounds in Ulduar are open for you to test your mettle. Complete quests to collect Event XP, earn rewards, and prove yourself worthy of the Titans' attention!",
+                    "Die Kampfplätze in Ulduar stehen Euch offen, um Euer Können zu testen. Schließt Quests ab, um Event-EP zu sammeln, Belohnungen zu verdienen und zu beweisen, dass Ihr der Aufmerksamkeit der Titanen würdig seid!",
+                    "El campo de combate de Ulduar está abierto para que demuestres tu valía. Completa misiones para reunir PE de evento, ganar recompensas ¡y demostrar que eres digno de la atención de Los Titanes!",
+                    "Los campos de combate de Ulduar están disponibles para que pongas a prueba tus habilidades. ¡Completa misiones para obtener EXP de evento, ganar recompensas y demostrar que eres digno de la atención de los Titanes!",
+                    "Les terrains de joute d’Ulduar sont désormais ouverts à quiconque veut prouver sa valeur. Montrez-vous digne de la faveur des Titans et accomplissez des quêtes pour obtenir des points d’EXP d’évènement et des récompenses !",
+                    "I campi di combattimento di Ulduar sono aperti per mettere alla prova il tuo coraggio. Completa le missioni per raccogliere PE Evento, ottenere ricompense e dimostrare di meritare l'attenzione dei Titani!",
+                    "ウルドゥアーの闘場であんたの武勇を試そう！クエストを達成してイベントXPを稼ぎ、報酬をゲットして、タイタン達の注目に値することを証明しよう！",
+                    "울두아르의 투기장에서 여러분의 기량을 증명해 보세요. 퀘스트를 완료하여 이벤트 경험치를 수집하고 보상을 획득하여 티탄의 주목을 받을 만한 실력을 증명하세요!",
+                    "Ubita ziemia Ulduaru czeka, żeby sprawdzić twój hart ducha. Wykonuj zadania, aby otrzymywać PD wydarzenia, zdobywaj nagrody i dowiedź, że zasługujesz na uwagę Tytanów!",
+                    "As áreas de combate em Ulduar estão abertas para você provar seu valor. Conclua missões para coletar EXP de Evento, ganhar recompensas e provar que merece a atenção dos Titãs!",
+                    "Поля испытаний Ульдуара открыты для всех, кто готов доказать свою силу. Выполняйте задания, получайте опыт события, зарабатывайте награды и добейтесь уважения титанов!",
+                    "สนามต่อสู้ในอุลดูอาร์เปิดให้คุณ[b]พิสูจน์[b]ความกล้า[b]แล้ว ทำเควสต์[b]ให้สำเร็จ[b]เพื่อเก็บ XP_กิจกรรม รับรางวัล แล้วพิสูจน์ว่า[b]ตัวคุณ[b]คู่ควร[b]ให้เหล่า[b]ไททัน[b]สนใจ!",
+                    "奥杜尔的战场已为你开启，加入战斗，检验自己的斗志。完成任务，获取活动经验值，赢得奖励，以及泰坦诸神的垂青！",
+                    "奧杜亞的戰鬥會場正等你來測試實力。完成任務來獲得活動經驗值、賺取獎勵以及贏得泰坦的賞識！"
+                ],
+                "m_locId": 2877105
+            },
+            "m_chooseATrackPrompt": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            }
+        },
+        {
+            "m_ID": 15,
+            "m_specialEventType": 12,
+            "m_eventTiming": 10000560,
+            "m_displayName": {
+                "m_locValues": [
+                    "The Battle of Ahn'Qiraj",
+                    "Die Schlacht um Anh'Qiraj",
+                    "La Batalla de Ahn'Qiraj",
+                    "La batalla de Anh'Qiraj",
+                    "Bataille d’Ahn’Qiraj",
+                    "La battaglia di Anh'Qiraj",
+                    "アーンキラジの戦い",
+                    "안퀴라즈 전투",
+                    "Bitwa o Ahn'Qiraj",
+                    "A Batalha de Anh'Qiraj",
+                    "Битва за Ан'Кираж",
+                    "สมรภูมิอาห์นคีราจ",
+                    "安其拉之战",
+                    "安其拉之戰"
+                ],
+                "m_locId": 2878515
+            },
+            "m_shortDescription": {
+                "m_locValues": [
+                    "The Sands Shift Once More...",
+                    "Die Sande stürmen aufs Neue_...",
+                    "Las arenas vuelven a cambiar...",
+                    "Las arenas se calman una vez más...",
+                    "Les sables s’écoulent à nouveau…",
+                    "Le sabbie mutano ancora una volta...",
+                    "砂漠が再び蠢き始める…",
+                    "모래가 다시 한 번 흐릅니다...",
+                    "Piaski znów są niespokojne…",
+                    "As Areias Mudam Novamente...",
+                    "Зыбучие пески снова ожили...",
+                    "ผืนทรายพลิกผันอีกครา...",
+                    "流沙再度扬起……",
+                    "時間之沙再次流動…"
+                ],
+                "m_locId": 2878516
+            },
+            "m_longDescription": {
+                "m_locValues": [
+                    "The Infinite Dragonflight fight by the side of the Qiraji! Complete quests to collect Event XP, earn rewards, and decide the fate of the Bronze Dragonflight!",
+                    "Die unendliche Drachenbrut kämpft an der Seite von Qiraji! Schließt Quests ab, um Event-EP zu sammeln, Belohnungen zu verdienen\nund das Schicksal der bronzenen Drachenbrut zu entscheiden!",
+                    "¡El Vuelo Infinito lucha del lado de los Qiraji! Completa misiones para obtener PE de evento, ganar recompensas y decidir el destino del Vuelo de Bronce.",
+                    "¡El Vuelo Infinito pelea junto a los qiraji! ¡Completa misiones para obtener EXP de evento, ganar recompensas y elegir el destino del Vuelo de Bronce!",
+                    "Le Vol draconique infini combat aux côtés des Qiraji ! Accomplissez des quêtes pour obtenir des points d’EXP d’évènement et des récompenses. Décidez du sort du Vol draconique de bronze !",
+                    " Lo Stormo dei Draghi Infinito combatte al fianco dei Qiraji! Completa le missioni per raccogliere PE Evento, ottenere ricompense e decidere le sorti dello Stormo dei Draghi di Bronzo!",
+                    "インフィニットドラゴン族がキラジ軍に加勢！クエストを達成してイベントXPを稼ぎ、報酬をゲットして、ブロンズドラゴン族の運命を決定しよう！",
+                    "무한의 용군단이 퀴라지의 편에서 싸웁니다! 퀘스트를 완료하여 이벤트 경험치를 수집하고 보상을 획득하여 청동용군단의 운명을 결정하세요!",
+                    "Nieskończone smoki walczą po stronie quirajów! Wykonuj zadania, aby zdobywać PD oraz nagrody i rozstrzygnij losy spiżowych smoków!",
+                    "A luta de Revoada Dragônica Infinita ao lado de Qiraji! Complete missões para acumular EXP de Evento, ganhar recompensas e decidir o destino da Revoada Dragônica Bronze!",
+                    "Драконы из рода Бесконечности сражаются на стороне киражей! Выполняйте задания, получайте опыт события, зарабатывайте награды и решите судьбу бронзовых драконов!",
+                    "อินฟินิตดราก้อนไฟลท์ร่วมสู้เคียงข้างชาวคีราจี! ทำเควสต์ให้สำเร็จเพื่อเก็บ XP กิจกรรม รับรางวัล แล้วตัดสินชะตากรรมของบรอนซ์[b]ดราก้อน[b]ไฟลท์!",
+                    "永恒龙军团和其拉虫族联手来袭！完成任务，获取活动经验值，赢得奖励。青铜龙军团的命运在你手中！",
+                    "恆龍軍團與安其拉站在同一陣線！完成任務即可獲得活動經驗值、賺取獎勵並左右青銅龍軍團的命運！"
+                ],
+                "m_locId": 2878517
+            },
+            "m_chooseATrackPrompt": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            }
+        },
+        {
+            "m_ID": 16,
+            "m_specialEventType": 13,
+            "m_eventTiming": 10000562,
+            "m_displayName": {
+                "m_locValues": [
+                    "The Great Yogg Escape",
+                    "Die große Yogg-Flucht",
+                    "La gran evasión de Yogg",
+                    "El gran escape de Yogg",
+                    "L’évasion de Yogg-Saron",
+                    "La grande fuga di Yogg",
+                    "ヨグの脱獄大作戦",
+                    "요그 대탈주",
+                    "Wielka, yoggowa ucieczka",
+                    "A Grande Fuga de Yogg",
+                    "Великий побег Йогга",
+                    "การหลบหนีสุดย็อกก์",
+                    "尤格大逃亡",
+                    "尤格大脫逃"
+                ],
+                "m_locId": 2880000
+            },
+            "m_shortDescription": {
+                "m_locValues": [
+                    "No Primeval Monstrocity Left Behind!",
+                    "Keine urzeitliche Monstrosität wird zurückgelassen!",
+                    "¡Que no quede atrás ninguna monstruosidad primigenia!",
+                    "¡Ninguna monstruosidad primitiva se queda atrás!",
+                    "Aucun monstre primitif ne sera abandonné !",
+                    "Nessuna mostruosità primordiale verrà lasciata indietro!",
+                    "正気度減少中脱獄進行中",
+                    "태고의 괴물을 두고 가지 마세요!",
+                    "Uratujemy każdego pradawnego potwora!",
+                    "Nenhuma monstruosidade primitiva fica para trás!",
+                    "Участвуют все древние кошмары!",
+                    "อย่าทิ้งอสูรร้ายดึกดำบรรพ์ตนไหนไว้เบื้องหลัง!",
+                    "一个魔神都不能少！",
+                    "不能拋下任何古老的怪物！"
+                ],
+                "m_locId": 2880001
+            },
+            "m_longDescription": {
+                "m_locValues": [
+                    "As long as one of their own is being held prisoner, the Old Gods will band together! Complete quests to collect Event XP, earn rewards, and help this rag-tag crew rescue their comrade in madness!",
+                    "Solange einer von ihnen gefangen gehalten wird, werden sich die alten Götter verbünden! Schließe Quests ab, um Event-EP zu sammeln, Belohnungen zu verdienen und dieser zusammengewürfelten Mannschaft zu helfen, ihren verrückten Kameraden zu retten!",
+                    "Mientras uno de los suyos siga preso, ¡los dioses antiguos se mantendrán unidos! Completa misiones para obtener PE de evento, gana recompensas y ¡ayuda a este grupo mal avenido a rescatar a su camarada de locuras!",
+                    "¡Los dioses antiguos se reunirán mientras que uno de los suyos es prisionero! ¡Completa las misiones para obtener EXP de evento, ganar recompensas y ayudar a este desorganizado grupo a rescatar a sus camaradas de la demencia!",
+                    "Tant qu’un seul d’entre eux sera retenu captif, les Dieux très anciens s’uniront ! Terminez des quêtes afin de gagner des points d’EXP d’évènement et des récompenses. Accompagnez ce groupe hétéroclite dans sa descente vers la folie lors de cette mission de sauvetage !",
+                    "Finché uno di loro sarà tenuto prigioniero, gli Dei Antichi uniranno le forze! Completa le Missioni per raccogliere PE Evento, ottenere ricompense e aiutare questa banda a salvare il loro compagno di follie!",
+                    "普段は罰バチの間柄でも、ダチのガラをさらわれちゃあ黙っちゃいられねぇ、と旧神達が触手を組んだ！クエストを達成してイベントXPを稼ぎ、報酬を獲得して、狂気仲間の救出計画を成功させよう！",
+                    "그들 중 누군가가 감금되어 있는 한, 고대 신들은 힘을 한데 모을 겁니다! 퀘스트를 완료하여 이벤트 경험치와 보상을 받고 광기에 사로잡힌 동료들을 함께 구해주세요!",
+                    "Dopóki choć jeden z nich jest więźniem, przedwieczni bogowie będą działać razem! Wykonuj zadania, by zdobyć PD wydarzenia oraz nagrody i pomóż tej nieogarniętej ekipie uratować ich towarzysza w szaleństwie!",
+                    "Enquanto um deles estiver preso, os Deuses Antigos se unirão! Conclua missões para coletar EXP de Evento, ganhe recompensas e ajude essa equipe maltrapilha a resgatar seu parceiro de loucura!",
+                    "Когда один из них в плену, остальные Древние боги объединяются! Выполняйте задания, чтобы накапливать опыт события, получайте награды и помогите этой пестрой команде спасти своего товарища по безумию!",
+                    "ตราบใดที่ยังมีเทพโบราณสักตนถูก[b]จองจำ พวกมัน[b]ก็จะ[b]สามัคคี[b]เป็น[b]หนึ่งเดียว! ทำเควสต์[b]ให้[b]สำเร็จ[b]เพื่อเก็บ XP_กิจกรรม รับรางวัล และ[b]ช่วยเหลือ[b]กลุ่ม[b]สุด[b]อลเวง[b]ชิงตัว[b]สหาย[b]ร่วม[b]อุดม[b]การณ์[b]ความบ้า!",
+                    "上古之神结成了小队，前来营救这位被困的古神！完成任务，获取活动经验值，赢得奖励，帮助这个团伙救出癫狂的同伴！",
+                    "只要有成員被囚禁，上古諸神就會團結合作！完成任務來獲得活動經驗值、賺取獎勵，並幫助這個混亂的團隊在瘋狂之中拯救同胞！"
+                ],
+                "m_locId": 2880002
+            },
+            "m_chooseATrackPrompt": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            }
+        },
+        {
+            "m_ID": 17,
+            "m_specialEventType": 1,
+            "m_eventTiming": 10000563,
+            "m_displayName": {
+                "m_locValues": [
+                    "Hallow's End",
+                    "Schlotternächte",
+                    "Halloween",
+                    "Halloween",
+                    "Sanssaint",
+                    "Veglia delle Ombre",
+                    "ハロウェンド",
+                    "할로윈 축제",
+                    "Zaduszniki",
+                    "Noturnália",
+                    "Тыквовин",
+                    "ฮอลโลว์สเอนด์",
+                    "万圣节",
+                    "萬鬼節"
+                ],
+                "m_locId": 2882780
+            },
+            "m_shortDescription": {
+                "m_locValues": [
+                    "Heroes all: Take care and take heed!\nThe Horseman rides on ghostly steed!",
+                    "An alle Helden: Passt auf euch auf!\nDer Reiter reitet auf einem\ngeisterhaften Ross!",
+                    "A los héroes me dirijo: viene el jinete, ¡es él! Tened listo el crucifijo: ¡llega en espectral corcel!",
+                    "A todos los héroes: ¡Presten atención y vayan con cuidado!\n¡El Jinete monta un corcel espectral veloz!",
+                    "Prenez garde au cavalier damné qui chevauche son fidèle destrier !",
+                    "Eroi, ascoltate il mio appello sincero!\nIl Cavaliere è giunto in groppa al suo pallido destriero!",
+                    "首なし騎士を乗せ、ひた走る幽騎！\nヒーロー達よ示せ、迸る勇気！",
+                    "영웅 여러분, 몸조심하란 조언을 잘 새겨 들으세요!\n유령 말을 탄 기사들이 달려옵니다!",
+                    "Wkrótce zaznacie nie lada strachu!\nJeździec nadciąga na upiornym rumaku!",
+                    "Para todos os heróis: cuidem-se e me ouçam! O Cavaleiro avança com o seu corcel fantasmagórico!",
+                    "Берегитесь, герои, не блуждайте во тьме!\nВсадник несется на мертвом коне!",
+                    "จงฟังและระวังเถิด ฮีโร่ทุกท่าน!\nทหารม้าห้อตะบึง บนหลังอาชาวิญญาณ!",
+                    "列位英雄，倾听呼唤！\n无头骑士，已上马鞍！",
+                    "所有英雄，小心謹慎並聽從警告！\n無頭騎士騎著鬼靈戰騎來報到！"
+                ],
+                "m_locId": 2882781
+            },
+            "m_longDescription": {
+                "m_locValues": [
+                    "To earn these fabulous rewards, collect XP from spooky quests,\nconfront he who stalks these moonlit nights, and lay the Headless Horseman to rest!",
+                    "Sammelt EP bei gruseligen Quests,\nstellt Euch dem, der diese mondhellen Nächte verfolgt, und begrabt den Kopflosen Reiter, um diese fantastischen Belohnungen zu erhalten!",
+                    "Recompensas fabulosas ganaréis por los PE, en misiones espantosas que superaréis con fe.\nDecapitado cabalga, en la noche os amenaza. Atacadlo cuando salga, no permitáis que os dé caza.",
+                    "¡Para obtener estas increíbles recompensas, consigue EXP de misiones tenebrosas,\nenfrenta a quien acecha en estas noches de luz de luna y ponle fin al Jinete decapitado!",
+                    "Obtenez récompenses, expérience, lors de quêtes effrayantes. La Sanssaint est au cœur d’une aventure haletante !",
+                    "Per ottenere queste fantastiche ricompense, accumula PE da ogni missione funesta,\naffronta colui che infesta le notti di luna e bandisci il Cavaliere Senza Testa!",
+                    "豪華な報酬へ導くXPを求め、クリアせよ ブキミなクエスト！\n月下の狂笑をかき消すエクソシストよ誓え、首なし騎士 見事倒すと！",
+                    "이 근사한 보상을 획득하고, 스산한 퀘스트에서 경험치를 얻으려면,\n달빛이 드리운 밤에 배회하는 저주받은 기사를 대적하여 잠재우세요!",
+                    "Nagrody wasze będą, tylko PD ze straszliwych zadań zdobądźcie,\nstawcie czoła złu i Bezgłowego Jeźdźca wykończcie!",
+                    "Para ganhar essas recompensas fabulosas, colete EXP de missões assustadoras,\nconfronte aquele que espreita estas noites à luz da lua e coloque o Cavaleiro sem Cabeça para descansar!",
+                    "Чтобы награды достойными стать, опыта надо героям набраться.\nВсадник таится в безлунной ночи — с ним смельчакам предстоит разобраться!",
+                    "เก็บ XP จากเควสต์สุดสยองเพื่อรับรางวัลในตำนาน\nเผชิญหน้าเขา ผู้ออกล่าในคืนจันทร์เพ็ญ แล้วส่งทหารม้าไร้หัวกลับสุสาน!",
+                    "万圣之夜，月色正白。无头骑士，乘马而来。\n完成任务，获取经验。惊悚佳节，奖励满怀！",
+                    "想獲得這些精美的獎勵，就從恐怖的任務中收集經驗值，\n面對月夜中出現的無頭騎士，讓他悲慘的命運停止！"
+                ],
+                "m_locId": 2882782
+            },
+            "m_chooseATrackPrompt": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            }
+        },
+        {
+            "m_ID": 18,
+            "m_specialEventType": 13,
+            "m_eventTiming": 10000565,
+            "m_displayName": {
+                "m_locValues": [
+                    "Wanted: Dead or Alive!",
+                    "Gesucht: Tot oder lebendig!",
+                    "Se busca: ¡vivo o muerto!",
+                    "Se busca: ¡vivo o muerto!",
+                    "Avis de recherche",
+                    "Ricercato: Vivo o Morto!",
+                    "賞金首: 生死を問わず！",
+                    "현상 수배: 생사 불문!",
+                    "Poszukiwany: żywy lub martwy!",
+                    "Procurado: Vivo ou Morto!",
+                    "Взять живым или мертвым.",
+                    "ประกาศจับ!",
+                    "通缉：不论死活！",
+                    "全面通緝，不論死活！"
+                ],
+                "m_locId": 2885011
+            },
+            "m_shortDescription": {
+                "m_locValues": [
+                    "It's Wild and Ruthless in the Badlands!",
+                    "Es geht drunter und drüber im Ödland!",
+                    "¡Las Tierras Inhóspitas son salvajes e implacables!",
+                    "¡Las Tierras Inhóspitas son salvajes y despiadadas!",
+                    "Faites parler la poudre dans les terres Ingrates !",
+                    "Le Maleterre sono un luogo selvaggio e spietato!",
+                    "ここは無法の荒野バッドランド！",
+                    "황야의 땅은 거칠고 무자비한 곳입니다!",
+                    "Bezludzie to dzikie i bezlitosne ziemie!",
+                    "A Selvageria reina nos Ermos!",
+                    "В Бесплодных землях грохочет жестокая битва!",
+                    "แบดแลนด์สคือแดนเถื่อนไร้ปรานี!",
+                    "荒芜之地荒蛮之极！",
+                    "荒蕪之地野蠻又殘酷！"
+                ],
+                "m_locId": 2885012
+            },
+            "m_longDescription": {
+                "m_locValues": [
+                    "Renegades and bandits ride tall in the saddle! Complete these bounties to collect Event XP, earn rewards, and bring justice to these lawless lands!",
+                    "Abtrünnige und Banditen sitzen hoch im Sattel! Schließt diese Kopfgelder ab, um Event-EP zu sammeln, Belohnungen zu verdienen und diesem gesetzlosen Land Gerechtigkeit zu bringen!",
+                    "¡Renegados y bandidos cabalgan a sus anchas! Completa estos contratos para reunir PE de evento, ganar recompensas ¡e imponer la justicia en esta tierra sin ley!",
+                    "¡Los bandidos y los renegados montan a caballo llenos de confianza! ¡Completa estos contratos para recolectar EXP de evento, obtener recompensas y traer justicia a estas tierras sin ley!",
+                    "Des bandes de hors-la-loi sèment la terreur dans les parages ! Accomplissez des primes pour obtenir des points d’EXP d’évènement et des récompenses, et veillez à ce que la justice règne à nouveau sur cette zone de non-droit !",
+                    "Rinnegati e banditi cavalcano a testa alta! Vai a caccia di taglie per raccogliere PE Evento, guadagnare ricompense e portare giustizia in queste terre di fuorilegge!",
+                    "悪党や盗賊どもがヒャッハーと大暴れ！賞金稼ぎをこなしてイベントXPを集め、報酬を獲得して、この無法の地に正義をもたらそう！",
+                    "변절자와 도적 떼가 안장에 올라타 말을 달립니다! 현상 수배를 완료하여 이벤트 경험치를 수집하고 보상을 획득하여 무법 지대에 정의를 가져오세요!",
+                    "Wszędzie roi się od renegatów i bandytów gnających na rumakach! Ukończ te zlecenia, aby zdobyć PD wydarzenia oraz nagrody i sprowadzić sprawiedliwość do tej krainy bezprawia!",
+                    "Renegados e bandidos galopam orgulhosos na sela! Conclua missões para coletar EXP de Evento, ganhar recompensas e trazer justiça a essas terras sem lei!",
+                    "Изгои и бандиты во весь опор скачут по просторам Бесплодных земель! Выполняйте поручения, получайте опыт события, зарабатывайте награды и принесите закон в эти дикие земли!",
+                    "แก๊งโจรและคนพาลต่างเหิมเกริมไม่กลัวใคร! ทำเควสต์ให้สำเร็จเพื่อเก็บ XP_กิจกรรม รับรางวัล และผดุงความยุติธรรมให้แดนเถื่อนแห่งนี้!",
+                    "荒野之上，匪徒纵马横行！完成悬赏任务，获取活动经验值，赢得奖励，把正义洒向这片法外之地！",
+                    "惡徒和盜匪高高在上地騎在馬背上！完成這些懸賞任務即可收集活動經驗值、贏得獎勵，並為這片不法之地帶來正義！"
+                ],
+                "m_locId": 2885013
+            },
+            "m_chooseATrackPrompt": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            }
+        },
+        {
+            "m_ID": 19,
+            "m_specialEventType": 3,
+            "m_eventTiming": 10000566,
+            "m_displayName": {
+                "m_locValues": [
+                    "Feast of Winter Veil",
+                    "Winterhauchfest",
+                    "Festival de Invierno",
+                    "El festín del Festival de Invierno",
+                    "Fête du Voile d’hiver",
+                    "Vigilia di Grande Inverno",
+                    "冬至祭",
+                    "겨울맞이 축제",
+                    "Obchody Zimowej Uczty",
+                    "Festa do Véu de Inverno",
+                    "Зимний Покров",
+                    "งานฉลองวินเทอร์เวล",
+                    "冬幕节盛宴",
+                    "冬幕節"
+                ],
+                "m_locId": 2887385
+            },
+            "m_shortDescription": {
+                "m_locValues": [
+                    "Gather Around the Hearth,\nFriends, New and Old!",
+                    "Versammelt euch ums Feuer,\nFreunde, neue wie vertraute!",
+                    "¡Acercaos al fuego,\namigos de hoy y de siempre!",
+                    "¡Reúnete alrededor del fuego,\ncon el resto de los jugadores!",
+                    "Asseyez-vous près du foyer,\namis et amies de tous horizons !",
+                    "Avvicinatevi al focolare,\namici vecchi e nuovi!",
+                    "炉端に集まれ、\n馴染みの友に新しい仲間！",
+                    "오랜 친구도, 새 친구도\n모두 난로 앞에 모이세요!",
+                    "Zbierzcie się przy palenisku,\nprzyjaciele dawni i nowi!",
+                    "Reúnam-se em volta da lareira,\nvelhos e novos amigos!",
+                    "Присаживайтесь к очагу,\nстарые и новые друзья!",
+                    "เชิญล้อมวงรอบเตาไฟ\nทั้งเพื่อนเก่าและเพื่อนใหม่!",
+                    "新老朋友们，都来炉边坐坐吧！",
+                    "舊雨新知，\n快來爐邊聚聚吧！"
+                ],
+                "m_locId": 2887386
+            },
+            "m_longDescription": {
+                "m_locValues": [
+                    "Winter Veil has come once again to the tavern! Complete Quests to collect Event XP, earn rewards, and celebrate the holiday, merry and bright!",
+                    "Winterhauch kehrt zurück zum Gasthaus! Erfüllt Quests, sammelt Event-EP, holt euch Belohnungen und begeht das Fest, heiter und genügsam!",
+                    "¡El Festival de Invierno llega una vez más a la taberna! Completad misiones para conseguir PE de evento, ganad recompensas ¡y celebrad la fiesta con alegría y jolgorio!",
+                    "¡El Festival de Invierno llegó a la Taberna una vez más! ¡Completa las misiones para recolectar EXP de evento, obtener recompensas y celebrar las felices fiestas!",
+                    "Le Voile d’hiver est de retour à l’auberge ! Accomplissez des quêtes pour obtenir des points d’EXP d’évènement et des récompenses, et célébrez les fêtes de fin d’année dans la joie et la bonne humeur !",
+                    "Il Grande Inverno è arrivato ancora una volta nella Locanda! Completa le missioni per guadagnare PE Evento, ottenere ricompense e trascorrere le feste in allegria!",
+                    "今年も酒場に冬至祭がやってきたぞ！クエストを達成してイベントXPを稼ぎ、報酬を獲得して、陽気に明るく祝祭を祝おう！",
+                    "겨울맞이 축제가 이번에도 선술집에 찾아왔습니다! 퀘스트를 완료하고 이벤트 경험치를 모아 보상을 받고 겨울을 즐겁게 기념하세요!",
+                    "Zimowa Uczta znów zawitała do Karczmy! Wykonuj zadania, aby zdobywać PD oraz nagrody i świętować w radosnej atmosferze!",
+                    "Mais uma vez, o Véu de Inverno chega à taverna! Complete missões para coletar EXP de Evento, receber recompensas e celebrar as festividades com muita felicidade!",
+                    "В таверне снова настает Зимний Покров! Выполняйте задания, чтобы получить опыт, заработать награды и с размахом отпраздновать приход зимы!",
+                    "วินเทอร์เวลกลับมาเยือนโรงเตี๊ยมอีกครา! ทำเควสต์ให้สำเร็จเพื่อเก็บ XP_กิจกรรม รับรางวัล และฉลองเทศกาลสุขสันต์แสนสดใส!",
+                    "旅店又一次迎来了冬幕节！完成任务，获取活动经验值，赢得奖励，共庆欢乐佳节！",
+                    "旅店又再次迎來冬幕節了！完成任務即可收集活動經驗值並獲得獎勵，一起歡慶佳節吧！"
+                ],
+                "m_locId": 2887387
+            },
+            "m_chooseATrackPrompt": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            }
+        },
+        {
+            "m_ID": 2,
+            "m_specialEventType": 5,
+            "m_eventTiming": 10000550,
+            "m_displayName": {
+                "m_locValues": [
+                    "Headliner's Tour",
+                    "Tour der Headliner",
+                    "Gira de los cabezas de cartel",
+                    "Tour de estrellas",
+                    "Tournée de star",
+                    "Tour della stella",
+                    "ヘッドライナー・ツアー",
+                    "인기 스타의 투어",
+                    "Trasa gwiazdy",
+                    "Turnê Principal",
+                    "Звездный тур",
+                    "ทัวร์ศิลปินดัง",
+                    "传奇音乐节",
+                    "當紅樂團巡迴演出"
+                ],
+                "m_locId": 2869230
+            },
+            "m_shortDescription": {
+                "m_locValues": [
+                    "Kick the Festival season off with a series of legendary concerts!",
+                    "Läutet die Festivalsaison mit einer Reihe legendärer Konzerte ein!",
+                    "¡Arranca la temporada del Festival con una serie de conciertos legendarios!",
+                    "¡Comienza la temporada de festivales con una serie de conciertos legendarios!",
+                    "Donnez le coup d’envoi de la saison des festivals avec une série de concerts légendaires !",
+                    "Inizia la stagione del Festival con una serie di concerti leggendari!",
+                    "レジェンドなコンサート・シリーズでフェスティバル・シーズンを開幕しよう！",
+                    "전설적인 콘서트 투어로\n노래자랑의 시작을 알리세요!",
+                    "Rozpocznij sezon festiwalowy od kilku legendarnych koncertów!",
+                    "Comece a temporada do Festival com uma série de shows lendários!",
+                    "Начните фестиваль с легендарных концертов!",
+                    "เปิดฤดูเทศกาลเพลงด้วยทัวร์คอนเสิร์ตระดับตำนาน!",
+                    "参加传奇演艺盛会，为音乐节拉开序幕！",
+                    "參加一系列的傳說演唱會，在音樂祭開始前暖暖身吧！"
+                ],
+                "m_locId": 2866990
+            },
+            "m_longDescription": {
+                "m_locValues": [
+                    "Three amazing shows, headlined by three legendary talents. Pick the concert of your choice and complete quests to collect Event XP, earn rewards, and ride or die for your favorite artists!",
+                    "Drei fantastische Shows mit drei legendären Musikern als Headliner. Wählt ein Konzert aus und schließt Quests ab, um Event-EP zu sammeln, verdient Belohnungen und unterstützt Eure Lieblingskünstler!",
+                    "Tres espectáculos increíbles con tres artistas legendarios como protagonistas. Elige el concierto que más te guste y completa misiones para conseguir PE de evento, ganar recompensas y defender a muerte a tus artistas favoritos.",
+                    "Estos increíbles espectáculos serán encabezados por tres talentos legendarios. ¡Elige el concierto que quieras y completa misiones para obtener EXP de evento, recompensas y dar tu vida por tus artistas favoritos!",
+                    "Trois incroyables spectacles, menés par trois vedettes légendaires. Choisissez un concert et terminez des quêtes pour obtenir des points d’EXP d’évènement, gagner des récompenses et soutenir vos artistes préférés !",
+                    "Tre incredibili spettacoli, con tre stelle leggendarie. Scegli il concerto che preferisci e completa le missioni per accumulare PE Evento, ottenere ricompense e vivere o morire per i tuoi artisti preferiti!",
+                    "アメージングなショーの開催だ！3人のレジェンドなタレントがそれぞれヘッドライナーを務める3つのコンサート・ツアーから1つを選ぼう。クエストを達成してイベントXPを稼ぎ、報酬を獲得して、あんたの憧れのアーティストを追っかけよう！",
+                    "전설적인 스타들이 세 차례의 멋진 공연을 선보입니다. 마음에 드는 콘서트를 고른 다음 퀘스트를 완료하여 이벤트 경험치를 획득하세요. 보상을 받고 좋아하는 아티스트와 열정을 뽐내세요!",
+                    "Trzy niesamowite koncerty z udziałem trzech legendarnych gwiazd. Wybierz koncert i wykonuj zadania, aby zbierać PD wydarzenia, zdobywać nagrody i słuchać swoich ulubionych artystów!",
+                    "Três shows incríveis, com atrações principais lendárias. Escolha o show e conclua as missões para ganhar EXP de Evento, recompensas e ir até o fim com seus artistas preferidos!",
+                    "Три потрясающих выступления, в каждом из которых гвоздем будут легендарные исполнители. Выберите концерт, выполняйте задания, получая опыт события и награды, и поддержите любимых музыкантов!",
+                    "สามโชว์สุดเร้าใจที่นำโดยศิลปินในตำนาน[b]มากพรสวรรค์สามกลุ่ม เลือกคอนเสิร์ตที่ถูกใจคุณ[b]แล้วทำเควสต์ให้สำเร็จเพื่อเก็บ XP_กิจกรรม รับรางวัล และทุ่มสุดตัวเพื่อศิลปินโปรดของคุณ!",
+                    "三场传奇表演，三位传奇艺人。选择你心仪的场次，完成任务，获得活动经验值，赢得奖励，为你钟爱的乐手加油助威！",
+                    "三場超讚演唱會，由三組傳說級的表演者登場演出。選擇你想參加的演唱會，完成任務取得活動經驗值並獲得獎勵，全力支持你最喜愛的表演者吧！"
+                ],
+                "m_locId": 2866991
+            },
+            "m_chooseATrackPrompt": {
+                "m_locValues": [
+                    "Choose a band tour!",
+                    "Wählt eine Band-Tournee!",
+                    "¡Elige una gira!",
+                    "¡Elige una banda para salir de gira!",
+                    "Choisissez une tournée !",
+                    "Scegli il tour della band!",
+                    "バンドツアーを選んでくれ！",
+                    "순회공연을 선택하세요!",
+                    "Wybierz trasę zespołu!",
+                    "Escolha uma turnê!",
+                    "Выберите тур",
+                    "เลือกทัวร์คอนเสิร์ต!",
+                    "选择乐队，与之同行！",
+                    "選擇一個巡迴表演！"
+                ],
+                "m_locId": 2869228
+            }
+        },
+        {
+            "m_ID": 20,
+            "m_specialEventType": 4,
+            "m_eventTiming": 10000567,
+            "m_displayName": {
+                "m_locValues": [
+                    "Lunar New Year",
+                    "Mondfest",
+                    "Año Nuevo lunar",
+                    "Año Nuevo Lunar",
+                    "Fête lunaire",
+                    "Festa della Luna",
+                    "旧正月",
+                    "설날",
+                    "Księżycowy Nowy Rok",
+                    "Ano Novo Lunar",
+                    "Лунный Новый год",
+                    "วันตรุษจีน",
+                    "新春佳节",
+                    "新年"
+                ],
+                "m_locId": 2888946
+            },
+            "m_shortDescription": {
+                "m_locValues": [
+                    "The Tavern Booms with the\nExcitement of a New Year!",
+                    "Das Gasthaus platzt vor\nFreude über das neue Jahr!",
+                    "¡La taberna está a tope\ncon la emoción de un Año Nuevo!",
+                    "¡La Taberna estalla\nde alegría por un año nuevo!",
+                    "L’auberge est en pleine effervescence\nà l’approche de la nouvelle année !",
+                    "Nella Locanda risuona\nl'emozione per il nuovo anno!",
+                    "酒場は新年の賑わいで\n大盛り上がりだ！",
+                    "선술집이 새해의 들뜬 분위기로\n시끌벅적합니다!",
+                    "Karczma aż kipi z ekscytacji\nz okazji Nowego Roku!",
+                    "A Taverna foi tomada\npela empolgação do Ano Novo!",
+                    "Вся таверна так и гудит\nв предвкушении Нового года!",
+                    "โรงเตี๊ยมคึกคักจาก\nความตื่นเต้นของปีใหม่!",
+                    "新年到，新年到，\n旅店上下齐欢笑！",
+                    "歡慶新年，\n旅店裡人聲鼎沸！"
+                ],
+                "m_locId": 2888947
+            },
+            "m_longDescription": {
+                "m_locValues": [
+                    "Be a part of the celebration! Complete Quests to collect Event XP, earn rewards, and kick off the new year with a BANG!",
+                    "Nehmt an den Festlichkeiten teil! Erfüllt Quests, sammelt Event-EP, holt Euch Belohnungen und beginnt das neue Jahr mit einem ordentlichen KNALL!",
+                    "¡Participa en la celebración! Completa misiones para conseguir PE de evento, gana recompensas ¡y empieza el Año Nuevo a lo grande!",
+                    "¡Sé parte de la celebración! ¡Completa las misiones para recolectar EXP de evento, obtener recompensas y comenzar el año nuevo con una BOMBA de diversión!",
+                    "Prenez part aux festivités ! Accomplissez des quêtes pour obtenir des points d’EXP d’évènement et des récompenses, et démarrez la nouvelle année en beauté !",
+                    "Prendi parte ai festeggiamenti! Completa le missioni per accumulare PE Evento, ottenere ricompense e inaugurare il nuovo anno col botto!",
+                    "みんなと一緒にお祝いに参加だ！クエストを達成してイベントXPを稼ぎ、報酬を獲得して、陽気に明るく新年を祝おう！",
+                    "축제를 함께 즐겨요! 퀘스트를 완료하고 이벤트 경험치를 모아 보상을 받고, 새해를 힘차게 시작하세요!",
+                    "Świętuj razem z nami! Wykonuj zadania, aby zdobywać PD wydarzenia oraz nagrody, i rozpocznij nowy rok w spektakularnym stylu!",
+                    "Junte-se a essa celebração! Complete missões para coletar EXP de Evento, receber recompensas e começar o ano novo do jeito certo!",
+                    "Празднуйте вместе с нами! Выполняйте задания, чтобы получить опыт события, заработать награды и с размахом отметить приход нового года!",
+                    "ร่วมฉลองไปด้วยกัน! ทำเควสต์ให้สำเร็จเพื่อเก็บ XP_กิจกรรม รับรางวัล และเริ่มต้นปีใหม่อย่างสุดปัง!",
+                    "一起来热闹热闹吧！完成任务，获取活动经验值，赢得奖励，燃起爆竹，庆贺新春佳节！",
+                    "加入慶祝的行列！完成任務即可收集活動經驗值並獲得獎勵，然後在爆竹聲中展開新的一年！"
+                ],
+                "m_locId": 2888948
+            },
+            "m_chooseATrackPrompt": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            }
+        },
+        {
+            "m_ID": 21,
+            "m_specialEventType": 15,
+            "m_eventTiming": 10000581,
+            "m_displayName": {
+                "m_locValues": [
+                    "Hearthstone 10 Year Anniversary",
+                    "Hearthstones 10. Jubiläum",
+                    "10.º aniversario de Hearthstone",
+                    "Hearthstone 10° aniversario",
+                    "10e anniversaire de Hearthstone",
+                    "10° anniversario di Hearthstone",
+                    "ハースストーン10周年記念",
+                    "하스스톤 10주년 기념",
+                    "10 rocznica Hearthstone",
+                    "Aniversário de 10 Anos do Hearthstone",
+                    "10-летие Hearthstone",
+                    "ฉลองครบรอบ 10 ปี Hearthstone",
+                    "炉石十周年",
+                    "爐石戰記10週年慶"
+                ],
+                "m_locId": 2891112
+            },
+            "m_shortDescription": {
+                "m_locValues": [
+                    "Ten Years in the Tavern!",
+                    "Zehn Jahre im Gasthaus!",
+                    "¡Diez años en la Taberna!",
+                    "¡Diez años en la Taberna!",
+                    "Dix années passées dans l’auberge !",
+                    "Dieci anni alla Locanda!",
+                    "酒場は10年を迎えたぞ！",
+                    "선술집에서 함께한 10년!",
+                    "Dziesięć lat w Karczmie!",
+                    "Dez anos na Taverna!",
+                    "Десять лет игр в таверне!",
+                    "สิบปีที่โรงเตี๊ยม!",
+                    "炉边十年！",
+                    "旅店迎來十週年！"
+                ],
+                "m_locId": 2891113
+            },
+            "m_longDescription": {
+                "m_locValues": [
+                    "Partake in the gifts and the celebration! Complete Quests to collect Event XP, earn rewards, and relive a decade of adventure!",
+                    "Macht bei den Festlichkeiten mit und holt Euch Eure Geschenke! Erfüllt Quests, sammelt Event-EP, holt Euch Belohnungen und erlebt ein Jahrzehnt voller Abenteuer von Neuem!",
+                    "¡Intercambia regalos y participa en la celebración! Completa misiones para conseguir PE de evento, gana recompensas ¡y vuelve a vivir toda una década de aventuras!",
+                    "¡Sé parte de la celebración y del intercambio de regalos! ¡Completa las misiones para recolectar EXP de evento, obtener recompensas y recordar una década de aventuras!",
+                    "Prenez part aux festivités ! Accomplissez des quêtes pour obtenir des points d’EXP d’évènement et des récompenses, et revivez dix années d’aventure !",
+                    "Partecipa ai festeggiamenti e ai regali! Completa le missioni per raccogliere PE Evento, ottenere ricompense e rivivere un decennio di avventure!",
+                    "贈り物を受け取り、お祝いに参加しよう！クエストを達成してイベントXPを稼ぎ、報酬を獲得して、10年間の冒険を振り返ろう！",
+                    "선물과 기념 축제를 만끽하세요! 퀘스트를 완료하고 이벤트 경험치를 모아 보상을 받고, 10년간의 모험을 되짚어 보세요!",
+                    "Świętuj i dziel się prezentami! Wykonuj zadania, aby zdobywać PD wydarzenia oraz nagrody, i powróć do dekady pełnej przygód!",
+                    "Participe da celebração e ganhe presentes! Complete missões para coletar EXP de Evento, receber recompensas e reviver uma década de aventuras!",
+                    "Открывайте подарки и празднуйте вместе с нами! Выполняйте задания, чтобы получить опыт события, заработать награды и с размахом отметить десятилетие приключений в таверне!",
+                    "ร่วมเฉลิมฉลองและรับของขวัญ! ทำเควสต์ให้สำเร็จเพื่อเก็บ XP_กิจกรรม รับรางวัล และย้อนรำลึกถึงการผจญภัยตลอดสิบปี!",
+                    "加入周年庆典，分享礼物！完成任务，获取活动经验值，赢得奖励，再现十年旅程！",
+                    "分享禮物，一同慶祝！完成任務即可收集活動經驗值並獲得獎勵，重溫這長達十年的冒險旅程！"
+                ],
+                "m_locId": 2891114
+            },
+            "m_chooseATrackPrompt": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            }
+        },
+        {
+            "m_ID": 22,
+            "m_specialEventType": 13,
+            "m_eventTiming": 10000582,
+            "m_displayName": {
+                "m_locValues": [
+                    "Whizbang's Workshop",
+                    "Wurbelfitz' Werkstatt",
+                    "El Taller de Mirífico",
+                    "Taller de Fizbang",
+                    "L’Atelier de Mystifix",
+                    "Il Laboratorio di Frizzabombe",
+                    "ウィズバンのワクワクワークショップ",
+                    "위즈뱅의 장난감 공방",
+                    "Majsternia Świstomiga",
+                    "Oficina do Rojão",
+                    "Мастерская Чудастера",
+                    "Whizbang's Workshop",
+                    "威兹班的工坊",
+                    "威茲邦的工作坊"
+                ],
+                "m_locId": 2893509
+            },
+            "m_shortDescription": {
+                "m_locValues": [
+                    "Games and Goodies from the Workshop!",
+                    "Spiel und Spaß aus der Werkstatt!",
+                    "¡Juegos y regalos del taller!",
+                    "¡Juegos y regalos del taller!",
+                    "Des jeux et des bricoles de l’atelier !",
+                    "Partite e oggetti dal Laboratorio!",
+                    "工房直送のゲームとグッズ！",
+                    "공방에서 선보이는 게임과 선물들!",
+                    "Gry i zabawy w Majsterni!",
+                    "Partidas e brindes da Oficina!",
+                    "Игры и призы из мастерской игрушек!",
+                    "เกมและของเล่นจากเวิร์คช็อป!",
+                    "精美玩具，精彩游戏！",
+                    "來自工作坊的各種遊戲和好東西！"
+                ],
+                "m_locId": 2893510
+            },
+            "m_longDescription": {
+                "m_locValues": [
+                    "Toys have taken over the tavern! Complete quests to collect Event XP, earn rewards, and join in the mirthful mayhem!",
+                    "Die Spielzeuge haben das Gasthaus übernommen! Erfüllt Quests, sammelt Event-EP, holt euch Belohnungen und stürzt euch ins fröhliche Chaos und feiert das Fest.",
+                    "¡Los juguetes han invadido la taberna! Completa misiones para conseguir PE de evento, gana recompensas ¡y disfruta del caos y el alboroto!",
+                    "¡Los juguetes tomaron el control de la taberna! ¡Completa misiones para obtener EXP de evento, ganar recompensas y unirte al alegre caos!",
+                    "Les jouets ont pris le pouvoir dans l’auberge ! Accomplissez des quêtes pour obtenir des points d’EXP d’évènement et des récompenses, et participez à ce joyeux chaos !",
+                    "I giocattoli hanno preso il controllo della Locanda! Completa le missioni per guadagnare PE Evento, ottenere ricompense e prendere parte a questo allegro caos!",
+                    "おもちゃ達が酒場を乗っ取った！クエストを達成してイベントXPを稼ぎ、報酬を獲得して、愉快な大騒動に加わろう！",
+                    "장난감들이 선술집을 장악했습니다! 퀘스트를 완료하고 이벤트 경험치를 모아 보상을 받고 신나는 난장판에 뛰어드세요!",
+                    "Zabawki przejęły Karczmę! Wykonuj zadania, aby zdobywać PD oraz nagrody i dołącz do zabawkowego zamieszania!",
+                    "Os brinquedos tomaram conta da taverna! Complete missões para coletar EXP de Evento, receber recompensas e participar do caos divertido!",
+                    "Игрушки захватили таверну! Выполняйте задания, чтобы получить опыт, заработать награды и подыграть озорникам!",
+                    "ของเล่นเข้ายึดครองโรงเตี๊ยม! ทำเควสต์ให้สำเร็จเพื่อเก็บ XP_กิจกรรม รับรางวัล และร่วมก่อความโกลาหลสุดหฤหรรษ์!",
+                    "旅店里到处都是玩具！完成任务，获取活动经验值，赢得奖励，加入这场狂欢盛宴！",
+                    "旅店被玩具佔領了！完成任務即可收集活動經驗值並獲得獎勵，一起加入這場歡樂無比的亂鬥吧！"
+                ],
+                "m_locId": 2893511
+            },
+            "m_chooseATrackPrompt": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            }
+        },
+        {
+            "m_ID": 23,
+            "m_specialEventType": 16,
+            "m_eventTiming": 10000584,
+            "m_displayName": {
+                "m_locValues": [
+                    "Double Trouble",
+                    "Doppelt gemoppelt",
+                    "Lío por partida doble",
+                    "Problemas al doble",
+                    "Double peine",
+                    "Doppio Guaio",
+                    "トラブル・コンビ",
+                    "이중고",
+                    "Demolka w duecie",
+                    "Encrenca Dupla",
+                    "Двойная угроза",
+                    "แสบคูณสอง",
+                    "双重麻烦",
+                    "加倍麻煩"
+                ],
+                "m_locId": 2896353
+            },
+            "m_shortDescription": {
+                "m_locValues": [
+                    "Twilight's Hammer is making a mess of the Tavern!",
+                    "Der Schattenhammer wütet im Gasthaus!",
+                    "¡Martillo Crepuscular está armándola en la taberna!",
+                    "¡Martillo Crepuscular está creando un caos en la Taberna!",
+                    "Le Marteau du crépuscule sème la pagaille dans la taverne !",
+                    "Martello del Crepuscolo sta mettendo a soqquadro la Locanda!",
+                    "黄昏の鎚教団が酒場でトラブルを巻き起こすつもりだ！",
+                    "황혼의 망치단이 선술집에서 난장판을 피우고 있습니다!",
+                    "Młot Zmierzchu robi zadymę w Karczmie!",
+                    "O Martelo do Crepúsculo está deixando uma bagunça na Taverna!",
+                    "В таверне беспредельничает Сумеречный Молот!",
+                    "ลัทธิค้อนสนธยากำลังก่อความวุ่นวายในโรงเตี๊ยม!",
+                    "暮光之锤祸乱旅店！",
+                    "暮光之錘把旅店搞得一團亂！"
+                ],
+                "m_locId": 2896354
+            },
+            "m_longDescription": {
+                "m_locValues": [
+                    "Pair with a friend or go it alone! Pick the path that suits your playstyle and complete quests to collect Event XP, earn rewards, and send Cho'gall packing!",
+                    "Macht mit einem Freund gemeinsame Sache oder legt alleine los! Wählt den Pfad, der zu Eurem Spielstil passt, und schließt Quests ab, um Event-EP zu sammeln, Belohnungen zu verdienen und Cho’gall eins zu verpassen!",
+                    "¡Juega con un amigo o sin nadie más! Elige el camino que mejor se acomode a tu estilo de juego y completa las misiones para obtener PE de evento, ganar recompensas ¡y echar de aquí a Cho'gall!",
+                    "¡Juega con un amigo o por tu propia cuenta! ¡Elige lo que mejor se acople a tu estilo de juego y completa las misiones para obtener EXP de evento, ganar recompensas y pedirle a Cho'gall que se vaya!",
+                    "Faites équipe ou jouez en solo ! Suivez la voie qui vous convient et accomplissez des quêtes pour obtenir des points d’EXP d’évènement, des récompenses et envoyer Cho’gall au tapis !",
+                    "Alleati con un amico o parti in solitaria! Scegli il percorso che meglio si addice al tuo stile di gioco e completa le missioni per raccogliere PE Evento, ottenere ricompense e far fare le valigie a Cho'gall!",
+                    "友達と手を組んでも、一人で立ち向かってもいいぞ！あんたのプレイスタイルに合った道を選ぼう。クエストを完了させてイベントXPを獲得し、報酬を手に入れ、チョ＝ガルを酒場から叩き出せ！",
+                    "친구와 짝을 이루거나 혼자 가세요! 자신의 플레이 방식에 맞는 길을 선택한 후 퀘스트를 완료하고 이벤트 경험치를 모아 보상을 받고, 초갈을 몰아내세요!",
+                    "Połącz siły ze znajomym lub zrób porządek w pojedynkę! Wybierz ścieżkę, która pasuje do twojego stylu gry, i wykonuj zadania, aby zdobywać PD wydarzenia oraz nagrody i puścić Czo'gala z manatkami!",
+                    "Junte-se a um amigo ou vá por conta própria! Escolha um caminho que se adeque ao seu estilo de jogo e complete missões para coletar XP de Evento, receber recompensas e mandar o Cho'gall pro espaço!",
+                    "Объединитесь с другом или сражайтесь в одиночку. Выберите подходящий вам путь и выполняйте задания, чтобы получать опыт события, зарабатывать награды и отправить Чо'Галла восвояси!",
+                    "เล่นกับเพื่อน หรือลุยเดี่ยว! เลือกเส้นทางที่เหมาะกับสไตล์การเล่นของคุณ แล้วทำเควสต์ให้สำเร็จเพื่อเก็บ XP_กิจกรรม รับรางวัล และส่งโชกัลกลับบ้าน!",
+                    "和朋友组队作战，或者独自前行！选择你喜欢的路线，完成任务，获取活动经验值，赢得奖励，赶走古加尔！",
+                    "你可以找朋友組隊或是單打獨鬥！挑選最適合你的道路並完成任務，就能獲得活動經驗值、贏得獎勵，並把丘加利送回老家！"
+                ],
+                "m_locId": 2896355
+            },
+            "m_chooseATrackPrompt": {
+                "m_locValues": [
+                    "Choose a path!",
+                    "Wählt einen Pfad!",
+                    "¡Elige un camino!",
+                    "¡Elige un camino!",
+                    "Choisissez votre voie !",
+                    "Scegli un percorso!",
+                    "道を選べ！",
+                    "길을 선택하세요!",
+                    "Wybierz ścieżkę!",
+                    "Escolha um caminho!",
+                    "Выберите путь!",
+                    "เลือกเส้นทาง!",
+                    "选择路线！",
+                    "選擇你的道路！"
+                ],
+                "m_locId": 2896356
+            }
+        },
+        {
+            "m_ID": 24,
+            "m_specialEventType": 13,
+            "m_eventTiming": 10000585,
+            "m_displayName": {
+                "m_locValues": [
+                    "Aisle of Mischievous Toys",
+                    "Regal mit Schelmischem Spielzeug",
+                    "Sección de Juguetes Travesuras",
+                    "Pasillo de Juguetes Traviesos",
+                    "Allée des jouets malicieux",
+                    "Corsia dei Giocattoli Dispettosi",
+                    "イタズラおもちゃ売り場",
+                    "골 때리는 장난감 진열대",
+                    "Alejka z psotnymi zabawkami",
+                    "Corredor dos Brinquedos Travessos",
+                    "Отдел озорных игрушек",
+                    "โซนของเล่นสุดป่วน",
+                    "古灵精怪玩具展",
+                    "惡作劇玩具專區"
+                ],
+                "m_locId": 2897993
+            },
+            "m_shortDescription": {
+                "m_locValues": [
+                    "DETONATE the Competition!",
+                    "Die Konkurrenz einfach IN DIE LUFT SPRENGEN!",
+                    "¡REVIENTA a la competencia!",
+                    "¡DETONA a la competencia!",
+                    "Enflammez la compétition !",
+                    "FAI ESPLODERE la competizione!",
+                    "相手を吹き飛ばせ！",
+                    "경쟁 상대를 폭파해라!",
+                    "ROZWAL konkurencję!",
+                    "DETONAR a competição!",
+                    "ПОДОРВИТЕ соперников!",
+                    "ระเบิดคู่แข่งให้เป็นจุณ!",
+                    "引爆市场！",
+                    "把比賽炸掉！"
+                ],
+                "m_locId": 2897994
+            },
+            "m_longDescription": {
+                "m_locValues": [
+                    "Dr. Boom is not messing around with his new toy line! Complete quests to collect Event XP, earn rewards, and... just don't shoot your eye out!",
+                    "Dr. Bumm macht bei seiner neuen Spielzeugreihe keine halben Sachen! Schließt Quests ab, um Event-EP zu sammeln und Belohnungen zu erhalten – … und bitte nicht auf’s eigene Gesicht zielen!",
+                    "¡El Dr. Bum no se anda con chiquitas con esta nueva línea de juguetes! Completa misiones para conseguir PE de evento, gana recompensas y... ¡cuidado, no vayas a perder un ojo!",
+                    "¡El Dr. Bum va en serio con su nueva línea de juguetes! Completa misiones para recolectar EXP de evento, obtener recompensas y... ¡no vayas a perder un ojo!",
+                    "Le Dr Boum ne plaisante pas avec sa nouvelle gamme de jouets ! Accomplissez des quêtes pour obtenir des points d’EXP d’évènement, des récompenses… mais faites preuve de précaution !",
+                    "Il Dott. Boom non scherza con la sua nuova linea di giocattoli! Completa le missioni per raccogliere PE Evento, guadagnare ricompense e... occhi aperti!",
+                    "ドクター・ブームは新しい商品のおもちゃをいじくりまわしてるだけじゃないぞ！クエストを達成してイベントXPを稼ぎ、報酬を獲得して、危険なおもちゃで…怪我をしないよう気を付けよう！",
+                    "박사 붐은 새로 나온 장난감 제품군에 진심입니다! 퀘스트를 완료해 이벤트 경험치를 획득하고, 보상을 받고... 주의 문구를 반드시 확인할 것을 경고했습니다!",
+                    "Doktor Huk naprawdę się przyłożył do nowej kolekcji zabawek. Wykonuj zadania, by zdobywać PD wydarzenia oraz nagrody, tylko… nie strzel sobie w oko!",
+                    "Dr. Cabum não está para brincadeira com sua nova linha de brinquedos! Complete missões para coletar EXP de Evento, receber recompensas e...tente não perder um olho!",
+                    "Доктор Бум с новой серией игрушек превзошел самого себя! Выполняйте задания, получайте опыт события, зарабатывайте награды... и глаз себе не выбейте!",
+                    "ด็อกเตอร์บูมจริงจังกับผลิตภัณฑ์ของเล่นใหม่ของเขามาก! ทำเควสต์ให้สำเร็จเพื่อเก็บ XP_กิจกรรม รับรางวัล และ... ระวังอย่ายิงเข้าตาตัวเอง!",
+                    "砰砰博士的新玩具产品线震撼登场！完成任务，获取活动经验值，赢得奖励……注意安全，不要受伤！",
+                    "爆爆博士的全新玩具生產線可不是鬧著玩的！完成任務即可獲得活動經驗值、贏得獎勵，不過…你得小心你的眼睛！"
+                ],
+                "m_locId": 2897995
+            },
+            "m_chooseATrackPrompt": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            }
+        },
+        {
+            "m_ID": 25,
+            "m_specialEventType": 8,
+            "m_eventTiming": 10000587,
+            "m_displayName": {
+                "m_locValues": [
+                    "Midsummer Fire Festival",
+                    "Sonnenwendfest",
+                    "Festival del Fuego del Solsticio de Verano",
+                    "Festival de Fuego del Solsticio de Verano",
+                    "Fête du Feu du solstice d’été",
+                    "Festival del Fuoco di Mezza Estate",
+                    "真夏の炎祭り",
+                    "한여름 불꽃축제",
+                    "Festiwal Letniego Przesilenia",
+                    "Festival do Fogo do Solstício",
+                    "Огненный солнцеворот",
+                    "เทศกาลไฟมิดซัมเมอร์",
+                    "仲夏火焰节",
+                    "仲夏火焰節"
+                ],
+                "m_locId": 2899695
+            },
+            "m_shortDescription": {
+                "m_locValues": [
+                    "Summer in Paradise",
+                    "Sommer im Paradies",
+                    "Verano en el Paraíso",
+                    "Verano en el Paraíso",
+                    "Un été au paradis",
+                    "Estate in Paradiso",
+                    "大パーティー・パラダイス",
+                    "극락의 여름",
+                    "Lato w tropikalnym raju",
+                    "Verão no Paraíso",
+                    "Лето в тропиках",
+                    "ฤดูร้อนในแดนสวรรค์",
+                    "胜地消夏",
+                    "天堂島夏天"
+                ],
+                "m_locId": 2899696
+            },
+            "m_longDescription": {
+                "m_locValues": [
+                    "Perils await but now's a party! Complete quests to collect Event XP, earn rewards, and kick off the Summer in style!",
+                    "Sommer, Sonne, Risiko! Erfüllt Quests, sammelt Event-EP, holt Euch Belohnungen und lasst es im Sommer ordentlich krachen!",
+                    "El peligro acecha, pero ahora es la hora de la fiesta. Completa misiones para conseguir PE de evento, gana recompensas ¡y empieza el verano con estilo!",
+                    "El peligro se encuentra al acecho, ¡pero por ahora es tiempo de celebrar! Completa las misiones para coleccionar EXP de evento, ganar recompensas, ¡e iniciar el verano con estilo!",
+                    "Le péril peut attendre, l’heure est venue de faire la fête ! Accomplissez des quêtes pour obtenir des points d’EXP d’évènement et des récompenses, et commencez l’été avec style !",
+                    "Preparati a pericoli e festeggiamenti in quantità! Completa le missioni per raccogliere PE Evento, guadagnare ricompense e inaugurare l'estate con stile!",
+                    "大ピンチが迫っていようと、今はパーティーだ！クエストを達成してイベントXPを稼ぎ、報酬を獲得して、サマーシーズンをスタイリッシュにスタートしよう！",
+                    "극한 상황이 기다리고 있지만, 지금은 파티 시간입니다! 퀘스트를 완료해 이벤트 경험치를 획득하고, 보상을 받고, 여름을 멋지게 열어 보세요!",
+                    "Czekają cię tarapaty, ale najpierw czas na imprezę! Wykonuj zadania, by zdobywać PD oraz nagrody, i rozpocznij lato na całego!",
+                    "Perigos aguardam você, mas agora é hora de festa! Conclua missões para coletar EXP de Evento, ganhar recompensas e começar o verão em grande estilo!",
+                    "Раздор раздором, а веселиться тоже надо! Выполняйте задания, чтобы получить опыт события, заработать награды и эффектно отметить приход лета!",
+                    "ถึงภัยจะมาแต่ตอนนี้คือเวลาปาร์ตี้![b]ทำเควสต์ให้สำเร็จเพื่อเก็บ XP_กิจกรรม[b]รับรางวัล_และเริ่มต้นฤดูร้อนแบบ\nมีสไตล์!",
+                    "前方虽有冒险，但不如先开个派对！完成任务，获取活动经验值，赢得奖励，开启美妙夏日！",
+                    "雖然有危機，但派對不能停！完成任務即可收集活動經驗值並獲得獎勵，然後帥氣地為夏天拉開序幕！"
+                ],
+                "m_locId": 2899697
+            },
+            "m_chooseATrackPrompt": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            }
+        },
+        {
+            "m_ID": 26,
+            "m_specialEventType": 13,
+            "m_eventTiming": 10000588,
+            "m_displayName": {
+                "m_locValues": [
+                    "Perils in Paradise",
+                    "Gefahr im Paradies",
+                    "Peligro en el Paraíso",
+                    "Peligros en el Paraíso",
+                    "Paradis en péril",
+                    "Periglio in Paradiso",
+                    "大ピンチ！パイレーツ・パラダイス",
+                    "극한의 극락",
+                    "Tarapaty w tropikach",
+                    "Perigos no Paraíso",
+                    "Раздор в тропиках",
+                    "Perils in Paradise",
+                    "胜地历险记",
+                    "天堂島危機"
+                ],
+                "m_locId": 2903189
+            },
+            "m_shortDescription": {
+                "m_locValues": [
+                    "Summer in Paradise",
+                    "Sommer im Paradies",
+                    "Verano en el Paraíso",
+                    "Verano en el Paraíso",
+                    "Un été au paradis",
+                    "Estate in Paradiso",
+                    "大パーティー・パラダイス",
+                    "극락의 여름",
+                    "Lato w tropikalnym raju",
+                    "Calor no Paraíso",
+                    "Лето в тропиках",
+                    "ฤดูร้อนในแดนสวรรค์",
+                    "胜地消夏",
+                    "天堂島夏天"
+                ],
+                "m_locId": 2903190
+            },
+            "m_longDescription": {
+                "m_locValues": [
+                    "Welcome to Hearthstone's Tavern Beach House here on the Spiral Isles! Complete quests to collect Event XP, and earn fantastic rewards.",
+                    "Willkommen in Hearthstones Strandgasthaus auf den Spiralinseln! Schließt Quests ab, sammelt Event-EP und verdient fantastische Belohnungen.",
+                    "¡Te damos la bienvenida al chiringuito de la taberna de Hearthstone aquí, en las Islas Espiralinas! Completa misiones para conseguir PE de evento y gana fantásticas recompensas.",
+                    "¡Te damos la bienvenida a la versión playera de la Taberna de Hearthstone en las Islas Espiral! Completa las misiones para recolectar EXP de evento y ganar recompensas fantásticas.",
+                    "Bienvenue sur la plage des îles Spirales ! Accomplissez des quêtes pour obtenir des points d’EXP d’évènement et des récompenses fantastiques.",
+                    "Ti diamo il benvenuto nella casa al mare della Locanda qui sulle Isole Spirali! Completa le missioni per raccogliere PE Evento e ottenere fantastiche ricompense.",
+                    "ようこそ！ここはハースストーンの海の酒場、スパイラル島にあるビーチハウスだ！クエストを達成してイベントXPを稼ぎ、豪華報酬を手に入れよう。",
+                    "나선 제도에 있는 하스스톤 선술집의 해변 지점에 어서 오세요! 퀘스트를 완료해 이벤트 경험치를 획득하고, 환상적인 보상을 받으세요.",
+                    "Witaj w Karczmie na plaży, położonej na malowniczych Spiralnych Wyspach. Wykonuj zadania, by zdobywać PD oraz nagrody, i ciesz się wakacjami!",
+                    "Boas vindas à Casa de Praia da Taverna de Hearthstone aqui nas Ilhas Espirais! Conclua missões para coletar EXP de Evento e ganhar recompensas fantásticas.",
+                    "Добро пожаловать в пляжное бунгало таверны Hearthstone на Спиральных островах! Выполняйте задания, чтобы получить опыт события и заработать потрясающие награды!",
+                    "ยินดีต้อนรับสู่โรงเตี๊ยมริมหาดของ Hearthstone บนหมู่เกาะสไปรัล! ทำเควสต์ให้สำเร็จเพื่อเก็บ XP_กิจกรรม และรับรางวัลแสนมหัศจรรย์",
+                    "欢迎来到斯派螺群岛的沙滩小酒馆！完成任务，获取活动经验值，赢得神奇奖励！",
+                    "歡迎來到《爐石戰記》在螺旋群島的海邊旅店小屋！完成任務即可收集活動經驗值並獲得絕讚獎勵。"
+                ],
+                "m_locId": 2903191
+            },
+            "m_chooseATrackPrompt": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            }
+        },
+        {
+            "m_ID": 29,
+            "m_specialEventType": 13,
+            "m_eventTiming": 10000589,
+            "m_displayName": {
+                "m_locValues": [
+                    "The Marin Resort's Treasure Hunt",
+                    "Die Schatzjagd des Marin Resorts",
+                    "Búsqueda del tesoro en El Marin",
+                    "Búsqueda del tesoro en el centro vacacional Marin",
+                    "Chasse au trésor du complexe de Marin",
+                    "La Caccia al Tesoro del Resort Marin",
+                    "マリン・リゾートのお宝探し",
+                    "마린 리조트의 보물찾기",
+                    "Polowanie na skarby w kurorcie Marina",
+                    "Caçada ao Tesouro do Resort Marin",
+                    "Охота за сокровищами на курорте Марина",
+                    "กิจกรรมล่าสมบัติของเดอะมารินรีสอร์ต",
+                    "马林度假村：猎宝之旅",
+                    "馬林渡假村的尋寶之旅"
+                ],
+                "m_locId": 2905232
+            },
+            "m_shortDescription": {
+                "m_locValues": [
+                    "Dear Esteemed Resort Guest,",
+                    "Hochgeschätzte Resort-Gäste,",
+                    "Estimado/a huésped del resort:",
+                    "Estimado/a huésped del centro vacacional:",
+                    "Message à notre chère clientèle.",
+                    "Gentile ospite del resort,",
+                    "親愛なるリゾートのお客様へ",
+                    "안녕하십니까, 리조트 투숙객님.",
+                    "Szanowny gościu kurortu!",
+                    "Prezável hóspede do Resort,",
+                    "Уважаемый гость курорта!",
+                    "เรียนแขกรีสอร์ตผู้มีเกียรติ",
+                    "敬爱的来宾，",
+                    "尊貴的渡假村賓客您好："
+                ],
+                "m_locId": 2905233
+            },
+            "m_longDescription": {
+                "m_locValues": [
+                    "You are cordially invited to join this year's Treasure Hunt! Complete quests to earn Event XP and unearth valuable treasure!",
+                    "Ihr seid recht herzlich eingeladen, an der diesjährigen Schatzjagd teilzunehmen! Schließt Quests ab, um Event-EP zu sammeln und wertvolle Schätze zu bergen!",
+                    "¡Te invitamos cordialmente a participar en la búsqueda del tesoro de este año! Completa misiones para conseguir PE de evento ¡y desentierra valiosos tesoros!",
+                    "¡Te invitamos cordialmente a participar en la búsqueda del tesoro de este año! Completa misiones para ganar EXP de evento ¡y desentierra valiosos tesoros!",
+                    "Nous vous convions à notre chasse au trésor annuelle. Accomplissez des quêtes afin d’obtenir des points d’EXP d’évènement et dénicher de précieux trésors !",
+                    "ti invitiamo cordialmente a unirti alla Caccia al Tesoro di quest'anno! Completa missioni per ottenere PE Evento e dissotterra tesori di valore!",
+                    "今年のお宝探しにどうぞご参加くださいませ！クエストをクリアすると、イベントXPや貴重なお宝を獲得可能でございます！",
+                    "올해의 보물찾기에 귀하를 초대합니다! 퀘스트를 완료해서 이벤트 경험치를 완료하고 값진 보물을 가져가십시오!",
+                    "Uprzejmie zapraszamy na tegoroczne Polowanie na skarby! Wykonuj zadania, aby zdobyć PD i odkryć cenne skarby!",
+                    "Ficamos honrados em convidar você para participar da Caçada ao Tesouro deste ano! Complete missões para receber EXP de Evento e encontrar tesouros valiosos!",
+                    "Примите участие в ежегодной охоте за сокровищами. Выполняйте задания, чтобы получить опыт события и отыскать бесценные клады!",
+                    "เราขอเชิญคุณเข้าร่วมกิจกรรมล่าสมบัติประจำปีนี้! ทำเควสต์ให้สำเร็จเพื่อเก็บ XP_กิจกรรม และค้นพบสมบัติล้ำค่า!",
+                    "诚邀您参加本年度的猎宝之旅！完成任务，获取活动经验值，挖掘珍贵的宝藏！",
+                    "我們誠摯地邀請您參加今年的尋寶之旅！完成任務就能獲得活動經驗值，還能找出極具價值的寶藏！"
+                ],
+                "m_locId": 2905234
+            },
+            "m_chooseATrackPrompt": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            }
+        },
+        {
+            "m_ID": 3,
+            "m_specialEventType": 2,
+            "m_eventTiming": 10000536,
+            "m_displayName": {
+                "m_locValues": [
+                    "The Lich King's Call",
+                    "Ruf des Lichkönigs",
+                    "Llamada del Rey Exánime",
+                    "El llamado del Rey Exánime",
+                    "L’appel du roi-liche",
+                    "La Chiamata del Re dei Lich",
+                    "リッチキングの呼び声",
+                    "리치 왕의 부름",
+                    "Wezwanie Króla Lisza",
+                    "O Chamado do Lich Rei",
+                    "Зов Короля-лича",
+                    "เสียงเรียกของลิชคิง",
+                    "巫妖王的召唤",
+                    "巫妖王的呼喚"
+                ],
+                "m_locId": 2869229
+            },
+            "m_shortDescription": {
+                "m_locValues": [
+                    "Heed your summons, and serve the Frozen Throne!",
+                    "Folgt dem Ruf und dient dem Frostthron!",
+                    "¡Responde a las invocaciones y sirve al Trono Helado!",
+                    "¡Acude al llamado y sirve al Trono Helado!",
+                    "Répondez à l’invocation, et mettez-vous au service du Trône de glace !",
+                    "Ascolta colui che ti evoca e servi il Trono di Ghiaccio!",
+                    "我が召喚に応じ、「凍てつく玉座に」仕えよ！",
+                    "부름에 답하세요. 얼어붙은 왕좌를 섬길 때입니다!",
+                    "Odpowiedz na wezwanie i służ Mroźnemu Tronowi!",
+                    "Atenda aos chamados e sirva ao Trono de Gelo!",
+                    "Придите на зов и послужите Ледяному Трону!",
+                    "จงตอบรับเสียงเรียก แล้วรับใช้บัลลังก์เยือกแข็ง!",
+                    "听从召唤，为冰封王座效命！",
+                    "聽從你的召喚，效忠冰封王座吧！"
+                ],
+                "m_locId": 2867352
+            },
+            "m_longDescription": {
+                "m_locValues": [
+                    "The Lich King is here, and the Scourgewar has begun! Complete quests to collect Event XP, earn rewards, and become the foremost champion of the Frozen Throne.",
+                    "Der Lichkönig ist da und der Geißelkrieg hat begonnen! Schließt Quests ab, um Event-EP zu sammeln, Belohnungen zu verdienen und zum ersten Champion des Frostthrons zu werden.",
+                    "El Rey Exánime está aquí ¡y la guerra de la Plaga ha comenzado! Completa misiones para conseguir PE de evento, obtener recompensas y convertirte en máximo campeón del Trono Helado.",
+                    "¡El Rey Exánime ya está aquí y la Guerra de la Plaga ha comenzado! Completa misiones para obtener EXP de evento, ganar recompensas y convertirte en el campeón más grande del Trono Helado.",
+                    "Le roi-liche est là, et la guerre du Fléau a éclaté ! Terminez des quêtes pour obtenir des points d’EXP d’évènement, gagner des récompenses et devenir le bras armé le plus redoutable du Trône de glace.",
+                    "Il Re dei Lich è qui, e la Guerra del Flagello è iniziata! Completa missioni per accumulare PE Evento, ottenere ricompense e diventare il primo campione del Trono di Ghiaccio.",
+                    "我はリッチキング。スコージ大戦が始まったぞ！クエストをクリアしてイベントXPを集め、報酬を獲得して、お前が「凍てつく玉座」の最強の勇者になるのだ。",
+                    "리치 왕이 도착해 스컬지 전쟁의 막이 올랐습니다! 퀘스트를 완료해 이벤트 경험치를 모으고 보상을 획득하며 얼어붙은 왕좌 최고의 용사로 거듭나세요.",
+                    "Król Lisz przybył i rozpoczęła się Wojna Plagi! Ukończ zadania, aby zdobywać PD wydarzenia oraz nagrody, i zostań największym czempionem Mroźnego Tronu.",
+                    "O Lich Rei chegou, e a Guerra do Flagelo começou! Conclua missões para ganhar EXP de Evento, conquistar recompensas e se tornar o maior campeão do Trono de Gelo.",
+                    "Король-лич пробудился! Начинается война Плети! Выполняйте задания, накапливайте опыт события, получайте награды и станьте сильнейшим воином Ледяного Трона!",
+                    "ลิชคิงปรากฏตัว และสงครามสเคิร์จก็เริ่มต้นขึ้นแล้ว! ทำเควสต์ให้สำเร็จเพื่อเก็บ XP กิจกรรม รับรางวัล และสถาปนาตนเป็นสุดยอดนักรบแห่งบัลลังก์เยือกแข็ง",
+                    "巫妖王亲临，打响了天灾战争！完成任务，获取活动经验值，赢得奖励，跻身为冰封王座的一流勇士。",
+                    "巫妖王已經到來，天譴戰爭開打了！完成任務獲得活動經驗值、賺取獎勵，並成為冰封王座最傑出的勇士！"
+                ],
+                "m_locId": 2867353
+            },
+            "m_chooseATrackPrompt": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            }
+        },
+        {
+            "m_ID": 30,
+            "m_specialEventType": 18,
+            "m_eventTiming": 10000591,
+            "m_displayName": {
+                "m_locValues": [
+                    "A Travelmaster's Guide to Adventure!",
+                    "Das Abenteuerhandbuch des Reisemeisters!",
+                    "¡Guía de Aventuras del Experto en Viajes!",
+                    "¡Una guía de aventuras del Maestro de viaje!",
+                    "Guide de l’aventure et des voyages",
+                    "Guida del Maestro di Viaggi all'Avventura!",
+                    "トラベルマスターの冒険ガイド！",
+                    "여행 전문가의 모험 안내",
+                    "Przygodowy Poradnik Wojażmistrza!",
+                    "Um Guia de Aventuras do Mestre de Viagens",
+                    "Руководство для путешественников!",
+                    "คู่มือผจญภัยของทราเวลมาสเตอร์!",
+                    "旅行管理员：冒险之旅",
+                    "旅行管理員的旅遊指南！"
+                ],
+                "m_locId": 2906650
+            },
+            "m_shortDescription": {
+                "m_locValues": [
+                    "To: Aspiring Vacationgoer",
+                    "An: Angehende Urlauber",
+                    "Para: Disfrutador de vacaciones en ciernes",
+                    "Para: Aspirante a vacacionista",
+                    "À vous, touriste en herbe",
+                    "A: Aspirante vacanziere",
+                    "バカンス初心者のあなたへ",
+                    "휴가 계획이 있는 분께",
+                    "Do: Aspirujący urlopowicz",
+                    "Para: Possível Viajante",
+                    "Всем желающим отдохнуть",
+                    "ถึง: นักท่องเที่ยวผู้มุ่งมั่นทั้งหลาย",
+                    "致亲爱的旅客",
+                    "收件人：充滿雄心壯志的度假旅客"
+                ],
+                "m_locId": 2906651
+            },
+            "m_longDescription": {
+                "m_locValues": [
+                    "A Travelmaster can turn your vacation into an epic adventure! Complete quests to earn Event XP, unlock rewards, and get insider tips for trips!",
+                    "Ein Reisemeister kann Euren Urlaub im Nu in ein episches Abenteuer verwandeln! Schließt Quests ab, verdient Event-EP, schaltet Belohnungen frei und erhaltet Insidertipps für Trips!",
+                    "¡Un experto en viajes puede convertir tus vacaciones en una aventura épica! Completa misiones para ganar PE de evento, desbloquea recompensas ¡y recibe consejos para tus viajes de quienes saben!",
+                    "¡Un Maestro de viaje puede convertir tus vacaciones en una aventura épica! ¡Completa misiones para ganar EXP de evento, desbloquear recompensas y obtener consejos exclusivos para tus viajes!",
+                    "Faites de vos vacances une aventure épique ! Accomplissez des quêtes afin d’obtenir des points d’EXP d’évènement, des récompenses… et de précieux conseils pour vos voyages !",
+                    "Un Maestro di Viaggi può trasformare la tua vacanza in un'epica avventura! Completa le missioni per ottenere PE Evento, sbloccare ricompense e ottenere consigli degli esperti sui viaggi!",
+                    "トラベルマスターがあんたのバカンスを大冒険に変えてくれるぞ！クエストを達成してイベントXPを稼ぎ、報酬を解禁して、旅行をもっと楽しくするマル秘情報をゲットしよう！",
+                    "여행 전문가가 휴가를 파란만장한 모험으로 바꾸어 드립니다! 퀘스트를 완료해서 이벤트 경험치를 획득하고, 보상을 해제하고, 현지인만 아는 여행 꿀팁도 얻으세요!",
+                    "Wojażmistrz potrafi przemienić wakacje w epicką przygodę! Wykonuj zadania, aby zdobywać PD, odblokowywać nagrody i otrzymywać fachowe porady wyprawowe!",
+                    "Um Mestre de Viagens pode transformar suas férias em uma aventura épica! Complete as missões para receber EXP de evento, desbloquear recompensas e obter dicas de mestres para suas viagens!",
+                    "С нашим руководством ваше путешествие превратится в захватывающее приключение! Выполняйте задания, чтобы получить опыт события, открыть награды и узнать лучшие подсказки для отдыхающих!",
+                    "แวะมาหาทราเวลมาสเตอร์เพื่อเปลี่ยนการพักร้อนของคุณ[b]ให้เป็นการผจญภัยสุดยิ่งใหญ่!_ทำเควสต์ให้สำเร็จ[b]เพื่อเก็บ XP_กิจกรรม_ปลดล็อครางวัล[b]และรับเคล็ดลับการเที่ยวฉบับวงใน!",
+                    "有了旅行管理员的贴心辅助，你的假期就能变成一场史诗般的冒险！完成任务，获得经验值，解锁奖励，收获独家出行攻略！",
+                    "旅行管理員可以把你的假期變成史詩等級的冒險旅途！完成任務即可贏得活動經驗值、解鎖獎勵，獲得私藏旅行小撇步！"
+                ],
+                "m_locId": 2906652
+            },
+            "m_chooseATrackPrompt": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            }
+        },
+        {
+            "m_ID": 31,
+            "m_specialEventType": 17,
+            "m_eventTiming": 10000592,
+            "m_displayName": {
+                "m_locValues": [
+                    "Blissful Reunion",
+                    "Glückseliges Wiedersehen",
+                    "Reencuentro jubiloso",
+                    "Reunión alegre",
+                    "Heureuses retrouvailles",
+                    "Lieto Ritrovo",
+                    "幸せいっぱい同窓会",
+                    "기분 좋은 재회",
+                    "Cudowne spotkanie",
+                    "Reunião Maravilhosa",
+                    "Радостная встреча",
+                    "งานคืนสู่เหย้าแสนสุข",
+                    "欢乐重聚",
+                    "美滿團圓"
+                ],
+                "m_locId": 2907022
+            },
+            "m_shortDescription": {
+                "m_locValues": [
+                    "It's been a long time, old friend!",
+                    "Lang ist es her, alter Freund!",
+                    "¡Cuánto tiempo ha pasado!",
+                    "¡Ha pasado mucho tiempo!",
+                    "Cela faisait longtemps !",
+                    "Da quanto tempo!",
+                    "久しぶりだね、懐かしい友よ！",
+                    "오랜만이네요, 친구!",
+                    "Kawał czasu!",
+                    "Há quanto tempo, camarada!",
+                    "Давно не виделись, дружище!",
+                    "ไม่ได้เจอกันนานเลยนะ เพื่อนเกลอ!",
+                    "好久不见，朋友！",
+                    "老朋友，好久不見啦！"
+                ],
+                "m_locId": 2907023
+            },
+            "m_longDescription": {
+                "m_locValues": [
+                    "Come on into the Tavern and pull up a chair by the hearth! Complete quests to earn Event XP, unlock rewards, and have a bit of fun!",
+                    "Kommt ins Gasthaus und zieht Euch einen Sessel ans Feuer! Schließt Quests ab, verdient Event-EP, schaltet Belohnungen frei und habt ein wenig Spaß!",
+                    "Entra en la taberna, coge una silla ¡y siéntate junto al fuego! Completa misiones para ganar PE de evento, desbloquea recompensas ¡y diviértete un poquito!",
+                    "¡Ven a la Taberna y siéntate junto a la fogata! ¡Completa misiones para ganar EXP de evento, desbloquear recompensas y pasar un buen rato!",
+                    "Entrez dans l’auberge et installez-vous confortablement près du foyer ! Accomplissez des quêtes afin d’obtenir des points d’EXP d’évènement, des récompenses et de vous amuser !",
+                    "Entra nella Locanda e avvicina la sedia al camino! Completa le missioni per ottenere PE Evento, sbloccare ricompense e divertirti!",
+                    "酒場に寄ってって、暖炉の側の席へどうぞ！クエストを達成してイベントXPを稼ぎ、報酬を解禁して、楽しいひと時を過ごそうじゃないか！",
+                    "선술집으로 들어와 의자를 가져다 난로 곁에 앉으세요! 퀘스트를 완료해서 이벤트 경험치를 획득하고, 보상을 해제하고, 재미있게 즐기세요!",
+                    "Zajrzyj do Karczmy i usiądź przy kominku! Wykonuj zadania, aby zdobywać PD, odblokowywać nagrody i porządnie się zabawić!",
+                    "Entre na taverna e puxe uma cadeira pra junto da lareira! Complete as missões para receber EXP de evento, desbloquear recompensas e se divertir bastante!",
+                    "Скорее проходи в таверну и усаживайся у очага! Выполняй задания, чтобы получить опыт события, открыть награды и от души повеселиться!",
+                    "แวะมานั่งผิงไฟพักผ่อนที่โรงเตี๊ยมสักหน่อยสิ! ทำเควสต์ให้สำเร็จเพื่อเก็บ XP_กิจกรรม ปลดล็อครางวัล และมาสนุกสนานกันได้เลย!",
+                    "快进来，在火炉旁找个地方随便坐！完成任务，获得经验值，解锁奖励，找回久违的乐趣！",
+                    "快來旅店拉張椅子到爐火邊坐坐！完成任務即可贏得活動經驗值、解鎖獎勵，並好好放鬆一下！"
+                ],
+                "m_locId": 2907024
+            },
+            "m_chooseATrackPrompt": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            }
+        },
+        {
+            "m_ID": 32,
+            "m_specialEventType": 1,
+            "m_eventTiming": 10000501,
+            "m_displayName": {
+                "m_locValues": [
+                    "Darkmoon Faire's Frightful Fantasy",
+                    "Fürchterliche Fantasie des Dunkelmond-Jahrmarkts",
+                    "Fantasía aterradora de la Feria de la Luna Negra",
+                    "Fantasía Aterradora de la Feria de la Luna Negra",
+                    "La fantastique foire de Sombrelune",
+                    "Mostruosa Fantasticheria della Fiera di Lunacupa",
+                    "ダークムーン・フェアの驚異の恐演",
+                    "다크문 축제의 공포 환상극",
+                    "Doznania z dreszczykiem na Festynie Lunomroku",
+                    "Fantasia Tenebrosa da Feira de Negraluna",
+                    "Страшная сказка на ярмарке Новолуния",
+                    "หลอนสุดจินตนาการ ณ ดาร์คมูนแฟร์",
+                    "暗月马戏团：魔幻迷境",
+                    "暗月馬戲團的恐怖奇幻故事"
+                ],
+                "m_locId": 2907837
+            },
+            "m_shortDescription": {
+                "m_locValues": [
+                    "[x]Behold, My Friend: THE DARKMOON FAIRE!",
+                    "[x]Seht her, Freunde: DER DUNKELMOND-JAHRMARKT!",
+                    "Contémplala: ¡LA FERIA DE LA LUNA NEGRA!",
+                    "Observen todos: ¡LA FERIA DE LA LUNA NEGRA!",
+                    "[x]Et voici, LA FOIRE DE SOMBRELUNE !",
+                    "Ammira, visitatore: LA FIERA DI LUNACUPA!",
+                    "[x]お集まりの皆さん、ダークムーン・フェアの幕開けですよ！",
+                    "다크문 축제에 오신 것을 환영합니다!",
+                    "[x]Podziwiaj, przyjacielu! Oto FESTYN LUNOMROKU!",
+                    "[x]Contemple, colega: A FEIRA DE NEGRALUNA!",
+                    "[x]Перед вашими глазами – ярмарка Новолуния!",
+                    "[x]สหายทั้งหลาย ขอเชิญพบกับดาร์คมูนแฟร์!",
+                    "[x]看呐，朋友：暗月马戏团来了！",
+                    "[x]看啊，朋友：暗月馬戲團到了！"
+                ],
+                "m_locId": 2907838
+            },
+            "m_longDescription": {
+                "m_locValues": [
+                    "A frightful, majestic, magical faire!\n[x]Just ignore the eyes that blink and stare.\nComplete quests to earn Event XP,\nand win wondrous rewards for thee!",
+                    "Ein fürchterliches, magisches Fest!\n[x]Lasst Euch von den leuchtenden Augen im Dunkeln nicht einschüchtern.\nBeendet Quests und Event-EP sind Euer,\nerhaltet Belohnungen, sogar ohne Steuer!",
+                    "Una feria de horror, ¿o qué te piensas?\nSi hay ojos que te miran, pues lo siento.\nLas misiones te dan PE de evento,\n¡complétalas y gana recompensas!",
+                    "¡Una feria aterradora, mágica y majestuosa!\nSolo ignora las miradas tenebrosas.\n¡Completa misiones para ganar EXP de evento y gana\nrecompensas asombrosas!",
+                    "Une foire fantastique, grandiose et magique !\n[x]Ignorez les yeux qui clignent et vous fixent.\nTerminez des quêtes pour gagner\ndes points d’EXP d’évènement et des récompenses mirifiques !",
+                    "Una maestosa, magica e spaventosa fiera!\nIgnora pure gli occhi che ti fissano stasera!\nCompleta missioni per ottenere PE Evento\ne vinci magnifiche ricompense per trasformarti in un portento!",
+                    "恐ろしく、素晴らしい、魔法のようなフェアの始まり始まり！\n[x]君を見つめて瞬きする目はお構いなく。\nクエストを完了してイベントXPを集め\n驚きに満ちた報酬を獲得しましょう！",
+                    "공포스럽고 웅장하고 신비로운 축제가 왔습니다!\n깜박이며 응시하는 눈만 못 본 척하면 됩니다.\n퀘스트를 완료하여 이벤트 경험치를 획득하고,\n멋진 보상을 받아 가세요!",
+                    "Dreszczyk, cuda, magia prawdziwa!\n[x]Przystań na chwilę i podziwiaj.\nZadania wykonuj, PD wydarzenia zdobywaj\ni w nagród bogactwo opływaj!",
+                    "Uma feira tão majestosa quanto tenebrosa!\n[x]Mas ignore os olhos que te seguem pelas vielas sinuosas.\nComplete missões para coletar EXP de Evento,\ne tenha recompensas fantásticas para seu contento!",
+                    "На ярмарке много сюрпризов для вас.\nНе бойтесь пытливых моргающих глаз!\nКто выполнит наши задания в срок, \nполучит награды... и ценный урок!",
+                    "งานแฟร์แสนน่ากลัว วิจิตร และมหัศจรรย์!\n[x]เพียงอย่าสนใจดวงตาที่คอยกะพริบและจ้องมองแค่นั้น\nทำเควสต์ให้สำเร็จเพื่อรับ XP กิจกรรม\nและรับรางวัลมากมายให้อิ่มหนำ!",
+                    "魔法马戏，惊悚百变！\n暗月之眼，目光飞旋。\n完成任务，获取经验，\n神秘奖品，自然浮现！",
+                    "恐怖、壯麗、奇幻的馬戲團！\n[x]不要在意那些眨個不停又緊盯著你的眼睛。\n完成任務，獲得活動經驗值，\n然後為自己贏得奇妙的獎勵吧！"
+                ],
+                "m_locId": 2907839
+            },
+            "m_chooseATrackPrompt": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            }
+        },
+        {
+            "m_ID": 33,
+            "m_specialEventType": 13,
+            "m_eventTiming": 10000596,
+            "m_displayName": {
+                "m_locValues": [
+                    "Warcraft Anniversary",
+                    "Warcraft-Jubiläum",
+                    "Aniversario de Warcraft",
+                    "Aniversario de Warcraft",
+                    "Anniversaire de Warcraft",
+                    "Anniversario di Warcraft",
+                    "「Warcraft」アニバーサリー",
+                    "워크래프트 기념일",
+                    "Rocznica Warcraft",
+                    "Aniversário de Warcraft",
+                    "Годовщина Warcraft",
+                    "ฉลองครบรอบปี Warcraft",
+                    "魔兽周年庆",
+                    "魔獸週年慶"
+                ],
+                "m_locId": 2909006
+            },
+            "m_shortDescription": {
+                "m_locValues": [
+                    "Ready to Work!",
+                    "Bereit für Arbeit!",
+                    "¡Listos para trabajar!",
+                    "¡Todo listo para trabajar!",
+                    "Prêt à travailler !",
+                    "Pronti a lavorare!",
+                    "いざ立ち上がれ！",
+                    "작업 준비 끝!",
+                    "Gotowi do pracy!",
+                    "Pronto para trabalhar!",
+                    "Готов вкалывать!",
+                    "เตรียมตัวพร้อมลุย!",
+                    "准备干活！",
+                    "準備上工！"
+                ],
+                "m_locId": 2909007
+            },
+            "m_longDescription": {
+                "m_locValues": [
+                    "Horde and Alliance.\nThese two forces collide...\nthe victor claiming dominance over the whole of Azeroth.\nWelcome to the World of Warcraft.",
+                    "Horde und Allianz.\nEin Kampf zwischen diesen beiden Fraktionen …\nmacht den Sieger zum Herrscher über ganz Azeroth.\nWillkommen bei World of Warcraft.",
+                    "La Horda y la Alianza.\nLlega el enfrentamiento entre ambas fuerzas...\nEl vencedor se hará con el dominio de todo Azeroth.\nBienvenidos a World of Warcraft.",
+                    "Horda y Alianza.\nEstas dos fuerzas se enfrentan...\nquien se lleve la victoria reclamará el dominio sobre todo Azeroth.\nTe damos la bienvenida a World of Warcraft.",
+                    "La Horde et l’Alliance.\nCes deux puissances s’affrontent…\net se disputent les territoires d’Azeroth.\nBienvenue dans le monde de World of Warcraft.",
+                    "Orda e Alleanza.\nQueste due forze si scontrano...\nLa vincitrice rivendicherà il dominio su Azeroth.\nTi diamo il benvenuto in World of Warcraft.",
+                    "ホードとアライアンス。\n2つの勢力が激突する…\nアゼロス全土を支配するには、勝利を収めるしかない。\n「World of Warcraft」へようこそ。",
+                    "호드와 얼라이언스.\n두 세력이 충돌합니다...\n승리하는 편은 아제로스 전체의 패권을 거머쥐게 됩니다.\n월드 오브 워크래프트의 세계에 오신 것을 환영합니다.",
+                    "Horda i Przymierze.\nTrwa walka tych dwóch sił…\na zwycięzca uzyska dominację nad całym Azeroth.\nWitaj w World of Warcraft.",
+                    "Aliança e Horda.\nEssas duas forças se chocam...\no vencedor reivindica o domínio de toda Azeroth.\nBoas-vindas ao World of Warcraft!",
+                    "Орда и Альянс.\nНепримиримые противники...\nПобедителю достанется весь Азерот.\nДобро пожаловать в World of Warcraft.",
+                    "ชนเผ่าและพันธมิตร\nกองกำลังสองฝ่ายเข้าห้ำหั่น...\nเพื่อแย่งชิงอำนาจเหนือโลกอาเซรอธ\nยินดีต้อนรับเข้าสู่ World of Warcraft",
+                    "部落与联盟。\n两大势力再度碰撞……\n胜者将独霸全艾泽拉斯。\n欢迎来到魔兽世界。",
+                    "部落和聯盟。\n兩大勢力正面交鋒…\n勝出的一方就能全面統治艾澤拉斯。\n歡迎來到魔獸世界。"
+                ],
+                "m_locId": 2909008
+            },
+            "m_chooseATrackPrompt": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            }
+        },
+        {
+            "m_ID": 34,
+            "m_specialEventType": 17,
+            "m_eventTiming": 10000597,
+            "m_displayName": {
+                "m_locValues": [
+                    "Warcraft Anniversary",
+                    "Warcraft-Jubiläum",
+                    "Aniversario de Warcraft",
+                    "Aniversario de Warcraft",
+                    "Anniversaire de Warcraft",
+                    "Anniversario di Warcraft",
+                    "「Warcraft」アニバーサリー",
+                    "워크래프트 기념일",
+                    "Rocznica Warcraft",
+                    "Aniversário de Warcraft",
+                    "Годовщина Warcraft",
+                    "ฉลองครบรอบปี Warcraft",
+                    "魔兽周年庆",
+                    "魔獸週年慶"
+                ],
+                "m_locId": 2909520
+            },
+            "m_shortDescription": {
+                "m_locValues": [
+                    "Ready to Work!",
+                    "Bereit für Arbeit!",
+                    "¡Listos para trabajar!",
+                    "¡Todo listo para trabajar!",
+                    "Prêt à travailler !",
+                    "Pronti a lavorare!",
+                    "いざ立ち上がれ！",
+                    "작업 준비 끝!",
+                    "Gotowi do pracy!",
+                    "Pronto para trabalhar!",
+                    "Готов вкалывать!",
+                    "เตรียมตัวพร้อมลุย!",
+                    "准备干活！",
+                    "準備上工！"
+                ],
+                "m_locId": 2909521
+            },
+            "m_longDescription": {
+                "m_locValues": [
+                    "Horde and Alliance.\nThese two forces collide...\nthe victor claiming dominance over the whole of Azeroth.\nWelcome to the World of Warcraft.",
+                    "Horde und Allianz.\nEin Kampf zwischen diesen beiden Fraktionen …\nmacht den Sieger zum Herrscher über ganz Azeroth.\nWillkommen bei World of Warcraft.",
+                    "La Horda y la Alianza.\nLlega el enfrentamiento entre ambas fuerzas...\nEl vencedor se hará con el dominio de todo Azeroth.\nBienvenidos a World of Warcraft.",
+                    "Horda y Alianza.\nEstas dos fuerzas se enfrentan...\nquien se lleve la victoria reclamará el dominio sobre todo Azeroth.\nTe damos la bienvenida a World of Warcraft.",
+                    "La Horde et l’Alliance.\nCes deux puissances s’affrontent…\net se disputent les territoires d’Azeroth.\nBienvenue dans le monde de World of Warcraft.",
+                    "Orda e Alleanza.\nQueste due forze si scontrano...\nLa vincitrice rivendicherà il dominio su Azeroth.\nTi diamo il benvenuto in World of Warcraft.",
+                    "ホードとアライアンス。\n2つの勢力が激突する…\nアゼロス全土を支配するには、勝利を収めるしかない。\n「World of Warcraft」へようこそ。",
+                    "호드와 얼라이언스.\n두 세력이 충돌합니다...\n승리하는 편은 아제로스 전체의 패권을 거머쥐게 됩니다.\n월드 오브 워크래프트의 세계에 오신 것을 환영합니다.",
+                    "Horda i Przymierze.\nTrwa walka tych dwóch sił…\na zwycięzca uzyska dominację nad całym Azeroth.\nWitaj w World of Warcraft.",
+                    "Aliança e Horda.\nEssas duas forças se chocam...\no vencedor reivindica o domínio de toda Azeroth.\nBoas-vindas ao World of Warcraft!",
+                    "Орда и Альянс.\nНепримиримые противники...\nПобедителю достанется весь Азерот.\nДобро пожаловать в World of Warcraft.",
+                    "ชนเผ่าและพันธมิตร\nกองกำลังสองฝ่ายเข้าห้ำหั่น...\nเพื่อแย่งชิงอำนาจเหนือโลกอาเซรอธ\nยินดีต้อนรับเข้าสู่ World of Warcraft",
+                    "部落与联盟。\n两大势力再度碰撞……\n胜者将独霸全艾泽拉斯。\n欢迎来到魔兽世界。",
+                    "部落和聯盟。\n兩大勢力正面交鋒…\n勝出的一方就能全面統治艾澤拉斯。\n歡迎來到魔獸世界。"
+                ],
+                "m_locId": 2909522
+            },
+            "m_chooseATrackPrompt": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            }
+        },
+        {
+            "m_ID": 4,
+            "m_specialEventType": 4,
+            "m_eventTiming": 10000538,
+            "m_displayName": {
+                "m_locValues": [
+                    "Lunar New Year",
+                    "Mondfest",
+                    "Año Nuevo lunar",
+                    "Año Nuevo Lunar",
+                    "Fête lunaire",
+                    "Festa della Luna",
+                    "旧正月",
+                    "설날",
+                    "Księżycowy Nowy Rok",
+                    "Ano Novo Lunar",
+                    "Лунный Новый год",
+                    "วันตรุษจีน",
+                    "春节",
+                    "新年"
+                ],
+                "m_locId": 2870067
+            },
+            "m_shortDescription": {
+                "m_locValues": [
+                    "Silvermoon is on the verge of a new era...",
+                    "Silbermond steht am Rande einer neuen Ära_...",
+                    "Se aproxima una nueva era para Lunargenta…",
+                    "Lunargenta está a punto de entrar en una nueva era...",
+                    "Lune-d’Argent est à l’aube d’une nouvelle ère…",
+                    "Lunargenta è sull'orlo di una nuova era...",
+                    "シルバームーンは新たな時代を迎えようとしている…",
+                    "실버문이 새로운 시대를 앞두고 있습니다...",
+                    "Srebrna Luna jest u progu nowej ery…",
+                    "Luaprata está prestes a entrar numa nova era...",
+                    "Луносвет стоит на пороге новой эры...",
+                    "ซิลเวอร์มูนกำลังจะเข้าสู่ยุคใหม่...",
+                    "银月城即将迎来新年……",
+                    "銀月城即將迎接新時代…"
+                ],
+                "m_locId": 2870068
+            },
+            "m_longDescription": {
+                "m_locValues": [
+                    "The Sunwell shines bright, and a New Year begins! Complete quests to collect Event XP, earn rewards, and keep the lanterns of Silvermoon lit!",
+                    "Der Sonnenbrunnen strahlt hell und ein neues Jahr beginnt! Schließt Quests ab, um Event-EP zu sammeln, verdient Belohnungen und lasst die Laternen Silbermonds leuchten.",
+                    "¡La Fuente del Sol brilla con fuerza, y un Año Nuevo comienza! Completa misiones para conseguir PE de evento, ganar recompensas y mantener encendidos los faroles de Lunargenta.",
+                    "¡La Fuente del Sol brilla intensamente y comienza un nuevo año! ¡Completa misiones para obtener EXP de evento, ganar recompensas y mantener encendidos los faroles de Lunargenta!",
+                    "Le Puits de soleil brille de mille feux et une nouvelle année commence ! Terminez des quêtes pour obtenir des points d’EXP d’évènement, gagner des récompenses et maintenir les lanternes de Lune-d’Argent allumées !",
+                    "Il Pozzo Solare risplende e un nuovo anno ha inizio! Completa le missioni per accumulare PE Evento, ottenere ricompense e tenere accese le lanterne di Lunargenta!",
+                    "太陽の泉が明るく輝き、新しい年が始まる！クエストを達成してイベントXPを稼ぎ、報酬を獲得して、シルバームーンの提灯を明るく灯しておこう！",
+                    "태양샘은 찬란하게 빛나고, 새로운 한 해가 시작되었습니다! 퀘스트를 완료하여 이벤트 경험치를 모으고 보상을 획득하세요. 실버문의 등불을 계속 밝혀야 합니다!",
+                    "Słoneczna Studnia oślepia swym blaskiem, a nowy rok się rozpoczyna! Kończ zadania, by zdobyć PD wydarzenia oraz nagrody i zadbaj o to, by latarnie w Srebrnej Lunie nie zgasły!",
+                    "A Nascente do Sol brilha, e começa um novo ano! Conclua as missões para ganhar EXP de Evento, ganhar recompensas e manter as lanternas de Luaprata acesas!",
+                    "Солнечный Колодец сияет ярче яркого. Наступает Новый год. Выполняйте задания, накапливайте опыт события, получайте награды и следите, чтобы огни Луносвета не погасли!",
+                    "บ่อน้ำสุริยะส่องแสงสดใส และปีใหม่เริ่มขึ้นแล้ว! ทำเควสต์ให้สำเร็จเพื่อเก็บ XP กิจกรรม รับรางวัล และจุดโคมให้สว่างไสวทั่วซิลเวอร์มูน!",
+                    "太阳之井光芒四射，新的一年开始了！完成任务，获取活动经验值，赢得奖励。愿银月城的灯火永不熄灭！",
+                    "太陽之井閃耀發光，新的一年開始了！完成任務收集活動經驗值、領取獎勵，讓銀月城的燈籠永遠明亮！"
+                ],
+                "m_locId": 2870069
+            },
+            "m_chooseATrackPrompt": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            }
+        },
+        {
+            "m_ID": 5,
+            "m_specialEventType": 1,
+            "m_eventTiming": 10000527,
+            "m_displayName": {
+                "m_locValues": [
+                    "Knights of Hallow's End",
+                    "Ritter der Schlotternächte",
+                    "Caballeros de Halloween",
+                    "Caballeros de Halloween",
+                    "Chevaliers de la Sanssaint",
+                    "Cavalieri della Veglia delle Ombre",
+                    "ハロウェンドの騎士",
+                    "할로윈 축제의 기사들",
+                    "Rycerze Zaduszników",
+                    "Cavaleiros da Noturnália",
+                    "Рыцари Тыквовина",
+                    "อัศวินแห่งฮอลโลว์สเอนด์",
+                    "万圣节骑士",
+                    "萬鬼節騎士"
+                ],
+                "m_locId": 2870082
+            },
+            "m_shortDescription": {
+                "m_locValues": [
+                    "A cold wind blows this Hallow's End:\nThe Headless Horseman rides!",
+                    "Ein kalter Wind weht diese Schlotternächte:\nDer kopflose Reiter geht um!",
+                    "Sopla un viento frío en Halloween…\n¡La marcha del Jinete decapitado!",
+                    "Un viento frío sopla este Halloween:\n¡El Jinete decapitado avanza!",
+                    "Un vent froid souffle en cette Sanssaint :\nLe Cavalier sans tête arrive !",
+                    "La Veglia delle Ombre si fa gelida:\nIl Cavaliere Senza Testa sta arrivando!",
+                    "ハロウェンドに冷たい風が吹きすさぶ――\n首なし騎士が出たぞ！",
+                    "할로윈 축제에 차가운 바람이 불어옵니다.\n저주받은 기사가 등장합니다!",
+                    "Czuć zimny wiatr w te Zaduszniki:\nNadciąga Bezgłowy Jeździec!",
+                    "Um vento frio sopra nesta Noturnália:\nO Cavaleiro sem Cabeça vem aí!",
+                    "Холодный ветер завывает!\nВсадник без головы здесь!",
+                    "สายลมหนาวพัดโหมในฮอลโลว์สเอนด์ปีนี้:\nทหารม้าไร้หัวห้อตะบึง!",
+                    "万圣之夜，冰风呼啸：\n无头骑士，策马来到！",
+                    "一股寒風襲捲了萬鬼節：\n奔馳的無頭騎士現身啦！"
+                ],
+                "m_locId": 2870083
+            },
+            "m_longDescription": {
+                "m_locValues": [
+                    "Beware the Headless Horseman, for he knows only vengeance! Complete quests to collect Event XP, earn rewards, and stop the Horseman from destroying all Death Knights.",
+                    "Hütet Euch vor dem kopflosen Reiter, denn er kennt nur Rache! Schließt Quests ab, um Event-EP zu sammeln, verdient Belohnungen und legt dem Reiter das Handwerk, bevor er alle Todesritter vernichtet.",
+                    "Ten cuidado con el Jinete decapitado, ¡porque solo conoce la venganza! Completa misiones para conseguir PE de evento, ganar recompensas e impedir al Jinete destruir a todos los caballeros de la Muerte.",
+                    "Cuidado con el Jinete decapitado, ¡solo conoce de venganza! Completa misiones para obtener EXP de evento, ganar recompensas y evitar que el Jinete decapitado destruya a todos los Caballeros de la muerte.",
+                    "Gare au cavalier sans tête, car il ne connaît que la vengeance ! Terminez des quêtes pour obtenir des points d’EXP d’évènement, gagner des récompenses et empêcher le cavalier sans tête de détruire tous les chevaliers de la mort.",
+                    "Attenzione al Cavaliere Senza Testa, che conosce solo la vendetta! Completa le missioni per ottenere PE Evento, guadagnare ricompense e impedire al Cavaliere Senza Testa di distruggere i Cavalieri della Morte.",
+                    "首なし騎士に気をつけろ、ヤツの頭にあるのは復讐だけだ！クエストを達成してイベントXPを稼ぎ、報酬をゲットして、全てのデスナイトを滅ぼそうとする首なし騎士の騎行を阻止しよう！",
+                    "복수에 눈이 먼 저주받은 기사를 조심하십시오! 퀘스트를 완료해 이벤트 경험치와 보상을 얻고, 모든 죽음의 기사를 처치하겠다는 저주받은 기사를 저지하세요!",
+                    "Strzeż się Bezgłowego Jeźdźca, który nie zna niczego poza zemstą! Kończ zadania, zdobywaj PD wydarzenia oraz nagrody i powstrzymaj Bezgłowego Jeźdźca przed zniszczeniem wszystkich rycerzy śmierci.",
+                    "Cuidado com o Cavaleiro sem Cabeça, pois ele busca vingança! Conclua missões para obter EXP de Evento, ganhe recompensas e impeça esse Cavaleiro de destruir todos os Cavaleiros da Morte.",
+                    "Берегитесь Всадника без головы, ибо жаждет он только мести! Выполняйте задания, накапливайте опыт события, получайте награды и помешайте Всаднику без головы истребить рыцарей смерти.",
+                    "จงระวังทหารม้าไร้หัว เพราะเขามีแต่ความคั่งแค้น! ทำเควสต์ให้สำเร็จเพื่อเก็บ XP กิจกรรม รับรางวัล และหยุดยั้งทหารม้าไร้หัว\nจากการกำจัดเดธไนท์จนสิ้นซาก",
+                    "当心，一心只想复仇的无头骑士回来了！完成任务，获得活动经验值，赢得奖励，不要让无头骑士消灭所有的死亡骑士。",
+                    "小心，無頭騎士內心唯有復仇之火！完成任務獲得活動經驗值、賺取獎勵，並阻止無頭騎士消滅所有死亡騎士。"
+                ],
+                "m_locId": 2870084
+            },
+            "m_chooseATrackPrompt": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            }
+        },
+        {
+            "m_ID": 6,
+            "m_specialEventType": 3,
+            "m_eventTiming": 10000537,
+            "m_displayName": {
+                "m_locValues": [
+                    "The Siege of Iceforge",
+                    "Die Belagerung von Eisschmiede",
+                    "El asedio de Forja de Hielo",
+                    "El Asedio de Forjaz Helada",
+                    "Le siège de Forgeglace",
+                    "L'assedio di Forgiaghiacciata",
+                    "アイスフォージ防衛戦",
+                    "아이스포지 공성전",
+                    "Oblężenie Lodowej Kuźni",
+                    "O Cerco de Geloforja",
+                    "Осада Ледогорна",
+                    "ศึกปิดล้อมไอรอนฟอร์จ",
+                    "围攻铁炉堡",
+                    "圍攻冰爐堡"
+                ],
+                "m_locId": 2870087
+            },
+            "m_shortDescription": {
+                "m_locValues": [
+                    "Join the Tinker Town Resistance and save Winter Veil!",
+                    "Schließt Euch dem Widerstand von Tüftlerstadt an und rettet das Winterhauchfest!",
+                    "¡Únete a la resistencia de Ciudad Manitas y salva el Festival de Invierno!",
+                    "¡Únete a la resistencia de Ciudad Manitas y salva el Festival de Invierno!",
+                    "Engagez-vous dans la résistance de Brikabrok et sauvez le Voile d’hiver !",
+                    "Unisciti alla Resistenza di Rabberciopoli e salva Grande Inverno!",
+                    "ティンカータウン・レジスタンスに加わり、冬至祭を守ろう！",
+                    "땜장이 마을 저항군에 합류해서 겨울맞이 축제를 지켜내세요!",
+                    "Dołącz do ruchu oporu Majsterkowa i uratuj Zimową Ucztę!",
+                    "Junte-se à Resistência do Beco da Gambiarra e salve o Véu de Inverno!",
+                    "Примкните к сопротивлению города Механиков и спасите праздник Зимнего Покрова!",
+                    "ร่วมมือกับกลุ่มต่อต้านแห่งทิงเกอร์ทาวน์เพื่อกอบกู้วินเทอร์เวล!",
+                    "加入侏儒区抵抗军，守护冬幕佳节！",
+                    "加入地精區反抗軍，拯救冬幕節！"
+                ],
+                "m_locId": 2870088
+            },
+            "m_longDescription": {
+                "m_locValues": [
+                    "The Scourge has conscripted the inventors of Ironforge to make munitions! Complete quests to collect Event XP, earn rewards, and save Winter Veil from Greatfather Lich King.",
+                    "Die Geißel hat die Erfinder Eisenschmiedes zur Munitionsherstellung gezwungen! Schließt Quests ab, um Event-EP zu sammeln, verdient Belohnungen und rettet das Winterhauchfest vor Altvater Lichkönig.",
+                    "¡La Plaga ha llamado a filas a los inventores de Forjaz para fabricar municiones! Completa misiones para conseguir PE de evento, ganar recompensas y salvar el Festival de Invierno del Gran Padre Rey Exánime.",
+                    "¡La Plaga ha reclutado a los inventores de Forjaz para que fabriquen municiones! Completa misiones para obtener EXP de evento, conseguir recompensas y salvar el Festival de Invierno del Gran Padre Rey Exánime.",
+                    "Le Fléau a réquisitionné les inventeurs de Forgefer pour fabriquer des munitions ! Terminez des quêtes pour obtenir des points d’EXP d’évènement, gagner des récompenses et sauver le Voile d’hiver du grand-père roi-liche.",
+                    "Il Flagello ha arruolato gli inventori di Forgiardente per creare delle munizioni! Completa le missioni per ottenere PE Evento, vincere ricompense e salvare Grande Inverno dal Re dei Lich.",
+                    "スコージがアイアンフォージの発明家たちを徴発して軍需品を作らせてるぞ！クエストをクリアしてイベントXPを集め、報酬を獲得して、ファーザーウィンター・リッチキングの魔の手から冬至祭を守ろう。",
+                    "스컬지가 군수품을 만들기 위해 아이언포지의 발명가들을 끌고 갔습니다! 퀘스트를 완료해 이벤트 경험치와 보상을 얻고, 겨울할아버지 리치 왕으로부터 겨울맞이 축제를 지켜내세요!",
+                    "Plaga zwerbowała wynalazców Żelaznej Kuźni, by zaopatrywali ją w uzbrojenie! Ukończ zadania, by zdobyć PD wydarzenia oraz nagrody i uratować Zimową Ucztę przed Praojcem Królem Liszem.",
+                    "O Flagelo sequestrou os inventores de Altaforja para criar munição! Conclua as missões para coletar EXP de Evento, ganhar recompensas e salvar o Véu de Inverno do Vovô Lich Rei.",
+                    "Плеть принудила изобретателей Стальгорна делать оружие для нежити. Выполняйте задания, чтобы получать опыт, зарабатывайте награды и спасите праздник Зимнего Покрова от происков Дедушки Короля-лича.",
+                    "สเคิร์จเกณฑ์เหล่านักประดิษฐ์แห่งไอรอนฟอร์จ\nมาผลิตกระสุน! ทำเควสต์ให้สำเร็จเพื่อเก็บ\nXP_กิจกรรม_รับรางวัล และกอบกู้วินเทอร์เวลจาก\nเกรทฟาเธอร์ลิชคิง",
+                    "天灾军团强征了铁炉堡的发明家来制造军械！完成任务，获得活动经验值，赢得奖励，从巫妖王手中拯救冬幕节！",
+                    "天譴軍團徵召了鐵爐堡的發明家來製造軍火！完成任務來收集活動經驗值、賺取獎勵，並從冬天爺爺巫妖王的手中拯救冬幕節！"
+                ],
+                "m_locId": 2870089
+            },
+            "m_chooseATrackPrompt": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            }
+        },
+        {
+            "m_ID": 7,
+            "m_specialEventType": 6,
+            "m_eventTiming": 10000551,
+            "m_displayName": {
+                "m_locValues": [
+                    "Legends Take the Stage",
+                    "Legenden betreten die Bühne",
+                    "Las leyendas suben al escenario",
+                    "Las leyendas se adueñan del escenario",
+                    "Les légendes entrent en scène",
+                    "Le leggende salgono sul palco",
+                    "レジェンド・オン・ステージ",
+                    "전설들의 무대",
+                    "Legendy zawładnęły sceną",
+                    "Lendas no Palco",
+                    "Легенды выходят на сцену",
+                    "ตำนานขึ้นเวที",
+                    "传奇登场",
+                    "傳說明星登上舞台"
+                ],
+                "m_locId": 2871745
+            },
+            "m_shortDescription": {
+                "m_locValues": [
+                    "When the sun sets, the lights come up in Thousand Needles!",
+                    "Wenn die Sonne untergeht, erstrahlen die Lichter in Tausend Nadeln!",
+                    "En cuanto se pone el sol, ¡Las Mil Agujas se iluminan!",
+                    "¡Cuando el sol se pone, las luces se encienden en Mil Agujas!",
+                    "Lorsque le soleil se couche, les Mille pointes s’illuminent !",
+                    "Quando il sole tramonta, si alzano le luci dei riflettori a Millepicchi!",
+                    "太陽が沈むと共に、サウザンドニードルズはライトアップ！",
+                    "해가 지면 버섯구름 봉우리가 환하게 빛나기 시작합니다!",
+                    "Po zachodzie słońca reflektory rozświetlają Tysiąc Filarów!",
+                    "Quando o sol se põe, as luzes se acendem em Mil Agulhas!",
+                    "Когда зайдет солнце, в Тысяче Игл засияют огни!",
+                    "เมื่อตะวันลับขอบฟ้า แสงไฟก็สว่างจ้าในเทาซันด์นีดเดิลส์!",
+                    "太阳西沉之际，千针石林亮起了璀璨的灯火！",
+                    "太陽下山時，千針石林的燈光才正要亮起來！"
+                ],
+                "m_locId": 2871746
+            },
+            "m_longDescription": {
+                "m_locValues": [
+                    "Heroes of music are here to rock the stage! Complete quests to collect Event XP, earn rewards, and give Azeroth a performance it will always remember.",
+                    "Helden der Musik sind hier, um die Bühne zu rocken! Schließt Quests ab, um Event-EP zu sammeln, verdient Belohnungen und bietet Azeroth die Show des Jahrhunderts.",
+                    "¡Héroes del mundo de la música vienen a darlo todo sobre el escenario! Completa misiones para conseguir PE de evento, ganar recompensas y ofrecer a Azeroth una actuación que jamás olvidará.",
+                    "¡Los héroes de la música llegaron para arrasar con el escenario! Completa misiones para conseguir EXP de evento, obtener recompensas y brindarle a Azeroth un espectáculo inolvidable.",
+                    "Les prodiges de la musique s’apprêtent à mettre le feu à la scène ! Terminez des quêtes pour obtenir des points d’EXP d’évènement, gagner des récompenses et offrir à Azeroth un spectacle qui restera à jamais gravé dans les mémoires !",
+                    "Gli eroi della musica sono pronti a far tremare il palco! Completa le missioni per accumulare PE Evento, ottenere ricompense e partecipare a uno spettacolo che Azeroth ricorderà per sempre.",
+                    "音楽界のヒーローたちがステージを揺るがしにやって来る！クエストを達成してイベントXPを稼ぎ、報酬をゲットして、最高のパフォーマンスをアゼロスの歴史に焼きつけよう。",
+                    "음악의 영웅들이 무대를 뒤흔듭니다! 퀘스트를 완료해 이벤트 경험치와 보상을 얻고, 아제로스에 평생 잊지 못할 공연을 선사하세요.",
+                    "Muzyczni bohaterowie przybywają dać czadu na scenie! Kończ zadania, zdobywaj PD wydarzenia oraz nagrody i daj występ, którego Azeroth nigdy nie zapomni.",
+                    "Heróis da música estão aqui para abalar as estruturas do palco! Conclua missões para receber EXP de Evento e recompensas, dando a Azeroth uma performance inesquecível.",
+                    "Герои от мира музыки готовы показать на сцене класс! Выполняйте задачи и накапливайте опыт события, получайте награды и устройте представление, которое навсегда войдет в историю Азерота.",
+                    "เหล่าฮีโร่แห่งวงการเพลงมากันพร้อมหน้า\nเพื่อเขย่าเวที! ทำเควสต์ให้สำเร็จเพื่อเก็บ XP_กิจกรรม รับรางวัล และมอบการแสดง\nที่อาเซรอธจะจดจำไปตลอดกาล",
+                    "乐坛英雄整装待发，即将登场！完成任务，获取活动经验值，赢得奖励。让艾泽拉斯永远铭记这个精彩的音乐节。",
+                    "音樂英雄們要來震撼舞台啦！完成任務來收集活動經驗值、賺取獎勵，並為艾澤拉斯留下永生難忘的表演。"
+                ],
+                "m_locId": 2871747
+            },
+            "m_chooseATrackPrompt": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            }
+        },
+        {
+            "m_ID": 8,
+            "m_specialEventType": 14,
+            "m_eventTiming": 10000552,
+            "m_displayName": {
+                "m_locValues": [
+                    "Mrrglgroove Dance Party",
+                    "Mrrglgroove-Tanzparty",
+                    "Verbena de ritmrrgl",
+                    "Fiesta de baile de rrglgrrritmo",
+                    "Fête mrrglgroovy",
+                    "Festa Danzante Mrrglgrosa",
+                    "ムルァグルーヴ・ダンスパーティー",
+                    "그루옳옳 무도회",
+                    "Potańcówka w rytmach mrrglgr",
+                    "Festa Dançante Mrrglgroove",
+                    "Дискотека «Мррглека»",
+                    "มรรกลกรูฟแดนซ์ปาร์ตี้",
+                    "鱼人舞会",
+                    "姆咯律動勁舞派對"
+                ],
+                "m_locId": 2872604
+            },
+            "m_shortDescription": {
+                "m_locValues": [
+                    "Aaaaaaughibbrgubugbugrguburgle!",
+                    "Aaaaaaughibbrgubugbugrguburgle!",
+                    "¡Aaaaaaughibbrgubugbugrguburgle!",
+                    "¡Aaaaaaughibbrgubugbugrguburgle!",
+                    "Aaaaaaughibbrgubugbugrguburgle !",
+                    "Aaaaaaughibbrgubugbugrguburgle!",
+                    "アァァァァァ～ィブァガバグバグァガブァグル！",
+                    "아오오오옳브오오옳그옳옳!",
+                    "Aaaaaaughibbrgubugbugrguburgle!",
+                    "Aaaaaaughibbrgubugbugrguburgle!",
+                    "А-а-а-угибрргубугбубургл!",
+                    "อาาาาากิบบรกับบักบักรกับเบอร์เกิล!",
+                    "啊啊啊啊呜嘎嗨卟咯啦卟咯啦咯啦咯啦！",
+                    "啊嘰哩咕嚕咕嚕咕嚕啦啦嗚啦啦！"
+                ],
+                "m_locId": 2872605
+            },
+            "m_longDescription": {
+                "m_locValues": [
+                    "Drrgl lrk nk trglmrlgr, mmrrgllm n mrrgglm! Brgml uuua mm mrgl mrklrgleelr!<i>(...Complete quests to collect Event XP, earn rewards...)</i>",
+                    "Drrgl lrk nk trglmrlgr, mmrrgllm n mrrgglm! Brgml uuua mm mrgl mrklrgleelr!<i>(..._Schließt Quests ab, um Event-EP zu sammeln, verdient Belohnungen_...)</i>",
+                    "¡Drrgl lrk nk trglmrlgr, mmrrgllm n mrrgglm! ¡Brgml uuua mm mrgl mrklrgleelr! <i>(Completa misiones para conseguir PE de evento, ganar recompensas…)</i>.",
+                    "¡Drrgl lrk nk trglmrlgr, mmrrgllm n mrrgglm! ¡Brgml uuua mm mrgl mrklrgleelr!<i>(... Completa misiones para obtener EXP de evento, recompensas...)</i>",
+                    "Drrgl lrk nk trglmrlgr, mmrrgllm n mrrgglm ! Brgml uuua mm mrgl mrklrgleelr ! <i>(Terminez des quêtes pour obtenir des points d’EXP d’évènement, gagner des récompenses…)</i>",
+                    "Drrgl lrk nk trglmrlgr, mmrrgllm n mrrgglm! Brgml uuua mm mrgl mrklrgleelr!<i>(...Completa missioni per accumulare PE Evento, ottenere ricompense...)</i>",
+                    "ドラァグル ルァク ンク トァグルムァルグァ、ムムァァグルルム ン ムァァググルム！ブァグムル ウゥゥア ムム ムァグル ムァクルァグレエルァ！<i>（…クエストを達成してイベントXPを稼ぎ、報酬を獲得…）</i>",
+                    "드옳 으옳 느옳 트르그옳옳, 므옳옳옳 옳 므르글! 브르그옳 우우아 옳옳 므르글 므르크글옳<i>(...퀘스트를 완료하여 이벤트 경험치를 모으고, 보상을 획득하세요...)</i>",
+                    "Drrgl lrk nk trglmrlgr, mmrrgllm n mrrgglm! Brgml uuua mm mrgl mrklrgleelr!<i>(...Wykonuj zadania i zdobywaj PD wydarzenia oraz nagrody...)</i>",
+                    "Drrgl lrk nk trglmrlgr, mmrrgllm n mrrgglm! Brgml uuua mm mrgl mrklrgleelr!<i>(... Conclua missões para obter EXP de Evento, recompensas...)</i>",
+                    "Дрргл лрк нк ртглмрглр, ммрргллм н мрргглм! Брглм уууа мм мргл мрклрглилр!<i>(...Выполняйте задания, зарабатывайте опыт, получайте награды...)</i>",
+                    "ดรรกล_อรค_นค_ทรมลมรลกร_มมรรกลลม น_มรรกกลม!_บรกมล_อูอูอัว_มม_มรกล มรคลรกลีลร! <i>(...ทำเควสต์ให้สำเร็จ\nเพื่อเก็บ XP กิจกรรม รับรางวัล...)</i>",
+                    "哒啦啦咯啦呢咔，嗒啦咯啦姆啦咯啦，姆啦啦啦咯啦！卟啦咯姆啦呜啊，姆啦咔啦哩啦！<i>（……完成任务，获取活动经验值，赢得奖励……）</i>",
+                    "咕嘎啦姆姆嘎啦，姆啊咖姆啊嗚嘎！吧嗚嘎叭嗚嘛嘎啦！<i>(…完成任務來獲得活動經驗值、賺取獎勵…)</i>"
+                ],
+                "m_locId": 2872606
+            },
+            "m_chooseATrackPrompt": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            }
+        },
+        {
+            "m_ID": 9,
+            "m_specialEventType": 13,
+            "m_eventTiming": 10000556,
+            "m_displayName": {
+                "m_locValues": [
+                    "Epic Duels of Rock Legends",
+                    "Epische Duelle der Rock-Legenden",
+                    "Duelos épicos de las leyendas del rock",
+                    "Duelos épicos de las Leyendas del Rock",
+                    "Duels épiques des légendes du rock",
+                    "Duelli Epici di Leggende del Rock",
+                    "ロック王者の頂上決戦",
+                    "록 전설들의 명대결",
+                    "Epickie starcia legend rocka",
+                    "Duelos Épicos de Lendas do Rock",
+                    "Эпические дуэли рок-легенд",
+                    "สุดยอดศึกดวลเพลงตำนานร็อค",
+                    "摇滚传奇，史诗对决！",
+                    "搖滾傳奇史詩對決"
+                ],
+                "m_locId": 2873797
+            },
+            "m_shortDescription": {
+                "m_locValues": [
+                    "Musicians Unite and Turn Up the Noise!",
+                    "Musiker, vereint euch und dreht die Regler hoch!",
+                    "¡Músicos, uníos para subir el volumen!",
+                    "¡Únanse, músicos y suban el volumen!",
+                    "Musiciennes, musiciens, unissez-vous et faites monter les décibels !",
+                    "Musicisti, insieme, fate un po' di casino!",
+                    "ミュージシャンたちよ、ひとつとなって音楽をかき鳴らせ！",
+                    "한 자리에 모인 음악가들이 소리를 높입니다!",
+                    "Muzycy jednoczą się i podkręcają gałki wzmacniaczy!",
+                    "Artistas, Unam-se e Façam Barulho!",
+                    "Музыканты, объединитесь и вдарьте разом!",
+                    "รวมพลนักดนตรีมาระเบิดความมันให้ดังกระหึ่ม!",
+                    "集结乐手，加大音量！",
+                    "音樂家齊聚，把音量調大！"
+                ],
+                "m_locId": 2873798
+            },
+            "m_longDescription": {
+                "m_locValues": [
+                    "E.T.C. has had enough of the Grimtotem rabble. Set aside your musical rivalries, complete quests to collect Event XP, earn rewards, and forge new legends on the stage!",
+                    "E.T.C. hat genug von dem Grimmtotem-Gesindel. Schiebt Eure musikalischen Rivalitäten beiseite, schließt Quests ab, um Event-EP zu sammeln, Belohnungen zu verdienen und schreibt Geschichte auf der Bühne!",
+                    "ETC se ha cansado de tanto Tótem Siniestro. Olvida vuestra rivalidad musical, completa misiones para conseguir PE de evento, gana recompensas y forja nuevas leyendas en el escenario.",
+                    "E.T.C. ya tuvo suficiente de las tonterías del Tótem Siniestro. ¡Deja a un lado tus rivalidades musicales y completa misiones para recolectar EXP de evento, ganar recompensas y forjar nuevas leyendas en el escenario!",
+                    "E.T.C. en a assez du vacarme des Totems-Sinistres. Laissez de côté vos rivalités musicales et accomplissez des quêtes pour gagner de l’EXP d’évènement et des récompenses. La nouvelle légende de la scène, ce sera vous !",
+                    "E.T.C. ne ha avuto abbastanza del caos del Totem Truce. Mettete da parte le vostre rivalità di musicisti, portate a termine le missioni per accumulare PE Evento, ottenere ricompense e dare vita a nuove leggende sul palco!",
+                    "E.T.C.は迷惑千万なグリムトーテムにしびれを切らしたようだ。ライバルのミュージシャンたちとは一時休戦。クエストを達成してイベントXPを稼ぎ、報酬を獲得して、ステージ上で新たな伝説を打ち立てよう！",
+                    "정예 타우렌 족장은 그림토템에 질렸습니다. 경쟁심은 잠깐 접어두고 퀘스트를 완료하여 이벤트 경험치와 보상을 받고 무대에서 새로운 전설을 써 내려가세요!",
+                    "E.T.C. ma już po uszy taureńskiej hołoty. Zapomnij o muzycznych podziałach, wykonuj zadania, by zbierać PD wydarzenia, zdobywaj nagrody i stwórz nowe legendy na scenie!",
+                    "O C.T.E. já cansou da ralé do Temível Totem. Deixem as rivalidades musicais de lado, concluam missões para coletar EXP de Evento, recebam recompensas e forjem novas lendas no palco!",
+                    "E.T.C. больше не желает терпеть выходки Зловещих Тотемов. Забудьте о музыкальных разногласиях, выполняйте задания, чтобы получать опыт события, зарабатывайте награды и становитесь легендами сцены!",
+                    "E.T.C. ทนเผ่ากริมโทเท็มจอมขัดคอมามากพอแล้ว ปล่อยวางความเป็นอริทางดนตรี ทำเควสต์ให้[b]สำเร็จเพื่อเก็บ XP_กิจกรรม รับรางวัล และสร้าง[b]ตำนานบทใหม่บนเวที!",
+                    "精英牛头人酋长受够了这群恐怖图腾杂碎。暂且放下流派间的纷争吧，完成任务，获取活动经验值，赢得奖励，打造全新的舞台传奇！",
+                    "精英牛頭大佬受夠來亂的恐怖圖騰暴民了。放下你們在音樂上的歧見，完成任務獲得活動經驗值、賺取獎勵，打造舞台全新傳奇！"
+                ],
+                "m_locId": 2873799
+            },
+            "m_chooseATrackPrompt": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            }
+        }
+    ]
+}

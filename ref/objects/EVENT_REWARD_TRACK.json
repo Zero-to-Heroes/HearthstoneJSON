@@ -1,0 +1,2060 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -3698767118057371234
+    },
+    "m_Name": "EVENT_REWARD_TRACK",
+    "Records": [
+        {
+            "m_ID": 0,
+            "m_specialEventId": 10,
+            "m_eventRewardTrackId": 57,
+            "m_choiceConfirmationText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_shortConclusion": {
+                "m_locValues": [
+                    "Greatness Never Fades...",
+                    "Größe verblasst nie_...",
+                    "La grandeza nunca se apaga...",
+                    "La grandeza nunca se desvanece...",
+                    "La grandeur ne disparaît jamais…",
+                    "La grandezza non svanisce...",
+                    "偉大さは決して色あせない…",
+                    "위대함은 사라지지 않습니다...",
+                    "Legendy nie przemijają…",
+                    "A grandeza nunca morre...",
+                    "Блеск величия не угаснет никогда...",
+                    "ความยิ่งใหญ่ไม่เคยจางหายไป...",
+                    "精彩，永不消逝……",
+                    "偉大永不消逝…"
+                ],
+                "m_locId": 2875508
+            },
+            "m_longConclusion": {
+                "m_locValues": [
+                    "This New Age lasts for a while longer, and the future holds more exciting TWISTS on our illustrious past.",
+                    "Dieses Neue Zeitalter dauert noch eine Weile: Die Zukunft knüpft an unsere glorreiche Vergangenheit an – mit einigen entscheidenden HAKEN.",
+                    "Esta nueva era va a durar bastante más, y el futuro nos tiene preparados más GIROS apasionantes respecto a nuestro ilustre pasado.",
+                    "Esta nueva era es más larga, y el futuro promete más turnos IMPREVISTOS en nuestro pasado ilustre.",
+                    "Cette nouvelle ère joue les prolongations tandis que l’avenir garde quelques évènements IMPRÉVUS en réserve.",
+                    "Questa nuova era durerà ancora un po' e il futuro ha in serbo altri elettrizzanti IMPREVISTI.",
+                    "新時代はまだしばらく続くが、次に待ち受けているのは俺たちの輝やかしい過去に“ひねり”を加えた「ツイスト」だ。",
+                    "이 신시대는 꽤 오래 지속될 것이며, 인상깊었던 과거에 변칙이 적용된 수많은 미래가 기다리고 있습니다.",
+                    "Nowa era jeszcze chwilę potrwa, a przyszłość będzie się PRZEPLATAĆ z naszą niezwykłą przeszłością.",
+                    "Esta Nova Era será mais longa, e o futuro reserva fatos IMPREVISÍVEIS emocionantes sobre nosso glorioso passado.",
+                    "Новый век продлится еще немного, а в будущем нас ждут новые увлекательные вариации нашего славного прошлого!",
+                    "ยุคใหม่ยุคนี้จะดำเนินต่อไปอีกสักระยะ และอดีตอัน[b]รุ่งโรจน์ของเราก็อาจหักมุมหวนกลับมาอย่างน่าตื่นเต้น[b]ในอนาคต",
+                    "新的时代仍在继续，而在未来，旧日的传奇还会有更多奇妙的幻变。",
+                    "這個新紀元還會持續一陣子，以後還會有更多輝煌的過去因為扭曲而再現。"
+                ],
+                "m_locId": 2875509
+            }
+        },
+        {
+            "m_ID": 0,
+            "m_specialEventId": 11,
+            "m_eventRewardTrackId": 58,
+            "m_choiceConfirmationText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_shortConclusion": {
+                "m_locValues": [
+                    "Happy Fire Festival!",
+                    "Frohes Sonnenwendfest!",
+                    "¡Feliz Festival del Fuego!",
+                    "¡Feliz Festival de Fuego!",
+                    "Joyeuse fête du Feu !",
+                    "Buon Festival del Fuoco!",
+                    "炎祭りを祝おう！",
+                    "즐거운 불꽃축제",
+                    "Świętujmy Festiwal Ognia!",
+                    "Feliz Festival do Fogo!",
+                    "Счастливого Огненного солнцеворота!",
+                    "สุขสันต์เทศกาลไฟ!",
+                    "火焰节快乐！",
+                    "火焰節快樂！"
+                ],
+                "m_locId": 2875513
+            },
+            "m_longConclusion": {
+                "m_locValues": [
+                    "The festivities may be over but a full season of HEAT awaits you in the Tavern!",
+                    "Die Feierlichkeiten mögen zwar vorbei sein, aber im Gasthaus erwartet Euch eine ganze Saison voller HITZE!",
+                    "La fiesta se habrá acabado, pero ¡te espera una temporada bien CALENTITA en la taberna!",
+                    "Puede que las festividades hayan terminado, ¡pero te espera toda una temporada de CALOR en la taberna!",
+                    "Les festivités sont peut-être terminées, mais ça continue de chauffer dans la taverne !",
+                    "Le feste saranno anche finite, ma una stagione a dir poco BOLLENTE ti aspetta alla Locanda!",
+                    "祭りはそろそろ終わりだが、アツいシーズンが酒場で待ってるぞ！",
+                    "축제는 끝났을지 몰라도 열기의 계절이 선술집에서 여러분을 기다리고 있습니다!",
+                    "Co prawda już po obchodach, ale w Karczmie czeka cię sezon pełen OGNIA!",
+                    "A festa pode ter acabado, mas uma temporada inteira de CALOR aguarda você na Taverna!",
+                    "Празднества закончились, но в таверне начинается новый жаркий сезон!",
+                    "งานฉลองอาจจบลงแล้ว แต่ความร้อนแรง[b]ทั้งฤดูกาลยังรอคุณอยู่ในโรงเตี๊ยม!",
+                    "节日虽已过去， 但旅店的里的火热远未停息！",
+                    "節慶或許結束了，但還有一整個賽季的火熱內容在旅店等著你！"
+                ],
+                "m_locId": 2875514
+            }
+        },
+        {
+            "m_ID": 0,
+            "m_specialEventId": 14,
+            "m_eventRewardTrackId": 60,
+            "m_choiceConfirmationText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_shortConclusion": {
+                "m_locValues": [
+                    "You've Proven Your Mettle!",
+                    "Ihr habt Euer Können unter Beweis gestellt!",
+                    "¡Has demostrado lo que vales!",
+                    "¡Demostraste tu valía!",
+                    "Vous avez prouvé votre valeur !",
+                    "Hai dimostrato il tuo coraggio!",
+                    "あんたは証を立てた！",
+                    "역경을 이겨내셨군요!",
+                    "Co za determinacja!",
+                    "Você provou o seu valor!",
+                    "Вы доказали свою силу!",
+                    "คุณพิสูจน์ความกล้าของตัวเองแล้ว!",
+                    "你证明了自己的斗志！",
+                    "你證明了你的實力！"
+                ],
+                "m_locId": 2877106
+            },
+            "m_longConclusion": {
+                "m_locValues": [
+                    "The Titans are satisified with your prowess and even greater arenas await you, champion! ",
+                    "Die Titanen sind mit Eurem Können zufrieden und noch größere Arenen erwarten Euch, Champion!",
+                    "¡Los titanes están satisfechos con tu destreza y ahora te aguardan arenas aún mayores, campeón!",
+                    "¡Los Titanes están satisfechos con tu progreso y te esperan batallas aún más grandes, campeón!",
+                    "Les Titans ont reconnu votre talent et des arènes encore plus prestigieuses vous attendent !",
+                    "I Titani sono soddisfatti del tuo coraggio e ci sono arene ancora più grandi che ti attendono, campione!",
+                    "あんたの力はタイタン達に認められた。さらに強大な闘技場があんたを待ってるぞ、チャンピオン！",
+                    "티탄은 여러분의 실력에 만족했습니다. 이제 더욱 큰 대결의 장을 만나 보세요!",
+                    "Tytani doceniają twoje umiejętności, czempionie, więc czekają na ciebie jeszcze wspanialsze areny! ",
+                    "Os Titãs ficaram satisfeitos com sua destreza. Arenas ainda maiores aguardam você!",
+                    "Титаны довольны вашими успехами. Впереди еще более славные арены испытаний!",
+                    "ผู้กล้า เหล่าไททันพอใจในความสามารถของคุณ และยังมีลานประลองที่ยิ่งใหญ่กว่านี้รอคุณอยู่!",
+                    "泰坦诸神认可了你的实力。更加广阔的竞技场还在前方等着你，勇士！",
+                    "勇士，泰坦對你的能力十分滿意，更具挑戰性的競技場在等著你！"
+                ],
+                "m_locId": 2877107
+            }
+        },
+        {
+            "m_ID": 0,
+            "m_specialEventId": 15,
+            "m_eventRewardTrackId": 61,
+            "m_choiceConfirmationText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_shortConclusion": {
+                "m_locValues": [
+                    "The Sands Settle Once More..",
+                    "Die Sande beruhigen sich aufs Neue_...",
+                    "Las arenas vuelven a cambiar...",
+                    "Las arenas se calman una vez más.",
+                    "Les sables s’immobilisent à nouveau.",
+                    "Le sabbie si posano ancora una volta...",
+                    "砂漠に再び静寂が降りる…",
+                    "모래가 다시 한 번 가라앉습니다...",
+                    "Piaski znów opadają…",
+                    "As Areias se Acalmam Novamente...",
+                    "Пески снова улеглись...",
+                    "ผืนทรายสงบนิ่งอีกครา",
+                    "流沙再度平息",
+                    "時間之沙再次停滯…"
+                ],
+                "m_locId": 2878518
+            },
+            "m_longConclusion": {
+                "m_locValues": [
+                    "The past reimagined, much like the future, has infinite possibilities...",
+                    "Die neu interpretierte Vergangenheit bietet, genau wie die Zukunft, unendliche Möglichkeiten_...",
+                    "El pasado vuelto a imaginar, al igual que el futuro, tiene infinitas posibilidades...",
+                    "Así como el futuro, el pasado reinventado tiene posibilidades infinitas.",
+                    "Le passé revisité, tout comme l’avenir, contient des possibilités infinies…",
+                    "Il passato reimmaginato, come il futuro, ha infinite possibilità...",
+                    "再構築された過去は、未来と同様に、無限の可能性を秘めている…",
+                    "재창조된 과거는 미래와 마찬가지로 무한한 가능성을 품고 있습니다...",
+                    "Podobnie jak przyszłość, odmieniona przeszłość oznacza nieskończone możliwości…",
+                    "O passado reimaginado, assim como o futuro, guarda infinitas possibilidades...",
+                    "Измененное прошлое, как и будущее, сулит бесконечные возможности...",
+                    "อดีตในฉากทัศน์ใหม่ก็เช่นเดียวกับอนาคต ต่างก็มีความเป็นไปได้ไม่สิ้นสุด...",
+                    "旧日重演，恰似未来，拥有着无限的可能……",
+                    "重新構想過去，猶如未來一般，有著無限的可能…"
+                ],
+                "m_locId": 2878519
+            }
+        },
+        {
+            "m_ID": 0,
+            "m_specialEventId": 16,
+            "m_eventRewardTrackId": 63,
+            "m_choiceConfirmationText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_shortConclusion": {
+                "m_locValues": [
+                    "In Madness, Reunited!",
+                    "Im Wahnsinn wieder vereint!",
+                    "¡En la locura nos reencontramos!",
+                    "¡Reunión de locura!",
+                    "Que la folie nous réunisse !",
+                    "Riuniti, nella follia!",
+                    "狂気の山脈にて狂喜の再会！",
+                    "광기 아래에서 재회하리니!",
+                    "Jedność w szaleństwie!",
+                    "Unidos na Loucura!",
+                    "Воссоединение в безумии",
+                    "กลับมารวมตัว อย่างบ้าคลั่ง!",
+                    "疯狂之中，再度集结！",
+                    "在瘋狂之中，重新聚首！"
+                ],
+                "m_locId": 2880003
+            },
+            "m_longConclusion": {
+                "m_locValues": [
+                    "This won't be the last time that Yogg-Saron is in the slammer, but for now chaos reigns!",
+                    "Dies wird nicht das letzte Mal sein, dass Yogg-Saron im Bau ist, aber vorerst herrscht Chaos!",
+                    "Esta no será la última vez que Yogg-Saron esté enchironado, pero ¡ahora mismo lo que reina es el caos!",
+                    "¡Esta no será la última vez que Yogg-Saron esté en la cárcel, pero por ahora reina el caos!",
+                    "Ce ne sera pas la dernière fois que Yogg-Saron se retrouve au trou, mais pour l’instant, le chaos règne !",
+                    "Questa non sarà l'ultima volta che Yogg-Saron si trova in cella, ma per il momento regna il caos!",
+                    "この先ヨグ＝サロンがまたム所にぶち込まれることもあるだろうが、今のところは混沌の勝利だ！",
+                    "분명 다음에도 요그사론은 갇히겠지만, 지금은 혼돈이 지배하고 있습니다!",
+                    "To nie ostatni raz, gdy zobaczymy Yogg-Sarona w mamrze, ale na razie panuje chaos!",
+                    "Não será a última vez que Yogg-Saron estará na prisão, mas por enquanto o caos vai reinar!",
+                    "Скоро Йогг-Сарон снова окажется за решеткой, но пока что в игре воцарился хаос!",
+                    "นี่จะไม่ใช่ครั้งสุดท้ายที่[b]ย็อกก์-ซารอน[b]ถูก[b]คุมขัง แต่[b]ตอนนี้[b]คือ[b]เวลา[b]ของ[b]ความ[b]โกลาหล!",
+                    "尤格-萨隆被投入了牢笼，但这不会是最后一次！混乱仍然统治着这里！",
+                    "這不會是尤格薩倫最後一次被關起來，但現在是混沌主宰一切！"
+                ],
+                "m_locId": 2880004
+            }
+        },
+        {
+            "m_ID": 0,
+            "m_specialEventId": 17,
+            "m_eventRewardTrackId": 65,
+            "m_choiceConfirmationText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_shortConclusion": {
+                "m_locValues": [
+                    "Happy Hallow's End",
+                    "Gruselige Schlotternächte!",
+                    "Feliz Halloween",
+                    "Feliz Halloween",
+                    "Joyeuse Sanssaint !",
+                    "Buona Veglia delle Ombre",
+                    "ハッピー・ハロウェンド",
+                    "즐거운 할로윈 축제",
+                    "Szczęśliwych Zaduszników",
+                    "Feliz Noturnália",
+                    "Счастливого Тыквовина!",
+                    "สุขสันต์ฮอลโลว์สเอนด์",
+                    "万圣节快乐",
+                    "萬鬼節快樂！"
+                ],
+                "m_locId": 2882783
+            },
+            "m_longConclusion": {
+                "m_locValues": [
+                    "In restless grave the Horseman's soul resides, no longer free to haunt this lawless land.\n\nIdle long the year but beware:\nHe'll rise again, death's reins in hand!",
+                    "Im ruhelosen Grab ruht die Seele des Reiters, nicht mehr frei, dieses gesetzlose Land heimzusuchen.\n\nDas Jahr lang untätig, aber Vorsicht:\nEr wird wieder auferstehen, die Zügel des Todes in der Hand!",
+                    "En inquieta sepultura del jinete yace el alma; su condena, la más dura: dejar esta tierra en calma.\n\nTodo quedará resuelto siempre que su hábito entiendas:\n¡tras un año él habrá vuelto con la muerte entre sus riendas!",
+                    "El alma del Jinete habita en una tumba sin descanso, no tiene libertad para atormentar esta tierra sin leyes.\n\nSe mantiene inactivo durante el año, pero ten cuidado:\n¡se alzará de nuevo con las riendas de la muerte en la mano!",
+                    "Profanez le tombeau du cavalier damné,\nSon fidèle destrier reviendra au galop.\n\nLa légende réveillée narguera les badeaux\nPour brûler leurs hameaux, leurs closeaux, leurs foyers.",
+                    "L'anima del Cavaliere giace inquieta nella tomba, privata della libertà di infestare questa terra di fuorilegge.\n\nMa non farti ingannare dal suo eterno riposo:\ntornerà, con in mano le redini della morte!",
+                    "首なし騎士の魂は 安らぎなしの墓の中\n自由に無法の地を駆けて かけた呪いも消え去った\n\nひととせ続くこの暇 されど努々忘れるな\n再び握る死の手綱 いずれもたらす狂の沙汰！",
+                    "저주받은 기사의 영혼은 무덤에서 편히 잠들지 못합니다. 이 무법 지대를 더는 자유로이 누빌 수 없지요.\n\n올해는 무사히 넘겼지만, 조심하세요.\n죽음의 고삐를 쥐고 다시 돌아올 테니까요!",
+                    "Więzionej w niespokojnym grobie duszy Jeźdźca pozostaje li tylko czekanie.\n\nOd lat ni widu jej, ni słychu, lecz baczcie:\nkiedyś powstanie… i spuści wam lanie!",
+                    "A alma do Cavaleiro habita a tumba inquieta, sem poder assombrar esta terra sem lei.\n\nRelaxe durante o ano, mas cuidado:\nEle voltará de novo com as rédeas da morte em mãos!",
+                    "Всадник в своей неглубокой могиле ждет наступления темных времен.\n\nГод пролетит, и отверстия в тыкве\nВновь загорятся недобрым огнем!",
+                    "สุสานสยองกักวิญญาณทหารม้า\nหมดปัญญาหลอนแดนเถื่อนดั่งใจหวัง\nแม้นอนนิ่งเนิ่นนานจงระวัง\nเขาจะกลับมาอีกครั้งพร้อมความตาย!",
+                    "无头骑士，再度安息。这片荒地，重现生机。\n\n风波虽平，仍需铭记：\n有朝一日，他将再起！",
+                    "騎士的靈魂沉眠於墓穴之中，無法在法外之地作祟。\n\n他會沉寂一整年，但別放下戒備：\n他將再次甦醒，騎著死亡戰騎回歸！"
+                ],
+                "m_locId": 2882784
+            }
+        },
+        {
+            "m_ID": 0,
+            "m_specialEventId": 18,
+            "m_eventRewardTrackId": 67,
+            "m_choiceConfirmationText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_shortConclusion": {
+                "m_locValues": [
+                    "A New Sheriff in these Parts...",
+                    "Ein neuer Sheriff in diesem Gebiet_...",
+                    "Hay un nuevo sheriff en este lugar...",
+                    "Hay un alguacil nuevo por estos lares...",
+                    "La loi, c’est vous !",
+                    "Un nuovo sceriffo da queste parti...",
+                    "ここらの新しい保安官…",
+                    "새로운 보안관의 등장...",
+                    "W okolicy jest nowy szeryf...",
+                    "Um novo xerife por essas bandas...",
+                    "В этих краях появился новый шериф...",
+                    "แถบนี้มีนายอำเภอคนใหม่แล้ว...",
+                    "又一位新警官……",
+                    "這地方有新警長上任..."
+                ],
+                "m_locId": 2885014
+            },
+            "m_longConclusion": {
+                "m_locValues": [
+                    "Whether you intend to be a law-bringer or a scoundrel has yet to be seen!",
+                    "Ob Ihr beabsichtigt, ein Gesetzeshüter, oder ein Gauner zu sein, bleibt abzuwarten!",
+                    "¡Habrá que ver si pretendes imponer la ley o eres una sabandija!",
+                    "¡Aún está por verse si planeas imponer la ley o si eres canalla!",
+                    "Shérif intègre ou terreur des terres Ingrates ? À vous de voir ce que vous allez être !",
+                    "Non è ancora chiaro se sarai un tutore della legge o una canaglia!",
+                    "さて、あんたは法の番人になるのかい？それとも大悪党かな！",
+                    "당신이 정말 법을 집행하려 하는지, 악당이 되려 하는지는 두고 봐야겠죠!",
+                    "Dopiero się okaże, czy będziesz egzekwować prawo czy też okażesz się prawdziwym szubrawcem!",
+                    "Mas se você pretende ser alguém que mantém a lei ou agir feito um patife, aí é que vamos ver!",
+                    "Посмотрим, будете ли вы блюсти закон или творить беззаконие.",
+                    "คุณจะทำตัวเป็นผู้รักษากฎหมายหรือเป็นคนโฉดเสียเอง ต้องมาดูกันต่อไป!",
+                    "你会选择匡扶秩序，还是横行作恶？都看你的了！",
+                    "無論你是打算成為執法者，還是要當個惡棍，一切都還很難說！"
+                ],
+                "m_locId": 2885015
+            }
+        },
+        {
+            "m_ID": 0,
+            "m_specialEventId": 19,
+            "m_eventRewardTrackId": 69,
+            "m_choiceConfirmationText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_shortConclusion": {
+                "m_locValues": [
+                    "Happy Winter Veil!",
+                    "Frohes Winterhauchfest!",
+                    "¡Feliz Festival de Invierno!",
+                    "¡Feliz Festival de Invierno!",
+                    "Joyeux Voile d’hiver !",
+                    "Buon Grande Inverno!",
+                    "冬至祭おめでとう！",
+                    "즐거운 겨울맞이 축제입니다!",
+                    "Szczęśliwej Zimowej Uczty!",
+                    "Feliz Véu de Inverno!",
+                    "Счастливого Зимнего Покрова!",
+                    "สุขสันต์วินเทอร์เวล!",
+                    "冬幕节快乐！",
+                    "冬幕節快樂！"
+                ],
+                "m_locId": 2887388
+            },
+            "m_longConclusion": {
+                "m_locValues": [
+                    "Although the winter is long and dreary, joyful games and the warmth of camaradarie shall see us through the coming season!",
+                    "Obschon der Winter lang und finster ist, werden uns vergnügliche Spielereien und die Wärme kameradschaftlicher Nähe durch die kommende Saison geleiten!",
+                    "Aunque el invierno es un tedio interminable, ¡jugar con alegría y sentir el calor de nuestros camaradas nos ayudará a pasar la temporada que se avecina!",
+                    "A pesar de que el invierno es largo y deprimente, ¡los divertidos juegos y la calidez de la camaradería harán que la siguiente temporada sea más amena!",
+                    "Même si l’hiver peut sembler morose, les parties disputées dans la joie et la franche camaraderie nous aideront à surmonter la saison !",
+                    "Sebbene l'inverno sia lungo e buio, i giochi in compagnia e il calore del cameratismo ci faranno superare la stagione in arrivo!",
+                    "冬は長く寂しいものだが、楽しくゲームをする温かい仲間たちがいれば、これからの季節を乗り切っていけるさ！",
+                    "비록 겨울은 길고 쓸쓸하지만, 즐거운 놀이와 따뜻한 정으로 이겨낼 수 있을 겁니다!",
+                    "Zima bywa długa i posępna, ale z radosnymi grami i cieplutką atmosferą przetrwamy tę zbliżającą się porę roku!",
+                    "Mesmo que o inverno seja longo e melancólico, jogos divertidos e o calor da companhia de nossos amigos nos ajudarão a passar a estação!",
+                    "Веселые игры и дружеское тепло разгонят тоску долгой зимой!",
+                    "ฤดูหนาวอาจยาวนานชวนหดหู่ แต่เกมแสนสนุกและมิตรภาพอันอบอุ่นจะอยู่เคียงข้างเราจนถึงฤดูถัดไป!",
+                    "虽说寒冬阴郁漫长，但好在还有欢乐的游戏和温暖的情谊陪伴着我们，走向新的季节！",
+                    "儘管冬天又長又沉悶，但是歡樂的賽局及溫暖的友情會陪伴我們度過這個季節！"
+                ],
+                "m_locId": 2887389
+            }
+        },
+        {
+            "m_ID": 0,
+            "m_specialEventId": 2,
+            "m_eventRewardTrackId": 47,
+            "m_choiceConfirmationText": {
+                "m_locValues": [
+                    "Lose yourself to the best of Paladin, Priest, Mage, and Rogue!\nCommit to this concert?",
+                    "Verliert Euch in den besten Hits von Paladin, Priester, Magier und Schurke!\nAuf dieses Konzert festlegen?",
+                    "¡Déjate llevar con lo mejor del paladín, sacerdote, mago y pícaro!\n¿Asistes a este concierto?",
+                    "¡Piérdete en la música con lo mejor del Paladín, Sacerdote, Mago y Pícaro!\n¿Quieres participar en este concierto?",
+                    "Laissez-vous emporter par le top des paladins, prêtres, mages et voleurs !\nParticiper à ce concert ?",
+                    "Lasciati andare con il meglio di Paladini, Sacerdoti, Maghi e Ladri!\nVuoi impegnarti con questo concerto?",
+                    "パラディン、プリースト、メイジ、ローグのトップがあんたを夢中にさせるぞ！\nこのコンサートに専念するか？",
+                    "최고의 성기사, 사제, 마법사, 도적의 매력에 푹 빠져 보세요!\n콘서트를 즐길 준비는 되셨나요?",
+                    "Daj się porwać najlepszym paladynom, kapłanom, magom i łotrom!\nChcesz wziąć udział w tym koncercie?",
+                    "Se jogue no melhor das classes Paladino, Sacerdote, Mago e Ladino!\nEntrar neste show?",
+                    "Оттянитесь под лучшие хиты паладина, жреца, мага и разбойника!\nВыбрать этот концерт?",
+                    "เต้นลืมโลกไปกับสุดยอดศิลปินจาก[b]พาลาดิน พรีสต์ เมจ และโร้ก!\nเลือกคอนเสิร์ตนี้หรือไม่",
+                    "流连在圣骑士，牧师，法师和潜行者的音乐中！\n要选择这一场吗？",
+                    "沉浸在聖騎士、牧師、法師和盜賊的迷人演出之中吧！\n要參加這場演唱會嗎？"
+                ],
+                "m_locId": 2869225
+            },
+            "m_shortConclusion": {
+                "m_locValues": [
+                    "The shows over but the Festival of Legends is just beginning!",
+                    "Die Show ist vorbei, aber das Festival der Legenden fängt gerade erst an!",
+                    "El espectáculo ha terminado, ¡pero el Festival Legendario solo acaba de empezar!",
+                    "¡El espectáculo ha terminado, pero el Festival de Leyendas recién está comenzando!",
+                    "Le spectacle est terminé, mais la fête des légendes ne fait que commencer !",
+                    "Gli spettacoli sono finiti ma il Festival delle Leggende è appena cominciato!",
+                    "このショーは終わったが、伝説の祭典は始まったばかりだ。集え！レジェンド・フェスへ！",
+                    "공연은 끝났지만, 전설노래자랑은 이제 막 시작됐을 뿐입니다!",
+                    "Koncerty się skończyły, ale Festiwal Legend dopiero się zaczyna!",
+                    "O show acabou, mas o Festival das Lendas está só começando!",
+                    "Представление окончено, но «Фестиваль легенд» только начинается!",
+                    "โชว์จบแล้ว แต่เฟสติวัลออฟเลเจนด์ส[b]เพิ่งเริ่มต้น!",
+                    "这场演出结束了，但传奇音乐节才刚刚开始！",
+                    "雖然表演結束了，但是傳說音樂祭才正要開始！"
+                ],
+                "m_locId": 2869219
+            },
+            "m_longConclusion": {
+                "m_locValues": [
+                    "Disco Paladins, Pop-Priests, Dance Hall Mages, and Hip-hop Rogues! The Festival of Legends is almost here and these artists and MORE will be back to take the stage in Thousand Needles.",
+                    "Disco-Paladine, Pop-Priester, Dancehall-Magier und Hip-Hop-Schurken! Das Festival der Legenden steht vor der Tür und diese Künstler und MEHR kehren zurück, um in Tausend Nadeln die Bühne zu stürmen.",
+                    "¡Paladines disco, sacerdotes pop, magos tecno y pícaros hip-hop! El Festival Legendario está a punto de empezar y estos artistas (y muchos más) volverán a subirse al escenario en Las Mil Agujas.",
+                    "¡Paladines del pop, Sacerdotes salseros, Magos metaleros y Pícaros punk! El Festival de Leyendas ya casi está aquí y estos artistas y MÁS volverán para conquistar el escenario en Mil Agujas.",
+                    "Paladins disco, prêtres pop, mages dancehall et voleurs hip-hop ! La fête des légendes est bientôt là, ces artistes et D’AUTRES ENCORE vont remonter sur scène dans les Mille pointes.",
+                    "Paladini da discoteca, Sacerdoti pop, Maghi alla console e Ladri da hip-hop! Il Festival delle Leggende sta per arrivare e questi artisti e MOLTI ALTRI torneranno sul palco a Millepicchi.",
+                    "ディスコ・パラディン、ポップ・プリースト、ダンスホール・メイジ、ヒップホップ・ローグ！これらのアーティスト達も出演する伝説のステージが、もうすぐサウザンドニードルズで始まるぞ。みんなで集え！レジェンド・フェス！",
+                    "디스코 성기사, 팝 사제, 댄스 무대 마법사, 힙합 도적까지! 전설노래자랑이 얼마 남지 않았습니다. 이들을 비롯한 수많은 아티스트가 머지않아 버섯구름 봉우리의 무대에 오를 예정이랍니다!",
+                    "Diskopaladyni, kapłani popu, dancehallowi magowie i hip-hopowi łotrzy! Festiwal Legend jest tuż, tuż, a ci i INNI artyści powrócą, by stanąć na scenie w Tysiącu Filarów.",
+                    "Paladino da Disco, Sacerdotes do Pop, Magos da Dança e Ladinos do Hip-Hop! O Festival das Lendas já vai começar, e esses e OUTROS artistas voltarão para o palco em Mil Agulhas.",
+                    "Паладины в стиле диско, поп-жрецы, маги танцпола и разбойники из мира хип-хопа! «Фестиваль легенд» начнется совсем скоро, и эти и другие исполнители вновь будут выступать на сцене в Тысяче Игл.",
+                    "พาลาดินดิสโก้ พรีสต์เพลงป๊อป เมจเพลงแดนซ์ และโร้กฮิปฮอป! เฟสติวัลออฟเลเจนด์สใกล้เริ่มแล้ว ศิลปินเหล่านี้และอีกหลายวงจะหวนกลับมาขึ้นเวที[b]ที่เทาซันด์นีดเดิลส์",
+                    "圣骑士代表迪斯科，牧师代表流行乐，法师代表舞曲，而潜行者代表嘻哈！传奇音乐节即将开启，这些艺人会和其他人一起返场，登上千针石林的舞台。",
+                    "迪斯可聖騎士、流行音樂牧師、舞曲法師，還有嘻哈盜賊！傳說音樂祭就要來了，除了這些表演者外，還有其他神秘嘉賓，群星即將回歸舞台，在千針石林賣力開唱！"
+                ],
+                "m_locId": 2869220
+            }
+        },
+        {
+            "m_ID": 0,
+            "m_specialEventId": 2,
+            "m_eventRewardTrackId": 48,
+            "m_choiceConfirmationText": {
+                "m_locValues": [
+                    "Be moved by the best of Druid, Shaman, and Warlock!\nCommit to this concert?",
+                    "Lasst Euch von den besten Hits von Druide, Schamane und Hexenmeister mitreißen!\nAuf dieses Konzert festlegen?",
+                    "¡Conmuévete con lo mejor del druida, chamán y brujo!\n¿Asistes a este concierto?",
+                    "¡Mueve las caderas con lo mejor del Druida, Chamán y Brujo!\n¿Quieres participar en este concierto?",
+                    "Vibrez avec le top des druides, chamans et démonistes !\nParticiper à ce concert ?",
+                    "Fatti emozionare dal meglio di Druidi, Sciamani e Stregoni!\nVuoi impegnarti con questo concerto?",
+                    "ドルイド、シャーマン、ウォーロックの最高峰が奏でる感動の調べ！\nこのコンサートに専念するか？",
+                    "최고의 드루이드, 주술사, 흑마법사가 선사하는 감동을 만끽하세요!\n콘서트를 즐길 준비는 되셨나요?",
+                    "Daj się rozruszać najlepszym druidom, szamanom i czarnoksiężnikom!\nChcesz wziąć udział w tym koncercie?",
+                    "Se emocione com o melhor das classes Druida, Xamã e Bruxo!\nEntrar neste show?",
+                    "Проникнитесь лучшими композициями друида, шамана и чернокнижника!\nВыбрать этот концерт?",
+                    "เข้าถึงอารมณ์กับสุดยอดศิลปินจาก[b]ดรูอิด ชาแมน และวอร์ล็อค!\nเลือกคอนเสิร์ตนี้หรือไม่",
+                    "与德鲁伊，萨满祭司和术士一起为音乐动容！\n要选择这一场吗？",
+                    "讓德魯伊、薩滿和術士的動人表演打動你的心弦！\n要參加這場演唱會嗎？"
+                ],
+                "m_locId": 2869226
+            },
+            "m_shortConclusion": {
+                "m_locValues": [
+                    "The shows over but the Festival of Legends is just beginning!",
+                    "Die Show ist vorbei, aber das Festival der Legenden fängt gerade erst an!",
+                    "El espectáculo ha terminado, ¡pero el Festival Legendario solo acaba de empezar!",
+                    "¡El espectáculo ha terminado, pero el Festival de Leyendas recién está comenzando!",
+                    "Le spectacle est terminé, mais la fête des légendes ne fait que commencer !",
+                    "Gli spettacoli sono finiti ma il Festival delle Leggende è appena cominciato!",
+                    "このショーは終わったが、伝説の祭典は始まったばかりだ。集え！レジェンド・フェスへ！",
+                    "공연은 끝났지만, 전설노래자랑은 이제 막 시작됐을 뿐입니다!",
+                    "Koncerty się skończyły, ale Festiwal Legend dopiero się zaczyna!",
+                    "O show acabou, mas o Festival das Lendas está só começando!",
+                    "Представление окончено, но «Фестиваль легенд» только начинается!",
+                    "โชว์จบแล้ว แต่เฟสติวัลออฟเลเจนด์ส[b]เพิ่งเริ่มต้น!",
+                    "这场演出结束了，但传奇音乐节才刚刚开始！",
+                    "雖然表演結束了，但是傳說音樂祭才正要開始！"
+                ],
+                "m_locId": 2869221
+            },
+            "m_longConclusion": {
+                "m_locValues": [
+                    "Groovy Funk Druids, Jazzy Shamans, and Operatic Warlocks! The Festival of Legends is almost here and these artists and MORE will be back to take the stage in Thousand Needles.",
+                    "Groovy Funk-Druiden, Jazz-Schamanen und Opern-Hexenmeister! Das Festival der Legenden steht vor der Tür und diese Künstler und MEHR kehren zurück, um in Tausend Nadeln die Bühne zu stürmen.",
+                    "¡Druidas funki, chamanes del jazz y brujos de la ópera! El Festival Legendario está a punto de empezar y estos artistas (y muchos más) volverán a subirse al escenario en Las Mil Agujas.",
+                    "¡Druidas danzantes, Chamanes del chamamé y Brujos del britpop! El Festival de Leyendas ya casi está aquí y estos artistas y MÁS volverán para conquistar el escenario en Mil Agujas.",
+                    "Druides groovy funk, chamans jazzy et démonistes d’opéra ! La fête des légendes est bientôt là, ces artistes et D’AUTRES ENCORE vont remonter sur scène dans les Mille pointes.",
+                    "Druidi funky, Sciamani appassionati di jazz e Stregoni amanti dell'opera! Il Festival delle Leggende sta per arrivare e questi artisti e MOLTI ALTRI torneranno sul palco a Millepicchi.",
+                    "グルーヴィーファンク・ドルイド、ジャズ・シャーマン、オペラティック・ウォーロック！これらのアーティスト達も出演する伝説のステージが、もうすぐサウザンドニードルズで始まるぞ。みんなで集え！レジェンド・フェス！",
+                    "펑크 드루이드, 재즈 주술사, 오페라 흑마법사까지! 전설노래자랑이 얼마 남지 않았습니다. 이들을 비롯한 수많은 아티스트가 버섯구름 봉우리의 무대에 오를 예정이랍니다!",
+                    "Funkowi druidzi, jazzowi szamani i operowi czarnoksiężnicy! Festiwal Legend jest tuż, tuż, a ci i INNI artyści powrócą, by stanąć na scenie w Tysiącu Filarów.",
+                    "Druidas do Groove, Xamãs do Jazz e Bruxos da Ópera! O Festival das Lendas já vai começar, e esses e OUTROS artistas voltarão para o palco em Mil Agulhas.",
+                    "Душевные друиды, обожающие фанк, шаманы-джазмены и оперные чернокнижники! «Фестиваль легенд» начнется совсем скоро, и эти и другие исполнители вновь будут выступать на сцене в Тысяче Игл.",
+                    "ดรูอิดเพลงฟังก์ชวนโยก ชาแมนเพลงแจ๊ส และวอร์ล็อคโอเปร่า! เฟสติวัลออฟเลเจนด์ส[b]ใกล้เริ่มแล้ว ศิลปินเหล่านี้และอีกหลายวง[b]จะหวนกลับมาขึ้นเวทีที่เทาซันด์นีดเดิลส์",
+                    "德鲁伊代表放克音乐，萨满祭司代表爵士乐，而史诗代表管弦乐！传奇音乐节即将开启，这些艺人会和其他人一起返场，登上千针石林的舞台。",
+                    "節奏放克德魯伊、爵士薩滿，還有歌劇術士！傳說音樂祭就要來了，除了這些表演者外，還有其他神秘嘉賓，群星即將回歸舞台，在千針石林賣力開唱！"
+                ],
+                "m_locId": 2869222
+            }
+        },
+        {
+            "m_ID": 0,
+            "m_specialEventId": 2,
+            "m_eventRewardTrackId": 49,
+            "m_choiceConfirmationText": {
+                "m_locValues": [
+                    "Rock out to the best of Death Knight, Demon Hunter, Hunter, and Warrior!\nCommit to this concert?",
+                    "Rockt ab zu den besten Hits von Todesritter, Dämonenjäger, Jäger und Krieger!\nAuf dieses Konzert festlegen?",
+                    "¡Roquea con lo mejor del caballero de la Muerte, cazador de demonios, cazador y guerrero!\n¿Asistes a este concierto?",
+                    "¡Rockea con lo mejor del Caballero de la muerte, Cazador de demonios, Cazador y Guerrero!\n¿Quieres participar en este concierto?",
+                    "Déchaînez-vous avec le top des chevaliers de la mort, chasseurs de démons, chasseurs et guerriers !\nParticiper à ce concert ?",
+                    "Scatenati con il meglio del rock di Cavalieri della Morte, Cacciatori di Demoni, Cacciatori e Guerrieri!\nVuoi impegnarti con questo concerto?",
+                    "デスナイト、デーモンハンター、ハンター、ウォリアーのベストヒットでロックアウトしよう！\nこのコンサートに専念するか？",
+                    "최고의 죽음의 기사, 악마사냥꾼, 사냥꾼, 전사가 선사하는 록을 만끽하세요!\n콘서트를 즐길 준비는 되셨나요?",
+                    "Daj czadu z najlepszymi rycerzami śmierci, łowcami demonów, łowcami i wojownikami!\nChcesz wziąć udział w tym koncercie?",
+                    "Venha bater cabeça com o melhor das classes Cavaleiro da Morte, Caçador de Demônios, Caçador e Guerreiro!\nEntrar neste show?",
+                    "Зажигайте с лучшими исполнителями из числа рыцарей смерти, охотников на демонов, охотников и воинов!\nВыбрать этот концерт?",
+                    "ร็อคสุดใจไปกับสุดยอดศิลปินจาก[b]เดธไนท์ ดีมอนฮันเตอร์ ฮันเตอร์ และวอริเออร์!\nเลือกคอนเสิร์ตนี้หรือไม่",
+                    "和死亡骑士，恶魔猎手，猎人和战士一起摇滚！\n要选择这一场吗？",
+                    "死亡騎士、惡魔獵人、獵人和戰士會全力放送搖滾精神！\n要參加這場演唱會嗎？"
+                ],
+                "m_locId": 2869227
+            },
+            "m_shortConclusion": {
+                "m_locValues": [
+                    "The shows over but the Festival of Legends is just beginning!",
+                    "Die Show ist vorbei, aber das Festival der Legenden fängt gerade erst an!",
+                    "El espectáculo ha terminado, ¡pero el Festival Legendario solo acaba de empezar!",
+                    "¡El espectáculo ha terminado, pero el Festival de Leyendas recién está comenzando!",
+                    "Le spectacle est terminé, mais la fête des légendes ne fait que commencer !",
+                    "Gli spettacoli sono finiti ma il Festival delle Leggende è appena cominciato!",
+                    "このショーは終わったが、伝説の祭典は始まったばかりだ。集え！レジェンド・フェスへ！",
+                    "공연은 끝났지만, 전설노래자랑은 이제 막 시작됐을 뿐입니다!",
+                    "Koncerty się skończyły, ale Festiwal Legend dopiero się zaczyna!",
+                    "O show acabou, mas o Festival das Lendas está só começando!",
+                    "Представление окончено, но «Фестиваль легенд» только начинается!",
+                    "โชว์จบแล้ว แต่เฟสติวัลออฟเลเจนด์ส[b]เพิ่งเริ่มต้น!",
+                    "这场演出结束了，但传奇音乐节才刚刚开始！",
+                    "雖然表演結束了，但是傳說音樂祭才正要開始！"
+                ],
+                "m_locId": 2869223
+            },
+            "m_longConclusion": {
+                "m_locValues": [
+                    "Deathmetal Death Knights, Emo Demon Hunters, Rockabilly Hunters, and Warriors of Classic Rock! The Festival of Legends is almost here and these artists and MORE will be back to take the stage in Thousand Needles.",
+                    "Death Metal-Todesritter, Emo-Dämonenjäger, Rockabilly-Jäger und Krieger des Classic Rock! Das Festival der Legenden steht vor der Tür und diese Künstler und MEHR kehren zurück, um in Tausend Nadeln die Bühne zu stürmen.",
+                    "¡Caballeros de la Muerte metaleros, cazadores de demonios emo y guerreros del rock clásico! El Festival Legendario está a punto de empezar y estos artistas (y muchos más) volverán a subirse al escenario en Las Mil Agujas.",
+                    "¡Caballeros de la muerte de death metal, Cazadores de demonios candomberos, Cazadores de la cumbia y Guerreros del grunge! El Festival de Leyendas ya casi está aquí y estos artistas y MÁS volverán para conquistar el escenario en Mil Agujas.",
+                    "Chevaliers de la mort death metal, chasseurs de démons emo, chasseurs rockabilly et guerriers rock’n’roll ! La fête des légendes est bientôt là, ces artistes et D’AUTRES ENCORE vont remonter sur scène dans les Mille pointes.",
+                    "Cavalieri della Morte metallari, Cacciatori di Demoni emo, Cacciatori rockettari country e Guerrieri puristi del rock! Il Festival delle Leggende sta per arrivare e questi artisti e MOLTI ALTRI torneranno sul palco a Millepicchi.",
+                    "デスメタル・デスナイト、エモ・デーモンハンター、ロカビリー・ハンター、クラシックロック・ウォリアー！これらのアーティスト達も出演する伝説のステージが、もうすぐサウザンドニードルズで始まるぞ。みんなで集え！レジェンド・フェス！",
+                    "데스 메탈 죽음의 기사, 이모 악마사냥꾼, 록 스타 사냥꾼, 클래식 록의 전사까지! 전설노래자랑이 얼마 남지 않았습니다. 이들을 비롯한 수많은 아티스트가 버섯구름 봉우리의 무대에 오를 예정이랍니다!",
+                    "Deathmetalowi rycerze śmierci, emo łowcy demonów, łowcy rock and rolla i wojownicy klasycznego rocka! Festiwal Legend jest tuż, tuż, a ci i INNI artyści powrócą, by stanąć na scenie w Tysiącu Filarów.",
+                    "Cavaleiros da Morte do Metal, Caçadores de Demônios Emo, Caçadores Rockabilly e Guerreiros do Rock Clássico! O Festival das Lendas já vai começar, e esses e OUTROS artistas voltarão para o palco em Mil Agulhas.",
+                    "Рыцари смерти, играющие дэт-метал, эмо-охотники на демонов, рокабилли-охотники и воины классики рока! «Фестиваль легенд» начнется совсем скоро, и эти и другие исполнители вновь будут выступать на сцене в Тысяче Игл.",
+                    "เดธไนท์เดธเมทัล ดีมอนฮันเตอร์อีโม ฮันเตอร์ร็อคอะบิลลี่ และวอริเออร์เพลงร็อคคลาสสิค! เฟสติวัลออฟเลเจนด์ส[b]ใกล้เริ่มแล้ว ศิลปินเหล่านี้และอีกหลายวงจะหวนกลับมา[b]ขึ้นเวทีที่เทาซันด์นีดเดิลส์",
+                    "死亡骑士代表死亡金属，恶魔猎手代表情绪摇滚，猎人代表乡村摇滚，而战士代表经典摇滚！传奇音乐节即将开启，这些艺人会和其他人一起返场，登上千针石林的舞台。",
+                    "死亡金屬死亡騎士、情緒搖滾惡魔獵人、鄉村搖滾獵人，還有經典搖滾戰士！傳說音樂祭就要來了，除了這些表演者外，還有其他神秘嘉賓，群星即將回歸舞台，在千針石林賣力開唱！"
+                ],
+                "m_locId": 2869224
+            }
+        },
+        {
+            "m_ID": 0,
+            "m_specialEventId": 20,
+            "m_eventRewardTrackId": 72,
+            "m_choiceConfirmationText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_shortConclusion": {
+                "m_locValues": [
+                    "Happy Lunar New Year!",
+                    "Frohes neues Mondjahr!",
+                    "¡Feliz Año Nuevo lunar!",
+                    "¡Feliz Año Nuevo Lunar!",
+                    "Joyeuse fête lunaire !",
+                    "Buona Festa della Luna!",
+                    "旧正月おめでとう！",
+                    "새해 복 많이 받으세요!",
+                    "Dużo radości w Księżycowym Nowym Roku!",
+                    "Feliz Ano Novo Lunar!",
+                    "С Лунным Новым годом!",
+                    "สุขสันต์วันตรุษจีน!",
+                    "春节快乐",
+                    "歡喜過新年！"
+                ],
+                "m_locId": 2888949
+            },
+            "m_longConclusion": {
+                "m_locValues": [
+                    "The festivities are\nfar from over!\nA year of exciting celebrations await! ",
+                    "Der Spaß ist noch\nlange nicht vorbei!\nEuch erwartet ein Jahr voller aufregender Festlichkeiten!",
+                    "¡A estas fiestas\naún les queda mucha mecha!\n¡Un año de emocionantes celebraciones te aguarda!",
+                    "¡Las fiestas aún\nno terminan!\n¡Te espera un año de emocionantes celebraciones!",
+                    "Les festivités sont loin\nd’être terminées !\nUne année de réjouissances vous attend !",
+                    "Le feste non sono\nancora finite!\nCi attende un anno di emozionanti festeggiamenti!",
+                    "お祭りは\nまだまだ続くぞ！\n楽しいお祝いが目白押しの一年になるからな！",
+                    "축제 분위기가 잦아들려면\n아직 멀었습니다!\n한 해 동안 신나는 축제들이 기다립니다!",
+                    "Zabawa\njeszcze się nie skończyła!\nCzeka na ciebie rok pełen ekscytujących wydarzeń!",
+                    "As festividades estão\nbem longe de acabar!\nUm ano de comemorações empolgantes nos aguarda!",
+                    "Праздники еще \nне закончились!\nВас ждет целый год веселья!",
+                    "งานฉลอง\nยังไม่จบลงง่ายๆ!\nปีแห่งการเฉลิมฉลองอันน่าตื่นเต้นรออยู่!",
+                    "欢庆的日子远未结束！红红火火的一年就在前方等着你！",
+                    "歡樂節慶\n還沒結束！\n一整年的快樂慶典正等著你！"
+                ],
+                "m_locId": 2888950
+            }
+        },
+        {
+            "m_ID": 0,
+            "m_specialEventId": 21,
+            "m_eventRewardTrackId": 73,
+            "m_choiceConfirmationText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_shortConclusion": {
+                "m_locValues": [
+                    "Hearthstone 10 Year Anniversary",
+                    "Hearthstones 10. Jubiläum",
+                    "10.º aniversario de Hearthstone",
+                    "Hearthstone 10° aniversario",
+                    "10e anniversaire de Hearthstone",
+                    "10° anniversario di Hearthstone",
+                    "ハースストーン10周年記念",
+                    "하스스톤 10주년 기념",
+                    "10 rocznica Hearthstone",
+                    "Aniversário de 10 Anos do Hearthstone",
+                    "10-летие Hearthstone",
+                    "ฉลองครบรอบ 10 ปี Hearthstone",
+                    "炉石十周年",
+                    "爐石戰記10週年慶"
+                ],
+                "m_locId": 2891115
+            },
+            "m_longConclusion": {
+                "m_locValues": [
+                    "Ten amazing years here\nwith you in the Tavern!\nAnd many more to go!",
+                    "Zehn fantastische Jahre hier\nmit Euch im Gasthaus!\nUnd noch so viele weitere vor uns!",
+                    "¡Diez maravillosos años\ncontigo en la taberna!\n¡Y los que quedan!",
+                    "¡Celebramos diez maravillosos años\ncontigo en la Taberna!\n¡Y los que faltan!",
+                    "Dix années extraordinaires\npassées avec vous à l’auberge !\nEt tant d’autres à venir !",
+                    "Dieci fantastici anni\ninsieme a te nella Locanda!\nE ne abbiamo davanti altrettanti!",
+                    "みんなと酒場で過ごして\nなんと10年だ！\nこれからもまだまた続くぞ！",
+                    "선술집에서 함께 나눈 즐거운 시간이\n10년이 되었습니다!\n앞으로도 오래오래 함께해 주세요!",
+                    "Mamy za sobą dziesięć\ncudownych wspólnych lat w Karczmie!\nA przed nami o wiele więcej!",
+                    "Já se passaram dez anos incríveis\ncom você aqui na Taverna!\nE que venham muitos mais!",
+                    "Десять лет \nудивительного веселья в таверне!\nИ это далеко не конец!",
+                    "แด่ช่วงเวลาแสนวิเศษสิบปี\nที่มีคุณอยู่ในโรงเตี๊ยม!\nและอีกหลายปีต่อจากนี้!",
+                    "你陪伴旅店走过了精彩的十年！而传说仍将继续！",
+                    "我們和各位在旅店\n度過了美好的十年！\n大家以後也要繼續打牌！"
+                ],
+                "m_locId": 2891116
+            }
+        },
+        {
+            "m_ID": 0,
+            "m_specialEventId": 22,
+            "m_eventRewardTrackId": 76,
+            "m_choiceConfirmationText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_shortConclusion": {
+                "m_locValues": [
+                    "Games Never-ending!",
+                    "Unendlich viel Spiel und Spaß!",
+                    "¡Partidas sin fin!",
+                    "¡Los juegos nunca terminan!",
+                    "Des jeux sans fin !",
+                    "Partite infinite!",
+                    "お楽しみは終わらない！",
+                    "끝나지 않는 게임!",
+                    "Gier i zabaw bez liku!",
+                    "Jogos sem fim!",
+                    "Игры с утра до ночи!",
+                    "เกมไม่มีวันจบ!",
+                    "游戏永不停息！",
+                    "永無止盡的遊戲！"
+                ],
+                "m_locId": 2893512
+            },
+            "m_longConclusion": {
+                "m_locValues": [
+                    "It's a time of wonder and whimsy in the tavern and Whizbang has more mischievous surprises in store!",
+                    "Im Gasthaus ist eine wundersame und launige Zeit angebrochen, und Wurbelfitz hat noch mehr gemeine Überraschungen auf Lager!",
+                    "El asombro y la fantasía han llegado a la taberna, ¡y Mirífico piensa sorprenderte con sus travesuras!",
+                    "Las maravillas y caprichos llegaron a la taberna, ¡y Fizbang tiene más sorpresas traviesas preparadas!",
+                    "L’heure est à l’émerveillement et à la fantaisie à l’auberge, et Mystifix vous réserve bien d’autres surprises !",
+                    "È un periodo di meraviglie e stravaganze alla Locanda e Frizzabombe ha in serbo altre sorprese dispettose!",
+                    "酒場はワクワク＆ワイワイ大賑わい。そんな中、ウィズバンがさらなるイタズラなサプライズをストアに用意してるぞ！",
+                    "선술집에 기상천외하고 엉뚱한 시간이 찾아오고, 위즈뱅은 더욱 장난스러운 깜짝 선물을 준비했습니다!",
+                    "W Karczmie nadszedł czas cudów i dziwów, a Świstomig szykuje jeszcze niejedną psotę i niespodziankę!",
+                    "É um momento de maravilhas e fantasia na taverna, e o Rojão tem mais surpresas travessas reservadas!",
+                    "В таверне настало время чудес и волшебства. У Чудастера полная мастерская веселых фокусов!",
+                    "นี่คือเวลาของสิ่งมหัศจรรย์และความเพ้อฝัน และวิซแบงก็มีเซอร์ไพรส์สุดป่วนอีกมากมายรออยู่!",
+                    "旅店之中处处奇迹，而威兹班的商店还有更多惊喜！",
+                    "旅店裡充滿了稀奇古怪的東西，而且威茲邦的店裡還準備了更多調皮的驚喜！"
+                ],
+                "m_locId": 2893513
+            }
+        },
+        {
+            "m_ID": 0,
+            "m_specialEventId": 23,
+            "m_eventRewardTrackId": 79,
+            "m_choiceConfirmationText": {
+                "m_locValues": [
+                    "Face off in Traditional Hearthstone\nCommit to this path?",
+                    "Tretet im traditionellen Hearthstone an\nAuf diesen Pfad festlegen?",
+                    "Enfrentamiento en el modo tradicional de Hearthstone\n¿Quieres tomar este camino?",
+                    "Enfrentamiento en Hearthstone tradicional\n¿Deseas tomar este camino?",
+                    "Affrontez des adversaires en mode traditionnel de Hearthstone.\nVoulez-vous continuer ?",
+                    "Combatti in Hearthstone tradizionale\nVuoi seguire questo percorso?",
+                    "「王道ハースストーン」で対戦しよう\nこの道に専念するか？",
+                    "기본 하스스톤에서 대결합니다.\n정말 이 길로 정하시겠어요?",
+                    "Zawalcz w tradycyjnym Hearthstone\nDecydujesz się na tę ścieżkę?",
+                    "Confronto no Hearthstone Tradicional\nSeguir este caminho?",
+                    "Сражайтесь с противниками в традиционном режиме!\nВыбрать этот путь?",
+                    "เผชิญหน้ากันใน Hearthstone ดั้งเดิม\nเลือกเส้นทางนี้หรือไม่",
+                    "独自进行传统对战！\n要选择这条路线吗？",
+                    "在《爐石戰記》傳統模式中奮戰\n要投身這條道路嗎？"
+                ],
+                "m_locId": 2896357
+            },
+            "m_shortConclusion": {
+                "m_locValues": [
+                    "Twilight's Hammer Has Been Vanquished...",
+                    "Der Shattenhammer wurde besiegt ...",
+                    "El Martillo Crepuscular ha sido aniquilado...",
+                    "Se derrotó al Martillo Crepuscular...",
+                    "Le Marteau du crépuscule a été vaincu…",
+                    "Il Martello del Crepuscolo è stato sconfitto...",
+                    "黄昏の鎚は打ち破られた…",
+                    "황혼의 망치단은 궤멸당했지만...",
+                    "Młot Zmierzchu został rozgromiony…",
+                    "O Martelo do Crepúsculo foi vencido...",
+                    "Сумеречный Молот повержен...",
+                    "ลัทธิค้อนสนธยาถูกกำราบแล้ว...",
+                    "暮光之锤被赶跑了……",
+                    "暮光之錘被消滅了..."
+                ],
+                "m_locId": 2896358
+            },
+            "m_longConclusion": {
+                "m_locValues": [
+                    "...But the Tavern will never be the same! No matter what style of Hearthstone you enjoy, the games will keep on coming!",
+                    "... doch das Gasthaus wird nie wieder dasselbe sein! Egal, wie du Hearthstone gerne spielst, die Spiele werde immer weitergehen!",
+                    "... ¡Pero la taberna ya nunca será igual! Sea cual sea tu estilo de Hearthstone preferido, ¡las partidas seguirán sucediéndose!",
+                    "... ¡Pero la Taberna no volverá a ser la misma! Sin importar qué estilo de Hearthstone te guste más, ¡las partidas continuarán!",
+                    "… mais la taverne vous réserve encore bien des surprises ! Quel que soit le style de jeu que vous aimez, les parties ne sont pas près de s’arrêter !",
+                    "...Ma la Locanda non sarà più la stessa! A prescindere dallo stile di Hearthstone che preferisci, le partite non smetteranno mai!",
+                    "…だが酒場は変わり続けるぞ！あんたの好きな「ハースストーン」がどんなスタイルにせよ、これからも新たなお楽しみがどんどん登場するからな！",
+                    "...선술집은 예전 같지 않을 겁니다! 하스스톤을 어떤 방식으로 즐기든, 게임은 계속됩니다!",
+                    "…lecz Karczma nigdy już nie będzie taka sama! Nieważne, jaki styl zabawy w Hearthstone najbardziej ci odpowiada – gier będzie coraz więcej!",
+                    "...mas a Taverna nunca mais será a mesma! Não importa qual seu estilo favorito de Hearthstone, as partidas vão continuar chegando!",
+                    "...Но таверна уже не будет прежней! Неважно, какой стиль Hearthstone вам нравится больше, — захватывающие игры будут продолжаться!",
+                    "...แต่โรงเตี๊ยมจะเปลี่ยนแปลงไปตลอดกาล! ไม่ว่าคุณจะชอบเล่น Hearthstone สไตล์ไหน คุณก็จะได้เล่นแบบจุใจ!",
+                    "……但旅店还在！不管你喜欢哪种模式，总有游戏适合你！",
+                    "...但旅店永遠不滅！不論你喜歡哪種風格的爐石戰記，賽局永不止歇！"
+                ],
+                "m_locId": 2896359
+            }
+        },
+        {
+            "m_ID": 0,
+            "m_specialEventId": 23,
+            "m_eventRewardTrackId": 80,
+            "m_choiceConfirmationText": {
+                "m_locValues": [
+                    "Join up with a friend in Battlegrounds Duos!\nCommit to this path?",
+                    "Macht in Schlachtfeld: Duos mit einem Freund gemeinsame Sache!\nAuf diesen Pfad festlegen?",
+                    "¡Haz equipo con un amigo en Dúos de Campos de batalla!\n¿Quieres tomar este camino?",
+                    "¡Crea un equipo con un amigo en Dúos de Campos de batalla!\n¿Deseas tomar este camino?",
+                    "Faites équipe avec un contact dans les Duos de Champs de bataille !\nVoulez-vous continuer ?",
+                    "Fai squadra con una persona amica in Duo della Battaglia!\nVuoi seguire questo percorso?",
+                    "友達と一緒に「バトルグラウンド・デュオ」に参加しよう！\nこの道に専念するか？",
+                    "태그 전장에서 친구와 함께 싸웁니다!\n정말 이 길로 정하시겠어요?",
+                    "Dołącz do Duetów w Ustawce ze znajomym!\nDecydujesz się na tę ścieżkę?",
+                    "Junte-se a um amigo em Duplas de Campos de Batalha!\nSeguir este caminho?",
+                    "Объединитесь с другом и соревнуйтесь в «Дуэтах» на полях сражений!\nВыбрать этот путь?",
+                    "ร่วมมือกับเพื่อนใน Battlegrounds ดูโอส์!\nเลือกเส้นทางนี้หรือไม่",
+                    "和朋友一起战棋双打！\n要选择这条路线吗？",
+                    "在英雄戰場雙打和好友組隊\n要投身這條道路嗎？"
+                ],
+                "m_locId": 2896363
+            },
+            "m_shortConclusion": {
+                "m_locValues": [
+                    "Twilight's Hammer Has Been Vanquished...",
+                    "Der Shattenhammer wurde besiegt ...",
+                    "El Martillo Crepuscular ha sido aniquilado...",
+                    "Se derrotó al Martillo Crepuscular...",
+                    "Le Marteau du crépuscule a été vaincu…",
+                    "Il Martello del Crepuscolo è stato sconfitto...",
+                    "黄昏の鎚は打ち破られた…",
+                    "황혼의 망치단은 궤멸당했지만...",
+                    "Młot Zmierzchu został rozgromiony…",
+                    "O Martelo do Crepúsculo foi vencido...",
+                    "Сумеречный Молот повержен...",
+                    "ลัทธิค้อนสนธยาถูกกำราบแล้ว...",
+                    "暮光之锤被赶跑了……",
+                    "暮光之錘被消滅了..."
+                ],
+                "m_locId": 2896364
+            },
+            "m_longConclusion": {
+                "m_locValues": [
+                    "...But the Tavern will never be the same! No matter what style of Hearthstone you enjoy, the games will keep on coming!",
+                    "... doch das Gasthaus wird nie wieder dasselbe sein! Egal, wie du Hearthstone gerne spielst, die Spiele werde immer weitergehen!",
+                    "... ¡Pero la taberna ya nunca será igual! Sea cual sea tu estilo de Hearthstone preferido, ¡las partidas seguirán sucediéndose!",
+                    "... ¡Pero la Taberna no volverá a ser la misma! Sin importar qué estilo de Hearthstone te guste más, ¡las partidas continuarán!",
+                    "… mais la taverne vous réserve encore bien des surprises ! Quel que soit le style de jeu que vous aimez, les parties ne sont pas près de s’arrêter !",
+                    "...Ma la Locanda non sarà più la stessa! A prescindere dallo stile di Hearthstone che preferisci, le partite non smetteranno mai!",
+                    "…だが酒場は変わり続けるぞ！あんたの好きな「ハースストーン」がどんなスタイルにせよ、これからも新たなお楽しみがどんどん登場するからな！",
+                    "...선술집은 예전 같지 않을 겁니다! 하스스톤을 어떤 방식으로 즐기든, 게임은 계속됩니다!",
+                    "…lecz Karczma nigdy już nie będzie taka sama! Nieważne, jaki styl zabawy w Hearthstone najbardziej ci odpowiada – gier będzie coraz więcej!",
+                    "...mas a Taverna nunca mais será a mesma! Não importa qual seu estilo favorito de Hearthstone, as partidas vão continuar chegando!",
+                    "...Но таверна уже не будет прежней! Неважно, какой стиль Hearthstone вам нравится больше, — захватывающие игры будут продолжаться!",
+                    "...แต่โรงเตี๊ยมจะเปลี่ยนแปลงไปตลอดกาล! ไม่ว่าคุณจะชอบเล่น Hearthstone สไตล์ไหน คุณก็จะได้เล่นแบบจุใจ!",
+                    "……但旅店还在！不管你喜欢哪种模式，总有游戏适合你！",
+                    "...但旅店永遠不滅！不論你喜歡哪種風格的爐石戰記，賽局永不止歇！"
+                ],
+                "m_locId": 2896365
+            }
+        },
+        {
+            "m_ID": 0,
+            "m_specialEventId": 23,
+            "m_eventRewardTrackId": 80,
+            "m_choiceConfirmationText": {
+                "m_locValues": [
+                    "Join up with a friend in Battlegrounds Duos!\nCommit to this path?",
+                    "Macht in Schlachtfeld: Duos mit einem Freund gemeinsame Sache!\nAuf diesen Pfad festlegen?",
+                    "¡Haz equipo con un amigo en Dúos de Campos de batalla!\n¿Quieres tomar este camino?",
+                    "¡Crea un equipo con un amigo en Dúos de Campos de batalla!\n¿Deseas tomar este camino?",
+                    "Faites équipe avec un contact dans les Duos de Champs de bataille !\nVoulez-vous continuer ?",
+                    "Fai squadra con una persona amica in Duo della Battaglia!\nVuoi seguire questo percorso?",
+                    "友達と一緒に「バトルグラウンド・デュオ」に参加しよう！\nこの道に専念するか？",
+                    "태그 전장에서 친구와 함께 싸웁니다!\n정말 이 길로 정하시겠어요?",
+                    "Dołącz do Duetów w Ustawce ze znajomym!\nDecydujesz się na tę ścieżkę?",
+                    "Junte-se a um amigo em Duplas de Campos de Batalha!\nSeguir este caminho?",
+                    "Объединитесь с другом и играйте в «Дуэтах» на полях сражений!\nВыбрать этот путь?",
+                    "ร่วมมือกับเพื่อนใน Battlegrounds ดูโอส์!\nเลือกเส้นทางนี้หรือไม่",
+                    "和朋友一起战棋双打！\n要选择这条路线吗？",
+                    "在英雄戰場雙打和好友組隊\n要投身這條道路嗎？"
+                ],
+                "m_locId": 2897867
+            },
+            "m_shortConclusion": {
+                "m_locValues": [
+                    "Twilight's Hammer Has Been Vanquished...",
+                    "Der Shattenhammer wurde besiegt ...",
+                    "El Martillo Crepuscular ha sido aniquilado...",
+                    "Se derrotó al Martillo Crepuscular...",
+                    "Le Marteau du crépuscule a été vaincu…",
+                    "Il Martello del Crepuscolo è stato sconfitto...",
+                    "黄昏の鎚は打ち破られた…",
+                    "황혼의 망치단은 궤멸당했지만...",
+                    "Młot Zmierzchu został rozgromiony…",
+                    "O Martelo do Crepúsculo foi vencido...",
+                    "Сумеречный Молот потерпел поражение...",
+                    "ลัทธิค้อนสนธยาถูกกำราบแล้ว...",
+                    "暮光之锤被赶跑了……",
+                    "暮光之錘被消滅了..."
+                ],
+                "m_locId": 2897868
+            },
+            "m_longConclusion": {
+                "m_locValues": [
+                    "...But the Tavern will never be the same! No matter what style of Hearthstone you enjoy, the games will keep on coming!",
+                    "... doch das Gasthaus wird nie wieder dasselbe sein! Egal, wie du Hearthstone gerne spielst, die Spiele werde immer weitergehen!",
+                    "... ¡Pero la taberna ya nunca será igual! Sea cual sea tu estilo de Hearthstone preferido, ¡las partidas seguirán sucediéndose!",
+                    "... ¡Pero la Taberna no volverá a ser la misma! Sin importar qué estilo de Hearthstone te guste más, ¡las partidas continuarán!",
+                    "… mais la taverne vous réserve encore bien des surprises ! Quel que soit le style de jeu que vous aimez, les parties ne sont pas près de s’arrêter !",
+                    "...Ma la Locanda non sarà più la stessa! A prescindere dal tuo stile di Hearthstone preferito, le partite continueranno a susseguirsi!",
+                    "…だが酒場は変わり続けるぞ！あんたの好きな「ハースストーン」がどんなスタイルにせよ、これからも新たなお楽しみがどんどん登場するからな！",
+                    "...선술집은 예전 같지 않을 겁니다! 하스스톤을 어떤 방식으로 즐기든, 게임은 계속됩니다!",
+                    "…lecz Karczma nigdy już nie będzie taka sama! Nieważne, jaki styl zabawy w Hearthstone najbardziej ci odpowiada – gier będzie coraz więcej!",
+                    "...mas a Taverna nunca mais será a mesma! Não importa qual seu estilo favorito de Hearthstone, as partidas vão continuar chegando!",
+                    "...Но в таверне-то все изменилось! Не важно, какой режим Hearthstone вам больше нравится, впереди еще много игр!",
+                    "...แต่โรงเตี๊ยมจะเปลี่ยนแปลงไปตลอดกาล! ไม่ว่าคุณจะชอบเล่น Hearthstone สไตล์ไหน คุณก็จะได้เล่นแบบจุใจ!",
+                    "……但旅店还在！不管你喜欢哪种模式，总有游戏适合你！",
+                    "...但旅店永遠不滅！不論你喜歡哪種風格的爐石戰記，賽局永不止歇！"
+                ],
+                "m_locId": 2897869
+            }
+        },
+        {
+            "m_ID": 0,
+            "m_specialEventId": 24,
+            "m_eventRewardTrackId": 81,
+            "m_choiceConfirmationText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_shortConclusion": {
+                "m_locValues": [
+                    "RECALL ISSUED!",
+                    "RÜCKRUFAKTION!",
+                    "¡RETIRADA DEL MERCADO!",
+                    "¡RETIRO DEL MERCADO!",
+                    "RAPPEL DE JOUETS",
+                    "RICHIAMO EMESSO!",
+                    "リコールのお知らせ！",
+                    "회수 조치!",
+                    "PRODUKTY WYCOFANE!",
+                    "RECALL EMITIDO!",
+                    "ОТЗЫВ ТОВАРА!",
+                    "ประกาศการเรียกคืน!",
+                    "召回公告！",
+                    "發出召回令！"
+                ],
+                "m_locId": 2897996
+            },
+            "m_longConclusion": {
+                "m_locValues": [
+                    "Dr. Boom's Mischievous Toyline has been recalled due to EXTREME safety concerns. We thank you for shopping at Whizbang's!",
+                    "Dr. Bumms Schelmische Spielzeugreihe wird aufgrund EXTREMER Sicherheitsrisiken zurückgerufen. Vielen Dank für Ihren Einkauf bei Wurbelfitz!",
+                    "Se ha procedido a retirar del mercado la línea de juguetes Travesuras del Dr. Bum debido a problemas CRÍTICOS de seguridad. ¡Les damos las gracias por realizar sus compras en Mirífico!",
+                    "La línea de juguetes traviesos del Dr. Bum se ha retirado del mercado debido a GRAVES problemas de seguridad. ¡Gracias por comprar en Fizbang!",
+                    "La gamme de jouets facétieux du Dr Boum a été retirée de la vente en raison de problèmes de sécurité IMPORTANTS. Nous vous remercions pour vos achats chez Mystifix !",
+                    "La linea di Giocattoli Dispettosi del Dott. Boom è stata richiamata a causa di ESTREMI problemi di sicurezza. Ti ringraziamo per i tuoi acquisti da Frizzabombe!",
+                    "ドクター・ブームのイタズラおもちゃシリーズは安全性に大きな問題があったため、リコールされます。ウィズバンのお店をご利用いただき、まことにありがとうございました！",
+                    "심각한 안전 문제로 인해 박사 붐의 골 때리는 장난감 제품군을 회수합니다. 위즈뱅의 장난감 공방을 이용해 주셔서 감사합니다!",
+                    "Kolekcja psotnych zabawek Doktora Huka została wycofana z obrotu ze względu na POWAŻNE wątpliwości dotyczące bezpieczeństwa. Dziękujemy za zakupy u Świstomiga!",
+                    "A linha de brinquedos travessos do Dr. Cabum foi recolhida devido a preocupações de segurança EXTREMAS. Agradecemos por comprar no Rojão!",
+                    "Серию озорных игрушек доктора Бума отозвали из-за грубейших нарушений техники безопасности. Спасибо, что зашли к Чудастеру!",
+                    "สินค้าของเล่นสุดป่วนของด็อกเตอร์บูมถูกเรียกคืนเนื่องจากข้อกังวลด้านความปลอดภัยร้ายแรง ขอบคุณที่ใช้บริการร้านวิซแบง!",
+                    "由于发现重大安全隐患，砰砰博士古灵精怪的玩具产品线已被召回。感谢您选择威兹班的小店！",
+                    "爆爆博士的惡作劇玩具生產線，因為有安全上的極度疑慮而必須全數召回。感謝各位在威茲邦的工坊消費！"
+                ],
+                "m_locId": 2897997
+            }
+        },
+        {
+            "m_ID": 0,
+            "m_specialEventId": 25,
+            "m_eventRewardTrackId": 90,
+            "m_choiceConfirmationText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_shortConclusion": {
+                "m_locValues": [
+                    "Happy Fire Festival!",
+                    "Frohes Sonnenwendfest!",
+                    "¡Feliz Festival del Fuego!",
+                    "¡Feliz Festival de Fuego!",
+                    "Joyeuse fête du Feu !",
+                    "Buon Festival del Fuoco!",
+                    "炎祭りを祝おう！",
+                    "즐거운 불꽃축제!",
+                    "Świętujmy Festiwal Ognia!",
+                    "Feliz Festival do Fogo!",
+                    "Счастливого Огненного солнцеворота!",
+                    "สุขสันต์เทศกาลไฟ!",
+                    "火焰节快乐！",
+                    "火焰節快樂！"
+                ],
+                "m_locId": 2899698
+            },
+            "m_longConclusion": {
+                "m_locValues": [
+                    "Danger and adventures abound as the Summer heats up in the Tavern!",
+                    "Gefahren und Abenteuer warten auf Herausforderer, während der Sommer das Gasthaus zum Kochen bringt!",
+                    "Conforme aumenta la temperatura de la taberna por el verano, también aumenta el peligro y las aventuras.",
+                    "¡El peligro y las aventuras aumentan a medida que el verano calienta la Taberna!",
+                    "Préparez-vous à des aventures aussi dangereuses que trépidantes… L’été sera brûlant !",
+                    "Il pericolo e l'avventura si fanno sempre più intensi mentre arriva l'estate nella Locanda!",
+                    "夏のアツさがアガるにつれて、酒場も危険と冒険でアツく燃え上がるぞ！",
+                    "여름을 맞아 선술집의 열기가 달아오르면서 위험과 모험이 모두 격화됩니다!",
+                    "Niebezpieczeństw i przygód nie zabraknie, bo atmosferę w Karczmie właśnie podgrzewa lato!",
+                    "Perigo e aventuras não faltam quando o verão começa a esquentar na Taverna!",
+                    "Летняя жара приходит в таверну, принося новые приключения и опасности!",
+                    "อันตรายและการผจญภัยจะโรงเตี๊ยมมาพร้อมกับฤดูร้อนที่เข้ามาเยือนโรงเตี๊ยม!",
+                    "火热夏日引燃旅店，刺激冒险就快上演！",
+                    "夏天讓旅店越來越火熱，也讓危險與冒險層出不窮！"
+                ],
+                "m_locId": 2899699
+            }
+        },
+        {
+            "m_ID": 0,
+            "m_specialEventId": 26,
+            "m_eventRewardTrackId": 99,
+            "m_choiceConfirmationText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_shortConclusion": {
+                "m_locValues": [
+                    "The Vacation Never Ends!",
+                    "Der Urlaub ist endlos!",
+                    "¡Las vacaciones nunca se acaban!",
+                    "¡Vacaciones sin fin!",
+                    "Les vacances ne s’arrêtent jamais !",
+                    "Le vacanze non finiscono mai!",
+                    "バカンスは終わらない！",
+                    "휴가는 끝나지 않습니다!",
+                    "Wakacje są wieczne!",
+                    "As férias nunca acabam!",
+                    "Отпуск никогда не заканчивается!",
+                    "วันหยุดไม่มีวันหยุด!",
+                    "假日无极限！",
+                    "假期永不結束！"
+                ],
+                "m_locId": 2903192
+            },
+            "m_longConclusion": {
+                "m_locValues": [
+                    "While the tourists might have gone home, stick around! There are still perils a'plenty!",
+                    "Die Touristen sind zwar schon nach Hause gegangen, aber Ihr könnt doch noch bleiben! Es warten noch gar mannigfaltige Gefahren!",
+                    "Los turistas se habrán marchado, pero ¡tú quédate! ¡Aún tenemos peligros de sobra!",
+                    "Tal vez los turistas ya se hayan ido, ¡pero tú debes quedarte! ¡Aún hay muchos peligros!",
+                    "Les touristes ont peut-être déjà déserté les lieux, mais restez encore un peu… et bravez tous les périls !",
+                    "Dopo che i turisti sono tornati a casa, resta nei paraggi! Ci sono ancora molti pericoli!",
+                    "観光客は家に帰っちまったかもしれないが、ちょっとその辺をうろついてみよう！まだまだたっぷりピンチが待ち受けてるぞ！",
+                    "관광객들은 집에 돌아갔을지 몰라도, 계속 머물러 주세요! 아직 극한의 경험은 넘쳐나니까요!",
+                    "Turyści wprawdzie wrócili już do domów, ale ty zostań z nami. Możesz się jeszcze wpakować w niejedne tarapaty!",
+                    "Os turistas podem ter ido para casa, mas fique por perto! Ainda há muitos perigos!",
+                    "Даже если туристы вернулись домой, здесь еще есть чем заняться! Опасностям по-прежнему нет числа!",
+                    "ถึงแม้นักท่องเที่ยวจะทยอยกลับบ้านไปแล้ว แต่ก็อย่าเพิ่งไปไหนล่ะ! ยังมีมหันตภัยรอคุณอีกเพียบเลย!",
+                    "虽然已有游客踏上返程，但请不要离开！历险的故事还在继续！",
+                    "就算遊客都回家了也別離開！這裡還有很多刺激等著你！"
+                ],
+                "m_locId": 2903193
+            }
+        },
+        {
+            "m_ID": 0,
+            "m_specialEventId": 29,
+            "m_eventRewardTrackId": 104,
+            "m_choiceConfirmationText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_shortConclusion": {
+                "m_locValues": [
+                    "That Concludes the Hunt!",
+                    "Und somit kommt die Jagd zum Ende!",
+                    "¡Así concluye la búsqueda!",
+                    "¡Con eso se concluye la búsqueda!",
+                    "La chasse est terminée !",
+                    "E con questo, la Caccia è conclusa!",
+                    "お宝探し終了！",
+                    "이로써 보물찾기가 끝납니다!",
+                    "To już koniec polowania!",
+                    "Com isso, terminamos a caçada!",
+                    "Охота за сокровищами подошла к концу!",
+                    "หมดเวลาล่าสมบัติ!",
+                    "猎宝圆满结束！",
+                    "尋寶結束了！"
+                ],
+                "m_locId": 2905235
+            },
+            "m_longConclusion": {
+                "m_locValues": [
+                    "Thank you for joining in this year's Treaure Hunt! We hope you found plenty of plunder and fun. Please enjoy your stay at the Marin Resort!",
+                    "Habt Dank, dass Ihr an der diesjährigen Schatzjagd teilgenommen habt! Wir hoffen, dass sie Euch reichlich Beute und Spaß gebracht hat. Genießt Euren Aufenthalt im Marin Resort!",
+                    "¡Gracias por participar en la búsqueda del tesoro de este año! Esperamos que te hayas topado con un montón de botín y diversión. ¡Disfruta de tu estancia en el resort El Marin!",
+                    "¡Gracias por participar en la búsqueda del tesoro de este año! Esperamos que hayas encontrado un montón de botín y te hayas divertido. ¡Disfruta de tu estancia en el centro vacacional Marin!",
+                    "Merci d’avoir participé à la chasse au trésor de cette année ! Nous espérons que vous avez fait de belles découvertes et que vous avez passé un bon moment. Profitez bien de votre séjour chez Marin !",
+                    "Grazie per aver partecipato alla Caccia al Tesoro di quest'anno! Speriamo che tu ne abbia ricavato tanti tesori e tanto divertimento. Goditi il soggiorno al Resort Marin!",
+                    "今年のお宝探しにご参加いただきありがとうございました！お楽しみやお宝をどっさり見つけていただけたことでしょう。それでは、マリン・リゾートでの滞在をご堪能ください！",
+                    "올해의 보물찾기를 함께해 주셔서 감사합니다! 전리품을 잔뜩 찾고 재미있게 즐기셨길 바랍니다. 마린 리조트에 계신 동안 즐거운 시간 보내세요!",
+                    "Dziękujemy za udział w tegorocznym Polowaniu na skarby! Mamy nadzieję, że obłowiliście się w łupy. Miłego pobytu w kurorcie Marina!",
+                    "Agradecemos por se juntar à Caçada ao Tesouro deste ano. Esperamos que tenha encontrado muito saque e diversão. Aproveite sua estadia no Resort Marin!",
+                    "Спасибо за участие в охоте за сокровищами в этом году! Надеемся, что вы получили хорошую добычу и развлеклись. Приятного отдыха на курорте Марина!",
+                    "ขอขอบคุณที่มาร่วมสนุกกับกิจกรรมล่าสมบัติประจำปีนี้! เราหวังว่าคุณจะกอบโกยขุมทรัพย์และความสนุกจนเต็มอิ่ม และขอให้คุณผ่อนคลายสบายใจในเดอะมารินรีสอร์ต!",
+                    "感谢您参加本年度的猎宝之旅！衷心希望您在本次活动中充分体会到了争夺的乐趣。接下来，请您继续享受假期，马林度假村时刻为您服务！",
+                    "謝謝你參加今年的尋寶之旅！希望你在過程中找到許多戰利品和樂趣。盡情享受你在馬林渡假村的假期吧！"
+                ],
+                "m_locId": 2905236
+            }
+        },
+        {
+            "m_ID": 0,
+            "m_specialEventId": 3,
+            "m_eventRewardTrackId": 41,
+            "m_choiceConfirmationText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_shortConclusion": {
+                "m_locValues": [
+                    "For Northrend!",
+                    "Für Nordend!",
+                    "¡Por Rasganorte!",
+                    "¡Por Rasganorte!",
+                    "Pour le Norfendre !",
+                    "Per Nordania!",
+                    "ノースレンドのために！",
+                    "노스렌드를 위하여!",
+                    "Za Północną Grań!",
+                    "Por Nortúndria!",
+                    "За Нордскол!",
+                    "เพื่อนอร์ธเรนด์!",
+                    "为了诺森德！",
+                    "為了北裂境！"
+                ],
+                "m_locId": 2870065
+            },
+            "m_longConclusion": {
+                "m_locValues": [
+                    "You have served the Scourge well, but a Death's Knight's duties are never done. The Lich King's call echoes ever on, and the war has just begun. ",
+                    "Ihr habt der Geißel gut gedient, aber die Pflichten eines Todesritters sind nie getan. Der Ruf des Lichkönigs erschallt weiterhin und der Krieg hat gerade erst begonnen.",
+                    "Has servido bien a la Plaga, pero las tareas de un caballero de la Muerte nunca se acaban. La llamada del Rey Exánime resuena por siempre y la guerra acaba de empezar.",
+                    "Has servido bien a la Plaga, pero el deber de un Caballero de la muerte nunca termina. El llamado del Rey Exánime no se apaga jamás, y la guerra acaba de comenzar.",
+                    "Vous avez servi le Fléau avec une loyauté sans faille, mais un chevalier de la mort n’en a jamais fini avec ses devoirs. L’appel du roi-liche résonne encore, et la guerre ne fait que commencer.",
+                    "Hai servito bene il Flagello, ma i doveri di Cavaliere della Morte non finiscono mai. L'eco del Re dei Lich riecheggerà per sempre e la guerra è appena iniziata. ",
+                    "お前はスコージによく仕えた。だがデスナイトの使命に終わりはない。リッチキングの呼び声は永久に響き続ける。そして戦争はまだ始まったばかりだからな。",
+                    "스컬지를 훌륭히 잘 섬겨주셨지만, 죽음의 기사의 책무는 영원토록 계속됩니다. 끝없이 메아리치는 리치 왕의 부름에 응하세요. 전쟁은 이제 막 시작됐을 뿐입니다.",
+                    "Dobrze służysz Pladze, ale zobowiązania rycerza śmierci nigdy się nie kończą. Wezwanie Króla Lisza rozlega się wszędzie, a wojna dopiero się zaczęła.",
+                    "Você serviu bem ao Flagelo, mas os deveres de um Cavaleiro da Morte nunca acabam. O chamado do Lich Rei continua a ecoar, e a guerra está só começando. ",
+                    "Вы хорошо послужили Плети, но дела рыцаря смерти никогда не заканчиваются. Зов Короля-лича не умолкает. Война только начинается.",
+                    "คุณรับใช้สเคิร์จได้ดี แต่ภารกิจของเดธไนท์[b]ไม่มีวันจบสิ้น เสียงเรียกของลิชคิง[b]ยังคงก้องกังวาน และสงคราม[b]เพิ่งเริ่มต้นขึ้นเท่านั้น",
+                    "你为天灾军团立下了不少功劳，但死亡骑士的职责永无止境。巫妖王的召唤回荡不休，而战争，才刚刚开始。",
+                    "你為天譴軍團貢獻良多，不過死亡騎士的職責永遠沒有結束的一天。巫妖王的召喚依然迴盪，而戰爭才正要開打。 "
+                ],
+                "m_locId": 2870066
+            }
+        },
+        {
+            "m_ID": 0,
+            "m_specialEventId": 30,
+            "m_eventRewardTrackId": 105,
+            "m_choiceConfirmationText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_shortConclusion": {
+                "m_locValues": [
+                    "To: Aspiring Vacationgoer",
+                    "An: Angehende Urlauber",
+                    "Para: Disfrutador de vacaciones en ciernes",
+                    "Para: Aspirante a vacacionista",
+                    "À vous, touriste en herbe",
+                    "A: Aspirante vacanziere",
+                    "これであなたもバカンス初級者！",
+                    "휴가 계획이 있는 분께",
+                    "Do: Aspirujący urlopowicz",
+                    "Para: Possível Viajante",
+                    "Всем желающим отдохнуть",
+                    "ถึง: นักท่องเที่ยวผู้มุ่งมั่นทั้งหลาย",
+                    "致亲爱的旅客",
+                    "收件人：充滿雄心壯志的度假旅客"
+                ],
+                "m_locId": 2906653
+            },
+            "m_longConclusion": {
+                "m_locValues": [
+                    "We hope you loved this Travelmaster's Guide to Adventure! Consider booking an agent with us for your next trip and let the adventures begin!",
+                    "Wir hoffen, dass Euch das Abenteuerhandbuch des Reisemeisters gefallen hat! Bucht für Eure nächste Reise über uns einen Vermittler und lasst das Abenteuer beginnen!",
+                    "Esperamos que hayas disfrutado de nuestra ¡Guía de Aventuras del Experto en Viajes!. Si quieres, puedes reservar una cita con uno de nuestros agentes para planear tu próximo viaje. ¡Que empiece la aventura!",
+                    "¡Esperamos que hayas disfrutado de esta Guía de aventuras del Maestro de viajes! Considera reservar un agente con nosotros para tu próximo viaje. ¡Que comiencen las aventuras!",
+                    "Nous espérons que vous avez aimé ce guide de l’aventure et des voyages. Pensez à faire appel à nous pour votre prochain périple et en route pour l’aventure !",
+                    "Speriamo che questa Guida del Maestro di Viaggi all'Avventura ti sia piaciuta! Prenota un nostro agente per il tuo prossimo viaggio, e lascia che l'avventura abbia inizio!",
+                    "弊社の「トラベルマスターの冒険ガイド」はお楽しみいただけましたでしょうか？次回の冒険旅行の際には、ぜひ弊社エージェントのご予約をご検討ください！",
+                    "여행 전문가의 모험 안내가 마음에 드셨기를 바랍니다! 다음에 여행하실 때 저희 직원에게 예약하시고 모험을 시작해 보세요!",
+                    "Mamy nadzieję, że ten Przygodowy Poradnik Wojażmistrza przypadł ci do gustu! Umów się z naszym agentem na następną wycieczkę i szykuj się na przygody!",
+                    "Esperamos que tenha amado este Guida de Aventuras do Mestre de Viagens! Considere agendar um agente conosco para sua próxima viagem e comece sua própria aventura!",
+                    "Мы надеемся, что вам понравилось наше руководство для путешественников! Когда задумаете отправиться в новое приключение, вспомните про наше агентство!",
+                    "เราหวังว่าคุณจะชื่นชอบคู่มือผจญภัยของทราเวลมาสเตอร์! หวังว่าคุณจะมาจองทริปต่อไปกับเอเจนต์ของเราแล้วเริ่มการผจญภัยครั้งใหม่อีกครั้ง!",
+                    "旅行管理员的服务怎么样？希望你在冒险途中玩得尽兴！下次准备冒险的时候，欢迎再次光顾我们的旅行社！",
+                    "希望您喜歡這份旅行管理員的旅遊指南！下次旅行開始之前，記得預約我們的服務人員，讓冒險旅程開始吧！"
+                ],
+                "m_locId": 2906654
+            }
+        },
+        {
+            "m_ID": 0,
+            "m_specialEventId": 31,
+            "m_eventRewardTrackId": 106,
+            "m_choiceConfirmationText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_shortConclusion": {
+                "m_locValues": [
+                    "Thanks for dropping by and playing a few games!",
+                    "Habt Dank, dass Ihr vorbeigeschaut und ein paar Spiele gespielt habt!",
+                    "¡Gracias por pasarte por aquí a jugar unas cuantas partidas!",
+                    "¡Gracias por venir y jugar con nosotros!",
+                    "Merci de votre visite et d’avoir joué ces quelques parties !",
+                    "Grazie per aver fatto un salto e giocato qualche partita!",
+                    "酒場に顔を出して、対戦してってくれてありがとう！",
+                    "게임을 하러 들러주셔서 감사합니다!",
+                    "Dziękujemy, że do nas zaglądasz, aby zagrać kilka partyjek!",
+                    "Agradecemos a visita e por jogar conosco!",
+                    "Спасибо за игру! В таверне тебе всегда будут рады!",
+                    "ขอบคุณที่แวะมาเล่นด้วยกัน!",
+                    "感谢再次光顾！",
+                    "謝謝您的來訪，還打了幾場牌局！"
+                ],
+                "m_locId": 2907025
+            },
+            "m_longConclusion": {
+                "m_locValues": [
+                    "We may have busy nights, but there's always room for another!",
+                    "Wir sind immer gut ausgebucht, aber ein Plätzchen lässt sich immer noch finden!",
+                    "Puede que nuestras noches sean ajetreadas, pero ¡siempre hay sitio para uno más!",
+                    "¡Siempre hay más espacio para la diversión!",
+                    "On est pas mal occupés, mais il y a toujours de la place pour une personne de plus !",
+                    "Le nostre serate saranno pure impegnate, ma c'è sempre tempo per farne un'altra!",
+                    "忙しい夜もあるが、いつだって余分な席はあるもんだ！",
+                    "오늘 밤은 바쁘지만, 한 명 낄 자리는 얼마든지 있죠!",
+                    "Ruch mamy spory… ale dodatkowe miejsce zawsze się znajdzie!",
+                    "Podemos ter noites agitadas, mas sempre tem espaço para mais um!",
+                    "У нас бывает тесновато, но для дорогого гостя всегда место найдется!",
+                    "โรงเตี๊ยมอาจมีบางคืนที่ยุ่งวุ่นวาย แต่เราก็มีที่ว่างเตรียมไว้ต้อนรับคุณเสมอ!",
+                    "今晚累的够呛，但只要有客人来玩我都欢迎！",
+                    "我們晚上是比較忙，不過客人越多越好！"
+                ],
+                "m_locId": 2907026
+            }
+        },
+        {
+            "m_ID": 0,
+            "m_specialEventId": 32,
+            "m_eventRewardTrackId": 108,
+            "m_choiceConfirmationText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_shortConclusion": {
+                "m_locValues": [
+                    "...and with that concludes this frightful fantasy!",
+                    "... und damit ist die fürchterliche Fantasie zu Ende!",
+                    "... ¡y con eso concluye esta aterradora fantasía!",
+                    "...¡y con eso concluye esta aterradora fantasía!",
+                    "… et c’est ainsi que s’achève cette foire fantastique !",
+                    "... e questo conclude la nostra mostruosa fantasticheria!",
+                    "…驚異の恐演はいかがだったかな？",
+                    "...이것으로 이 공포 환상극이 막을 내립니다!",
+                    "…i to już koniec niesamowitych doznań z dreszczykiem!",
+                    "...e com isso, concluímos essa fantasia medonha!",
+                    "Конец страшной сказки!",
+                    "...และแล้วความหลอนสุดจินตนาการก็มาถึงกาลสิ้นสุด!",
+                    "……魔幻迷境，要说再见了！",
+                    "...然後，這個恐怖的奇幻故事就此畫下了句點！"
+                ],
+                "m_locId": 2907840
+            },
+            "m_longConclusion": {
+                "m_locValues": [
+                    "Fun and games and wonderous sights!\nThere was music and fireworks that lit up the night!\nWe must away, so farewell for now!\nInto the dark shadows we will make our bow.",
+                    "Spaß und Spiel und wundersame Anblicke!\nMusik und Feuerwerk, das im Dunkeln funkelt!\nNun müssen wir los, auf Wiedersehen!\nHinein in die Schatten werden wir gehen.",
+                    "¡Qué bien lo hemos pasado, qué derroche!\nHemos tenido música y los fuegos.\nPero ahora ya os diremos «hasta luego»\ne iremos a perdernos en la noche.",
+                    "¡Diversión y juegos, una vista sin igual!\n¡Música y fuego que alumbran el portal!\nAhora nos vamos, hasta aquí hemos llegado.\nEn las sombras nos escondemos y nos despedimos encantados.",
+                    "Que de rires, de rencontres et d’émotions intenses !\nLa musique et les feux d’artifice ont illuminé l’infini !\nNous devons partir, alors nous vous disons merci.\nDans les ténèbres, nous tirons notre révérence.",
+                    "Abbiamo offerto gaudio, giochi e grandi emozioni!\nMusica e fuochi ad accendere passioni!\nMa il nostro tempo è finito, dunque, a presto!\nFino al nostro prossimo incontro, torniamo nel buio funesto.",
+                    "見どころが盛りだくさんのお楽しみやショー！\n素晴らしい音楽や夜を照らした花火！\n今回はこれにて閉幕！\n今一度闇へと姿を消しましょう。ご来場、まことに感謝！",
+                    "재미와 게임과 기상천외한 구경거리!\n음악과 밤을 밝히는 불꽃놀이가 있었죠!\n이제 우린 떠나야 하기에, 작별을 고합니다!\n검은 그림자 속으로 절을 올리지요.",
+                    "Gier, zabaw i widowisk co nie miara!\nPrzy fajerwerkach i muzyce bawiła się wiara!\nTymczasem żegnajcie, na nas już czas!\nZnikniemy w cieniach i udamy się hen, w las.",
+                    "Brincadeiras, jogos e maravilhas para ver,\nCom música e fogos que animam céu e luar!\nO nosso adeus, não queremos prolongar.\nE às sombras, nossa mesura iremos estender.",
+                    "Мы наигрались сполна и многое повидали!\nМузыка играла, а в небе фейерверки сияли!\nУвы, нам пора, и мы с вами прощаемся!\nС глубоким поклоном в тенях мы скрываемся.",
+                    "ทั้งความหรรษา เกม และสิ่งน่าอัศจรรย์อันมากมี!\nทั้งดนตรีและดอกไม้ไฟที่ประดับประดายามค่ำคืนนี้!\nแต่ ณ บัดนี้เราคงต้องขอจรลี!\nเพื่อถอยกลับสู่ความมืดมิดที่เราจากมา",
+                    "游戏奇景，目不暇接！\n音乐焰火，喧闹不绝！\n良夜将尽，欢乐暂歇！\n遁入暗影，鞠躬告别。",
+                    "歡樂暢玩是最美妙的景象了！\n這裡有音樂和煙火來照亮夜晚！\n我們必須離開了，那就先說聲再見囉！\n我們會敬畏地深入黑暗陰影之中。"
+                ],
+                "m_locId": 2907841
+            }
+        },
+        {
+            "m_ID": 0,
+            "m_specialEventId": 33,
+            "m_eventRewardTrackId": 112,
+            "m_choiceConfirmationText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_shortConclusion": {
+                "m_locValues": [
+                    "Work Complete!",
+                    "Arbeit abgeschlossen!",
+                    "¡Trabajo acabado!",
+                    "¡Trabajo terminado!",
+                    "Travail terminé !",
+                    "Lavoro completato!",
+                    "任務完了！",
+                    "작업 완료!",
+                    "Zrobione!",
+                    "Trabalho feito!",
+                    "Работа завершена!",
+                    "งานเสร็จสิ้น!",
+                    "工作完成！",
+                    "工作完成！"
+                ],
+                "m_locId": 2909009
+            },
+            "m_longConclusion": {
+                "m_locValues": [
+                    "ZugzZz...",
+                    "ZugzZz_…",
+                    "ZugzZz...",
+                    "ZugzZz...",
+                    "Zog zZz…",
+                    "ZugzZz...",
+                    "グゥー…",
+                    "저그즈...",
+                    "Zugzzz…",
+                    "ZugzZz...",
+                    "Заг-з-з-з...",
+                    "ขอซักซักงีบ...",
+                    "Zug Zzz……",
+                    "ZugzZz..."
+                ],
+                "m_locId": 2909010
+            }
+        },
+        {
+            "m_ID": 0,
+            "m_specialEventId": 34,
+            "m_eventRewardTrackId": 113,
+            "m_choiceConfirmationText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_shortConclusion": {
+                "m_locValues": [
+                    "Work Complete!",
+                    "Arbeit abgeschlossen!",
+                    "¡Trabajo acabado!",
+                    "¡Trabajo terminado!",
+                    "Travail terminé !",
+                    "Lavoro completato!",
+                    "任務完了！",
+                    "작업 완료!",
+                    "Zrobione!",
+                    "Trabalho feito!",
+                    "Работа завершена!",
+                    "งานเสร็จสิ้น!",
+                    "工作完成！",
+                    "工作完成！"
+                ],
+                "m_locId": 2909523
+            },
+            "m_longConclusion": {
+                "m_locValues": [
+                    "ZugzZz...",
+                    "ZugzZz_…",
+                    "ZugzZz...",
+                    "ZugzZz...",
+                    "Zog zZz…",
+                    "ZugzZz...",
+                    "グゥー…",
+                    "저그즈...",
+                    "Zugzzz…",
+                    "ZugzZz...",
+                    "Заг-з-з-з...",
+                    "ขอซักซักงีบ...",
+                    "Zug Zzz……",
+                    "ZugzZz..."
+                ],
+                "m_locId": 2909524
+            }
+        },
+        {
+            "m_ID": 0,
+            "m_specialEventId": 4,
+            "m_eventRewardTrackId": 45,
+            "m_choiceConfirmationText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_shortConclusion": {
+                "m_locValues": [
+                    "Happy New Year!",
+                    "Frohes neues Jahr!",
+                    "¡Feliz Año Nuevo!",
+                    "¡Feliz año nuevo!",
+                    "Bonne année !",
+                    "Buon anno nuovo!",
+                    "旧正月おめでとう！",
+                    "새로운 해가 밝았습니다!",
+                    "Szczęśliwego Nowego Roku!",
+                    "Feliz Ano Novo!",
+                    "С Новым годом!",
+                    "สวัสดีปีใหม่!",
+                    "新春快乐！",
+                    "新年快樂！"
+                ],
+                "m_locId": 2870070
+            },
+            "m_longConclusion": {
+                "m_locValues": [
+                    "Silvermoon is safe for now, but the fight isn't over. May you have good fortune and draw your best cards in the New Year!",
+                    "Silbermond ist vorerst sicher, aber der Kampf ist noch nicht vorbei. Das Glück sei Euch im neuen Jahr gewogen, beim Kartenziehen und bei allem anderen auch.",
+                    "Lunargenta está a salvo por ahora, pero la batalla no ha terminado. ¡Que tengas suerte y robes las mejores cartas este nuevo año!",
+                    "Lunargenta está segura por ahora, pero la lucha no ha terminado. ¡Que tengas buena fortuna y robes las mejores cartas este año nuevo!",
+                    "Lune-d’Argent est hors de danger pour le moment, mais la guerre n’est pas finie. Que la chance vous accompagne et puissiez-vous piocher les meilleures cartes dans cette nouvelle année !",
+                    "Lunargenta è al sicuro, per ora, ma la battaglia non è finita. Che la fortuna ti assista e ti faccia pescare le tue migliori carte nel nuovo anno!",
+                    "今回はシルバームーンの安全は守られたが、戦いはまだ終わらない。あんたの新年が幸運に満ち、最高のカードを引けますように！",
+                    "일단 실버문은 안전해졌지만, 싸움은 끝나지 않았습니다. 새로운 한 해에도 복과 카드 운이 함께하기를 기원합니다!",
+                    "Srebrnej Lunie na razie nie zagraża niebezpieczeństwo, ale to jeszcze nie koniec walki. Oby w nowym roku sprzyjało ci szczęście, a karty dobierane z talii były jak najlepsze!",
+                    "Luaprata está a salvo por enquanto, mas a luta não acabou. Que você tenha muita sorte e compre os seus melhores cards no Ano Novo!",
+                    "В Луносвете наступило затишье, но битва еще не окончена. Желаем удачи и отличных карт в новом году!",
+                    "ตอนนี้ซิลเวอร์มูนปลอดภัยแล้ว แต่การต่อสู้[b]ยังไม่จบ ขอให้คุณโชคดีมีชัยและจั่วได้[b]การ์ดที่ต้องการในเทศกาลปีใหม่!",
+                    "银月城暂时安全了，但战事并未停息。转眼又是新的一年，祝君好运，神抽连连！",
+                    "銀月城暫時安全了，但戰鬥還沒結束。祝你新年手氣旺旺，怎麼抽牌都是神抽！"
+                ],
+                "m_locId": 2870071
+            }
+        },
+        {
+            "m_ID": 0,
+            "m_specialEventId": 5,
+            "m_eventRewardTrackId": 39,
+            "m_choiceConfirmationText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_shortConclusion": {
+                "m_locValues": [
+                    "Happy Hallow's End!",
+                    "Fröhliche Schlotternächte!",
+                    "¡Feliz Halloween!",
+                    "¡Feliz Halloween!",
+                    "Joyeuse Sanssaint !",
+                    "Buona Veglia delle Ombre!",
+                    "ハッピー・ハロウェンド！",
+                    "즐거운 할로윈 축제입니다!",
+                    "Szczęśliwych Zaduszników!",
+                    "Feliz Noturnália!",
+                    "Счастливого Тыквовина!",
+                    "สุขสันต์ฮอลโลว์สเอนด์!",
+                    "万圣节快乐！",
+                    "萬鬼節快樂！"
+                ],
+                "m_locId": 2870085
+            },
+            "m_longConclusion": {
+                "m_locValues": [
+                    "The Headless Horseman's soul has been laid to rest. But each spirit slain will rise again… and Death Knights know this best of all. Play on, eternal warrior, for Northrend calls!",
+                    "Die Seele des kopflosen Reiters hat Ruhe gefunden. Aber jeder gefallene Geist erhebt sich irgendwann erneut_... und Todesritter wissen das am besten. Voran, ewiger Krieger, denn Nordend ruft!",
+                    "El alma del Jinete decapitado ahora descansa. Pero los espíritus muertos resucitarán… y los Caballeros de la Muerte lo saben mejor que nadie. ¡Sigue jugando, pues Rasganorte llama!",
+                    "El alma del Jinete decapitado ahora descansa. Pero cada espíritu derribado se levantará de nuevo... y los Caballeros de la muerte lo saben mejor que nadie. ¡Juega, adalid inmortal! ¡Rasganorte te llama!",
+                    "L’âme du Cavalier sans tête a enfin trouvé le repos. Mais tout esprit assassiné finit un jour par se réveiller… et les chevaliers de la mort le savent mieux que quiconque. Jouez donc, car le Norfendre vous appelle !",
+                    "L'anima del Cavaliere Senza Testa è stata messa a riposo. Ma tutti gli spiriti uccisi riemergeranno... e i Cavalieri della Morte lo sanno bene. Continua a giocare, guerriero eterno, perché Nordania chiama!",
+                    "首なし騎士の魂は安らかな眠りについた。だが殺された者たちの魂は再び蘇る…そして、それを身を以て知っているのがデスナイト達なのだ。遊び続けよ、永遠の戦士たちよ、ノースレンドが呼んでいる！",
+                    "저주받은 기사의 영혼은 영면에 들었습니다. 하지만 처치한 영혼은 다시 일어나리란 사실을 죽음의 기사들은 너무나도 잘 알고 있지요. 계속 플레이하세요, 영원한 전사여! 노스렌드가 부릅니다!",
+                    "Dusza Bezgłowego Jeźdźca wreszcie zaznała spokoju. Lecz rycerze śmierci wiedzą najlepiej, że… duchy poległych jeszcze powstaną. Do boju, ku wiecznej walce – Północna Grań wzywa!",
+                    "A alma do Cavaleiro sem Cabeça já pode descansar. Mas o espírito dos mortos voltará... e os Cavaleiros da Morte sabem muito bem disso. Continue jogando, guerreiro eterno, pois Nortúndria chama!",
+                    "Душа Всадника без головы обрела покой. Но души всех убитых вновь восстанут... И рыцари смерти понимают это лучше всех. Продолжите игру, вечный воитель! Нордскол зовет!",
+                    "วิญญาณของทหารม้าไร้หัวไปสู่สุคติแล้ว_แต่วิญญาณ\nทุกดวงที่ถูกสังหารย่อมหวนกลับมา…_และเหล่าเดธไนท์\nรู้เรื่องนี้ดีกว่าใคร_จงเล่นต่อไป_นักรบอมตะ เพราะนอร์ธเรนด์กำลังเรียกหาเจ้า!",
+                    "无头骑士的灵魂虽已安息，但每一个深受其害的亡魂都会再度复活……这是死亡骑士的拿手好戏。来吧，永恒的战士，听从诺森德的召唤！",
+                    "無頭騎士的靈魂已得到安息。但每個被殺的靈魂都會再次復活…這點死亡騎士最懂了。繼續奮鬥吧，永恆的鬥士，北裂境在呼喚你！"
+                ],
+                "m_locId": 2870086
+            }
+        },
+        {
+            "m_ID": 0,
+            "m_specialEventId": 6,
+            "m_eventRewardTrackId": 43,
+            "m_choiceConfirmationText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_shortConclusion": {
+                "m_locValues": [
+                    "Happy Winter Veil!",
+                    "Frohes Winterhauchfest!",
+                    "¡Feliz Festival de Invierno!",
+                    "¡Feliz Festival de Invierno!",
+                    "Joyeux Voile d’hiver !",
+                    "Buon Grande Inverno!",
+                    "冬至祭おめでとう！",
+                    "즐거운 겨울맞이 축제입니다!",
+                    "Szczęśliwej Zimowej Uczty!",
+                    "Feliz Véu de Inverno!",
+                    "Счастливого Зимнего Покрова!",
+                    "สุขสันต์วินเทอร์เวล!",
+                    "冬幕节快乐！",
+                    "冬幕節快樂！"
+                ],
+                "m_locId": 2870090
+            },
+            "m_longConclusion": {
+                "m_locValues": [
+                    "The Scourge have been driven out, and the hearths have been lit. Thanks to you, Ironforge is safe once more! ",
+                    "Die Geißel wurde vertrieben und die Kaminfeuer brennen. Dank Euch ist Eisenschmiede erneut sicher! ",
+                    "Hemos expulsado a la Plaga y los hogares vuelven a estar encendidos. ¡Gracias a ti, Forjaz está a salvo una vez más!",
+                    "Han expulsado a la Plaga y los hogares se han encendido. ¡Gracias a ti, Forjaz vuelve a ser un lugar seguro! ",
+                    "Le Fléau a été chassé et les foyers ont été allumés. Grâce à vous, le calme règne à nouveau sur Forgefer ! ",
+                    "Il Flagello è stato cacciato e i focolari sono stati accesi. Grazie a te, Forgiardente è di nuovo al sicuro! ",
+                    "スコージは撃退され、家々の暖炉に火が灯された。ありがとう、あんたのおかげでアイアンフォージは今一度守られたよ！",
+                    "스컬지는 물러가고 난로에는 다시 불이 붙었습니다. 덕분에 아이언포지가 다시 안전해졌습니다! ",
+                    "Plaga przegnana, a paleniska znów płoną. Dzięki tobie Żelazna Kuźnia znów jest bezpieczna!",
+                    "O Flagelo foi derrotado e as lareiras foram acesas. Graças a você, Altaforja está a salvo outra vez! ",
+                    "Силы Плети удалось прогнать, и в очагах вновь занялось пламя. Благодаря вам в Стальгорне вновь воцарился мир! ",
+                    "สเคิร์จถูกขับไล่ และไฟเตาผิงลุกโชน ขอบคุณที่ช่วยให้ไอรอนฟอร์จปลอดภัยอีกครั้ง!",
+                    "天灾军团被赶跑啦，炉火又燃了起来。感谢有你，铁炉堡又安全了！ ",
+                    "天譴軍團離開了，爐火也重新點燃。謝謝你，鐵爐堡再度安全了！ "
+                ],
+                "m_locId": 2870091
+            }
+        },
+        {
+            "m_ID": 0,
+            "m_specialEventId": 7,
+            "m_eventRewardTrackId": 52,
+            "m_choiceConfirmationText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_shortConclusion": {
+                "m_locValues": [
+                    "The Festival of Legends continues...",
+                    "Das Festival der Legenden geht weiter_...",
+                    "El Festival Legendario continúa…",
+                    "El Festival de Leyendas continúa...",
+                    "La fête des légendes continue…",
+                    "Il Festival delle Leggende continua...",
+                    "もっと集え！レジェンド・フェスは続く…",
+                    "전설노래자랑은 계속됩니다...",
+                    "Festiwal Legend trwa w najlepsze…",
+                    "O Festival das Lendas continua...",
+                    "Фестиваль легенд продолжается...",
+                    "เฟสติวัลออฟเลเจนด์สดำเนินต่อไป...",
+                    "传奇音乐节仍在继续……",
+                    "傳說音樂祭還有後續…"
+                ],
+                "m_locId": 2871748
+            },
+            "m_longConclusion": {
+                "m_locValues": [
+                    "The last notes of this concert might have been played, but the music lives on forever!",
+                    "Die letzten Noten dieses Konzerts mögen gespielt sein, aber die Musik lebt ewig weiter!",
+                    "Puede que ya hayan sonado las últimas notas de este concierto, ¡pero su música siempre nos acompañará!",
+                    "Puede que ya hayan sonado las últimas notas de este concierto, ¡pero la música vivirá en nuestro corazón por siempre!",
+                    "Le concert est peut-être terminé, mais la musique résonnera pour toujours !",
+                    "Le ultime note di questo spettacolo stanno svanendo, ma la musica continuerà a vivere per sempre!",
+                    "このコンサートの余韻が聴こえなくなっても、音楽は永遠に生き続けるんだ！",
+                    "콘서트는 막을 내렸지만, 음악은 영원합니다!",
+                    "Ostatnie nuty koncertu już wybrzmiały, ale muzyka zostanie z nami na zawsze!",
+                    "As últimas notas do show já foram tocadas, mas a música perdura para sempre!",
+                    "Последние ноты концерта отзвучали, но музыка вечна!",
+                    "คอนเสิร์ตครั้งนี้อาจเล่นโน้ต\nตัวสุดท้ายไปแล้ว แต่ดนตรี\nจะคงอยู่ไปตลอดกาล!",
+                    "音乐会的尾声虽已散去，但音乐永不消逝！",
+                    "這場演唱會或許結束了，但是音樂會永遠留在心中！"
+                ],
+                "m_locId": 2871749
+            }
+        },
+        {
+            "m_ID": 0,
+            "m_specialEventId": 8,
+            "m_eventRewardTrackId": 55,
+            "m_choiceConfirmationText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_shortConclusion": {
+                "m_locValues": [
+                    "Mglrmglmglmgl!",
+                    "Mglrmglmglmgl!",
+                    "¡Mglrmglmglmgl!",
+                    "¡Mglrmglmglmgl!",
+                    "Mglrmglmglmgl !",
+                    "Mglrmglmglmgl!",
+                    "ムグルァムグルムグルムグル！",
+                    "므오옳오오오옳!",
+                    "Mglrmglmglmgl!",
+                    "Mglrmglmglmgl!",
+                    "Мглрмглмглмгл!",
+                    "มรลรมกลมกลมกล!",
+                    "姆咯啦啦咯啦姆咯啦姆！",
+                    "姆咯姆咯姆咯姆咯！"
+                ],
+                "m_locId": 2872607
+            },
+            "m_longConclusion": {
+                "m_locValues": [
+                    "Mmmrrglllm uuua wrrrlmm mmmml glrlblrmmmm!",
+                    "Mmmrrglllm uuua wrrrlmm mmmml glrlblrmmmm!",
+                    "¡Mmmrrglllm uuua wrrrlmm mmmml glrlblrmmmm!",
+                    "¡Mmmrrglllm uuua wrrrlmm mmmml glrlblrmmmm!",
+                    "Mmmrrglllm uuua wrrrlmm mmmml glrlblrmmmm !",
+                    "Mmmrrglllm uuua wrrrlmm mmmml glrlblrmmmm!",
+                    "ムムムァァグルルルム　ウゥゥア　ウァァァルムム　ムムムル　グルァルブルァムムムム！",
+                    "므으으으옳옳 우우우 우르르르옳 므오오옳 그오옳옳!",
+                    "Mmmrrglllm uuua wrrrlmm mmmml glrlblrmmmm!",
+                    "Mmmrrglllm uuua wrrrlmm mmmml glrlblrmmmm!",
+                    "Ммррглм у-у-у-а-а врррлм мммл гллблрммм!",
+                    "มมมรรกลลลม_อูอา วรรรลมม_มมมมล กลรลบลรมมมม!",
+                    "姆啦咯啦姆咯啦啦姆，呜呜啊哇啦啦姆姆呜啦，咯啦啦卟啦姆！",
+                    "姆咯咯嚕嗚哇嗚嗯咯咯囉噗嚕！"
+                ],
+                "m_locId": 2872608
+            }
+        },
+        {
+            "m_ID": 0,
+            "m_specialEventId": 9,
+            "m_eventRewardTrackId": 56,
+            "m_choiceConfirmationText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_shortConclusion": {
+                "m_locValues": [
+                    "Epic Legends. Rockin' Duels.",
+                    "Epische Legenden. Rockende Duelle.",
+                    "Leyendas épicas. Duelos de rock.",
+                    "Leyendas épicas. Duelos rockeros.",
+                    "Des légendes épiques. Des duels qui décoiffent.",
+                    "Leggende Epiche. Duelli che spaccano.",
+                    "伝説は歌い継がれる。",
+                    "엄청난 전설들의 록 대결.",
+                    "Epickie legendy. Rockowe pojedynki.",
+                    "Lendas Épicas. Duelos Animais.",
+                    "Эпические легенды. Громкие дуэли.",
+                    "สุดยอดตำนาน ดวลกันเดือดพล่าน",
+                    "传奇史诗，摇滚对决！",
+                    "史詩傳奇搖滾對決。"
+                ],
+                "m_locId": 2873800
+            },
+            "m_longConclusion": {
+                "m_locValues": [
+                    "You gave it all on that stage, played epic duels, and forged melodies unheard in this or any era. Rock on, musician.",
+                    "Ihr habt auf dieser Bühne alles gegeben, epische Duelle gespielt und Melodien geschmiedet, die in dieser oder anderen Ären beispiellos sind. Rockt weiter, Musiker.",
+                    "Lo has dado todo en el escenario, te has batido en épicos duelos y has forjado melodías que no pertenecen a ninguna era. Sigue así, roquero.",
+                    "Lo diste todo en aquel escenario, tocaste duelos épicos y forjaste melodías nunca antes escuchadas en esta o en cualquier época. Sigue rockeando, estrella.",
+                    "Vous avez enflammé la scène, disputé des duels sensationnels et composé des mélodies révolutionnaires. Chapeau, l’artiste.",
+                    "Hai fatto del tuo meglio in campo, affrontato duelli epici e creato melodie mai udite in questa o altre epoche. Continua così, musicista.",
+                    "あんたはステージの星となり、手に汗握る名勝負を演じ、未だかつて誰も聞いたことのないメロディーを奏でた。まさに一流のミュージシャンだな。",
+                    "무대에서 모든 것을 쏟아부은 대결을 통해 전무후무한 멜로디를 창조해 냈습니다. 음악가들의 록은 계속되리.",
+                    "Udało ci się dać z siebie wszystko, wziąć udział w epickich pojedynkach i snuć melodie niesłyszane w tej,\na w zasadzie w żadnej epoce. Nie przestawaj grać.",
+                    "Você deu tudo de si no palco, tocou em duelos épicos e forjou melodias nunca antes ouvidas em qualquer era. Mandou ver, artista.",
+                    "Вы выложились на сцене на полную, участвовали в эпических дуэлях и создали музыку, какой не слышали ни в этой, ни в других эрах. Жгите дальше, музыкант!",
+                    "คุณทุ่มสุดตัวบนเวที และสร้างสรรค์ท่วงทำนองใหม่[b]ที่ไม่มีใครในยุคนี้หรือยุคไหนเคยได้ยิน ร็อคต่อไปนะ นักดนตรี",
+                    "你在舞台上倾力挥洒，秀出了史诗级的对决，谱写出了前所未有的旋律。继续加油吧，音乐人！",
+                    "在舞台上你毫無保留，展開史詩對決，打造前所未聞的旋律。搖滾吧，音樂家。"
+                ],
+                "m_locId": 2873801
+            }
+        }
+    ]
+}
