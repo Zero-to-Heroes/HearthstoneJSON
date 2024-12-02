@@ -22,50 +22,6 @@
             "m_tooltipInitOrder": 12000
         },
         {
-            "m_ID": 196,
-            "m_noteDesc": "Refresh\n",
-            "m_tagId": 2104,
-            "m_name": "GLOBAL_KEYWORD_REFRESH",
-            "m_text": "GLOBAL_KEYWORD_REFRESH_TEXT",
-            "m_refText": "GLOBAL_KEYWORD_REFRESH_TEXT",
-            "m_collectionText": "",
-            "m_isCollectionOnly": 0,
-            "m_tooltipInitOrder": 94000
-        },
-        {
-            "m_ID": 22,
-            "m_noteDesc": "C'Thun, Old God\n",
-            "m_tagId": 436,
-            "m_name": "GLOBAL_KEYWORD_CTHUN",
-            "m_text": "GLOBAL_KEYWORD_CTHUN_TEXT",
-            "m_refText": "GLOBAL_KEYWORD_CTHUN_TEXT",
-            "m_collectionText": "",
-            "m_isCollectionOnly": 0,
-            "m_tooltipInitOrder": 68000
-        },
-        {
-            "m_ID": 247,
-            "m_noteDesc": "Corpse\n",
-            "m_tagId": 2559,
-            "m_name": "GLOBAL_KEYWORD_CORPSE",
-            "m_text": "GLOBAL_KEYWORD_CORPSE_TEXT",
-            "m_refText": "GLOBAL_KEYWORD_CORPSE_TEXT",
-            "m_collectionText": "",
-            "m_isCollectionOnly": 0,
-            "m_tooltipInitOrder": 134000
-        },
-        {
-            "m_ID": 27,
-            "m_noteDesc": "Grimy Goons\n",
-            "m_tagId": 482,
-            "m_name": "GLOBAL_KEYWORD_GRIMY_GOONS",
-            "m_text": "",
-            "m_refText": "",
-            "m_collectionText": "GLOBAL_KEYWORD_GRIMY_GOONS_COLLECTION_TEXT",
-            "m_isCollectionOnly": 1,
-            "m_tooltipInitOrder": 72000
-        },
-        {
             "m_ID": 10,
             "m_noteDesc": "Freeze\n",
             "m_tagId": 208,
@@ -75,61 +31,6 @@
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
             "m_tooltipInitOrder": 42000
-        },
-        {
-            "m_ID": 311,
-            "m_noteDesc": "Demon Hunter Tourist",
-            "m_tagId": 3601,
-            "m_name": "GLOBAL_KEYWORD_DEMON_HUNTER_TOURIST",
-            "m_text": "GLOBAL_KEYWORD_DEMON_HUNTER_TOURIST_TEXT",
-            "m_refText": "GLOBAL_KEYWORD_DEMON_HUNTER_TOURIST_TEXT",
-            "m_collectionText": "",
-            "m_isCollectionOnly": 0,
-            "m_tooltipInitOrder": 10000
-        },
-        {
-            "m_ID": 198,
-            "m_noteDesc": "Avenge (X)\n",
-            "m_tagId": 2129,
-            "m_name": "GLOBAL_KEYWORD_AVENGE",
-            "m_text": "GLOBAL_KEYWORD_AVENGE_TEXT",
-            "m_refText": "GLOBAL_KEYWORD_AVENGE_TEXT",
-            "m_collectionText": "",
-            "m_isCollectionOnly": 0,
-            "m_tooltipInitOrder": 95000
-        },
-        {
-            "m_ID": 222,
-            "m_noteDesc": "Deathblow\n",
-            "m_tagId": 2185,
-            "m_name": "GLOBAL_KEYWORD_DEATHBLOW",
-            "m_text": "GLOBAL_KEYWORD_DEATHBLOW_TEXT",
-            "m_refText": "GLOBAL_KEYWORD_DEATHBLOW_TEXT",
-            "m_collectionText": "GLOBAL_KEYWORD_DEATHBLOW_TEXT",
-            "m_isCollectionOnly": 0,
-            "m_tooltipInitOrder": 110000
-        },
-        {
-            "m_ID": 248,
-            "m_noteDesc": "Bench\n",
-            "m_tagId": 2570,
-            "m_name": "GLOBAL_KEYWORD_BENCH_MERC",
-            "m_text": "GLOBAL_KEYWORD_BENCH_MERC_TEXT",
-            "m_refText": "GLOBAL_KEYWORD_BENCH_MERC_TEXT",
-            "m_collectionText": "GLOBAL_KEYWORD_BENCH_MERC_TEXT",
-            "m_isCollectionOnly": 0,
-            "m_tooltipInitOrder": 131000
-        },
-        {
-            "m_ID": 270,
-            "m_noteDesc": "Titan\n",
-            "m_tagId": 2772,
-            "m_name": "GLOBAL_KEYWORD_TITAN",
-            "m_text": "GLOBAL_KEYWORD_TITAN_TEXT",
-            "m_refText": "GLOBAL_KEYWORD_TITAN_TEXT",
-            "m_collectionText": "",
-            "m_isCollectionOnly": 0,
-            "m_tooltipInitOrder": 9000
         },
         {
             "m_ID": 100,
@@ -143,61 +44,6 @@
             "m_tooltipInitOrder": 118000
         },
         {
-            "m_ID": 5,
-            "m_noteDesc": "Secret\n",
-            "m_tagId": 219,
-            "m_name": "GLOBAL_KEYWORD_SECRET",
-            "m_text": "GLOBAL_KEYWORD_SECRET_TEXT",
-            "m_refText": "GLOBAL_KEYWORD_SECRET_TEXT",
-            "m_collectionText": "",
-            "m_isCollectionOnly": 0,
-            "m_tooltipInitOrder": 57000
-        },
-        {
-            "m_ID": 223,
-            "m_noteDesc": "Bleed\n",
-            "m_tagId": 2214,
-            "m_name": "GLOBAL_KEYWORD_BLEED",
-            "m_text": "GLOBAL_KEYWORD_BLEED_TEXT",
-            "m_refText": "GLOBAL_KEYWORD_BLEED_TEXT",
-            "m_collectionText": "GLOBAL_KEYWORD_BLEED_TEXT",
-            "m_isCollectionOnly": 0,
-            "m_tooltipInitOrder": 111000
-        },
-        {
-            "m_ID": 249,
-            "m_noteDesc": "Explorer\n",
-            "m_tagId": 2510,
-            "m_name": "GLOBAL_KEYWORD_EXPLORER_MERC",
-            "m_text": "GLOBAL_KEYWORD_EXPLORER_MERC_TEXT",
-            "m_refText": "GLOBAL_KEYWORD_EXPLORER_MERC_TEXT",
-            "m_collectionText": "GLOBAL_KEYWORD_EXPLORER_MERC_TEXT",
-            "m_isCollectionOnly": 0,
-            "m_tooltipInitOrder": 145000
-        },
-        {
-            "m_ID": 199,
-            "m_noteDesc": "Arcane Resistance\n",
-            "m_tagId": 2138,
-            "m_name": "GLOBAL_KEYWORD_SPELLRESISTANCE_ARCANE",
-            "m_text": "GLOBAL_KEYWORD_SPELLRESISTANCE_ARCANE_TEXT",
-            "m_refText": "GLOBAL_KEYWORD_SPELLRESISTANCE_ARCANE_REF_TEXT",
-            "m_collectionText": "GLOBAL_KEYWORD_SPELLRESISTANCE_ARCANE_REF_TEXT",
-            "m_isCollectionOnly": 0,
-            "m_tooltipInitOrder": 24000
-        },
-        {
-            "m_ID": 28,
-            "m_noteDesc": "Jade Lotus\n",
-            "m_tagId": 483,
-            "m_name": "GLOBAL_KEYWORD_JADE_LOTUS",
-            "m_text": "",
-            "m_refText": "",
-            "m_collectionText": "GLOBAL_KEYWORD_JADE_LOTUS_COLLECTION_TEXT",
-            "m_isCollectionOnly": 1,
-            "m_tooltipInitOrder": 73000
-        },
-        {
             "m_ID": 101,
             "m_noteDesc": "Arcane Spell Damage\n",
             "m_tagId": 1945,
@@ -207,61 +53,6 @@
             "m_collectionText": "GLOBAL_KEYWORD_SPELLPOWER_ARCANE_REF_TEXT",
             "m_isCollectionOnly": 0,
             "m_tooltipInitOrder": 16000
-        },
-        {
-            "m_ID": 52,
-            "m_noteDesc": "Echo\n",
-            "m_tagId": 846,
-            "m_name": "GLOBAL_KEYWORD_ECHO",
-            "m_text": "GLOBAL_KEYWORD_ECHO_TEXT",
-            "m_refText": "GLOBAL_KEYWORD_ECHO_TEXT",
-            "m_collectionText": "",
-            "m_isCollectionOnly": 0,
-            "m_tooltipInitOrder": 45000
-        },
-        {
-            "m_ID": 25,
-            "m_noteDesc": "Auto-Attack\n",
-            "m_tagId": 457,
-            "m_name": "GLOBAL_KEYWORD_AUTOATTACK",
-            "m_text": "GLOBAL_KEYWORD_AUTOATTACK_TEXT",
-            "m_refText": "GLOBAL_KEYWORD_AUTOATTACK_TEXT",
-            "m_collectionText": "",
-            "m_isCollectionOnly": 0,
-            "m_tooltipInitOrder": 69000
-        },
-        {
-            "m_ID": 2,
-            "m_noteDesc": "Spell Damage\n",
-            "m_tagId": 192,
-            "m_name": "GLOBAL_KEYWORD_SPELLPOWER",
-            "m_text": "GLOBAL_KEYWORD_SPELLPOWER_TEXT",
-            "m_refText": "GLOBAL_KEYWORD_SPELLPOWER_REF_TEXT",
-            "m_collectionText": "GLOBAL_KEYWORD_SPELLPOWER_REF_TEXT",
-            "m_isCollectionOnly": 0,
-            "m_tooltipInitOrder": 15000
-        },
-        {
-            "m_ID": 224,
-            "m_noteDesc": "Critical Damage\n",
-            "m_tagId": 2219,
-            "m_name": "GLOBAL_KEYWORD_CRITICAL_DAMAGE",
-            "m_text": "GLOBAL_KEYWORD_CRITICAL_DAMAGE_TEXT",
-            "m_refText": "GLOBAL_KEYWORD_CRITICAL_DAMAGE_TEXT",
-            "m_collectionText": "GLOBAL_KEYWORD_CRITICAL_DAMAGE_TEXT",
-            "m_isCollectionOnly": 0,
-            "m_tooltipInitOrder": 112000
-        },
-        {
-            "m_ID": 29,
-            "m_noteDesc": "Kabal\n",
-            "m_tagId": 484,
-            "m_name": "GLOBAL_KEYWORD_KABAL",
-            "m_text": "",
-            "m_refText": "",
-            "m_collectionText": "GLOBAL_KEYWORD_KABAL_COLLECTION_TEXT",
-            "m_isCollectionOnly": 1,
-            "m_tooltipInitOrder": 74000
         },
         {
             "m_ID": 102,
@@ -275,61 +66,6 @@
             "m_tooltipInitOrder": 17000
         },
         {
-            "m_ID": 53,
-            "m_noteDesc": "Rush\n",
-            "m_tagId": 791,
-            "m_name": "GLOBAL_KEYWORD_RUSH",
-            "m_text": "GLOBAL_KEYWORD_RUSH_TEXT",
-            "m_refText": "GLOBAL_KEYWORD_RUSH_TEXT",
-            "m_collectionText": "",
-            "m_isCollectionOnly": 0,
-            "m_tooltipInitOrder": 46000
-        },
-        {
-            "m_ID": 250,
-            "m_noteDesc": "Silence\n",
-            "m_tagId": 2631,
-            "m_name": "GLOBAL_KEYWORD_SILENCE_MERC",
-            "m_text": "GLOBAL_KEYWORD_SILENCE_MERC_TEXT",
-            "m_refText": "GLOBAL_KEYWORD_SILENCE_MERC_TEXT",
-            "m_collectionText": "GLOBAL_KEYWORD_SILENCE_MERC_TEXT",
-            "m_isCollectionOnly": 0,
-            "m_tooltipInitOrder": 62000
-        },
-        {
-            "m_ID": 20,
-            "m_noteDesc": "Inspire\n",
-            "m_tagId": 403,
-            "m_name": "GLOBAL_KEYWORD_INSPIRE",
-            "m_text": "GLOBAL_KEYWORD_INSPIRE_TEXT",
-            "m_refText": "GLOBAL_KEYWORD_INSPIRE_TEXT",
-            "m_collectionText": "",
-            "m_isCollectionOnly": 0,
-            "m_tooltipInitOrder": 66000
-        },
-        {
-            "m_ID": 225,
-            "m_noteDesc": "Root\n",
-            "m_tagId": 2220,
-            "m_name": "GLOBAL_KEYWORD_ROOT",
-            "m_text": "GLOBAL_KEYWORD_ROOT_TEXT",
-            "m_refText": "GLOBAL_KEYWORD_ROOT_TEXT",
-            "m_collectionText": "GLOBAL_KEYWORD_ROOT_TEXT",
-            "m_isCollectionOnly": 0,
-            "m_tooltipInitOrder": 113000
-        },
-        {
-            "m_ID": 291,
-            "m_noteDesc": "Summoned When Drawn\n",
-            "m_tagId": 3128,
-            "m_name": "GLOBAL_KEYWORD_SUMMONED_WHEN_DRAWN",
-            "m_text": "GLOBAL_KEYWORD_SUMMONED_WHEN_DRAWN_TEXT",
-            "m_refText": "GLOBAL_KEYWORD_SUMMONED_WHEN_DRAWN_TEXT",
-            "m_collectionText": "",
-            "m_isCollectionOnly": 0,
-            "m_tooltipInitOrder": 135000
-        },
-        {
             "m_ID": 103,
             "m_noteDesc": "Frost Spell Damage\n",
             "m_tagId": 1947,
@@ -339,50 +75,6 @@
             "m_collectionText": "GLOBAL_KEYWORD_SPELLPOWER_FROST_REF_TEXT",
             "m_isCollectionOnly": 0,
             "m_tooltipInitOrder": 18000
-        },
-        {
-            "m_ID": 57,
-            "m_noteDesc": "Passive\n",
-            "m_tagId": 783,
-            "m_name": "GLOBAL_KEYWORD_PASSIVE",
-            "m_text": "GLOBAL_KEYWORD_PASSIVE_TEXT",
-            "m_refText": "GLOBAL_KEYWORD_PASSIVE_TEXT",
-            "m_collectionText": "",
-            "m_isCollectionOnly": 0,
-            "m_tooltipInitOrder": 81000
-        },
-        {
-            "m_ID": 200,
-            "m_noteDesc": "Fire Resistance\n",
-            "m_tagId": 2139,
-            "m_name": "GLOBAL_KEYWORD_SPELLRESISTANCE_FIRE",
-            "m_text": "GLOBAL_KEYWORD_SPELLRESISTANCE_FIRE_TEXT",
-            "m_refText": "GLOBAL_KEYWORD_SPELLRESISTANCE_FIRE_REF_TEXT",
-            "m_collectionText": "GLOBAL_KEYWORD_SPELLRESISTANCE_FIRE_REF_TEXT",
-            "m_isCollectionOnly": 0,
-            "m_tooltipInitOrder": 25000
-        },
-        {
-            "m_ID": 226,
-            "m_noteDesc": "Alliance\n",
-            "m_tagId": 2279,
-            "m_name": "GLOBAL_KEYWORD_ALLIANCE",
-            "m_text": "GLOBAL_KEYWORD_ALLIANCE_TEXT",
-            "m_refText": "GLOBAL_KEYWORD_ALLIANCE_TEXT",
-            "m_collectionText": "GLOBAL_KEYWORD_ALLIANCE_TEXT",
-            "m_isCollectionOnly": 0,
-            "m_tooltipInitOrder": 114000
-        },
-        {
-            "m_ID": 293,
-            "m_noteDesc": "Consume",
-            "m_tagId": 3254,
-            "m_name": "GLOBAL_KEYWORD_BACON_CONSUME",
-            "m_text": "GLOBAL_KEYWORD_BACON_CONSUME_TEXT",
-            "m_refText": "GLOBAL_KEYWORD_BACON_CONSUME_TEXT",
-            "m_collectionText": "",
-            "m_isCollectionOnly": 0,
-            "m_tooltipInitOrder": 152000
         },
         {
             "m_ID": 104,
@@ -396,61 +88,6 @@
             "m_tooltipInitOrder": 19000
         },
         {
-            "m_ID": 6,
-            "m_noteDesc": "Stealth\n",
-            "m_tagId": 191,
-            "m_name": "GLOBAL_KEYWORD_STEALTH",
-            "m_text": "GLOBAL_KEYWORD_STEALTH_TEXT",
-            "m_refText": "GLOBAL_KEYWORD_STEALTH_REF_TEXT",
-            "m_collectionText": "",
-            "m_isCollectionOnly": 0,
-            "m_tooltipInitOrder": 13000
-        },
-        {
-            "m_ID": 201,
-            "m_noteDesc": "Frost Resistance\n",
-            "m_tagId": 2140,
-            "m_name": "GLOBAL_KEYWORD_SPELLRESISTANCE_FROST",
-            "m_text": "GLOBAL_KEYWORD_SPELLRESISTANCE_FROST_TEXT",
-            "m_refText": "GLOBAL_KEYWORD_SPELLRESISTANCE_FROST_REF_TEXT",
-            "m_collectionText": "GLOBAL_KEYWORD_SPELLRESISTANCE_FROST_REF_TEXT",
-            "m_isCollectionOnly": 0,
-            "m_tooltipInitOrder": 26000
-        },
-        {
-            "m_ID": 227,
-            "m_noteDesc": "Horde\n",
-            "m_tagId": 2280,
-            "m_name": "GLOBAL_KEYWORD_HORDE",
-            "m_text": "GLOBAL_KEYWORD_HORDE_TEXT",
-            "m_refText": "GLOBAL_KEYWORD_HORDE_TEXT",
-            "m_collectionText": "GLOBAL_KEYWORD_HORDE_TEXT",
-            "m_isCollectionOnly": 0,
-            "m_tooltipInitOrder": 115000
-        },
-        {
-            "m_ID": 252,
-            "m_noteDesc": "Stealth\n",
-            "m_tagId": 2704,
-            "m_name": "GLOBAL_KEYWORD_BACON_STEALTH",
-            "m_text": "GLOBAL_KEYWORD_BACON_STEALTH_TEXT",
-            "m_refText": "GLOBAL_KEYWORD_BACON_STEALTH_TEXT",
-            "m_collectionText": "",
-            "m_isCollectionOnly": 0,
-            "m_tooltipInitOrder": 123000
-        },
-        {
-            "m_ID": 294,
-            "m_noteDesc": "Miniaturize",
-            "m_tagId": 3318,
-            "m_name": "GLOBAL_KEYWORD_MINIATURIZE",
-            "m_text": "GLOBAL_KEYWORD_MINIATURIZE_TEXT",
-            "m_refText": "GLOBAL_KEYWORD_MINIATURIZE_TEXT",
-            "m_collectionText": "",
-            "m_isCollectionOnly": 0,
-            "m_tooltipInitOrder": 150000
-        },
-        {
             "m_ID": 105,
             "m_noteDesc": "Holy Spell Damage\n",
             "m_tagId": 1949,
@@ -460,72 +97,6 @@
             "m_collectionText": "GLOBAL_KEYWORD_SPELLPOWER_HOLY_REF_TEXT",
             "m_isCollectionOnly": 0,
             "m_tooltipInitOrder": 20000
-        },
-        {
-            "m_ID": 60,
-            "m_noteDesc": "",
-            "m_tagId": 880,
-            "m_name": "GLOBAL_KEYWORD_ETHEREAL",
-            "m_text": "GLOBAL_KEYWORD_ETHEREAL_TEXT",
-            "m_refText": "GLOBAL_KEYWORD_ETHEREAL_TEXT",
-            "m_collectionText": "",
-            "m_isCollectionOnly": 0,
-            "m_tooltipInitOrder": 50000
-        },
-        {
-            "m_ID": 202,
-            "m_noteDesc": "Nature Resistance\n",
-            "m_tagId": 2141,
-            "m_name": "GLOBAL_KEYWORD_SPELLRESISTANCE_NATURE",
-            "m_text": "GLOBAL_KEYWORD_SPELLRESISTANCE_NATURE_TEXT",
-            "m_refText": "GLOBAL_KEYWORD_SPELLRESISTANCE_NATURE_REF_TEXT",
-            "m_collectionText": "GLOBAL_KEYWORD_SPELLRESISTANCE_NATURE_REF_TEXT",
-            "m_isCollectionOnly": 0,
-            "m_tooltipInitOrder": 27000
-        },
-        {
-            "m_ID": 229,
-            "m_noteDesc": "Refresh\n",
-            "m_tagId": 2312,
-            "m_name": "GLOBAL_KEYWORD_REFRESH_MERC",
-            "m_text": "GLOBAL_KEYWORD_REFRESH_MERC_TEXT",
-            "m_refText": "GLOBAL_KEYWORD_REFRESH_MERC_TEXT",
-            "m_collectionText": "GLOBAL_KEYWORD_REFRESH_MERC_TEXT",
-            "m_isCollectionOnly": 0,
-            "m_tooltipInitOrder": 116000
-        },
-        {
-            "m_ID": 253,
-            "m_noteDesc": "Quest\n",
-            "m_tagId": 2705,
-            "m_name": "GLOBAL_KEYWORD_BACON_QUEST",
-            "m_text": "GLOBAL_KEYWORD_BACON_QUEST_TEXT",
-            "m_refText": "GLOBAL_KEYWORD_BACON_QUEST_TEXT",
-            "m_collectionText": "",
-            "m_isCollectionOnly": 0,
-            "m_tooltipInitOrder": 124000
-        },
-        {
-            "m_ID": 295,
-            "m_noteDesc": "Mini",
-            "m_tagId": 3319,
-            "m_name": "GLOBAL_KEYWORD_MINI",
-            "m_text": "GLOBAL_KEYWORD_MINI_TEXT",
-            "m_refText": "GLOBAL_KEYWORD_MINI_REF_TEXT",
-            "m_collectionText": "",
-            "m_isCollectionOnly": 0,
-            "m_tooltipInitOrder": 151000
-        },
-        {
-            "m_ID": 61,
-            "m_noteDesc": "Overkill\n",
-            "m_tagId": 923,
-            "m_name": "GLOBAL_KEYWORD_OVERKILL",
-            "m_text": "GLOBAL_KEYWORD_OVERKILL_TEXT",
-            "m_refText": "GLOBAL_KEYWORD_OVERKILL_TEXT",
-            "m_collectionText": "",
-            "m_isCollectionOnly": 0,
-            "m_tooltipInitOrder": 48000
         },
         {
             "m_ID": 106,
@@ -539,50 +110,6 @@
             "m_tooltipInitOrder": 21000
         },
         {
-            "m_ID": 230,
-            "m_noteDesc": "Elves\n",
-            "m_tagId": 2322,
-            "m_name": "GLOBAL_KEYWORD_ELVES_MERC",
-            "m_text": "GLOBAL_KEYWORD_ELVES_MERC_TEXT",
-            "m_refText": "GLOBAL_KEYWORD_ELVES_MERC_TEXT",
-            "m_collectionText": "GLOBAL_KEYWORD_ELVES_MERC_TEXT",
-            "m_isCollectionOnly": 0,
-            "m_tooltipInitOrder": 117000
-        },
-        {
-            "m_ID": 203,
-            "m_noteDesc": "Holy Resistance\n",
-            "m_tagId": 2142,
-            "m_name": "GLOBAL_KEYWORD_SPELLRESISTANCE_HOLY",
-            "m_text": "GLOBAL_KEYWORD_SPELLRESISTANCE_HOLY_TEXT",
-            "m_refText": "GLOBAL_KEYWORD_SPELLRESISTANCE_HOLY_REF_TEXT",
-            "m_collectionText": "GLOBAL_KEYWORD_SPELLRESISTANCE_HOLY_REF_TEXT",
-            "m_isCollectionOnly": 0,
-            "m_tooltipInitOrder": 28000
-        },
-        {
-            "m_ID": 254,
-            "m_noteDesc": "Charge\n",
-            "m_tagId": 2779,
-            "m_name": "GLOBAL_KEYWORD_CHARGE_MERC",
-            "m_text": "GLOBAL_KEYWORD_CHARGE_MERC_TEXT",
-            "m_refText": "GLOBAL_KEYWORD_CHARGE_MERC_TEXT",
-            "m_collectionText": "",
-            "m_isCollectionOnly": 0,
-            "m_tooltipInitOrder": 146000
-        },
-        {
-            "m_ID": 297,
-            "m_noteDesc": "Quickdraw\n",
-            "m_tagId": 2905,
-            "m_name": "GLOBAL_KEYWORD_QUICKDRAW",
-            "m_text": "GLOBAL_KEYWORD_QUICKDRAW_TEXT",
-            "m_refText": "GLOBAL_KEYWORD_QUICKDRAW_REF_TEXT",
-            "m_collectionText": "",
-            "m_isCollectionOnly": 0,
-            "m_tooltipInitOrder": 136000
-        },
-        {
             "m_ID": 107,
             "m_noteDesc": "Fel Spell Damage\n",
             "m_tagId": 1951,
@@ -592,72 +119,6 @@
             "m_collectionText": "GLOBAL_KEYWORD_SPELLPOWER_FEL_REF_TEXT",
             "m_isCollectionOnly": 0,
             "m_tooltipInitOrder": 22000
-        },
-        {
-            "m_ID": 62,
-            "m_noteDesc": "",
-            "m_tagId": 924,
-            "m_name": "GLOBAL_KEYWORD_PROPHECY",
-            "m_text": "GLOBAL_KEYWORD_PROPHECY_TEXT",
-            "m_refText": "GLOBAL_KEYWORD_PROPHECY_TEXT",
-            "m_collectionText": "",
-            "m_isCollectionOnly": 0,
-            "m_tooltipInitOrder": 49000
-        },
-        {
-            "m_ID": 298,
-            "m_noteDesc": "Excavate\n",
-            "m_tagId": 3114,
-            "m_name": "GLOBAL_KEYWORD_EXCAVATE",
-            "m_text": "GLOBAL_KEYWORD_EXCAVATE_TEXT",
-            "m_refText": "GLOBAL_KEYWORD_EXCAVATE_REF_TEXT",
-            "m_collectionText": "",
-            "m_isCollectionOnly": 0,
-            "m_tooltipInitOrder": 137000
-        },
-        {
-            "m_ID": 231,
-            "m_noteDesc": "Colossal +X\n",
-            "m_tagId": 2247,
-            "m_name": "GLOBAL_KEYWORD_COLOSSAL",
-            "m_text": "GLOBAL_KEYWORD_COLOSSAL_TEXT",
-            "m_refText": "GLOBAL_KEYWORD_COLOSSAL_TEXT",
-            "m_collectionText": "",
-            "m_isCollectionOnly": 0,
-            "m_tooltipInitOrder": 129000
-        },
-        {
-            "m_ID": 255,
-            "m_noteDesc": "Finale\n",
-            "m_tagId": 2820,
-            "m_name": "GLOBAL_KEYWORD_FINALE",
-            "m_text": "GLOBAL_KEYWORD_FINALE_TEXT",
-            "m_refText": "GLOBAL_KEYWORD_FINALE_TEXT",
-            "m_collectionText": "",
-            "m_isCollectionOnly": 0,
-            "m_tooltipInitOrder": 139000
-        },
-        {
-            "m_ID": 204,
-            "m_noteDesc": "Shadow Resistance\n",
-            "m_tagId": 2143,
-            "m_name": "GLOBAL_KEYWORD_SPELLRESISTANCE_SHADOW",
-            "m_text": "GLOBAL_KEYWORD_SPELLRESISTANCE_SHADOW_TEXT",
-            "m_refText": "GLOBAL_KEYWORD_SPELLRESISTANCE_SHADOW_REF_TEXT",
-            "m_collectionText": "GLOBAL_KEYWORD_SPELLRESISTANCE_SHADOW_REF_TEXT",
-            "m_isCollectionOnly": 0,
-            "m_tooltipInitOrder": 29000
-        },
-        {
-            "m_ID": 312,
-            "m_noteDesc": "Priest Tourist",
-            "m_tagId": 3602,
-            "m_name": "GLOBAL_KEYWORD_PRIEST_TOURIST",
-            "m_text": "GLOBAL_KEYWORD_PRIEST_TOURIST_TEXT",
-            "m_refText": "GLOBAL_KEYWORD_PRIEST_TOURIST_TEXT",
-            "m_collectionText": "",
-            "m_isCollectionOnly": 0,
-            "m_tooltipInitOrder": 10009
         },
         {
             "m_ID": 108,
@@ -671,61 +132,6 @@
             "m_tooltipInitOrder": 23000
         },
         {
-            "m_ID": 3,
-            "m_noteDesc": "Divine Shield\n",
-            "m_tagId": 194,
-            "m_name": "GLOBAL_KEYWORD_DIVINE_SHIELD",
-            "m_text": "GLOBAL_KEYWORD_DIVINE_SHIELD_TEXT",
-            "m_refText": "GLOBAL_KEYWORD_DIVINE_SHIELD_REF_TEXT",
-            "m_collectionText": "",
-            "m_isCollectionOnly": 0,
-            "m_tooltipInitOrder": 14000
-        },
-        {
-            "m_ID": 256,
-            "m_noteDesc": "Overheal\n",
-            "m_tagId": 2821,
-            "m_name": "GLOBAL_KEYWORD_OVERHEAL",
-            "m_text": "GLOBAL_KEYWORD_OVERHEAL_TEXT",
-            "m_refText": "GLOBAL_KEYWORD_OVERHEAL_TEXT",
-            "m_collectionText": "",
-            "m_isCollectionOnly": 0,
-            "m_tooltipInitOrder": 142000
-        },
-        {
-            "m_ID": 205,
-            "m_noteDesc": "Fel Resistance\n",
-            "m_tagId": 2144,
-            "m_name": "GLOBAL_KEYWORD_SPELLRESISTANCE_FEL",
-            "m_text": "GLOBAL_KEYWORD_SPELLRESISTANCE_FEL_TEXT",
-            "m_refText": "GLOBAL_KEYWORD_SPELLRESISTANCE_FEL_REF_TEXT",
-            "m_collectionText": "GLOBAL_KEYWORD_SPELLRESISTANCE_FEL_REF_TEXT",
-            "m_isCollectionOnly": 0,
-            "m_tooltipInitOrder": 30000
-        },
-        {
-            "m_ID": 313,
-            "m_noteDesc": "Hunter Tourist",
-            "m_tagId": 3603,
-            "m_name": "GLOBAL_KEYWORD_HUNTER_TOURIST",
-            "m_text": "GLOBAL_KEYWORD_HUNTER_TOURIST_TEXT",
-            "m_refText": "GLOBAL_KEYWORD_HUNTER_TOURIST_TEXT",
-            "m_collectionText": "",
-            "m_isCollectionOnly": 0,
-            "m_tooltipInitOrder": 10006
-        },
-        {
-            "m_ID": 232,
-            "m_noteDesc": "Dredge\n",
-            "m_tagId": 2332,
-            "m_name": "GLOBAL_KEYWORD_DREDGE",
-            "m_text": "GLOBAL_KEYWORD_DREDGE_TEXT",
-            "m_refText": "GLOBAL_KEYWORD_DREDGE_TEXT",
-            "m_collectionText": "",
-            "m_isCollectionOnly": 0,
-            "m_tooltipInitOrder": 130000
-        },
-        {
             "m_ID": 109,
             "m_noteDesc": "Blood Gem\n",
             "m_tagId": 1966,
@@ -735,61 +141,6 @@
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
             "m_tooltipInitOrder": 93000
-        },
-        {
-            "m_ID": 300,
-            "m_noteDesc": "Pass",
-            "m_tagId": 3321,
-            "m_name": "GLOBAL_KEYWORD_BACON_PASS",
-            "m_text": "GLOBAL_KEYWORD_BACON_PASS_TEXT",
-            "m_refText": "GLOBAL_KEYWORD_BACON_PASS_TEXT",
-            "m_collectionText": "Pass",
-            "m_isCollectionOnly": 0,
-            "m_tooltipInitOrder": 153000
-        },
-        {
-            "m_ID": 257,
-            "m_noteDesc": "Manathirst (X)\n",
-            "m_tagId": 2498,
-            "m_name": "GLOBAL_KEYWORD_MANATHIRST",
-            "m_text": "GLOBAL_KEYWORD_MANATHIRST_TEXT",
-            "m_refText": "GLOBAL_KEYWORD_MANATHIRST_TEXT",
-            "m_collectionText": "",
-            "m_isCollectionOnly": 0,
-            "m_tooltipInitOrder": 138000
-        },
-        {
-            "m_ID": 233,
-            "m_noteDesc": "Revive (X)\n",
-            "m_tagId": 2369,
-            "m_name": "GLOBAL_KEYWORD_REVIVE",
-            "m_text": "GLOBAL_KEYWORD_REVIVE_TEXT",
-            "m_refText": "GLOBAL_KEYWORD_REVIVE_TEXT",
-            "m_collectionText": "",
-            "m_isCollectionOnly": 0,
-            "m_tooltipInitOrder": 119000
-        },
-        {
-            "m_ID": 314,
-            "m_noteDesc": "Warrior Tourist",
-            "m_tagId": 3604,
-            "m_name": "GLOBAL_KEYWORD_WARRIOR_TOURIST",
-            "m_text": "GLOBAL_KEYWORD_WARRIOR_TOURIST_TEXT",
-            "m_refText": "GLOBAL_KEYWORD_WARRIOR_TOURIST_TEXT",
-            "m_collectionText": "",
-            "m_isCollectionOnly": 0,
-            "m_tooltipInitOrder": 10003
-        },
-        {
-            "m_ID": 206,
-            "m_noteDesc": "Arcane Weakness\n",
-            "m_tagId": 2145,
-            "m_name": "GLOBAL_KEYWORD_SPELLWEAKNESS_ARCANE",
-            "m_text": "GLOBAL_KEYWORD_SPELLWEAKNESS_ARCANE_TEXT",
-            "m_refText": "GLOBAL_KEYWORD_SPELLWEAKNESS_ARCANE_REF_TEXT",
-            "m_collectionText": "GLOBAL_KEYWORD_SPELLWEAKNESS_ARCANE_REF_TEXT",
-            "m_isCollectionOnly": 0,
-            "m_tooltipInitOrder": 31000
         },
         {
             "m_ID": 11,
@@ -803,61 +154,6 @@
             "m_tooltipInitOrder": 43000
         },
         {
-            "m_ID": 301,
-            "m_noteDesc": "Gigantify",
-            "m_tagId": 3399,
-            "m_name": "GLOBAL_KEYWORD_GIGANTIFY",
-            "m_text": "GLOBAL_KEYWORD_GIGANTIFY_TEXT",
-            "m_refText": "GLOBAL_KEYWORD_GIGANTIFY_TEXT",
-            "m_collectionText": "",
-            "m_isCollectionOnly": 0,
-            "m_tooltipInitOrder": 154000
-        },
-        {
-            "m_ID": 259,
-            "m_noteDesc": "Reborn\n",
-            "m_tagId": 2870,
-            "m_name": "GLOBAL_KEYWORD_BACON_REBORN",
-            "m_text": "GLOBAL_KEYWORD_BACON_REBORN_TEXT",
-            "m_refText": "GLOBAL_KEYWORD_BACON_REBORN_TEXT",
-            "m_collectionText": "",
-            "m_isCollectionOnly": 0,
-            "m_tooltipInitOrder": 125000
-        },
-        {
-            "m_ID": 234,
-            "m_noteDesc": "Spellcraft\n",
-            "m_tagId": 2359,
-            "m_name": "GLOBAL_KEYWORD_SPELLCRAFT",
-            "m_text": "GLOBAL_KEYWORD_SPELLCRAFT_TEXT",
-            "m_refText": "GLOBAL_KEYWORD_SPELLCRAFT_TEXT",
-            "m_collectionText": "",
-            "m_isCollectionOnly": 0,
-            "m_tooltipInitOrder": 96000
-        },
-        {
-            "m_ID": 315,
-            "m_noteDesc": "Druid Tourist",
-            "m_tagId": 3605,
-            "m_name": "GLOBAL_KEYWORD_DRUID_TOURIST",
-            "m_text": "GLOBAL_KEYWORD_DRUID_TOURIST_TEXT",
-            "m_refText": "GLOBAL_KEYWORD_DRUID_TOURIST_TEXT",
-            "m_collectionText": "",
-            "m_isCollectionOnly": 0,
-            "m_tooltipInitOrder": 10002
-        },
-        {
-            "m_ID": 207,
-            "m_noteDesc": "Fire Weakness\n",
-            "m_tagId": 2146,
-            "m_name": "GLOBAL_KEYWORD_SPELLWEAKNESS_FIRE",
-            "m_text": "GLOBAL_KEYWORD_SPELLWEAKNESS_FIRE_TEXT",
-            "m_refText": "GLOBAL_KEYWORD_SPELLWEAKNESS_FIRE_REF_TEXT",
-            "m_collectionText": "GLOBAL_KEYWORD_SPELLWEAKNESS_FIRE_REF_TEXT",
-            "m_isCollectionOnly": 0,
-            "m_tooltipInitOrder": 32000
-        },
-        {
             "m_ID": 12,
             "m_noteDesc": "Deathrattle\n",
             "m_tagId": 217,
@@ -867,50 +163,6 @@
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
             "m_tooltipInitOrder": 58000
-        },
-        {
-            "m_ID": 302,
-            "m_noteDesc": "Gigantic",
-            "m_tagId": 3400,
-            "m_name": "GLOBAL_KEYWORD_GIGANTIC",
-            "m_text": "GLOBAL_KEYWORD_GIGANTIC_TEXT",
-            "m_refText": "GLOBAL_KEYWORD_GIGANTIC_TEXT",
-            "m_collectionText": "",
-            "m_isCollectionOnly": 0,
-            "m_tooltipInitOrder": 155000
-        },
-        {
-            "m_ID": 26,
-            "m_noteDesc": "Jade Golem\n",
-            "m_tagId": 441,
-            "m_name": "GLOBAL_KEYWORD_JADE_GOLEM",
-            "m_text": "GLOBAL_KEYWORD_JADE_GOLEM_TEXT",
-            "m_refText": "GLOBAL_KEYWORD_JADE_GOLEM_TEXT",
-            "m_collectionText": "GLOBAL_KEYWORD_JADE_GOLEM_COLLECTION_TEXT",
-            "m_isCollectionOnly": 0,
-            "m_tooltipInitOrder": 71000
-        },
-        {
-            "m_ID": 316,
-            "m_noteDesc": "Mage Tourist",
-            "m_tagId": 3606,
-            "m_name": "GLOBAL_KEYWORD_MAGE_TOURIST",
-            "m_text": "GLOBAL_KEYWORD_MAGE_TOURIST_TEXT",
-            "m_refText": "GLOBAL_KEYWORD_MAGE_TOURIST_TEXT",
-            "m_collectionText": "",
-            "m_isCollectionOnly": 0,
-            "m_tooltipInitOrder": 10001
-        },
-        {
-            "m_ID": 235,
-            "m_noteDesc": "Allied\n",
-            "m_tagId": 2388,
-            "m_name": "GLOBAL_KEYWORD_ALLIED",
-            "m_text": "GLOBAL_KEYWORD_ALLIED_TEXT",
-            "m_refText": "GLOBAL_KEYWORD_ALLIED_TEXT",
-            "m_collectionText": "GLOBAL_KEYWORD_ALLIED_TEXT",
-            "m_isCollectionOnly": 0,
-            "m_tooltipInitOrder": 120000
         },
         {
             "m_ID": 13,
@@ -924,39 +176,6 @@
             "m_tooltipInitOrder": 60000
         },
         {
-            "m_ID": 208,
-            "m_noteDesc": "Frost Weakness\n",
-            "m_tagId": 2147,
-            "m_name": "GLOBAL_KEYWORD_SPELLWEAKNESS_FROST",
-            "m_text": "GLOBAL_KEYWORD_SPELLWEAKNESS_FROST_TEXT",
-            "m_refText": "GLOBAL_KEYWORD_SPELLWEAKNESS_FROST_REF_TEXT",
-            "m_collectionText": "GLOBAL_KEYWORD_SPELLWEAKNESS_FROST_REF_TEXT",
-            "m_isCollectionOnly": 0,
-            "m_tooltipInitOrder": 33000
-        },
-        {
-            "m_ID": 303,
-            "m_noteDesc": "Buddy",
-            "m_tagId": 2154,
-            "m_name": "GLOBAL_KEYWORD_BACON_BUDDY",
-            "m_text": "GLOBAL_KEYWORD_BACON_BUDDY_TEXT",
-            "m_refText": "GLOBAL_KEYWORD_BACON_BUDDY_TEXT",
-            "m_collectionText": "",
-            "m_isCollectionOnly": 0,
-            "m_tooltipInitOrder": 156000
-        },
-        {
-            "m_ID": 260,
-            "m_noteDesc": "Putricide's Creation\n",
-            "m_tagId": 2875,
-            "m_name": "GLOBAL_KEYWORD_BACON_PUTRICIDESCREATION",
-            "m_text": "GLOBAL_KEYWORD_BACON_PUTRICIDESCREATION_TEXT",
-            "m_refText": "GLOBAL_KEYWORD_BACON_PUTRICIDESCREATION_TEXT",
-            "m_collectionText": "",
-            "m_isCollectionOnly": 0,
-            "m_tooltipInitOrder": 126000
-        },
-        {
             "m_ID": 14,
             "m_noteDesc": "Overload: X\n",
             "m_tagId": 215,
@@ -966,61 +185,6 @@
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
             "m_tooltipInitOrder": 59000
-        },
-        {
-            "m_ID": 317,
-            "m_noteDesc": "Paladin Tourist",
-            "m_tagId": 3607,
-            "m_name": "GLOBAL_KEYWORD_PALADIN_TOURIST",
-            "m_text": "GLOBAL_KEYWORD_PALADIN_TOURIST_TEXT",
-            "m_refText": "GLOBAL_KEYWORD_PALADIN_TOURIST_TEXT",
-            "m_collectionText": "",
-            "m_isCollectionOnly": 0,
-            "m_tooltipInitOrder": 10004
-        },
-        {
-            "m_ID": 236,
-            "m_noteDesc": "Heal Power\n",
-            "m_tagId": 2434,
-            "m_name": "GLOBAL_KEYWORD_HEALING_POWER",
-            "m_text": "GLOBAL_KEYWORD_HEALING_POWER_TEXT",
-            "m_refText": "GLOBAL_KEYWORD_HEALING_POWER_TEXT",
-            "m_collectionText": "GLOBAL_KEYWORD_HEALING_POWER_TEXT",
-            "m_isCollectionOnly": 0,
-            "m_tooltipInitOrder": 121000
-        },
-        {
-            "m_ID": 209,
-            "m_noteDesc": "Nature Weakness\n",
-            "m_tagId": 2148,
-            "m_name": "GLOBAL_KEYWORD_SPELLWEAKNESS_NATURE",
-            "m_text": "GLOBAL_KEYWORD_SPELLWEAKNESS_NATURE_TEXT",
-            "m_refText": "GLOBAL_KEYWORD_SPELLWEAKNESS_NATURE_REF_TEXT",
-            "m_collectionText": "GLOBAL_KEYWORD_SPELLWEAKNESS_NATURE_REF_TEXT",
-            "m_isCollectionOnly": 0,
-            "m_tooltipInitOrder": 34000
-        },
-        {
-            "m_ID": 304,
-            "m_noteDesc": "Passive",
-            "m_tagId": 3576,
-            "m_name": "GLOBAL_KEYWORD_IS_HERO_PASSIVE",
-            "m_text": "GLOBAL_KEYWORD_IS_HERO_PASSIVE_TEXT",
-            "m_refText": "GLOBAL_KEYWORD_IS_HERO_PASSIVE_TEXT",
-            "m_collectionText": "",
-            "m_isCollectionOnly": 0,
-            "m_tooltipInitOrder": 157000
-        },
-        {
-            "m_ID": 261,
-            "m_noteDesc": "Venomous\n",
-            "m_tagId": 2853,
-            "m_name": "GLOBAL_KEYWORD_VENOMOUS",
-            "m_text": "GLOBAL_KEYWORD_VENOMOUS_TEXT",
-            "m_refText": "GLOBAL_KEYWORD_VENOMOUS_TEXT",
-            "m_collectionText": "",
-            "m_isCollectionOnly": 0,
-            "m_tooltipInitOrder": 97000
         },
         {
             "m_ID": 15,
@@ -1034,94 +198,6 @@
             "m_tooltipInitOrder": 61000
         },
         {
-            "m_ID": 238,
-            "m_noteDesc": "Infuse\n",
-            "m_tagId": 2456,
-            "m_name": "GLOBAL_KEYWORD_INFUSE",
-            "m_text": "GLOBAL_KEYWORD_INFUSE_TEXT",
-            "m_refText": "GLOBAL_KEYWORD_INFUSE_TEXT",
-            "m_collectionText": "",
-            "m_isCollectionOnly": 0,
-            "m_tooltipInitOrder": 132000
-        },
-        {
-            "m_ID": 32,
-            "m_noteDesc": "Poisonous\n",
-            "m_tagId": 363,
-            "m_name": "GLOBAL_KEYWORD_POISONOUS",
-            "m_text": "GLOBAL_KEYWORD_POISONOUS_TEXT",
-            "m_refText": "GLOBAL_KEYWORD_POISONOUS_TEXT",
-            "m_collectionText": "",
-            "m_isCollectionOnly": 0,
-            "m_tooltipInitOrder": 77000
-        },
-        {
-            "m_ID": 307,
-            "m_noteDesc": "Rogue Tourist",
-            "m_tagId": 3597,
-            "m_name": "GLOBAL_KEYWORD_ROGUE_TOURIST",
-            "m_text": "GLOBAL_KEYWORD_ROGUE_TOURIST_TEXT",
-            "m_refText": "GLOBAL_KEYWORD_ROGUE_TOURIST_TEXT",
-            "m_collectionText": "",
-            "m_isCollectionOnly": 0,
-            "m_tooltipInitOrder": 10005
-        },
-        {
-            "m_ID": 21,
-            "m_noteDesc": "Discover\n",
-            "m_tagId": 415,
-            "m_name": "GLOBAL_KEYWORD_DISCOVER",
-            "m_text": "GLOBAL_KEYWORD_DISCOVER_TEXT",
-            "m_refText": "GLOBAL_KEYWORD_DISCOVER_TEXT",
-            "m_collectionText": "",
-            "m_isCollectionOnly": 0,
-            "m_tooltipInitOrder": 67000
-        },
-        {
-            "m_ID": 262,
-            "m_noteDesc": "Bonus Effects",
-            "m_tagId": 2934,
-            "m_name": "GLOBAL_KEYWORD_BONUSEFFECTS",
-            "m_text": "GLOBAL_KEYWORD_BONUSEFFECTS_TEXT",
-            "m_refText": "GLOBAL_KEYWORD_BONUSEFFECTS_TEXT",
-            "m_collectionText": "",
-            "m_isCollectionOnly": 0,
-            "m_tooltipInitOrder": 143000
-        },
-        {
-            "m_ID": 239,
-            "m_noteDesc": "Infused\n",
-            "m_tagId": 2457,
-            "m_name": "GLOBAL_KEYWORD_INFUSED",
-            "m_text": "GLOBAL_KEYWORD_INFUSED_TEXT",
-            "m_refText": "GLOBAL_KEYWORD_INFUSED_TEXT",
-            "m_collectionText": "",
-            "m_isCollectionOnly": 0,
-            "m_tooltipInitOrder": 133000
-        },
-        {
-            "m_ID": 308,
-            "m_noteDesc": "Warlock Tourist",
-            "m_tagId": 3598,
-            "m_name": "GLOBAL_KEYWORD_WARLOCK_TOURIST",
-            "m_text": "GLOBAL_KEYWORD_WARLOCK_TOURIST_TEXT",
-            "m_refText": "GLOBAL_KEYWORD_WARLOCK_TOURIST_TEXT",
-            "m_collectionText": "",
-            "m_isCollectionOnly": 0,
-            "m_tooltipInitOrder": 10010
-        },
-        {
-            "m_ID": 320,
-            "m_noteDesc": "Temporary",
-            "m_tagId": 3630,
-            "m_name": "GLOBAL_KEYWORD_TEMPORARY",
-            "m_text": "GLOBAL_KEYWORD_TEMPORARY_TEXT",
-            "m_refText": "GLOBAL_KEYWORD_TEMPORARY_TEXT",
-            "m_collectionText": "",
-            "m_isCollectionOnly": 0,
-            "m_tooltipInitOrder": 169000
-        },
-        {
             "m_ID": 16,
             "m_noteDesc": "Counter\n",
             "m_tagId": 340,
@@ -1131,50 +207,6 @@
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
             "m_tooltipInitOrder": 63000
-        },
-        {
-            "m_ID": 210,
-            "m_noteDesc": "Holy Weakness\n",
-            "m_tagId": 2149,
-            "m_name": "GLOBAL_KEYWORD_SPELLWEAKNESS_HOLY",
-            "m_text": "GLOBAL_KEYWORD_SPELLWEAKNESS_HOLY_TEXT",
-            "m_refText": "GLOBAL_KEYWORD_SPELLWEAKNESS_HOLY_REF_TEXT",
-            "m_collectionText": "GLOBAL_KEYWORD_SPELLWEAKNESS_HOLY_REF_TEXT",
-            "m_isCollectionOnly": 0,
-            "m_tooltipInitOrder": 35000
-        },
-        {
-            "m_ID": 263,
-            "m_noteDesc": "Get your Buddy\n",
-            "m_tagId": 2937,
-            "m_name": "GLOBAL_KEYWORD_BACON_BUY_BUDDY",
-            "m_text": "GLOBAL_KEYWORD_BACON_BUY_BUDDY_TEXT",
-            "m_refText": "GLOBAL_KEYWORD_BACON_BUY_BUDDY_TEXT",
-            "m_collectionText": "",
-            "m_isCollectionOnly": 0,
-            "m_tooltipInitOrder": 55000
-        },
-        {
-            "m_ID": 24,
-            "m_noteDesc": "Minion Type\n",
-            "m_tagId": 447,
-            "m_name": "GLOBAL_KEYWORD_MINION_TYPE_REFERENCE",
-            "m_text": "GLOBAL_KEYWORD_MINION_TYPE_REFERENCE_TEXT",
-            "m_refText": "GLOBAL_KEYWORD_MINION_TYPE_REFERENCE_TEXT",
-            "m_collectionText": "",
-            "m_isCollectionOnly": 0,
-            "m_tooltipInitOrder": 70000
-        },
-        {
-            "m_ID": 309,
-            "m_noteDesc": "Death Knight Tourist",
-            "m_tagId": 3599,
-            "m_name": "GLOBAL_KEYWORD_DEATH_KNIGHT_TOURIST",
-            "m_text": "GLOBAL_KEYWORD_DEATH_KNIGHT_TOURIST_TEXT",
-            "m_refText": "GLOBAL_KEYWORD_DEATH_KNIGHT_TOURIST_TEXT",
-            "m_collectionText": "",
-            "m_isCollectionOnly": 0,
-            "m_tooltipInitOrder": 10007
         },
         {
             "m_ID": 17,
@@ -1188,50 +220,6 @@
             "m_tooltipInitOrder": 64000
         },
         {
-            "m_ID": 323,
-            "m_noteDesc": "Starship",
-            "m_tagId": 3555,
-            "m_name": "GLOBAL_KEYWORD_STARSHIP",
-            "m_text": "GLOBAL_KEYWORD_STARSHIP_TEXT",
-            "m_refText": "GLOBAL_KEYWORD_STARSHIP_TEXT",
-            "m_collectionText": "",
-            "m_isCollectionOnly": 0,
-            "m_tooltipInitOrder": 9500
-        },
-        {
-            "m_ID": 264,
-            "m_noteDesc": "Get 2 Buddies\n",
-            "m_tagId": 2938,
-            "m_name": "GLOBAL_KEYWORD_BACON_BUY_BUDDY_2",
-            "m_text": "GLOBAL_KEYWORD_BACON_BUY_BUDDY_2_TEXT",
-            "m_refText": "GLOBAL_KEYWORD_BACON_BUY_BUDDY_2_TEXT",
-            "m_collectionText": "",
-            "m_isCollectionOnly": 0,
-            "m_tooltipInitOrder": 56000
-        },
-        {
-            "m_ID": 211,
-            "m_noteDesc": "Shadow Weakness\n",
-            "m_tagId": 2150,
-            "m_name": "GLOBAL_KEYWORD_SPELLWEAKNESS_SHADOW",
-            "m_text": "GLOBAL_KEYWORD_SPELLWEAKNESS_SHADOW_TEXT",
-            "m_refText": "GLOBAL_KEYWORD_SPELLWEAKNESS_SHADOW_REF_TEXT",
-            "m_collectionText": "GLOBAL_KEYWORD_SPELLWEAKNESS_SHADOW_REF_TEXT",
-            "m_isCollectionOnly": 0,
-            "m_tooltipInitOrder": 36000
-        },
-        {
-            "m_ID": 241,
-            "m_noteDesc": "Freeze\n",
-            "m_tagId": 2455,
-            "m_name": "GLOBAL_KEYWORD_BACON_FREEZE",
-            "m_text": "GLOBAL_KEYWORD_BACON_FREEZE_TEXT",
-            "m_refText": "GLOBAL_KEYWORD_BACON_FREEZE_TEXT",
-            "m_collectionText": "",
-            "m_isCollectionOnly": 0,
-            "m_tooltipInitOrder": 122000
-        },
-        {
             "m_ID": 18,
             "m_noteDesc": "Auto-cast\n",
             "m_tagId": 367,
@@ -1241,61 +229,6 @@
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
             "m_tooltipInitOrder": 148000
-        },
-        {
-            "m_ID": 31,
-            "m_noteDesc": "Quest\n",
-            "m_tagId": 462,
-            "m_name": "GLOBAL_KEYWORD_QUEST",
-            "m_text": "GLOBAL_KEYWORD_QUEST_TEXT",
-            "m_refText": "GLOBAL_KEYWORD_QUEST_TEXT",
-            "m_collectionText": "",
-            "m_isCollectionOnly": 0,
-            "m_tooltipInitOrder": 75000
-        },
-        {
-            "m_ID": 329,
-            "m_noteDesc": "Trinket",
-            "m_tagId": 3407,
-            "m_name": "GLOBAL_KEYWORD_BACON_TRINKET",
-            "m_text": "GLOBAL_KEYWORD_BACON_TRINKET_TEXT",
-            "m_refText": "GLOBAL_KEYWORD_BACON_TRINKET_TEXT",
-            "m_collectionText": "",
-            "m_isCollectionOnly": 0,
-            "m_tooltipInitOrder": 190000
-        },
-        {
-            "m_ID": 265,
-            "m_noteDesc": "Elusive",
-            "m_tagId": 1211,
-            "m_name": "GLOBAL_KEYWORD_ELUSIVE",
-            "m_text": "GLOBAL_KEYWORD_ELUSIVE_TEXT",
-            "m_refText": "GLOBAL_KEYWORD_ELUSIVE_REF_TEXT",
-            "m_collectionText": "",
-            "m_isCollectionOnly": 0,
-            "m_tooltipInitOrder": 149000
-        },
-        {
-            "m_ID": 212,
-            "m_noteDesc": "Fel Weakness\n",
-            "m_tagId": 2151,
-            "m_name": "GLOBAL_KEYWORD_SPELLWEAKNESS_FEL",
-            "m_text": "GLOBAL_KEYWORD_SPELLWEAKNESS_FEL_TEXT",
-            "m_refText": "GLOBAL_KEYWORD_SPELLWEAKNESS_FEL_REF_TEXT",
-            "m_collectionText": "GLOBAL_KEYWORD_SPELLWEAKNESS_FEL_REF_TEXT",
-            "m_isCollectionOnly": 0,
-            "m_tooltipInitOrder": 37000
-        },
-        {
-            "m_ID": 244,
-            "m_noteDesc": "Spell Weakness\n",
-            "m_tagId": 2464,
-            "m_name": "GLOBAL_KEYWORD_SPELLWEAKNESS_MERC",
-            "m_text": "GLOBAL_KEYWORD_SPELLWEAKNESS_MERC_TEXT",
-            "m_refText": "GLOBAL_KEYWORD_SPELLWEAKNESS_MERC_REF_TEXT",
-            "m_collectionText": "GLOBAL_KEYWORD_SPELLWEAKNESS_MERC_REF_TEXT",
-            "m_isCollectionOnly": 0,
-            "m_tooltipInitOrder": 128000
         },
         {
             "m_ID": 19,
@@ -1309,37 +242,213 @@
             "m_tooltipInitOrder": 65000
         },
         {
-            "m_ID": 310,
-            "m_noteDesc": "Shaman Tourist",
-            "m_tagId": 3600,
-            "m_name": "GLOBAL_KEYWORD_SHAMAN_TOURIST",
-            "m_text": "GLOBAL_KEYWORD_SHAMAN_TOURIST_TEXT",
-            "m_refText": "GLOBAL_KEYWORD_SHAMAN_TOURIST_TEXT",
+            "m_ID": 196,
+            "m_noteDesc": "Refresh\n",
+            "m_tagId": 2104,
+            "m_name": "GLOBAL_KEYWORD_REFRESH",
+            "m_text": "GLOBAL_KEYWORD_REFRESH_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_REFRESH_TEXT",
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
-            "m_tooltipInitOrder": 10008
+            "m_tooltipInitOrder": 94000
         },
         {
-            "m_ID": 266,
-            "m_noteDesc": "Forge\t\t\n",
-            "m_tagId": 2785,
-            "m_name": "GLOBAL_KEYWORD_FORGE",
-            "m_text": "GLOBAL_KEYWORD_FORGE_TEXT",
-            "m_refText": "GLOBAL_KEYWORD_FORGE_TEXT",
+            "m_ID": 198,
+            "m_noteDesc": "Avenge (X)\n",
+            "m_tagId": 2129,
+            "m_name": "GLOBAL_KEYWORD_AVENGE",
+            "m_text": "GLOBAL_KEYWORD_AVENGE_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_AVENGE_TEXT",
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
-            "m_tooltipInitOrder": 140000
+            "m_tooltipInitOrder": 95000
         },
         {
-            "m_ID": 33,
-            "m_noteDesc": "Boss\n",
-            "m_tagId": 556,
-            "m_name": "GLOBAL_KEYWORD_BOSS",
-            "m_text": "GLOBAL_KEYWORD_BOSS_TEXT",
-            "m_refText": "GLOBAL_KEYWORD_BOSS_TEXT",
+            "m_ID": 199,
+            "m_noteDesc": "Arcane Resistance\n",
+            "m_tagId": 2138,
+            "m_name": "GLOBAL_KEYWORD_SPELLRESISTANCE_ARCANE",
+            "m_text": "GLOBAL_KEYWORD_SPELLRESISTANCE_ARCANE_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_SPELLRESISTANCE_ARCANE_REF_TEXT",
+            "m_collectionText": "GLOBAL_KEYWORD_SPELLRESISTANCE_ARCANE_REF_TEXT",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 24000
+        },
+        {
+            "m_ID": 2,
+            "m_noteDesc": "Spell Damage\n",
+            "m_tagId": 192,
+            "m_name": "GLOBAL_KEYWORD_SPELLPOWER",
+            "m_text": "GLOBAL_KEYWORD_SPELLPOWER_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_SPELLPOWER_REF_TEXT",
+            "m_collectionText": "GLOBAL_KEYWORD_SPELLPOWER_REF_TEXT",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 15000
+        },
+        {
+            "m_ID": 20,
+            "m_noteDesc": "Inspire\n",
+            "m_tagId": 403,
+            "m_name": "GLOBAL_KEYWORD_INSPIRE",
+            "m_text": "GLOBAL_KEYWORD_INSPIRE_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_INSPIRE_TEXT",
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
-            "m_tooltipInitOrder": 6000
+            "m_tooltipInitOrder": 66000
+        },
+        {
+            "m_ID": 200,
+            "m_noteDesc": "Fire Resistance\n",
+            "m_tagId": 2139,
+            "m_name": "GLOBAL_KEYWORD_SPELLRESISTANCE_FIRE",
+            "m_text": "GLOBAL_KEYWORD_SPELLRESISTANCE_FIRE_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_SPELLRESISTANCE_FIRE_REF_TEXT",
+            "m_collectionText": "GLOBAL_KEYWORD_SPELLRESISTANCE_FIRE_REF_TEXT",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 25000
+        },
+        {
+            "m_ID": 201,
+            "m_noteDesc": "Frost Resistance\n",
+            "m_tagId": 2140,
+            "m_name": "GLOBAL_KEYWORD_SPELLRESISTANCE_FROST",
+            "m_text": "GLOBAL_KEYWORD_SPELLRESISTANCE_FROST_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_SPELLRESISTANCE_FROST_REF_TEXT",
+            "m_collectionText": "GLOBAL_KEYWORD_SPELLRESISTANCE_FROST_REF_TEXT",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 26000
+        },
+        {
+            "m_ID": 202,
+            "m_noteDesc": "Nature Resistance\n",
+            "m_tagId": 2141,
+            "m_name": "GLOBAL_KEYWORD_SPELLRESISTANCE_NATURE",
+            "m_text": "GLOBAL_KEYWORD_SPELLRESISTANCE_NATURE_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_SPELLRESISTANCE_NATURE_REF_TEXT",
+            "m_collectionText": "GLOBAL_KEYWORD_SPELLRESISTANCE_NATURE_REF_TEXT",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 27000
+        },
+        {
+            "m_ID": 203,
+            "m_noteDesc": "Holy Resistance\n",
+            "m_tagId": 2142,
+            "m_name": "GLOBAL_KEYWORD_SPELLRESISTANCE_HOLY",
+            "m_text": "GLOBAL_KEYWORD_SPELLRESISTANCE_HOLY_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_SPELLRESISTANCE_HOLY_REF_TEXT",
+            "m_collectionText": "GLOBAL_KEYWORD_SPELLRESISTANCE_HOLY_REF_TEXT",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 28000
+        },
+        {
+            "m_ID": 204,
+            "m_noteDesc": "Shadow Resistance\n",
+            "m_tagId": 2143,
+            "m_name": "GLOBAL_KEYWORD_SPELLRESISTANCE_SHADOW",
+            "m_text": "GLOBAL_KEYWORD_SPELLRESISTANCE_SHADOW_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_SPELLRESISTANCE_SHADOW_REF_TEXT",
+            "m_collectionText": "GLOBAL_KEYWORD_SPELLRESISTANCE_SHADOW_REF_TEXT",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 29000
+        },
+        {
+            "m_ID": 205,
+            "m_noteDesc": "Fel Resistance\n",
+            "m_tagId": 2144,
+            "m_name": "GLOBAL_KEYWORD_SPELLRESISTANCE_FEL",
+            "m_text": "GLOBAL_KEYWORD_SPELLRESISTANCE_FEL_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_SPELLRESISTANCE_FEL_REF_TEXT",
+            "m_collectionText": "GLOBAL_KEYWORD_SPELLRESISTANCE_FEL_REF_TEXT",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 30000
+        },
+        {
+            "m_ID": 206,
+            "m_noteDesc": "Arcane Weakness\n",
+            "m_tagId": 2145,
+            "m_name": "GLOBAL_KEYWORD_SPELLWEAKNESS_ARCANE",
+            "m_text": "GLOBAL_KEYWORD_SPELLWEAKNESS_ARCANE_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_SPELLWEAKNESS_ARCANE_REF_TEXT",
+            "m_collectionText": "GLOBAL_KEYWORD_SPELLWEAKNESS_ARCANE_REF_TEXT",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 31000
+        },
+        {
+            "m_ID": 207,
+            "m_noteDesc": "Fire Weakness\n",
+            "m_tagId": 2146,
+            "m_name": "GLOBAL_KEYWORD_SPELLWEAKNESS_FIRE",
+            "m_text": "GLOBAL_KEYWORD_SPELLWEAKNESS_FIRE_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_SPELLWEAKNESS_FIRE_REF_TEXT",
+            "m_collectionText": "GLOBAL_KEYWORD_SPELLWEAKNESS_FIRE_REF_TEXT",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 32000
+        },
+        {
+            "m_ID": 208,
+            "m_noteDesc": "Frost Weakness\n",
+            "m_tagId": 2147,
+            "m_name": "GLOBAL_KEYWORD_SPELLWEAKNESS_FROST",
+            "m_text": "GLOBAL_KEYWORD_SPELLWEAKNESS_FROST_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_SPELLWEAKNESS_FROST_REF_TEXT",
+            "m_collectionText": "GLOBAL_KEYWORD_SPELLWEAKNESS_FROST_REF_TEXT",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 33000
+        },
+        {
+            "m_ID": 209,
+            "m_noteDesc": "Nature Weakness\n",
+            "m_tagId": 2148,
+            "m_name": "GLOBAL_KEYWORD_SPELLWEAKNESS_NATURE",
+            "m_text": "GLOBAL_KEYWORD_SPELLWEAKNESS_NATURE_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_SPELLWEAKNESS_NATURE_REF_TEXT",
+            "m_collectionText": "GLOBAL_KEYWORD_SPELLWEAKNESS_NATURE_REF_TEXT",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 34000
+        },
+        {
+            "m_ID": 21,
+            "m_noteDesc": "Discover\n",
+            "m_tagId": 415,
+            "m_name": "GLOBAL_KEYWORD_DISCOVER",
+            "m_text": "GLOBAL_KEYWORD_DISCOVER_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_DISCOVER_TEXT",
+            "m_collectionText": "",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 67000
+        },
+        {
+            "m_ID": 210,
+            "m_noteDesc": "Holy Weakness\n",
+            "m_tagId": 2149,
+            "m_name": "GLOBAL_KEYWORD_SPELLWEAKNESS_HOLY",
+            "m_text": "GLOBAL_KEYWORD_SPELLWEAKNESS_HOLY_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_SPELLWEAKNESS_HOLY_REF_TEXT",
+            "m_collectionText": "GLOBAL_KEYWORD_SPELLWEAKNESS_HOLY_REF_TEXT",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 35000
+        },
+        {
+            "m_ID": 211,
+            "m_noteDesc": "Shadow Weakness\n",
+            "m_tagId": 2150,
+            "m_name": "GLOBAL_KEYWORD_SPELLWEAKNESS_SHADOW",
+            "m_text": "GLOBAL_KEYWORD_SPELLWEAKNESS_SHADOW_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_SPELLWEAKNESS_SHADOW_REF_TEXT",
+            "m_collectionText": "GLOBAL_KEYWORD_SPELLWEAKNESS_SHADOW_REF_TEXT",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 36000
+        },
+        {
+            "m_ID": 212,
+            "m_noteDesc": "Fel Weakness\n",
+            "m_tagId": 2151,
+            "m_name": "GLOBAL_KEYWORD_SPELLWEAKNESS_FEL",
+            "m_text": "GLOBAL_KEYWORD_SPELLWEAKNESS_FEL_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_SPELLWEAKNESS_FEL_REF_TEXT",
+            "m_collectionText": "GLOBAL_KEYWORD_SPELLWEAKNESS_FEL_REF_TEXT",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 37000
         },
         {
             "m_ID": 213,
@@ -1353,6 +462,237 @@
             "m_tooltipInitOrder": 101000
         },
         {
+            "m_ID": 214,
+            "m_noteDesc": "Spell Combo\n",
+            "m_tagId": 2160,
+            "m_name": "GLOBAL_KEYWORD_SPELLCOMBO_MERC",
+            "m_text": "GLOBAL_KEYWORD_SPELLCOMBO_TEXT_MERC",
+            "m_refText": "GLOBAL_KEYWORD_SPELLCOMBO_REF_TEXT_MERC",
+            "m_collectionText": "GLOBAL_KEYWORD_SPELLCOMBO_REF_TEXT_MERC",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 102000
+        },
+        {
+            "m_ID": 22,
+            "m_noteDesc": "C'Thun, Old God\n",
+            "m_tagId": 436,
+            "m_name": "GLOBAL_KEYWORD_CTHUN",
+            "m_text": "GLOBAL_KEYWORD_CTHUN_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_CTHUN_TEXT",
+            "m_collectionText": "",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 68000
+        },
+        {
+            "m_ID": 222,
+            "m_noteDesc": "Deathblow\n",
+            "m_tagId": 2185,
+            "m_name": "GLOBAL_KEYWORD_DEATHBLOW",
+            "m_text": "GLOBAL_KEYWORD_DEATHBLOW_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_DEATHBLOW_TEXT",
+            "m_collectionText": "GLOBAL_KEYWORD_DEATHBLOW_TEXT",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 110000
+        },
+        {
+            "m_ID": 223,
+            "m_noteDesc": "Bleed\n",
+            "m_tagId": 2214,
+            "m_name": "GLOBAL_KEYWORD_BLEED",
+            "m_text": "GLOBAL_KEYWORD_BLEED_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_BLEED_TEXT",
+            "m_collectionText": "GLOBAL_KEYWORD_BLEED_TEXT",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 111000
+        },
+        {
+            "m_ID": 224,
+            "m_noteDesc": "Critical Damage\n",
+            "m_tagId": 2219,
+            "m_name": "GLOBAL_KEYWORD_CRITICAL_DAMAGE",
+            "m_text": "GLOBAL_KEYWORD_CRITICAL_DAMAGE_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_CRITICAL_DAMAGE_TEXT",
+            "m_collectionText": "GLOBAL_KEYWORD_CRITICAL_DAMAGE_TEXT",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 112000
+        },
+        {
+            "m_ID": 225,
+            "m_noteDesc": "Root\n",
+            "m_tagId": 2220,
+            "m_name": "GLOBAL_KEYWORD_ROOT",
+            "m_text": "GLOBAL_KEYWORD_ROOT_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_ROOT_TEXT",
+            "m_collectionText": "GLOBAL_KEYWORD_ROOT_TEXT",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 113000
+        },
+        {
+            "m_ID": 226,
+            "m_noteDesc": "Alliance\n",
+            "m_tagId": 2279,
+            "m_name": "GLOBAL_KEYWORD_ALLIANCE",
+            "m_text": "GLOBAL_KEYWORD_ALLIANCE_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_ALLIANCE_TEXT",
+            "m_collectionText": "GLOBAL_KEYWORD_ALLIANCE_TEXT",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 114000
+        },
+        {
+            "m_ID": 227,
+            "m_noteDesc": "Horde\n",
+            "m_tagId": 2280,
+            "m_name": "GLOBAL_KEYWORD_HORDE",
+            "m_text": "GLOBAL_KEYWORD_HORDE_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_HORDE_TEXT",
+            "m_collectionText": "GLOBAL_KEYWORD_HORDE_TEXT",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 115000
+        },
+        {
+            "m_ID": 229,
+            "m_noteDesc": "Refresh\n",
+            "m_tagId": 2312,
+            "m_name": "GLOBAL_KEYWORD_REFRESH_MERC",
+            "m_text": "GLOBAL_KEYWORD_REFRESH_MERC_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_REFRESH_MERC_TEXT",
+            "m_collectionText": "GLOBAL_KEYWORD_REFRESH_MERC_TEXT",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 116000
+        },
+        {
+            "m_ID": 230,
+            "m_noteDesc": "Elves\n",
+            "m_tagId": 2322,
+            "m_name": "GLOBAL_KEYWORD_ELVES_MERC",
+            "m_text": "GLOBAL_KEYWORD_ELVES_MERC_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_ELVES_MERC_TEXT",
+            "m_collectionText": "GLOBAL_KEYWORD_ELVES_MERC_TEXT",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 117000
+        },
+        {
+            "m_ID": 231,
+            "m_noteDesc": "Colossal +X\n",
+            "m_tagId": 2247,
+            "m_name": "GLOBAL_KEYWORD_COLOSSAL",
+            "m_text": "GLOBAL_KEYWORD_COLOSSAL_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_COLOSSAL_TEXT",
+            "m_collectionText": "",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 129000
+        },
+        {
+            "m_ID": 232,
+            "m_noteDesc": "Dredge\n",
+            "m_tagId": 2332,
+            "m_name": "GLOBAL_KEYWORD_DREDGE",
+            "m_text": "GLOBAL_KEYWORD_DREDGE_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_DREDGE_TEXT",
+            "m_collectionText": "",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 130000
+        },
+        {
+            "m_ID": 233,
+            "m_noteDesc": "Revive (X)\n",
+            "m_tagId": 2369,
+            "m_name": "GLOBAL_KEYWORD_REVIVE",
+            "m_text": "GLOBAL_KEYWORD_REVIVE_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_REVIVE_TEXT",
+            "m_collectionText": "",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 119000
+        },
+        {
+            "m_ID": 234,
+            "m_noteDesc": "Spellcraft\n",
+            "m_tagId": 2359,
+            "m_name": "GLOBAL_KEYWORD_SPELLCRAFT",
+            "m_text": "GLOBAL_KEYWORD_SPELLCRAFT_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_SPELLCRAFT_TEXT",
+            "m_collectionText": "",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 96000
+        },
+        {
+            "m_ID": 235,
+            "m_noteDesc": "Allied\n",
+            "m_tagId": 2388,
+            "m_name": "GLOBAL_KEYWORD_ALLIED",
+            "m_text": "GLOBAL_KEYWORD_ALLIED_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_ALLIED_TEXT",
+            "m_collectionText": "GLOBAL_KEYWORD_ALLIED_TEXT",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 120000
+        },
+        {
+            "m_ID": 236,
+            "m_noteDesc": "Heal Power\n",
+            "m_tagId": 2434,
+            "m_name": "GLOBAL_KEYWORD_HEALING_POWER",
+            "m_text": "GLOBAL_KEYWORD_HEALING_POWER_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_HEALING_POWER_TEXT",
+            "m_collectionText": "GLOBAL_KEYWORD_HEALING_POWER_TEXT",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 121000
+        },
+        {
+            "m_ID": 238,
+            "m_noteDesc": "Infuse\n",
+            "m_tagId": 2456,
+            "m_name": "GLOBAL_KEYWORD_INFUSE",
+            "m_text": "GLOBAL_KEYWORD_INFUSE_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_INFUSE_TEXT",
+            "m_collectionText": "",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 132000
+        },
+        {
+            "m_ID": 239,
+            "m_noteDesc": "Infused\n",
+            "m_tagId": 2457,
+            "m_name": "GLOBAL_KEYWORD_INFUSED",
+            "m_text": "GLOBAL_KEYWORD_INFUSED_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_INFUSED_TEXT",
+            "m_collectionText": "",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 133000
+        },
+        {
+            "m_ID": 24,
+            "m_noteDesc": "Minion Type\n",
+            "m_tagId": 447,
+            "m_name": "GLOBAL_KEYWORD_MINION_TYPE_REFERENCE",
+            "m_text": "GLOBAL_KEYWORD_MINION_TYPE_REFERENCE_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_MINION_TYPE_REFERENCE_TEXT",
+            "m_collectionText": "",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 70000
+        },
+        {
+            "m_ID": 241,
+            "m_noteDesc": "Freeze\n",
+            "m_tagId": 2455,
+            "m_name": "GLOBAL_KEYWORD_BACON_FREEZE",
+            "m_text": "GLOBAL_KEYWORD_BACON_FREEZE_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_BACON_FREEZE_TEXT",
+            "m_collectionText": "",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 122000
+        },
+        {
+            "m_ID": 244,
+            "m_noteDesc": "Spell Weakness\n",
+            "m_tagId": 2464,
+            "m_name": "GLOBAL_KEYWORD_SPELLWEAKNESS_MERC",
+            "m_text": "GLOBAL_KEYWORD_SPELLWEAKNESS_MERC_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_SPELLWEAKNESS_MERC_REF_TEXT",
+            "m_collectionText": "GLOBAL_KEYWORD_SPELLWEAKNESS_MERC_REF_TEXT",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 128000
+        },
+        {
             "m_ID": 245,
             "m_noteDesc": "Spell Resistance\n",
             "m_tagId": 2465,
@@ -1364,26 +704,224 @@
             "m_tooltipInitOrder": 127000
         },
         {
-            "m_ID": 35,
-            "m_noteDesc": "",
-            "m_tagId": 549,
-            "m_name": "",
-            "m_text": "GLOBAL_KEYWORD_SHIFTING_MINION_TEXT",
-            "m_refText": "GLOBAL_KEYWORD_SHIFTING_MINION_TEXT",
+            "m_ID": 247,
+            "m_noteDesc": "Corpse\n",
+            "m_tagId": 2559,
+            "m_name": "GLOBAL_KEYWORD_CORPSE",
+            "m_text": "GLOBAL_KEYWORD_CORPSE_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_CORPSE_TEXT",
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
-            "m_tooltipInitOrder": 2000
+            "m_tooltipInitOrder": 134000
         },
         {
-            "m_ID": 71,
-            "m_noteDesc": "Lackey\n",
-            "m_tagId": 994,
-            "m_name": "GLOBAL_KEYWORD_EVILZUG",
-            "m_text": "GLOBAL_KEYWORD_EVILZUG_TEXT",
-            "m_refText": "GLOBAL_KEYWORD_EVILZUG_TEXT",
+            "m_ID": 248,
+            "m_noteDesc": "Bench\n",
+            "m_tagId": 2570,
+            "m_name": "GLOBAL_KEYWORD_BENCH_MERC",
+            "m_text": "GLOBAL_KEYWORD_BENCH_MERC_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_BENCH_MERC_TEXT",
+            "m_collectionText": "GLOBAL_KEYWORD_BENCH_MERC_TEXT",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 131000
+        },
+        {
+            "m_ID": 249,
+            "m_noteDesc": "Explorer\n",
+            "m_tagId": 2510,
+            "m_name": "GLOBAL_KEYWORD_EXPLORER_MERC",
+            "m_text": "GLOBAL_KEYWORD_EXPLORER_MERC_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_EXPLORER_MERC_TEXT",
+            "m_collectionText": "GLOBAL_KEYWORD_EXPLORER_MERC_TEXT",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 145000
+        },
+        {
+            "m_ID": 25,
+            "m_noteDesc": "Auto-Attack\n",
+            "m_tagId": 457,
+            "m_name": "GLOBAL_KEYWORD_AUTOATTACK",
+            "m_text": "GLOBAL_KEYWORD_AUTOATTACK_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_AUTOATTACK_TEXT",
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
-            "m_tooltipInitOrder": 51000
+            "m_tooltipInitOrder": 69000
+        },
+        {
+            "m_ID": 250,
+            "m_noteDesc": "Silence\n",
+            "m_tagId": 2631,
+            "m_name": "GLOBAL_KEYWORD_SILENCE_MERC",
+            "m_text": "GLOBAL_KEYWORD_SILENCE_MERC_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_SILENCE_MERC_TEXT",
+            "m_collectionText": "GLOBAL_KEYWORD_SILENCE_MERC_TEXT",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 62000
+        },
+        {
+            "m_ID": 252,
+            "m_noteDesc": "Stealth\n",
+            "m_tagId": 2704,
+            "m_name": "GLOBAL_KEYWORD_BACON_STEALTH",
+            "m_text": "GLOBAL_KEYWORD_BACON_STEALTH_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_BACON_STEALTH_TEXT",
+            "m_collectionText": "",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 123000
+        },
+        {
+            "m_ID": 253,
+            "m_noteDesc": "Quest\n",
+            "m_tagId": 2705,
+            "m_name": "GLOBAL_KEYWORD_BACON_QUEST",
+            "m_text": "GLOBAL_KEYWORD_BACON_QUEST_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_BACON_QUEST_TEXT",
+            "m_collectionText": "",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 124000
+        },
+        {
+            "m_ID": 254,
+            "m_noteDesc": "Charge\n",
+            "m_tagId": 2779,
+            "m_name": "GLOBAL_KEYWORD_CHARGE_MERC",
+            "m_text": "GLOBAL_KEYWORD_CHARGE_MERC_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_CHARGE_MERC_TEXT",
+            "m_collectionText": "",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 146000
+        },
+        {
+            "m_ID": 255,
+            "m_noteDesc": "Finale\n",
+            "m_tagId": 2820,
+            "m_name": "GLOBAL_KEYWORD_FINALE",
+            "m_text": "GLOBAL_KEYWORD_FINALE_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_FINALE_TEXT",
+            "m_collectionText": "",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 139000
+        },
+        {
+            "m_ID": 256,
+            "m_noteDesc": "Overheal\n",
+            "m_tagId": 2821,
+            "m_name": "GLOBAL_KEYWORD_OVERHEAL",
+            "m_text": "GLOBAL_KEYWORD_OVERHEAL_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_OVERHEAL_TEXT",
+            "m_collectionText": "",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 142000
+        },
+        {
+            "m_ID": 257,
+            "m_noteDesc": "Manathirst (X)\n",
+            "m_tagId": 2498,
+            "m_name": "GLOBAL_KEYWORD_MANATHIRST",
+            "m_text": "GLOBAL_KEYWORD_MANATHIRST_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_MANATHIRST_TEXT",
+            "m_collectionText": "",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 138000
+        },
+        {
+            "m_ID": 259,
+            "m_noteDesc": "Reborn\n",
+            "m_tagId": 2870,
+            "m_name": "GLOBAL_KEYWORD_BACON_REBORN",
+            "m_text": "GLOBAL_KEYWORD_BACON_REBORN_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_BACON_REBORN_TEXT",
+            "m_collectionText": "",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 125000
+        },
+        {
+            "m_ID": 26,
+            "m_noteDesc": "Jade Golem\n",
+            "m_tagId": 441,
+            "m_name": "GLOBAL_KEYWORD_JADE_GOLEM",
+            "m_text": "GLOBAL_KEYWORD_JADE_GOLEM_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_JADE_GOLEM_TEXT",
+            "m_collectionText": "GLOBAL_KEYWORD_JADE_GOLEM_COLLECTION_TEXT",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 71000
+        },
+        {
+            "m_ID": 260,
+            "m_noteDesc": "Putricide's Creation\n",
+            "m_tagId": 2875,
+            "m_name": "GLOBAL_KEYWORD_BACON_PUTRICIDESCREATION",
+            "m_text": "GLOBAL_KEYWORD_BACON_PUTRICIDESCREATION_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_BACON_PUTRICIDESCREATION_TEXT",
+            "m_collectionText": "",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 126000
+        },
+        {
+            "m_ID": 261,
+            "m_noteDesc": "Venomous\n",
+            "m_tagId": 2853,
+            "m_name": "GLOBAL_KEYWORD_VENOMOUS",
+            "m_text": "GLOBAL_KEYWORD_VENOMOUS_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_VENOMOUS_TEXT",
+            "m_collectionText": "",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 97000
+        },
+        {
+            "m_ID": 262,
+            "m_noteDesc": "Bonus Effects",
+            "m_tagId": 2934,
+            "m_name": "GLOBAL_KEYWORD_BONUSEFFECTS",
+            "m_text": "GLOBAL_KEYWORD_BONUSEFFECTS_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_BONUSEFFECTS_TEXT",
+            "m_collectionText": "",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 143000
+        },
+        {
+            "m_ID": 263,
+            "m_noteDesc": "Get your Buddy\n",
+            "m_tagId": 2937,
+            "m_name": "GLOBAL_KEYWORD_BACON_BUY_BUDDY",
+            "m_text": "GLOBAL_KEYWORD_BACON_BUY_BUDDY_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_BACON_BUY_BUDDY_TEXT",
+            "m_collectionText": "",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 55000
+        },
+        {
+            "m_ID": 264,
+            "m_noteDesc": "Get 2 Buddies\n",
+            "m_tagId": 2938,
+            "m_name": "GLOBAL_KEYWORD_BACON_BUY_BUDDY_2",
+            "m_text": "GLOBAL_KEYWORD_BACON_BUY_BUDDY_2_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_BACON_BUY_BUDDY_2_TEXT",
+            "m_collectionText": "",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 56000
+        },
+        {
+            "m_ID": 265,
+            "m_noteDesc": "Elusive",
+            "m_tagId": 1211,
+            "m_name": "GLOBAL_KEYWORD_ELUSIVE",
+            "m_text": "GLOBAL_KEYWORD_ELUSIVE_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_ELUSIVE_REF_TEXT",
+            "m_collectionText": "",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 149000
+        },
+        {
+            "m_ID": 266,
+            "m_noteDesc": "Forge\t\t\n",
+            "m_tagId": 2785,
+            "m_name": "GLOBAL_KEYWORD_FORGE",
+            "m_text": "GLOBAL_KEYWORD_FORGE_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_FORGE_TEXT",
+            "m_collectionText": "",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 140000
         },
         {
             "m_ID": 268,
@@ -1397,6 +935,391 @@
             "m_tooltipInitOrder": 141000
         },
         {
+            "m_ID": 27,
+            "m_noteDesc": "Grimy Goons\n",
+            "m_tagId": 482,
+            "m_name": "GLOBAL_KEYWORD_GRIMY_GOONS",
+            "m_text": "",
+            "m_refText": "",
+            "m_collectionText": "GLOBAL_KEYWORD_GRIMY_GOONS_COLLECTION_TEXT",
+            "m_isCollectionOnly": 1,
+            "m_tooltipInitOrder": 72000
+        },
+        {
+            "m_ID": 270,
+            "m_noteDesc": "Titan\n",
+            "m_tagId": 2772,
+            "m_name": "GLOBAL_KEYWORD_TITAN",
+            "m_text": "GLOBAL_KEYWORD_TITAN_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_TITAN_TEXT",
+            "m_collectionText": "",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 9000
+        },
+        {
+            "m_ID": 28,
+            "m_noteDesc": "Jade Lotus\n",
+            "m_tagId": 483,
+            "m_name": "GLOBAL_KEYWORD_JADE_LOTUS",
+            "m_text": "",
+            "m_refText": "",
+            "m_collectionText": "GLOBAL_KEYWORD_JADE_LOTUS_COLLECTION_TEXT",
+            "m_isCollectionOnly": 1,
+            "m_tooltipInitOrder": 73000
+        },
+        {
+            "m_ID": 29,
+            "m_noteDesc": "Kabal\n",
+            "m_tagId": 484,
+            "m_name": "GLOBAL_KEYWORD_KABAL",
+            "m_text": "",
+            "m_refText": "",
+            "m_collectionText": "GLOBAL_KEYWORD_KABAL_COLLECTION_TEXT",
+            "m_isCollectionOnly": 1,
+            "m_tooltipInitOrder": 74000
+        },
+        {
+            "m_ID": 291,
+            "m_noteDesc": "Summoned When Drawn\n",
+            "m_tagId": 3128,
+            "m_name": "GLOBAL_KEYWORD_SUMMONED_WHEN_DRAWN",
+            "m_text": "GLOBAL_KEYWORD_SUMMONED_WHEN_DRAWN_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_SUMMONED_WHEN_DRAWN_TEXT",
+            "m_collectionText": "",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 135000
+        },
+        {
+            "m_ID": 293,
+            "m_noteDesc": "Consume",
+            "m_tagId": 3254,
+            "m_name": "GLOBAL_KEYWORD_BACON_CONSUME",
+            "m_text": "GLOBAL_KEYWORD_BACON_CONSUME_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_BACON_CONSUME_TEXT",
+            "m_collectionText": "",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 152000
+        },
+        {
+            "m_ID": 294,
+            "m_noteDesc": "Miniaturize",
+            "m_tagId": 3318,
+            "m_name": "GLOBAL_KEYWORD_MINIATURIZE",
+            "m_text": "GLOBAL_KEYWORD_MINIATURIZE_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_MINIATURIZE_TEXT",
+            "m_collectionText": "",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 150000
+        },
+        {
+            "m_ID": 295,
+            "m_noteDesc": "Mini",
+            "m_tagId": 3319,
+            "m_name": "GLOBAL_KEYWORD_MINI",
+            "m_text": "GLOBAL_KEYWORD_MINI_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_MINI_REF_TEXT",
+            "m_collectionText": "",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 151000
+        },
+        {
+            "m_ID": 297,
+            "m_noteDesc": "Quickdraw\n",
+            "m_tagId": 2905,
+            "m_name": "GLOBAL_KEYWORD_QUICKDRAW",
+            "m_text": "GLOBAL_KEYWORD_QUICKDRAW_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_QUICKDRAW_REF_TEXT",
+            "m_collectionText": "",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 136000
+        },
+        {
+            "m_ID": 298,
+            "m_noteDesc": "Excavate\n",
+            "m_tagId": 3114,
+            "m_name": "GLOBAL_KEYWORD_EXCAVATE",
+            "m_text": "GLOBAL_KEYWORD_EXCAVATE_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_EXCAVATE_REF_TEXT",
+            "m_collectionText": "",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 137000
+        },
+        {
+            "m_ID": 3,
+            "m_noteDesc": "Divine Shield\n",
+            "m_tagId": 194,
+            "m_name": "GLOBAL_KEYWORD_DIVINE_SHIELD",
+            "m_text": "GLOBAL_KEYWORD_DIVINE_SHIELD_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_DIVINE_SHIELD_REF_TEXT",
+            "m_collectionText": "",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 14000
+        },
+        {
+            "m_ID": 300,
+            "m_noteDesc": "Pass",
+            "m_tagId": 3321,
+            "m_name": "GLOBAL_KEYWORD_BACON_PASS",
+            "m_text": "GLOBAL_KEYWORD_BACON_PASS_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_BACON_PASS_TEXT",
+            "m_collectionText": "Pass",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 153000
+        },
+        {
+            "m_ID": 301,
+            "m_noteDesc": "Gigantify",
+            "m_tagId": 3399,
+            "m_name": "GLOBAL_KEYWORD_GIGANTIFY",
+            "m_text": "GLOBAL_KEYWORD_GIGANTIFY_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_GIGANTIFY_TEXT",
+            "m_collectionText": "",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 154000
+        },
+        {
+            "m_ID": 302,
+            "m_noteDesc": "Gigantic",
+            "m_tagId": 3400,
+            "m_name": "GLOBAL_KEYWORD_GIGANTIC",
+            "m_text": "GLOBAL_KEYWORD_GIGANTIC_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_GIGANTIC_TEXT",
+            "m_collectionText": "",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 155000
+        },
+        {
+            "m_ID": 303,
+            "m_noteDesc": "Buddy",
+            "m_tagId": 2154,
+            "m_name": "GLOBAL_KEYWORD_BACON_BUDDY",
+            "m_text": "GLOBAL_KEYWORD_BACON_BUDDY_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_BACON_BUDDY_TEXT",
+            "m_collectionText": "",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 156000
+        },
+        {
+            "m_ID": 304,
+            "m_noteDesc": "Passive",
+            "m_tagId": 3576,
+            "m_name": "GLOBAL_KEYWORD_IS_HERO_PASSIVE",
+            "m_text": "GLOBAL_KEYWORD_IS_HERO_PASSIVE_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_IS_HERO_PASSIVE_TEXT",
+            "m_collectionText": "",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 157000
+        },
+        {
+            "m_ID": 307,
+            "m_noteDesc": "Rogue Tourist",
+            "m_tagId": 3597,
+            "m_name": "GLOBAL_KEYWORD_ROGUE_TOURIST",
+            "m_text": "GLOBAL_KEYWORD_ROGUE_TOURIST_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_ROGUE_TOURIST_TEXT",
+            "m_collectionText": "",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 10005
+        },
+        {
+            "m_ID": 308,
+            "m_noteDesc": "Warlock Tourist",
+            "m_tagId": 3598,
+            "m_name": "GLOBAL_KEYWORD_WARLOCK_TOURIST",
+            "m_text": "GLOBAL_KEYWORD_WARLOCK_TOURIST_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_WARLOCK_TOURIST_TEXT",
+            "m_collectionText": "",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 10010
+        },
+        {
+            "m_ID": 309,
+            "m_noteDesc": "Death Knight Tourist",
+            "m_tagId": 3599,
+            "m_name": "GLOBAL_KEYWORD_DEATH_KNIGHT_TOURIST",
+            "m_text": "GLOBAL_KEYWORD_DEATH_KNIGHT_TOURIST_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_DEATH_KNIGHT_TOURIST_TEXT",
+            "m_collectionText": "",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 10007
+        },
+        {
+            "m_ID": 31,
+            "m_noteDesc": "Quest\n",
+            "m_tagId": 462,
+            "m_name": "GLOBAL_KEYWORD_QUEST",
+            "m_text": "GLOBAL_KEYWORD_QUEST_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_QUEST_TEXT",
+            "m_collectionText": "",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 75000
+        },
+        {
+            "m_ID": 310,
+            "m_noteDesc": "Shaman Tourist",
+            "m_tagId": 3600,
+            "m_name": "GLOBAL_KEYWORD_SHAMAN_TOURIST",
+            "m_text": "GLOBAL_KEYWORD_SHAMAN_TOURIST_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_SHAMAN_TOURIST_TEXT",
+            "m_collectionText": "",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 10008
+        },
+        {
+            "m_ID": 311,
+            "m_noteDesc": "Demon Hunter Tourist",
+            "m_tagId": 3601,
+            "m_name": "GLOBAL_KEYWORD_DEMON_HUNTER_TOURIST",
+            "m_text": "GLOBAL_KEYWORD_DEMON_HUNTER_TOURIST_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_DEMON_HUNTER_TOURIST_TEXT",
+            "m_collectionText": "",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 10000
+        },
+        {
+            "m_ID": 312,
+            "m_noteDesc": "Priest Tourist",
+            "m_tagId": 3602,
+            "m_name": "GLOBAL_KEYWORD_PRIEST_TOURIST",
+            "m_text": "GLOBAL_KEYWORD_PRIEST_TOURIST_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_PRIEST_TOURIST_TEXT",
+            "m_collectionText": "",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 10009
+        },
+        {
+            "m_ID": 313,
+            "m_noteDesc": "Hunter Tourist",
+            "m_tagId": 3603,
+            "m_name": "GLOBAL_KEYWORD_HUNTER_TOURIST",
+            "m_text": "GLOBAL_KEYWORD_HUNTER_TOURIST_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_HUNTER_TOURIST_TEXT",
+            "m_collectionText": "",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 10006
+        },
+        {
+            "m_ID": 314,
+            "m_noteDesc": "Warrior Tourist",
+            "m_tagId": 3604,
+            "m_name": "GLOBAL_KEYWORD_WARRIOR_TOURIST",
+            "m_text": "GLOBAL_KEYWORD_WARRIOR_TOURIST_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_WARRIOR_TOURIST_TEXT",
+            "m_collectionText": "",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 10003
+        },
+        {
+            "m_ID": 315,
+            "m_noteDesc": "Druid Tourist",
+            "m_tagId": 3605,
+            "m_name": "GLOBAL_KEYWORD_DRUID_TOURIST",
+            "m_text": "GLOBAL_KEYWORD_DRUID_TOURIST_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_DRUID_TOURIST_TEXT",
+            "m_collectionText": "",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 10002
+        },
+        {
+            "m_ID": 316,
+            "m_noteDesc": "Mage Tourist",
+            "m_tagId": 3606,
+            "m_name": "GLOBAL_KEYWORD_MAGE_TOURIST",
+            "m_text": "GLOBAL_KEYWORD_MAGE_TOURIST_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_MAGE_TOURIST_TEXT",
+            "m_collectionText": "",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 10001
+        },
+        {
+            "m_ID": 317,
+            "m_noteDesc": "Paladin Tourist",
+            "m_tagId": 3607,
+            "m_name": "GLOBAL_KEYWORD_PALADIN_TOURIST",
+            "m_text": "GLOBAL_KEYWORD_PALADIN_TOURIST_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_PALADIN_TOURIST_TEXT",
+            "m_collectionText": "",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 10004
+        },
+        {
+            "m_ID": 32,
+            "m_noteDesc": "Poisonous\n",
+            "m_tagId": 363,
+            "m_name": "GLOBAL_KEYWORD_POISONOUS",
+            "m_text": "GLOBAL_KEYWORD_POISONOUS_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_POISONOUS_TEXT",
+            "m_collectionText": "",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 77000
+        },
+        {
+            "m_ID": 320,
+            "m_noteDesc": "Temporary",
+            "m_tagId": 3630,
+            "m_name": "GLOBAL_KEYWORD_TEMPORARY",
+            "m_text": "GLOBAL_KEYWORD_TEMPORARY_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_TEMPORARY_TEXT",
+            "m_collectionText": "",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 169000
+        },
+        {
+            "m_ID": 321,
+            "m_noteDesc": "Magic Damage",
+            "m_tagId": 3636,
+            "m_name": "GLOBAL_KEYWORD_BACON_MAGICDAMAGE",
+            "m_text": "GLOBAL_KEYWORD_BACON_MAGICDAMAGE_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_BACON_MAGICDAMAGE_TEXT",
+            "m_collectionText": "Magic Damage",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 170000
+        },
+        {
+            "m_ID": 323,
+            "m_noteDesc": "Starship",
+            "m_tagId": 3555,
+            "m_name": "GLOBAL_KEYWORD_STARSHIP",
+            "m_text": "GLOBAL_KEYWORD_STARSHIP_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_STARSHIP_TEXT",
+            "m_collectionText": "",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 9500
+        },
+        {
+            "m_ID": 326,
+            "m_noteDesc": "Sturdy",
+            "m_tagId": 3698,
+            "m_name": "GLOBAL_KEYWORD_BACON_STURDY",
+            "m_text": "GLOBAL_KEYWORD_BACON_STURDY_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_BACON_STURDY_TEXT",
+            "m_collectionText": "Sturdy",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 172000
+        },
+        {
+            "m_ID": 329,
+            "m_noteDesc": "Trinket",
+            "m_tagId": 3407,
+            "m_name": "GLOBAL_KEYWORD_BACON_TRINKET",
+            "m_text": "GLOBAL_KEYWORD_BACON_TRINKET_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_BACON_TRINKET_TEXT",
+            "m_collectionText": "",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 190000
+        },
+        {
+            "m_ID": 33,
+            "m_noteDesc": "Boss\n",
+            "m_tagId": 556,
+            "m_name": "GLOBAL_KEYWORD_BOSS",
+            "m_text": "GLOBAL_KEYWORD_BOSS_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_BOSS_TEXT",
+            "m_collectionText": "",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 6000
+        },
+        {
             "m_ID": 333,
             "m_noteDesc": "Discounted",
             "m_tagId": 3777,
@@ -1408,70 +1331,15 @@
             "m_tooltipInitOrder": 191000
         },
         {
-            "m_ID": 78,
-            "m_noteDesc": "Reborn\n",
-            "m_tagId": 1085,
-            "m_name": "GLOBAL_KEYWORD_REBORN",
-            "m_text": "GLOBAL_KEYWORD_REBORN_TEXT",
-            "m_refText": "GLOBAL_KEYWORD_REBORN_TEXT",
+            "m_ID": 334,
+            "m_noteDesc": "Bonus Keywords",
+            "m_tagId": 3423,
+            "m_name": "GLOBAL_KEYWORD_BACON_BONUS_KEYWORDS",
+            "m_text": "GLOBAL_KEYWORD_BACON_BONUS_KEYWORDS_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_BACON_BONUS_KEYWORDS_TEXT",
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
-            "m_tooltipInitOrder": 54000
-        },
-        {
-            "m_ID": 214,
-            "m_noteDesc": "Spell Combo\n",
-            "m_tagId": 2160,
-            "m_name": "GLOBAL_KEYWORD_SPELLCOMBO_MERC",
-            "m_text": "GLOBAL_KEYWORD_SPELLCOMBO_TEXT_MERC",
-            "m_refText": "GLOBAL_KEYWORD_SPELLCOMBO_REF_TEXT_MERC",
-            "m_collectionText": "GLOBAL_KEYWORD_SPELLCOMBO_REF_TEXT_MERC",
-            "m_isCollectionOnly": 0,
-            "m_tooltipInitOrder": 102000
-        },
-        {
-            "m_ID": 36,
-            "m_noteDesc": "",
-            "m_tagId": 550,
-            "m_name": "",
-            "m_text": "GLOBAL_KEYWORD_SHIFTING_WEAPON_TEXT",
-            "m_refText": "GLOBAL_KEYWORD_SHIFTING_WEAPON_TEXT",
-            "m_collectionText": "",
-            "m_isCollectionOnly": 0,
-            "m_tooltipInitOrder": 3000
-        },
-        {
-            "m_ID": 72,
-            "m_noteDesc": "Casts When Drawn\n",
-            "m_tagId": 1077,
-            "m_name": "GLOBAL_KEYWORD_CASTS_WHEN_DRAWN",
-            "m_text": "GLOBAL_KEYWORD_CASTS_WHEN_DRAWN_TEXT",
-            "m_refText": "GLOBAL_KEYWORD_CASTS_WHEN_DRAWN_TEXT",
-            "m_collectionText": "",
-            "m_isCollectionOnly": 0,
-            "m_tooltipInitOrder": 83000
-        },
-        {
-            "m_ID": 95,
-            "m_noteDesc": "Tool\n",
-            "m_tagId": 1722,
-            "m_name": "GLOBAL_KEYWORD_TOOL",
-            "m_text": "GLOBAL_KEYWORD_TOOL_TEXT",
-            "m_refText": "GLOBAL_KEYWORD_TOOL_TEXT",
-            "m_collectionText": "",
-            "m_isCollectionOnly": 0,
-            "m_tooltipInitOrder": 98000
-        },
-        {
-            "m_ID": 63,
-            "m_noteDesc": "",
-            "m_tagId": 936,
-            "m_name": "",
-            "m_text": "GLOBAL_KEYWORD_SHIFTING_SPELL_TEXT",
-            "m_refText": "GLOBAL_KEYWORD_SHIFTING_SPELL_TEXT",
-            "m_collectionText": "",
-            "m_isCollectionOnly": 0,
-            "m_tooltipInitOrder": 4000
+            "m_tooltipInitOrder": 192000
         },
         {
             "m_ID": 34,
@@ -1485,15 +1353,37 @@
             "m_tooltipInitOrder": 78000
         },
         {
-            "m_ID": 79,
-            "m_noteDesc": "Invoke\n",
-            "m_tagId": 1263,
-            "m_name": "GLOBAL_KEYWORD_EMPOWER",
-            "m_text": "GLOBAL_KEYWORD_EMPOWER_TEXT",
-            "m_refText": "GLOBAL_KEYWORD_EMPOWER_TEXT",
-            "m_collectionText": "GLOBAL_KEYWORD_EMPOWER_TEXT",
+            "m_ID": 340,
+            "m_noteDesc": "",
+            "m_tagId": 3894,
+            "m_name": "",
+            "m_text": "GLOBAL_KEYWORD_SHIFTING_TOP_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_SHIFTING_TOP_TEXT",
+            "m_collectionText": "",
             "m_isCollectionOnly": 0,
-            "m_tooltipInitOrder": 11000
+            "m_tooltipInitOrder": 1001
+        },
+        {
+            "m_ID": 35,
+            "m_noteDesc": "",
+            "m_tagId": 549,
+            "m_name": "",
+            "m_text": "GLOBAL_KEYWORD_SHIFTING_MINION_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_SHIFTING_MINION_TEXT",
+            "m_collectionText": "",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 2000
+        },
+        {
+            "m_ID": 36,
+            "m_noteDesc": "",
+            "m_tagId": 550,
+            "m_name": "",
+            "m_text": "GLOBAL_KEYWORD_SHIFTING_WEAPON_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_SHIFTING_WEAPON_TEXT",
+            "m_collectionText": "",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 3000
         },
         {
             "m_ID": 37,
@@ -1507,39 +1397,6 @@
             "m_tooltipInitOrder": 1000
         },
         {
-            "m_ID": 74,
-            "m_noteDesc": "Flobbidinous Floop\n",
-            "m_tagId": 1097,
-            "m_name": "GLOBAL_KEYWORD_FLOOPY",
-            "m_text": "GLOBAL_KEYWORD_FLOOPY_TEXT",
-            "m_refText": "GLOBAL_KEYWORD_FLOOPY_TEXT",
-            "m_collectionText": "",
-            "m_isCollectionOnly": 0,
-            "m_tooltipInitOrder": 5000
-        },
-        {
-            "m_ID": 96,
-            "m_noteDesc": "Questline\n",
-            "m_tagId": 1725,
-            "m_name": "GLOBAL_KEYWORD_QUESTLINE",
-            "m_text": "GLOBAL_KEYWORD_QUESTLINE_TEXT",
-            "m_refText": "GLOBAL_KEYWORD_QUESTLINE_TEXT",
-            "m_collectionText": "",
-            "m_isCollectionOnly": 0,
-            "m_tooltipInitOrder": 99000
-        },
-        {
-            "m_ID": 64,
-            "m_noteDesc": "Start of Game\n",
-            "m_tagId": 968,
-            "m_name": "GLOBAL_KEYWORD_START_OF_GAME",
-            "m_text": "GLOBAL_KEYWORD_START_OF_GAME_TEXT",
-            "m_refText": "GLOBAL_KEYWORD_START_OF_GAME_TEXT",
-            "m_collectionText": "",
-            "m_isCollectionOnly": 0,
-            "m_tooltipInitOrder": 82000
-        },
-        {
             "m_ID": 38,
             "m_noteDesc": "Lifesteal\n",
             "m_tagId": 685,
@@ -1549,61 +1406,6 @@
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
             "m_tooltipInitOrder": 79000
-        },
-        {
-            "m_ID": 8,
-            "m_noteDesc": "Battlecry\n",
-            "m_tagId": 218,
-            "m_name": "GLOBAL_KEYWORD_BATTLECRY",
-            "m_text": "GLOBAL_KEYWORD_BATTLECRY_TEXT",
-            "m_refText": "GLOBAL_KEYWORD_BATTLECRY_TEXT",
-            "m_collectionText": "",
-            "m_isCollectionOnly": 0,
-            "m_tooltipInitOrder": 40000
-        },
-        {
-            "m_ID": 340,
-            "m_noteDesc": "",
-            "m_tagId": 3894,
-            "m_name": "",
-            "m_text": "GLOBAL_KEYWORD_SHIFTING_TOP_TEXT",
-            "m_refText": "GLOBAL_KEYWORD_SHIFTING_TOP_TEXT",
-            "m_collectionText": "",
-            "m_isCollectionOnly": 0,
-            "m_tooltipInitOrder": 1001
-        },
-        {
-            "m_ID": 75,
-            "m_noteDesc": "Shrine\n",
-            "m_tagId": 1057,
-            "m_name": "GLOBAL_KEYWORD_SHRINE",
-            "m_text": "GLOBAL_KEYWORD_SHRINE_TEXT",
-            "m_refText": "GLOBAL_KEYWORD_SHRINE_TEXT",
-            "m_collectionText": "",
-            "m_isCollectionOnly": 0,
-            "m_tooltipInitOrder": 84000
-        },
-        {
-            "m_ID": 97,
-            "m_noteDesc": "Tradeable\n",
-            "m_tagId": 1720,
-            "m_name": "GLOBAL_KEYWORD_TRADE",
-            "m_text": "GLOBAL_KEYWORD_TRADE_TEXT",
-            "m_refText": "GLOBAL_KEYWORD_TRADE_TEXT",
-            "m_collectionText": "",
-            "m_isCollectionOnly": 0,
-            "m_tooltipInitOrder": 100000
-        },
-        {
-            "m_ID": 65,
-            "m_noteDesc": "Wild\t\n",
-            "m_tagId": 991,
-            "m_name": "GLOBAL_KEYWORD_WILD",
-            "m_text": "GLOBAL_KEYWORD_WILD_TEXT",
-            "m_refText": "GLOBAL_KEYWORD_WILD_TEXT",
-            "m_collectionText": "",
-            "m_isCollectionOnly": 0,
-            "m_tooltipInitOrder": 7000
         },
         {
             "m_ID": 39,
@@ -1617,37 +1419,136 @@
             "m_tooltipInitOrder": 80000
         },
         {
-            "m_ID": 80,
-            "m_noteDesc": "Invoke: Priest\n",
-            "m_tagId": 1264,
-            "m_name": "GLOBAL_KEYWORD_EMPOWER_PRIEST",
-            "m_text": "GLOBAL_KEYWORD_EMPOWER_PRIEST_TEXT",
-            "m_refText": "GLOBAL_KEYWORD_EMPOWER_PRIEST_TEXT",
-            "m_collectionText": "GLOBAL_KEYWORD_EMPOWER_PRIEST_TEXT",
-            "m_isCollectionOnly": 0,
-            "m_tooltipInitOrder": 0
-        },
-        {
-            "m_ID": 76,
-            "m_noteDesc": "Twinspell\n",
-            "m_tagId": 1193,
-            "m_name": "GLOBAL_KEYWORD_TWINSPELL",
-            "m_text": "GLOBAL_KEYWORD_TWINSPELL_TEXT",
-            "m_refText": "GLOBAL_KEYWORD_TWINSPELL_TEXT",
+            "m_ID": 4,
+            "m_noteDesc": "Charge\n",
+            "m_tagId": 197,
+            "m_name": "GLOBAL_KEYWORD_CHARGE",
+            "m_text": "GLOBAL_KEYWORD_CHARGE_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_CHARGE_TEXT",
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
-            "m_tooltipInitOrder": 53000
+            "m_tooltipInitOrder": 39000
         },
         {
-            "m_ID": 98,
-            "m_noteDesc": "Corrupted\n",
-            "m_tagId": 1551,
-            "m_name": "GLOBAL_KEYWORD_CORRUPTEDCARD",
-            "m_text": "GLOBAL_KEYWORD_CORRUPTEDCARD_TEXT",
-            "m_refText": "GLOBAL_KEYWORD_CORRUPTEDCARD_TEXT",
+            "m_ID": 5,
+            "m_noteDesc": "Secret\n",
+            "m_tagId": 219,
+            "m_name": "GLOBAL_KEYWORD_SECRET",
+            "m_text": "GLOBAL_KEYWORD_SECRET_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_SECRET_TEXT",
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
-            "m_tooltipInitOrder": 91000
+            "m_tooltipInitOrder": 57000
+        },
+        {
+            "m_ID": 52,
+            "m_noteDesc": "Echo\n",
+            "m_tagId": 846,
+            "m_name": "GLOBAL_KEYWORD_ECHO",
+            "m_text": "GLOBAL_KEYWORD_ECHO_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_ECHO_TEXT",
+            "m_collectionText": "",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 45000
+        },
+        {
+            "m_ID": 53,
+            "m_noteDesc": "Rush\n",
+            "m_tagId": 791,
+            "m_name": "GLOBAL_KEYWORD_RUSH",
+            "m_text": "GLOBAL_KEYWORD_RUSH_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_RUSH_TEXT",
+            "m_collectionText": "",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 46000
+        },
+        {
+            "m_ID": 57,
+            "m_noteDesc": "Passive\n",
+            "m_tagId": 783,
+            "m_name": "GLOBAL_KEYWORD_PASSIVE",
+            "m_text": "GLOBAL_KEYWORD_PASSIVE_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_PASSIVE_TEXT",
+            "m_collectionText": "",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 81000
+        },
+        {
+            "m_ID": 6,
+            "m_noteDesc": "Stealth\n",
+            "m_tagId": 191,
+            "m_name": "GLOBAL_KEYWORD_STEALTH",
+            "m_text": "GLOBAL_KEYWORD_STEALTH_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_STEALTH_REF_TEXT",
+            "m_collectionText": "",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 13000
+        },
+        {
+            "m_ID": 60,
+            "m_noteDesc": "",
+            "m_tagId": 880,
+            "m_name": "GLOBAL_KEYWORD_ETHEREAL",
+            "m_text": "GLOBAL_KEYWORD_ETHEREAL_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_ETHEREAL_TEXT",
+            "m_collectionText": "",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 50000
+        },
+        {
+            "m_ID": 61,
+            "m_noteDesc": "Overkill\n",
+            "m_tagId": 923,
+            "m_name": "GLOBAL_KEYWORD_OVERKILL",
+            "m_text": "GLOBAL_KEYWORD_OVERKILL_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_OVERKILL_TEXT",
+            "m_collectionText": "",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 48000
+        },
+        {
+            "m_ID": 62,
+            "m_noteDesc": "",
+            "m_tagId": 924,
+            "m_name": "GLOBAL_KEYWORD_PROPHECY",
+            "m_text": "GLOBAL_KEYWORD_PROPHECY_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_PROPHECY_TEXT",
+            "m_collectionText": "",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 49000
+        },
+        {
+            "m_ID": 63,
+            "m_noteDesc": "",
+            "m_tagId": 936,
+            "m_name": "",
+            "m_text": "GLOBAL_KEYWORD_SHIFTING_SPELL_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_SHIFTING_SPELL_TEXT",
+            "m_collectionText": "",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 4000
+        },
+        {
+            "m_ID": 64,
+            "m_noteDesc": "Start of Game\n",
+            "m_tagId": 968,
+            "m_name": "GLOBAL_KEYWORD_START_OF_GAME",
+            "m_text": "GLOBAL_KEYWORD_START_OF_GAME_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_START_OF_GAME_TEXT",
+            "m_collectionText": "",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 82000
+        },
+        {
+            "m_ID": 65,
+            "m_noteDesc": "Wild\t\n",
+            "m_tagId": 991,
+            "m_name": "GLOBAL_KEYWORD_WILD",
+            "m_text": "GLOBAL_KEYWORD_WILD_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_WILD_TEXT",
+            "m_collectionText": "",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 7000
         },
         {
             "m_ID": 66,
@@ -1661,50 +1562,6 @@
             "m_tooltipInitOrder": 47000
         },
         {
-            "m_ID": 4,
-            "m_noteDesc": "Charge\n",
-            "m_tagId": 197,
-            "m_name": "GLOBAL_KEYWORD_CHARGE",
-            "m_text": "GLOBAL_KEYWORD_CHARGE_TEXT",
-            "m_refText": "GLOBAL_KEYWORD_CHARGE_TEXT",
-            "m_collectionText": "",
-            "m_isCollectionOnly": 0,
-            "m_tooltipInitOrder": 39000
-        },
-        {
-            "m_ID": 81,
-            "m_noteDesc": "Invoke: Rogue\n",
-            "m_tagId": 1265,
-            "m_name": "GLOBAL_KEYWORD_EMPOWER_ROGUE",
-            "m_text": "GLOBAL_KEYWORD_EMPOWER_ROGUE_TEXT",
-            "m_refText": "GLOBAL_KEYWORD_EMPOWER_ROGUE_TEXT",
-            "m_collectionText": "GLOBAL_KEYWORD_EMPOWER_ROGUE_COLLECTION_TEXT",
-            "m_isCollectionOnly": 0,
-            "m_tooltipInitOrder": 1
-        },
-        {
-            "m_ID": 77,
-            "m_noteDesc": "Mega-Windfury\n",
-            "m_tagId": 1207,
-            "m_name": "GLOBAL_KEYWORD_MEGAWINDFURY",
-            "m_text": "GLOBAL_KEYWORD_MEGAWINDFURY_TEXT",
-            "m_refText": "GLOBAL_KEYWORD_MEGAWINDFURY_TEXT",
-            "m_collectionText": "",
-            "m_isCollectionOnly": 0,
-            "m_tooltipInitOrder": 44000
-        },
-        {
-            "m_ID": 99,
-            "m_noteDesc": "Frenzy\n",
-            "m_tagId": 1637,
-            "m_name": "GLOBAL_KEYWORD_FRENZY",
-            "m_text": "GLOBAL_KEYWORD_FRENZY_TEXT",
-            "m_refText": "GLOBAL_KEYWORD_FRENZY_TEXT",
-            "m_collectionText": "",
-            "m_isCollectionOnly": 0,
-            "m_tooltipInitOrder": 92000
-        },
-        {
             "m_ID": 67,
             "m_noteDesc": "",
             "m_tagId": 992,
@@ -1714,17 +1571,6 @@
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
             "m_tooltipInitOrder": 8000
-        },
-        {
-            "m_ID": 82,
-            "m_noteDesc": "Invoke: Shaman\n",
-            "m_tagId": 1266,
-            "m_name": "GLOBAL_KEYWORD_EMPOWER_SHAMAN",
-            "m_text": "GLOBAL_KEYWORD_EMPOWER_SHAMAN_TEXT",
-            "m_refText": "GLOBAL_KEYWORD_EMPOWER_SHAMAN_TEXT",
-            "m_collectionText": "GLOBAL_KEYWORD_EMPOWER_SHAMAN_COLLECTION_TEXT",
-            "m_isCollectionOnly": 0,
-            "m_tooltipInitOrder": 2
         },
         {
             "m_ID": 7,
@@ -1738,17 +1584,6 @@
             "m_tooltipInitOrder": 38000
         },
         {
-            "m_ID": 83,
-            "m_noteDesc": "Invoke: Warlock\n",
-            "m_tagId": 1267,
-            "m_name": "GLOBAL_KEYWORD_EMPOWER_WARLOCK",
-            "m_text": "GLOBAL_KEYWORD_EMPOWER_WARLOCK_TEXT",
-            "m_refText": "GLOBAL_KEYWORD_EMPOWER_WARLOCK_TEXT",
-            "m_collectionText": "GLOBAL_KEYWORD_EMPOWER_WARLOCK_TEXT",
-            "m_isCollectionOnly": 0,
-            "m_tooltipInitOrder": 3
-        },
-        {
             "m_ID": 70,
             "m_noteDesc": "",
             "m_tagId": 1015,
@@ -1758,6 +1593,149 @@
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
             "m_tooltipInitOrder": 52000
+        },
+        {
+            "m_ID": 71,
+            "m_noteDesc": "Lackey\n",
+            "m_tagId": 994,
+            "m_name": "GLOBAL_KEYWORD_EVILZUG",
+            "m_text": "GLOBAL_KEYWORD_EVILZUG_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_EVILZUG_TEXT",
+            "m_collectionText": "",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 51000
+        },
+        {
+            "m_ID": 72,
+            "m_noteDesc": "Casts When Drawn\n",
+            "m_tagId": 1077,
+            "m_name": "GLOBAL_KEYWORD_CASTS_WHEN_DRAWN",
+            "m_text": "GLOBAL_KEYWORD_CASTS_WHEN_DRAWN_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_CASTS_WHEN_DRAWN_TEXT",
+            "m_collectionText": "",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 83000
+        },
+        {
+            "m_ID": 74,
+            "m_noteDesc": "Flobbidinous Floop\n",
+            "m_tagId": 1097,
+            "m_name": "GLOBAL_KEYWORD_FLOOPY",
+            "m_text": "GLOBAL_KEYWORD_FLOOPY_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_FLOOPY_TEXT",
+            "m_collectionText": "",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 5000
+        },
+        {
+            "m_ID": 75,
+            "m_noteDesc": "Shrine\n",
+            "m_tagId": 1057,
+            "m_name": "GLOBAL_KEYWORD_SHRINE",
+            "m_text": "GLOBAL_KEYWORD_SHRINE_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_SHRINE_TEXT",
+            "m_collectionText": "",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 84000
+        },
+        {
+            "m_ID": 76,
+            "m_noteDesc": "Twinspell\n",
+            "m_tagId": 1193,
+            "m_name": "GLOBAL_KEYWORD_TWINSPELL",
+            "m_text": "GLOBAL_KEYWORD_TWINSPELL_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_TWINSPELL_TEXT",
+            "m_collectionText": "",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 53000
+        },
+        {
+            "m_ID": 77,
+            "m_noteDesc": "Mega-Windfury\n",
+            "m_tagId": 1207,
+            "m_name": "GLOBAL_KEYWORD_MEGAWINDFURY",
+            "m_text": "GLOBAL_KEYWORD_MEGAWINDFURY_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_MEGAWINDFURY_TEXT",
+            "m_collectionText": "",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 44000
+        },
+        {
+            "m_ID": 78,
+            "m_noteDesc": "Reborn\n",
+            "m_tagId": 1085,
+            "m_name": "GLOBAL_KEYWORD_REBORN",
+            "m_text": "GLOBAL_KEYWORD_REBORN_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_REBORN_TEXT",
+            "m_collectionText": "",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 54000
+        },
+        {
+            "m_ID": 79,
+            "m_noteDesc": "Invoke\n",
+            "m_tagId": 1263,
+            "m_name": "GLOBAL_KEYWORD_EMPOWER",
+            "m_text": "GLOBAL_KEYWORD_EMPOWER_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_EMPOWER_TEXT",
+            "m_collectionText": "GLOBAL_KEYWORD_EMPOWER_TEXT",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 11000
+        },
+        {
+            "m_ID": 8,
+            "m_noteDesc": "Battlecry\n",
+            "m_tagId": 218,
+            "m_name": "GLOBAL_KEYWORD_BATTLECRY",
+            "m_text": "GLOBAL_KEYWORD_BATTLECRY_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_BATTLECRY_TEXT",
+            "m_collectionText": "",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 40000
+        },
+        {
+            "m_ID": 80,
+            "m_noteDesc": "Invoke: Priest\n",
+            "m_tagId": 1264,
+            "m_name": "GLOBAL_KEYWORD_EMPOWER_PRIEST",
+            "m_text": "GLOBAL_KEYWORD_EMPOWER_PRIEST_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_EMPOWER_PRIEST_TEXT",
+            "m_collectionText": "GLOBAL_KEYWORD_EMPOWER_PRIEST_TEXT",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 0
+        },
+        {
+            "m_ID": 81,
+            "m_noteDesc": "Invoke: Rogue\n",
+            "m_tagId": 1265,
+            "m_name": "GLOBAL_KEYWORD_EMPOWER_ROGUE",
+            "m_text": "GLOBAL_KEYWORD_EMPOWER_ROGUE_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_EMPOWER_ROGUE_TEXT",
+            "m_collectionText": "GLOBAL_KEYWORD_EMPOWER_ROGUE_COLLECTION_TEXT",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 1
+        },
+        {
+            "m_ID": 82,
+            "m_noteDesc": "Invoke: Shaman\n",
+            "m_tagId": 1266,
+            "m_name": "GLOBAL_KEYWORD_EMPOWER_SHAMAN",
+            "m_text": "GLOBAL_KEYWORD_EMPOWER_SHAMAN_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_EMPOWER_SHAMAN_TEXT",
+            "m_collectionText": "GLOBAL_KEYWORD_EMPOWER_SHAMAN_COLLECTION_TEXT",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 2
+        },
+        {
+            "m_ID": 83,
+            "m_noteDesc": "Invoke: Warlock\n",
+            "m_tagId": 1267,
+            "m_name": "GLOBAL_KEYWORD_EMPOWER_WARLOCK",
+            "m_text": "GLOBAL_KEYWORD_EMPOWER_WARLOCK_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_EMPOWER_WARLOCK_TEXT",
+            "m_collectionText": "GLOBAL_KEYWORD_EMPOWER_WARLOCK_TEXT",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 3
         },
         {
             "m_ID": 84,
@@ -1857,6 +1835,61 @@
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
             "m_tooltipInitOrder": 90000
+        },
+        {
+            "m_ID": 95,
+            "m_noteDesc": "Tool\n",
+            "m_tagId": 1722,
+            "m_name": "GLOBAL_KEYWORD_TOOL",
+            "m_text": "GLOBAL_KEYWORD_TOOL_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_TOOL_TEXT",
+            "m_collectionText": "",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 98000
+        },
+        {
+            "m_ID": 96,
+            "m_noteDesc": "Questline\n",
+            "m_tagId": 1725,
+            "m_name": "GLOBAL_KEYWORD_QUESTLINE",
+            "m_text": "GLOBAL_KEYWORD_QUESTLINE_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_QUESTLINE_TEXT",
+            "m_collectionText": "",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 99000
+        },
+        {
+            "m_ID": 97,
+            "m_noteDesc": "Tradeable\n",
+            "m_tagId": 1720,
+            "m_name": "GLOBAL_KEYWORD_TRADE",
+            "m_text": "GLOBAL_KEYWORD_TRADE_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_TRADE_TEXT",
+            "m_collectionText": "",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 100000
+        },
+        {
+            "m_ID": 98,
+            "m_noteDesc": "Corrupted\n",
+            "m_tagId": 1551,
+            "m_name": "GLOBAL_KEYWORD_CORRUPTEDCARD",
+            "m_text": "GLOBAL_KEYWORD_CORRUPTEDCARD_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_CORRUPTEDCARD_TEXT",
+            "m_collectionText": "",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 91000
+        },
+        {
+            "m_ID": 99,
+            "m_noteDesc": "Frenzy\n",
+            "m_tagId": 1637,
+            "m_name": "GLOBAL_KEYWORD_FRENZY",
+            "m_text": "GLOBAL_KEYWORD_FRENZY_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_FRENZY_TEXT",
+            "m_collectionText": "",
+            "m_isCollectionOnly": 0,
+            "m_tooltipInitOrder": 92000
         }
     ]
 }

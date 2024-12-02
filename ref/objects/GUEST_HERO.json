@@ -7575,254 +7575,6 @@
             "m_unlockEvent": 164
         },
         {
-            "m_ID": 389,
-            "m_cardId": 98488,
-            "m_name": {
-                "m_locValues": [
-                    "Classical Star",
-                    "Klassikstar",
-                    "Estrella clásica",
-                    "Estrella clásica",
-                    "Star de la musique classique",
-                    "Stella della Classica",
-                    "クラシックスター",
-                    "클래식 스타",
-                    "Gwiazda klasyki",
-                    "Estrela da Música Clássica",
-                    "Звезда классики",
-                    "ศิลปินคลาสสิค",
-                    "古典巨星",
-                    "古典樂新星"
-                ],
-                "m_locId": 2860341
-            },
-            "m_shortName": {
-                "m_locValues": [
-                    "Classical Star",
-                    "Klassikstar",
-                    "Estrella clásica",
-                    "Estrella clásica",
-                    "Star de la musique classique",
-                    "Stella della Classica",
-                    "クラシックスター",
-                    "클래식 스타",
-                    "Gwiazda klasyki",
-                    "Estrela da Música Clássica",
-                    "Звезда классики",
-                    "ศิลปินคลาสสิค",
-                    "古典巨星",
-                    "古典樂新星"
-                ],
-                "m_locId": 2871800
-            },
-            "m_flavorText": {
-                "m_locValues": [
-                    "Astound the masses with your flawless technical precision!",
-                    "Erstaunt die Massen mit Eurer makellosen technischen Präzision!",
-                    "¡Sorprende al público con tu insuperable precisión técnica!",
-                    "¡Deslumbra a las masas con tu precisión técnica impecable!",
-                    "Impressionnez la foule avec votre technique précise et irréprochable !",
-                    "Stupisci le masse con la tua precisione tecnica perfetta!",
-                    "完璧無比な演奏で大衆を圧倒しよう！",
-                    "완벽한 기술로 관중을 깜짝 놀라게 만들어 보세요!",
-                    "Zadziw tłumy niesamowitą precyzją i techniką!",
-                    "Deixe o público de boca aberta com sua técnica impecável!",
-                    "Покорите публику своей безупречной техникой!",
-                    "แสดงเทคนิคแม่นยำไร้ที่ติ\nจนผู้ชมต้องตะลึง!",
-                    "展现精准无瑕的技艺，震慑现场的观众！",
-                    "用完美無瑕的演出，讓觀眾目瞪口呆吧！"
-                ],
-                "m_locId": 2860342
-            },
-            "m_unlockEvent": 164
-        },
-        {
-            "m_ID": 39,
-            "m_cardId": 813,
-            "m_name": {
-                "m_locValues": [
-                    "Anduin",
-                    "Anduin",
-                    "Anduin",
-                    "Anduin",
-                    "Anduin",
-                    "Anduin",
-                    "アンドゥイン",
-                    "안두인",
-                    "Anduin",
-                    "Anduin",
-                    "Андуин",
-                    "อันดูอิน",
-                    "安度因",
-                    "安杜因"
-                ],
-                "m_locId": 2705284
-            },
-            "m_shortName": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_flavorText": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_unlockEvent": 164
-        },
-        {
-            "m_ID": 4,
-            "m_cardId": 48554,
-            "m_name": {
-                "m_locValues": [
-                    "Time-Tinker",
-                    "Zeittüftlerin",
-                    "Cronoingeniera",
-                    "Cronóloga",
-                    "Trafique-Temps",
-                    "Smonta-Tempo",
-                    "時の匠",
-                    "시간땜장이",
-                    "Czasokrętka",
-                    "Troca-Tempo",
-                    "Часовщица",
-                    "ไทม์-ทิงเกอร์",
-                    "时光修补匠",
-                    "時光巧匠"
-                ],
-                "m_locId": 2691723
-            },
-            "m_shortName": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_flavorText": {
-                "m_locValues": [
-                    "Don't like the results of a turn? Manipulate the timeline!",
-                    "Ihr seid mit dem Ergebnis eines Zuges nicht zufrieden? Manipuliert einfach die Zeit!",
-                    "Si no te gusta cómo ha salido un turno, ¡manipula la línea temporal!",
-                    "¿No te agradan los resultados de un turno? ¡Manipula la línea temporal!",
-                    "Vous avez raté un tour ? Manipulez la ligne temporelle à votre avantage !",
-                    "Non ti è piaciuto come si è svolto questo turno? Manipola il tempo!",
-                    "今のターンの結果が気に入らない？時間線を操ろう！",
-                    "마음에 안 드는 턴이었나요? 시간을 되돌리세요!",
-                    "Ostatnia tura nie poszła po twojej myśli? Pomajstruj przy linii czasowej!",
-                    "Não gostou do resultado de um turno? Manipule o tempo!",
-                    "Не нравится, как прошел ход? Тогда просто обратите время вспять!",
-                    "ไม่ชอบผลลัพธ์ของเทิร์นนี้เหรอ ควบคุมเวลาสิ!",
-                    "不喜欢这个回合的结果就换时间线吧！",
-                    "不滿意這回合的結果？那就改變一下時間線吧！"
-                ],
-                "m_locId": 2691724
-            },
-            "m_unlockEvent": 164
-        },
-        {
-            "m_ID": 40,
-            "m_cardId": 893,
-            "m_name": {
-                "m_locValues": [
-                    "Gul'dan",
-                    "Gul’dan",
-                    "Gul'dan",
-                    "Gul'dan",
-                    "Gul’dan",
-                    "Gul'dan",
-                    "グルダン",
-                    "굴단",
-                    "Gul'dan",
-                    "Gul'dan",
-                    "Гул'дан",
-                    "กุลดาน",
-                    "古尔丹",
-                    "古爾丹"
-                ],
-                "m_locId": 2705285
-            },
-            "m_shortName": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_flavorText": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_unlockEvent": 164
-        },
-        {
             "m_ID": 37,
             "m_cardId": 671,
             "m_name": {
@@ -7843,130 +7595,6 @@
                     "烏瑟"
                 ],
                 "m_locId": 2705282
-            },
-            "m_shortName": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_flavorText": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_unlockEvent": 164
-        },
-        {
-            "m_ID": 41,
-            "m_cardId": 930,
-            "m_name": {
-                "m_locValues": [
-                    "Valeera",
-                    "Valeera",
-                    "Valeera",
-                    "Valeera",
-                    "Valeera",
-                    "Valeera",
-                    "ヴァリーラ",
-                    "발리라",
-                    "Valeera",
-                    "Valira",
-                    "Валира",
-                    "วาลีร่า",
-                    "瓦莉拉",
-                    "瓦麗拉"
-                ],
-                "m_locId": 2705286
-            },
-            "m_shortName": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_flavorText": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_unlockEvent": 164
-        },
-        {
-            "m_ID": 42,
-            "m_cardId": 1066,
-            "m_name": {
-                "m_locValues": [
-                    "Thrall",
-                    "Thrall",
-                    "Thrall",
-                    "Thrall",
-                    "Thrall",
-                    "Thrall",
-                    "スロール",
-                    "스랄",
-                    "Thrall",
-                    "Thrall",
-                    "Тралл",
-                    "ธรอล",
-                    "萨尔",
-                    "索爾"
-                ],
-                "m_locId": 2705278
             },
             "m_shortName": {
                 "m_locValues": [
@@ -8067,68 +7695,6 @@
                     "掌握生與死來完成復仇"
                 ],
                 "m_locId": 2861910
-            },
-            "m_unlockEvent": 164
-        },
-        {
-            "m_ID": 43,
-            "m_cardId": 274,
-            "m_name": {
-                "m_locValues": [
-                    "Malfurion",
-                    "Malfurion",
-                    "Malfurion",
-                    "Malfurion",
-                    "Malfurion",
-                    "Malfurion",
-                    "マルフュリオン",
-                    "말퓨리온",
-                    "Malfurion",
-                    "Malfurion",
-                    "Малфурион",
-                    "มัลฟิวเรียน",
-                    "玛法里奥",
-                    "瑪法里恩"
-                ],
-                "m_locId": 2705279
-            },
-            "m_shortName": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_flavorText": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
             },
             "m_unlockEvent": 164
         },
@@ -8381,68 +7947,6 @@
             "m_unlockEvent": 164
         },
         {
-            "m_ID": 44,
-            "m_cardId": 31,
-            "m_name": {
-                "m_locValues": [
-                    "Rexxar",
-                    "Rexxar",
-                    "Rexxar",
-                    "Rexxar",
-                    "Rexxar",
-                    "Rexxar",
-                    "レクサー",
-                    "렉사르",
-                    "Rexxar",
-                    "Rexxar",
-                    "Рексар",
-                    "เร็กซ์ซาร์",
-                    "雷克萨",
-                    "雷克薩"
-                ],
-                "m_locId": 2705280
-            },
-            "m_shortName": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_flavorText": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_unlockEvent": 164
-        },
-        {
             "m_ID": 380,
             "m_cardId": 98490,
             "m_name": {
@@ -8501,6 +8005,998 @@
                     "硬蕊精神會在鞭擊節奏和嚎叫嘶吼中徹底解放！"
                 ],
                 "m_locId": 2860324
+            },
+            "m_unlockEvent": 164
+        },
+        {
+            "m_ID": 381,
+            "m_cardId": 98491,
+            "m_name": {
+                "m_locValues": [
+                    "Emo Star",
+                    "Emo-Star",
+                    "Estrella emo",
+                    "Estrella emo",
+                    "Star de l’emo",
+                    "Stella Emo",
+                    "エモスター",
+                    "이모 스타",
+                    "Gwiazda emo",
+                    "Estrela do Emo",
+                    "Звезда эмо",
+                    "ศิลปินอีโม",
+                    "情绪巨星",
+                    "情緒搖滾新星"
+                ],
+                "m_locId": 2860325
+            },
+            "m_shortName": {
+                "m_locValues": [
+                    "Emo Star",
+                    "Emo-Star",
+                    "Estrella emo",
+                    "Estrella emo",
+                    "Star de l’emo",
+                    "Stella Emo",
+                    "エモスター",
+                    "이모 스타",
+                    "Gwiazda emo",
+                    "Estrela do Emo",
+                    "Звезда эмо",
+                    "ศิลปินอีโม",
+                    "情绪巨星",
+                    "情緒搖滾新星"
+                ],
+                "m_locId": 2871792
+            },
+            "m_flavorText": {
+                "m_locValues": [
+                    "Let their angst and insecurity work for them instead of against them!",
+                    "Lasst seine Zweifel und Unsicherheit für anstatt gegen ihn arbeiten!",
+                    "¡Deja que su angustia e inseguridades le sirvan para conseguir algo!",
+                    "¡Deja que su angustia y su inseguridad trabajen a su favor en lugar de en su contra!",
+                    "Laissez vos angoisses et votre insécurité jouer avec vous plutôt que contre vous !",
+                    "Lascia che l'angoscia e l'insicurezza lavorino in suo favore, invece di contrastarlo!",
+                    "怒りや不安に足を引っ張らせず、背中を押させよう！",
+                    "불안과 초조함을 역으로 이용해 보세요!",
+                    "Obróć ich lęki i obawy na ich korzyść!",
+                    "A revolta e insegurança vão agir a favor deles em vez de contra eles!",
+                    "Пусть их тревожность и комплексы приносят им пользу!",
+                    "เปลี่ยนความกลัดกลุ้มกังวล\nที่กัดกินใจให้กลายเป็นพลัง!",
+                    "让焦虑和不安为己所用，不再与自己对抗！",
+                    "轉化焦慮和不安，把阻力化為助力！"
+                ],
+                "m_locId": 2860326
+            },
+            "m_unlockEvent": 164
+        },
+        {
+            "m_ID": 382,
+            "m_cardId": 98493,
+            "m_name": {
+                "m_locValues": [
+                    "EDM Star",
+                    "EDM-Star",
+                    "Estrella del dance",
+                    "Estrella electrónica",
+                    "Star de l’EDM",
+                    "Stella dell'Elettronica",
+                    "EDMスター",
+                    "EDM 스타",
+                    "Gwiazda EDM",
+                    "Estrela da Dance Music",
+                    "Звезда EDM",
+                    "ศิลปิน EDM",
+                    "电子巨星",
+                    "電子舞曲新星"
+                ],
+                "m_locId": 2860327
+            },
+            "m_shortName": {
+                "m_locValues": [
+                    "EDM Star",
+                    "EDM-Star",
+                    "Estrella del dance",
+                    "Estrella electrónica",
+                    "Star de l’EDM",
+                    "Stella dell'Elettronica",
+                    "EDMスター",
+                    "EDM 스타",
+                    "Gwiazda EDM",
+                    "Estrela da Dance Music",
+                    "Звезда EDM",
+                    "ศิลปิน EDM",
+                    "电子巨星",
+                    "電子舞曲新星"
+                ],
+                "m_locId": 2871793
+            },
+            "m_flavorText": {
+                "m_locValues": [
+                    "Get ready to party with catchy and energetic beats!",
+                    "Macht Euch bereit für eine Party mit eingängigen und energetischen Beats!",
+                    "¡Sal de fiesta y disfruta de pegadizas y enérgicas canciones!",
+                    "¡Prepárate para la fiesta con ritmos pegadizos y enérgicos!",
+                    "Préparez-vous à faire la fête sur des morceaux énergiques et entraînants !",
+                    "Preparati alla festa con dei ritmi orecchiabili ed energici!",
+                    "キャッチーでエネルギッシュなビートのパーティーに備えよう！",
+                    "중독성 있고 활발한 비트로 파티를 즐겨요!",
+                    "Przygotuj się na imprezę z wpadającymi w ucho, energetycznymi kawałkami!",
+                    "Prepare-se para a festa com batidas energéticas e irresistíveis!",
+                    "Готовьтесь отплясывать под зажигательные и запоминающиеся ритмы!",
+                    "เตรียมตัวปาร์ตี้ไปกับ\nบีตติดหูเร้าอารมณ์!",
+                    "迷人的电子乐响起，派对就要开始了！",
+                    "在令人著迷的輕快節奏中享受派對吧！"
+                ],
+                "m_locId": 2860328
+            },
+            "m_unlockEvent": 164
+        },
+        {
+            "m_ID": 383,
+            "m_cardId": 98492,
+            "m_name": {
+                "m_locValues": [
+                    "Folk Star",
+                    "Folk-Star",
+                    "Estrella folk",
+                    "Estrella folk",
+                    "Star du folk",
+                    "Stella del Folk",
+                    "フォークスター",
+                    "포크 스타",
+                    "Gwiazda folku",
+                    "Estrela do Folk",
+                    "Звезда фолка",
+                    "ศิลปินโฟล์ก",
+                    "民谣巨星",
+                    "民謠新星"
+                ],
+                "m_locId": 2860329
+            },
+            "m_shortName": {
+                "m_locValues": [
+                    "Folk Star",
+                    "Folk-Star",
+                    "Estrella folk",
+                    "Estrella folk",
+                    "Star du folk",
+                    "Stella del Folk",
+                    "フォークスター",
+                    "포크 스타",
+                    "Gwiazda folku",
+                    "Estrela do Folk",
+                    "Звезда фолка",
+                    "ศิลปินโฟล์ก",
+                    "民谣巨星",
+                    "民謠新星"
+                ],
+                "m_locId": 2871794
+            },
+            "m_flavorText": {
+                "m_locValues": [
+                    "Take their music to groovy new places that defy expectations!",
+                    "Entdeckt mit ihrer Musik abgefahrene neue Grooves jenseits aller Vorstellung!",
+                    "¡Supera todas las expectativas con sus ritmos exóticos!",
+                    "¡Llevan su música a nuevos lugares que sobrepasan toda expectativa!",
+                    "Transportez votre public avec une musique groovy qui redéfinit le genre !",
+                    "Porta la musica in nuovi luoghi che superano ogni aspettativa!",
+                    "音楽を、みんなの期待を上回るグルーヴィーな新天地へ弾き上げよう！",
+                    "음악을 들으며 예상을 뛰어넘는 새로운 장소로 떠나 보세요!",
+                    "Zagraj ich muzykę na klimatyczne nowe sposoby, które zaskoczą wszystkich!",
+                    "Leve a música deles para embalar novos lugares que desafiam expectativas!",
+                    "Устройте незабываемое музыкальное путешествие, полное приятных неожиданностей!",
+                    "นำดนตรีไปยังสถานที่ใหม่ๆ สุดจี๊ดจ๊าดที่ฉีกทุกความคาดหมาย!",
+                    "让轻音乐进入清新脱俗的新境界！",
+                    "把音樂帶到全新的舞動天地，超越任何期待的限制！"
+                ],
+                "m_locId": 2860330
+            },
+            "m_unlockEvent": 164
+        },
+        {
+            "m_ID": 384,
+            "m_cardId": 98484,
+            "m_name": {
+                "m_locValues": [
+                    "Pop Star",
+                    "Popstar",
+                    "Estrella del pop",
+                    "Estrella pop",
+                    "Star de la pop",
+                    "Stella del Pop",
+                    "ポップスター",
+                    "팝 스타",
+                    "Gwiazda popu",
+                    "Estrela do Pop",
+                    "Поп-звезда",
+                    "ศิลปินป๊อป",
+                    "流行巨星",
+                    "流行樂新星"
+                ],
+                "m_locId": 2860331
+            },
+            "m_shortName": {
+                "m_locValues": [
+                    "Pop Star",
+                    "Popstar",
+                    "Estrella del pop",
+                    "Estrella pop",
+                    "Star de la pop",
+                    "Stella del Pop",
+                    "ポップスター",
+                    "팝 스타",
+                    "Gwiazda popu",
+                    "Estrela do Pop",
+                    "Поп-звезда",
+                    "ศิลปินป๊อป",
+                    "流行巨星",
+                    "流行樂新星"
+                ],
+                "m_locId": 2871795
+            },
+            "m_flavorText": {
+                "m_locValues": [
+                    "Own the stage with outstanding charisma and dance routines!",
+                    "Nehmt mit herausragendem Charisma und tollen Tanzeinlagen Euren Platz im Rampenlicht ein!",
+                    "¡Domina el escenario gracias a tu inimitable carisma y coreografías!",
+                    "¡Apodérate del escenario con un carisma de otro mundo y coreografías de baile!",
+                    "Enflammez la scène grâce à votre charisme exceptionnel et vos chorégraphies !",
+                    "Domina il palco con un incredibile carisma e bellissime coreografie!",
+                    "圧倒的カリスマとダンスルーチンで、ステージを支配しよう！",
+                    "훌륭한 카리스마와 안무로 무대를 장악하세요!",
+                    "Zawładnij sceną z niesamowitą charyzmą i czadową choreografią!",
+                    "Tome conta do palco com um carisma incrível e passos de dança!",
+                    "Станьте звездой сцены благодаря несравненной харизме и хореографии!",
+                    "ครองเวทีด้วยเสน่ห์ล้นเหลือ\nและท่าเต้นเป๊ะปัง!",
+                    "跳起精彩舞步，展现惊人魅力，称霸整座舞台！",
+                    "用動人魅力和華麗編舞在舞台稱霸！"
+                ],
+                "m_locId": 2860332
+            },
+            "m_unlockEvent": 164
+        },
+        {
+            "m_ID": 385,
+            "m_cardId": 98485,
+            "m_name": {
+                "m_locValues": [
+                    "Disco Star",
+                    "Disco-Star",
+                    "Estrella disco",
+                    "Estrella disco",
+                    "Star du disco",
+                    "Stella della Disco",
+                    "ディスコスター",
+                    "디스코 스타",
+                    "Gwiazda disco",
+                    "Estrela da Disco",
+                    "Звезда диско",
+                    "ศิลปินดิสโก้",
+                    "迪斯科巨星",
+                    "迪斯可新星"
+                ],
+                "m_locId": 2860333
+            },
+            "m_shortName": {
+                "m_locValues": [
+                    "Disco Star",
+                    "Disco-Star",
+                    "Estrella disco",
+                    "Estrella disco",
+                    "Star du disco",
+                    "Stella della Disco",
+                    "ディスコスター",
+                    "디스코 스타",
+                    "Gwiazda disco",
+                    "Estrela da Disco",
+                    "Звезда диско",
+                    "ศิลปินดิสโก้",
+                    "迪斯科巨星",
+                    "迪斯可新星"
+                ],
+                "m_locId": 2871796
+            },
+            "m_flavorText": {
+                "m_locValues": [
+                    "Shine bright with a special sparkly groove!",
+                    "Werdet mit einem besonders funkelnden Groove zum hellsten Stern am Starhimmel!",
+                    "¡Resplandece con un ritmo especialmente brillante!",
+                    "¡Brilla intensamente con un ritmo reluciente especial!",
+                    "Brillez de mille feux avec un groove étincelant !",
+                    "Risplendi con uno speciale ritmo scintillante!",
+                    "キラメキのグルーヴで眩しく輝こう！",
+                    "특별하게 반짝이는 그루브로 빛을 발하세요!",
+                    "Zabłyśnij niczym gwiazda z tymi świetlistymi utworami!",
+                    "Ofusque tudo com o brilho cintilante da balada!",
+                    "Зажигайте под неповторимые яркие мелодии!",
+                    "เฉิดฉายด้วยจังหวะพิเศษที่\nส่องประกายระยิบระยับ!",
+                    "和星光中的节律一同闪耀！",
+                    "用閃亮的特殊節奏在舞池裡大放光芒！"
+                ],
+                "m_locId": 2860334
+            },
+            "m_unlockEvent": 164
+        },
+        {
+            "m_ID": 386,
+            "m_cardId": 98486,
+            "m_name": {
+                "m_locValues": [
+                    "Hip-Hop Star",
+                    "Hip-Hop-Star",
+                    "Estrella del hip-hop",
+                    "Estrella de hip-hop",
+                    "Star du hip-hop",
+                    "Stella dell'Hip-Hop",
+                    "ヒップホップスター",
+                    "힙합 스타",
+                    "Gwiazda hip-hopu",
+                    "Estrela do Hip-Hop",
+                    "Звезда хип-хопа",
+                    "ศิลปินฮิปฮอป",
+                    "嘻哈巨星",
+                    "嘻哈新星"
+                ],
+                "m_locId": 2860335
+            },
+            "m_shortName": {
+                "m_locValues": [
+                    "Hip-Hop Star",
+                    "Hip-Hop-Star",
+                    "Estrella del hip-hop",
+                    "Estrella de hip-hop",
+                    "Star du hip-hop",
+                    "Stella dell'Hip-Hop",
+                    "ヒップホップスター",
+                    "힙합 스타",
+                    "Gwiazda hip-hopu",
+                    "Estrela do Hip-Hop",
+                    "Звезда хип-хопа",
+                    "ศิลปินฮิปฮอป",
+                    "嘻哈巨星",
+                    "嘻哈新星"
+                ],
+                "m_locId": 2871797
+            },
+            "m_flavorText": {
+                "m_locValues": [
+                    "Spit straight fire through your powerful lyrics and flow!",
+                    "Singt Euch mit brandheißen Reimen und unvergleichlichem Flow an die Spitze!",
+                    "¡Escupe fuego con tus enérgicas letras y derrochando estilo!",
+                    "¡Suelta las rimas más brutales con tus letras poderosas y tu estilo único!",
+                    "Mettez le feu avec votre sens du rythme et vos meilleures rimes !",
+                    "Sputa fuoco con un flusso inarrestabile di parole potenti!",
+                    "パワフルなリリックとフローで激アツなライムを踏もう！",
+                    "강렬한 가사와 리듬을 타고 불꽃 랩을 뱉으세요!",
+                    "Z takimi tekstami i wczuciem rozpalisz widownię niczym smoczy ogień!",
+                    "Use letras poderosas e melodias para incendiar tudo!",
+                    "Наполните свои стихи настоящей пылкостью!",
+                    "แร็ปรัวเร็วเป็นไฟด้วยเนื้อเพลง\nและโฟลว์สุดทรงพลัง!",
+                    "带劲的歌词，有力的节奏，一次唱个够！",
+                    "用嗆辣的歌詞和流暢的韻律噴爆對手！"
+                ],
+                "m_locId": 2860336
+            },
+            "m_unlockEvent": 164
+        },
+        {
+            "m_ID": 387,
+            "m_cardId": 98487,
+            "m_name": {
+                "m_locValues": [
+                    "Jazz Star",
+                    "Jazz-Star",
+                    "Estrella del jazz",
+                    "Estrella de jazz",
+                    "Star du jazz",
+                    "Stella del Jazz",
+                    "ジャズスター",
+                    "재즈 스타",
+                    "Gwiazda jazzu",
+                    "Estrela do Jazz",
+                    "Звезда джаза",
+                    "ศิลปินแจ๊ส",
+                    "爵士巨星",
+                    "爵士樂新星"
+                ],
+                "m_locId": 2860337
+            },
+            "m_shortName": {
+                "m_locValues": [
+                    "Jazz Star",
+                    "Jazz-Star",
+                    "Estrella del jazz",
+                    "Estrella de jazz",
+                    "Star du jazz",
+                    "Stella del Jazz",
+                    "ジャズスター",
+                    "재즈 스타",
+                    "Gwiazda jazzu",
+                    "Estrela do Jazz",
+                    "Звезда джаза",
+                    "ศิลปินแจ๊ส",
+                    "爵士巨星",
+                    "爵士樂新星"
+                ],
+                "m_locId": 2871798
+            },
+            "m_flavorText": {
+                "m_locValues": [
+                    "Enjoy jamming out with the coolest cats at the festival!",
+                    "Erlebt eine Jam-Session mit den coolsten Typen beim Festival!",
+                    "¡Improvisa con los gatos más molones del festival!",
+                    "¡Disfruta de improvisar con los músicos más en onda del festival!",
+                    "Profitez d’un concert improvisé avec les artistes les plus cools du festival !",
+                    "Goditi il divertimento con i gatti più rilassati del festival!",
+                    "フェスで一番クールなネコちゃんたちとのジャムセッションを楽しもう！",
+                    "시원시원한 고양이들과 함께 음악을 즐겨요!",
+                    "Baw się dobrze przy improwizacji z najluźniejszą ekipą na festiwalu!",
+                    "Divirta-se numa jam com os artistas mais descolados do festival!",
+                    "Получите максимум удовольствия от совместных выступлений с самыми классными гостями фестиваля!",
+                    "ร่วมบรรเลงเพลงเพลินใจกับ\nเหล่าคนคูลแห่งเทศกาลดนตรี!",
+                    "和音乐节上酷酷的大猫好好玩儿吧！",
+                    "和音樂祭最酷的音樂家一起即興吧！"
+                ],
+                "m_locId": 2860338
+            },
+            "m_unlockEvent": 164
+        },
+        {
+            "m_ID": 388,
+            "m_cardId": 98489,
+            "m_name": {
+                "m_locValues": [
+                    "Rock Star",
+                    "Rockstar",
+                    "Estrella del rock",
+                    "Estrella de rock",
+                    "Star du rock",
+                    "Stella del Rock",
+                    "ロックスター",
+                    "록 스타",
+                    "Gwiazda rocka",
+                    "Estrela do Rock",
+                    "Рок-звезда",
+                    "ศิลปินร็อค",
+                    "摇滚巨星",
+                    "搖滾新星"
+                ],
+                "m_locId": 2860339
+            },
+            "m_shortName": {
+                "m_locValues": [
+                    "Rock Star",
+                    "Rockstar",
+                    "Estrella del rock",
+                    "Estrella de rock",
+                    "Star du rock",
+                    "Stella del Rock",
+                    "ロックスター",
+                    "록 스타",
+                    "Gwiazda rocka",
+                    "Estrela do Rock",
+                    "Рок-звезда",
+                    "ศิลปินร็อค",
+                    "摇滚巨星",
+                    "搖滾新星"
+                ],
+                "m_locId": 2871799
+            },
+            "m_flavorText": {
+                "m_locValues": [
+                    "Crank the volume all the way up to eleven!",
+                    "Dreht die Lautstärke voll auf und lasst es krachen!",
+                    "¡Sube el ampli y roquea a todo trapo!",
+                    "¡Sube el volumen al máximo y mucho más!",
+                    "Montez le son et faites péter les basses !",
+                    "Alza il volume oltre il massimo!",
+                    "ボリュームを限界突破でブチ上げよう！",
+                    "볼륨을 최대로 끌어올리세요!",
+                    "Podkręć głośność poza skalę!",
+                    "Coloque o volume no máximo!",
+                    "Выставите громкость на максимум!",
+                    "เร่งเสียงให้ดังกระหึ่ม\nจนปรอทแตก!",
+                    "把音量开到十一档！",
+                    "音量全開，毫無保留！"
+                ],
+                "m_locId": 2860340
+            },
+            "m_unlockEvent": 164
+        },
+        {
+            "m_ID": 389,
+            "m_cardId": 98488,
+            "m_name": {
+                "m_locValues": [
+                    "Classical Star",
+                    "Klassikstar",
+                    "Estrella clásica",
+                    "Estrella clásica",
+                    "Star de la musique classique",
+                    "Stella della Classica",
+                    "クラシックスター",
+                    "클래식 스타",
+                    "Gwiazda klasyki",
+                    "Estrela da Música Clássica",
+                    "Звезда классики",
+                    "ศิลปินคลาสสิค",
+                    "古典巨星",
+                    "古典樂新星"
+                ],
+                "m_locId": 2860341
+            },
+            "m_shortName": {
+                "m_locValues": [
+                    "Classical Star",
+                    "Klassikstar",
+                    "Estrella clásica",
+                    "Estrella clásica",
+                    "Star de la musique classique",
+                    "Stella della Classica",
+                    "クラシックスター",
+                    "클래식 스타",
+                    "Gwiazda klasyki",
+                    "Estrela da Música Clássica",
+                    "Звезда классики",
+                    "ศิลปินคลาสสิค",
+                    "古典巨星",
+                    "古典樂新星"
+                ],
+                "m_locId": 2871800
+            },
+            "m_flavorText": {
+                "m_locValues": [
+                    "Astound the masses with your flawless technical precision!",
+                    "Erstaunt die Massen mit Eurer makellosen technischen Präzision!",
+                    "¡Sorprende al público con tu insuperable precisión técnica!",
+                    "¡Deslumbra a las masas con tu precisión técnica impecable!",
+                    "Impressionnez la foule avec votre technique précise et irréprochable !",
+                    "Stupisci le masse con la tua precisione tecnica perfetta!",
+                    "完璧無比な演奏で大衆を圧倒しよう！",
+                    "완벽한 기술로 관중을 깜짝 놀라게 만들어 보세요!",
+                    "Zadziw tłumy niesamowitą precyzją i techniką!",
+                    "Deixe o público de boca aberta com sua técnica impecável!",
+                    "Покорите публику своей безупречной техникой!",
+                    "แสดงเทคนิคแม่นยำไร้ที่ติ\nจนผู้ชมต้องตะลึง!",
+                    "展现精准无瑕的技艺，震慑现场的观众！",
+                    "用完美無瑕的演出，讓觀眾目瞪口呆吧！"
+                ],
+                "m_locId": 2860342
+            },
+            "m_unlockEvent": 164
+        },
+        {
+            "m_ID": 39,
+            "m_cardId": 813,
+            "m_name": {
+                "m_locValues": [
+                    "Anduin",
+                    "Anduin",
+                    "Anduin",
+                    "Anduin",
+                    "Anduin",
+                    "Anduin",
+                    "アンドゥイン",
+                    "안두인",
+                    "Anduin",
+                    "Anduin",
+                    "Андуин",
+                    "อันดูอิน",
+                    "安度因",
+                    "安杜因"
+                ],
+                "m_locId": 2705284
+            },
+            "m_shortName": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_flavorText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_unlockEvent": 164
+        },
+        {
+            "m_ID": 4,
+            "m_cardId": 48554,
+            "m_name": {
+                "m_locValues": [
+                    "Time-Tinker",
+                    "Zeittüftlerin",
+                    "Cronoingeniera",
+                    "Cronóloga",
+                    "Trafique-Temps",
+                    "Smonta-Tempo",
+                    "時の匠",
+                    "시간땜장이",
+                    "Czasokrętka",
+                    "Troca-Tempo",
+                    "Часовщица",
+                    "ไทม์-ทิงเกอร์",
+                    "时光修补匠",
+                    "時光巧匠"
+                ],
+                "m_locId": 2691723
+            },
+            "m_shortName": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_flavorText": {
+                "m_locValues": [
+                    "Don't like the results of a turn? Manipulate the timeline!",
+                    "Ihr seid mit dem Ergebnis eines Zuges nicht zufrieden? Manipuliert einfach die Zeit!",
+                    "Si no te gusta cómo ha salido un turno, ¡manipula la línea temporal!",
+                    "¿No te agradan los resultados de un turno? ¡Manipula la línea temporal!",
+                    "Vous avez raté un tour ? Manipulez la ligne temporelle à votre avantage !",
+                    "Non ti è piaciuto come si è svolto questo turno? Manipola il tempo!",
+                    "今のターンの結果が気に入らない？時間線を操ろう！",
+                    "마음에 안 드는 턴이었나요? 시간을 되돌리세요!",
+                    "Ostatnia tura nie poszła po twojej myśli? Pomajstruj przy linii czasowej!",
+                    "Não gostou do resultado de um turno? Manipule o tempo!",
+                    "Не нравится, как прошел ход? Тогда просто обратите время вспять!",
+                    "ไม่ชอบผลลัพธ์ของเทิร์นนี้เหรอ ควบคุมเวลาสิ!",
+                    "不喜欢这个回合的结果就换时间线吧！",
+                    "不滿意這回合的結果？那就改變一下時間線吧！"
+                ],
+                "m_locId": 2691724
+            },
+            "m_unlockEvent": 164
+        },
+        {
+            "m_ID": 40,
+            "m_cardId": 893,
+            "m_name": {
+                "m_locValues": [
+                    "Gul'dan",
+                    "Gul’dan",
+                    "Gul'dan",
+                    "Gul'dan",
+                    "Gul’dan",
+                    "Gul'dan",
+                    "グルダン",
+                    "굴단",
+                    "Gul'dan",
+                    "Gul'dan",
+                    "Гул'дан",
+                    "กุลดาน",
+                    "古尔丹",
+                    "古爾丹"
+                ],
+                "m_locId": 2705285
+            },
+            "m_shortName": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_flavorText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_unlockEvent": 164
+        },
+        {
+            "m_ID": 41,
+            "m_cardId": 930,
+            "m_name": {
+                "m_locValues": [
+                    "Valeera",
+                    "Valeera",
+                    "Valeera",
+                    "Valeera",
+                    "Valeera",
+                    "Valeera",
+                    "ヴァリーラ",
+                    "발리라",
+                    "Valeera",
+                    "Valira",
+                    "Валира",
+                    "วาลีร่า",
+                    "瓦莉拉",
+                    "瓦麗拉"
+                ],
+                "m_locId": 2705286
+            },
+            "m_shortName": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_flavorText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_unlockEvent": 164
+        },
+        {
+            "m_ID": 42,
+            "m_cardId": 1066,
+            "m_name": {
+                "m_locValues": [
+                    "Thrall",
+                    "Thrall",
+                    "Thrall",
+                    "Thrall",
+                    "Thrall",
+                    "Thrall",
+                    "スロール",
+                    "스랄",
+                    "Thrall",
+                    "Thrall",
+                    "Тралл",
+                    "ธรอล",
+                    "萨尔",
+                    "索爾"
+                ],
+                "m_locId": 2705278
+            },
+            "m_shortName": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_flavorText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_unlockEvent": 164
+        },
+        {
+            "m_ID": 43,
+            "m_cardId": 274,
+            "m_name": {
+                "m_locValues": [
+                    "Malfurion",
+                    "Malfurion",
+                    "Malfurion",
+                    "Malfurion",
+                    "Malfurion",
+                    "Malfurion",
+                    "マルフュリオン",
+                    "말퓨리온",
+                    "Malfurion",
+                    "Malfurion",
+                    "Малфурион",
+                    "มัลฟิวเรียน",
+                    "玛法里奥",
+                    "瑪法里恩"
+                ],
+                "m_locId": 2705279
+            },
+            "m_shortName": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_flavorText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_unlockEvent": 164
+        },
+        {
+            "m_ID": 44,
+            "m_cardId": 31,
+            "m_name": {
+                "m_locValues": [
+                    "Rexxar",
+                    "Rexxar",
+                    "Rexxar",
+                    "Rexxar",
+                    "Rexxar",
+                    "Rexxar",
+                    "レクサー",
+                    "렉사르",
+                    "Rexxar",
+                    "Rexxar",
+                    "Рексар",
+                    "เร็กซ์ซาร์",
+                    "雷克萨",
+                    "雷克薩"
+                ],
+                "m_locId": 2705280
+            },
+            "m_shortName": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_flavorText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
             },
             "m_unlockEvent": 164
         },
@@ -8939,68 +9435,6 @@
             "m_unlockEvent": 164
         },
         {
-            "m_ID": 381,
-            "m_cardId": 98491,
-            "m_name": {
-                "m_locValues": [
-                    "Emo Star",
-                    "Emo-Star",
-                    "Estrella emo",
-                    "Estrella emo",
-                    "Star de l’emo",
-                    "Stella Emo",
-                    "エモスター",
-                    "이모 스타",
-                    "Gwiazda emo",
-                    "Estrela do Emo",
-                    "Звезда эмо",
-                    "ศิลปินอีโม",
-                    "情绪巨星",
-                    "情緒搖滾新星"
-                ],
-                "m_locId": 2860325
-            },
-            "m_shortName": {
-                "m_locValues": [
-                    "Emo Star",
-                    "Emo-Star",
-                    "Estrella emo",
-                    "Estrella emo",
-                    "Star de l’emo",
-                    "Stella Emo",
-                    "エモスター",
-                    "이모 스타",
-                    "Gwiazda emo",
-                    "Estrela do Emo",
-                    "Звезда эмо",
-                    "ศิลปินอีโม",
-                    "情绪巨星",
-                    "情緒搖滾新星"
-                ],
-                "m_locId": 2871792
-            },
-            "m_flavorText": {
-                "m_locValues": [
-                    "Let their angst and insecurity work for them instead of against them!",
-                    "Lasst seine Zweifel und Unsicherheit für anstatt gegen ihn arbeiten!",
-                    "¡Deja que su angustia e inseguridades le sirvan para conseguir algo!",
-                    "¡Deja que su angustia y su inseguridad trabajen a su favor en lugar de en su contra!",
-                    "Laissez vos angoisses et votre insécurité jouer avec vous plutôt que contre vous !",
-                    "Lascia che l'angoscia e l'insicurezza lavorino in suo favore, invece di contrastarlo!",
-                    "怒りや不安に足を引っ張らせず、背中を押させよう！",
-                    "불안과 초조함을 역으로 이용해 보세요!",
-                    "Obróć ich lęki i obawy na ich korzyść!",
-                    "A revolta e insegurança vão agir a favor deles em vez de contra eles!",
-                    "Пусть их тревожность и комплексы приносят им пользу!",
-                    "เปลี่ยนความกลัดกลุ้มกังวล\nที่กัดกินใจให้กลายเป็นพลัง!",
-                    "让焦虑和不安为己所用，不再与自己对抗！",
-                    "轉化焦慮和不安，把阻力化為助力！"
-                ],
-                "m_locId": 2860326
-            },
-            "m_unlockEvent": 164
-        },
-        {
             "m_ID": 52,
             "m_cardId": 48182,
             "m_name": {
@@ -9059,130 +9493,6 @@
                     "無照狩獵！"
                 ],
                 "m_locId": 2709598
-            },
-            "m_unlockEvent": 164
-        },
-        {
-            "m_ID": 382,
-            "m_cardId": 98493,
-            "m_name": {
-                "m_locValues": [
-                    "EDM Star",
-                    "EDM-Star",
-                    "Estrella del dance",
-                    "Estrella electrónica",
-                    "Star de l’EDM",
-                    "Stella dell'Elettronica",
-                    "EDMスター",
-                    "EDM 스타",
-                    "Gwiazda EDM",
-                    "Estrela da Dance Music",
-                    "Звезда EDM",
-                    "ศิลปิน EDM",
-                    "电子巨星",
-                    "電子舞曲新星"
-                ],
-                "m_locId": 2860327
-            },
-            "m_shortName": {
-                "m_locValues": [
-                    "EDM Star",
-                    "EDM-Star",
-                    "Estrella del dance",
-                    "Estrella electrónica",
-                    "Star de l’EDM",
-                    "Stella dell'Elettronica",
-                    "EDMスター",
-                    "EDM 스타",
-                    "Gwiazda EDM",
-                    "Estrela da Dance Music",
-                    "Звезда EDM",
-                    "ศิลปิน EDM",
-                    "电子巨星",
-                    "電子舞曲新星"
-                ],
-                "m_locId": 2871793
-            },
-            "m_flavorText": {
-                "m_locValues": [
-                    "Get ready to party with catchy and energetic beats!",
-                    "Macht Euch bereit für eine Party mit eingängigen und energetischen Beats!",
-                    "¡Sal de fiesta y disfruta de pegadizas y enérgicas canciones!",
-                    "¡Prepárate para la fiesta con ritmos pegadizos y enérgicos!",
-                    "Préparez-vous à faire la fête sur des morceaux énergiques et entraînants !",
-                    "Preparati alla festa con dei ritmi orecchiabili ed energici!",
-                    "キャッチーでエネルギッシュなビートのパーティーに備えよう！",
-                    "중독성 있고 활발한 비트로 파티를 즐겨요!",
-                    "Przygotuj się na imprezę z wpadającymi w ucho, energetycznymi kawałkami!",
-                    "Prepare-se para a festa com batidas energéticas e irresistíveis!",
-                    "Готовьтесь отплясывать под зажигательные и запоминающиеся ритмы!",
-                    "เตรียมตัวปาร์ตี้ไปกับ\nบีตติดหูเร้าอารมณ์!",
-                    "迷人的电子乐响起，派对就要开始了！",
-                    "在令人著迷的輕快節奏中享受派對吧！"
-                ],
-                "m_locId": 2860328
-            },
-            "m_unlockEvent": 164
-        },
-        {
-            "m_ID": 383,
-            "m_cardId": 98492,
-            "m_name": {
-                "m_locValues": [
-                    "Folk Star",
-                    "Folk-Star",
-                    "Estrella folk",
-                    "Estrella folk",
-                    "Star du folk",
-                    "Stella del Folk",
-                    "フォークスター",
-                    "포크 스타",
-                    "Gwiazda folku",
-                    "Estrela do Folk",
-                    "Звезда фолка",
-                    "ศิลปินโฟล์ก",
-                    "民谣巨星",
-                    "民謠新星"
-                ],
-                "m_locId": 2860329
-            },
-            "m_shortName": {
-                "m_locValues": [
-                    "Folk Star",
-                    "Folk-Star",
-                    "Estrella folk",
-                    "Estrella folk",
-                    "Star du folk",
-                    "Stella del Folk",
-                    "フォークスター",
-                    "포크 스타",
-                    "Gwiazda folku",
-                    "Estrela do Folk",
-                    "Звезда фолка",
-                    "ศิลปินโฟล์ก",
-                    "民谣巨星",
-                    "民謠新星"
-                ],
-                "m_locId": 2871794
-            },
-            "m_flavorText": {
-                "m_locValues": [
-                    "Take their music to groovy new places that defy expectations!",
-                    "Entdeckt mit ihrer Musik abgefahrene neue Grooves jenseits aller Vorstellung!",
-                    "¡Supera todas las expectativas con sus ritmos exóticos!",
-                    "¡Llevan su música a nuevos lugares que sobrepasan toda expectativa!",
-                    "Transportez votre public avec une musique groovy qui redéfinit le genre !",
-                    "Porta la musica in nuovi luoghi che superano ogni aspettativa!",
-                    "音楽を、みんなの期待を上回るグルーヴィーな新天地へ弾き上げよう！",
-                    "음악을 들으며 예상을 뛰어넘는 새로운 장소로 떠나 보세요!",
-                    "Zagraj ich muzykę na klimatyczne nowe sposoby, które zaskoczą wszystkich!",
-                    "Leve a música deles para embalar novos lugares que desafiam expectativas!",
-                    "Устройте незабываемое музыкальное путешествие, полное приятных неожиданностей!",
-                    "นำดนตรีไปยังสถานที่ใหม่ๆ สุดจี๊ดจ๊าดที่ฉีกทุกความคาดหมาย!",
-                    "让轻音乐进入清新脱俗的新境界！",
-                    "把音樂帶到全新的舞動天地，超越任何期待的限制！"
-                ],
-                "m_locId": 2860330
             },
             "m_unlockEvent": 164
         },
@@ -9249,68 +9559,6 @@
             "m_unlockEvent": 164
         },
         {
-            "m_ID": 384,
-            "m_cardId": 98484,
-            "m_name": {
-                "m_locValues": [
-                    "Pop Star",
-                    "Popstar",
-                    "Estrella del pop",
-                    "Estrella pop",
-                    "Star de la pop",
-                    "Stella del Pop",
-                    "ポップスター",
-                    "팝 스타",
-                    "Gwiazda popu",
-                    "Estrela do Pop",
-                    "Поп-звезда",
-                    "ศิลปินป๊อป",
-                    "流行巨星",
-                    "流行樂新星"
-                ],
-                "m_locId": 2860331
-            },
-            "m_shortName": {
-                "m_locValues": [
-                    "Pop Star",
-                    "Popstar",
-                    "Estrella del pop",
-                    "Estrella pop",
-                    "Star de la pop",
-                    "Stella del Pop",
-                    "ポップスター",
-                    "팝 스타",
-                    "Gwiazda popu",
-                    "Estrela do Pop",
-                    "Поп-звезда",
-                    "ศิลปินป๊อป",
-                    "流行巨星",
-                    "流行樂新星"
-                ],
-                "m_locId": 2871795
-            },
-            "m_flavorText": {
-                "m_locValues": [
-                    "Own the stage with outstanding charisma and dance routines!",
-                    "Nehmt mit herausragendem Charisma und tollen Tanzeinlagen Euren Platz im Rampenlicht ein!",
-                    "¡Domina el escenario gracias a tu inimitable carisma y coreografías!",
-                    "¡Apodérate del escenario con un carisma de otro mundo y coreografías de baile!",
-                    "Enflammez la scène grâce à votre charisme exceptionnel et vos chorégraphies !",
-                    "Domina il palco con un incredibile carisma e bellissime coreografie!",
-                    "圧倒的カリスマとダンスルーチンで、ステージを支配しよう！",
-                    "훌륭한 카리스마와 안무로 무대를 장악하세요!",
-                    "Zawładnij sceną z niesamowitą charyzmą i czadową choreografią!",
-                    "Tome conta do palco com um carisma incrível e passos de dança!",
-                    "Станьте звездой сцены благодаря несравненной харизме и хореографии!",
-                    "ครองเวทีด้วยเสน่ห์ล้นเหลือ\nและท่าเต้นเป๊ะปัง!",
-                    "跳起精彩舞步，展现惊人魅力，称霸整座舞台！",
-                    "用動人魅力和華麗編舞在舞台稱霸！"
-                ],
-                "m_locId": 2860332
-            },
-            "m_unlockEvent": 164
-        },
-        {
             "m_ID": 54,
             "m_cardId": 47365,
             "m_name": {
@@ -9369,68 +9617,6 @@
                     "來幫邪惡陣線寫隊呼和會歌的！"
                 ],
                 "m_locId": 2709600
-            },
-            "m_unlockEvent": 164
-        },
-        {
-            "m_ID": 385,
-            "m_cardId": 98485,
-            "m_name": {
-                "m_locValues": [
-                    "Disco Star",
-                    "Disco-Star",
-                    "Estrella disco",
-                    "Estrella disco",
-                    "Star du disco",
-                    "Stella della Disco",
-                    "ディスコスター",
-                    "디스코 스타",
-                    "Gwiazda disco",
-                    "Estrela da Disco",
-                    "Звезда диско",
-                    "ศิลปินดิสโก้",
-                    "迪斯科巨星",
-                    "迪斯可新星"
-                ],
-                "m_locId": 2860333
-            },
-            "m_shortName": {
-                "m_locValues": [
-                    "Disco Star",
-                    "Disco-Star",
-                    "Estrella disco",
-                    "Estrella disco",
-                    "Star du disco",
-                    "Stella della Disco",
-                    "ディスコスター",
-                    "디스코 스타",
-                    "Gwiazda disco",
-                    "Estrela da Disco",
-                    "Звезда диско",
-                    "ศิลปินดิสโก้",
-                    "迪斯科巨星",
-                    "迪斯可新星"
-                ],
-                "m_locId": 2871796
-            },
-            "m_flavorText": {
-                "m_locValues": [
-                    "Shine bright with a special sparkly groove!",
-                    "Werdet mit einem besonders funkelnden Groove zum hellsten Stern am Starhimmel!",
-                    "¡Resplandece con un ritmo especialmente brillante!",
-                    "¡Brilla intensamente con un ritmo reluciente especial!",
-                    "Brillez de mille feux avec un groove étincelant !",
-                    "Risplendi con uno speciale ritmo scintillante!",
-                    "キラメキのグルーヴで眩しく輝こう！",
-                    "특별하게 반짝이는 그루브로 빛을 발하세요!",
-                    "Zabłyśnij niczym gwiazda z tymi świetlistymi utworami!",
-                    "Ofusque tudo com o brilho cintilante da balada!",
-                    "Зажигайте под неповторимые яркие мелодии!",
-                    "เฉิดฉายด้วยจังหวะพิเศษที่\nส่องประกายระยิบระยับ!",
-                    "和星光中的节律一同闪耀！",
-                    "用閃亮的特殊節奏在舞池裡大放光芒！"
-                ],
-                "m_locId": 2860334
             },
             "m_unlockEvent": 164
         },
@@ -9497,68 +9683,6 @@
             "m_unlockEvent": 164
         },
         {
-            "m_ID": 386,
-            "m_cardId": 98486,
-            "m_name": {
-                "m_locValues": [
-                    "Hip-Hop Star",
-                    "Hip-Hop-Star",
-                    "Estrella del hip-hop",
-                    "Estrella de hip-hop",
-                    "Star du hip-hop",
-                    "Stella dell'Hip-Hop",
-                    "ヒップホップスター",
-                    "힙합 스타",
-                    "Gwiazda hip-hopu",
-                    "Estrela do Hip-Hop",
-                    "Звезда хип-хопа",
-                    "ศิลปินฮิปฮอป",
-                    "嘻哈巨星",
-                    "嘻哈新星"
-                ],
-                "m_locId": 2860335
-            },
-            "m_shortName": {
-                "m_locValues": [
-                    "Hip-Hop Star",
-                    "Hip-Hop-Star",
-                    "Estrella del hip-hop",
-                    "Estrella de hip-hop",
-                    "Star du hip-hop",
-                    "Stella dell'Hip-Hop",
-                    "ヒップホップスター",
-                    "힙합 스타",
-                    "Gwiazda hip-hopu",
-                    "Estrela do Hip-Hop",
-                    "Звезда хип-хопа",
-                    "ศิลปินฮิปฮอป",
-                    "嘻哈巨星",
-                    "嘻哈新星"
-                ],
-                "m_locId": 2871797
-            },
-            "m_flavorText": {
-                "m_locValues": [
-                    "Spit straight fire through your powerful lyrics and flow!",
-                    "Singt Euch mit brandheißen Reimen und unvergleichlichem Flow an die Spitze!",
-                    "¡Escupe fuego con tus enérgicas letras y derrochando estilo!",
-                    "¡Suelta las rimas más brutales con tus letras poderosas y tu estilo único!",
-                    "Mettez le feu avec votre sens du rythme et vos meilleures rimes !",
-                    "Sputa fuoco con un flusso inarrestabile di parole potenti!",
-                    "パワフルなリリックとフローで激アツなライムを踏もう！",
-                    "강렬한 가사와 리듬을 타고 불꽃 랩을 뱉으세요!",
-                    "Z takimi tekstami i wczuciem rozpalisz widownię niczym smoczy ogień!",
-                    "Use letras poderosas e melodias para incendiar tudo!",
-                    "Наполните свои стихи настоящей пылкостью!",
-                    "แร็ปรัวเร็วเป็นไฟด้วยเนื้อเพลง\nและโฟลว์สุดทรงพลัง!",
-                    "带劲的歌词，有力的节奏，一次唱个够！",
-                    "用嗆辣的歌詞和流暢的韻律噴爆對手！"
-                ],
-                "m_locId": 2860336
-            },
-            "m_unlockEvent": 164
-        },
-        {
             "m_ID": 56,
             "m_cardId": 48942,
             "m_name": {
@@ -9617,68 +9741,6 @@
                     "恐怖喔～恐怖到了極點！"
                 ],
                 "m_locId": 2709602
-            },
-            "m_unlockEvent": 164
-        },
-        {
-            "m_ID": 387,
-            "m_cardId": 98487,
-            "m_name": {
-                "m_locValues": [
-                    "Jazz Star",
-                    "Jazz-Star",
-                    "Estrella del jazz",
-                    "Estrella de jazz",
-                    "Star du jazz",
-                    "Stella del Jazz",
-                    "ジャズスター",
-                    "재즈 스타",
-                    "Gwiazda jazzu",
-                    "Estrela do Jazz",
-                    "Звезда джаза",
-                    "ศิลปินแจ๊ส",
-                    "爵士巨星",
-                    "爵士樂新星"
-                ],
-                "m_locId": 2860337
-            },
-            "m_shortName": {
-                "m_locValues": [
-                    "Jazz Star",
-                    "Jazz-Star",
-                    "Estrella del jazz",
-                    "Estrella de jazz",
-                    "Star du jazz",
-                    "Stella del Jazz",
-                    "ジャズスター",
-                    "재즈 스타",
-                    "Gwiazda jazzu",
-                    "Estrela do Jazz",
-                    "Звезда джаза",
-                    "ศิลปินแจ๊ส",
-                    "爵士巨星",
-                    "爵士樂新星"
-                ],
-                "m_locId": 2871798
-            },
-            "m_flavorText": {
-                "m_locValues": [
-                    "Enjoy jamming out with the coolest cats at the festival!",
-                    "Erlebt eine Jam-Session mit den coolsten Typen beim Festival!",
-                    "¡Improvisa con los gatos más molones del festival!",
-                    "¡Disfruta de improvisar con los músicos más en onda del festival!",
-                    "Profitez d’un concert improvisé avec les artistes les plus cools du festival !",
-                    "Goditi il divertimento con i gatti più rilassati del festival!",
-                    "フェスで一番クールなネコちゃんたちとのジャムセッションを楽しもう！",
-                    "시원시원한 고양이들과 함께 음악을 즐겨요!",
-                    "Baw się dobrze przy improwizacji z najluźniejszą ekipą na festiwalu!",
-                    "Divirta-se numa jam com os artistas mais descolados do festival!",
-                    "Получите максимум удовольствия от совместных выступлений с самыми классными гостями фестиваля!",
-                    "ร่วมบรรเลงเพลงเพลินใจกับ\nเหล่าคนคูลแห่งเทศกาลดนตรี!",
-                    "和音乐节上酷酷的大猫好好玩儿吧！",
-                    "和音樂祭最酷的音樂家一起即興吧！"
-                ],
-                "m_locId": 2860338
             },
             "m_unlockEvent": 164
         },
@@ -9745,68 +9807,6 @@
             "m_unlockEvent": 164
         },
         {
-            "m_ID": 388,
-            "m_cardId": 98489,
-            "m_name": {
-                "m_locValues": [
-                    "Rock Star",
-                    "Rockstar",
-                    "Estrella del rock",
-                    "Estrella de rock",
-                    "Star du rock",
-                    "Stella del Rock",
-                    "ロックスター",
-                    "록 스타",
-                    "Gwiazda rocka",
-                    "Estrela do Rock",
-                    "Рок-звезда",
-                    "ศิลปินร็อค",
-                    "摇滚巨星",
-                    "搖滾新星"
-                ],
-                "m_locId": 2860339
-            },
-            "m_shortName": {
-                "m_locValues": [
-                    "Rock Star",
-                    "Rockstar",
-                    "Estrella del rock",
-                    "Estrella de rock",
-                    "Star du rock",
-                    "Stella del Rock",
-                    "ロックスター",
-                    "록 스타",
-                    "Gwiazda rocka",
-                    "Estrela do Rock",
-                    "Рок-звезда",
-                    "ศิลปินร็อค",
-                    "摇滚巨星",
-                    "搖滾新星"
-                ],
-                "m_locId": 2871799
-            },
-            "m_flavorText": {
-                "m_locValues": [
-                    "Crank the volume all the way up to eleven!",
-                    "Dreht die Lautstärke voll auf und lasst es krachen!",
-                    "¡Sube el ampli y roquea a todo trapo!",
-                    "¡Sube el volumen al máximo y mucho más!",
-                    "Montez le son et faites péter les basses !",
-                    "Alza il volume oltre il massimo!",
-                    "ボリュームを限界突破でブチ上げよう！",
-                    "볼륨을 최대로 끌어올리세요!",
-                    "Podkręć głośność poza skalę!",
-                    "Coloque o volume no máximo!",
-                    "Выставите громкость на максимум!",
-                    "เร่งเสียงให้ดังกระหึ่ม\nจนปรอทแตก!",
-                    "把音量开到十一档！",
-                    "音量全開，毫無保留！"
-                ],
-                "m_locId": 2860340
-            },
-            "m_unlockEvent": 164
-        },
-        {
             "m_ID": 58,
             "m_cardId": 56194,
             "m_name": {
@@ -9869,68 +9869,6 @@
             "m_unlockEvent": 164
         },
         {
-            "m_ID": 60,
-            "m_cardId": 56196,
-            "m_name": {
-                "m_locValues": [
-                    "Clones Attack!",
-                    "Klonangriff",
-                    "¡El ataque de los clones!",
-                    "¡Ataque de los clones!",
-                    "Les clones attaquent !",
-                    "Cloni all'Attacco!",
-                    "クローンの攻撃！",
-                    "복제품의 습격",
-                    "Atak klonów!",
-                    "Os clones atacam!",
-                    "Атака клонов!",
-                    "กองทัพโคลนจู่โจม!",
-                    "克隆人的进攻",
-                    "複製人大戰！"
-                ],
-                "m_locId": 2710409
-            },
-            "m_shortName": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_flavorText": {
-                "m_locValues": [
-                    "Every minion you play will generate a 1/1 clone!",
-                    "Jeder Diener, den Ihr ausspielt, erzeugt einen Klon mit den Werten 1/1!",
-                    "¡Cada esbirro que juegas genera un clon 1/1!",
-                    "¡Cada esbirro que juegues generará un clon 1/1!",
-                    "Chaque serviteur que vous jouez génère un clone_1/1 !",
-                    "Ogni servitore che\ngiochi genera\nun clone 1/1!",
-                    "手札からミニオンを出すと、さらに1/1のクローンが造られるぞ！",
-                    "하수인을 내면 그 하수인의 1/1 복제품이 생성됩니다!",
-                    "Każdy stronnik, którego zagrasz, wygeneruje klona 1/1!",
-                    "Cada lacaio que você jogar gera um clone 1/1!",
-                    "Каждое разыгранное существо будет создавать свою копию 1/1!",
-                    "มินเนี่ยนทุกตัวที่คุณเล่น\nจะสร้างร่างโคลน 1/1!",
-                    "你使用的每张随从牌都会生成一个该随从的1/1复制！",
-                    "你打出的每個手下都會產生一個1/1的複製體！"
-                ],
-                "m_locId": 2710418
-            },
-            "m_unlockEvent": 164
-        },
-        {
             "m_ID": 59,
             "m_cardId": 56195,
             "m_name": {
@@ -9989,6 +9927,68 @@
                     "打出手下以完成任務，獲得驚人的寶藏！"
                 ],
                 "m_locId": 2710417
+            },
+            "m_unlockEvent": 164
+        },
+        {
+            "m_ID": 60,
+            "m_cardId": 56196,
+            "m_name": {
+                "m_locValues": [
+                    "Clones Attack!",
+                    "Klonangriff",
+                    "¡El ataque de los clones!",
+                    "¡Ataque de los clones!",
+                    "Les clones attaquent !",
+                    "Cloni all'Attacco!",
+                    "クローンの攻撃！",
+                    "복제품의 습격",
+                    "Atak klonów!",
+                    "Os clones atacam!",
+                    "Атака клонов!",
+                    "กองทัพโคลนจู่โจม!",
+                    "克隆人的进攻",
+                    "複製人大戰！"
+                ],
+                "m_locId": 2710409
+            },
+            "m_shortName": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_flavorText": {
+                "m_locValues": [
+                    "Every minion you play will generate a 1/1 clone!",
+                    "Jeder Diener, den Ihr ausspielt, erzeugt einen Klon mit den Werten 1/1!",
+                    "¡Cada esbirro que juegas genera un clon 1/1!",
+                    "¡Cada esbirro que juegues generará un clon 1/1!",
+                    "Chaque serviteur que vous jouez génère un clone_1/1 !",
+                    "Ogni servitore che\ngiochi genera\nun clone 1/1!",
+                    "手札からミニオンを出すと、さらに1/1のクローンが造られるぞ！",
+                    "하수인을 내면 그 하수인의 1/1 복제품이 생성됩니다!",
+                    "Każdy stronnik, którego zagrasz, wygeneruje klona 1/1!",
+                    "Cada lacaio que você jogar gera um clone 1/1!",
+                    "Каждое разыгранное существо будет создавать свою копию 1/1!",
+                    "มินเนี่ยนทุกตัวที่คุณเล่น\nจะสร้างร่างโคลน 1/1!",
+                    "你使用的每张随从牌都会生成一个该随从的1/1复制！",
+                    "你打出的每個手下都會產生一個1/1的複製體！"
+                ],
+                "m_locId": 2710418
             },
             "m_unlockEvent": 164
         },
@@ -10303,68 +10303,6 @@
             "m_unlockEvent": 164
         },
         {
-            "m_ID": 70,
-            "m_cardId": 57261,
-            "m_name": {
-                "m_locValues": [
-                    "Hagatha",
-                    "Hagatha",
-                    "Hagatha",
-                    "Hagatha",
-                    "Hagatha",
-                    "Hagatha",
-                    "ハガサ",
-                    "하가사",
-                    "Złagata",
-                    "Hagatha",
-                    "Хагата",
-                    "ฮากาธา!",
-                    "哈加莎",
-                    "哈嘉薩"
-                ],
-                "m_locId": 2713046
-            },
-            "m_shortName": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_flavorText": {
-                "m_locValues": [
-                    "\"A curse upon you! A curse upon this mountain!\"",
-                    "„Ich verfluche Euch und diesen Berg gleich mit!“",
-                    "«¡Yo te maldigo! ¡Yo maldigo esta montaña!».",
-                    "\"¡Te maldigo! ¡Te maldigo, montaña!\"",
-                    "« Je vous maudis ! Et je maudis cette montagne ! »",
-                    "\"Che tu sia maledetto! Che questa montagna sia maledetta!\"",
-                    "「呪われろ！お前達も、この山もだ！」",
-                    "\"저주를! 이 산에 저주를!\"",
-                    "„Przeklinam ciebie i tę okropną górę!”.",
-                    "\"Maldito seja você! Maldita seja esta montanha!\"",
-                    "«Будьте вы прокляты с вашей горой!»",
-                    "\"ข้าขอสาปแช่งเจ้า! ข้าขอสาปแช่ง\nภูเขาบ้านี่ด้วย!\"",
-                    "“我诅咒你！诅咒这破山！”",
-                    "「你這個該死的傢伙！你這個該死的黑石山！」"
-                ],
-                "m_locId": 2713051
-            },
-            "m_unlockEvent": 164
-        },
-        {
             "m_ID": 67,
             "m_cardId": 57252,
             "m_name": {
@@ -10423,68 +10361,6 @@
                     "他們說，去偷一座城市吧。他們說，應該會很好玩吧"
                 ],
                 "m_locId": 2713048
-            },
-            "m_unlockEvent": 164
-        },
-        {
-            "m_ID": 71,
-            "m_cardId": 57267,
-            "m_name": {
-                "m_locValues": [
-                    "Rafaam",
-                    "Rafaam",
-                    "Rafaam",
-                    "Rafaam",
-                    "Rafaam",
-                    "Rafaam",
-                    "ラファーム",
-                    "라팜",
-                    "Rafaam",
-                    "Rafaam",
-                    "Рафаам",
-                    "ราฟาม",
-                    "拉法姆",
-                    "拉法姆"
-                ],
-                "m_locId": 2713047
-            },
-            "m_shortName": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_flavorText": {
-                "m_locValues": [
-                    "\"This is everyone's fault but mine!\"",
-                    "„Einmal mit Profis ...“",
-                    "«¡Todos tienen la culpa menos yo!».",
-                    "\"¡Esto es culpa de todos menos mía!\"",
-                    "« C’est la faute de tout le monde sauf moi ! »",
-                    "\"La colpa di tutto questo è di tutti tranne che mia!",
-                    "「この失敗は全員の責任だ、我以外の！」",
-                    "\"나 빼고 모든 녀석들 탓이야!\"",
-                    "„Ja z tym nie mam w ogóle nic wspólnego!”.",
-                    "\"A culpa é de qualquer um, menos minha!\"",
-                    "«Я-то тут точно ни при чем!»",
-                    "\"ทุกอย่างเป็นความผิด\nของทุกคนที่ไม่ใช่ข้า!\"",
-                    "“全是他们的错，跟我没关系！”",
-                    "「這都是你們的錯！只有我沒有錯！」"
-                ],
-                "m_locId": 2713052
             },
             "m_unlockEvent": 164
         },
@@ -10551,68 +10427,6 @@
             "m_unlockEvent": 164
         },
         {
-            "m_ID": 72,
-            "m_cardId": 57633,
-            "m_name": {
-                "m_locValues": [
-                    "Garrosh",
-                    "Garrosh",
-                    "Garrosh",
-                    "Garrosh",
-                    "Garrosh",
-                    "Garrosh",
-                    "ガロッシュ",
-                    "가로쉬",
-                    "Garosz",
-                    "Garrosh",
-                    "Гаррош",
-                    "แกร์รอช",
-                    "加尔鲁什",
-                    "卡爾洛斯"
-                ],
-                "m_locId": 2713821
-            },
-            "m_shortName": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_flavorText": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_unlockEvent": 164
-        },
-        {
             "m_ID": 69,
             "m_cardId": 57256,
             "m_name": {
@@ -10675,26 +10489,26 @@
             "m_unlockEvent": 164
         },
         {
-            "m_ID": 84,
-            "m_cardId": 57583,
+            "m_ID": 70,
+            "m_cardId": 57261,
             "m_name": {
                 "m_locValues": [
-                    "Hunter / Warrior",
-                    "Jäger / Krieger",
-                    "Cazador / Guerrero",
-                    "Cazador/Guerrero",
-                    "Chasseur / Guerrier",
-                    "Cacciatore/Guerriero",
-                    "ハンター / ウォリアー",
-                    "사냥꾼 / 전사",
-                    "Łowca/wojownik",
-                    "Caçador / Guerreiro",
-                    "Охотник_/ воин",
-                    "ฮันเตอร์ / วอริเออร์",
-                    "猎人/战士",
-                    "獵人 / 戰士"
+                    "Hagatha",
+                    "Hagatha",
+                    "Hagatha",
+                    "Hagatha",
+                    "Hagatha",
+                    "Hagatha",
+                    "ハガサ",
+                    "하가사",
+                    "Złagata",
+                    "Hagatha",
+                    "Хагата",
+                    "ฮากาธา!",
+                    "哈加莎",
+                    "哈嘉薩"
                 ],
-                "m_locId": 2714066
+                "m_locId": 2713046
             },
             "m_shortName": {
                 "m_locValues": [
@@ -10717,22 +10531,146 @@
             },
             "m_flavorText": {
                 "m_locValues": [
-                    "A fearless hunter of relics and lover of dinosaurs.",
-                    "Ein furchtloser Reliktjäger und begeisterter Dinozähmer.",
-                    "Un temerario cazador de reliquias y amante de los dinosaurios.",
-                    "Un temerario buscador de reliquias amante de los dinosaurios.",
-                    "Un chasseur de reliques intrépide et fasciné par les dinosaures.",
-                    "Un temerario cacciatore di reliquie, amante dei dinosauri.",
-                    "恐れ知らずの遺跡ハンター、そして恐竜愛好家。",
-                    "공룡을 좋아하는 용감한 유물 수집가입니다.",
-                    "Nieustraszony łowca reliktów i wielbiciel dinozaurów.",
-                    "Um caçador de relíquias corajoso que adora dinossauros.",
-                    "Бесстрашный охотник за артефактами и динозавровед.",
-                    "นักล่าสมบัติผู้ไม่กลัวสิ่งใด\nและคลั่งไคล้ไดโนเสาร์",
-                    "无畏的宝藏猎人，恐龙的大众情人。",
-                    "無畏無懼的古物獵人，而且熱愛恐龍"
+                    "\"A curse upon you! A curse upon this mountain!\"",
+                    "„Ich verfluche Euch und diesen Berg gleich mit!“",
+                    "«¡Yo te maldigo! ¡Yo maldigo esta montaña!».",
+                    "\"¡Te maldigo! ¡Te maldigo, montaña!\"",
+                    "« Je vous maudis ! Et je maudis cette montagne ! »",
+                    "\"Che tu sia maledetto! Che questa montagna sia maledetta!\"",
+                    "「呪われろ！お前達も、この山もだ！」",
+                    "\"저주를! 이 산에 저주를!\"",
+                    "„Przeklinam ciebie i tę okropną górę!”.",
+                    "\"Maldito seja você! Maldita seja esta montanha!\"",
+                    "«Будьте вы прокляты с вашей горой!»",
+                    "\"ข้าขอสาปแช่งเจ้า! ข้าขอสาปแช่ง\nภูเขาบ้านี่ด้วย!\"",
+                    "“我诅咒你！诅咒这破山！”",
+                    "「你這個該死的傢伙！你這個該死的黑石山！」"
                 ],
-                "m_locId": 2714070
+                "m_locId": 2713051
+            },
+            "m_unlockEvent": 164
+        },
+        {
+            "m_ID": 71,
+            "m_cardId": 57267,
+            "m_name": {
+                "m_locValues": [
+                    "Rafaam",
+                    "Rafaam",
+                    "Rafaam",
+                    "Rafaam",
+                    "Rafaam",
+                    "Rafaam",
+                    "ラファーム",
+                    "라팜",
+                    "Rafaam",
+                    "Rafaam",
+                    "Рафаам",
+                    "ราฟาม",
+                    "拉法姆",
+                    "拉法姆"
+                ],
+                "m_locId": 2713047
+            },
+            "m_shortName": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_flavorText": {
+                "m_locValues": [
+                    "\"This is everyone's fault but mine!\"",
+                    "„Einmal mit Profis ...“",
+                    "«¡Todos tienen la culpa menos yo!».",
+                    "\"¡Esto es culpa de todos menos mía!\"",
+                    "« C’est la faute de tout le monde sauf moi ! »",
+                    "\"La colpa di tutto questo è di tutti tranne che mia!",
+                    "「この失敗は全員の責任だ、我以外の！」",
+                    "\"나 빼고 모든 녀석들 탓이야!\"",
+                    "„Ja z tym nie mam w ogóle nic wspólnego!”.",
+                    "\"A culpa é de qualquer um, menos minha!\"",
+                    "«Я-то тут точно ни при чем!»",
+                    "\"ทุกอย่างเป็นความผิด\nของทุกคนที่ไม่ใช่ข้า!\"",
+                    "“全是他们的错，跟我没关系！”",
+                    "「這都是你們的錯！只有我沒有錯！」"
+                ],
+                "m_locId": 2713052
+            },
+            "m_unlockEvent": 164
+        },
+        {
+            "m_ID": 72,
+            "m_cardId": 57633,
+            "m_name": {
+                "m_locValues": [
+                    "Garrosh",
+                    "Garrosh",
+                    "Garrosh",
+                    "Garrosh",
+                    "Garrosh",
+                    "Garrosh",
+                    "ガロッシュ",
+                    "가로쉬",
+                    "Garosz",
+                    "Garrosh",
+                    "Гаррош",
+                    "แกร์รอช",
+                    "加尔鲁什",
+                    "卡爾洛斯"
+                ],
+                "m_locId": 2713821
+            },
+            "m_shortName": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_flavorText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
             },
             "m_unlockEvent": 164
         },
@@ -10795,6 +10733,316 @@
                     ""
                 ],
                 "m_locId": 0
+            },
+            "m_unlockEvent": 164
+        },
+        {
+            "m_ID": 79,
+            "m_cardId": 637,
+            "m_name": {
+                "m_locValues": [
+                    "Jaina",
+                    "Jaina",
+                    "Jaina",
+                    "Jaina",
+                    "Jaina",
+                    "Jaina",
+                    "ジェイナ",
+                    "제이나",
+                    "Jaina",
+                    "Jaina",
+                    "Джайна",
+                    "เจน่า",
+                    "吉安娜",
+                    "珍娜"
+                ],
+                "m_locId": 2713830
+            },
+            "m_shortName": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_flavorText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_unlockEvent": 164
+        },
+        {
+            "m_ID": 81,
+            "m_cardId": 57580,
+            "m_name": {
+                "m_locValues": [
+                    "Mage / Rogue",
+                    "Magier / Schurke",
+                    "Mago / Pícaro",
+                    "Mago/Pícaro",
+                    "Mage / Voleur",
+                    "Mago/Ladro",
+                    "メイジ / ローグ",
+                    "마법사 / 도적",
+                    "Mag/łotr",
+                    "Mago / Ladino",
+                    "Маг_/ разбойник",
+                    "เมจ / โร้ก",
+                    "法师/潜行者",
+                    "法師 / 盜賊"
+                ],
+                "m_locId": 2714063
+            },
+            "m_shortName": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_flavorText": {
+                "m_locValues": [
+                    "The dashing treasure hunter is now dabbling in magic.",
+                    "Der schneidige Schatzjäger versucht sich jetzt auch als Magier.",
+                    "Este apuesto cazador de tesoros está haciendo pinitos en la magia.",
+                    "El elegante cazador de tesoros ahora está incursionando en la magia.",
+                    "L’intrépide chasseur de trésors s’essaie à la magie.",
+                    "Un affascinante\ncacciatore di tesori\nche ora si diletta\ncon la magia.",
+                    "伊達なトレジャーハンター。新たに身に着けた魔法は伊達じゃない！",
+                    "호쾌한 이 보물 사냥꾼은 마법에도 손을 대기 시작했습니다.",
+                    "Przebojowy awanturnik para się teraz magią.",
+                    "O intrépido caçador de tesouros agora está se metendo com magia.",
+                    "Бравый охотник за сокровищами решил попробовать себя в магии.",
+                    "นักล่าสมบัติทรงเสน่ห์\nผู้หันมาลองใช้เวทมนตร์",
+                    "这个帅气的宝藏猎人跨界玩起了魔法。",
+                    "這位高大威猛的寶物獵人現在居然玩起魔法了"
+                ],
+                "m_locId": 2714067
+            },
+            "m_unlockEvent": 164
+        },
+        {
+            "m_ID": 82,
+            "m_cardId": 57581,
+            "m_name": {
+                "m_locValues": [
+                    "Paladin / Shaman",
+                    "Paladin / Schamane",
+                    "Paladín / Chamán",
+                    "Paladín/Chamán",
+                    "Paladin / Chaman",
+                    "Paladino/Sciamano",
+                    "パラディン / シャーマン",
+                    "성기사 / 주술사",
+                    "Paladyn/szaman",
+                    "Paladino / Xamã",
+                    "Паладин_/ шаман",
+                    "พาลาดิน / ชาแมน",
+                    "圣骑士/萨满祭司",
+                    "聖騎士 / 薩滿"
+                ],
+                "m_locId": 2714064
+            },
+            "m_shortName": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_flavorText": {
+                "m_locValues": [
+                    "A dapper gentleman-explorer with a taste for fish.",
+                    "Ein echter Gentleman mit einer Vorliebe für Fisch.",
+                    "Un elegante caballero explorador aficionado al pescado.",
+                    "Un pulcro expedicionario caballeroso con debilidad por los peces.",
+                    "Un gentleman explorateur avec un penchant pour le poisson.",
+                    "Un elegante esploratore gentilmurloc che adora i pesci.",
+                    "魚好きの粋な探検紳士。",
+                    "고상한 신사인 이 탐험가는 물고기들과 각별한 관계를 유지하고 있습니다.",
+                    "Elegancki odkrywca\nz upodobaniem do owoców morza.",
+                    "Um explorador cheio de cavalheirismo, mas chegado num peixe.",
+                    "Достойнейший джентльмен, ценящий приключения и свежую рыбу.",
+                    "สุภาพบุรุษนักสำรวจ\nสุดโก้เก๋ผู้ชื่นชอบปลา",
+                    "高贵的探险者，精致的绅士，就是\n有点腥。",
+                    "洗鍊俐落的紳士探險者，他對魚的品味可是非常講究的呢"
+                ],
+                "m_locId": 2714068
+            },
+            "m_unlockEvent": 164
+        },
+        {
+            "m_ID": 83,
+            "m_cardId": 57582,
+            "m_name": {
+                "m_locValues": [
+                    "Druid / Priest",
+                    "Druide / Priester",
+                    "Druida / Sacerdote",
+                    "Druida/Sacerdotisa",
+                    "Druide / Prêtre",
+                    "Druido/Sacerdote",
+                    "ドルイド / プリースト",
+                    "드루이드 / 사제",
+                    "Druid/kapłan",
+                    "Druida / Sacerdote",
+                    "Друид_/ жрец",
+                    "ดรูอิด / พรีสต์",
+                    "德鲁伊/牧师",
+                    "德魯伊 / 牧師"
+                ],
+                "m_locId": 2714065
+            },
+            "m_shortName": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_flavorText": {
+                "m_locValues": [
+                    "The book-smart explorer has proven formidable in the field.",
+                    "Diese belesene Forscherin hat sich auch in der Praxis bewiesen.",
+                    "La erudita exploradora ha demostrado ser formidable en el trabajo de campo.",
+                    "La expedicionaria sabelotodo ha demostrado ser formidable en el trabajo de campo.",
+                    "L’exploratrice érudite fait des merveilles sur le terrain.",
+                    "Un'erudita esploratrice che si è dimostrata formidabile sul campo di battaglia.",
+                    "学術文献に精通した探検家は、現場でも「知は力なり」を証明する。",
+                    "박학다식한 이 탐험가는 현장에서도 뛰어난 능력을 보입니다.",
+                    "Błyskotliwa uczona wspaniale radzi sobie w terenie.",
+                    "Essa exploradora com dotes acadêmicos se provou excelente em campo.",
+                    "Ее не страшит ни пыль библиотек, ни пыль гробниц.",
+                    "นักสำรวจฉลาดล้ำ\nผู้มีทักษะภาคสนาม\nโดดเด่นเป็นที่ยอมรับ",
+                    "理论方面的高手，实地探险时也身手\n不凡。",
+                    "這位博學的探險者，她作戰的本領可絲毫不亞於做研究"
+                ],
+                "m_locId": 2714069
+            },
+            "m_unlockEvent": 164
+        },
+        {
+            "m_ID": 84,
+            "m_cardId": 57583,
+            "m_name": {
+                "m_locValues": [
+                    "Hunter / Warrior",
+                    "Jäger / Krieger",
+                    "Cazador / Guerrero",
+                    "Cazador/Guerrero",
+                    "Chasseur / Guerrier",
+                    "Cacciatore/Guerriero",
+                    "ハンター / ウォリアー",
+                    "사냥꾼 / 전사",
+                    "Łowca/wojownik",
+                    "Caçador / Guerreiro",
+                    "Охотник_/ воин",
+                    "ฮันเตอร์ / วอริเออร์",
+                    "猎人/战士",
+                    "獵人 / 戰士"
+                ],
+                "m_locId": 2714066
+            },
+            "m_shortName": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_flavorText": {
+                "m_locValues": [
+                    "A fearless hunter of relics and lover of dinosaurs.",
+                    "Ein furchtloser Reliktjäger und begeisterter Dinozähmer.",
+                    "Un temerario cazador de reliquias y amante de los dinosaurios.",
+                    "Un temerario buscador de reliquias amante de los dinosaurios.",
+                    "Un chasseur de reliques intrépide et fasciné par les dinosaures.",
+                    "Un temerario cacciatore di reliquie, amante dei dinosauri.",
+                    "恐れ知らずの遺跡ハンター、そして恐竜愛好家。",
+                    "공룡을 좋아하는 용감한 유물 수집가입니다.",
+                    "Nieustraszony łowca reliktów i wielbiciel dinozaurów.",
+                    "Um caçador de relíquias corajoso que adora dinossauros.",
+                    "Бесстрашный охотник за артефактами и динозавровед.",
+                    "นักล่าสมบัติผู้ไม่กลัวสิ่งใด\nและคลั่งไคล้ไดโนเสาร์",
+                    "无畏的宝藏猎人，恐龙的大众情人。",
+                    "無畏無懼的古物獵人，而且熱愛恐龍"
+                ],
+                "m_locId": 2714070
             },
             "m_unlockEvent": 164
         },
@@ -11295,68 +11543,6 @@
             "m_unlockEvent": 164
         },
         {
-            "m_ID": 79,
-            "m_cardId": 637,
-            "m_name": {
-                "m_locValues": [
-                    "Jaina",
-                    "Jaina",
-                    "Jaina",
-                    "Jaina",
-                    "Jaina",
-                    "Jaina",
-                    "ジェイナ",
-                    "제이나",
-                    "Jaina",
-                    "Jaina",
-                    "Джайна",
-                    "เจน่า",
-                    "吉安娜",
-                    "珍娜"
-                ],
-                "m_locId": 2713830
-            },
-            "m_shortName": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_flavorText": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_unlockEvent": 164
-        },
-        {
             "m_ID": 94,
             "m_cardId": 59535,
             "m_name": {
@@ -11543,68 +11729,6 @@
             "m_unlockEvent": 164
         },
         {
-            "m_ID": 81,
-            "m_cardId": 57580,
-            "m_name": {
-                "m_locValues": [
-                    "Mage / Rogue",
-                    "Magier / Schurke",
-                    "Mago / Pícaro",
-                    "Mago/Pícaro",
-                    "Mage / Voleur",
-                    "Mago/Ladro",
-                    "メイジ / ローグ",
-                    "마법사 / 도적",
-                    "Mag/łotr",
-                    "Mago / Ladino",
-                    "Маг_/ разбойник",
-                    "เมจ / โร้ก",
-                    "法师/潜行者",
-                    "法師 / 盜賊"
-                ],
-                "m_locId": 2714063
-            },
-            "m_shortName": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_flavorText": {
-                "m_locValues": [
-                    "The dashing treasure hunter is now dabbling in magic.",
-                    "Der schneidige Schatzjäger versucht sich jetzt auch als Magier.",
-                    "Este apuesto cazador de tesoros está haciendo pinitos en la magia.",
-                    "El elegante cazador de tesoros ahora está incursionando en la magia.",
-                    "L’intrépide chasseur de trésors s’essaie à la magie.",
-                    "Un affascinante\ncacciatore di tesori\nche ora si diletta\ncon la magia.",
-                    "伊達なトレジャーハンター。新たに身に着けた魔法は伊達じゃない！",
-                    "호쾌한 이 보물 사냥꾼은 마법에도 손을 대기 시작했습니다.",
-                    "Przebojowy awanturnik para się teraz magią.",
-                    "O intrépido caçador de tesouros agora está se metendo com magia.",
-                    "Бравый охотник за сокровищами решил попробовать себя в магии.",
-                    "นักล่าสมบัติทรงเสน่ห์\nผู้หันมาลองใช้เวทมนตร์",
-                    "这个帅气的宝藏猎人跨界玩起了魔法。",
-                    "這位高大威猛的寶物獵人現在居然玩起魔法了"
-                ],
-                "m_locId": 2714067
-            },
-            "m_unlockEvent": 164
-        },
-        {
             "m_ID": 97,
             "m_cardId": 59933,
             "m_name": {
@@ -11729,68 +11853,6 @@
             "m_unlockEvent": 164
         },
         {
-            "m_ID": 82,
-            "m_cardId": 57581,
-            "m_name": {
-                "m_locValues": [
-                    "Paladin / Shaman",
-                    "Paladin / Schamane",
-                    "Paladín / Chamán",
-                    "Paladín/Chamán",
-                    "Paladin / Chaman",
-                    "Paladino/Sciamano",
-                    "パラディン / シャーマン",
-                    "성기사 / 주술사",
-                    "Paladyn/szaman",
-                    "Paladino / Xamã",
-                    "Паладин_/ шаман",
-                    "พาลาดิน / ชาแมน",
-                    "圣骑士/萨满祭司",
-                    "聖騎士 / 薩滿"
-                ],
-                "m_locId": 2714064
-            },
-            "m_shortName": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_flavorText": {
-                "m_locValues": [
-                    "A dapper gentleman-explorer with a taste for fish.",
-                    "Ein echter Gentleman mit einer Vorliebe für Fisch.",
-                    "Un elegante caballero explorador aficionado al pescado.",
-                    "Un pulcro expedicionario caballeroso con debilidad por los peces.",
-                    "Un gentleman explorateur avec un penchant pour le poisson.",
-                    "Un elegante esploratore gentilmurloc che adora i pesci.",
-                    "魚好きの粋な探検紳士。",
-                    "고상한 신사인 이 탐험가는 물고기들과 각별한 관계를 유지하고 있습니다.",
-                    "Elegancki odkrywca\nz upodobaniem do owoców morza.",
-                    "Um explorador cheio de cavalheirismo, mas chegado num peixe.",
-                    "Достойнейший джентльмен, ценящий приключения и свежую рыбу.",
-                    "สุภาพบุรุษนักสำรวจ\nสุดโก้เก๋ผู้ชื่นชอบปลา",
-                    "高贵的探险者，精致的绅士，就是\n有点腥。",
-                    "洗鍊俐落的紳士探險者，他對魚的品味可是非常講究的呢"
-                ],
-                "m_locId": 2714068
-            },
-            "m_unlockEvent": 164
-        },
-        {
             "m_ID": 99,
             "m_cardId": 60010,
             "m_name": {
@@ -11849,68 +11911,6 @@
                     "再怎樣破舊陳腐的廢墟，他都忍不住想進去看看"
                 ],
                 "m_locId": 2719613
-            },
-            "m_unlockEvent": 164
-        },
-        {
-            "m_ID": 83,
-            "m_cardId": 57582,
-            "m_name": {
-                "m_locValues": [
-                    "Druid / Priest",
-                    "Druide / Priester",
-                    "Druida / Sacerdote",
-                    "Druida/Sacerdotisa",
-                    "Druide / Prêtre",
-                    "Druido/Sacerdote",
-                    "ドルイド / プリースト",
-                    "드루이드 / 사제",
-                    "Druid/kapłan",
-                    "Druida / Sacerdote",
-                    "Друид_/ жрец",
-                    "ดรูอิด / พรีสต์",
-                    "德鲁伊/牧师",
-                    "德魯伊 / 牧師"
-                ],
-                "m_locId": 2714065
-            },
-            "m_shortName": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_flavorText": {
-                "m_locValues": [
-                    "The book-smart explorer has proven formidable in the field.",
-                    "Diese belesene Forscherin hat sich auch in der Praxis bewiesen.",
-                    "La erudita exploradora ha demostrado ser formidable en el trabajo de campo.",
-                    "La expedicionaria sabelotodo ha demostrado ser formidable en el trabajo de campo.",
-                    "L’exploratrice érudite fait des merveilles sur le terrain.",
-                    "Un'erudita esploratrice che si è dimostrata formidabile sul campo di battaglia.",
-                    "学術文献に精通した探検家は、現場でも「知は力なり」を証明する。",
-                    "박학다식한 이 탐험가는 현장에서도 뛰어난 능력을 보입니다.",
-                    "Błyskotliwa uczona wspaniale radzi sobie w terenie.",
-                    "Essa exploradora com dotes acadêmicos se provou excelente em campo.",
-                    "Ее не страшит ни пыль библиотек, ни пыль гробниц.",
-                    "นักสำรวจฉลาดล้ำ\nผู้มีทักษะภาคสนาม\nโดดเด่นเป็นที่ยอมรับ",
-                    "理论方面的高手，实地探险时也身手\n不凡。",
-                    "這位博學的探險者，她作戰的本領可絲毫不亞於做研究"
-                ],
-                "m_locId": 2714069
             },
             "m_unlockEvent": 164
         }

@@ -1686,6 +1686,68 @@
         },
         {
             "m_ID": 0,
+            "m_specialEventId": 35,
+            "m_eventRewardTrackId": 116,
+            "m_choiceConfirmationText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_shortConclusion": {
+                "m_locValues": [
+                    "Happy Holidays!",
+                    "Frohe Festtage!",
+                    "¡Felices fiestas!",
+                    "¡Felices fiestas!",
+                    "Joyeuses fêtes !",
+                    "Buone feste!",
+                    "ハッピーホリデー！",
+                    "즐거운 축제 기간입니다!",
+                    "Wesołych świąt!",
+                    "Boas festas!",
+                    "Счастливых праздников!",
+                    "สุขสันต์วันเทศกาล!",
+                    "节日快乐！",
+                    "佳節愉快！"
+                ],
+                "m_locId": 2912161
+            },
+            "m_longConclusion": {
+                "m_locValues": [
+                    "It's been a joy watching you work!\n\nMay your minions always triple and your drinks served to perfection.\n\nSee you in the New Year,\nCommander!",
+                    "Es war mir eine Freude, Euch bei der Arbeit zuzusehen!\n\nMögen sich Eure Diener stets verdreifachen und Eure Getränke immer perfekt serviert werden.\n\nWir sehen uns im neuen Jahr,\nKommandant!",
+                    "¡Me ha encantado presenciar tu labor!\n\nOjalá tus esbirros siempre se tripliquen y tus bebidas se sirvan en el punto ideal.\n\n¡Hasta el Año Nuevo,\ncomandante!",
+                    "¡Me da gusto haberte visto trabajar!\n\nQue tus esbirros siempre se tripliquen y tus bebidas lleguen perfectas.\n\n¡Nos vemos en Año Nuevo,\ncomandante!",
+                    "C’est toujours un plaisir de vous voir à l’œuvre !\n\nPuissiez-vous avoir des triples à foison et des boissons servies à la perfection.\n\nÀ l’année prochaine !",
+                    "È stata una gioia vederti all'opera!\n\nPossano i tuoi servitori trasformarsi sempre in Triple e i tuoi drink essere sempre miscelati alla perfezione.\n\nCi vediamo nel nuovo anno,\ncomandante!",
+                    "あんたの活躍を見守るのは楽しかったよ！\n\n来年もトリプルに恵まれ、とびきりのドリンクを味わえますように。\n\n指揮官、\nよいお年を！",
+                    "열심이신 모습이 참 보기 좋았습니다!\n\n당신의 하수인들은 항상 황금으로 변하고, 음료는 완벽하게 나오기를 바랍니다.\n\n내년에 뵙겠습니다,\n지휘관님!",
+                    "Oglądanie cię przy pracy to przyjemność!\n\nNiechaj twoi stronnicy zawsze się troją, a napitki smakują wyśmienicie.\n\nDo zobaczyska w nowym roku!",
+                    "Foi uma alegria ver você trabalhar!\n\nQue os seus lacaios sempre tripliquem e suas bebidas sejam servidas com perfeição.\n\nA gente se vê no ano-novo,\ncomandante!",
+                    "Приятно было наблюдать за вашими усилиями!\n\nПусть все ваши существа будут триплетами, а напитки — идеально соответствовать вашим пожеланиям.\n\nДо встречи в Новом году,\nкомандир!",
+                    "ดูเจ้าทำงานแล้วสนุกดี!\n\nขอให้มินเนี่ยนของเจ้าทำทริปเปิ้ลได้ตลอด และขอให้เครื่องดื่มทุกแก้วของเจ้ารสชาติ[b]ยอดเยี่ยมตลอดไป!\n\nแล้วพบกันในวันปีใหม่นะ\nแม่ทัพ!",
+                    "看你打牌是种享受！\n\n祝愿你随从三连不断，饮料杯杯精彩！\n\n亲爱的指挥官，\n咱们新年再见！",
+                    "能目睹你的成就真是令人愉快！\n\n希望你的手下總是三合一，飲料也總是完美好喝。\n\n指揮官，\n我們新的一年再見囉！"
+                ],
+                "m_locId": 2912162
+            }
+        },
+        {
+            "m_ID": 0,
             "m_specialEventId": 4,
             "m_eventRewardTrackId": 45,
             "m_choiceConfirmationText": {
