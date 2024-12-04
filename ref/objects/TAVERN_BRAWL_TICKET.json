@@ -63,32 +63,6 @@
             "m_ticketBehaviorType": 1
         },
         {
-            "m_ID": 5,
-            "m_noteDesc": "Brawliseum Ticket",
-            "m_canBeOwned": 1,
-            "m_canBePurchased": 1,
-            "m_storeName": {
-                "m_locValues": [
-                    "Brawliseum Ticket",
-                    "Zugang zum Kartenkolosseum",
-                    "Acceso a la Anfitaberna",
-                    "Boleto para el Grescódromo",
-                    "Billet pour le Colisée",
-                    "Biglietto per il Rissodromo",
-                    "ゴロシアム・チケット",
-                    "난투장 입장권",
-                    "Wstęp na Arenową bójkę",
-                    "Entrada do Coliseu da Contenda",
-                    "Билет в «Потасовочный цех»",
-                    "ตั๋วสนามท้าประลอง",
-                    "乱斗角斗场入场券",
-                    "亂鬥場門票"
-                ],
-                "m_locId": 2691366
-            },
-            "m_ticketBehaviorType": 0
-        },
-        {
             "m_ID": 1,
             "m_noteDesc": "Heroic Brawl Ticket",
             "m_canBeOwned": 1,
@@ -111,6 +85,32 @@
                     "英雄大亂鬥門票"
                 ],
                 "m_locId": 78780
+            },
+            "m_ticketBehaviorType": 0
+        },
+        {
+            "m_ID": 5,
+            "m_noteDesc": "Brawliseum Ticket",
+            "m_canBeOwned": 1,
+            "m_canBePurchased": 1,
+            "m_storeName": {
+                "m_locValues": [
+                    "Brawliseum Ticket",
+                    "Zugang zum Kartenkolosseum",
+                    "Acceso a la Anfitaberna",
+                    "Boleto para el Grescódromo",
+                    "Billet pour le Colisée",
+                    "Biglietto per il Rissodromo",
+                    "ゴロシアム・チケット",
+                    "난투장 입장권",
+                    "Wstęp na Arenową bójkę",
+                    "Entrada do Coliseu da Contenda",
+                    "Билет в «Потасовочный цех»",
+                    "ตั๋วสนามท้าประลอง",
+                    "乱斗角斗场入场券",
+                    "亂鬥場門票"
+                ],
+                "m_locId": 2691366
             },
             "m_ticketBehaviorType": 0
         }

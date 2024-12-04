@@ -59,24 +59,20 @@ def main():
 def generate_card_textures(src, args):
 	for root, dirs, files in os.walk(src):
 		for file_name in files:
-			print(f"file_name: {file_name}")
+			# print(f"file_name: {file_name}")
 			# generate file_path
 			file_path = os.path.join(root, file_name)
 			# load that file via UnityPy.load
-			try:
-				env = UnityPy.load(file_path)
-				for path,obj in env.container.items():
-					# if obj.type.name in ["Texture2D"]:
-					# data = obj.read()
-					# create dest based on original path
-					dest = os.path.join("", *path.split("/"))
-					# correct extension
-					dest, ext = os.path.splitext(dest)
-					dest = dest + ".png"
-					# print(f"\tdest: {dest}, path: {path}, path_id: {obj.path_id}")
-			except Exception as e:
-				print(f"ERROR: {e}")
-				continue
+			env = UnityPy.load(file_path)
+			for path,obj in env.container.items():
+				# if obj.type.name in ["Texture2D"]:
+				# data = obj.read()
+				# create dest based on original path
+				dest = os.path.join("", *path.split("/"))
+				# correct extension
+				dest, ext = os.path.splitext(dest)
+				dest = dest + ".png"
+				# print(f"\tdest: {dest}, path: {path}, path_id: {obj.path_id}")
 
 	cards, textures, env = extract_info(src)
 	paths = [card["path"] for card in cards.values()]
@@ -98,28 +94,21 @@ def extract_info(src):
 	textures = {}
 	cards = {}
 
-	# env = UnityPy.load(src)
-	for root, dirs, files in os.walk(src):
-		for file_name in files:
-			print("Generating card textures from %r" % (file_name))
-			file_path = os.path.join(root, file_name)
-			# load that file via UnityPy.load
-			try:
-				env = UnityPy.load(file_path)
-				# for path,obj in env.container.items():
-				# 	if obj.type.name in ["Texture2D"]:						
-				# 		# data = obj.read()
-				# 		# create dest based on original path
-				# 		dest = os.path.join("", *path.split("/"))
-				# 		# correct extension
-				# 		dest, ext = os.path.splitext(dest)
-				# 		dest = dest + ".png"
-				# 		# print(f"dest: {dest}, path: {path}, path_id: {obj.path_id}")
-				handle_asset(env, textures)
-				handle_gameobject(env, cards)
-			except Exception as e:
-				print(f"ERROR: {e}")
-				continue
+	env = UnityPy.load(src)
+
+	for path,obj in env.container.items():
+		if obj.type.name in ["Texture2D"]:
+			
+			# data = obj.read()
+			# create dest based on original path
+			dest = os.path.join("", *path.split("/"))
+			# correct extension
+			dest, ext = os.path.splitext(dest)
+			dest = dest + ".png"
+			# print(f"dest: {dest}, path: {path}, path_id: {obj.path_id}")
+
+	handle_asset(env, textures)
+	handle_gameobject(env, cards)
 
 	return cards, textures, env
 
@@ -165,9 +154,9 @@ def handle_gameobject(asset: Environment, cards):
 				guid = path.split(":")[1]
 				path = guid
 
-			print("carddef: %s" % carddef)
+			# print("carddef: %s" % carddef)
 			tile = carddef.get("m_DeckCardBarPortrait")
-			print("tile prop: %s" % tile)
+			# print("tile prop: %s" % tile)
 			if tile:
 				tile = tile.read()
 				if not tile:
