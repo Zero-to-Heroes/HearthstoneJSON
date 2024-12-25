@@ -11,68 +11,6 @@
     "m_Name": "CARD_PLAYER_DECK_OVERRIDE",
     "Records": [
         {
-            "m_ID": 2,
-            "m_cardId": 56047,
-            "m_heroCardId": 56963,
-            "m_deckName": {
-                "m_locValues": [
-                    "Zayle's E.V.I.L. Deck",
-                    "Zayles übles Deck",
-                    "Mazo del MAL de Zayle",
-                    "Mazo del M.A.L. de Zayle",
-                    "Deck du M.A.L. de Zayle",
-                    "Mazzo del M.A.L.E.",
-                    "ザイルの悪党同盟デッキ",
-                    "자일의 잔.악.무.도.한 덱",
-                    "Talia Ligi Z.Ł.A. Zayla",
-                    "Deck do MAL de Zayle",
-                    "Колода ЗЛА Зейла",
-                    "เด็ค E.V.I.L. ของเซย์ล",
-                    "泽尔的怪盗套牌",
-                    "杰爾的邪惡套牌"
-                ],
-                "m_locId": 2711861
-            },
-            "m_addToDeckWarningHeader": {
-                "m_locValues": [
-                    "Continue?",
-                    "Fortfahren?",
-                    "¿Continuar?",
-                    "¿Continuar?",
-                    "Continuer ?",
-                    "Vuoi continuare?",
-                    "ザイルを入れる？",
-                    "계속하시겠습니까?",
-                    "Kontynuować?",
-                    "Prosseguir?",
-                    "Продолжить?",
-                    "ทำต่อหรือไม่",
-                    "继续？",
-                    "確定？"
-                ],
-                "m_locId": 2711862
-            },
-            "m_addToDeckWarningBody": {
-                "m_locValues": [
-                    "Adding Zayle to your deck will remove all other cards. Continue?",
-                    "Wenn Ihr Zayle zu Eurem Deck hinzufügt, werden alle anderen Karten entfernt. Fortfahren?",
-                    "Al añadir a Zayle a tu mazo se eliminarán todas las demás cartas. ¿Quieres continuar?",
-                    "Si agregas a Zayle a tu mazo eliminarás todas las demás cartas. ¿Continuar?",
-                    "Ajouter Zayle à votre deck supprimera toutes les autres cartes. Continuer ?",
-                    "Aggiungere Zayle al tuo mazzo rimuoverà tutte le altre carte. Vuoi continuare?",
-                    "ザイルをデッキに追加すると他のカードは全てデッキから外されるぞ。続けるかい？",
-                    "자일을 덱에 추가하면 다른 모든 카드가 제거됩니다. 계속하시겠습니까?",
-                    "Dodanie Zayla do swojej talii spowoduje usunięcie pozostałych kart. Kontynuować?",
-                    "Ao adicionar Zayle ao seu deck, todos os outros cards serão retirados. Prosseguir?",
-                    "Если вы добавите в колоду Зейла, другие карты будут из нее удалены. Продолжить?",
-                    "การเพิ่มเซย์ลในเด็คของคุณจะนำการ์ดอื่นออกทั้งหมด ทำต่อหรือไม่",
-                    "将泽尔加入你的套牌会移除所有其他卡牌，继续吗？",
-                    "將杰爾加入你的套牌會移除其他所有的卡牌。確定？"
-                ],
-                "m_locId": 2711863
-            }
-        },
-        {
             "m_ID": 41,
             "m_cardId": 104819,
             "m_heroCardId": 104823,
@@ -132,6 +70,68 @@
                     "將威茲邦加入你的套牌會移除其他所有的卡牌。確定？"
                 ],
                 "m_locId": 2892323
+            }
+        },
+        {
+            "m_ID": 2,
+            "m_cardId": 56047,
+            "m_heroCardId": 56963,
+            "m_deckName": {
+                "m_locValues": [
+                    "Zayle's E.V.I.L. Deck",
+                    "Zayles übles Deck",
+                    "Mazo del MAL de Zayle",
+                    "Mazo del M.A.L. de Zayle",
+                    "Deck du M.A.L. de Zayle",
+                    "Mazzo del M.A.L.E.",
+                    "ザイルの悪党同盟デッキ",
+                    "자일의 잔.악.무.도.한 덱",
+                    "Talia Ligi Z.Ł.A. Zayla",
+                    "Deck do MAL de Zayle",
+                    "Колода ЗЛА Зейла",
+                    "เด็ค E.V.I.L. ของเซย์ล",
+                    "泽尔的怪盗套牌",
+                    "杰爾的邪惡套牌"
+                ],
+                "m_locId": 2711861
+            },
+            "m_addToDeckWarningHeader": {
+                "m_locValues": [
+                    "Continue?",
+                    "Fortfahren?",
+                    "¿Continuar?",
+                    "¿Continuar?",
+                    "Continuer ?",
+                    "Vuoi continuare?",
+                    "ザイルを入れる？",
+                    "계속하시겠습니까?",
+                    "Kontynuować?",
+                    "Prosseguir?",
+                    "Продолжить?",
+                    "ทำต่อหรือไม่",
+                    "继续？",
+                    "確定？"
+                ],
+                "m_locId": 2711862
+            },
+            "m_addToDeckWarningBody": {
+                "m_locValues": [
+                    "Adding Zayle to your deck will remove all other cards. Continue?",
+                    "Wenn Ihr Zayle zu Eurem Deck hinzufügt, werden alle anderen Karten entfernt. Fortfahren?",
+                    "Al añadir a Zayle a tu mazo se eliminarán todas las demás cartas. ¿Quieres continuar?",
+                    "Si agregas a Zayle a tu mazo eliminarás todas las demás cartas. ¿Continuar?",
+                    "Ajouter Zayle à votre deck supprimera toutes les autres cartes. Continuer ?",
+                    "Aggiungere Zayle al tuo mazzo rimuoverà tutte le altre carte. Vuoi continuare?",
+                    "ザイルをデッキに追加すると他のカードは全てデッキから外されるぞ。続けるかい？",
+                    "자일을 덱에 추가하면 다른 모든 카드가 제거됩니다. 계속하시겠습니까?",
+                    "Dodanie Zayla do swojej talii spowoduje usunięcie pozostałych kart. Kontynuować?",
+                    "Ao adicionar Zayle ao seu deck, todos os outros cards serão retirados. Prosseguir?",
+                    "Если вы добавите в колоду Зейла, другие карты будут из нее удалены. Продолжить?",
+                    "การเพิ่มเซย์ลในเด็คของคุณจะนำการ์ดอื่นออกทั้งหมด ทำต่อหรือไม่",
+                    "将泽尔加入你的套牌会移除所有其他卡牌，继续吗？",
+                    "將杰爾加入你的套牌會移除其他所有的卡牌。確定？"
+                ],
+                "m_locId": 2711863
             }
         },
         {
