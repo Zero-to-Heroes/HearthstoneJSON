@@ -19,6 +19,7 @@
             "m_refText": "GLOBAL_KEYWORD_TAUNT_REF_TEXT",
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 12000
         },
         {
@@ -30,6 +31,7 @@
             "m_refText": "GLOBAL_KEYWORD_FREEZE_TEXT",
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 42000
         },
         {
@@ -41,6 +43,7 @@
             "m_refText": "GLOBAL_KEYWORD_HONORABLEKILL_TEXT",
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 118000
         },
         {
@@ -52,6 +55,7 @@
             "m_refText": "GLOBAL_KEYWORD_SPELLPOWER_ARCANE_REF_TEXT",
             "m_collectionText": "GLOBAL_KEYWORD_SPELLPOWER_ARCANE_REF_TEXT",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 16000
         },
         {
@@ -63,6 +67,7 @@
             "m_refText": "GLOBAL_KEYWORD_SPELLPOWER_FIRE_REF_TEXT",
             "m_collectionText": "GLOBAL_KEYWORD_SPELLPOWER_FIRE_REF_TEXT",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 17000
         },
         {
@@ -74,6 +79,7 @@
             "m_refText": "GLOBAL_KEYWORD_SPELLPOWER_FROST_REF_TEXT",
             "m_collectionText": "GLOBAL_KEYWORD_SPELLPOWER_FROST_REF_TEXT",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 18000
         },
         {
@@ -85,6 +91,7 @@
             "m_refText": "GLOBAL_KEYWORD_SPELLPOWER_NATURE_REF_TEXT",
             "m_collectionText": "GLOBAL_KEYWORD_SPELLPOWER_NATURE_REF_TEXT",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 19000
         },
         {
@@ -96,6 +103,7 @@
             "m_refText": "GLOBAL_KEYWORD_SPELLPOWER_HOLY_REF_TEXT",
             "m_collectionText": "GLOBAL_KEYWORD_SPELLPOWER_HOLY_REF_TEXT",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 20000
         },
         {
@@ -107,6 +115,7 @@
             "m_refText": "GLOBAL_KEYWORD_SPELLPOWER_SHADOW_REF_TEXT",
             "m_collectionText": "GLOBAL_KEYWORD_SPELLPOWER_SHADOW_REF_TEXT",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 21000
         },
         {
@@ -118,6 +127,7 @@
             "m_refText": "GLOBAL_KEYWORD_SPELLPOWER_FEL_REF_TEXT",
             "m_collectionText": "GLOBAL_KEYWORD_SPELLPOWER_FEL_REF_TEXT",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 22000
         },
         {
@@ -129,6 +139,7 @@
             "m_refText": "GLOBAL_KEYWORD_SPELLPOWER_PHYSICAL_REF_TEXT",
             "m_collectionText": "GLOBAL_KEYWORD_SPELLPOWER_PHYSICAL_REF_TEXT",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 23000
         },
         {
@@ -140,6 +151,7 @@
             "m_refText": "GLOBAL_KEYWORD_BLOOD_GEM_TEXT",
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 93000
         },
         {
@@ -151,6 +163,7 @@
             "m_refText": "GLOBAL_KEYWORD_WINDFURY_TEXT",
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 43000
         },
         {
@@ -162,6 +175,7 @@
             "m_refText": "GLOBAL_KEYWORD_DEATHRATTLE_TEXT",
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 58000
         },
         {
@@ -173,6 +187,7 @@
             "m_refText": "GLOBAL_KEYWORD_COMBO_TEXT",
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 60000
         },
         {
@@ -184,6 +199,7 @@
             "m_refText": "GLOBAL_KEYWORD_OVERLOAD_REF_TEXT",
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 59000
         },
         {
@@ -195,6 +211,7 @@
             "m_refText": "GLOBAL_KEYWORD_SILENCE_TEXT",
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 61000
         },
         {
@@ -206,6 +223,7 @@
             "m_refText": "GLOBAL_KEYWORD_COUNTER_TEXT",
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 63000
         },
         {
@@ -217,6 +235,7 @@
             "m_refText": "GLOBAL_KEYWORD_IMMUNE_REF_TEXT",
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 64000
         },
         {
@@ -228,6 +247,7 @@
             "m_refText": "GLOBAL_KEYWORD_AUTOCAST_TEXT",
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 148000
         },
         {
@@ -239,6 +259,7 @@
             "m_refText": "GLOBAL_KEYWORD_SPAREPART_TEXT",
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 65000
         },
         {
@@ -250,6 +271,7 @@
             "m_refText": "GLOBAL_KEYWORD_REFRESH_TEXT",
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 94000
         },
         {
@@ -261,6 +283,7 @@
             "m_refText": "GLOBAL_KEYWORD_AVENGE_TEXT",
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 95000
         },
         {
@@ -272,6 +295,7 @@
             "m_refText": "GLOBAL_KEYWORD_SPELLRESISTANCE_ARCANE_REF_TEXT",
             "m_collectionText": "GLOBAL_KEYWORD_SPELLRESISTANCE_ARCANE_REF_TEXT",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 24000
         },
         {
@@ -283,6 +307,7 @@
             "m_refText": "GLOBAL_KEYWORD_SPELLPOWER_REF_TEXT",
             "m_collectionText": "GLOBAL_KEYWORD_SPELLPOWER_REF_TEXT",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 15000
         },
         {
@@ -294,6 +319,7 @@
             "m_refText": "GLOBAL_KEYWORD_INSPIRE_TEXT",
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 66000
         },
         {
@@ -305,6 +331,7 @@
             "m_refText": "GLOBAL_KEYWORD_SPELLRESISTANCE_FIRE_REF_TEXT",
             "m_collectionText": "GLOBAL_KEYWORD_SPELLRESISTANCE_FIRE_REF_TEXT",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 25000
         },
         {
@@ -316,6 +343,7 @@
             "m_refText": "GLOBAL_KEYWORD_SPELLRESISTANCE_FROST_REF_TEXT",
             "m_collectionText": "GLOBAL_KEYWORD_SPELLRESISTANCE_FROST_REF_TEXT",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 26000
         },
         {
@@ -327,6 +355,7 @@
             "m_refText": "GLOBAL_KEYWORD_SPELLRESISTANCE_NATURE_REF_TEXT",
             "m_collectionText": "GLOBAL_KEYWORD_SPELLRESISTANCE_NATURE_REF_TEXT",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 27000
         },
         {
@@ -338,6 +367,7 @@
             "m_refText": "GLOBAL_KEYWORD_SPELLRESISTANCE_HOLY_REF_TEXT",
             "m_collectionText": "GLOBAL_KEYWORD_SPELLRESISTANCE_HOLY_REF_TEXT",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 28000
         },
         {
@@ -349,6 +379,7 @@
             "m_refText": "GLOBAL_KEYWORD_SPELLRESISTANCE_SHADOW_REF_TEXT",
             "m_collectionText": "GLOBAL_KEYWORD_SPELLRESISTANCE_SHADOW_REF_TEXT",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 29000
         },
         {
@@ -360,6 +391,7 @@
             "m_refText": "GLOBAL_KEYWORD_SPELLRESISTANCE_FEL_REF_TEXT",
             "m_collectionText": "GLOBAL_KEYWORD_SPELLRESISTANCE_FEL_REF_TEXT",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 30000
         },
         {
@@ -371,6 +403,7 @@
             "m_refText": "GLOBAL_KEYWORD_SPELLWEAKNESS_ARCANE_REF_TEXT",
             "m_collectionText": "GLOBAL_KEYWORD_SPELLWEAKNESS_ARCANE_REF_TEXT",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 31000
         },
         {
@@ -382,6 +415,7 @@
             "m_refText": "GLOBAL_KEYWORD_SPELLWEAKNESS_FIRE_REF_TEXT",
             "m_collectionText": "GLOBAL_KEYWORD_SPELLWEAKNESS_FIRE_REF_TEXT",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 32000
         },
         {
@@ -393,6 +427,7 @@
             "m_refText": "GLOBAL_KEYWORD_SPELLWEAKNESS_FROST_REF_TEXT",
             "m_collectionText": "GLOBAL_KEYWORD_SPELLWEAKNESS_FROST_REF_TEXT",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 33000
         },
         {
@@ -404,6 +439,7 @@
             "m_refText": "GLOBAL_KEYWORD_SPELLWEAKNESS_NATURE_REF_TEXT",
             "m_collectionText": "GLOBAL_KEYWORD_SPELLWEAKNESS_NATURE_REF_TEXT",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 34000
         },
         {
@@ -415,6 +451,7 @@
             "m_refText": "GLOBAL_KEYWORD_DISCOVER_TEXT",
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 67000
         },
         {
@@ -426,6 +463,7 @@
             "m_refText": "GLOBAL_KEYWORD_SPELLWEAKNESS_HOLY_REF_TEXT",
             "m_collectionText": "GLOBAL_KEYWORD_SPELLWEAKNESS_HOLY_REF_TEXT",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 35000
         },
         {
@@ -437,6 +475,7 @@
             "m_refText": "GLOBAL_KEYWORD_SPELLWEAKNESS_SHADOW_REF_TEXT",
             "m_collectionText": "GLOBAL_KEYWORD_SPELLWEAKNESS_SHADOW_REF_TEXT",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 36000
         },
         {
@@ -448,6 +487,7 @@
             "m_refText": "GLOBAL_KEYWORD_SPELLWEAKNESS_FEL_REF_TEXT",
             "m_collectionText": "GLOBAL_KEYWORD_SPELLWEAKNESS_FEL_REF_TEXT",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 37000
         },
         {
@@ -459,6 +499,7 @@
             "m_refText": "GLOBAL_KEYWORD_ATTACK_REF_TEXT_MERC",
             "m_collectionText": "GLOBAL_KEYWORD_ATTACK_REF_TEXT_MERC",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 101000
         },
         {
@@ -470,6 +511,7 @@
             "m_refText": "GLOBAL_KEYWORD_SPELLCOMBO_REF_TEXT_MERC",
             "m_collectionText": "GLOBAL_KEYWORD_SPELLCOMBO_REF_TEXT_MERC",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 102000
         },
         {
@@ -481,6 +523,7 @@
             "m_refText": "GLOBAL_KEYWORD_CTHUN_TEXT",
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 68000
         },
         {
@@ -492,6 +535,7 @@
             "m_refText": "GLOBAL_KEYWORD_DEATHBLOW_TEXT",
             "m_collectionText": "GLOBAL_KEYWORD_DEATHBLOW_TEXT",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 110000
         },
         {
@@ -503,6 +547,7 @@
             "m_refText": "GLOBAL_KEYWORD_BLEED_TEXT",
             "m_collectionText": "GLOBAL_KEYWORD_BLEED_TEXT",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 111000
         },
         {
@@ -514,6 +559,7 @@
             "m_refText": "GLOBAL_KEYWORD_CRITICAL_DAMAGE_TEXT",
             "m_collectionText": "GLOBAL_KEYWORD_CRITICAL_DAMAGE_TEXT",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 112000
         },
         {
@@ -525,6 +571,7 @@
             "m_refText": "GLOBAL_KEYWORD_ROOT_TEXT",
             "m_collectionText": "GLOBAL_KEYWORD_ROOT_TEXT",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 113000
         },
         {
@@ -536,6 +583,7 @@
             "m_refText": "GLOBAL_KEYWORD_ALLIANCE_TEXT",
             "m_collectionText": "GLOBAL_KEYWORD_ALLIANCE_TEXT",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 114000
         },
         {
@@ -547,6 +595,7 @@
             "m_refText": "GLOBAL_KEYWORD_HORDE_TEXT",
             "m_collectionText": "GLOBAL_KEYWORD_HORDE_TEXT",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 115000
         },
         {
@@ -558,6 +607,7 @@
             "m_refText": "GLOBAL_KEYWORD_REFRESH_MERC_TEXT",
             "m_collectionText": "GLOBAL_KEYWORD_REFRESH_MERC_TEXT",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 116000
         },
         {
@@ -569,6 +619,7 @@
             "m_refText": "GLOBAL_KEYWORD_ELVES_MERC_TEXT",
             "m_collectionText": "GLOBAL_KEYWORD_ELVES_MERC_TEXT",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 117000
         },
         {
@@ -580,6 +631,7 @@
             "m_refText": "GLOBAL_KEYWORD_COLOSSAL_TEXT",
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 129000
         },
         {
@@ -591,6 +643,7 @@
             "m_refText": "GLOBAL_KEYWORD_DREDGE_TEXT",
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 130000
         },
         {
@@ -602,6 +655,7 @@
             "m_refText": "GLOBAL_KEYWORD_REVIVE_TEXT",
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 119000
         },
         {
@@ -613,6 +667,7 @@
             "m_refText": "GLOBAL_KEYWORD_SPELLCRAFT_TEXT",
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 96000
         },
         {
@@ -624,6 +679,7 @@
             "m_refText": "GLOBAL_KEYWORD_ALLIED_TEXT",
             "m_collectionText": "GLOBAL_KEYWORD_ALLIED_TEXT",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 120000
         },
         {
@@ -635,6 +691,7 @@
             "m_refText": "GLOBAL_KEYWORD_HEALING_POWER_TEXT",
             "m_collectionText": "GLOBAL_KEYWORD_HEALING_POWER_TEXT",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 121000
         },
         {
@@ -646,6 +703,7 @@
             "m_refText": "GLOBAL_KEYWORD_INFUSE_TEXT",
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 132000
         },
         {
@@ -657,6 +715,7 @@
             "m_refText": "GLOBAL_KEYWORD_INFUSED_TEXT",
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 133000
         },
         {
@@ -668,6 +727,7 @@
             "m_refText": "GLOBAL_KEYWORD_MINION_TYPE_REFERENCE_TEXT",
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 70000
         },
         {
@@ -679,6 +739,7 @@
             "m_refText": "GLOBAL_KEYWORD_BACON_FREEZE_TEXT",
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 122000
         },
         {
@@ -690,6 +751,7 @@
             "m_refText": "GLOBAL_KEYWORD_SPELLWEAKNESS_MERC_REF_TEXT",
             "m_collectionText": "GLOBAL_KEYWORD_SPELLWEAKNESS_MERC_REF_TEXT",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 128000
         },
         {
@@ -701,6 +763,7 @@
             "m_refText": "GLOBAL_KEYWORD_SPELLRESISTANCE_MERC_REF_TEXT",
             "m_collectionText": "GLOBAL_KEYWORD_SPELLRESISTANCE_MERC_REF_TEXT",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 127000
         },
         {
@@ -712,6 +775,7 @@
             "m_refText": "GLOBAL_KEYWORD_CORPSE_TEXT",
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 134000
         },
         {
@@ -723,6 +787,7 @@
             "m_refText": "GLOBAL_KEYWORD_BENCH_MERC_TEXT",
             "m_collectionText": "GLOBAL_KEYWORD_BENCH_MERC_TEXT",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 131000
         },
         {
@@ -734,6 +799,7 @@
             "m_refText": "GLOBAL_KEYWORD_EXPLORER_MERC_TEXT",
             "m_collectionText": "GLOBAL_KEYWORD_EXPLORER_MERC_TEXT",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 145000
         },
         {
@@ -745,6 +811,7 @@
             "m_refText": "GLOBAL_KEYWORD_AUTOATTACK_TEXT",
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 69000
         },
         {
@@ -756,6 +823,7 @@
             "m_refText": "GLOBAL_KEYWORD_SILENCE_MERC_TEXT",
             "m_collectionText": "GLOBAL_KEYWORD_SILENCE_MERC_TEXT",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 62000
         },
         {
@@ -767,6 +835,7 @@
             "m_refText": "GLOBAL_KEYWORD_BACON_STEALTH_TEXT",
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 123000
         },
         {
@@ -778,6 +847,7 @@
             "m_refText": "GLOBAL_KEYWORD_BACON_QUEST_TEXT",
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 124000
         },
         {
@@ -789,6 +859,7 @@
             "m_refText": "GLOBAL_KEYWORD_CHARGE_MERC_TEXT",
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 146000
         },
         {
@@ -800,6 +871,7 @@
             "m_refText": "GLOBAL_KEYWORD_FINALE_TEXT",
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 139000
         },
         {
@@ -811,6 +883,7 @@
             "m_refText": "GLOBAL_KEYWORD_OVERHEAL_TEXT",
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 142000
         },
         {
@@ -822,6 +895,7 @@
             "m_refText": "GLOBAL_KEYWORD_MANATHIRST_TEXT",
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 138000
         },
         {
@@ -833,6 +907,7 @@
             "m_refText": "GLOBAL_KEYWORD_BACON_REBORN_TEXT",
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 125000
         },
         {
@@ -844,6 +919,7 @@
             "m_refText": "GLOBAL_KEYWORD_JADE_GOLEM_TEXT",
             "m_collectionText": "GLOBAL_KEYWORD_JADE_GOLEM_COLLECTION_TEXT",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 71000
         },
         {
@@ -855,6 +931,7 @@
             "m_refText": "GLOBAL_KEYWORD_BACON_PUTRICIDESCREATION_TEXT",
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 126000
         },
         {
@@ -866,6 +943,7 @@
             "m_refText": "GLOBAL_KEYWORD_VENOMOUS_TEXT",
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 97000
         },
         {
@@ -877,6 +955,7 @@
             "m_refText": "GLOBAL_KEYWORD_BONUSEFFECTS_TEXT",
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 143000
         },
         {
@@ -888,6 +967,7 @@
             "m_refText": "GLOBAL_KEYWORD_BACON_BUY_BUDDY_TEXT",
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 55000
         },
         {
@@ -899,6 +979,7 @@
             "m_refText": "GLOBAL_KEYWORD_BACON_BUY_BUDDY_2_TEXT",
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 56000
         },
         {
@@ -910,6 +991,7 @@
             "m_refText": "GLOBAL_KEYWORD_ELUSIVE_REF_TEXT",
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 149000
         },
         {
@@ -921,6 +1003,7 @@
             "m_refText": "GLOBAL_KEYWORD_FORGE_TEXT",
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 140000
         },
         {
@@ -932,18 +1015,20 @@
             "m_refText": "GLOBAL_KEYWORD_FORGED_TEXT",
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 141000
         },
         {
             "m_ID": 27,
-            "m_noteDesc": "Grimy Goons\n",
+            "m_noteDesc": "Grimy Goons",
             "m_tagId": 482,
             "m_name": "GLOBAL_KEYWORD_GRIMY_GOONS",
-            "m_text": "",
-            "m_refText": "",
-            "m_collectionText": "GLOBAL_KEYWORD_GRIMY_GOONS_COLLECTION_TEXT",
-            "m_isCollectionOnly": 1,
-            "m_tooltipInitOrder": 72000
+            "m_text": "GLOBAL_KEYWORD_GRIMY_GOONS_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_GRIMY_GOONS_TEXT",
+            "m_collectionText": "",
+            "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 1,
+            "m_tooltipInitOrder": 9005
         },
         {
             "m_ID": 270,
@@ -954,29 +1039,32 @@
             "m_refText": "GLOBAL_KEYWORD_TITAN_TEXT",
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 9000
         },
         {
             "m_ID": 28,
-            "m_noteDesc": "Jade Lotus\n",
+            "m_noteDesc": "Jade Lotus",
             "m_tagId": 483,
             "m_name": "GLOBAL_KEYWORD_JADE_LOTUS",
-            "m_text": "",
-            "m_refText": "",
-            "m_collectionText": "GLOBAL_KEYWORD_JADE_LOTUS_COLLECTION_TEXT",
-            "m_isCollectionOnly": 1,
-            "m_tooltipInitOrder": 73000
+            "m_text": "GLOBAL_KEYWORD_JADE_LOTUS_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_JADE_LOTUS_TEXT",
+            "m_collectionText": "",
+            "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 1,
+            "m_tooltipInitOrder": 9006
         },
         {
             "m_ID": 29,
-            "m_noteDesc": "Kabal\n",
+            "m_noteDesc": "Kabal",
             "m_tagId": 484,
             "m_name": "GLOBAL_KEYWORD_KABAL",
-            "m_text": "",
-            "m_refText": "",
-            "m_collectionText": "GLOBAL_KEYWORD_KABAL_COLLECTION_TEXT",
-            "m_isCollectionOnly": 1,
-            "m_tooltipInitOrder": 74000
+            "m_text": "GLOBAL_KEYWORD_KABAL_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_KABAL_TEXT",
+            "m_collectionText": "",
+            "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 1,
+            "m_tooltipInitOrder": 9007
         },
         {
             "m_ID": 291,
@@ -987,6 +1075,7 @@
             "m_refText": "GLOBAL_KEYWORD_SUMMONED_WHEN_DRAWN_TEXT",
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 135000
         },
         {
@@ -998,6 +1087,7 @@
             "m_refText": "GLOBAL_KEYWORD_BACON_CONSUME_TEXT",
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 152000
         },
         {
@@ -1009,6 +1099,7 @@
             "m_refText": "GLOBAL_KEYWORD_MINIATURIZE_TEXT",
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 150000
         },
         {
@@ -1020,6 +1111,7 @@
             "m_refText": "GLOBAL_KEYWORD_MINI_REF_TEXT",
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 151000
         },
         {
@@ -1031,6 +1123,7 @@
             "m_refText": "GLOBAL_KEYWORD_QUICKDRAW_REF_TEXT",
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 136000
         },
         {
@@ -1042,6 +1135,7 @@
             "m_refText": "GLOBAL_KEYWORD_EXCAVATE_REF_TEXT",
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 137000
         },
         {
@@ -1053,6 +1147,7 @@
             "m_refText": "GLOBAL_KEYWORD_DIVINE_SHIELD_REF_TEXT",
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 14000
         },
         {
@@ -1064,6 +1159,7 @@
             "m_refText": "GLOBAL_KEYWORD_BACON_PASS_TEXT",
             "m_collectionText": "Pass",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 153000
         },
         {
@@ -1075,6 +1171,7 @@
             "m_refText": "GLOBAL_KEYWORD_GIGANTIFY_TEXT",
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 154000
         },
         {
@@ -1086,6 +1183,7 @@
             "m_refText": "GLOBAL_KEYWORD_GIGANTIC_TEXT",
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 155000
         },
         {
@@ -1097,6 +1195,7 @@
             "m_refText": "GLOBAL_KEYWORD_BACON_BUDDY_TEXT",
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 156000
         },
         {
@@ -1108,6 +1207,7 @@
             "m_refText": "GLOBAL_KEYWORD_IS_HERO_PASSIVE_TEXT",
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 157000
         },
         {
@@ -1119,6 +1219,7 @@
             "m_refText": "GLOBAL_KEYWORD_ROGUE_TOURIST_TEXT",
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 10005
         },
         {
@@ -1130,6 +1231,7 @@
             "m_refText": "GLOBAL_KEYWORD_WARLOCK_TOURIST_TEXT",
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 10010
         },
         {
@@ -1141,6 +1243,7 @@
             "m_refText": "GLOBAL_KEYWORD_DEATH_KNIGHT_TOURIST_TEXT",
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 10007
         },
         {
@@ -1152,6 +1255,7 @@
             "m_refText": "GLOBAL_KEYWORD_QUEST_TEXT",
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 75000
         },
         {
@@ -1163,6 +1267,7 @@
             "m_refText": "GLOBAL_KEYWORD_SHAMAN_TOURIST_TEXT",
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 10008
         },
         {
@@ -1174,6 +1279,7 @@
             "m_refText": "GLOBAL_KEYWORD_DEMON_HUNTER_TOURIST_TEXT",
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 10000
         },
         {
@@ -1185,6 +1291,7 @@
             "m_refText": "GLOBAL_KEYWORD_PRIEST_TOURIST_TEXT",
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 10009
         },
         {
@@ -1196,6 +1303,7 @@
             "m_refText": "GLOBAL_KEYWORD_HUNTER_TOURIST_TEXT",
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 10006
         },
         {
@@ -1207,6 +1315,7 @@
             "m_refText": "GLOBAL_KEYWORD_WARRIOR_TOURIST_TEXT",
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 10003
         },
         {
@@ -1218,6 +1327,7 @@
             "m_refText": "GLOBAL_KEYWORD_DRUID_TOURIST_TEXT",
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 10002
         },
         {
@@ -1229,6 +1339,7 @@
             "m_refText": "GLOBAL_KEYWORD_MAGE_TOURIST_TEXT",
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 10001
         },
         {
@@ -1240,6 +1351,7 @@
             "m_refText": "GLOBAL_KEYWORD_PALADIN_TOURIST_TEXT",
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 10004
         },
         {
@@ -1251,6 +1363,7 @@
             "m_refText": "GLOBAL_KEYWORD_POISONOUS_TEXT",
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 77000
         },
         {
@@ -1262,18 +1375,8 @@
             "m_refText": "GLOBAL_KEYWORD_TEMPORARY_TEXT",
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 169000
-        },
-        {
-            "m_ID": 321,
-            "m_noteDesc": "Magic Damage",
-            "m_tagId": 3636,
-            "m_name": "GLOBAL_KEYWORD_BACON_MAGICDAMAGE",
-            "m_text": "GLOBAL_KEYWORD_BACON_MAGICDAMAGE_TEXT",
-            "m_refText": "GLOBAL_KEYWORD_BACON_MAGICDAMAGE_TEXT",
-            "m_collectionText": "Magic Damage",
-            "m_isCollectionOnly": 0,
-            "m_tooltipInitOrder": 170000
         },
         {
             "m_ID": 323,
@@ -1284,18 +1387,8 @@
             "m_refText": "GLOBAL_KEYWORD_STARSHIP_TEXT",
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 9500
-        },
-        {
-            "m_ID": 326,
-            "m_noteDesc": "Sturdy",
-            "m_tagId": 3698,
-            "m_name": "GLOBAL_KEYWORD_BACON_STURDY",
-            "m_text": "GLOBAL_KEYWORD_BACON_STURDY_TEXT",
-            "m_refText": "GLOBAL_KEYWORD_BACON_STURDY_TEXT",
-            "m_collectionText": "Sturdy",
-            "m_isCollectionOnly": 0,
-            "m_tooltipInitOrder": 172000
         },
         {
             "m_ID": 329,
@@ -1306,6 +1399,7 @@
             "m_refText": "GLOBAL_KEYWORD_BACON_TRINKET_TEXT",
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 190000
         },
         {
@@ -1317,6 +1411,7 @@
             "m_refText": "GLOBAL_KEYWORD_BOSS_TEXT",
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 6000
         },
         {
@@ -1328,6 +1423,7 @@
             "m_refText": "GLOBAL_KEYWORD_BACON_DISCOUNTED_TEXT",
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 191000
         },
         {
@@ -1339,7 +1435,44 @@
             "m_refText": "GLOBAL_KEYWORD_BACON_BONUS_KEYWORDS_TEXT",
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 192000
+        },
+        {
+            "m_ID": 337,
+            "m_noteDesc": "Protoss",
+            "m_tagId": 3469,
+            "m_name": "GLOBAL_KEYWORD_PROTOSS",
+            "m_text": "GLOBAL_KEYWORD_PROTOSS_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_PROTOSS_TEXT",
+            "m_collectionText": "",
+            "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 1,
+            "m_tooltipInitOrder": 9001
+        },
+        {
+            "m_ID": 338,
+            "m_noteDesc": "Zerg",
+            "m_tagId": 3457,
+            "m_name": "GLOBAL_KEYWORD_ZERG",
+            "m_text": "GLOBAL_KEYWORD_ZERG_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_ZERG_TEXT",
+            "m_collectionText": "",
+            "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 1,
+            "m_tooltipInitOrder": 9002
+        },
+        {
+            "m_ID": 339,
+            "m_noteDesc": "Terran",
+            "m_tagId": 3458,
+            "m_name": "GLOBAL_KEYWORD_TERRAN",
+            "m_text": "GLOBAL_KEYWORD_TERRAN_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_TERRAN_TEXT",
+            "m_collectionText": "",
+            "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 1,
+            "m_tooltipInitOrder": 9003
         },
         {
             "m_ID": 34,
@@ -1350,6 +1483,7 @@
             "m_refText": "GLOBAL_KEYWORD_ADAPT_TEXT",
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 78000
         },
         {
@@ -1361,6 +1495,7 @@
             "m_refText": "GLOBAL_KEYWORD_SHIFTING_TOP_TEXT",
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 1001
         },
         {
@@ -1372,6 +1507,7 @@
             "m_refText": "GLOBAL_KEYWORD_SHIFTING_MINION_TEXT",
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 2000
         },
         {
@@ -1383,6 +1519,7 @@
             "m_refText": "GLOBAL_KEYWORD_SHIFTING_WEAPON_TEXT",
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 3000
         },
         {
@@ -1394,6 +1531,7 @@
             "m_refText": "GLOBAL_KEYWORD_SHIFTING_TEXT",
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 1000
         },
         {
@@ -1405,6 +1543,7 @@
             "m_refText": "GLOBAL_KEYWORD_LIFESTEAL_TEXT",
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 79000
         },
         {
@@ -1416,17 +1555,19 @@
             "m_refText": "GLOBAL_KEYWORD_RECRUIT_TEXT",
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 80000
         },
         {
             "m_ID": 4,
-            "m_noteDesc": "Charge\n",
+            "m_noteDesc": "Charge",
             "m_tagId": 197,
             "m_name": "GLOBAL_KEYWORD_CHARGE",
             "m_text": "GLOBAL_KEYWORD_CHARGE_TEXT",
             "m_refText": "GLOBAL_KEYWORD_CHARGE_TEXT",
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 1,
             "m_tooltipInitOrder": 39000
         },
         {
@@ -1438,6 +1579,7 @@
             "m_refText": "GLOBAL_KEYWORD_SECRET_TEXT",
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 57000
         },
         {
@@ -1449,6 +1591,7 @@
             "m_refText": "GLOBAL_KEYWORD_ECHO_TEXT",
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 45000
         },
         {
@@ -1460,6 +1603,7 @@
             "m_refText": "GLOBAL_KEYWORD_RUSH_TEXT",
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 46000
         },
         {
@@ -1471,6 +1615,7 @@
             "m_refText": "GLOBAL_KEYWORD_PASSIVE_TEXT",
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 81000
         },
         {
@@ -1482,6 +1627,7 @@
             "m_refText": "GLOBAL_KEYWORD_STEALTH_REF_TEXT",
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 13000
         },
         {
@@ -1493,6 +1639,7 @@
             "m_refText": "GLOBAL_KEYWORD_ETHEREAL_TEXT",
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 50000
         },
         {
@@ -1504,6 +1651,7 @@
             "m_refText": "GLOBAL_KEYWORD_OVERKILL_TEXT",
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 48000
         },
         {
@@ -1515,6 +1663,7 @@
             "m_refText": "GLOBAL_KEYWORD_PROPHECY_TEXT",
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 49000
         },
         {
@@ -1526,6 +1675,7 @@
             "m_refText": "GLOBAL_KEYWORD_SHIFTING_SPELL_TEXT",
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 4000
         },
         {
@@ -1537,6 +1687,7 @@
             "m_refText": "GLOBAL_KEYWORD_START_OF_GAME_TEXT",
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 82000
         },
         {
@@ -1548,6 +1699,7 @@
             "m_refText": "GLOBAL_KEYWORD_WILD_TEXT",
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 7000
         },
         {
@@ -1559,6 +1711,7 @@
             "m_refText": "GLOBAL_KEYWORD_MODULAR_TEXT",
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 47000
         },
         {
@@ -1570,6 +1723,7 @@
             "m_refText": "GLOBAL_KEYWORD_HALL_OF_FAME_TEXT",
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 8000
         },
         {
@@ -1581,6 +1735,7 @@
             "m_refText": "GLOBAL_KEYWORD_ENRAGED_TOOLTIP_TEXT",
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 38000
         },
         {
@@ -1592,6 +1747,7 @@
             "m_refText": "GLOBAL_KEYWORD_WAND_TEXT",
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 52000
         },
         {
@@ -1603,6 +1759,7 @@
             "m_refText": "GLOBAL_KEYWORD_EVILZUG_TEXT",
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 51000
         },
         {
@@ -1614,6 +1771,7 @@
             "m_refText": "GLOBAL_KEYWORD_CASTS_WHEN_DRAWN_TEXT",
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 83000
         },
         {
@@ -1625,6 +1783,7 @@
             "m_refText": "GLOBAL_KEYWORD_FLOOPY_TEXT",
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 5000
         },
         {
@@ -1636,6 +1795,7 @@
             "m_refText": "GLOBAL_KEYWORD_SHRINE_TEXT",
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 84000
         },
         {
@@ -1647,6 +1807,7 @@
             "m_refText": "GLOBAL_KEYWORD_TWINSPELL_TEXT",
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 53000
         },
         {
@@ -1658,6 +1819,7 @@
             "m_refText": "GLOBAL_KEYWORD_MEGAWINDFURY_TEXT",
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 44000
         },
         {
@@ -1669,6 +1831,7 @@
             "m_refText": "GLOBAL_KEYWORD_REBORN_TEXT",
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 54000
         },
         {
@@ -1680,6 +1843,7 @@
             "m_refText": "GLOBAL_KEYWORD_EMPOWER_TEXT",
             "m_collectionText": "GLOBAL_KEYWORD_EMPOWER_TEXT",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 11000
         },
         {
@@ -1691,6 +1855,7 @@
             "m_refText": "GLOBAL_KEYWORD_BATTLECRY_TEXT",
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 40000
         },
         {
@@ -1702,6 +1867,7 @@
             "m_refText": "GLOBAL_KEYWORD_EMPOWER_PRIEST_TEXT",
             "m_collectionText": "GLOBAL_KEYWORD_EMPOWER_PRIEST_TEXT",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 0
         },
         {
@@ -1713,6 +1879,7 @@
             "m_refText": "GLOBAL_KEYWORD_EMPOWER_ROGUE_TEXT",
             "m_collectionText": "GLOBAL_KEYWORD_EMPOWER_ROGUE_COLLECTION_TEXT",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 1
         },
         {
@@ -1724,6 +1891,7 @@
             "m_refText": "GLOBAL_KEYWORD_EMPOWER_SHAMAN_TEXT",
             "m_collectionText": "GLOBAL_KEYWORD_EMPOWER_SHAMAN_COLLECTION_TEXT",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 2
         },
         {
@@ -1735,6 +1903,7 @@
             "m_refText": "GLOBAL_KEYWORD_EMPOWER_WARLOCK_TEXT",
             "m_collectionText": "GLOBAL_KEYWORD_EMPOWER_WARLOCK_TEXT",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 3
         },
         {
@@ -1746,6 +1915,7 @@
             "m_refText": "GLOBAL_KEYWORD_EMPOWER_WARRIOR_TEXT",
             "m_collectionText": "GLOBAL_KEYWORD_EMPOWER_WARRIOR_TEXT",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 4
         },
         {
@@ -1757,6 +1927,7 @@
             "m_refText": "GLOBAL_KEYWORD_FATIGUE_TEXT",
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 85000
         },
         {
@@ -1768,6 +1939,7 @@
             "m_refText": "GLOBAL_KEYWORD_OUTCAST_TEXT",
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 86000
         },
         {
@@ -1779,6 +1951,7 @@
             "m_refText": "GLOBAL_KEYWORD_STUDY_TEXT",
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 87000
         },
         {
@@ -1790,6 +1963,7 @@
             "m_refText": "GLOBAL_KEYWORD_SPELLBURST_TEXT",
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 88000
         },
         {
@@ -1801,6 +1975,7 @@
             "m_refText": "GLOBAL_KEYWORD_SIDEQUEST_TEXT",
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 76000
         },
         {
@@ -1812,6 +1987,7 @@
             "m_refText": "GLOBAL_KEYWORD_FROZEN_TEXT",
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 41000
         },
         {
@@ -1823,6 +1999,7 @@
             "m_refText": "GLOBAL_KEYWORD_CORRUPT_TEXT",
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 89000
         },
         {
@@ -1834,6 +2011,7 @@
             "m_refText": "GLOBAL_KEYWORD_DORMANT_TEXT",
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 90000
         },
         {
@@ -1845,6 +2023,7 @@
             "m_refText": "GLOBAL_KEYWORD_TOOL_TEXT",
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 98000
         },
         {
@@ -1856,6 +2035,7 @@
             "m_refText": "GLOBAL_KEYWORD_QUESTLINE_TEXT",
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 99000
         },
         {
@@ -1867,6 +2047,7 @@
             "m_refText": "GLOBAL_KEYWORD_TRADE_TEXT",
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 100000
         },
         {
@@ -1878,6 +2059,7 @@
             "m_refText": "GLOBAL_KEYWORD_CORRUPTEDCARD_TEXT",
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 91000
         },
         {
@@ -1889,6 +2071,7 @@
             "m_refText": "GLOBAL_KEYWORD_FRENZY_TEXT",
             "m_collectionText": "",
             "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 92000
         }
     ]

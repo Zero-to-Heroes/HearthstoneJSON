@@ -1748,6 +1748,192 @@
         },
         {
             "m_ID": 0,
+            "m_specialEventId": 36,
+            "m_eventRewardTrackId": 117,
+            "m_choiceConfirmationText": {
+                "m_locValues": [
+                    "\"Give 'em some pepper.\"\n<i>(Join Terran?)</i>",
+                    "„Geben wir ihnen Saures!“\n<i>(Terranern anschließen?)</i>",
+                    "«Dales caña».\n<i>(¿Te unes a los terran?)</i>.",
+                    "\"Dales pimienta\".\n<i>(¿Deseas unirte a los terran?)</i>",
+                    "« On les assaisonne. »\n<i>(Rejoindre les Terrans ?)</i>",
+                    "\"Diamogli quello che si meritano.\"\n<i>(Vuoi unirti ai Terran?)</i>",
+                    "「イカすとこを見せてやれ」\n<i>（テランに加わる？）</i>",
+                    "\"따끔한 맛을 보여주지.\"\n<i>(테란에 합류할까요?)</i>",
+                    "„Dopieprzmy im”.\n<i>(Dołączasz do terran?)</i>",
+                    "\"Bomba neles!\"\n<i>(Juntar-se aos terranos?)</i>",
+                    "«Зададим им перцу!»\n<i>(Присоединиться к терранам?)</i>",
+                    "\"ไปยัดตะกั่วใส่ศัตรูกัน\"\n<i>(ร่วมฝ่ายเทอร์แรนไหม)</i>",
+                    "“给他们点颜色看看。”\n<i>（加入人族？）</i>",
+                    "「給他們點兒顏色瞧瞧。」\n<i>（加入人類嗎？）</i>"
+                ],
+                "m_locId": 2912209
+            },
+            "m_shortConclusion": {
+                "m_locValues": [
+                    "<i>Yippie kai yay!</i>",
+                    "<i>Jippie-ki-yay!</i>",
+                    "<i>¡Yipi kai yei!</i>",
+                    "<i>¡Ajúa!</i>",
+                    "<i>Yippie ki yay !</i>",
+                    "<i>Yippie ki-yay!</i>",
+                    "<i>こりゃあすごいね！</i>",
+                    "<i>야호!</i>",
+                    "<i>Yippie ki yay!</i>",
+                    "<i>Iiirrááá!</i>",
+                    "<i>Ого-го!</i>",
+                    "<i>ยิปปี้ไคเย่!</i>",
+                    "<i>呜呼！耶！</i>",
+                    "<i>伊哈！</i>"
+                ],
+                "m_locId": 2912210
+            },
+            "m_longConclusion": {
+                "m_locValues": [
+                    "<i>I've seen a lot of good lives wasted,\nbut we made it count this time! You always came through in a pinch.\n\nThanks, Commander.</i>",
+                    "<i>Ich habe viele gute Menschen sterben sehen,\ndoch dieses Mal war es das Opfer wert! Es ist immer knapp.\n\nDanke, Kommandant.</i>",
+                    "<i>He visto muchas vidas desperdiciadas,\n¡pero esta vez valió para algo! Siempre has sabido solucionar situaciones peliagudas cuando hacía falta.\n\nGracias, comandante.</i>",
+                    "<i>He visto muchas vidas buenas desperdiciadas,\n¡pero esta vez hicimos que valiera la pena! Siempre ayudas en los apuros.\n\nGracias, Comandante.</i>",
+                    "<i>J’ai vu trop de vies perdues,\nmais on a fait la différence cette fois ! En dernier recours, vous assurez.\n\nMerci, commandant.</i>",
+                    "<i>Ho visto un sacco di buone vite sprecate,\nma stavolta è contato a qualcosa! Ci hai sempre aiutati al momento giusto.\n\nGrazie, comandante.</i>",
+                    "<i>イカすヤツらが山ほど死んでいったが\n今回は無駄じゃなかった！お前はいつだってピンチを乗り越えてきたな。\n\nありがとよ、コマンダー。</i>",
+                    "<i>멀쩡한 사람들이 목숨을 잃는 것을 많이 봤지만,\n이번에는 우리가 해냈습니다! 사령관님은 언제나 궁지에서 빠져나오셨지요.\n\n감사합니다, 사령관님.</i>",
+                    "<i>Widziałem wiele niepotrzebnych śmierci,\nale tym razem straty nie pójdą na marne! Zawsze można na ciebie liczyć pod presją.\n\nDziękuję ci, dowódco.</i>",
+                    "<i>Já vi muitas boas vidas serem desperdiçadas,\nmas dessa vez a gente faz valer a pena! Você sempre aparece na hora da necessidade.\n\nValeu, Comandante.</i>",
+                    "<i>Много хороших людей погибло на моих глазах,\nно в этот раз все было не зря.\nВы всегда приходили на помощь в трудную минуту.\nСпасибо, командир.</i>",
+                    "<i>ฉันเห็นเคยคนดีๆ เอาชีวิตไปทิ้งเสียเปล่ามามาก\nแต่คราวนี้พวกเราทำตามเป้าหมายสำเร็จ! ไม่ว่าสถานการณ์จะคับขันแค่ไหน คุณก็ช่วยเราไว้เสมอ\n\nขอบคุณนะ แม่ทัพ</i>",
+                    "<i>许多无辜的生命在我眼前消逝，\n如今，他们的牺牲不再白费！你总能带领我们脱险。\n\n谢谢你，指挥官。</i>",
+                    "<i>許多無辜的生命在我眼前消逝，\n但我們這次會讓這些犧牲有所價值！你總是在關鍵時刻挺身而出。\n\n指揮官，謝謝你。</i>"
+                ],
+                "m_locId": 2912211
+            }
+        },
+        {
+            "m_ID": 0,
+            "m_specialEventId": 36,
+            "m_eventRewardTrackId": 118,
+            "m_choiceConfirmationText": {
+                "m_locValues": [
+                    "\"We shall prevail.\"\n<i>(Join Protoss?)</i>",
+                    "„Wir werden obsiegen.“\n<i>(Protoss anschließen?)</i>",
+                    "«Prevaleceremos».\n<i>(¿Te unes a los protoss?)</i>.",
+                    "\"Prevaleceremos\".\n<i>(¿Deseas unirte a los protoss?)</i>",
+                    "« Nous vaincrons. »\n<i>(Rejoindre les Protoss ?)</i>",
+                    "\"Noi prevarremo.\"\n<i>(Vuoi unirti ai Protoss?)</i>",
+                    "「我々の勝利は確実だ」\n<i>（プロトスに加わる？）</i>",
+                    "\"반드시 승리하리라.\"\n<i>(프로토스에 합류할까요?)</i>",
+                    "„Zwyciężymy”.\n<i>(Dołączasz do protosów?)</i>",
+                    "\"Nós venceremos.\"\n<i>(Juntar-se aos protoss?)</i>",
+                    "«Враги падут».\n<i>(Присоединиться к протоссам?)</i>",
+                    "\"เราจะต้องชนะ\"\n<i>(ร่วมฝ่ายโพรทอสส์ไหม)</i>",
+                    "“胜利属于我们。”\n<i>（加入星灵？）</i>",
+                    "「勝利屬於我們。」\n<i>（加入神族嗎？）</i>"
+                ],
+                "m_locId": 2912212
+            },
+            "m_shortConclusion": {
+                "m_locValues": [
+                    "<i>Triumph through sacrifice!</i>",
+                    "<i>Triumph durch Opfer.</i>",
+                    "<i>¡Triunfo por el sacrificio!</i>",
+                    "<i>¡El triunfo a través del sacrificio!</i>",
+                    "<i>Le sacrifice mène au triomphe !</i>",
+                    "<i>Trionfo attraverso il sacrificio!</i>",
+                    "<i>勝利には犠牲がつきもの！</i>",
+                    "<i>희생을 딛고 승리를!</i>",
+                    "<i>Triumf poprzez poświęcenie!</i>",
+                    "<i>Triunfo através do sacrifício.</i>",
+                    "<i>Без жертв не бывает победы!</i>",
+                    "<i>เสียสละเพื่อชัยชนะ!</i>",
+                    "<i>牺牲铸就胜利！</i>",
+                    "<i>沒有犧牲，就沒有勝利！</i>"
+                ],
+                "m_locId": 2912213
+            },
+            "m_longConclusion": {
+                "m_locValues": [
+                    "<i>[x]We march boldly, without fear.\nStrength in unity.\nOur thoughts are one!</i>",
+                    "<i>[x]Wir schreiten furchtlos voran.\nStärke in Einigkeit.\nUnsere Gedanken sind eins!</i>",
+                    "<i>[x]Al frente firmes, sin temor.\nLa unión hace la fuerza.\n¡Nuestros pensamientos son uno!</i>",
+                    "<i>[x]Marchamos con valentía, sin miedo.\nFuerza en la unidad.\n¡Nuestros pensamientos son uno!</i>",
+                    "<i>[x]Nous avançons fièrement et sans peur.\nL’unité fait la force.\nNos esprits ne font qu’un !</i>",
+                    "<i>Marciamo fieri, senza paura.\nNell'unione vi è la forza.\nI nostri pensieri sono un tutt'uno.</i>",
+                    "<i>[x]恐れず、勇気を持って前進だ。\n団結こそ力。\n我らの意思は一つだ！</i>",
+                    "<i>[x]두려워 말고 전진하라.\n뭉치면 강하다.\n우리의 생각은 하나다!</i>",
+                    "<i>[x]Maszerujemy bez strachu.\nW jedności siła.\nNasze myśli są jednością!</i>",
+                    "<i>[x]Eu entendo o que deve ocorrer.\nA união faz a força.\nNossos pensamentos estão em sintonia.</i>",
+                    "<i>[x]Мы не знаем страха.\nНаша сила в единстве.\nВ едином порыве!</i>",
+                    "<i>[x]เราเดินทัพอย่างไร้ความกลัว\nพละกำลังจากการเป็นหนึ่ง\nจิตใจเราเป็นหนึ่งเดียวกัน!</i>",
+                    "<i>[x]勇往直前，无所畏惧。\n凝聚力量。\n我们同心同力！</i>",
+                    "<i>[x]無須懼怕，勇敢向前。\n團結就是力量。\n我等心神合一！</i>"
+                ],
+                "m_locId": 2912214
+            }
+        },
+        {
+            "m_ID": 0,
+            "m_specialEventId": 36,
+            "m_eventRewardTrackId": 119,
+            "m_choiceConfirmationText": {
+                "m_locValues": [
+                    "\"For the Swarm!\"\n<i>(Join Zerg?)</i>",
+                    "„Für den Schwarm!“\n<i>(Zerg anschließen?)</i>",
+                    "«¡Por el Enjambre!».\n<i>(¿Te unes a los zerg?)</i>.",
+                    "\"¡Por el Enjambre!\"\n<i>(¿Deseas unirte a los zerg?)</i>",
+                    "« Pour l’Essaim ! »\n<i>(Rejoindre les Zergs ?)</i>",
+                    "\"Per lo Sciame!\"\n<i>(Vuoi unirti agli Zerg?)</i>",
+                    "「フォー・ザ・スウォーム！」\n<i>（ザーグに加わる？）</i>",
+                    "\"군단을 위하여!\"\n<i>(저그에 합류할까요?)</i>",
+                    "„Za rój!”\n<i>(Dołączasz do zergów?)</i>",
+                    "\"Pelo Enxame!\"\n<i>(Juntar-se aos Zergs?)</i>",
+                    "«Во славу Роя!»\n<i>(Присоединиться к зергам?)</i>",
+                    "\"แด่ฝูง!\"\n<i>(ร่วมฝ่ายเซิร์กไหม)</i>",
+                    "“为了虫群！”\n<i>（加入异虫？）</i>",
+                    "「為了蟲群！」\n<i>（加入蟲族嗎？）</i>"
+                ],
+                "m_locId": 2912215
+            },
+            "m_shortConclusion": {
+                "m_locValues": [
+                    "<i>How...stimulating.</i>",
+                    "<i>Wie ... stimulierend.</i>",
+                    "<i>Qué... estimulante.</i>",
+                    "<i>Qué... estimulante.</i>",
+                    "<i>Stimulant…</i>",
+                    "<i>Stimolante...</i>",
+                    "<i>胸が…躍るわ。</i>",
+                    "<i>참... 자극적이군요.</i>",
+                    "<i>Jakie to… stymulujące.</i>",
+                    "<i>Que... estimulante.</i>",
+                    "<i>Ты меня забавляешь...</i>",
+                    "<i>ช่าง... กระตุ้นหัวใจเสียจริง</i>",
+                    "<i>真是……刺激。</i>",
+                    "<i>真是…刺激。</i>"
+                ],
+                "m_locId": 2912216
+            },
+            "m_longConclusion": {
+                "m_locValues": [
+                    "<i>[x]The outcome was never in question.\nThe Swarm will consume all.\nThe evolution continues.</i>",
+                    "<i>[x]Das Ergebnis wäre immer dasselbe gewesen.\nDer Schwarm wird alles verschlingen.\nDie Evolution schreitet voran.</i>",
+                    "<i>[x]El resultado nunca ha estado en duda.\nEl Enjambre lo consumirá todo.\nLa evolución continúa.</i>",
+                    "<i>[x]El resultado nunca fue puesto en duda.\nEl Enjambre consumirá todo.\nLa evolución continúa.</i>",
+                    "<i>[x]L’issue a toujours été tracée.\nL’Essaim consumera tout.\nL’évolution se poursuit.</i>",
+                    "<i>L'esito non è mai stato in dubbio.\nLo Sciame travolgerà ogni cosa.\nL'evoluzione continua.</i>",
+                    "<i>[x]結果は最初からわかっていた。\nスウォームがすべて食い尽くすわ。\n進化は続く。</i>",
+                    "<i>[x]당연한 결과다.\n군단이 모든 것을 삼키리라.\n진화는 계속된다.</i>",
+                    "<i>[x]To było oczywiste.\nRój pożre wszystko.\nEwolucja trwa.</i>",
+                    "<i>[x]O resultado não está em questão.\nO Enxame consumirá a todos.\nA evolução continua.</i>",
+                    "<i>[x]Исход событий предопределен.\nРой поглотит всех.\nЭволюция продолжается.</i>",
+                    "<i>[x]ผลลัพธ์มีเพียงอย่างเดียวเท่านั้น\nฝูงจะกลืนกินทุกสิ่ง\nวิวัฒนาการต่อเนื่อง</i>",
+                    "<i>[x]结果毫无悬念。\n虫群将吞噬一切。\n进化仍在继续。</i>",
+                    "<i>[x]結局無庸置疑。\n蟲群會吞噬一切。\n進化會持續下去。</i>"
+                ],
+                "m_locId": 2912217
+            }
+        },
+        {
+            "m_ID": 0,
             "m_specialEventId": 4,
             "m_eventRewardTrackId": 45,
             "m_choiceConfirmationText": {
