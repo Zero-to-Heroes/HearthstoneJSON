@@ -2,15 +2,16 @@
 import json
 import os
 import sys
-from argparse import ArgumentParser
-
+import faulthandler; faulthandler.enable()
 import UnityPy
+from argparse import ArgumentParser
+from typing import List, cast, Dict
+
 from PIL import Image, ImageOps
 from UnityPy import Environment
 from UnityPy.enums import ClassIDType
-import faulthandler; faulthandler.enable()
 from UnityPy.helpers import TypeTreeHelper
-from UnityPy.classes import PPtr
+from UnityPy.classes import PPtr, GameObject, ComponentPair, Tuple, Component, MonoBehaviour, Material, UnityPropertySheet, AssetBundle
 
 class Logger(object):
     def __init__(self, logFile):
@@ -29,15 +30,23 @@ class Logger(object):
 
 sys.stdout = Logger("generate_card_textures.log")
 
-# ./generate_audio.py /e/t > out.txt
-def main():
-	p = ArgumentParser()
-	p.add_argument("src")
-	args = p.parse_args(sys.argv[1:])
+class CardTextureInfo:
+	portrait_path: str
+	tile_info: UnityPropertySheet
+ 
+	def __init__(self, portrait_path: str, tile_info: UnityPropertySheet):
+		self.portrait_path = portrait_path
+		self.tile_info = tile_info
 
-	sound_effects = extract_info(args.src)
-	with open('./ref/sound_effects.json', 'w') as resultFile:
-		resultFile.write(json.dumps(sound_effects))
+# ./generate_audio.py /e/t > out.txt
+# def main():
+# 	p = ArgumentParser()
+# 	p.add_argument("src")
+# 	args = p.parse_args(sys.argv[1:])
+
+# 	sound_effects = extract_info(args.src)
+# 	with open('./ref/sound_effects.json', 'w') as resultFile:
+# 		resultFile.write(json.dumps(sound_effects))
 
 def main():
 	TypeTreeHelper.read_typetree_c = False
@@ -57,156 +66,230 @@ def main():
 
 
 def generate_card_textures(src, args):
-	for root, dirs, files in os.walk(src):
-		for file_name in files:
-			# print(f"file_name: {file_name}")
-			# generate file_path
-			file_path = os.path.join(root, file_name)
-			# load that file via UnityPy.load
-			env = UnityPy.load(file_path)
-			for path,obj in env.container.items():
-				# if obj.type.name in ["Texture2D"]:
-				# data = obj.read()
-				# create dest based on original path
-				dest = os.path.join("", *path.split("/"))
-				# correct extension
-				dest, ext = os.path.splitext(dest)
-				dest = dest + ".png"
-				# print(f"\tdest: {dest}, path: {path}, path_id: {obj.path_id}")
+	# for root, dirs, files in os.walk(src):
+	# 	for file_name in files:
+	# 		# print(f"file_name: {file_name}")
+	# 		# generate file_path
+	# 		file_path = os.path.join(root, file_name)
+	# 		# load that file via UnityPy.load
+	# 		env = UnityPy.load(file_path)
+	# 		for path,obj in env.container.items():
+	# 			# if obj.type.name in ["Texture2D"]:
+	# 			# data = obj.read()
+	# 			# create dest based on original path
+	# 			dest = os.path.join("", *path.split("/"))
+	# 			# correct extension
+	# 			dest, ext = os.path.splitext(dest)
+	# 			dest = dest + ".png"
+	# 			# print(f"\tdest: {dest}, path: {path}, path_id: {obj.path_id}")
+ 
+ 
+	env: Environment = UnityPy.load(src)
+	cards_map = build_cards_map(env)
+	print("cards_map: %s" % len(cards_map))
+	# print("cards_map: %s" % cards_map)
+	textures_map = build_textures_map(env)
+	print("textures_map: %s" % len(textures_map))
+	cards_info: Dict[str, CardTextureInfo] = build_cards_info(env, cards_map)
+	print("cards_info: %s" % len(cards_info))
 
-	cards, textures, env = extract_info(src)
-	paths = [card["path"] for card in cards.values()]
+	paths = [card.portrait_path for card in cards_info.values()]
 	print("Found %i cards, %i textures including %i unique in use." % (
-		len(cards), len(textures), len(set(paths))
+		len(cards_map), len(textures_map), len(set(paths))
 	))
 
 	thumb_sizes = (256, 512)
-	for id, values in sorted(cards.items()):
-		path = values["path"]
+	for card_id, texture_info in cards_info.items():
 		try:
-			do_texture(env, path, id, textures, values, thumb_sizes, args)
+			# print("processing %r (%r)" % (texture_info, card_id))
+			do_texture(env, card_id, texture_info, textures_map, thumb_sizes, args)
 		except Exception as e:
-			sys.stderr.write("ERROR on %r (%r): %s\n" % (path, id, e))
+			sys.stderr.write("ERROR on %r (%r): %s\n" % (texture_info, card_id, e))
 			raise
 
 
-def extract_info(src):
+def build_cards_map(env: Environment) -> Dict[str, str]:
+	for obj in env.objects:
+		if obj.type == ClassIDType.MonoBehaviour:
+			dataM: MonoBehaviour = cast(MonoBehaviour, obj.read())
+			if dataM.m_Name == "cards_map":
+				tree = dataM.map
+				keys = tree.keys
+				values = tree.values
+				print("keys: %s" % len(keys))
+				print("values: %s" % len(values))
+				# Build a dictionary of key => prefabid
+				cards_map = {}
+				for cardid, value in zip(keys, values):
+					# if cardid != "SC_004":
+					# 	continue
+					# Only keep the id of the prefab, which means what is after prefab:
+					asset_id = value.split("prefab:")[1]
+					cards_map[cardid] = asset_id
+				return cards_map
+				
+    
+def build_textures_map(env: Environment) -> Dict[str, PPtr]:
 	textures = {}
-	cards = {}
-
-	env = UnityPy.load(src)
-
-	for path,obj in env.container.items():
-		if obj.type.name in ["Texture2D"]:
-			
-			# data = obj.read()
-			# create dest based on original path
-			dest = os.path.join("", *path.split("/"))
-			# correct extension
-			dest, ext = os.path.splitext(dest)
-			dest = dest + ".png"
-			# print(f"dest: {dest}, path: {path}, path_id: {obj.path_id}")
-
-	handle_asset(env, textures)
-	handle_gameobject(env, cards)
-
-	return cards, textures, env
-
-
-def handle_asset(env, textures):
 	for obj in env.objects:
 		if obj.type == ClassIDType.AssetBundle:
-			data = obj.read()
+			data = cast(AssetBundle, obj.read())
 			container = data.m_Container
-			for path, asset in container.items():
+			for path, asset in container:
 				textures[path] = asset.asset
+	return textures
 
 
-def handle_gameobject(asset: Environment, cards):
-	for obj in asset.objects:
-		# continue
-		cardid = ''
-		# try:
-		if obj.type == ClassIDType.GameObject:
-			data = obj.read()	
-			cardid = data.name
-
-			# if cardid != "TTN_469" and cardid != "TTN_078":
-			# 	continue
-
-			# json.dump(data, sys.stdout, ensure_ascii = False, indent = 4)
-			# print("cardid: %s" % cardid)
-			if len(data.m_Components) < 2:
-				continue
-
-			carddef = data.m_Components[1].read()
-			# print("carddef.type %s" % (type(carddef).__name__))
-			if type(carddef).__name__ == "NodeHelper":
-				# print("skipping %s" % (cardid))
-				continue
-
-			path = carddef.get("m_PortraitTexturePath")
-			if not path:
+def build_cards_info(env: Environment, cards_map: Dict[str, CardTextureInfo]):
+	cards = {}
+	current_card_idx = 0
+	# Iterate over the cards map
+	for cardid, prefabid in cards_map.items():
+		# if len(cards) > 50:
+		# 	break
+		if not cardid.startswith("SC_"):
+			continue
+		# if cardid != "SC_004":
+		# 	continue
+		prefab_pptr = env.container[prefabid]
+		# print("card %s: %s, prefabid: %s, prefab_info: %s" % (current_card_idx, cardid, prefabid, prefab_pptr))
+		current_card_idx += 1
+		prefab = cast(GameObject, prefab_pptr.read())
+		components = cast(List[ComponentPair], prefab.m_Component)
+		# Find the component that is a monobehavior
+		for component in components:
+			# print("component: %s" % component)
+			component_pptr = component.component
+			if component_pptr.type.name == "MonoBehaviour":
+				# monobehavior_data = component_pptr.deref()
+				# card_def = monobehavior_data.read_typetree()
+				# json.dump(card_def, sys.stdout, ensure_ascii = False, indent = 4)
+				monobehavior = component_pptr.read()
 				# Sometimes there's multiple per cardid, we remove the ones without art
+				if not hasattr(monobehavior, "m_PortraitTexturePath"):
+					print("\tskipping %s, no m_PortraitTexturePath" % cardid)
+					continue
+				portrait_path = monobehavior.__getattribute__("m_PortraitTexturePath")
+				if ":" in portrait_path:
+					portrait_path = portrait_path.split(":")[1]
+				if len(portrait_path) == 0:
+					print("\tskipping %s, portrait_path is empty" % cardid)
+					continue
+				# print("portrait_path: %s" % portrait_path)
+				tile_ptr: PPtr = monobehavior.__getattribute__("m_DeckCardBarPortrait")
+				tile: Material = None if tile_ptr.path_id == 0 else tile_ptr.read()
+				# print("tile: %s" % tile)
+				tile_info = None if tile == None else tile.m_SavedProperties
+				# print("tile_info: %s" % tile_info)
+				texture_info: CardTextureInfo = CardTextureInfo(
+					portrait_path = portrait_path.lower(),
+					tile_info = tile_info,
+				)
+				cards[cardid] = texture_info
+
+	return cards
+
+
+def do_texture(env: Environment, card_id: str, texture_info: CardTextureInfo, textures: Dict[str, PPtr], thumb_sizes, args):
+	try:
+		texture_pptr = textures[texture_info.portrait_path]	
+		# print("texture_pptr: %s" % texture_pptr)
+		texture = texture_pptr.read()
+		# print("texture: %s" % texture)
+		flipped = None
+		filename, exists = get_filename(args.outdir, args.orig_dir, card_id, ext=".png")
+
+		if not (args.skip_existing and exists):
+			print("-> %r" % (filename))
+			flipped = ImageOps.scale(texture.image, 1).convert("RGB")
+			flipped.save(filename)
+
+		for format in args.formats:
+			ext = "." + format
+			filename, exists = get_filename(args.outdir, args.tiles_dir, card_id, ext=ext)
+			if not (args.skip_existing and exists):
+				print("will build texture for %r" % (filename))
+				if not texture.image:
+					print("texture has no image")
+				tile_texture = generate_tile_image(env, texture.image, texture_info.tile_info)
+				if not tile_texture:
+					print("could not generate tile texture %s" % card_id)
+					continue
+				print("-> %r" % (filename))
+				tile_texture.save(filename)
+					
+
+			if ext == ".png":
+				# skip png generation for thumbnails
 				continue
 
-			if ":" in path:
-				guid = path.split(":")[1]
-				path = guid
+			for sz in thumb_sizes:
+				thumb_dir = "%ix" % (sz)
+				filename, exists = get_filename(args.outdir, thumb_dir, card_id, ext=ext)
+				if not (args.skip_existing and exists):
+					if not flipped:
+						flipped = ImageOps.scale(texture.image, 1).convert("RGB")
+					thumb_texture = flipped.resize((sz, sz))
+					print("-> %r" % (filename))
+					thumb_texture.save(filename)
+	except Exception as e:
+		print("ERROR on %r (%r): %s" % (texture_info, card_id, e))
+        
 
-			# print("carddef: %s" % carddef)
-			tile = carddef.get("m_DeckCardBarPortrait")
-			# print("tile prop: %s" % tile)
-			if tile:
-				tile = tile.read()
-				if not tile:
-					raise TypeError("could not read tile")
-			# else:
-			# 	raise TypeError("stopping")
 
+def generate_tile_image(env: Environment, img, tile_info):
+	if tile_info is None:
+		return None
+    
+	if (img.width, img.height) != (512, 512):
+		img = img.resize((512, 512), Image.ANTIALIAS)
 
-			# print("tile obj: %s" % tile)
-			# print("building tile for %s" % cardid)
-			# json.dump(tile, sys.stdout, ensure_ascii = False, indent = 4)
-			tileInfo = {}
-			try:
-				tileInfo = tile.get("m_SavedProperties")
-			except:
-				print("could not get tileInfo for %s" % cardid)
+	# tile the image horizontally (x2 is enough),
+	# some cards need to wrap around to create a bar (e.g. Muster for Battle),
+	# also discard alpha channel (e.g. Soulfire, Mortal Coil)
+	tiled = Image.new("RGB", (img.width * 2, img.height))
+	tiled.paste(img, (0, 0))
+	tiled.paste(img, (img.width, 0))
 
-			cards[cardid] = {
-				"path": path.lower(),
-				"tile": tileInfo,
-			}
-			# print("built tile for %s" % cards[cardid])
-			# m_tex: PPtr = cards[cardid]['tile'].m_TexEnvs[''].m_Texture
-			# print(f"search file name: {os.path.basename(m_tex.external_name.lower())}, from {m_tex.assets_file}")
-			# file = m_tex.assets_file.environment.cabs.get(m_tex.external_name.lower())
-			# print(f"m_tex: file_id: {m_tex.file_id}, assets_file: {m_tex.assets_file}, path_id: {m_tex.path_id}, type: {m_tex.type}, external_name: {m_tex.external_name}, index: {m_tex.index}, dict: {m_tex.__dict__}")
-			# print("m_Texture: %s" % m_tex)
-			# print(f"found file: {file}")
-			# build a list of all the objects contained in the cab file
-			# objects: dict = {}
-			# for cab in asset.cabs.values():
-			# 	# print(f"cab: {cab}")
-			# 	try:
-			# 		cabObjects: dict = cab.objects
-			# 		objects.update(cabObjects)
-			# 	except:
-			# 		continue
-			# cabFile = asset.cabs.get(m_tex.external_name.lower())
-			# print(f"found cabFile: {cabFile}")
-			# # print(f"found cabFile.objects: {cabFile.objects}, {m_tex.path_id}")
-			# # print(f"all objects: {objects}")
-			# obj = cabFile.objects[m_tex.path_id]
-			# print(f"found obj: {obj}")
-			# read = obj.read()
-			# print(f"found read: {read}")
-		# except Exception as e:
-		# 	with open("error_asset", "wb") as f:
-		# 		f.write(obj.assets_file.save())
-		# 	print(f"ERROR for {cardid}")
-		# 	print(e)
+	# print("tile: %s" % tile_info)
+	# props = (-0.13, 0.13, 1, 1, 0, 0, 1.1, img.width)
+	props = (-0.2, 0.25, 1, 1, 0, 0, 1, img.width)
+	# TODO: fix this
+	# if tile:
+	# 	print("texEnvs: %s" % tile.m_TexEnvs)
+	# 	print("texEnvs 2: %s" % tile.m_TexEnvs[''])
+	# 	texEnvs = tile.m_TexEnvs['']
+	# 	m_Texture: PPtr = texEnvs.m_Texture
+	# 	tex = m_Texture.read()
+	# 	print("m_Texture: %s" % m_Texture)
+	# 	m_Offset = texEnvs.m_Offset
+	# 	print("m_Offset: %s" % m_Offset)
+	# 	m_Scale = texEnvs.m_Scale
+	# 	print("m_Scale: %s" % m_Scale)
+	# 	m_Floats = tile.m_Floats
+	# 	print("m_Floats: %s" % m_Floats)
+	# 	print("tex: %s" % tex)
+	# 	props = (
+	# 		tile.m_TexEnvs["_MainTex"].m_Offset.X,
+	# 		tile.m_TexEnvs["_MainTex"].m_Offset.Y,
+	# 		tile.m_TexEnvs["_MainTex"].m_Scale.X,
+	# 		tile.m_TexEnvs["_MainTex"].m_Scale.Y,
+	# 		tile.m_Floats.get("_OffsetX", 0.0),
+	# 		tile.m_Floats.get("_OffsetY", 0.0),
+	# 		tile.m_Floats.get("_Scale", 1.0),
+	# 		img.width
+	# 	)
+		# print("tile props: %s" % (props,))
+
+	x, y, width, height = get_rect(*props)
+	# print("x: %s, y: %s, width: %s, height: %s" % (x, y, width, height))
+	bar = ImageOps.flip(tiled).crop((x, y, x + width, y + height))
+	bar = ImageOps.flip(bar)
+	# negative x scale means horizontal flip
+	if props[2] < 0:
+		bar = ImageOps.mirror(bar)
+
+	return bar.resize((OUT_WIDTH, OUT_HEIGHT), Image.LANCZOS)
 
 
 # Deck tile generation
@@ -253,58 +336,6 @@ def get_rect(ux, uy, usx, usy, sx, sy, ss, tex_dim=512):
 	return (x, y, width, height)
 
 
-def generate_tile_image(env: Environment, img, tile):
-	if (img.width, img.height) != (512, 512):
-		img = img.resize((512, 512), Image.ANTIALIAS)
-
-	# tile the image horizontally (x2 is enough),
-	# some cards need to wrap around to create a bar (e.g. Muster for Battle),
-	# also discard alpha channel (e.g. Soulfire, Mortal Coil)
-	tiled = Image.new("RGB", (img.width * 2, img.height))
-	tiled.paste(img, (0, 0))
-	tiled.paste(img, (img.width, 0))
-
-	print("tile: %s" % tile)
-	# props = (-0.13, 0.13, 1, 1, 0, 0, 1.1, img.width)
-	props = (-0.2, 0.25, 1, 1, 0, 0, 1, img.width)
-	# TODO: fix this
-	# if tile:
-	# 	print("texEnvs: %s" % tile.m_TexEnvs)
-	# 	print("texEnvs 2: %s" % tile.m_TexEnvs[''])
-	# 	texEnvs = tile.m_TexEnvs['']
-	# 	m_Texture: PPtr = texEnvs.m_Texture
-	# 	tex = m_Texture.read()
-	# 	print("m_Texture: %s" % m_Texture)
-	# 	m_Offset = texEnvs.m_Offset
-	# 	print("m_Offset: %s" % m_Offset)
-	# 	m_Scale = texEnvs.m_Scale
-	# 	print("m_Scale: %s" % m_Scale)
-	# 	m_Floats = tile.m_Floats
-	# 	print("m_Floats: %s" % m_Floats)
-	# 	print("tex: %s" % tex)
-	# 	props = (
-	# 		tile.m_TexEnvs["_MainTex"].m_Offset.X,
-	# 		tile.m_TexEnvs["_MainTex"].m_Offset.Y,
-	# 		tile.m_TexEnvs["_MainTex"].m_Scale.X,
-	# 		tile.m_TexEnvs["_MainTex"].m_Scale.Y,
-	# 		tile.m_Floats.get("_OffsetX", 0.0),
-	# 		tile.m_Floats.get("_OffsetY", 0.0),
-	# 		tile.m_Floats.get("_Scale", 1.0),
-	# 		img.width
-	# 	)
-		# print("tile props: %s" % (props,))
-
-	x, y, width, height = get_rect(*props)
-	# print("x: %s, y: %s, width: %s, height: %s" % (x, y, width, height))
-	bar = ImageOps.flip(tiled).crop((x, y, x + width, y + height))
-	bar = ImageOps.flip(bar)
-	# negative x scale means horizontal flip
-	if props[2] < 0:
-		bar = ImageOps.mirror(bar)
-
-	return bar.resize((OUT_WIDTH, OUT_HEIGHT), Image.LANCZOS)
-
-
 def get_dir(basedir, dirname):
 	ret = os.path.join(basedir, dirname)
 	if not os.path.exists(ret):
@@ -317,50 +348,6 @@ def get_filename(basedir, dirname, name, ext=".png"):
 	filename = name + ext
 	path = os.path.join(dirname, filename)
 	return path, os.path.exists(path)
-
-
-def do_texture(env: Environment, path, id, textures, values, thumb_sizes, args):
-	if not path:
-		return
-
-	if path not in textures:
-		return
-
-	pptr = textures[path]
-	
-	texture = pptr.read()
-	flipped = None
-
-	filename, exists = get_filename(args.outdir, args.orig_dir, id, ext=".png")
-
-	if not (args.skip_existing and exists):
-		print("-> %r" % (filename))
-		flipped = ImageOps.scale(texture.image, 1).convert("RGB")
-		flipped.save(filename)
-
-	for format in args.formats:
-		ext = "." + format
-		filename, exists = get_filename(args.outdir, args.tiles_dir, id, ext=ext)
-		if not (args.skip_existing and exists):
-			print("will build texture for %r" % (filename))
-			tile_texture = generate_tile_image(env, texture.image, values["tile"])
-			print("-> %r" % (filename))
-			tile_texture.save(filename)
-				
-
-		if ext == ".png":
-			# skip png generation for thumbnails
-			continue
-
-		for sz in thumb_sizes:
-			thumb_dir = "%ix" % (sz)
-			filename, exists = get_filename(args.outdir, thumb_dir, id, ext=ext)
-			if not (args.skip_existing and exists):
-				if not flipped:
-					flipped = ImageOps.scale(texture.image, 1).convert("RGB")
-				thumb_texture = flipped.resize((sz, sz))
-				print("-> %r" % (filename))
-				thumb_texture.save(filename)
 
 
 
