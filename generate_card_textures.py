@@ -48,6 +48,7 @@ class CardTextureInfo:
 # 	with open('./ref/sound_effects.json', 'w') as resultFile:
 # 		resultFile.write(json.dumps(sound_effects))
 
+# ./generate_card_textures.py --outdir out --tiles-dir tiles --skip-existing /e/Games/Hearthstone/Data/Win
 def main():
 	TypeTreeHelper.read_typetree_c = False
 
@@ -65,29 +66,13 @@ def main():
 	generate_card_textures(args.src, args)
 
 
-def generate_card_textures(src, args):
-	# for root, dirs, files in os.walk(src):
-	# 	for file_name in files:
-	# 		# print(f"file_name: {file_name}")
-	# 		# generate file_path
-	# 		file_path = os.path.join(root, file_name)
-	# 		# load that file via UnityPy.load
-	# 		env = UnityPy.load(file_path)
-	# 		for path,obj in env.container.items():
-	# 			# if obj.type.name in ["Texture2D"]:
-	# 			# data = obj.read()
-	# 			# create dest based on original path
-	# 			dest = os.path.join("", *path.split("/"))
-	# 			# correct extension
-	# 			dest, ext = os.path.splitext(dest)
-	# 			dest = dest + ".png"
-	# 			# print(f"\tdest: {dest}, path: {path}, path_id: {obj.path_id}")
- 
- 
+def generate_card_textures(src, args): 
+	print("Loading environment")
 	env: Environment = UnityPy.load(src)
+	print("Building cards_map")
 	cards_map = build_cards_map(env)
 	print("cards_map: %s" % len(cards_map))
-	# print("cards_map: %s" % cards_map)
+	# json.dump(cards_map, sys.stdout, ensure_ascii = False, indent = 4)
 	textures_map = build_textures_map(env)
 	print("textures_map: %s" % len(textures_map))
 	cards_info: Dict[str, CardTextureInfo] = build_cards_info(env, cards_map)
@@ -140,19 +125,17 @@ def build_textures_map(env: Environment) -> Dict[str, PPtr]:
 	return textures
 
 
-def build_cards_info(env: Environment, cards_map: Dict[str, CardTextureInfo]):
+def build_cards_info(env: Environment, cards_map: Dict[str, str]):
 	cards = {}
 	current_card_idx = 0
 	# Iterate over the cards map
 	for cardid, prefabid in cards_map.items():
-		# if len(cards) > 50:
-		# 	break
-		if not cardid.startswith("SC_"):
-			continue
-		# if cardid != "SC_004":
+		# if cardid != "HERO_02bb":
+		# 	continue
+		# if current_card_idx < 7760:
 		# 	continue
 		prefab_pptr = env.container[prefabid]
-		# print("card %s: %s, prefabid: %s, prefab_info: %s" % (current_card_idx, cardid, prefabid, prefab_pptr))
+		print("card %s: %s, prefabid: %s, prefab_info: %s" % (current_card_idx, cardid, prefabid, prefab_pptr))
 		current_card_idx += 1
 		prefab = cast(GameObject, prefab_pptr.read())
 		components = cast(List[ComponentPair], prefab.m_Component)
@@ -160,23 +143,23 @@ def build_cards_info(env: Environment, cards_map: Dict[str, CardTextureInfo]):
 		for component in components:
 			# print("component: %s" % component)
 			component_pptr = component.component
+			# print("component_pptr: %s" % component_pptr)
 			if component_pptr.type.name == "MonoBehaviour":
-				# monobehavior_data = component_pptr.deref()
-				# card_def = monobehavior_data.read_typetree()
-				# json.dump(card_def, sys.stdout, ensure_ascii = False, indent = 4)
-				monobehavior = component_pptr.read()
+				card_def = component_pptr.read()
+				# print("card_def: %s" % card_def)
 				# Sometimes there's multiple per cardid, we remove the ones without art
-				if not hasattr(monobehavior, "m_PortraitTexturePath"):
+				if not hasattr(card_def, "m_PortraitTexturePath"):
 					print("\tskipping %s, no m_PortraitTexturePath" % cardid)
 					continue
-				portrait_path = monobehavior.__getattribute__("m_PortraitTexturePath")
+				portrait_path = card_def.__getattribute__("m_PortraitTexturePath")
 				if ":" in portrait_path:
 					portrait_path = portrait_path.split(":")[1]
 				if len(portrait_path) == 0:
 					print("\tskipping %s, portrait_path is empty" % cardid)
 					continue
 				# print("portrait_path: %s" % portrait_path)
-				tile_ptr: PPtr = monobehavior.__getattribute__("m_DeckCardBarPortrait")
+				tile_ptr: PPtr = card_def.__getattribute__("m_DeckCardBarPortrait")
+				# print("tile_ptr: %s" % tile_ptr)
 				tile: Material = None if tile_ptr.path_id == 0 else tile_ptr.read()
 				# print("tile: %s" % tile)
 				tile_info = None if tile == None else tile.m_SavedProperties
@@ -214,9 +197,10 @@ def do_texture(env: Environment, card_id: str, texture_info: CardTextureInfo, te
 				tile_texture = generate_tile_image(env, texture.image, texture_info.tile_info)
 				if not tile_texture:
 					print("could not generate tile texture %s" % card_id)
-					continue
-				print("-> %r" % (filename))
-				tile_texture.save(filename)
+					# Some hero skins have no tiles, but still have the thumb
+				else:
+					print("-> %r" % (filename))
+					tile_texture.save(filename)
 					
 
 			if ext == ".png":

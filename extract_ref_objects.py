@@ -225,80 +225,73 @@ def extract_ref_objects(src):
 	for root, dirs, files in os.walk(src):
 		for file_name in files:
 			file_path = os.path.join(root, file_name)
-			try:
-				env = UnityPy.load(file_path)
-				handle_asset(env)
-			except Exception as e:
-				print(f"Error processing {file_path}: {e}")
-				continue
-			
+			print(f"processing file {file_name}")
+			# try:
+			env = UnityPy.load(file_path)
+			handle_asset(env)
+			# except Exception as e:
+			# 	print(f"Error processing {file_path}: {e}")
+			# 	continue
 			
 	with open('.ignored.log', 'w') as resultFile:
 		resultFile.write(json.dumps(ignored))
+	print("done")
 
 
 def handle_asset(env):
-	for path, obj in env.container.items():
-		# if len(nodes_to_parse) == local_state["total_handled"]:
-		# 	return
+	for path, pptr in env.container.items():
+		try:
+			data = pptr.deref()
+			tree = data.read_typetree()
+		except:
+			print("could not read %s" % path)
+			continue
 
-		if obj.serialized_type.nodes:
-			# save decoded data
-			try:
-				tree = obj.read_typetree()
-			except:
-				print("could not read %s" % obj.type)
-				continue
+		# continue
 
-			if "m_Name" in tree and tree["m_Name"] is not "":
-				if (tree["m_Name"] == tree["m_Name"].upper()) and tree["m_Name"] not in nodes_to_parse:
-					# Only add it if it doesn't start with VO_
-					if not tree["m_Name"].startswith("VO_"):
-						ignored.append(tree["m_Name"])
+		# name = tree["m_Name"]
+		# print(f"processing {name}, {path}")
+		if "m_Name" in tree and tree["m_Name"] is not "":
+			if (tree["m_Name"] == tree["m_Name"].upper()) and tree["m_Name"] not in nodes_to_parse:
+				# Only add it if it doesn't start with VO_
+				if not tree["m_Name"].startswith("VO_"):
+					ignored.append(tree["m_Name"])
 					# print("ignoring %s" % tree["m_Name"])
 
-				# if ("Event" in tree["m_Name"]) and tree["m_Name"] not in nodes_to_parse:
-				# 	print("ignoring %s" % tree["m_Name"])
-				# if tree["m_Name"] in ["EventMap"]:
-				# 	print("parsing %s, %s" % (tree["m_Name"], path))
-				# 	fp = os.path.join(f"ref/objects", f"EventMap.json")
-				# 	with open(fp, "wt", encoding = "utf8") as f:
-				# 		json.dump(tree, f, ensure_ascii = False, indent = 4)
+			# Has some data, but not everything (eg cost is not there, neither is collectible attribute)
+			if tree["m_Name"] in nodes_to_parse:
+				print("parsing %s, %s" % (tree["m_Name"], path))
+				# print("path %s" % path)
+				name = tree["m_Name"]
+				currentLoc = ''
+				for loc in locales:
+					if loc.lower() in path.lower():
+						currentLoc = "-" + loc
+				locName = name + currentLoc
 
-				# Has some data, but not everything (eg cost is not there, neither is collectible attribute)
-				if tree["m_Name"] in nodes_to_parse:
-					print("parsing %s, %s" % (tree["m_Name"], path))
-					# print("path %s" % path)
-					name = tree["m_Name"]
-					currentLoc = ''
-					for loc in locales:
-						if loc.lower() in path.lower():
-							currentLoc = "-" + loc
-					locName = name + currentLoc
+				# local_state["total_handled"] = local_state["total_handled"] + 1
+				try:
+					# Only save the data if it has records
+					tree["Records"]
+				except:
+					print("no records for %s" % tree["m_Name"])
+					if tree["m_Name"] not in ["EventMap"]:
+						continue	
 
-					# local_state["total_handled"] = local_state["total_handled"] + 1
-					try:
-						# Only save the data if it has records
-						tree["Records"]
-					except:
-						print("no records for %s" % tree["m_Name"])
-						if tree["m_Name"] not in ["EventMap"]:
-							continue	
+				# print("\tprocessing")
+				# Not sure why, but if you don't do this you end up with read errors. Maybe the tree needs to be
+				# fully traversed first so that references are resolved or something?
+				# output = yaml.dump(d)
+				fp = os.path.join(f"ref/objects", f"{locName}.json")
+				with open(fp, "wt", encoding = "utf8") as f:
+					json.dump(tree, f, ensure_ascii = False, indent = 4)
 
-					# print("\tprocessing")
-					# Not sure why, but if you don't do this you end up with read errors. Maybe the tree needs to be
-					# fully traversed first so that references are resolved or something?
-					# output = yaml.dump(d)
-					fp = os.path.join(f"ref/objects", f"{locName}.json")
+				# Store the reference (enUS) without the loc suffix, so that we only explicitly support locs if we want to
+				# print("is ref? %s, %s" % (currentLoc.lower(), currentLoc.lower() == "enus"))
+				if currentLoc.lower() == "enus":
+					fp = os.path.join(f"ref/objects", f"{name}.json")
 					with open(fp, "wt", encoding = "utf8") as f:
 						json.dump(tree, f, ensure_ascii = False, indent = 4)
-
-					# Store the reference (enUS) without the loc suffix, so that we only explicitly support locs if we want to
-					# print("is ref? %s, %s" % (currentLoc.lower(), currentLoc.lower() == "enus"))
-					if currentLoc.lower() == "enus":
-						fp = os.path.join(f"ref/objects", f"{name}.json")
-						with open(fp, "wt", encoding = "utf8") as f:
-							json.dump(tree, f, ensure_ascii = False, indent = 4)
 
 
 
