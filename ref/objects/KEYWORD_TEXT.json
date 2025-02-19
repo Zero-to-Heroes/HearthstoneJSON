@@ -1355,6 +1355,18 @@
             "m_tooltipInitOrder": 10004
         },
         {
+            "m_ID": 319,
+            "m_noteDesc": "Dark Gift",
+            "m_tagId": 3627,
+            "m_name": "GLOBAL_KEYWORD_DARKGIFT",
+            "m_text": "GLOBAL_KEYWORD_DARKGIFT_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_DARKGIFT_TEXT",
+            "m_collectionText": "",
+            "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
+            "m_tooltipInitOrder": 181000
+        },
+        {
             "m_ID": 32,
             "m_noteDesc": "Poisonous\n",
             "m_tagId": 363,
@@ -1509,6 +1521,54 @@
             "m_isCollectionOnly": 0,
             "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 2000
+        },
+        {
+            "m_ID": 352,
+            "m_noteDesc": "This tooltip is generated in code, the entry here exists to set sort order and link to the correct tag",
+            "m_tagId": 3880,
+            "m_name": "",
+            "m_text": "",
+            "m_refText": "",
+            "m_collectionText": "",
+            "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
+            "m_tooltipInitOrder": 9750
+        },
+        {
+            "m_ID": 353,
+            "m_noteDesc": "Yamato Cannon",
+            "m_tagId": 4061,
+            "m_name": "GLOBAL_KEYWORD_YAMATO_CANNON",
+            "m_text": "GLOBAL_KEYWORD_YAMATO_CANNON_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_YAMATO_CANNON_TEXT",
+            "m_collectionText": "",
+            "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
+            "m_tooltipInitOrder": 93500
+        },
+        {
+            "m_ID": 354,
+            "m_noteDesc": "Advanced Ballistics",
+            "m_tagId": 4062,
+            "m_name": "GLOBAL_KEYWORD_ADVANCED_BALLISTICS",
+            "m_text": "GLOBAL_KEYWORD_ADVANCED_BALLISTICS_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_ADVANCED_BALLISTICS_TEXT",
+            "m_collectionText": "",
+            "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
+            "m_tooltipInitOrder": 93510
+        },
+        {
+            "m_ID": 355,
+            "m_noteDesc": "Caduceus Reactor",
+            "m_tagId": 4063,
+            "m_name": "GLOBAL_KEYWORD_CADUCEUS_REACTOR",
+            "m_text": "GLOBAL_KEYWORD_CADUCEUS_REACTOR_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_CADUCEUS_REACTOR_TEXT",
+            "m_collectionText": "",
+            "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
+            "m_tooltipInitOrder": 93520
         },
         {
             "m_ID": 36,

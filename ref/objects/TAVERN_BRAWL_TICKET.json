@@ -37,32 +37,6 @@
             "m_ticketBehaviorType": 0
         },
         {
-            "m_ID": 1,
-            "m_noteDesc": "Heroic Brawl Ticket",
-            "m_canBeOwned": 1,
-            "m_canBePurchased": 1,
-            "m_storeName": {
-                "m_locValues": [
-                    "Heroic Brawl Ticket",
-                    "Zugang zum heroischen Kartenchaos",
-                    "Acceso a la pelea heroica",
-                    "Entrada para gresca heroica",
-                    "Billet pour Bras de fer héroïque",
-                    "Biglietto Rissa Eroica",
-                    "ヒロイック喧嘩チケット",
-                    "영웅 난이도 난투 입장권",
-                    "Wstęp na Heroiczną Bójkę",
-                    "Ingresso de Contenda Heroica",
-                    "Билет на героическую потасовку",
-                    "ตั๋วเกมท้าประลองระดับฮีโร่",
-                    "英雄乱斗入场券",
-                    "英雄大亂鬥門票"
-                ],
-                "m_locId": 78780
-            },
-            "m_ticketBehaviorType": 0
-        },
-        {
             "m_ID": 12,
             "m_noteDesc": "Arena Ticket",
             "m_canBeOwned": 1,
@@ -87,6 +61,32 @@
                 "m_locId": 0
             },
             "m_ticketBehaviorType": 1
+        },
+        {
+            "m_ID": 1,
+            "m_noteDesc": "Heroic Brawl Ticket",
+            "m_canBeOwned": 1,
+            "m_canBePurchased": 1,
+            "m_storeName": {
+                "m_locValues": [
+                    "Heroic Brawl Ticket",
+                    "Zugang zum heroischen Kartenchaos",
+                    "Acceso a la pelea heroica",
+                    "Entrada para gresca heroica",
+                    "Billet pour Bras de fer héroïque",
+                    "Biglietto Rissa Eroica",
+                    "ヒロイック喧嘩チケット",
+                    "영웅 난이도 난투 입장권",
+                    "Wstęp na Heroiczną Bójkę",
+                    "Ingresso de Contenda Heroica",
+                    "Билет на героическую потасовку",
+                    "ตั๋วเกมท้าประลองระดับฮีโร่",
+                    "英雄乱斗入场券",
+                    "英雄大亂鬥門票"
+                ],
+                "m_locId": 78780
+            },
+            "m_ticketBehaviorType": 0
         },
         {
             "m_ID": 5,

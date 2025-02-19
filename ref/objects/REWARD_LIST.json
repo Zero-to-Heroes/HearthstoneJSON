@@ -30426,7 +30426,7 @@
                     "Legendäre Karte Bob der Braumeister (nicht herstellbar), 1x Schlachtfeldmarke",
                     "Bob el Posadero (legendaria, no se puede crear), 1x ficha de Campos de batalla",
                     "Bob, el cantinero (legendaria no creable), 1 ficha de Campos de batalla",
-                    "Carte légendaire Bob le barman (impossible à créer), Jeton de champs de bataille ×1",
+                    "Carte légendaire Bob le barman (impossible à créer), jeton de champs de bataille ×1",
                     "Barista Bob (Leggendaria vincolata), 1 Gettone della Battaglia",
                     "バーテンダーのボブ（作成不能レジェンド）、バトルグラウンド・トークンx1",
                     "바텐더 밥 (제작 불가 전설 카드), 전장 토큰 1개",
@@ -30474,7 +30474,7 @@
                     "1x Packung – Die Großen Dunklen Weiten, 1x Schlachtfeldmarke",
                     "1x sobre de La Gran Oscuridad, 1x ficha de Campos de batalla",
                     "1 paquete de La Gran Oscuridad, 1 ficha de Campos de batalla",
-                    "Paquet de La Ténèbre de l’Au-delà ×1, Jeton de champs de bataille ×1",
+                    "Paquet de La Ténèbre de l’Au-delà ×1, jeton de champs de bataille ×1",
                     "1 busta di La Grande Oscurità, 1 Gettone della Battaglia",
                     "「暗黒宇宙ドラナイ伝」パックx1、バトルグラウンド・トークンx1",
                     "끝없는 어둠 팩 1개, 전장 토큰 1개",
@@ -30498,7 +30498,7 @@
                     "2x Packungen – Die Großen Dunklen Weiten, 1x Schlachtfeldmarke",
                     "2x sobre de La Gran Oscuridad, 1x ficha de Campos de batalla",
                     "2 paquetes de La Gran Oscuridad, 1 ficha de Campos de batalla",
-                    "Paquets de La Ténèbre de l’Au-delà ×2, Jeton de champs de bataille ×1",
+                    "Paquet de La Ténèbre de l’Au-delà ×2, jeton de champs de bataille ×1",
                     "2 buste di La Grande Oscurità, 1 Gettone della Battaglia",
                     "「暗黒宇宙ドラナイ伝」パックx2、バトルグラウンド・トークンx1",
                     "끝없는 어둠 팩 2개, 전장 토큰 1개",
@@ -30522,7 +30522,7 @@
                     "Gold. legen. Karte Bob der Braumeister (nicht herstellbar), 4x Packungen – Die Großen Dunklen Weiten, 1x Schlachtfeldmarke",
                     "Bob el Posadero (legendaria dorada, no se puede crear), 4x sobre de La Gran Oscuridad, 1x ficha de Campos de batalla",
                     "Bob, el cantinero (dorada legendaria no creable), 4 paquetes de La Gran Oscuridad, 1 ficha de Campos de batalla",
-                    "Carte légendaire dorée Bob le barman (impossible à créer), Paquets de La Ténèbre de l’Au-delà ×4,\nJeton de champs de bataille ×1",
+                    "Carte légendaire dorée Bob le barman (impossible à créer), paquet de La Ténèbre de l’Au-delà ×4,\njeton de champs de bataille ×1",
                     "Barista Bob (Leggendaria vincolata Dorata), 4 buste di La Grande Oscurità, 1 Gettone della Battaglia",
                     "バーテンダーのボブ（ゴールデン作成不能レジェンド）、「暗黒宇宙ドラナイ伝」パックx4、バトルグラウンド・トークンx1",
                     "바텐더 밥 (황금 제작 불가 전설 카드), 끝없는 어둠 팩 4개, 전장 토큰 1개",
@@ -31304,7 +31304,7 @@
                 "m_locId": 2912435
             },
             "m_chooseOne": 0,
-            "m_locked": 1
+            "m_locked": 0
         },
         {
             "m_ID": 2484,
@@ -31328,31 +31328,31 @@
                 "m_locId": 2912436
             },
             "m_chooseOne": 0,
-            "m_locked": 1
+            "m_locked": 0
         },
         {
             "m_ID": 2486,
             "m_description": {
                 "m_locValues": [
-                    "StarCraft Probe (Rare Emote)",
-                    "Seltenes Emote: StarCraft-Sonde",
-                    "Sonda de StarCraft (frase poco común)",
-                    "Sonda de StarCraft (emoción rara)",
-                    "Sonde de StarCraft (emote rare)",
-                    "Sonda di StarCraft (emote Rara)",
-                    "「スタークラフト」プローブ（レア感情表現）",
-                    "스타크래프트 탐사정 (희귀 감정 표현)",
-                    "Próbnik ze StarCraft (rzadka emotka)",
-                    "Sonda de StarCraft (Expressão Rara)",
-                    "Редкая эмоция «Зонд из StarCraft»",
-                    "แท่นเจาะ StarCraft (การแสดงความรู้สึกระดับหายาก)",
-                    "星际探机（稀有表情）",
-                    "星海爭霸探測機(精良表情符號)"
+                    "StarCraft Probe (Epic Emote)",
+                    "Episches Emote: StarCraft-Sonde",
+                    "Sonda de StarCraft (frase épica)",
+                    "Sonda de StarCraft (emoción épica)",
+                    "Sonde de StarCraft (emote épique)",
+                    "Sonda di StarCraft (emote Epica)",
+                    "「スタークラフト」プローブ（エピック感情表現）",
+                    "스타크래프트 탐사정 (특급 감정 표현)",
+                    "Próbnik ze StarCraft (epicka emotka)",
+                    "Sonda de StarCraft (Expressão Épica)",
+                    "Эпическая реплика «Зонд из StarCraft»",
+                    "แท่นเจาะ StarCraft (การแสดงความรู้สึกระดับสุดยอด)",
+                    "星际探机（史诗表情）",
+                    "星海爭霸探測機(史詩表情符號)"
                 ],
                 "m_locId": 2912437
             },
             "m_chooseOne": 0,
-            "m_locked": 1
+            "m_locked": 0
         },
         {
             "m_ID": 2488,
@@ -31400,7 +31400,7 @@
                 "m_locId": 2912439
             },
             "m_chooseOne": 0,
-            "m_locked": 1
+            "m_locked": 0
         },
         {
             "m_ID": 2490,
@@ -31472,7 +31472,7 @@
                 "m_locId": 2912442
             },
             "m_chooseOne": 0,
-            "m_locked": 1
+            "m_locked": 0
         },
         {
             "m_ID": 2493,
@@ -31496,7 +31496,7 @@
                 "m_locId": 2912443
             },
             "m_chooseOne": 0,
-            "m_locked": 1
+            "m_locked": 0
         },
         {
             "m_ID": 2494,
@@ -31520,7 +31520,7 @@
                 "m_locId": 2912444
             },
             "m_chooseOne": 0,
-            "m_locked": 1
+            "m_locked": 0
         },
         {
             "m_ID": 2495,
@@ -31544,7 +31544,7 @@
                 "m_locId": 2912445
             },
             "m_chooseOne": 0,
-            "m_locked": 1
+            "m_locked": 0
         },
         {
             "m_ID": 2496,
@@ -31568,7 +31568,7 @@
                 "m_locId": 2912446
             },
             "m_chooseOne": 0,
-            "m_locked": 1
+            "m_locked": 0
         },
         {
             "m_ID": 2497,
@@ -31592,7 +31592,7 @@
                 "m_locId": 2912447
             },
             "m_chooseOne": 0,
-            "m_locked": 1
+            "m_locked": 0
         },
         {
             "m_ID": 2498,
@@ -31616,7 +31616,7 @@
                 "m_locId": 2912448
             },
             "m_chooseOne": 0,
-            "m_locked": 1
+            "m_locked": 0
         },
         {
             "m_ID": 2499,
@@ -31712,7 +31712,7 @@
                 "m_locId": 2912450
             },
             "m_chooseOne": 0,
-            "m_locked": 1
+            "m_locked": 0
         },
         {
             "m_ID": 2501,
@@ -31736,31 +31736,31 @@
                 "m_locId": 2912451
             },
             "m_chooseOne": 0,
-            "m_locked": 1
+            "m_locked": 0
         },
         {
             "m_ID": 2502,
             "m_description": {
                 "m_locValues": [
-                    "StarCraft Zergl Rush (Epic Emote)",
-                    "Episches Emote: Zergl-Ansturm (StarCraft)",
-                    "Embestir Zergl de StarCraft (frase épica)",
-                    "Acometida zergl de StarCraft (emoción épica)",
-                    "Ruée zerg de StarCraft (emote épique)",
-                    "Assalto Zergl di StarCraft (emote Epica)",
-                    "「スタークラフト」ザーグル・ラッシュ（エピック感情表現）",
-                    "스타크래프트 저글 러시 (특급 감정 표현)",
-                    "Szturm zerglingów ze StarCraft (epicka emotka)",
-                    "Invasão Zerg de StarCraft (Expressão Épica)",
-                    "Эпическая реплика «Зерг-раш из StarCraft»",
-                    "เซิร์กล็อคบุก StarCraft (การแสดงความรู้สึกระดับสุดยอด)",
-                    "星际虫族速推（史诗表情）",
-                    "星海爭霸蟲族快攻(史詩表情符號)"
+                    "StarCraft Zergl Rush (Rare Emote)",
+                    "Seltenes Emote: Zergl-Ansturm (StarCraft)",
+                    "Avance Zergl de StarCraft (frase poco común)",
+                    "Acometida zergl de StarCraft (emoción rara)",
+                    "Ruée zerg de StarCraft (emote rare)",
+                    "Assalto Zerg di StarCraft (emote Rara)",
+                    "「スタークラフト」ザーグル・ラッシュ（レア感情表現）",
+                    "스타크래프트 저글링 러쉬 (희귀 감정 표현)",
+                    "Szturm zerglingów ze StarCraft (rzadka emotka)",
+                    "Invasão Zerg de StarCraft (Expressão Rara)",
+                    "Редкая реплика «Зерг-раш из StarCraft»",
+                    "เซิร์กล็อคบุก StarCraft (การแสดงความรู้สึกระดับหายาก)",
+                    "星际虫族速推（稀有表情）",
+                    "星海爭霸蟲族快攻(精良表情符號)"
                 ],
                 "m_locId": 2912452
             },
             "m_chooseOne": 0,
-            "m_locked": 1
+            "m_locked": 0
         },
         {
             "m_ID": 2504,
@@ -31784,7 +31784,7 @@
                 "m_locId": 2912453
             },
             "m_chooseOne": 0,
-            "m_locked": 1
+            "m_locked": 0
         },
         {
             "m_ID": 2505,
@@ -31818,7 +31818,7 @@
                     "1x Packung aus Die Großen Dunklen Weiten, 1x Packung aus Gefahr im Paradies",
                     "1x sobre de La Gran Oscuridad, 1x sobre de Peligro en el Paraíso",
                     "1 paquete de La Gran Oscuridad, 1 paquete de Peligros en el Paraíso",
-                    "Paquet de La Ténèbre de l’Au-delà ×1, Paquet de Paradis en péril ×1",
+                    "Paquet de La Ténèbre de l’Au-delà ×1, paquet de Paradis en péril ×1",
                     "1 busta di La Grande Oscurità, 1 busta di Periglio in Paradiso",
                     "「暗黒宇宙ドラナイ伝」パックx1、「大ピンチ！パイレーツ・パラダイス」パックx1",
                     "끝없는 어둠 팩 1개, 극한의 극락 팩 1개",
@@ -31842,7 +31842,7 @@
                     "1x Packung aus Die Großen Dunklen Weiten, 2x Packung aus Gefahr im Paradies",
                     "1x sobre de La Gran Oscuridad, 2x sobre de Peligro en el Paraíso",
                     "1 paquete de La Gran Oscuridad, 2 paquetes de Peligros en el Paraíso",
-                    "Paquet de La Ténèbre de l’Au-delà ×1, Paquet de Paradis en péril ×2",
+                    "Paquet de La Ténèbre de l’Au-delà ×1, paquet de Paradis en péril ×2",
                     "1 busta di La Grande Oscurità, 2 buste di Periglio in Paradiso",
                     "「暗黒宇宙ドラナイ伝」パックx1、「大ピンチ！パイレーツ・パラダイス」パックx2",
                     "끝없는 어둠 팩 1개, 극한의 극락 팩 2개",
@@ -31866,7 +31866,7 @@
                     "2x Packung aus Die Großen Dunklen Weiten, 2x Packung aus Gefahr im Paradies",
                     "2x sobre de La Gran Oscuridad, 2x sobre de Peligro en el Paraíso",
                     "2 paquetes de La Gran Oscuridad, 2 paquetes de Peligros en el Paraíso",
-                    "Paquet de La Ténèbre de l’Au-delà ×2, Paquet de Paradis en péril ×2",
+                    "Paquet de La Ténèbre de l’Au-delà ×2, paquet de Paradis en péril ×2",
                     "2 buste di La Grande Oscurità, 2 buste di Periglio in Paradiso",
                     "「暗黒宇宙ドラナイ伝」パックx2、「大ピンチ！パイレーツ・パラダイス」パックx2",
                     "끝없는 어둠 팩 2개, 극한의 극락 팩 2개",
@@ -31890,7 +31890,7 @@
                     "Thor Thorim – Hearthstone-Heldenskin, 3x Packung aus Die Großen Dunklen Weiten, 1x Standardpackung",
                     "Thorim Thor - Aspecto de héroe de Hearthstone, 3x sobre de La Gran Oscuridad, 1x sobre estándar",
                     "Diseño de héroe de Hearthstone de Thorim Thor, 3 paquetes de La Gran Oscuridad, 1 paquete estándar",
-                    "Modèle héroïque de Hearthstone : Thorim « Thor », Paquets de La Ténèbre de l’Au-delà ×3, Paquet de cartes standard ×1",
+                    "Modèle héroïque de Hearthstone : Thorim « Thor », paquet de La Ténèbre de l’Au-delà ×3, paquet de cartes standard ×1",
                     "Thorim Thor - modello eroe di Hearthstone, 3 buste di La Grande Oscurità, 1 busta Standard",
                     "トール・トーリム - 王道用ヒーロースキン、「暗黒宇宙ドラナイ伝」パックx3、スタンダードパックx1",
                     "토르 토림 - 하스스톤 영웅 스킨, 끝없는 어둠 팩 3개, 정규 카드 팩 1개",
@@ -31914,7 +31914,7 @@
                     "1x Packung aus Die Großen Dunklen Weiten, 1x Packung aus Gefahr im Paradies",
                     "1x sobre de La Gran Oscuridad, 1x sobre de Peligro en el Paraíso",
                     "1 paquete de La Gran Oscuridad, 1 paquete de Peligros en el Paraíso",
-                    "Paquet de La Ténèbre de l’Au-delà ×1, Paquet de Paradis en péril ×1",
+                    "Paquet de La Ténèbre de l’Au-delà ×1, paquet de Paradis en péril ×1",
                     "1 busta di La Grande Oscurità, 1 busta di Periglio in Paradiso",
                     "「暗黒宇宙ドラナイ伝」パックx1、「大ピンチ！パイレーツ・パラダイス」パックx1",
                     "끝없는 어둠 팩 1개, 극한의 극락 팩 1개",
@@ -31938,7 +31938,7 @@
                     "1x Packung aus Die Großen Dunklen Weiten, 2x Packung aus Gefahr im Paradies",
                     "1x sobre de La Gran Oscuridad, 2x sobre de Peligro en el Paraíso",
                     "1 paquete de La Gran Oscuridad, 2 paquetes de Peligros en el Paraíso",
-                    "Paquet de La Ténèbre de l’Au-delà ×1, Paquet de Paradis en péril ×2",
+                    "Paquet de La Ténèbre de l’Au-delà ×1, paquet de Paradis en péril ×2",
                     "1 busta di La Grande Oscurità, 2 buste di Periglio in Paradiso",
                     "「暗黒宇宙ドラナイ伝」パックx1、「大ピンチ！パイレーツ・パラダイス」パックx2",
                     "끝없는 어둠 팩 1개, 극한의 극락 팩 2개",
@@ -31962,7 +31962,7 @@
                     "2x Packung aus Die Großen Dunklen Weiten, 2x Packung aus Gefahr im Paradies",
                     "2x sobre de La Gran Oscuridad, 2x sobre de Peligro en el Paraíso",
                     "2 paquetes de La Gran Oscuridad, 2 paquetes de Peligros en el Paraíso",
-                    "Paquet de La Ténèbre de l’Au-delà ×2, Paquet de Paradis en péril ×2",
+                    "Paquet de La Ténèbre de l’Au-delà ×2, paquet de Paradis en péril ×2",
                     "2 buste di La Grande Oscurità, 2 buste di Periglio in Paradiso",
                     "「暗黒宇宙ドラナイ伝」パックx2、「大ピンチ！パイレーツ・パラダイス」パックx2",
                     "끝없는 어둠 팩 2개, 극한의 극락 팩 2개",
@@ -31986,7 +31986,7 @@
                     "Archon V-07-TR-0N – Hearthstone-Heldenskin, 3x Packung aus Die Großen Dunklen Weiten, 1x Standardpackung",
                     "V-07-TR-0N Arconte - Aspecto de héroe de Hearthstone, 3x sobre de La Gran Oscuridad, 1x sobre estándar",
                     "Diseño de héroe de Hearthstone de Arconte V-07-TR-0N, 3 paquetes de La Gran Oscuridad, 1 paquete estándar",
-                    "Modèle héroïque de Hearthstone : Archonte V-07-TR-0N, Paquets de La Ténèbre de l’Au-delà ×3, Paquet de cartes standard ×1",
+                    "Modèle héroïque de Hearthstone : Archonte V-07-TR-0N, paquet de La Ténèbre de l’Au-delà ×3, paquet de cartes standard ×1",
                     "Arconte V-07-TR-0N - modello eroe di Hearthstone, 3 buste di La Grande Oscurità, 1 busta Standard",
                     "アーコンV-07-TR-0N - 王道用ヒーロースキン、「暗黒宇宙ドラナイ伝」パックx3、スタンダードパックx1",
                     "집정관 V-07-TR-0N - 하스스톤 영웅 스킨, 끝없는 어둠 팩 3개, 정규 카드 팩 1개",
@@ -32010,7 +32010,7 @@
                     "1x Packung aus Die Großen Dunklen Weiten, 1x Packung aus Gefahr im Paradies",
                     "1x sobre de La Gran Oscuridad, 1x sobre de Peligro en el Paraíso",
                     "1 paquete de La Gran Oscuridad, 1 paquete de Peligros en el Paraíso",
-                    "Paquet de La Ténèbre de l’Au-delà ×1, Paquet de Paradis en péril ×1",
+                    "Paquet de La Ténèbre de l’Au-delà ×1, paquet de Paradis en péril ×1",
                     "1 busta di La Grande Oscurità, 1 busta di Periglio in Paradiso",
                     "「暗黒宇宙ドラナイ伝」パックx1、「大ピンチ！パイレーツ・パラダイス」パックx1",
                     "끝없는 어둠 팩 1개, 극한의 극락 팩 1개",
@@ -32034,7 +32034,7 @@
                     "1x Packung aus Die Großen Dunklen Weiten, 2x Packung aus Gefahr im Paradies",
                     "1x sobre de La Gran Oscuridad, 2x sobre de Peligro en el Paraíso",
                     "1 paquete de La Gran Oscuridad, 2 paquetes de Peligros en el Paraíso",
-                    "Paquet de La Ténèbre de l’Au-delà ×1, Paquet de Paradis en péril ×2",
+                    "Paquet de La Ténèbre de l’Au-delà ×1, paquet de Paradis en péril ×2",
                     "1 busta di La Grande Oscurità, 2 buste di Periglio in Paradiso",
                     "「暗黒宇宙ドラナイ伝」パックx1、「大ピンチ！パイレーツ・パラダイス」パックx2",
                     "끝없는 어둠 팩 1개, 극한의 극락 팩 2개",
@@ -32058,7 +32058,7 @@
                     "2x Packung aus Die Großen Dunklen Weiten, 2x Packung aus Gefahr im Paradies",
                     "2x sobre de La Gran Oscuridad, 2x sobre de Peligro en el Paraíso",
                     "2 paquetes de La Gran Oscuridad, 2 paquetes de Peligros en el Paraíso",
-                    "Paquet de La Ténèbre de l’Au-delà ×2, Paquet de Paradis en péril ×2",
+                    "Paquet de La Ténèbre de l’Au-delà ×2, paquet de Paradis en péril ×2",
                     "2 buste di La Grande Oscurità, 2 buste di Periglio in Paradiso",
                     "「暗黒宇宙ドラナイ伝」パックx2、「大ピンチ！パイレーツ・パラダイス」パックx2",
                     "끝없는 어둠 팩 2개, 극한의 극락 팩 2개",
@@ -32082,7 +32082,7 @@
                     "Königin Tamsin – Hearthstone-Heldenskin, 3x Packung aus Die Großen Dunklen Weiten, 1x Standardpackung",
                     "Reina Tamsin - Aspecto de héroe de Hearthstone, 3x sobre de La Gran Oscuridad, 1x sobre estándar",
                     "Diseño de héroe de Hearthstone de Reina Tamsin, 3 paquetes de La Gran Oscuridad, 1 paquete estándar",
-                    "Modèle héroïque de Hearthstone : Reine Tamsin, Paquets de La Ténèbre de l’Au-delà ×3, Paquet de cartes standard ×1",
+                    "Modèle héroïque de Hearthstone : Reine Tamsin, paquet de La Ténèbre de l’Au-delà ×3, paquet de cartes standard ×1",
                     "Regina Tamsin - modello eroe di Hearthstone, 3 buste di La Grande Oscurità, 1 busta Standard",
                     "女王タムシン - 王道用ヒーロースキン、「暗黒宇宙ドラナイ伝」パックx3、スタンダードパックx1",
                     "여왕 탬신 - 하스스톤 영웅 스킨, 끝없는 어둠 팩 3개, 정규 카드 팩 1개",
@@ -32118,6 +32118,102 @@
                     "薩滿卡牌包"
                 ],
                 "m_locId": 2756165
+            },
+            "m_chooseOne": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 2531,
+            "m_description": {
+                "m_locValues": [
+                    "2x Raptor Herald (Uncraftable Epic), 1x Into the Emerald Dream Pack",
+                    "2x epische Karte Raptorherold (nicht herstellbar), 1x Packung aus Der Smaragdgrüne Traum.",
+                    "2x Raptor Heraldo (épica, no se puede crear), 1x sobre de Camino al Sueño Esmeralda",
+                    "2 Heraldos raptores (épica no creable), 1 paquete de Hacia el Sueño Esmeralda",
+                    "Carte épique Messager raptor ×2 (impossible à créer), paquet de cartes d’Au cœur du Rêve d’émeraude ×1",
+                    "2 Alfiere Raptor (Epica vincolata), 1 busta di Nel Sogno di Smeraldo",
+                    "「ラプターの伝令」x2（作成不能エピック）、「夢みる大地エメラルド・ドリーム」パックx1",
+                    "랩터 전령(제작 불가 특급 카드) 2장, 에메랄드의 꿈 속으로 팩 1개",
+                    "2 karty Herold raptorów (epicka niewytwarzalna), 1 pakiet W objęciach Szmaragdowego Snu",
+                    "2x Arauto Raptor (Incriável Épico), 1x Pacote de Rumo ao Sonho Esmeralda",
+                    "2 ящера-вестника (нельзя создать, эпическая карта), 1 комплект «Объятий Изумрудного Сна»",
+                    "2x ทูตแร็ปเตอร์ (ระดับสุดยอด สร้างไม่ได้), 1x ซองการ์ด Into the Emerald Dream",
+                    "2张迅猛龙先锋（无法制作的史诗卡牌），1包漫游翡翠梦境卡牌包",
+                    "2x 迅猛龍使者(無法合成 - 史詩)、1x 《翡翠夢境》卡牌包"
+                ],
+                "m_locId": 2914725
+            },
+            "m_chooseOne": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 2533,
+            "m_description": {
+                "m_locValues": [
+                    "2x Random The Great Dark Beyond Epics, 1x Into the Emerald Dream Pack",
+                    "2x zufällige epische Karte aus Die Großen Dunklen Weiten, 1x Packung aus Der Smaragdgrüne Traum",
+                    "2x carta épica aleatoria de La Gran Oscuridad, 1x sobre de Camino al Sueño Esmeralda",
+                    "2 cartas épicas aleatorias de La Gran Oscuridad, 1 paquete de Hacia el Sueño Esmeralda",
+                    "Carte épique aléatoire de La Ténèbre de l’Au-delà ×2, paquet de cartes d’Au cœur du Rêve d’émeraude ×1",
+                    "2 carte Epiche casuali di La Grande Oscurità, 1 busta di Nel Sogno di Smeraldo",
+                    "「暗黒宇宙ドラナイ伝」のランダムなエピックカードx2、「夢みる大地エメラルド・ドリーム」パックx1",
+                    "무작위 끝없는 어둠 특급 카드 2장, 에메랄드의 꿈 속으로 팩 1개",
+                    "2 losowe epickie karty z rozszerzenia W objęciach Szmaragdowego Snu, 1 pakiet W objęciach Szmaragdowego Snu",
+                    "2x Cards Épicos Aleatórios de Grande Treva Infinita, 1x Pacote de Rumo ao Sonho Esmeralda",
+                    "2 случайные эпические карты «Великой Запредельной Тьмы», 1 комплект «Объятий Изумрудного Сна»",
+                    "2x การ์ดระดับสุดยอดแบบสุ่มจาก The Great Dark Beyond, 1x ซองการ์ด Into the Emerald Dream",
+                    "2张深暗领域随机史诗卡牌，1包漫游翡翠梦境卡牌包",
+                    "2x 隨機《星外暗界》史詩卡牌、1x 《翡翠夢境》卡牌包"
+                ],
+                "m_locId": 2914726
+            },
+            "m_chooseOne": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 2534,
+            "m_description": {
+                "m_locValues": [
+                    "2x Creature of Madness (Uncraftable Golden Common), 2x Tavern Ticket",
+                    "2x goldene gewöhnliche Karte Kreatur des Wahnsinns (nicht herstellbar), 2x Gasthauszugang",
+                    "2x Criatura de locura (común dorada, no se puede crear), 2x entrada de taberna",
+                    "2 Criaturas de locura (común dorada no creable), 2 boletos de la Taberna",
+                    "Carte commune dorée Créature démente ×2 (impossible à créer), admission pour la taverne ×2",
+                    "2 Creatura della Follia (Comune vincolata Dorata), 2 Biglietti Locanda",
+                    "「狂気の怪物」x2（ゴールデン作成不能コモン）、酒場チケットx2",
+                    "광기의 생명체(제작 불가 황금 일반 카드) 2장, 선술집 입장권 2장",
+                    "2 karty Wcielenie szaleństwa (złota zwykła niewytwarzalna), 2 bilety do Karczmy",
+                    "2x Cria da Loucura (Dourado Incriável Comum), 2x Ingressos da Taverna",
+                    "2 золотые карты «Порождение безумия» (нельзя создать, обычная карта), 2 пропуска в таверну",
+                    "2x สัตว์ประหลาดวิปลาส (ระดับทั่วไปสีทอง สร้างไม่ได้), 2x บัตรโรงเตี๊ยม",
+                    "2张疯狂生物（无法制作的金色普通卡牌），2张旅店通票",
+                    "2x 瘋狂駭物(無法合成 - 普通金卡)、2x 旅店門票"
+                ],
+                "m_locId": 2914727
+            },
+            "m_chooseOne": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 2535,
+            "m_description": {
+                "m_locValues": [
+                    "Soulbringer Inge - Hearthstone Hero Skin, 2x Raptor Herald (Golden Uncraftable Epics)",
+                    "Hearthstone-Heldenskin – Seelensammlerin Inge, 2x goldene epische Karte Raptorherold (nicht herstellbar)",
+                    "Inge Libraalmas - Aspecto de héroe de Hearthstone, 2x Raptor Heraldo (épica dorada, no se puede crear)",
+                    "Diseño de heroína de Hearthstone de Inge portadora de almas, 2 Heraldos raptores (épicas no creables doradas)",
+                    "Modèle héroïque de Hearthstone Inge, la pourvoyeuse d’âmes, carte épique dorée Messager raptor ×2 (impossible à créer)",
+                    "Inge Libera Anime - modello eroe di Hearthstone, 2 Alfiere Raptor (Epica vincolata Dorata)",
+                    "王道用ヒーロースキン「送魂者インゲ」、「ラプターの伝令」x2（ゴールデン作成不能エピック）",
+                    "영혼의 인도자 잉게 - 하스스톤 영웅 스킨, 랩터 전령(황금 제작 불가 특급 카드) 2장",
+                    "Inge Duszowładna – skórka dla bohatera w Hearthstone, 2 karty Herold raptorów (złota epicka niewytwarzalna)",
+                    "Inge Trazalma - Visual de Herói de Hearthstone, 2x Arauto Raptor (Dourados Incriáveis Épicos)",
+                    "Облик героя Hearthstone «Ловчая душ Инге»,\n2 золотые карты «Ящер-вестник» (нельзя создать, эпическая карта)",
+                    "โซลบริงเกอร์อิงเก - สกินฮีโร่ Hearthstone, 2x ทูตแร็ปเตอร์ (ระดับสุดยอดสีทอง สร้างไม่ได้)",
+                    "传统对战英雄皮肤灵魂使者因葛，2张迅猛龙先锋（无法制作的金色史诗卡牌）",
+                    "『招魂者』英格 - 《爐石戰記》英雄造型、2x 迅猛龍使者(無法合成 - 史詩金卡)"
+                ],
+                "m_locId": 2914728
             },
             "m_chooseOne": 0,
             "m_locked": 0
@@ -41109,7 +41205,7 @@
                     "Carte commune dorée Hippogriffe frénétique x2 (impossible à créer)",
                     "2 Ippogrifo Frenetico Dorata (Comune vincolata)",
                     "ゴールデン「暴れヒポグリフ」x2（作成不能コモン）",
-                    "날뛰는 히포그리프 2장 (제작 불가 일반 카드)",
+                    "황금 날뛰는 히포그리프 2장 (제작 불가 일반 카드)",
                     "2 x złota karta Rozszalały hipogryf (zwykła niewytwarzalna)",
                     "2x Hipogrifo Desvairado Dourado (Incriável Comum)",
                     "Две золотые карты «Неистовый гиппогриф» (нельзя создать, обычные)",
@@ -41133,7 +41229,7 @@
                     "Carte commune dorée Héraut de Lokholar x2 (impossible à créer)",
                     "2 Alfiere di Lokholar Dorata (Comune vincolata)",
                     "ゴールデン「ロコラーの伝令」x2（作成不能コモン）",
-                    "로크홀라의 전령 2장 (제작 불가 일반 카드)",
+                    "황금 로크홀라의 전령 2장 (제작 불가 일반 카드)",
                     "2 x złota karta Herold Lokholara (zwykła niewytwarzalna)",
                     "2x Arauto de Lokholar Dourado (Incriável Comum)",
                     "Две золотые карты «Глашатай Локолара» (нельзя создать, обычные)",

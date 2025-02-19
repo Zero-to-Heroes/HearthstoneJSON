@@ -1817,350 +1817,6 @@
             "m_prefab": "WoodenSign_Paint_NAX.prefab:0980754995cbffe4c8da00084c84d311"
         },
         {
-            "m_ID": 33,
-            "m_noteDesc": "Friend Week",
-            "m_headerText": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_text": {
-                "m_locValues": [
-                    "Challenge a friend! You can complete quests while playing against them this week!",
-                    "Fordert einen Freund heraus! Diese Woche zählen Freundesherausforderungen für Quests!",
-                    "¡Desafía a tus amigos! ¡Esta semana podrás completar misiones mientras juegas contra ellos!",
-                    "¡Desafía a un amigo! ¡Puedes completar misiones durante estos duelos en la semana!",
-                    "Défiez un ami_! Cette semaine, vous pouvez accomplir des quêtes en jouant contre vos amis_!",
-                    "Sfida gli amici! Questa settimana potrai completare le missioni giocando contro di loro!",
-                    "友達に挑戦しよう！2人とも、今週のクエスト達成に近づけるぞ！",
-                    "친구에게 도전하세요! 이번 주에는 서로 대결을 펼쳐도 두 플레이어 모두 퀘스트를 완료할 수 있답니다!",
-                    "Rzuć wyzwanie przyjacielowi! W tym tygodniu możesz wykonywać zadania, grając przeciwko znajomym!",
-                    "Desafie um amigo! Você pode completar missões jogando contra ele esta semana!",
-                    "Бросьте вызов другу! На этой неделе вы можете выполнять ежедневные задания, играя со своими друзьями.",
-                    "ท้าแข่งกับเพื่อนสิ! คุณสามารถทำเควสต์ด้วยการเล่นกับเพื่อนได้ในสัปดาห์นี้!",
-                    "和你的好友来一场友谊赛吧！你可以藉此来完成本周的任务！",
-                    "挑戰你的好友！這禮拜的任務可以透過友誼賽完成！"
-                ],
-                "m_locId": 22810
-            },
-            "m_prefab": "WoodenSign_Paint_Friend_Week.prefab:e13d25a62906e8944be393ca3a338700"
-        },
-        {
-            "m_ID": 34,
-            "m_noteDesc": "Karazhan Prologue/Parlor is open",
-            "m_headerText": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_text": {
-                "m_locValues": [
-                    "Join the archmage Medivh for a legendary party in his tower of Karazhan!",
-                    "Feiert mit dem Erzmagier Medivh eine legendäre Party im Turm von Karazhan!",
-                    "¡Asiste a la fiesta legendaria del archimago Medivh en su torre de Karazhan!",
-                    "¡Únete al archimago Medivh para disfrutar de una fiesta legendaria en su torre de Karazhan!",
-                    "Rejoignez l’archimage Medivh pour une fête légendaire dans sa tour à Karazhan_!",
-                    "Unisciti all'Arcimago Medivh per una festa indimenticabile nella torre di Karazhan!",
-                    "大魔術師メディヴがカラザンの塔で開催する、レジェンドなパーティに\n参加しよう！",
-                    "카라잔에서 대마법사 메디브가 아제로스 제일의 파티에 당신을 초대합니다!",
-                    "Dołącz do arcymaga Medivha podczas legendarnego przyjęcia w Karazhanie!",
-                    "Junte-se ao arquimago Medivh para uma festa lendária em sua torre em Karazhan!",
-                    "Верховный маг Медив приглашает вас на незабываемую вечеринку в Каражане!",
-                    "เข้าร่วมปาร์ตี้ในตำนานกับอาร์คเมจเมดิฟห์ ณ หอคอยแห่งคาราซานของเขา!",
-                    "快来参加大法师麦迪文在卡拉赞举办的盛大派对吧！",
-                    "參加大法師麥迪文的傳奇派對，到卡拉贊塔裡狂歡一夜！"
-                ],
-                "m_locId": 23060
-            },
-            "m_prefab": "WoodenSign_Paint_KAR.prefab:47fea964a385ce14791b70bd9744db37"
-        },
-        {
-            "m_ID": 35,
-            "m_noteDesc": "Karazhan Opera is open",
-            "m_headerText": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_text": {
-                "m_locValues": [
-                    "The Opera is now open!",
-                    "Das Theater ist jetzt offen!",
-                    "¡La Ópera ya está abierta!",
-                    "¡La ópera está ya abierta!",
-                    "L’Opéra est ouvert_!",
-                    "Il Teatro è ora disponibile!",
-                    "ジ・オペラが開いたぞ！",
-                    "오페라가 열렸습니다!",
-                    "Opera\njest już otwarta!",
-                    "A Ópera já está aberta!",
-                    "Оперный театр открыт!",
-                    "โรงละครโอเปร่าเปิดแล้วในตอนนี้!",
-                    "歌剧院现已开放",
-                    "歌劇院開放了！"
-                ],
-                "m_locId": 23061
-            },
-            "m_prefab": "WoodenSign_Paint_KAR.prefab:47fea964a385ce14791b70bd9744db37"
-        },
-        {
-            "m_ID": 36,
-            "m_noteDesc": "Karazhan Menagerie is open",
-            "m_headerText": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_text": {
-                "m_locValues": [
-                    "The Menagerie is now open!",
-                    "Die Menagerie ist jetzt offen!",
-                    "¡La Sala de las Fieras ya está abierta!",
-                    "¡La sala de las fieras ya está abierta!",
-                    "La Ménagerie est ouverte_!",
-                    "Il Serraglio è ora disponibile!",
-                    "ザ・ミナジェリが\n開いたぞ！",
-                    "박물관이 열렸습니다!",
-                    "Menażeria\njest już otwarta!",
-                    "O Viveiro já está aberto!",
-                    "Зверинец открыт!",
-                    "ห้องจัดแสดงเปิดแล้วในตอนนี้!",
-                    "展览馆现已开放",
-                    "展覽廳開放了！"
-                ],
-                "m_locId": 23062
-            },
-            "m_prefab": "WoodenSign_Paint_KAR.prefab:47fea964a385ce14791b70bd9744db37"
-        },
-        {
-            "m_ID": 37,
-            "m_noteDesc": "Karazhan Spire is open",
-            "m_headerText": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_text": {
-                "m_locValues": [
-                    "The Spire is now open!",
-                    "Die Turmspitze ist jetzt offen!",
-                    "¡La Aguja ya está abierta!",
-                    "¡La cumbre ya está abierta!",
-                    "La Flèche est ouverte_!",
-                    "La Guglia è ora disponibile!",
-                    "ザ・スパイアが開いたぞ！",
-                    "첨탑이 열렸습니다!",
-                    "Iglica\njest już otwarta!",
-                    "O Pináculo já está aberto!",
-                    "Шпиль открыт!",
-                    "หอคอยเปิดแล้วในตอนนี้!",
-                    "上层塔现已开放",
-                    "法師塔開放了！"
-                ],
-                "m_locId": 23063
-            },
-            "m_prefab": "WoodenSign_Paint_KAR.prefab:47fea964a385ce14791b70bd9744db37"
-        },
-        {
-            "m_ID": 38,
-            "m_noteDesc": "MSG is now live",
-            "m_headerText": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_text": {
-                "m_locValues": [
-                    "The Mean Streets of Gadgetzan expansion is now available!",
-                    "Die Erweiterung „Die Straßen von Gadgetzan“ ist jetzt verfügbar!",
-                    "¡La expansión Mafias de Gadgetzan ya está disponible!",
-                    "¡La expansión Los Callejones de Gadgetzan ya está disponible!",
-                    "L’extension Main basse sur Gadgetzan est maintenant disponible_!",
-                    "L'espansione I bassifondi di Meccania è ora disponibile!",
-                    "拡張版「仁義なきガジェッツァン」が公開されたぞ！",
-                    "비열한 거리의 가젯잔이 출시되었습니다!",
-                    "Rozszerzenie Ciemne zaułki Gadżetonu jest już dostępne!",
-                    "A expansão Gangues de Geringontzan já está disponível!",
-                    "Злачный город Прибамбасск ждет новых гостей!",
-                    "ส่วนเสริม Mean Streets of Gadgetzan พร้อมให้เล่นแล้ว!",
-                    "“龙争虎斗加基森”扩展包现已登场！",
-                    "《黑街英雄之加基森風雲》\n資料片已經上市！"
-                ],
-                "m_locId": 79059
-            },
-            "m_prefab": "WoodenSign_Paint_MSG.prefab:b153134a5e5f448418f482350b6538f3"
-        },
-        {
-            "m_ID": 39,
-            "m_noteDesc": "Completed MSG Quest Line",
-            "m_headerText": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_text": {
-                "m_locValues": [
-                    "You've impressed all the big shots of Gadgetzan! Who you join is now up to you!",
-                    "Ihr habt alle hohen Tiere von Gadgetzan beeindruckt! Jetzt ist es Euch überlassen, welcher Gang Ihr Euch anschließen wollt.",
-                    "¡Has impresionado a los peces gordos de Gadgetzan! ¡Ahora tú decides a quién unirte!",
-                    "¡Has impresionado a todos los peces gordos de Gadgetzan! Ahora la elección es tuya: ¿cuál será tu pandilla?",
-                    "Vous avez impressionné tous les gros bonnets de Gadgetzan_! À vous de voir qui vous voulez rejoindre_!",
-                    "Hai impressionato tutti i pezzi grossi di Meccania! Ora devi solo decidere a chi unirti!",
-                    "ガジェッツァン裏社会の大物連中全員をうならせたな！この先どいつと組むかはあんた次第だ！",
-                    "가젯잔의 거물들이 당신을 눈여겨보고 있습니다! 어느 조직에 합류할지는 이제 당신에게 달려있습니다!",
-                    "Udało ci się zrobić wrażenie na grubych rybach Gadżetonu! Od ciebie zależy, do kogo dołączysz!",
-                    "Você deixou os chefões de Geringontzan impressionados! Você decide quem vai seguir!",
-                    "Вы заручились расположением всех боссов Прибамбасска! Кому из них вы будете служить, решайте сами!",
-                    "เหล่าขาใหญ่แห่งแกดเจ็ตแซนถูกใจคุณ! ขึ้นอยู่กับคุณแล้วว่าจะเลือกเข้าร่วมกับใคร!",
-                    "加基森的三大家族对你刮目相看！决定加入谁由你说了算！",
-                    "加基森的大佬都很欣賞你！要加入哪一邊就看你自己了！"
-                ],
-                "m_locId": 79234
-            },
-            "m_prefab": "MWoodenSign_Paint_MSG.prefab:b153134a5e5f448418f482350b6538f3"
-        },
-        {
-            "m_ID": 4,
-            "m_noteDesc": "Naxx Construct Quarter is open",
-            "m_headerText": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_text": {
-                "m_locValues": [
-                    "The Construct Quarter is now open!",
-                    "Das Konstruktviertel ist jetzt offen!",
-                    "¡El Arrabal de los Ensamblajes ya está abierto!",
-                    "¡El Arrabal de los Ensamblajes está abierto!",
-                    "Le quartier des Assemblages est ouvert !",
-                    "L'Ala dei Costrutti è ora disponibile!",
-                    "人造区画の入口が開いたぞ！",
-                    "피조물 지구가 열렸습니다!",
-                    "Rewir Konstruktów\njest już otwarty!",
-                    "O Distrito dos Constructos está aberto!",
-                    "Квартал Мерзости открыт!",
-                    "ขณะนี้เขตอสูรกายเปิดแล้ว!",
-                    "构造区现已开放",
-                    "傀儡區開放了！"
-                ],
-                "m_locId": 20868
-            },
-            "m_prefab": "WoodenSign_Paint_NAX.prefab:0980754995cbffe4c8da00084c84d311"
-        },
-        {
             "m_ID": 5,
             "m_noteDesc": "Naxx Frostwyrm Lair is open",
             "m_headerText": {
@@ -2202,6 +1858,49 @@
                 "m_locId": 20869
             },
             "m_prefab": "WoodenSign_Paint_NAX.prefab:0980754995cbffe4c8da00084c84d311"
+        },
+        {
+            "m_ID": 33,
+            "m_noteDesc": "Friend Week",
+            "m_headerText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_text": {
+                "m_locValues": [
+                    "Challenge a friend! You can complete quests while playing against them this week!",
+                    "Fordert einen Freund heraus! Diese Woche zählen Freundesherausforderungen für Quests!",
+                    "¡Desafía a tus amigos! ¡Esta semana podrás completar misiones mientras juegas contra ellos!",
+                    "¡Desafía a un amigo! ¡Puedes completar misiones durante estos duelos en la semana!",
+                    "Défiez un ami_! Cette semaine, vous pouvez accomplir des quêtes en jouant contre vos amis_!",
+                    "Sfida gli amici! Questa settimana potrai completare le missioni giocando contro di loro!",
+                    "友達に挑戦しよう！2人とも、今週のクエスト達成に近づけるぞ！",
+                    "친구에게 도전하세요! 이번 주에는 서로 대결을 펼쳐도 두 플레이어 모두 퀘스트를 완료할 수 있답니다!",
+                    "Rzuć wyzwanie przyjacielowi! W tym tygodniu możesz wykonywać zadania, grając przeciwko znajomym!",
+                    "Desafie um amigo! Você pode completar missões jogando contra ele esta semana!",
+                    "Бросьте вызов другу! На этой неделе вы можете выполнять ежедневные задания, играя со своими друзьями.",
+                    "ท้าแข่งกับเพื่อนสิ! คุณสามารถทำเควสต์ด้วยการเล่นกับเพื่อนได้ในสัปดาห์นี้!",
+                    "和你的好友来一场友谊赛吧！你可以藉此来完成本周的任务！",
+                    "挑戰你的好友！這禮拜的任務可以透過友誼賽完成！"
+                ],
+                "m_locId": 22810
+            },
+            "m_prefab": "WoodenSign_Paint_Friend_Week.prefab:e13d25a62906e8944be393ca3a338700"
         },
         {
             "m_ID": 55,
@@ -2247,6 +1946,49 @@
             "m_prefab": "WoodenSign_Paint_UNG.prefab:883df53ce8155554cb462f2b825fcd23"
         },
         {
+            "m_ID": 34,
+            "m_noteDesc": "Karazhan Prologue/Parlor is open",
+            "m_headerText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_text": {
+                "m_locValues": [
+                    "Join the archmage Medivh for a legendary party in his tower of Karazhan!",
+                    "Feiert mit dem Erzmagier Medivh eine legendäre Party im Turm von Karazhan!",
+                    "¡Asiste a la fiesta legendaria del archimago Medivh en su torre de Karazhan!",
+                    "¡Únete al archimago Medivh para disfrutar de una fiesta legendaria en su torre de Karazhan!",
+                    "Rejoignez l’archimage Medivh pour une fête légendaire dans sa tour à Karazhan_!",
+                    "Unisciti all'Arcimago Medivh per una festa indimenticabile nella torre di Karazhan!",
+                    "大魔術師メディヴがカラザンの塔で開催する、レジェンドなパーティに\n参加しよう！",
+                    "카라잔에서 대마법사 메디브가 아제로스 제일의 파티에 당신을 초대합니다!",
+                    "Dołącz do arcymaga Medivha podczas legendarnego przyjęcia w Karazhanie!",
+                    "Junte-se ao arquimago Medivh para uma festa lendária em sua torre em Karazhan!",
+                    "Верховный маг Медив приглашает вас на незабываемую вечеринку в Каражане!",
+                    "เข้าร่วมปาร์ตี้ในตำนานกับอาร์คเมจเมดิฟห์ ณ หอคอยแห่งคาราซานของเขา!",
+                    "快来参加大法师麦迪文在卡拉赞举办的盛大派对吧！",
+                    "參加大法師麥迪文的傳奇派對，到卡拉贊塔裡狂歡一夜！"
+                ],
+                "m_locId": 23060
+            },
+            "m_prefab": "WoodenSign_Paint_KAR.prefab:47fea964a385ce14791b70bd9744db37"
+        },
+        {
             "m_ID": 56,
             "m_noteDesc": "The Fire Festival is Live",
             "m_headerText": {
@@ -2288,6 +2030,49 @@
                 "m_locId": 88699
             },
             "m_prefab": "FireFestival_ToastBanner.prefab:f429e55478893454994e091c748aca95"
+        },
+        {
+            "m_ID": 35,
+            "m_noteDesc": "Karazhan Opera is open",
+            "m_headerText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_text": {
+                "m_locValues": [
+                    "The Opera is now open!",
+                    "Das Theater ist jetzt offen!",
+                    "¡La Ópera ya está abierta!",
+                    "¡La ópera está ya abierta!",
+                    "L’Opéra est ouvert_!",
+                    "Il Teatro è ora disponibile!",
+                    "ジ・オペラが開いたぞ！",
+                    "오페라가 열렸습니다!",
+                    "Opera\njest już otwarta!",
+                    "A Ópera já está aberta!",
+                    "Оперный театр открыт!",
+                    "โรงละครโอเปร่าเปิดแล้วในตอนนี้!",
+                    "歌剧院现已开放",
+                    "歌劇院開放了！"
+                ],
+                "m_locId": 23061
+            },
+            "m_prefab": "WoodenSign_Paint_KAR.prefab:47fea964a385ce14791b70bd9744db37"
         },
         {
             "m_ID": 59,
@@ -2376,6 +2161,49 @@
             "m_prefab": "WoodenSign_Paint_GVG.prefab:2f9dff0f690bcfc4592ad8250bbce604"
         },
         {
+            "m_ID": 36,
+            "m_noteDesc": "Karazhan Menagerie is open",
+            "m_headerText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_text": {
+                "m_locValues": [
+                    "The Menagerie is now open!",
+                    "Die Menagerie ist jetzt offen!",
+                    "¡La Sala de las Fieras ya está abierta!",
+                    "¡La sala de las fieras ya está abierta!",
+                    "La Ménagerie est ouverte_!",
+                    "Il Serraglio è ora disponibile!",
+                    "ザ・ミナジェリが\n開いたぞ！",
+                    "박물관이 열렸습니다!",
+                    "Menażeria\njest już otwarta!",
+                    "O Viveiro já está aberto!",
+                    "Зверинец открыт!",
+                    "ห้องจัดแสดงเปิดแล้วในตอนนี้!",
+                    "展览馆现已开放",
+                    "展覽廳開放了！"
+                ],
+                "m_locId": 23062
+            },
+            "m_prefab": "WoodenSign_Paint_KAR.prefab:47fea964a385ce14791b70bd9744db37"
+        },
+        {
             "m_ID": 60,
             "m_noteDesc": "Frozen Throne Upper Reaches is open",
             "m_headerText": {
@@ -2417,6 +2245,49 @@
                 "m_locId": 91725
             },
             "m_prefab": "WoodenSign_Paint_ICC.prefab:65c0ac91d97d3c4458b34d7f0ceb2a1f"
+        },
+        {
+            "m_ID": 37,
+            "m_noteDesc": "Karazhan Spire is open",
+            "m_headerText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_text": {
+                "m_locValues": [
+                    "The Spire is now open!",
+                    "Die Turmspitze ist jetzt offen!",
+                    "¡La Aguja ya está abierta!",
+                    "¡La cumbre ya está abierta!",
+                    "La Flèche est ouverte_!",
+                    "La Guglia è ora disponibile!",
+                    "ザ・スパイアが開いたぞ！",
+                    "첨탑이 열렸습니다!",
+                    "Iglica\njest już otwarta!",
+                    "O Pináculo já está aberto!",
+                    "Шпиль открыт!",
+                    "หอคอยเปิดแล้วในตอนนี้!",
+                    "上层塔现已开放",
+                    "法師塔開放了！"
+                ],
+                "m_locId": 23063
+            },
+            "m_prefab": "WoodenSign_Paint_KAR.prefab:47fea964a385ce14791b70bd9744db37"
         },
         {
             "m_ID": 61,
@@ -2462,6 +2333,49 @@
             "m_prefab": "WoodenSign_Paint_ICC.prefab:65c0ac91d97d3c4458b34d7f0ceb2a1f"
         },
         {
+            "m_ID": 38,
+            "m_noteDesc": "MSG is now live",
+            "m_headerText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_text": {
+                "m_locValues": [
+                    "The Mean Streets of Gadgetzan expansion is now available!",
+                    "Die Erweiterung „Die Straßen von Gadgetzan“ ist jetzt verfügbar!",
+                    "¡La expansión Mafias de Gadgetzan ya está disponible!",
+                    "¡La expansión Los Callejones de Gadgetzan ya está disponible!",
+                    "L’extension Main basse sur Gadgetzan est maintenant disponible_!",
+                    "L'espansione I bassifondi di Meccania è ora disponibile!",
+                    "拡張版「仁義なきガジェッツァン」が公開されたぞ！",
+                    "비열한 거리의 가젯잔이 출시되었습니다!",
+                    "Rozszerzenie Ciemne zaułki Gadżetonu jest już dostępne!",
+                    "A expansão Gangues de Geringontzan já está disponível!",
+                    "Злачный город Прибамбасск ждет новых гостей!",
+                    "ส่วนเสริม Mean Streets of Gadgetzan พร้อมให้เล่นแล้ว!",
+                    "“龙争虎斗加基森”扩展包现已登场！",
+                    "《黑街英雄之加基森風雲》\n資料片已經上市！"
+                ],
+                "m_locId": 79059
+            },
+            "m_prefab": "WoodenSign_Paint_MSG.prefab:b153134a5e5f448418f482350b6538f3"
+        },
+        {
             "m_ID": 62,
             "m_noteDesc": "Hallow's End arena season is active",
             "m_headerText": {
@@ -2505,8 +2419,8 @@
             "m_prefab": "HallowsEndDialog_started.prefab:39569858db280e14094d661a79673e6d"
         },
         {
-            "m_ID": 63,
-            "m_noteDesc": "Kobolds n Catacombs is now live",
+            "m_ID": 39,
+            "m_noteDesc": "Completed MSG Quest Line",
             "m_headerText": {
                 "m_locValues": [
                     "",
@@ -2528,28 +2442,28 @@
             },
             "m_text": {
                 "m_locValues": [
-                    "The Kobolds & Catacombs expansion is now available!",
-                    "Die Erweiterung „Kobolde & Katakomben“ ist jetzt verfügbar!",
-                    "¡La expansión Kóbolds & Catacumbas ya está disponible!",
-                    "¡La expansión Kóbolds & Catacumbas ya está disponible!",
-                    "L’extension Kobolds et Catacombes est maintenant disponible_!",
-                    "L'espansione Coboldi & Catacombe è ora disponibile!",
-                    "拡張版「コボルトと秘宝の迷宮」が公開されたぞ！",
-                    "코볼트와 지하 미궁이 출시되었습니다!",
-                    "Rozszerzenie Koboldy i katakumby jest już dostępne!",
-                    "A expansão Kobolds & Catacumbas já está disponível!",
-                    "Кобольды и катакомбы ждут вас!",
-                    "ส่วนเสริม Kobolds & Catacombs พร้อมให้เล่นแล้ว!",
-                    "“狗头人与地下世界”扩展包现已登场！",
-                    "《狗頭人與地下城》\n資料片已經上市！"
+                    "You've impressed all the big shots of Gadgetzan! Who you join is now up to you!",
+                    "Ihr habt alle hohen Tiere von Gadgetzan beeindruckt! Jetzt ist es Euch überlassen, welcher Gang Ihr Euch anschließen wollt.",
+                    "¡Has impresionado a los peces gordos de Gadgetzan! ¡Ahora tú decides a quién unirte!",
+                    "¡Has impresionado a todos los peces gordos de Gadgetzan! Ahora la elección es tuya: ¿cuál será tu pandilla?",
+                    "Vous avez impressionné tous les gros bonnets de Gadgetzan_! À vous de voir qui vous voulez rejoindre_!",
+                    "Hai impressionato tutti i pezzi grossi di Meccania! Ora devi solo decidere a chi unirti!",
+                    "ガジェッツァン裏社会の大物連中全員をうならせたな！この先どいつと組むかはあんた次第だ！",
+                    "가젯잔의 거물들이 당신을 눈여겨보고 있습니다! 어느 조직에 합류할지는 이제 당신에게 달려있습니다!",
+                    "Udało ci się zrobić wrażenie na grubych rybach Gadżetonu! Od ciebie zależy, do kogo dołączysz!",
+                    "Você deixou os chefões de Geringontzan impressionados! Você decide quem vai seguir!",
+                    "Вы заручились расположением всех боссов Прибамбасска! Кому из них вы будете служить, решайте сами!",
+                    "เหล่าขาใหญ่แห่งแกดเจ็ตแซนถูกใจคุณ! ขึ้นอยู่กับคุณแล้วว่าจะเลือกเข้าร่วมกับใคร!",
+                    "加基森的三大家族对你刮目相看！决定加入谁由你说了算！",
+                    "加基森的大佬都很欣賞你！要加入哪一邊就看你自己了！"
                 ],
-                "m_locId": 96562
+                "m_locId": 79234
             },
-            "m_prefab": "WoodenSign_Paint_LOOT.prefab:c1f1a158f539ad3428175ebcd948f138"
+            "m_prefab": "MWoodenSign_Paint_MSG.prefab:b153134a5e5f448418f482350b6538f3"
         },
         {
-            "m_ID": 64,
-            "m_noteDesc": "The Witchwood is now live",
+            "m_ID": 4,
+            "m_noteDesc": "Naxx Construct Quarter is open",
             "m_headerText": {
                 "m_locValues": [
                     "",
@@ -2571,24 +2485,24 @@
             },
             "m_text": {
                 "m_locValues": [
-                    "The Witchwood expansion is now available!",
-                    "Die Erweiterung „Der Hexenwald“ ist jetzt verfügbar!",
-                    "¡La expansión El Bosque Embrujado ya está disponible!",
-                    "¡La expansión del Bosque Embrujado ya está disponible!",
-                    "L’extension Le Bois Maudit est maintenant disponible_!",
-                    "L'espansione Boscotetro è ora disponibile!",
-                    "拡張版「妖の森ウィッチウッド」が公開されたぞ！",
-                    "마녀숲이 출시되었습니다!",
-                    "Rozszerzenie Wiedźmi Las jest już dostępne!",
-                    "A expansão Bosque das Bruxas já está disponível!",
-                    "Отправляйтесь в Ведьмин лес!",
-                    "ส่วนเสริม The Witchwood พร้อมให้เล่นแล้ว!",
-                    "“女巫森林”扩展包现已\n登场！",
-                    "《黑巫森林》\n資料片已經上市！"
+                    "The Construct Quarter is now open!",
+                    "Das Konstruktviertel ist jetzt offen!",
+                    "¡El Arrabal de los Ensamblajes ya está abierto!",
+                    "¡El Arrabal de los Ensamblajes está abierto!",
+                    "Le quartier des Assemblages est ouvert !",
+                    "L'Ala dei Costrutti è ora disponibile!",
+                    "人造区画の入口が開いたぞ！",
+                    "피조물 지구가 열렸습니다!",
+                    "Rewir Konstruktów\njest już otwarty!",
+                    "O Distrito dos Constructos está aberto!",
+                    "Квартал Мерзости открыт!",
+                    "ขณะนี้เขตอสูรกายเปิดแล้ว!",
+                    "构造区现已开放",
+                    "傀儡區開放了！"
                 ],
-                "m_locId": 2692470
+                "m_locId": 20868
             },
-            "m_prefab": "WoodenSign_Paint_GIL.prefab:14986b5a1ba41a64c83298c8da14457d"
+            "m_prefab": "WoodenSign_Paint_NAX.prefab:0980754995cbffe4c8da00084c84d311"
         },
         {
             "m_ID": 65,
@@ -3021,6 +2935,221 @@
             "m_prefab": "WoodenSign_Paint_DAL.prefab:8a59c6e5188e33844b6910fa552df4a0"
         },
         {
+            "m_ID": 63,
+            "m_noteDesc": "Kobolds n Catacombs is now live",
+            "m_headerText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_text": {
+                "m_locValues": [
+                    "The Kobolds & Catacombs expansion is now available!",
+                    "Die Erweiterung „Kobolde & Katakomben“ ist jetzt verfügbar!",
+                    "¡La expansión Kóbolds & Catacumbas ya está disponible!",
+                    "¡La expansión Kóbolds & Catacumbas ya está disponible!",
+                    "L’extension Kobolds et Catacombes est maintenant disponible_!",
+                    "L'espansione Coboldi & Catacombe è ora disponibile!",
+                    "拡張版「コボルトと秘宝の迷宮」が公開されたぞ！",
+                    "코볼트와 지하 미궁이 출시되었습니다!",
+                    "Rozszerzenie Koboldy i katakumby jest już dostępne!",
+                    "A expansão Kobolds & Catacumbas já está disponível!",
+                    "Кобольды и катакомбы ждут вас!",
+                    "ส่วนเสริม Kobolds & Catacombs พร้อมให้เล่นแล้ว!",
+                    "“狗头人与地下世界”扩展包现已登场！",
+                    "《狗頭人與地下城》\n資料片已經上市！"
+                ],
+                "m_locId": 96562
+            },
+            "m_prefab": "WoodenSign_Paint_LOOT.prefab:c1f1a158f539ad3428175ebcd948f138"
+        },
+        {
+            "m_ID": 64,
+            "m_noteDesc": "The Witchwood is now live",
+            "m_headerText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_text": {
+                "m_locValues": [
+                    "The Witchwood expansion is now available!",
+                    "Die Erweiterung „Der Hexenwald“ ist jetzt verfügbar!",
+                    "¡La expansión El Bosque Embrujado ya está disponible!",
+                    "¡La expansión del Bosque Embrujado ya está disponible!",
+                    "L’extension Le Bois Maudit est maintenant disponible_!",
+                    "L'espansione Boscotetro è ora disponibile!",
+                    "拡張版「妖の森ウィッチウッド」が公開されたぞ！",
+                    "마녀숲이 출시되었습니다!",
+                    "Rozszerzenie Wiedźmi Las jest już dostępne!",
+                    "A expansão Bosque das Bruxas já está disponível!",
+                    "Отправляйтесь в Ведьмин лес!",
+                    "ส่วนเสริม The Witchwood พร้อมให้เล่นแล้ว!",
+                    "“女巫森林”扩展包现已\n登场！",
+                    "《黑巫森林》\n資料片已經上市！"
+                ],
+                "m_locId": 2692470
+            },
+            "m_prefab": "WoodenSign_Paint_GIL.prefab:14986b5a1ba41a64c83298c8da14457d"
+        },
+        {
+            "m_ID": 97,
+            "m_noteDesc": "Hallow's End 2019 arena season is active",
+            "m_headerText": {
+                "m_locValues": [
+                    "Hallow's End is Here!",
+                    "Die Schlotternächte haben begonnen!",
+                    "¡Ya es Halloween!",
+                    "¡Ha llegado Halloween!",
+                    "La Sanssaint a commencé",
+                    "La Veglia delle Ombre è arrivata!",
+                    "ハロウェンドがやって来た！",
+                    "할로윈 축제가 시작됐습니다!",
+                    "Nadeszły Zaduszniki!",
+                    "A Noturnália chegou!",
+                    "Празднуем Тыквовин!",
+                    "ฮอลโลว์สเอนด์มาถึงแล้ว!",
+                    "万圣节到了！",
+                    "萬鬼節到了！"
+                ],
+                "m_locId": 2718407
+            },
+            "m_text": {
+                "m_locValues": [
+                    "During this special event, you can pick two classes in Arena and draft class cards from both!",
+                    "Während der Schlotternächte könnt Ihr in der Arena zwei Klassen wählen und Euer Deck aus Karten beider Klassen zusammenstellen!",
+                    "Durante este evento especial, ¡podrás seleccionar dos clases en la Arena y elegir cartas de ambas!",
+                    "Durante este evento especial, puedes seleccionar dos clases en la Arena y armar un mazo con cartas de ambas clases.",
+                    "Pendant cet évènement spécial, vous pouvez choisir deux classes en Arène et piocher des cartes pour ces deux classes !",
+                    "Durante questo evento, potrai scegliere due classi in Arena e comporre un mazzo con carte di entrambe!",
+                    "このスペシャルイベント中、闘技場では2つのクラスを選んで、両クラスのカードからドラフトできるんだ！",
+                    "이벤트 기간 동안 투기장에서 두 직업의 카드로 덱을 만들 수 있습니다!",
+                    "Podczas tego specjalnego wydarzenia możesz wybrać dwie klasy na Arenie i korzystać z ich kart klasowych!",
+                    "Durante esse evento especial, você pode selecionar duas classes na Arena e escolher cards das duas!",
+                    "В ходе этого особого события вы можете выбрать на Арене сразу два класса и составить колоду с использованием их классовых карт!",
+                    "ตลอดเทศกาลพิเศษนี้ คุณจะได้เลือกสองคลาสในลานประลองแล้วเลือกการ์ดจากทั้งสองคลาส!",
+                    "在特殊活动期间，你可以在竞技模式中选择两个职业，并用两个职业的卡牌组成套牌！",
+                    "在這次的節慶特殊活動期間，你在競技場裡可以選擇兩個職業，並且選到兩者的職業牌！"
+                ],
+                "m_locId": 2718408
+            },
+            "m_prefab": "HallowsEndDialog_started.prefab:39569858db280e14094d661a79673e6d"
+        },
+        {
+            "m_ID": 98,
+            "m_noteDesc": "Galakrond's Awakening solo adventure is now live.",
+            "m_headerText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_text": {
+                "m_locValues": [
+                    "Galakrond's Awakening\nsolo adventure is now available!",
+                    "Das Soloabenteuer „Galakronds Erwachen“ ist jetzt verfügbar!",
+                    "¡La aventura de\nEl Despertar de Galakrond ya está disponible!",
+                    "El despertar de Galakrond\n¡La aventura para un jugador ya está disponible!",
+                    "Le Réveil de Galakrond\nLe mode aventure est désormais disponible !",
+                    "L'avventura in solitaria\nIl Risveglio di Galakrond è disponibile!",
+                    "ソロ・アドベンチャー\n「ガラクロンドの目覚め」が\n公開されたぞ！",
+                    "갈라크론드의 부활\n1인 모험이 열렸습니다!",
+                    "Tryb przygody\nPrzebudzenie Galakronda jest już dostępny!",
+                    "A aventura Despertar de Galakrond\njá está disponível!",
+                    "Поучаствуйте в новом приключении\n«Пробуждение Галакронда»!",
+                    "การผจญภัยคนเดียว Galakrond's Awakening\nพร้อมให้เล่นแล้ว!",
+                    "迦拉克隆的觉醒\n冒险模式现已登场！",
+                    "葛拉克朗的覺醒\n單人冒險篇章開放了！"
+                ],
+                "m_locId": 2720613
+            },
+            "m_prefab": "WoodenSign_Paint_DRG.prefab:f5ed475231513684dbe46ba68dcbed2e"
+        },
+        {
+            "m_ID": 99,
+            "m_noteDesc": "Galakrond's Awakening Chapter 2 is now live.",
+            "m_headerText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_text": {
+                "m_locValues": [
+                    "Galakrond's Awakening\nChapter 2 is now available!",
+                    "Das zweite Kapitel von Galakronds Erwachen ist jetzt verfügbar!",
+                    "¡El capítulo 2 de El Despertar de Galakrond\nya está disponible!",
+                    "El despertar de Galakrond\n¡El capítulo 2 ya está disponible!",
+                    "Le Réveil de Galakrond\nLe chapitre II est désormais disponible !",
+                    "Il Capitolo 2 de Il Risveglio di Galakrond\nè disponibile!",
+                    "「ガラクロンドの目覚め」\n第II章が公開されたぞ！",
+                    "갈라크론드의 부활\n제2장이 열렸습니다!",
+                    "Rozdział 2\nPrzebudzenia Galakronda jest już dostępny!",
+                    "Já disponível o Capítulo 2\nde Despertar de Galakrond!",
+                    "Пробуждение Галакронда\nГлава II ждет смельчаков!",
+                    "Galakrond's Awakening\nบทที่ 2 พร้อมให้เล่นแล้ว!",
+                    "迦拉克隆的觉醒\n第二章现已登场！",
+                    "葛拉克朗的覺醒\n第二章開放了！"
+                ],
+                "m_locId": 2720614
+            },
+            "m_prefab": "WoodenSign_Paint_DRG.prefab:f5ed475231513684dbe46ba68dcbed2e"
+        },
+        {
             "m_ID": 8,
             "m_noteDesc": "BRM Blackrock Depths is open",
             "m_headerText": {
@@ -3449,135 +3578,6 @@
                 "m_locId": 2716179
             },
             "m_prefab": "WoodenSign_Paint_ULD.prefab:7f29d8d081340d24180472493995104d"
-        },
-        {
-            "m_ID": 97,
-            "m_noteDesc": "Hallow's End 2019 arena season is active",
-            "m_headerText": {
-                "m_locValues": [
-                    "Hallow's End is Here!",
-                    "Die Schlotternächte haben begonnen!",
-                    "¡Ya es Halloween!",
-                    "¡Ha llegado Halloween!",
-                    "La Sanssaint a commencé",
-                    "La Veglia delle Ombre è arrivata!",
-                    "ハロウェンドがやって来た！",
-                    "할로윈 축제가 시작됐습니다!",
-                    "Nadeszły Zaduszniki!",
-                    "A Noturnália chegou!",
-                    "Празднуем Тыквовин!",
-                    "ฮอลโลว์สเอนด์มาถึงแล้ว!",
-                    "万圣节到了！",
-                    "萬鬼節到了！"
-                ],
-                "m_locId": 2718407
-            },
-            "m_text": {
-                "m_locValues": [
-                    "During this special event, you can pick two classes in Arena and draft class cards from both!",
-                    "Während der Schlotternächte könnt Ihr in der Arena zwei Klassen wählen und Euer Deck aus Karten beider Klassen zusammenstellen!",
-                    "Durante este evento especial, ¡podrás seleccionar dos clases en la Arena y elegir cartas de ambas!",
-                    "Durante este evento especial, puedes seleccionar dos clases en la Arena y armar un mazo con cartas de ambas clases.",
-                    "Pendant cet évènement spécial, vous pouvez choisir deux classes en Arène et piocher des cartes pour ces deux classes !",
-                    "Durante questo evento, potrai scegliere due classi in Arena e comporre un mazzo con carte di entrambe!",
-                    "このスペシャルイベント中、闘技場では2つのクラスを選んで、両クラスのカードからドラフトできるんだ！",
-                    "이벤트 기간 동안 투기장에서 두 직업의 카드로 덱을 만들 수 있습니다!",
-                    "Podczas tego specjalnego wydarzenia możesz wybrać dwie klasy na Arenie i korzystać z ich kart klasowych!",
-                    "Durante esse evento especial, você pode selecionar duas classes na Arena e escolher cards das duas!",
-                    "В ходе этого особого события вы можете выбрать на Арене сразу два класса и составить колоду с использованием их классовых карт!",
-                    "ตลอดเทศกาลพิเศษนี้ คุณจะได้เลือกสองคลาสในลานประลองแล้วเลือกการ์ดจากทั้งสองคลาส!",
-                    "在特殊活动期间，你可以在竞技模式中选择两个职业，并用两个职业的卡牌组成套牌！",
-                    "在這次的節慶特殊活動期間，你在競技場裡可以選擇兩個職業，並且選到兩者的職業牌！"
-                ],
-                "m_locId": 2718408
-            },
-            "m_prefab": "HallowsEndDialog_started.prefab:39569858db280e14094d661a79673e6d"
-        },
-        {
-            "m_ID": 98,
-            "m_noteDesc": "Galakrond's Awakening solo adventure is now live.",
-            "m_headerText": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_text": {
-                "m_locValues": [
-                    "Galakrond's Awakening\nsolo adventure is now available!",
-                    "Das Soloabenteuer „Galakronds Erwachen“ ist jetzt verfügbar!",
-                    "¡La aventura de\nEl Despertar de Galakrond ya está disponible!",
-                    "El despertar de Galakrond\n¡La aventura para un jugador ya está disponible!",
-                    "Le Réveil de Galakrond\nLe mode aventure est désormais disponible !",
-                    "L'avventura in solitaria\nIl Risveglio di Galakrond è disponibile!",
-                    "ソロ・アドベンチャー\n「ガラクロンドの目覚め」が\n公開されたぞ！",
-                    "갈라크론드의 부활\n1인 모험이 열렸습니다!",
-                    "Tryb przygody\nPrzebudzenie Galakronda jest już dostępny!",
-                    "A aventura Despertar de Galakrond\njá está disponível!",
-                    "Поучаствуйте в новом приключении\n«Пробуждение Галакронда»!",
-                    "การผจญภัยคนเดียว Galakrond's Awakening\nพร้อมให้เล่นแล้ว!",
-                    "迦拉克隆的觉醒\n冒险模式现已登场！",
-                    "葛拉克朗的覺醒\n單人冒險篇章開放了！"
-                ],
-                "m_locId": 2720613
-            },
-            "m_prefab": "WoodenSign_Paint_DRG.prefab:f5ed475231513684dbe46ba68dcbed2e"
-        },
-        {
-            "m_ID": 99,
-            "m_noteDesc": "Galakrond's Awakening Chapter 2 is now live.",
-            "m_headerText": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_text": {
-                "m_locValues": [
-                    "Galakrond's Awakening\nChapter 2 is now available!",
-                    "Das zweite Kapitel von Galakronds Erwachen ist jetzt verfügbar!",
-                    "¡El capítulo 2 de El Despertar de Galakrond\nya está disponible!",
-                    "El despertar de Galakrond\n¡El capítulo 2 ya está disponible!",
-                    "Le Réveil de Galakrond\nLe chapitre II est désormais disponible !",
-                    "Il Capitolo 2 de Il Risveglio di Galakrond\nè disponibile!",
-                    "「ガラクロンドの目覚め」\n第II章が公開されたぞ！",
-                    "갈라크론드의 부활\n제2장이 열렸습니다!",
-                    "Rozdział 2\nPrzebudzenia Galakronda jest już dostępny!",
-                    "Já disponível o Capítulo 2\nde Despertar de Galakrond!",
-                    "Пробуждение Галакронда\nГлава II ждет смельчаков!",
-                    "Galakrond's Awakening\nบทที่ 2 พร้อมให้เล่นแล้ว!",
-                    "迦拉克隆的觉醒\n第二章现已登场！",
-                    "葛拉克朗的覺醒\n第二章開放了！"
-                ],
-                "m_locId": 2720614
-            },
-            "m_prefab": "WoodenSign_Paint_DRG.prefab:f5ed475231513684dbe46ba68dcbed2e"
         }
     ]
 }

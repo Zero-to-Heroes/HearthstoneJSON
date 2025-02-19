@@ -1996,6 +1996,68 @@
         },
         {
             "m_ID": 0,
+            "m_specialEventId": 40,
+            "m_eventRewardTrackId": 123,
+            "m_choiceConfirmationText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_shortConclusion": {
+                "m_locValues": [
+                    "<b>*Rustle* *Rustle* *Rustle*</b>",
+                    "<b>*Raschel* *Raschel* *Raschel*</b>",
+                    "<b>*Ris* *Ras* *Ris* *Ras*</b>",
+                    "<b>*Crac* *Crac* *Crac*</b>",
+                    "<b>*Bruissement à proximité*</b>",
+                    "<b>*Fruscio* *Fruscio* *Fruscio*</b>",
+                    "<b>ガサッ ガサガサッ</b>",
+                    "<b>부스럭, 부스럭, 부스럭</b>",
+                    "<b>*Szmer* *Szmer* *Szmer*</b>",
+                    "<b>*mexe* *mexe* *mexe*</b>",
+                    "<b>*Приближающийся шелест*</b>",
+                    "<b>*แซ่ก* *แซ่ก* *แซ่ก*</b>",
+                    "<b>＊嚓嚓嚓＊</b>",
+                    "<b>*窸窣聲* *窸窣聲* *窸窣聲*</b>"
+                ],
+                "m_locId": 2914732
+            },
+            "m_longConclusion": {
+                "m_locValues": [
+                    "<i>\"<b>Wait...did you hear that</b>?\n\nClever reptiles...pack hunters, you know, much like Hearthstone players.\nIt's not the one you see - it's the ones you don't that get you!\nTime to leave to avoid being their next meal...\n\nStay curious! Stay safe!\"</i>",
+                    "<i>„<b>Moment mal … Habt Ihr das gehört</b>?\n\nClevere Reptilien … Sie jagen im Rudel, wisst Ihr?\nDie, die man nicht sieht, sind die wahre Gefahr!\nLasst uns verschwinden, bevor wir ihre nächste Mahlzeit werden …\n\nBleibt wachsam und passt auf Euch auf!“</i>",
+                    "<i>«<b>Un momento..., ¿lo has oído?</b>\n\nReptiles astutos..., cazadores en manada, ya sabes, como los jugadores de Hearthstone.\nQuien te atrapará no es el que ves, ¡sino los que se te ocultan!\nEs hora de marcharte, si no quieres ser su próximo almuerzo...\n\nNo abandones la curiosidad. ¡Mantente a salvo!»</i>",
+                    "<i>\"<b>Espera... ¿oíste eso</b>?\n\nReptiles astutos... cazadores en manada, como los jugadores de Hearthstone.\n¡Debes temerle aún más a los que están escondidos!\nEs hora de irse antes de ser su próxima comida...\n\n¡No busques el peligro! ¡Mantente a salvo!\"</i>",
+                    "<i>« <b>Vous avez entendu</b> ?\n\nCes reptiles sont rusés… Ils chassent en meute, vous savez.\nCe ne sont pas ceux que l’on voit qui sont dangereux, mais ceux que l’on ne voit pas !\nDéguerpissons avant de devenir leur prochain repas.\n\nRestez aux aguets, et faites attention à vous ! »</i>",
+                    "<i>\"<b>Aspetta... Hai sentito anche tu</b>?\n\nQuei rettili sono furbi... cacciano in branco, sai, proprio come i giocatori e le giocatrici di Hearthstone.\nMa il vero pericolo sono quelli che sanno celarsi ai tuoi occhi!\nMeglio andarsene, prima di diventare il loro prossimo pasto...\n\nOcchi aperti e guardia alta!\"</i>",
+                    "<i>「<b>待て…何か聞こえたぞ？</b>\n\n狡猾な爬虫類は群れで狩りをする。\nまるでハースストーンのプレイヤーと同じじゃないか？\n目の前に姿を現さない奴ほど、強敵ってことだ。\nさっさと行かないと、やつらの腹の中におさまるのも時間の問題だぞ…\n\n探検は安全第一でな！」</i>",
+                    "<i>\"<b>잠깐... 방금 그 소리 들으셨나요</b>?\n\n영리한 파충류들... 무리 사냥꾼들이에요.\n위험한 건 보이는 것이 아니라, 보이지 않는 것이랍니다!\n놈들의 다음 끼니거리가 되지 않으려면 이만 가야겠네요...\n\n항상 호기심을 잃지 마세요! 항상 무사하세요!\"</i>",
+                    "<i>„<b>Chwileczkę… słyszysz</b>?\n\nWiesz, sprytne gady… polują w grupach, zupełnie jak gracze Hearthstone.\nDopadnie cię nie ten, którego widzisz, ale ci w ukryciu!\nLepiej zmykaj, jeśli nie chcesz znaleźć się w ich menu…\n\nPilnuj się i zachowaj czujność!”</i>",
+                    "<i>\"<b>Espera... você ouviu isso</b>?\n\nRépteis espertos... sempre atacam na curva, sabe, como os jogadores de Hearthstone.\nOs piores não são os que estão na sua frente... e sim os que você não vê!\nHora de dar no pé pra não virar a próxima presa deles...\n\nAprender sempre! E tome cuidado!\"</i>",
+                    "<i>«<b>Эй... Вы это слышали</b>?\n\nХитрые ящеры... пылкие и азартные, как игроки в Hearthstone.\nБудьте начеку! Опасны не те звери, что перед тобой, а те, которых не видишь!\nНадо убираться отсюда, чтобы не стать их обедом...\n\nБудьте любопытными, но не забывайте о безопасности!»</i>",
+                    "<i>\"<b>เดี๋ยวก่อน... เจ้าได้ยินมั้ย</b>\nฉลาดเหลือเกิน... พวกมันออกล่าเป็นฝูง เหมือนฝูงมินเนี่ยนเต็มสนามของผู้เล่น Hearthstone\nตัวที่จะเล่นงานเจ้าไม่ใช่ตัวที่เจ้าเห็น แต่เป็นตัวนอกสายตา!\nได้เวลาออกจากที่นี่ ก่อนที่เราจะกลายเป็นอาหารมื้อถัดไป...\nคอยสงสัยเข้าไว้! รักษาตัวรอดให้ดี!\"</i>",
+                    "<i>“<b>等等……你听到了吗</b>？\n\n这些狡黠的迅猛龙……成群结队的猎手。\n和炉石玩家还挺像的呢。\n看得见的不是危险——\n看不见的才是真正的威胁！\n现在就撤吧，省得被它们吃掉……\n\n保持机敏！保证安全！”</i>",
+                    "<i>「<b>等等…你聽見了嗎</b>？\n\n這些爬蟲類真機靈…牠們是集體行動的狩獵者，你知道吧。\n通常逮到你的不是你眼前的迅猛龍，而是不在你眼前的那些！\n最好馬上離開這裡，不然就要變成牠們的下一餐囉…\n\n記得提高警覺！注意安全啊！」</i>"
+                ],
+                "m_locId": 2914733
+            }
+        },
+        {
+            "m_ID": 0,
             "m_specialEventId": 5,
             "m_eventRewardTrackId": 39,
             "m_choiceConfirmationText": {
