@@ -130,7 +130,7 @@ def build_cards_info(env: Environment, cards_map: Dict[str, str]):
 	current_card_idx = 0
 	# Iterate over the cards map
 	for cardid, prefabid in cards_map.items():
-		# if cardid != "HERO_02bb":
+		# if cardid != "BG31_HERO_802pt1":
 		# 	continue
 		# if current_card_idx < 7760:
 		# 	continue

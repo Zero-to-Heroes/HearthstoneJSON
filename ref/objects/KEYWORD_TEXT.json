@@ -1355,6 +1355,18 @@
             "m_tooltipInitOrder": 10004
         },
         {
+            "m_ID": 318,
+            "m_noteDesc": "Imbue",
+            "m_tagId": 3626,
+            "m_name": "GLOBAL_KEYWORD_IMBUE",
+            "m_text": "GLOBAL_KEYWORD_IMBUE_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_IMBUE_TEXT",
+            "m_collectionText": "",
+            "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
+            "m_tooltipInitOrder": 180000
+        },
+        {
             "m_ID": 319,
             "m_noteDesc": "Dark Gift",
             "m_tagId": 3627,

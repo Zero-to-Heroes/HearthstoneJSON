@@ -621,6 +621,54 @@
             "m_rerollCountMax": 0,
             "m_questPoolType": 3,
             "m_rewardTrackType": 7
+        },
+        {
+            "m_ID": 71,
+            "m_grantDayOfWeek": -1,
+            "m_grantHourOfDay": 0,
+            "m_numQuestsGranted": 1,
+            "m_maxQuestsActive": 1,
+            "m_maxQuestsBanked": 0,
+            "m_fallbackQuestPoolId": 0,
+            "m_rerollCountMax": 1,
+            "m_questPoolType": 3,
+            "m_rewardTrackType": 7
+        },
+        {
+            "m_ID": 72,
+            "m_grantDayOfWeek": 2,
+            "m_grantHourOfDay": 0,
+            "m_numQuestsGranted": 1,
+            "m_maxQuestsActive": 1,
+            "m_maxQuestsBanked": 0,
+            "m_fallbackQuestPoolId": 71,
+            "m_rerollCountMax": 0,
+            "m_questPoolType": 3,
+            "m_rewardTrackType": 7
+        },
+        {
+            "m_ID": 73,
+            "m_grantDayOfWeek": -1,
+            "m_grantHourOfDay": 0,
+            "m_numQuestsGranted": 1,
+            "m_maxQuestsActive": 1,
+            "m_maxQuestsBanked": 0,
+            "m_fallbackQuestPoolId": 0,
+            "m_rerollCountMax": 1,
+            "m_questPoolType": 3,
+            "m_rewardTrackType": 7
+        },
+        {
+            "m_ID": 74,
+            "m_grantDayOfWeek": 2,
+            "m_grantHourOfDay": 0,
+            "m_numQuestsGranted": 1,
+            "m_maxQuestsActive": 1,
+            "m_maxQuestsBanked": 0,
+            "m_fallbackQuestPoolId": 73,
+            "m_rerollCountMax": 0,
+            "m_questPoolType": 3,
+            "m_rewardTrackType": 7
         }
     ]
 }
