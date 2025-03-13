@@ -58,6 +58,7 @@ def main():
 	p.add_argument("--skip-existing", action="store_true")
 	p.add_argument("--orig-dir", type=str, default="orig", help="Name of output for originals")
 	p.add_argument("--tiles-dir", type=str, default="tiles", help="Name of output for tiles")
+	p.add_argument("--cards-list", type=str, help="Path to file with the list of cards to include")
 	p.add_argument(
 		"--formats", nargs="*", default=["jpg"],
 		help="Which image formats to generate"
@@ -67,15 +68,23 @@ def main():
 
 
 def generate_card_textures(src, args): 
+    # Build an array of cards from the cards-list argument, if present
+	if args.cards_list:
+		with open(args.cards_list, "r") as f:
+			cards_list = f.read().splitlines()
+	else:
+		cards_list = None
+	print("cards_list: %s" % len(cards_list))
+    
 	print("Loading environment")
 	env: Environment = UnityPy.load(src)
 	print("Building cards_map")
-	cards_map = build_cards_map(env)
+	cards_map = build_cards_map(env, cards_list)
 	print("cards_map: %s" % len(cards_map))
 	# json.dump(cards_map, sys.stdout, ensure_ascii = False, indent = 4)
 	textures_map = build_textures_map(env)
 	print("textures_map: %s" % len(textures_map))
-	cards_info: Dict[str, CardTextureInfo] = build_cards_info(env, cards_map)
+	cards_info: Dict[str, CardTextureInfo] = build_cards_info(env, cards_map, cards_list)
 	print("cards_info: %s" % len(cards_info))
 
 	paths = [card.portrait_path for card in cards_info.values()]
@@ -92,8 +101,10 @@ def generate_card_textures(src, args):
 			sys.stderr.write("ERROR on %r (%r): %s\n" % (texture_info, card_id, e))
 			raise
 
+	print("Job's done")
 
-def build_cards_map(env: Environment) -> Dict[str, str]:
+
+def build_cards_map(env: Environment, cards_list: List[str]) -> Dict[str, str]:
 	for obj in env.objects:
 		if obj.type == ClassIDType.MonoBehaviour:
 			dataM: MonoBehaviour = cast(MonoBehaviour, obj.read())
@@ -106,6 +117,9 @@ def build_cards_map(env: Environment) -> Dict[str, str]:
 				# Build a dictionary of key => prefabid
 				cards_map = {}
 				for cardid, value in zip(keys, values):
+					if cards_list and cardid not in cards_list:
+						print("skipping build_cards_map %s" % cardid)
+						continue
 					# if cardid != "SC_004":
 					# 	continue
 					# Only keep the id of the prefab, which means what is after prefab:
@@ -125,11 +139,14 @@ def build_textures_map(env: Environment) -> Dict[str, PPtr]:
 	return textures
 
 
-def build_cards_info(env: Environment, cards_map: Dict[str, str]):
+def build_cards_info(env: Environment, cards_map: Dict[str, str], cards_list: List[str]):
 	cards = {}
 	current_card_idx = 0
 	# Iterate over the cards map
 	for cardid, prefabid in cards_map.items():
+		if cards_list and cardid not in cards_list:
+			print("skipping build_cards_info %s" % cardid)
+			continue
 		# if cardid != "BG31_HERO_802pt1":
 		# 	continue
 		# if current_card_idx < 7760:
