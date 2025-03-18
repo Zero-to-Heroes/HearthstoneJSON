@@ -55,6 +55,7 @@ class Logger(object):
 
 sys.stdout = Logger("extract_audio.log")
 
+# ./generate_audio_mapping.py /e/Games/Hearthstone/Data/Win
 def main():
 	os.makedirs(os.path.dirname(f"out/sounds_wav/"), exist_ok=True)
 	os.makedirs(os.path.dirname(f"out/sounds_wav/common/"), exist_ok=True)
