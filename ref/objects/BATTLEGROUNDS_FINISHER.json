@@ -3969,6 +3969,222 @@
             "m_miniArtMaterial": "Cyberpunk_Rare_Material_CollectionMini_Art.mat:4e9c514f414379e448b19f1afcec3497",
             "m_isDefault": 0,
             "m_capsuleType": 0
+        },
+        {
+            "m_ID": 84,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_collectionName": {
+                "m_locValues": [
+                    "Night Fae Forest (Rare Strike)",
+                    "Nachtfeenwald (seltener Angriff)",
+                    "Bosque de sílfides nocturnas (asalto poco común)",
+                    "Bosque Noctifeérico (azote raro)",
+                    "Forêt des Faë nocturnes (frappe rare)",
+                    "Foresta dei Silfi della Notte (Colpo Raro)",
+                    "ナイトフェイの森（レアストライク）",
+                    "나이트 페이 숲 (희귀 타격 효과)",
+                    "Las Baśnioludu (rzadkie zwieńczenie)",
+                    "Floresta de Feérios Noturnos (Ataque Raro)",
+                    "Лес ночного народца (редкий удар)",
+                    "ป่าไนท์เฟ (ท่าโจมตีระดับหายาก)",
+                    "法夜仙林（稀有打击特效）",
+                    "暗夜妖精森林(精良攻擊特效)"
+                ],
+                "m_locId": 2918149
+            },
+            "m_collectionShortName": {
+                "m_locValues": [
+                    "Night Fae Forest (Rare)",
+                    "Nachtfeenwald (selten)",
+                    "Bosque de sílfides nocturnas (poco común)",
+                    "Bosque Noctifeérico (raro)",
+                    "Forêt des Faë nocturnes (rare)",
+                    "Foresta dei Silfi della Notte (Raro)",
+                    "ナイトフェイの森（レア）",
+                    "나이트 페이 숲 (희귀)",
+                    "Las Baśnioludu (rzadkie)",
+                    "Floresta de Feérios Noturnos (Raro)",
+                    "Лес ночного народца (редкий)",
+                    "ป่าไนท์เฟ (หายาก)",
+                    "法夜仙林（稀有）",
+                    "暗夜妖精森林(精良)"
+                ],
+                "m_locId": 2918150
+            },
+            "m_description": {
+                "m_locValues": [
+                    "This Rare Strike adds a little something special to all your Battlegrounds Heroes’ attacks.\n\nEarnable after purchasing the Battlegrounds Season Pass in Season <i>10</i>.",
+                    "Dieser seltene Angriffseffekt verleiht den Angriffen Eurer Schlachtfeldhelden etwas Besonderes.\n\nKann nach Kauf des Schlachtfeld-Saisonpasses in Saison <i>10</i> freigeschaltet werden.",
+                    "Este asalto poco común les da un toque especial a todos los ataques de tus héroes de Campos de batalla.\n\nSe puede conseguir al comprar el pase de temporada de Campos de batalla en la temporada <i>9</i>.",
+                    "Este azote raro les da un toque especial a todos los ataques de tus héroes de Campos de batalla.\n\nSe puede obtener después de comprar el Pase de temporada de Campos de batalla en la temporada <i>10</i>.",
+                    "Cette frappe rare ajoute un petit quelque chose à toutes les attaques de vos héros et héroïnes de champs de bataille.\n\nS’obtient après avoir acheté le ticket saisonnier des champs de bataille lors de la saison <i>10</i>.",
+                    "Questo Colpo Raro aggiunge qualcosa di speciale agli attacchi dei tuoi eroi della Battaglia.\n\nOttenibile dopo aver acquistato il Pass Battaglia Stagionale nella Stagione <i>10</i>.",
+                    "このレアストライクは、バトルグラウンドのヒーローの攻撃に少々スペシャルな何かを加えるぞ。\n\nバトルグラウンド・シーズン<i>10</i>の「シーズンパス」購入後に獲得可能となる。",
+                    "희귀 타격 효과로 전장 영웅의 공격을 특별하게 꾸미세요.\n\n<i>10</i>시즌 전장 시즌 패스를 구매한 후 획득 가능",
+                    "To rzadkie zwieńczenie doda nieco finezji atakom twoich bohaterów podczas Ustawki.\n\nDo zdobycia po zakupie karnetu sezonowego Ustawki w sezonie <i>10</i>.",
+                    "Esse Ataque Raro adiciona algo especial a todos os ataques dos seus Heróis dos Campos de Batalha.\n\nPossível de obter após comprar o Passe de Temporada dos Campos de Batalha na Temporada <i>10</i>.",
+                    "Этот редкий удар придаст изюминку атакам ваших героев на полях сражений.\n\nМожно открыть после покупки пропуска <i>10</i>-го сезона полей сражений.",
+                    "ท่าโจมตีระดับหายากท่านี้[b]เพิ่มความพิเศษให้การโจมตี[b]ของฮีโร่_Battlegrounds ของคุณ\n\nปลดล็อคได้หลังจากซื้อ[b]ซีซันพาส_Battlegrounds ในซีซัน_<i>10</i>",
+                    "这款稀有打击特效可以为你战棋英雄的攻击增添特效。\n\n购买第<i>10</i>赛季的酒馆战棋赛季通行证后开放解锁。",
+                    "精良攻擊特效會讓英雄戰場全部的英雄在攻擊時增加一點特殊效果。\n\n需在賽季<i>10</i>購買英雄戰場賽季通行證才有機會取得。"
+                ],
+                "m_locId": 2918151
+            },
+            "m_gameplaySettings": "ArdenwealdRareStrike.asset:ffe7e24de8ada3d48a53dabd3f3cc8ef",
+            "m_destroyOpponentPrefab": "",
+            "m_destroyOpponentVictoryPrefab": "",
+            "m_detailsTexture": "",
+            "m_detailsMovie": "",
+            "m_detailsRenderConfig": "Ardenweald Rare Configuration.asset:720c5e8e2ecd24945822c67ffc33cc34",
+            "m_miniBodyMaterial": "Ardenweald_Rare_Material_CollectionMini_Body.mat:ab42de20dca30a145a0817caaaf2e18c",
+            "m_miniArtMaterial": "Ardenwealld_Rare_Material_CollectionMini_Art.mat:204b4f924a8f081489a5585a71ef3d0e",
+            "m_isDefault": 0,
+            "m_capsuleType": 0
+        },
+        {
+            "m_ID": 85,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_collectionName": {
+                "m_locValues": [
+                    "Night Fae Forest (Epic Strike)",
+                    "Nachtfeenwald (epischer Angriff)",
+                    "Bosque de sílfides nocturnas (asalto épico)",
+                    "Bosque Noctifeérico (azote épico)",
+                    "Forêt des Faë nocturnes (frappe épique)",
+                    "Foresta dei Silfi della Notte (Colpo Epico)",
+                    "ナイトフェイの森（エピックストライク）",
+                    "나이트 페이 숲 (특급 타격 효과)",
+                    "Las Baśnioludu (epickie zwieńczenie)",
+                    "Floresta de Feérios Noturnos (Ataque Épico)",
+                    "Лес ночного народца (эпический удар)",
+                    "ป่าไนท์เฟ (ท่าโจมตีระดับสุดยอด)",
+                    "法夜仙林（史诗打击特效）",
+                    "暗夜妖精森林(史詩攻擊特效)"
+                ],
+                "m_locId": 2918152
+            },
+            "m_collectionShortName": {
+                "m_locValues": [
+                    "Night Fae Forest (Epic)",
+                    "Nachtfeenwald (episch)",
+                    "Bosque de sílfides nocturnas (épico)",
+                    "Bosque Noctifeérico (épico)",
+                    "Forêt des Faë nocturnes (épique)",
+                    "Foresta dei Silfi della Notte (Epico)",
+                    "ナイトフェイの森（エピック）",
+                    "나이트 페이 숲 (특급)",
+                    "Las Baśnioludu (epickie)",
+                    "Floresta de Feérios Noturnos (Épico)",
+                    "Лес ночного народца (эпический)",
+                    "ป่าไนท์เฟ (สุดยอด)",
+                    "法夜仙林（史诗）",
+                    "暗夜妖精森林(史詩)"
+                ],
+                "m_locId": 2918153
+            },
+            "m_description": {
+                "m_locValues": [
+                    "This Epic Strike adds some flair to your Battlegrounds Heroes’ attacks. Get an even bigger effect for attacks of 15 or more damage!\n\nEarnable after purchasing the Battlegrounds Season Pass in Season <i>10</i>.",
+                    "Dieser epische Angriffseffekt verleiht den Angriffen Eurer Schlachtfeldhelden etwas mehr Flair. Angriffe mit 15 Schaden oder mehr haben einen noch größeren Effekt!\n\nKann nach Kauf des Schlachtfeld-Saisonpasses in Saison <i>10</i> freigeschaltet werden.",
+                    "Este asalto épico aporta estilo a los ataques de tus héroes de Campos de batalla. ¡Consigue un efecto aún mayor para ataques de 15 p. de daño o más!\n\nSe puede conseguir al comprar el pase de temporada de Campos de batalla en la temporada <i>10</i>.",
+                    "Este azote épico les da un poco de estilo a los ataques de tus héroes de Campos de batalla. ¡Tendrás incluso mejores efectos para ataques de 15 o más de daño!\n\nSe puede obtener después de comprar el Pase de temporada de Campos de batalla en la temporada <i>10</i>.",
+                    "Cette frappe épique donne du panache aux attaques de vos héros et héroïnes de champs de bataille. L’effet est encore plus marqué sur les attaques infligeant 15 points de dégâts ou plus !\n\nS’obtient après avoir acheté le ticket saisonnier des champs de bataille lors de la saison <i>10</i>.",
+                    "Questo Colpo Epico aggiunge un tocco speciale agli attacchi dei tuoi eroi della Battaglia. Ottieni un effetto ancora più grande per gli attacchi che infliggono 15 o più danni!\n\nOttenibile dopo aver acquistato il Pass Battaglia Stagionale nella Stagione <i>10</i>.",
+                    "このエピックストライクは、バトルグラウンドのヒーローの攻撃を派手にする。ダメージが15以上なら、攻撃がさらにド派手になるぞ！\n\nバトルグラウンド・シーズン<i>10</i>の「シーズンパス」購入後に獲得可能となる。",
+                    "특급 타격 효과로 전장 영웅의 공격에 화려함을 곁들이세요. 피해를 15 이상 줄 때 더 큰 효과로 표현됩니다!\n\n<i>10</i>시즌 전장 시즌 패스를 구매한 후 획득 가능",
+                    "To epickie zwieńczenie pokaże wszystkim, kto jest prawdziwą gwiazdą tej Ustawki. Efekt staje się potężniejszy przy obrażeniach o wartości 15 lub wyższej!\n\nDo zdobycia po zakupie karnetu sezonowego Ustawki w sezonie <i>10</i>.",
+                    "Esse Ataque Épico traz mais estilo aos ataques dos seus Heróis dos Campos de Batalha. Você consegue um efeito ainda maior para ataques de 15 ou mais de dano!\n\nPossível de obter após comprar o Passe de Temporada dos Campos de Batalha na Temporada <i>10</i>.",
+                    "Этот эпический удар разнообразит атаки ваших героев на полях сражений. Сделайте атаки на 15+ ед. урона еще эффектнее!\n\nМожно открыть после покупки пропуска <i>10</i>-го сезона полей сражений.",
+                    "ท่าโจมตีระดับสุดยอดท่านี้[b]เพิ่มความพิเศษให้การโจมตี[b]ของฮีโร่_Battlegrounds ของคุณ_เอฟเฟกต์จะ[b]ตระการตายิ่งขึ้นสำหรับ[b]การโจมตีที่สร้างความเสียหาย 15_แต้มหรือมากกว่า!\n\nปลดล็อคได้หลังจากซื้อ[b]ซีซันพาส_Battlegrounds ในซีซัน_<i>10</i>",
+                    "这款史诗打击特效可以为你的战棋英雄攻击增添特效。如果你造成了15点或以上的伤害，还能看到更加盛大的特效！\n\n购买第<i>10</i>赛季的酒馆战棋赛季通行证后开放解锁。",
+                    "史詩攻擊特效會為英雄戰場的英雄攻擊加上絢麗的特效。攻擊力達到15點以上時更加華麗！\n\n需在賽季<i>10</i>購買英雄戰場賽季通行證才有機會取得。"
+                ],
+                "m_locId": 2918154
+            },
+            "m_gameplaySettings": "ArdenwealdEpicStrike.asset:e6b08a65c60e827408d62e6cdf637c13",
+            "m_destroyOpponentPrefab": "",
+            "m_destroyOpponentVictoryPrefab": "",
+            "m_detailsTexture": "",
+            "m_detailsMovie": "",
+            "m_detailsRenderConfig": "Ardenweald Epic Configuration.asset:4249a313701ad5e4bbdf8e9ae03b1715",
+            "m_miniBodyMaterial": "Ardenweald_Epic_Material_CollectionMini_Body.mat:dfd571b5381221f44be1d129364477fb",
+            "m_miniArtMaterial": "Ardenwealld_Epic_Material_CollectionMini_Art.mat:7ae1e754619b7044b8501ec7a76efb40",
+            "m_isDefault": 0,
+            "m_capsuleType": 0
+        },
+        {
+            "m_ID": 86,
+            "m_enabled": 1,
+            "m_rarityId": 5,
+            "m_collectionName": {
+                "m_locValues": [
+                    "Night Fae Forest (Legendary Strike)",
+                    "Nachtfeenwald (legendärer Angriff)",
+                    "Bosque de sílfides nocturnas (asalto legendario)",
+                    "Bosque Noctifeérico (azote legendario)",
+                    "Forêt des Faë nocturnes (frappe légendaire)",
+                    "Foresta dei Silfi della Notte (Colpo Leggendario)",
+                    "ナイトフェイの森（レジェンドストライク）",
+                    "나이트 페이 숲 (전설 타격 효과)",
+                    "Las Baśnioludu (legendarne zwieńczenie)",
+                    "Floresta de Feérios Noturnos (Ataque Lendário)",
+                    "Лес ночного народца (легендарный удар)",
+                    "ป่าไนท์เฟ (ท่าโจมตีระดับตำนาน)",
+                    "法夜仙林（传说打击特效）",
+                    "暗夜妖精森林(傳說攻擊特效)"
+                ],
+                "m_locId": 2918155
+            },
+            "m_collectionShortName": {
+                "m_locValues": [
+                    "Night Fae Forest (Legendary)",
+                    "Nachtfeenwald (legendär)",
+                    "Bosque de sílfides nocturnas (legendario)",
+                    "Bosque Noctifeérico (legendario)",
+                    "Forêt des Faë nocturnes (légendaire)",
+                    "Foresta dei Silfi della Notte (Leggendario)",
+                    "ナイトフェイの森（レジェンド）",
+                    "나이트 페이 숲 (전설)",
+                    "Las Baśnioludu (legendarne)",
+                    "Floresta de Feérios Noturnos (Lendário)",
+                    "Лес ночного народца (легендарный)",
+                    "ป่าไนท์เฟ (ตำนาน)",
+                    "法夜仙林（传说）",
+                    "暗夜妖精森林(傳說)"
+                ],
+                "m_locId": 2918156
+            },
+            "m_description": {
+                "m_locValues": [
+                    "This Legendary Strike adds a new animation to your Battlegrounds Heroes’ attacks, a bigger effect for attacks of 15 or more damage, an even bigger effect for when you knock out an opponent, and a HUGE effect when you finish in first place!\n\nEarnable after purchasing the Battlegrounds Season Pass in Season <i>10</i>.",
+                    "Dieser legendäre Angriffseffekt fügt den Angriffen Eurer Schlachtfeldhelden eine neue Animation hinzu, hat einen größeren Effekt bei Angriffen mit 15 oder mehr Schaden, einen noch größeren Effekt, wenn Ihr damit siegt, und einen RIESIGEN Effekt, wenn Ihr den ersten Platz belegt!\n\nKann nach Kauf des Schlachtfeld-Saisonpasses in Saison <i>10</i> freigeschaltet werden.",
+                    "Este asalto legendario añade una nueva animación a los ataques de tus héroes de Campos de batalla, un efecto mayor para ataques de 15 p. de daño o más, un efecto aún mayor cuando eliminas a un oponente ¡y un efecto ENORME cuando acabas en primera posición!\n\nSe puede conseguir al comprar el pase de temporada de Campos de batalla en la temporada <i>10</i>.",
+                    "Este azote legendario les da una nueva animación a los ataques de tus héroes de Campos de batalla. ¡Tendrás incluso mejores efectos para ataques de 15 o más de daño, un efecto aún mayor cuando elimines a un adversario e incluso uno MAYOR cuando termines en el primer lugar!\n\nSe puede obtener después de comprar el Pase de temporada de Campos de batalla en la temporada <i>10</i>.",
+                    "Cette frappe légendaire ajoute une nouvelle animation aux attaques de vos héros et héroïnes de champs de bataille. Bénéficiez d’un effet plus marqué sur les attaques infligeant 15 points de dégâts ou plus, encore plus marqué lorsque vous achevez votre adversaire et GIGANTESQUE lorsque vous finissez à la première place !\n\nS’obtient après avoir acheté le ticket saisonnier des champs de bataille lors de la saison <i>10</i>.",
+                    "Questo Colpo Leggendario aggiunge una nuova animazione agli attacchi dei tuoi eroi della Battaglia, un effetto più grande per gli attacchi che infliggono 15 o più danni, uno ancora più grande quando sconfiggi un avversario e un effetto ENORME quando raggiungi il primo posto!\n\nOttenibile dopo aver acquistato il Pass Battaglia Stagionale nella Stagione <i>10</i>.",
+                    "このレジェンドストライクは、バトルグラウンドのヒーローの攻撃に新たなアニメーションを追加する。ダメージが15以上なら攻撃エフェクトが派手に、相手をKOした時にはさらに派手になり、優勝をキメると巨大なエフェクトが発生するぞ！\n\nバトルグラウンド・シーズン<i>10</i>の「シーズンパス」購入後に獲得可能となる。",
+                    "전설 타격 효과로 전장 영웅의 새로운 공격 애니메이션, 피해를 15 이상 줄 때 더 큰 효과, 상대를 탈락시킬 때 더더욱 큰 효과, 그리고 1위 달성을 기념하는 효과까지 더해보세요!\n\n<i>10</i>시즌 전장 시즌 패스를 구매한 후 획득 가능",
+                    "To legendarne zwieńczenie zmienia animacje ataku twoich bohaterów podczas Ustawki. Efekt staje się potężniejszy przy obrażeniach o wartości 15 lub wyższej, jeszcze potężniejszy, gdy wyeliminujesz przeciwnika, oraz NAJPOTĘŻNIEJSZY, gdy zdobędziesz pierwsze miejsce!\n\nDo zdobycia po zakupie karnetu sezonowego Ustawki w sezonie <i>10</i>.",
+                    "Esse Ataque Lendário adiciona uma nova animação aos ataques dos seus Heróis dos Campos de Batalha, um efeito maior para ataques de 15 ou mais de dano, um efeito ainda maior quando você nocauteia o oponente e um efeito GIGANTESCO quando você termina em primeiro lugar!\n\nPossível de obter após comprar o Passe de Temporada dos Campos de Batalha na Temporada <i>10</i>.",
+                    "Этот легендарный удар добавляет новую анимацию для атак ваших героев на полях сражений, при этом атаки, наносящие 15+ ед. урона, получают особый эффект. Ваши победы над противниками станут еще более впечатляющими, а если вы займете первое место, вас ждет поистине невероятное зрелище!\n\nМожно открыть после покупки пропуска <i>10</i>-го сезона полей сражений.",
+                    "ท่าโจมตีระดับตำนานท่านี้[b]เพิ่มความพิเศษให้การโจมตี[b]ของฮีโร่_Battlegrounds ของคุณ_เอฟเฟกต์จะ[b]ตระการตายิ่งขึ้นสำหรับ[b]การโจมตีที่สร้างความเสียหาย 15_แต้มหรือมากกว่า เอฟเฟกต์จะยิ่งใหญ่ขึ้นไปอีก[b]ถ้าคุณน็อคคู่ต่อสู้ได้และ\nปิดท้ายด้วยเอฟเฟกต์[b]สุดอลังการเมื่อคุณจบเป็น[b]อันดับหนึ่ง!\n\nปลดล็อคได้หลังจากซื้อ[b]ซีซันพาส_Battlegrounds ในซีซัน_<i>10</i>",
+                    "这款传说打击特效会为你的战棋英雄攻击添加新的动画效果。如果你造成了15点或以上的伤害，还能看到更加盛大的特效；在淘汰对手时还有更加宏大的特效；如果你最终获得了第一名，还会有规模空前的特效！\n\n购买第<i>10</i>赛季的酒馆战棋赛季通行证后开放解锁。",
+                    "傳說攻擊特效會為英雄戰場的英雄攻擊增加全新的動畫。攻擊力達到15點以上時更加華麗，打倒對手時還有特殊效果，而且以第一名勝利時會有超炫的特效！\n\n需在賽季<i>10</i>購買英雄戰場賽季通行證才有機會取得。"
+                ],
+                "m_locId": 2918157
+            },
+            "m_gameplaySettings": "ArdenwealdLegendaryStrike.asset:0b4108d8a68146b4086dcaef307a4440",
+            "m_destroyOpponentPrefab": "",
+            "m_destroyOpponentVictoryPrefab": "",
+            "m_detailsTexture": "",
+            "m_detailsMovie": "",
+            "m_detailsRenderConfig": "Ardenweald Legendary Configuration.asset:78c8a3a944f5e2b4f93ac48843400f82",
+            "m_miniBodyMaterial": "Ardenweald_Legendary_Material_CollectionMini_Body.mat:0b05f222d3d78704fb0b41cc545ecf15",
+            "m_miniArtMaterial": "Ardenwealld_Legendary_Material_CollectionMini_Art.mat:cf602d2b021584e4893cda33b2d3185e",
+            "m_isDefault": 0,
+            "m_capsuleType": 1
         }
     ]
 }

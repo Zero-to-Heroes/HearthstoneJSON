@@ -48,7 +48,7 @@ class CardTextureInfo:
 # 	with open('./ref/sound_effects.json', 'w') as resultFile:
 # 		resultFile.write(json.dumps(sound_effects))
 
-# ./generate_card_textures.py --outdir out --tiles-dir tiles --skip-existing /e/Games/Hearthstone/Data/Win
+# ./generate_card_textures.py --outdir out --tiles-dir tiles --cards-list cards_list.txt --skip-existing /e/Games/Hearthstone/Data/Win
 def main():
 	TypeTreeHelper.read_typetree_c = False
 
@@ -72,9 +72,9 @@ def generate_card_textures(src, args):
 	if args.cards_list:
 		with open(args.cards_list, "r") as f:
 			cards_list = f.read().splitlines()
+			print("cards_list: %s" % len(cards_list))
 	else:
 		cards_list = None
-	print("cards_list: %s" % len(cards_list))
     
 	print("Loading environment")
 	env: Environment = UnityPy.load(src)

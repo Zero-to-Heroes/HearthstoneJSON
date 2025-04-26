@@ -1583,6 +1583,30 @@
             "m_tooltipInitOrder": 93520
         },
         {
+            "m_ID": 358,
+            "m_noteDesc": "Elemental Bonus",
+            "m_tagId": 4197,
+            "m_name": "GLOBAL_KEYWORD_BACON_ELEMENTAL_BONUS",
+            "m_text": "GLOBAL_KEYWORD_BACON_ELEMENTAL_BONUS_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_BACON_ELEMENTAL_BONUS_TEXT",
+            "m_collectionText": "",
+            "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
+            "m_tooltipInitOrder": 93001
+        },
+        {
+            "m_ID": 359,
+            "m_noteDesc": "Tavern Spell Bonus",
+            "m_tagId": 4198,
+            "m_name": "GLOBAL_KEYWORD_BACON_TAVERN_SPELL_BONUS",
+            "m_text": "GLOBAL_KEYWORD_BACON_TAVERN_SPELL_BONUS_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_BACON_TAVERN_SPELL_BONUS_TEXT",
+            "m_collectionText": "",
+            "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
+            "m_tooltipInitOrder": 93002
+        },
+        {
             "m_ID": 36,
             "m_noteDesc": "",
             "m_tagId": 550,
