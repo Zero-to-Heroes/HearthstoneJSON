@@ -38,16 +38,6 @@ class CardTextureInfo:
 		self.portrait_path = portrait_path
 		self.tile_info = tile_info
 
-# ./generate_audio.py /e/t > out.txt
-# def main():
-# 	p = ArgumentParser()
-# 	p.add_argument("src")
-# 	args = p.parse_args(sys.argv[1:])
-
-# 	sound_effects = extract_info(args.src)
-# 	with open('./ref/sound_effects.json', 'w') as resultFile:
-# 		resultFile.write(json.dumps(sound_effects))
-
 # ./generate_card_textures.py --outdir out_test --tiles-dir tiles --cards-list cards_list.txt --skip-existing /e/Games/Hearthstone/Data/Win
 def main():
 	TypeTreeHelper.read_typetree_c = False
@@ -146,18 +136,18 @@ def build_cards_info(env: Environment, cards_map: Dict[str, str], cards_list: Li
 			# print("skipping build_cards_info %s" % cardid)
 			continue
 		prefab_pptr = env.container[prefabid]
-		print("card %s: %s, prefabid: %s, prefab_info: %s" % (current_card_idx, cardid, prefabid, prefab_pptr))
+		print("card %s: %s" % (current_card_idx, cardid))
 		current_card_idx += 1
 		prefab = cast(GameObject, prefab_pptr.read())
 		components = cast(List[ComponentPair], prefab.m_Component)
 		# Find the component that is a monobehavior
 		for component in components:
-			print("component: %s" % component)
+			# print("component: %s" % component)
 			component_pptr = component.component
-			print("component_pptr: %s" % component_pptr)
+			# print("component_pptr: %s" % component_pptr)
 			if component_pptr.type.name == "MonoBehaviour":
 				card_def = component_pptr.read()
-				print("card_def: %s" % card_def)
+				# print("c:ard_def: %s" % card_def)
 				# Sometimes there's multiple per cardid, we remove the ones without art
 				if not hasattr(card_def, "m_PortraitTexturePath"):
 					print("\tskipping %s, no m_PortraitTexturePath" % cardid)
@@ -168,13 +158,13 @@ def build_cards_info(env: Environment, cards_map: Dict[str, str], cards_list: Li
 				if len(portrait_path) == 0:
 					print("\tskipping %s, portrait_path is empty" % cardid)
 					continue
-				print("portrait_path: %s" % portrait_path)
+				# print("portrait_path: %s" % portrait_path)
 				tile_ptr: PPtr = card_def.__getattribute__("m_DeckCardBarPortrait")
-				print("tile_ptr: %s" % tile_ptr)
+				# print("tile_ptr: %s" % tile_ptr)
 				tile: Material = None if tile_ptr.path_id == 0 else tile_ptr.read()
 				# print("tile: %s" % tile)
 				tile_info = None if tile == None else tile.m_SavedProperties
-				print("tile_info: %s" % tile_info)
+				# print("tile_info: %s" % tile_info)
 				texture_info: CardTextureInfo = CardTextureInfo(
 					portrait_path = portrait_path.lower(),
 					tile_info = tile_info,
@@ -187,9 +177,9 @@ def build_cards_info(env: Environment, cards_map: Dict[str, str], cards_list: Li
 def do_texture(env: Environment, card_id: str, texture_info: CardTextureInfo, textures: Dict[str, PPtr], thumb_sizes, args):
 	try:
 		texture_pptr = textures[texture_info.portrait_path]	
-		print("texture_pptr: %s" % texture_pptr)
+		# print("texture_pptr: %s" % texture_pptr)
 		texture = texture_pptr.read()
-		print("texture: %s" % texture)
+		# print("texture: %s" % texture)
 		flipped = None
 		filename, exists = get_filename(args.outdir, args.orig_dir, card_id, ext=".png")
 
@@ -202,9 +192,9 @@ def do_texture(env: Environment, card_id: str, texture_info: CardTextureInfo, te
 			ext = "." + format
 			filename, exists = get_filename(args.outdir, args.tiles_dir, card_id, ext=ext)
 			if not (args.skip_existing and exists):
-				print("will build texture for %r" % (filename))
+				# print("will build texture for %r" % (filename))
 				if not texture.image:
-					print("texture has no image")
+					print("texture has no image %s" % card_id)
 				tile_texture = generate_tile_image(env, texture.image, texture_info.tile_info)
 				if not tile_texture:
 					print("could not generate tile texture %s" % card_id)
@@ -233,7 +223,7 @@ def do_texture(env: Environment, card_id: str, texture_info: CardTextureInfo, te
 
 
 def generate_tile_image(env: Environment, img, tile_info):
-	print("tile: %s" % tile_info)
+	# print("tile: %s" % tile_info)
 	if tile_info is None:
 		return None
     
@@ -261,12 +251,12 @@ def generate_tile_image(env: Environment, img, tile_info):
 		for entry in tile_info.m_TexEnvs:
 			if isinstance(entry, tuple) and entry[0] == "_MainTex":
 				main_tex = entry[1]
-				print("found main_tex: %s" % main_tex)
+				# print("found main_tex: %s" % main_tex)
 				break
 		if main_tex is None:
 			print("No _MainTex found in m_TexEnvs")
 			return None
-		print("main_tex: %s" % main_tex)
+		# print("main_tex: %s" % main_tex)
 		offset_x = main_tex.m_Offset.x
 		offset_y = main_tex.m_Offset.y
 		scale_x = main_tex.m_Scale.x
@@ -315,42 +305,56 @@ OUT_DIM = 256
 OUT_WIDTH = round(TEX_COORDS[1][0] * OUT_DIM - TEX_COORDS[0][0] * OUT_DIM)
 OUT_HEIGHT = round(TEX_COORDS[1][1] * OUT_DIM - TEX_COORDS[0][1] * OUT_DIM)
 
-
 def get_rect(ux, uy, usx, usy, sx, sy, ss, tex_dim=512):
-	# calc the coords
-	tl_x = ((TEX_COORDS[0][0] + sx) * ss) * usx + ux
-	tl_y = ((TEX_COORDS[0][1] + sy) * ss) * usy + uy
-	br_x = ((TEX_COORDS[1][0] + sx) * ss) * usx + ux
-	br_y = ((TEX_COORDS[1][1] + sy) * ss) * usy + uy
+    """
+    Calculate the crop rectangle for the deck bar image, converting Unity UV/material properties
+    to pixel coordinates for cropping in PIL.
 
-	# adjust if x coords cross-over
-	horiz_delta = tl_x - br_x
-	if horiz_delta > 0:
-		tl_x -= horiz_delta
-		br_x += horiz_delta
+    Parameters:
+    - ux, uy: Main texture UV offset (UnityTexEnv.m_Offset.x/y)
+    - usx, usy: Main texture UV scale (UnityTexEnv.m_Scale.x/y)
+    - sx, sy: Extra offset floats (_OffsetX, _OffsetY)
+    - ss: Extra scale float (_Scale)
+    - tex_dim: Texture dimension (default 512)
 
-	# get the bar rectangle at tex_dim size
-	x = round(tl_x * tex_dim)
-	y = round(tl_y * tex_dim)
-	width = round(abs((br_x - tl_x) * tex_dim))
-	height = round(abs((br_y - tl_y) * tex_dim))
+    Returns:
+    - (x, y, width, height): Rectangle in pixel coordinates
+    """
 
-	# adjust x and y, so that texture is "visible"
-	x = (x + width) % tex_dim - width
-	y = (y + height) % tex_dim - height
+    # Calculate UV coordinates for top-left and bottom-right corners
+    tl_u = ((TEX_COORDS[0][0] + sx) * ss) * usx + ux
+    tl_v = ((TEX_COORDS[0][1] + sy) * ss) * usy + uy
+    br_u = ((TEX_COORDS[1][0] + sx) * ss) * usx + ux
+    br_v = ((TEX_COORDS[1][1] + sy) * ss) * usy + uy
 
-	# ??? to cater for some special cases
-	min_visible = tex_dim / 4
-	while x + width < min_visible:
-		x += tex_dim
-	while y + height < 0:
-		y += tex_dim
+    # Handle horizontal crossover (if needed)
+    horiz_delta = tl_u - br_u
+    if horiz_delta > 0:
+        tl_u -= horiz_delta
+        br_u += horiz_delta
 
-	# ensure wrap around is used
-	if x < 0:
-		x += tex_dim
+    # Convert UVs to pixel coordinates
+    x = round(tl_u * tex_dim)
+    y = round(tl_v * tex_dim)
+    width = round(abs((br_u - tl_u) * tex_dim))
+    height = round(abs((br_v - tl_v) * tex_dim))
 
-	return (x, y, width, height)
+    # Adjust x and y for wrap-around/tiling
+    x = (x + width) % tex_dim - width
+    y = (y + height) % tex_dim - height
+
+    # Ensure minimum visible area
+    min_visible = tex_dim // 4
+    while x + width < min_visible:
+        x += tex_dim
+    while y + height < 0:
+        y += tex_dim
+
+    # Final wrap for negative x
+    if x < 0:
+        x += tex_dim
+
+    return (x, y, width, height)
 
 
 def get_dir(basedir, dirname):
