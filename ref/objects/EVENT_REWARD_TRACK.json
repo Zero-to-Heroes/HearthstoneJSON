@@ -2244,6 +2244,68 @@
         },
         {
             "m_ID": 0,
+            "m_specialEventId": 44,
+            "m_eventRewardTrackId": 132,
+            "m_choiceConfirmationText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_shortConclusion": {
+                "m_locValues": [
+                    "Dear Loh:",
+                    "Lieber Na'logo:",
+                    "Querido Loh:",
+                    "Querido Loh:",
+                    "Cher Loh,",
+                    "Caro Loh,",
+                    "親愛なるロー様",
+                    "로에게,",
+                    "Drogi Lohu:",
+                    "Caro Loh:",
+                    "Дорогой Ло!",
+                    "ถึงโลฮ์",
+                    "亲爱的洛：",
+                    "親愛的樂樂："
+                ],
+                "m_locId": 2923102
+            },
+            "m_longConclusion": {
+                "m_locValues": [
+                    "<i>After a thorough investigation, we believe we've uncovered something\nthat could change our very understanding of Tortollan history.\n\nWe're on our way to Un'Goro immediately. I've got an old friend to meet.\n\nSee you there,\n- Elise Starseeker</i>",
+                    "<i>Nach intensiver Forschung glauben wir, etwas entdeckt zu haben,\ndas unser Verständnis der Geschichte der Tortollaner grundlegend verändern könnte.\n\nWir brechen umgehend nach Un'Goro auf. Ich habe dort einen alten Freund zu treffen.\n\nWir sehen uns vor Ort,\n- Elise Sternensucher</i>",
+                    "<i>Tras una minuciosa investigación, creemos haber descubierto algo\nque podría revolucionar nuestras ideas sobre la historia tortoliana.\n\nHemos salido inmediatamente hacia Un'Goro, donde me espera una vieja amistad.\n\n¡Allí nos vemos!\n- Elise Buscaestelar</i>",
+                    "<i>Después de una minuciosa investigación, creemos que descubrimos algo\nque podría cambiar nuestra comprensión de la historia tortollana.\n\nVamos de camino a Un'Goro inmediatamente. Tengo que encontrarme con una vieja amistad.\n\nNos vemos allí,\n- Elisa Buscaestelar</i>",
+                    "<i>Après de méticuleuses recherches, nous pensons avoir découvert quelque chose\nqui pourrait bouleverser notre compréhension de l’histoire tortollane.\n\nNous nous mettons immédiatement en route pour Un’Goro.\nJe dois y retrouver une vieille connaissance.\n\nAu plaisir de vous y voir,\n– Elise Cherchétoile</i>",
+                    "<i>Dopo una scrupolosa indagine, abbiamo convenuto di aver scoperto qualcosa\nche potrebbe cambiare la nostra concezione della storia di Tortolla.\n\nCi stiamo recando a Un'Goro, al momento. Devo incontrare una vecchia conoscenza.\n\nCi vediamo là,\n- Elise Cercastelle</i>",
+                    "<i>綿密な調査の結果、トートランの歴史に対する\n我々の認識を変えうるものを発見いたしました。\n\n直ちにウンゴロへと向かい、古き友人に会う予定です。\n\n現地でお会いしましょう。\nエリーズ・スターシーカー</i>",
+                    "<i>철저한 조사 끝에 토르톨란 역사에 대한\n우리의 지식을 바꾸어 놓을 만한 것을 발견했어요.\n\n바로 운고로로 출발해서 가는 중이에요. 오랜 친구를 만나야 해서요.\n\n거기서 봐요,\n- 엘리스 스타시커</i>",
+                    "<i>Po dokładnym badaniu wydaje nam się, że odkryliśmy coś,\nco mogłoby zupełnie odmienić wizję historii turtolian.\n\nNiezwłocznie wyruszamy do Un'Goro na spotkanie ze starym znajomym.\n\nDo zobaczenia na miejscu!\nEliza Astrowidząca</i>",
+                    "<i>Após uma investigação completa, acreditamos ter descoberto algo que\npoderia mudar o nosso entendimento da história tortollana.\n\nEstamos a caminho de Un'Goro neste momento. Preciso me encontrar com um velho amigo.\n\nNos vemos por lá,\n- Elise Mirestela</i>",
+                    "<i>После долгих исследований мы, как нам кажется, сделали открытие,\nв корне меняющее все представления об истории тортолланов.\n\nМы немедленно отправились в Ун'Горо. Я должна встретиться с одним старым другом.\n\nУвидимся там.\nЭлиза Звездочет</i>",
+                    "<i>หลังจากที่เราสืบสวนอย่างถ้วนถี่แล้ว เราเชื่อว่าเราได้พบบางสิ่งที่อาจทำให้\nความเข้าใจที่เรามีต่อประวัติศาสตร์ทอร์ทอลลันนั้นเปลี่ยนไปอย่างสิ้นเชิง\n\nตอนนี้เรากำลังเดินทางไปที่อันโกโร ฉันมีเพื่อนเก่าที่ต้องไปเยี่ยมสักหน่อย\n\nแล้วเจอกันที่นั่น\n- เอลีส สตาร์ซีคเกอร์</i>",
+                    "<i>经过一番彻底调查，我们确信这次的发现\n足以颠覆我们对始祖龟历史的认知。\n\n我们会立即前往安戈洛。我要去见见那位老朋友。\n\n安戈洛见，\n——伊莉斯·逐星</i>",
+                    "<i>經過全面的調查之後，我們獲得了\n能夠改寫托爾托人歷史的重大發現。\n\n我們將立刻前往安戈洛，我打算去見一位老朋友。\n\n期待在那裡見到你。\n- 伊莉絲‧尋星者</i>"
+                ],
+                "m_locId": 2923103
+            }
+        },
+        {
+            "m_ID": 0,
             "m_specialEventId": 5,
             "m_eventRewardTrackId": 39,
             "m_choiceConfirmationText": {

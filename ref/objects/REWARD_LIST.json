@@ -16897,7 +16897,7 @@
                     "Zapłać biletami za wstęp na Arenę i walcz o nagrody!",
                     "Entre na Arena com cupons para competir por recompensas!",
                     "Заплатите билетом за вход на арену и выигрывайте награды!",
-                    "นำตั๋วเข้าแข่งขันในลานประลองเพื่อรับรางวัล!",
+                    "นำบัตรเข้าแข่งขันในลานประลองเพื่อรับรางวัล!",
                     "凭借旅店通票进入竞技模式，完成对战获取奖励！",
                     "使用門票進入競技場，相互較勁以獲得獎勵！"
                 ],
@@ -34520,7 +34520,7 @@
                 "m_locId": 2921516
             },
             "m_chooseOne": 0,
-            "m_locked": 1
+            "m_locked": 0
         },
         {
             "m_ID": 27,
@@ -34571,6 +34571,78 @@
             "m_locked": 0
         },
         {
+            "m_ID": 2707,
+            "m_description": {
+                "m_locValues": [
+                    "2x Sharp-Eyed Lookout, 1x Lost City of Un'Goro Pack",
+                    "2x Scharfsichtiger Ausguck, 1x Packung aus Verlorene Stadt Un'goro",
+                    "2x Vigía Ojo Avizor, 1x sobre de La Ciudad Perdida de Un'Goro",
+                    "2 Oteadora perspicaz, 1 paquete de La Ciudad Perdida de Un'Goro",
+                    "Vigie aux aguets ×2, paquet de La cité perdue d’Un’Goro ×1",
+                    "2 Vedetta dalla Vista Acuta, 1 busta di La Città Perduta di Un'Goro",
+                    "「鷹の目の見張り番」x2、「ウンゴロ最後の秘境」パックx1",
+                    "날카로운 눈매 망꾼 2장, 운고로의 잃어버린 도시 카드 팩 1개",
+                    "2 karty Strażniczka o ostrym wzroku, 1 pakiet Zaginionego miasta Un'Goro",
+                    "2x Atalaia de Olho Afiado, 1x Pacote de Cidade Perdida de Un'Goro",
+                    "2 карты «Зоркая дозорная», 1 комплект «Затерянного города Ун'Горо»",
+                    "2x หน่วยเฝ้าระวังตาแหลม, 1x ซองการ์ด The Lost City of Un'Goro",
+                    "2张锐目侦察兵，1包安戈洛龟途卡牌包",
+                    "2x 眼尖的偵查兵、1x 《安戈洛迷城》卡牌包"
+                ],
+                "m_locId": 2923284
+            },
+            "m_chooseOne": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 2708,
+            "m_description": {
+                "m_locValues": [
+                    "2x Dissolving Ooze, 1x Lost City of Un'Goro Pack",
+                    "2x Zersetzender Schlamm, 1x Packung aus Verlorene Stadt Un'goro",
+                    "2x Moco disolvente, 1x sobre de La Ciudad Perdida de Un'Goro",
+                    "2 Moco disolvente, 1 paquete de La Ciudad Perdida de Un'Goro",
+                    "Carte Limon dissolvant ×2, paquet de La cité perdue d’Un’Goro ×1",
+                    "2 Melma Dissolvente, 1 busta di La Città Perduta di Un'Goro",
+                    "「溶解ウーズ」x2、「ウンゴロ最後の秘境」パックx1",
+                    "녹이는 수액괴물 2장, 운고로의 잃어버린 도시 팩 1개",
+                    "2 karty Rozpuszczający szlam, 1 pakiet Zaginionego miasta Un'Goro",
+                    "2x Gosma Dissolvente, 1x Pacote de Cidade Perdida de Un'Goro",
+                    "2 карты «Растворяющий слизнюк», 1 комплект «Затерянного города Ун'Горо»",
+                    "2x อูซละลายร่าง, 1x ซองการ์ด The Lost City of Un'Goro",
+                    "2张蚀解软泥怪，1包安戈洛龟途卡牌包",
+                    "2x 溶蝕汙泥怪、1x 《安戈洛迷城》卡牌包"
+                ],
+                "m_locId": 2923285
+            },
+            "m_chooseOne": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 2709,
+            "m_description": {
+                "m_locValues": [
+                    "2x Golden Sharp-Eyed Lookout, 2x Tavern Ticket",
+                    "2x goldener Scharfsichtiger Ausguck, 2x Gasthauszugang",
+                    "2x Vigía Ojo Avizor dorada, 2x entrada de taberna",
+                    "2 Oteadora perspicaz dorada, 2 boletos de la Taberna",
+                    "Carte dorée Vigie aux aguets ×2, admission pour la taverne ×2",
+                    "2 Vedetta dalla Vista Acuta Dorate, 2 Biglietti Locanda",
+                    "ゴールデン「鷹の目の見張り番」x2、酒場チケットx2",
+                    "황금 날카로운 눈매 망꾼 2장, 선술집 입장권 2장",
+                    "2 złote karty Strażniczka o ostrym wzroku, 2 bilety do Karczmy",
+                    "2x Atalaia de Olho Afiado Dourados, 2x Ingressos da Taverna",
+                    "2 золотые карты «Зоркая дозорная», 2 пропуска в таверну",
+                    "2x หน่วยเฝ้าระวังตาแหลมสีทอง, 2x บัตรโรงเตี๊ยม",
+                    "2张金色锐目侦察兵，2张旅店通票",
+                    "2x 眼尖的偵查兵金卡、2x 旅店門票"
+                ],
+                "m_locId": 2923286
+            },
+            "m_chooseOne": 0,
+            "m_locked": 0
+        },
+        {
             "m_ID": 271,
             "m_description": {
                 "m_locValues": [
@@ -34590,6 +34662,30 @@
                     "畢勾沃斯幸運幣"
                 ],
                 "m_locId": 2756991
+            },
+            "m_chooseOne": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 2710,
+            "m_description": {
+                "m_locValues": [
+                    "2x Lost City of Un'Goro Pack, 2x Golden Dissolving Ooze, 2x Golden Blob of Tar",
+                    "2x Packung aus Verlorene Stadt Un'goro, 2x goldener Zersetzender Schlamm, 2x goldener Teerklumpen",
+                    "2x sobre de La Ciudad Perdida de Un'Goro, 2x Moco disolvente dorada, 2x Pegote de alquitrán dorada",
+                    "2 paquetes de La Ciudad Perdida de Un'Goro, 2 Moco disolvente dorado, 2 Masa de alquitrán dorada",
+                    "Paquet de La cité perdue d’Un’Goro ×2, carte dorée Limon dissolvant ×2, carte dorée Amas de goudron ×2",
+                    "2 buste di La Città Perduta di Un'Goro, 2 Melma Dissolvente Dorate, 2 Blob di Pece Dorate",
+                    "「ウンゴロ最後の秘境」パックx2、ゴールデン「溶解ウーズ」x2、ゴールデン「タールの塊」x2",
+                    "운고로의 잃어버린 도시 팩 2개, 황금 녹이는 수액괴물 2장, 황금 타르 덩어리 2장",
+                    "2 pakiety Zaginionego miasta Un'Goro, 2 złote karty Rozpuszczający szlam, 2 złote karty Smolisty glut",
+                    "2x Pacotes de Cidade Perdida de Un'Goro, 2x Gosma Dissolvente Dourados, 2x Bolha de Piche Dourados",
+                    "2 комплекта «Затерянного города Ун'Горо», 2 золотые карты «Растворяющий слизнюк»,\n2 золотые карты «Сгусток смолы»",
+                    "2x ซองการ์ด The Lost City of Un'Goro, 2x อูซละลายร่างสีทอง, 2x ก้อนบล็อบน้ำมันดินสีทอง",
+                    "2包安戈洛龟途卡牌包，2张金色蚀解软泥怪，2张金色黏团焦油",
+                    "2x 《安戈洛迷城》卡牌包、2x 溶蝕汙泥怪金卡、2x 焦油團塊金卡"
+                ],
+                "m_locId": 2923287
             },
             "m_chooseOne": 0,
             "m_locked": 0
@@ -34811,6 +34907,54 @@
             "m_locked": 0
         },
         {
+            "m_ID": 2808,
+            "m_description": {
+                "m_locValues": [
+                    "1x The Lost City of Un'Goro Pack",
+                    "1x Packung: Die Verlorene Stadt Un'Goro",
+                    "1x sobre de La Ciudad Perdida de Un'Goro",
+                    "1 paquete de La Ciudad Perdida de Un'Goro",
+                    "Paquet de La cité perdue d’Un’Goro ×1",
+                    "1 busta di La Città Perduta di Un'Goro",
+                    "「ウンゴロ最後の秘境」パックx1",
+                    "운고로의 잃어버린 도시 팩 1개",
+                    "1 x pakiet Zaginionego miasta Un'Goro",
+                    "1x Pacote de A Cidade Perdida de Un'Goro",
+                    "1 комплект «Затерянного города Ун'Горо»",
+                    "1x ซองการ์ด The Lost City of Un'Goro",
+                    "1包安戈洛龟途卡牌包",
+                    "1x 《安戈洛迷城》卡牌包"
+                ],
+                "m_locId": 2926055
+            },
+            "m_chooseOne": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 2809,
+            "m_description": {
+                "m_locValues": [
+                    "1x The Lost City of Un'Goro Pack, 1x Into the Emerald Dream Pack",
+                    "1x Packung aus Die Verlorene Stadt Un'Goro, 1x Packung aus Der Smaragdgrüne Traum",
+                    "1x sobre de La Ciudad Perdida de Un'Goro, 1x sobre de Camino al Sueño Esmeralda",
+                    "1 paquete de La Ciudad Perdida de Un'Goro, 1 paquete de Hacia el Sueño Esmeralda",
+                    "Paquet de La cité perdue d’Un’Goro ×1, paquet d’Au cœur du Rêve d’émeraude ×1",
+                    "1 busta di La Città Perduta di Un'Goro, 1 busta di Nel Sogno di Smeraldo",
+                    "「ウンゴロ最後の秘境」パックx1、「夢みる大地エメラルド・ドリーム」パックx1",
+                    "운고로의 잃어버린 도시 팩 1개, 에메랄드의 꿈 속으로 팩 1개",
+                    "1 x pakiet Zaginionego miasta Un'Goro, 1 x pakiet W objęciach Szmaragdowego Snu",
+                    "1x Pacote de A Cidade Perdida de Un'Goro, 1x Pacote de Rumo ao Sonho Esmeralda",
+                    "1 комплект «Затерянного города Ун'Горо», 1 комплект «Объятий Изумрудного Сна»",
+                    "1x ซองการ์ด The Lost City of Un'Goro, 1x ซองการ์ด Into the Emerald Dream",
+                    "1包安戈洛龟途卡牌包，1包漫游翡翠梦境卡牌包",
+                    "1x 《安戈洛迷城》卡牌包、1x 《翡翠夢境》卡牌包"
+                ],
+                "m_locId": 2926056
+            },
+            "m_chooseOne": 0,
+            "m_locked": 0
+        },
+        {
             "m_ID": 281,
             "m_description": {
                 "m_locValues": [
@@ -34830,6 +34974,30 @@
                     "鳳凰年卡牌包"
                 ],
                 "m_locId": 2760133
+            },
+            "m_chooseOne": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 2810,
+            "m_description": {
+                "m_locValues": [
+                    "1x The Lost City of Un'Goro Golden Pack, 1x The Lost City of Un'Goro Pack",
+                    "1x goldene Packung aus Die Verlorene Stadt Un'Goro, 1x Packung aus Die Verlorene Stadt Un’Goro",
+                    "1x sobre dorado de La Ciudad Perdida de Un'Goro, 1x sobre de La Ciudad Perdida de Un'Goro",
+                    "1 paquete dorado de La Ciudad Perdida de Un'Goro, 1 paquete de La Ciudad Perdida de Un'Goro",
+                    "Paquet doré de La cité perdue d’Un’Goro ×1, paquet de La cité perdue d’Un’Goro ×1",
+                    "1 busta Dorata di La Città Perduta di Un'Goro 1 busta di La Città Perduta di Un'Goro",
+                    "「ウンゴロ最後の秘境」ゴールデンパックx1、「ウンゴロ最後の秘境」パックx1",
+                    "운고로의 잃어버린 도시 황금 팩 1개, 운고로의 잃어버린 도시 팩 1개",
+                    "1 x złoty pakiet Zaginionego miasta Un'Goro, 1 x pakiet Zaginionego miasta Un'Goro",
+                    "1x Pacote Dourado de A Cidade Perdida de Un'Goro, 1x Pacote de A Cidade Perdida de Un'Goro",
+                    "1 золотой комплект «Затерянного города Ун'Горо», 1 комплект «Затерянного города Ун'Горо»",
+                    "1x ซองการ์ด The Lost City of Un'Goro สีทอง, 1x ซองการ์ด The Lost City of Un'Goro",
+                    "1包安戈洛龟途金色包，1包安戈洛龟途卡牌包",
+                    "1x 《安戈洛迷城》黃金卡牌包、1x 《安戈洛迷城》卡牌包"
+                ],
+                "m_locId": 2926058
             },
             "m_chooseOne": 0,
             "m_locked": 0
