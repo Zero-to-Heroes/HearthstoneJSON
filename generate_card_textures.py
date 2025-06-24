@@ -48,7 +48,7 @@ class CardTextureInfo:
 # 	with open('./ref/sound_effects.json', 'w') as resultFile:
 # 		resultFile.write(json.dumps(sound_effects))
 
-# ./generate_card_textures.py --outdir out --tiles-dir tiles --cards-list cards_list.txt --skip-existing /e/Games/Hearthstone/Data/Win
+# ./generate_card_textures.py --outdir out_test --tiles-dir tiles --cards-list cards_list.txt --skip-existing /e/Games/Hearthstone/Data/Win
 def main():
 	TypeTreeHelper.read_typetree_c = False
 
@@ -118,10 +118,8 @@ def build_cards_map(env: Environment, cards_list: List[str]) -> Dict[str, str]:
 				cards_map = {}
 				for cardid, value in zip(keys, values):
 					if cards_list and cardid not in cards_list:
-						print("skipping build_cards_map %s" % cardid)
+						# print("skipping build_cards_map %s" % cardid)
 						continue
-					# if cardid != "SC_004":
-					# 	continue
 					# Only keep the id of the prefab, which means what is after prefab:
 					asset_id = value.split("prefab:")[1]
 					cards_map[cardid] = asset_id
@@ -145,12 +143,8 @@ def build_cards_info(env: Environment, cards_map: Dict[str, str], cards_list: Li
 	# Iterate over the cards map
 	for cardid, prefabid in cards_map.items():
 		if cards_list and cardid not in cards_list:
-			print("skipping build_cards_info %s" % cardid)
+			# print("skipping build_cards_info %s" % cardid)
 			continue
-		# if cardid != "BG31_HERO_802pt1":
-		# 	continue
-		# if current_card_idx < 7760:
-		# 	continue
 		prefab_pptr = env.container[prefabid]
 		print("card %s: %s, prefabid: %s, prefab_info: %s" % (current_card_idx, cardid, prefabid, prefab_pptr))
 		current_card_idx += 1
@@ -158,12 +152,12 @@ def build_cards_info(env: Environment, cards_map: Dict[str, str], cards_list: Li
 		components = cast(List[ComponentPair], prefab.m_Component)
 		# Find the component that is a monobehavior
 		for component in components:
-			# print("component: %s" % component)
+			print("component: %s" % component)
 			component_pptr = component.component
-			# print("component_pptr: %s" % component_pptr)
+			print("component_pptr: %s" % component_pptr)
 			if component_pptr.type.name == "MonoBehaviour":
 				card_def = component_pptr.read()
-				# print("card_def: %s" % card_def)
+				print("card_def: %s" % card_def)
 				# Sometimes there's multiple per cardid, we remove the ones without art
 				if not hasattr(card_def, "m_PortraitTexturePath"):
 					print("\tskipping %s, no m_PortraitTexturePath" % cardid)
@@ -174,13 +168,13 @@ def build_cards_info(env: Environment, cards_map: Dict[str, str], cards_list: Li
 				if len(portrait_path) == 0:
 					print("\tskipping %s, portrait_path is empty" % cardid)
 					continue
-				# print("portrait_path: %s" % portrait_path)
+				print("portrait_path: %s" % portrait_path)
 				tile_ptr: PPtr = card_def.__getattribute__("m_DeckCardBarPortrait")
-				# print("tile_ptr: %s" % tile_ptr)
+				print("tile_ptr: %s" % tile_ptr)
 				tile: Material = None if tile_ptr.path_id == 0 else tile_ptr.read()
 				# print("tile: %s" % tile)
 				tile_info = None if tile == None else tile.m_SavedProperties
-				# print("tile_info: %s" % tile_info)
+				print("tile_info: %s" % tile_info)
 				texture_info: CardTextureInfo = CardTextureInfo(
 					portrait_path = portrait_path.lower(),
 					tile_info = tile_info,
@@ -193,9 +187,9 @@ def build_cards_info(env: Environment, cards_map: Dict[str, str], cards_list: Li
 def do_texture(env: Environment, card_id: str, texture_info: CardTextureInfo, textures: Dict[str, PPtr], thumb_sizes, args):
 	try:
 		texture_pptr = textures[texture_info.portrait_path]	
-		# print("texture_pptr: %s" % texture_pptr)
+		print("texture_pptr: %s" % texture_pptr)
 		texture = texture_pptr.read()
-		# print("texture: %s" % texture)
+		print("texture: %s" % texture)
 		flipped = None
 		filename, exists = get_filename(args.outdir, args.orig_dir, card_id, ext=".png")
 
@@ -239,6 +233,7 @@ def do_texture(env: Environment, card_id: str, texture_info: CardTextureInfo, te
 
 
 def generate_tile_image(env: Environment, img, tile_info):
+	print("tile: %s" % tile_info)
 	if tile_info is None:
 		return None
     
@@ -251,46 +246,67 @@ def generate_tile_image(env: Environment, img, tile_info):
 	tiled = Image.new("RGB", (img.width * 2, img.height))
 	tiled.paste(img, (0, 0))
 	tiled.paste(img, (img.width, 0))
+ 
+    # Default props
+	offset_x = 0.0
+	offset_y = 0.0
+	scale_x = 1.0
+	scale_y = 1.0
+	extra_offset_x = 0.0
+	extra_offset_y = 0.0
+	extra_scale = 1.0
+ 
+	if tile_info:
+		main_tex = None
+		for entry in tile_info.m_TexEnvs:
+			if isinstance(entry, tuple) and entry[0] == "_MainTex":
+				main_tex = entry[1]
+				print("found main_tex: %s" % main_tex)
+				break
+		if main_tex is None:
+			print("No _MainTex found in m_TexEnvs")
+			return None
+		print("main_tex: %s" % main_tex)
+		offset_x = main_tex.m_Offset.x
+		offset_y = main_tex.m_Offset.y
+		scale_x = main_tex.m_Scale.x
+		scale_y = main_tex.m_Scale.y
+		extra_offset_x = get_float(tile_info.m_Floats, "_OffsetX", 0.0)
+		extra_offset_y = get_float(tile_info.m_Floats, "_OffsetY", 0.0)
+		extra_scale   = get_float(tile_info.m_Floats, "_Scale", 1.0)
 
-	# print("tile: %s" % tile_info)
-	# props = (-0.13, 0.13, 1, 1, 0, 0, 1.1, img.width)
-	props = (-0.2, 0.25, 1, 1, 0, 0, 1, img.width)
-	# TODO: fix this
-	# if tile:
-	# 	print("texEnvs: %s" % tile.m_TexEnvs)
-	# 	print("texEnvs 2: %s" % tile.m_TexEnvs[''])
-	# 	texEnvs = tile.m_TexEnvs['']
-	# 	m_Texture: PPtr = texEnvs.m_Texture
-	# 	tex = m_Texture.read()
-	# 	print("m_Texture: %s" % m_Texture)
-	# 	m_Offset = texEnvs.m_Offset
-	# 	print("m_Offset: %s" % m_Offset)
-	# 	m_Scale = texEnvs.m_Scale
-	# 	print("m_Scale: %s" % m_Scale)
-	# 	m_Floats = tile.m_Floats
-	# 	print("m_Floats: %s" % m_Floats)
-	# 	print("tex: %s" % tex)
-	# 	props = (
-	# 		tile.m_TexEnvs["_MainTex"].m_Offset.X,
-	# 		tile.m_TexEnvs["_MainTex"].m_Offset.Y,
-	# 		tile.m_TexEnvs["_MainTex"].m_Scale.X,
-	# 		tile.m_TexEnvs["_MainTex"].m_Scale.Y,
-	# 		tile.m_Floats.get("_OffsetX", 0.0),
-	# 		tile.m_Floats.get("_OffsetY", 0.0),
-	# 		tile.m_Floats.get("_Scale", 1.0),
-	# 		img.width
-	# 	)
-		# print("tile props: %s" % (props,))
+	# Use get_rect to calculate the crop rectangle
+	x, y, width, height = get_rect(
+		offset_x, offset_y, scale_x, scale_y,
+		extra_offset_x, extra_offset_y, extra_scale,
+		img.width
+	)
 
-	x, y, width, height = get_rect(*props)
-	# print("x: %s, y: %s, width: %s, height: %s" % (x, y, width, height))
-	bar = ImageOps.flip(tiled).crop((x, y, x + width, y + height))
-	bar = ImageOps.flip(bar)
-	# negative x scale means horizontal flip
-	if props[2] < 0:
+	# Clamp to image bounds
+	x = max(0, min(x, img.width * 2 - 1))
+	y = max(0, min(y, img.height - 1))
+	width = max(1, min(width, img.width * 2 - x))
+	height = max(1, min(height, img.height - y))
+
+	# Invert Y for PIL (since Unity's 0 is bottom, PIL's 0 is top)
+	y = img.height - y - height
+
+	bar = tiled.crop((x, y, x + width, y + height))
+
+	# Flip if negative scale
+	if scale_x * extra_scale < 0:
 		bar = ImageOps.mirror(bar)
+	if scale_y * extra_scale < 0:
+		bar = ImageOps.flip(bar)
 
 	return bar.resize((OUT_WIDTH, OUT_HEIGHT), Image.LANCZOS)
+
+ 
+def get_float(m_Floats, key, default=0.0):
+    for k, v in m_Floats:
+        if k == key:
+            return v
+    return default
 
 
 # Deck tile generation
