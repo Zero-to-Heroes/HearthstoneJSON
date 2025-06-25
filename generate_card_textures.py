@@ -7,7 +7,7 @@ import UnityPy
 from argparse import ArgumentParser
 from typing import List, cast, Dict
 
-from PIL import Image, ImageOps
+from PIL import Image, ImageOps, ImageDraw
 from UnityPy import Environment
 from UnityPy.enums import ClassIDType
 from UnityPy.helpers import TypeTreeHelper
@@ -50,7 +50,7 @@ def main():
 	p.add_argument("--tiles-dir", type=str, default="tiles", help="Name of output for tiles")
 	p.add_argument("--cards-list", type=str, help="Path to file with the list of cards to include")
 	p.add_argument(
-		"--formats", nargs="*", default=["jpg"],
+		"--formats", nargs="*", default=["png"],
 		help="Which image formats to generate"
 	)
 	args = p.parse_args(sys.argv[1:])
@@ -223,7 +223,7 @@ def do_texture(env: Environment, card_id: str, texture_info: CardTextureInfo, te
 
 
 def generate_tile_image(env: Environment, img, tile_info):
-	# print("tile: %s" % tile_info)
+	print("tile: %s" % tile_info)
 	if tile_info is None:
 		return None
     
@@ -289,9 +289,69 @@ def generate_tile_image(env: Environment, img, tile_info):
 	if scale_y * extra_scale < 0:
 		bar = ImageOps.flip(bar)
 
+	# Make white background transparent
+	bar = bar.convert("RGBA")
+	bar = make_white_bg_transparent(bar)
+	print("made white bg transparent")
+ 
+	# Remove the leftmost 55 pixels
+	bar = bar.crop((55, 0, bar.width, bar.height))
+ 
+
 	return bar.resize((OUT_WIDTH, OUT_HEIGHT), Image.LANCZOS)
 
  
+def make_white_bg_transparent(img, threshold=240):
+    img = img.convert("RGBA")
+    w, h = img.size
+    mask = Image.new("L", (w, h), 0)
+    pixels = img.load()
+    mask_pixels = mask.load()
+
+    # Helper to check if a pixel is "white enough"
+    def is_white(px):
+        return px[0] >= threshold and px[1] >= threshold and px[2] >= threshold
+
+    # Flood fill from all white border pixels
+    from collections import deque
+    queue = deque()
+
+    # Add all white border pixels to the queue
+    for x in range(w):
+        if is_white(pixels[x, 0]):
+            queue.append((x, 0))
+        if is_white(pixels[x, h-1]):
+            queue.append((x, h-1))
+    for y in range(h):
+        if is_white(pixels[0, y]):
+            queue.append((0, y))
+        if is_white(pixels[w-1, y]):
+            queue.append((w-1, y))
+
+    # Directions: up, down, left, right
+    directions = [(-1,0), (1,0), (0,-1), (0,1)]
+
+    # Flood fill
+    while queue:
+        x, y = queue.popleft()
+        if 0 <= x < w and 0 <= y < h and mask_pixels[x, y] == 0 and is_white(pixels[x, y]):
+            mask_pixels[x, y] = 255
+            for dx, dy in directions:
+                queue.append((x+dx, y+dy))
+
+    # Apply mask: set alpha to 0 where mask is 255
+    new_pixels = []
+    for y in range(h):
+        for x in range(w):
+            r, g, b, a = pixels[x, y]
+            if mask_pixels[x, y] == 255:
+                new_pixels.append((r, g, b, 0))
+            else:
+                new_pixels.append((r, g, b, a))
+    img.putdata(new_pixels)
+    return img
+
+
 def get_float(m_Floats, key, default=0.0):
     for k, v in m_Floats:
         if k == key:
