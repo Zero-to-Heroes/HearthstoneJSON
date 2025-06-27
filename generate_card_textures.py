@@ -49,10 +49,10 @@ def main():
 	p.add_argument("--orig-dir", type=str, default="orig", help="Name of output for originals")
 	p.add_argument("--tiles-dir", type=str, default="tiles", help="Name of output for tiles")
 	p.add_argument("--cards-list", type=str, help="Path to file with the list of cards to include")
-	p.add_argument(
-		"--formats", nargs="*", default=["png"],
-		help="Which image formats to generate"
-	)
+	# p.add_argument(
+	# 	"--formats", nargs="*", default=["png", "jpg"],
+	# 	help="Which image formats to generate"
+	# )
 	args = p.parse_args(sys.argv[1:])
 	generate_card_textures(args.src, args)
 
@@ -142,12 +142,15 @@ def build_cards_info(env: Environment, cards_map: Dict[str, str], cards_list: Li
 		components = cast(List[ComponentPair], prefab.m_Component)
 		# Find the component that is a monobehavior
 		for component in components:
-			# print("component: %s" % component)
+			print("component: %s" % component)
 			component_pptr = component.component
-			# print("component_pptr: %s" % component_pptr)
+			print("component_pptr: %s" % component_pptr)
 			if component_pptr.type.name == "MonoBehaviour":
 				card_def = component_pptr.read()
-				# print("c:ard_def: %s" % card_def)
+				print("card_def: %s" % card_def)
+				attrs = [attr for attr in dir(card_def) if not attr.startswith("__")]
+				print("card_def attributes:", attrs)
+    
 				# Sometimes there's multiple per cardid, we remove the ones without art
 				if not hasattr(card_def, "m_PortraitTexturePath"):
 					print("\tskipping %s, no m_PortraitTexturePath" % cardid)
@@ -158,13 +161,13 @@ def build_cards_info(env: Environment, cards_map: Dict[str, str], cards_list: Li
 				if len(portrait_path) == 0:
 					print("\tskipping %s, portrait_path is empty" % cardid)
 					continue
-				# print("portrait_path: %s" % portrait_path)
+				print("portrait_path: %s" % portrait_path)
 				tile_ptr: PPtr = card_def.__getattribute__("m_DeckCardBarPortrait")
-				# print("tile_ptr: %s" % tile_ptr)
+				print("tile_ptr: %s" % tile_ptr)
 				tile: Material = None if tile_ptr.path_id == 0 else tile_ptr.read()
-				# print("tile: %s" % tile)
+				print("tile: %s" % tile)
 				tile_info = None if tile == None else tile.m_SavedProperties
-				# print("tile_info: %s" % tile_info)
+				print("tile_info: %s" % tile_info)
 				texture_info: CardTextureInfo = CardTextureInfo(
 					portrait_path = portrait_path.lower(),
 					tile_info = tile_info,
@@ -188,89 +191,89 @@ def do_texture(env: Environment, card_id: str, texture_info: CardTextureInfo, te
 			flipped = ImageOps.scale(texture.image, 1).convert("RGB")
 			flipped.save(filename)
 
-		for format in args.formats:
-			ext = "." + format
-			filename, exists = get_filename(args.outdir, args.tiles_dir, card_id, ext=ext)
+		ext = ".png"
+		filename, exists = get_filename(args.outdir, args.tiles_dir, card_id, ext=ext)
+		if not (args.skip_existing and exists):
+			# print("will build texture for %r" % (filename))
+			if not texture.image:
+				print("texture has no image %s" % card_id)
+			tile_texture = generate_tile_image(env, texture.image, texture_info.tile_info)
+			if not tile_texture:
+				print("could not generate tile texture %s" % card_id)
+				# Some hero skins have no tiles, but still have the thumb
+			else:
+				print("-> %r" % (filename))
+				tile_texture.save(filename)
+
+		ext = ".jpg"
+		for sz in thumb_sizes:
+			thumb_dir = "%ix" % (sz)
+			filename, exists = get_filename(args.outdir, thumb_dir, card_id, ext=ext)
 			if not (args.skip_existing and exists):
-				# print("will build texture for %r" % (filename))
-				if not texture.image:
-					print("texture has no image %s" % card_id)
-				tile_texture = generate_tile_image(env, texture.image, texture_info.tile_info)
-				if not tile_texture:
-					print("could not generate tile texture %s" % card_id)
-					# Some hero skins have no tiles, but still have the thumb
-				else:
-					print("-> %r" % (filename))
-					tile_texture.save(filename)
-					
-
-			if ext == ".png":
-				# skip png generation for thumbnails
-				continue
-
-			for sz in thumb_sizes:
-				thumb_dir = "%ix" % (sz)
-				filename, exists = get_filename(args.outdir, thumb_dir, card_id, ext=ext)
-				if not (args.skip_existing and exists):
-					if not flipped:
-						flipped = ImageOps.scale(texture.image, 1).convert("RGB")
-					thumb_texture = flipped.resize((sz, sz))
-					print("-> %r" % (filename))
-					thumb_texture.save(filename)
+				if not flipped:
+					flipped = ImageOps.scale(texture.image, 1).convert("RGB")
+				thumb_texture = flipped.resize((sz, sz))
+				print("-> %r" % (filename))
+				thumb_texture.save(filename)
 	except Exception as e:
 		print("ERROR on %r (%r): %s" % (texture_info, card_id, e))
         
 
 
 def generate_tile_image(env: Environment, img, tile_info):
-	print("tile: %s" % tile_info)
-	if tile_info is None:
-		return None
-    
+	print("tile: %s" % tile_info)    
 	if (img.width, img.height) != (512, 512):
 		img = img.resize((512, 512), Image.ANTIALIAS)
+  
+	if tile_info is not None:
+		# tile the image horizontally (x2 is enough),
+		# some cards need to wrap around to create a bar (e.g. Muster for Battle),
+		# also discard alpha channel (e.g. Soulfire, Mortal Coil)
+		tiled = Image.new("RGB", (img.width * 2, img.height))
+		tiled.paste(img, (0, 0))
+		tiled.paste(img, (img.width, 0))
+	
+		# Default props
+		offset_x = 0.0
+		offset_y = 0.0
+		scale_x = 1.0
+		scale_y = 1.0
+		extra_offset_x = 0.0
+		extra_offset_y = 0.0
+		extra_scale = 1.0
+	
+		if tile_info:
+			main_tex = None
+			for entry in tile_info.m_TexEnvs:
+				if isinstance(entry, tuple) and entry[0] == "_MainTex":
+					main_tex = entry[1]
+					print("found main_tex: %s" % main_tex)
+					break
+			if main_tex is None:
+				print("No _MainTex found in m_TexEnvs")
+				return None
+			print("main_tex: %s" % main_tex)
+			offset_x = main_tex.m_Offset.x
+			offset_y = main_tex.m_Offset.y
+			scale_x = main_tex.m_Scale.x
+			scale_y = main_tex.m_Scale.y
+			extra_offset_x = get_float(tile_info.m_Floats, "_OffsetX", 0.0)
+			extra_offset_y = get_float(tile_info.m_Floats, "_OffsetY", 0.0)
+			extra_scale   = get_float(tile_info.m_Floats, "_Scale", 1.0)
 
-	# tile the image horizontally (x2 is enough),
-	# some cards need to wrap around to create a bar (e.g. Muster for Battle),
-	# also discard alpha channel (e.g. Soulfire, Mortal Coil)
-	tiled = Image.new("RGB", (img.width * 2, img.height))
-	tiled.paste(img, (0, 0))
-	tiled.paste(img, (img.width, 0))
- 
-    # Default props
-	offset_x = 0.0
-	offset_y = 0.0
-	scale_x = 1.0
-	scale_y = 1.0
-	extra_offset_x = 0.0
-	extra_offset_y = 0.0
-	extra_scale = 1.0
- 
-	if tile_info:
-		main_tex = None
-		for entry in tile_info.m_TexEnvs:
-			if isinstance(entry, tuple) and entry[0] == "_MainTex":
-				main_tex = entry[1]
-				# print("found main_tex: %s" % main_tex)
-				break
-		if main_tex is None:
-			print("No _MainTex found in m_TexEnvs")
-			return None
-		# print("main_tex: %s" % main_tex)
-		offset_x = main_tex.m_Offset.x
-		offset_y = main_tex.m_Offset.y
-		scale_x = main_tex.m_Scale.x
-		scale_y = main_tex.m_Scale.y
-		extra_offset_x = get_float(tile_info.m_Floats, "_OffsetX", 0.0)
-		extra_offset_y = get_float(tile_info.m_Floats, "_OffsetY", 0.0)
-		extra_scale   = get_float(tile_info.m_Floats, "_Scale", 1.0)
-
-	# Use get_rect to calculate the crop rectangle
-	x, y, width, height = get_rect(
-		offset_x, offset_y, scale_x, scale_y,
-		extra_offset_x, extra_offset_y, extra_scale,
-		img.width
-	)
+		# Use get_rect to calculate the crop rectangle
+		x, y, width, height = get_rect(
+			offset_x, offset_y, scale_x, scale_y,
+			extra_offset_x, extra_offset_y, extra_scale,
+			img.width
+		)
+		print("rect: x=%d, y=%d, width=%d, height=%d" % (x, y, width, height))
+	# Hardcode the value (taken from the Counterfeit coin)
+	else:
+		x = 467
+		y = 223
+		width = 440
+		height = 101
 
 	# Clamp to image bounds
 	x = max(0, min(x, img.width * 2 - 1))

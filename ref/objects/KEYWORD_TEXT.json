@@ -1535,6 +1535,18 @@
             "m_tooltipInitOrder": 2000
         },
         {
+            "m_ID": 351,
+            "m_noteDesc": "Kindred",
+            "m_tagId": 4028,
+            "m_name": "GLOBAL_KEYWORD_KINDRED",
+            "m_text": "GLOBAL_KEYWORD_KINDRED_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_KINDRED_TEXT",
+            "m_collectionText": "",
+            "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
+            "m_tooltipInitOrder": 1820000
+        },
+        {
             "m_ID": 352,
             "m_noteDesc": "This tooltip is generated in code, the entry here exists to set sort order and link to the correct tag",
             "m_tagId": 3880,

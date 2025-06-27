@@ -137,6 +137,12 @@
             "m_overrideUrl": "https://hs.blizzard.cn/news/hs-shop.html"
         },
         {
+            "m_ID": 18,
+            "m_externalUrlId": 6,
+            "m_region": "CN",
+            "m_overrideUrl": "https://account.battlenet.com.cn/creation/completion?theme=wtcg&app={0}&ticket=true&reason={1}&wins={2}&r=/battletag%253Fret=http://localhost:0"
+        },
+        {
             "m_ID": 76,
             "m_externalUrlId": 35,
             "m_region": "CN",
@@ -149,10 +155,22 @@
             "m_overrideUrl": "https://kr.battle.net/shop/product/balance?utm_source=game-hearthstone&utm_medium=internal&utm_content=payment-error-case%1"
         },
         {
+            "m_ID": 19,
+            "m_externalUrlId": 7,
+            "m_region": "CN",
+            "m_overrideUrl": "https://legal.battlenet.com.cn/zh-cn/legal/a6deb98c-75f3-4df7-a8f7-5f42cff34283/non-printable"
+        },
+        {
             "m_ID": 78,
             "m_externalUrlId": 37,
             "m_region": "CN",
             "m_overrideUrl": "https://support.blizzardgames.cn/"
+        },
+        {
+            "m_ID": 80,
+            "m_externalUrlId": 77,
+            "m_region": "CN",
+            "m_overrideUrl": "https://www.battlenet.com.cn/support/zh/article/hearthstone-game-server-connection-mobile"
         },
         {
             "m_ID": 16,
@@ -167,24 +185,6 @@
             "m_overrideUrl": "https://hs.blizzard.cn/community/fireside-gatherings"
         },
         {
-            "m_ID": 18,
-            "m_externalUrlId": 6,
-            "m_region": "CN",
-            "m_overrideUrl": "https://account.battlenet.com.cn/creation/completion?theme=wtcg&app={0}&ticket=true&reason={1}&wins={2}&r=/battletag%253Fret=http://localhost:0"
-        },
-        {
-            "m_ID": 19,
-            "m_externalUrlId": 7,
-            "m_region": "CN",
-            "m_overrideUrl": "https://legal.battlenet.com.cn/zh-cn/legal/a6deb98c-75f3-4df7-a8f7-5f42cff34283/non-printable"
-        },
-        {
-            "m_ID": 80,
-            "m_externalUrlId": 77,
-            "m_region": "CN",
-            "m_overrideUrl": "https://www.battlenet.com.cn/support/zh/article/hearthstone-game-server-connection-mobile"
-        },
-        {
             "m_ID": 81,
             "m_externalUrlId": 79,
             "m_region": "CN",
@@ -195,12 +195,6 @@
             "m_externalUrlId": 79,
             "m_region": "KR",
             "m_overrideUrl": "https://account.battle.net/login/sso?token={0}&ref=https://kr.battle.net/support/ko/article/75809"
-        },
-        {
-            "m_ID": 20,
-            "m_externalUrlId": 8,
-            "m_region": "CN",
-            "m_overrideUrl": "https://legal.battlenet.com.cn/zh-cn/legal/2e90163d-612f-41a5-addd-8a837ac43d02/non-printable"
         },
         {
             "m_ID": 82,
@@ -215,10 +209,22 @@
             "m_overrideUrl": "https://kr.battle.net/support/ko/article/75809?logout"
         },
         {
+            "m_ID": 20,
+            "m_externalUrlId": 8,
+            "m_region": "CN",
+            "m_overrideUrl": "https://legal.battlenet.com.cn/zh-cn/legal/2e90163d-612f-41a5-addd-8a837ac43d02/non-printable"
+        },
+        {
             "m_ID": 86,
             "m_externalUrlId": 83,
             "m_region": "CN",
             "m_overrideUrl": "https://hs.blizzard.cn/news/20240905/40856_1179106.html"
+        },
+        {
+            "m_ID": 21,
+            "m_externalUrlId": 9,
+            "m_region": "CN",
+            "m_overrideUrl": "https://account.battlenet.com.cn/login/sso?token={0}&ref=https://support.blizzardgames.cn/help/product/services/1327"
         },
         {
             "m_ID": 89,
@@ -237,12 +243,6 @@
             "m_externalUrlId": 84,
             "m_region": "EU",
             "m_overrideUrl": "ЗаАльянс,ЛовкиеПальцы,ТихийМеч,ЯркийМолот,Зорротул,ЗомбиПес,МерзлыйПес,ЧудоМонах,МегаДворф,ЛовкийРыцарь,МодныйОрк,ПерекатиПоле,Среброкрыл,ХитрыйКраб,ЭпичнаяМышь,МиниНиндзя,Клеопатра,СуперМаг,ЛовкийЗерг,ИскроМэн,КвасныйДворф,КлоунДруид,БойцоваяЖаба,Смеховор,ХитрыйСтраус,РоботКолдун,Мороженко,ЛенивыйТитан,ШтаныУдачи,МракоРыцарь,ТигрФортуны,ЖизньЗаАйур,СоусТардар,КрэйзиМаг,ТихийШторм,ShinyHero,NightRaven,GhostPants,SleepyBear,SilentStorm,ShadowStorm,ShinyHero,BattleOoze,MiniNinja,MagicTurtle,SnarkyGoblin,FrostyFeet,QuirkyOrc,GhostDog,NightRaven,WildWolf,MiniNinja,DeadlyMouse,WildRage,GrumpyMonk,GoldenPants,BattleOoze,DeadlyFeet,QuirkyOrc,CrankyPants,LazyTurtle,WildPants,DeadlyFeet,MagicPants,DeadlyPants,SleepyBear,MightyOwl,SuperMage,LuckyOwl,DizzyDwarf,SwankyOrc,QuirkyTurtle,GouleFutée,ArcherBrutal,DamePoète,PrièreFada,NatureFolle,OmbreHardie,VoleurRapide,ColèreNacrée,PouleRobot,AigleChauve,KoboldMaouss,Glücksfuß,Feuerfrosch,Eisdrache,Seniorheld,Juniorelf,Sumpfeule,Glücksfuß,Sonnenaxt,DruidoMatto,LeoneTetro,NanoGigante,UpadłyKociak,NocnyRycerz,DużyStrzygoń,RanaEstilosa,DruidaLoco,NomadaLoco"
-        },
-        {
-            "m_ID": 21,
-            "m_externalUrlId": 9,
-            "m_region": "CN",
-            "m_overrideUrl": "https://account.battlenet.com.cn/login/sso?token={0}&ref=https://support.blizzardgames.cn/help/product/services/1327"
         }
     ]
 }

@@ -2306,6 +2306,192 @@
         },
         {
             "m_ID": 0,
+            "m_specialEventId": 45,
+            "m_eventRewardTrackId": 134,
+            "m_choiceConfirmationText": {
+                "m_locValues": [
+                    "Druid, Mage, Shaman, Elementals\n<i>(Use Brann's notes to search the Un'Goro Skies?)</i>",
+                    "Druide, Magier, Schamane, Elementare\n<i>(Den Himmel über Un'Goro mithilfe von Branns Notizen absuchen?)</i>",
+                    "Druida, mago, chamán, elementales\n<i>(¿Quieres usar los apuntes de Brann para buscar por los cielos de Un'Goro?)</i>",
+                    "Druida, Mago, Chamán, Elementales\n<i>(¿Quizá usa las notas de Brann para buscar en el cielo de Un'Goro?)</i>",
+                    "Druide, mage, chaman, Élémentaires\n<i>(Utiliser les notes de Brann pour chercher dans les cieux d’Un’Goro ?)</i>",
+                    "Il Druido, il Mago, lo Sciamano, gli Elementali\n<i>(Vuoi usare gli appunti di Brann per perlustrare i Cieli di Un'Goro?)</i>",
+                    "ドルイド、メイジ、シャーマン、エレメンタル\n<i>（ブランの所見をもとにウンゴロの空を調査するか？）</i>",
+                    "드루이드, 마법사, 주술사, 정령\n<i>(브란의 메모를 참고해 운고로의 하늘 수색하기?)</i>",
+                    "Druid, mag, szaman, Żywiołaki\n<i>(Wykorzystać zapiski Branna, by szukać w Przestworzach Un'Goro?)</i>",
+                    "Druida, Mago, Xamã, Elementais\n<i>(Usar as anotações de Brann para procurar nos Céus de Un'Goro?)</i>",
+                    "Друид, маг, шаман, элементали\n<i>(Искать в небе Ун'Горо, следуя указаниям Бранна?)</i>",
+                    "ดรูอิด เมจ ชาแมน วิญญาณธาตุ\n<i>(ตามรอยบันทึกของแบรนน์เพื่อค้นหาในท้องฟ้าอันโกโร?)</i>",
+                    "德鲁伊，法师，萨满祭司，元素\n<i>（利用布莱恩的笔记，探查安戈洛的空域？）</i>",
+                    "德魯伊、法師、薩滿與元素\n<i>(借助布萊恩的筆記，在安戈洛天空中尋找？)</i>"
+                ],
+                "m_locId": 2924993
+            },
+            "m_shortConclusion": {
+                "m_locValues": [
+                    "Well done, Adventurer!",
+                    "Reife Leistung, Abenteurer!",
+                    "¡Así se hace, amante de las aventuras!",
+                    "¡Bien hecho, caminante!",
+                    "Bien joué !",
+                    "Ottimo lavoro!",
+                    "よくやった、冒険者！",
+                    "고생하셨습니다, 모험가님!",
+                    "Dobra robota, awanturniku!",
+                    "Bom trabalho, Viajante!",
+                    "Отличная работа, искатель приключений!",
+                    "เก่งมาก นักผจญภัย!",
+                    "干得漂亮，冒险者！",
+                    "幹得好，冒險者！"
+                ],
+                "m_locId": 2924994
+            },
+            "m_longConclusion": {
+                "m_locValues": [
+                    "Thanks to your search in the Skies, we've found the Lost City!\nThis magnificent volcanic sanctuary, and the Tortollan people\nwho call it home, will be honored and safeguarded for generations.\nNow, the real work begins!\n\n<i>P.S. - If you see Umbra, please inform her of your findings.</i>\n\n<i>- Elise, Brann, and Loh, the Living Legend</i>",
+                    "Dank Eurer Suche in luftigen Höhen haben wir die Verlorene Stadt gefunden!\nDieses prächtige vulkanische Refugium – und das Volk der Tortollaner,\ndas es sein Zuhause nennt – wird nun über viele Generationen hinweg geehrt und geschützt werden.\nDoch jetzt beginnt die wahre Arbeit!\n\n<i>P.S.: Wenn Ihr Umbra seht, informiert sie doch bitte über Eure Entdeckung.</i>\n\n<i>– Elise, Brann und Na’logo, lebende Legende</i>",
+                    "Gracias a tu búsqueda por los cielos, ¡hemos encontrado la Ciudad Perdida!\nA este magnífico santuario volcánico, así como al pueblo tortoliano\nque lo habita, les has garantizado respeto y protección durante muchas generaciones.\n¡Ahora comienza tu verdadera labor!\n\n<i>P. S.: Si ves a Umbra, infórmala de tu hallazgo.</i>\n\n<i>- Elise, Brann y Loh Leyenda Viviente</i>",
+                    "Gracias a tu búsqueda en el cielo, ¡encontramos la Ciudad Perdida!\nEste magnífico santuario volcánico y el pueblo tortollano,\nque lo llaman hogar, será honrado y salvaguardado por generaciones.\nAhora, ¡el verdadero trabajo comienza!\n\n<i>P.D. Si ves a Umbra, hazle saber sobre tus hallazgos.</i>\n\n<i>- Elisa, Brann y Loh, la leyenda viviente</i>",
+                    "Vos recherches dans les cieux nous ont permis de trouver la cité perdue !\nCe magnifique sanctuaire volcanique et la population tortollane\nqui y vit seront vénérés et protégés pour les générations à venir.\nMaintenant, le vrai travail commence !\n\n<i>P.S. Si vous voyez Umbra, veuillez l’informer de vos découvertes.</i>\n\n<i>– Elise, Brann et Loh, la légende vivante</i>",
+                    "Grazie alle tue ricerche nei Cieli, abbiamo trovato la Città Perduta!\nQuesto magnifico santuario vulcanico, insieme al popolo Tortolliano\nche lo definisce casa, sarà onorato e salvaguardato per generazioni.\nMa ora inizia il vero lavoro!\n\n<i>P.S. Se dovessi incontrare Umbra, informala delle tue scoperte, per favore.</i>\n\n<i>- Elise, Brann e Loh, la Leggenda Vivente</i>",
+                    "空を調査してくれたおかげでついに最後の秘境を発見したぞ！\nトートランたちが故郷と呼ぶ、この火山だらけの壮大な聖域は\n今後年世代にも渡って彼らに大切に守られていくだろう。\nさあ、本番はここからだぞ！\n\n<i>追伸 - ウンブラを見かけたら、今回の発見について教えてやってくれ。</i>\n\n<i>エリーズ、ブラン、生ける伝説ロー</i>",
+                    "당신이 하늘을 수색해 주신 덕분에 잃어버린 도시를 발견했습니다!\n이 웅장한 화산 안식처와 이곳에 사는 토르톨란 민족은\n여러 세대 동안 기억되고 안전하게 지켜질 것입니다.\n진짜 일은 이제 시작입니다!\n\n<i>추신 - 혹시 움브라를 보면 알아낸 사실을 전해 주세요.</i>\n\n<i>- 엘리스, 브란, 그리고 살아 있는 전설 로 드림</i>",
+                    "Dzięki twoim odkryciom w Przestworzach udało nam się odnaleźć zaginione miasto!\nTo niesamowite wulkaniczne sanktuarium\ni turtolianie, którzy w nim żyją, będą szanowani i chronieni przez pokolenia.\nCzas więc na ciężką pracę!\n\n<i>P.S. Jeśli uda ci się spotkać Umbrę, to opowiedz jej o swoich odkryciach.</i>\n\n<i>- Eliza, Brann i Loh, Żywa Legenda</i>",
+                    "Graças a suas buscas nos Céus, encontramos a Cidade Perdida!\nEsse magnífico santuário vulcânico e os tortollanos\nque o chamam de lar serão honrados e protegidos por gerações.\nO trabalho de verdade começa agora!\n\n<i>P.S. - Se você vir a Umbra, informe suas descobertas a ela.</i>\n\n<i>- Elise, Brann e Loh, a Lenda Viva</i>",
+                    "Твои поиски в небе помогли нам отыскать затерянный город!\nЭто потрясающий вулканический приют, в котором живут тортолланы.\nТакое сокровище нужно беречь и сохранять из поколения в поколение.\nТеперь для нас начинается самое сложное и интересное!\n\n<i>P.S. Если увидишь Умбру, сообщи ей о своих находках.</i>\n\n<i>Элиза, Бранн и живая легенда Ло</i>",
+                    "การสำรวจท้องฟ้าของเจ้าช่วยให้เราค้นพบนครสาบสูญ!\nดินแดนคุ้มภัยท่ามกลางภูเขาไฟแสนงดงาม และชาวทอร์ทอลลัน\nที่เรียกที่แห่งนี้เป็นบ้านจะได้รับการดูแลและคุ้มครองสืบต่อไป\nตอนนี้งานที่แท้จริงของเราเริ่มต้นแล้ว!\n\n<i>ป.ล. - ถ้าเจ้าพบอัมบร้า ฝากบอกสิ่งที่เจ้าค้นพบให้นางฟังด้วย</i>\n\n<i>- เอลีส แบรนน์ และโลฮ์ ตำนานที่มีลมหายใจ</i>",
+                    "感谢你对天空的探查，我们成功找到了失落之城！\n这片火山中的乐土，始祖龟的家园，\n必将世代受到尊重与庇护。\n现在，重头戏正式开始！\n\n<i>另外：如果你见到安布拉，请给她讲讲你的发现。</i>\n\n<i>——伊莉斯、布莱恩、以及洛，在世传奇</i>",
+                    "多虧有你在天空中搜索，我們才得以找到迷城！\n這座宏偉的火山聖地，以及將此處稱為家園的\n托爾托人，將世世代代受到尊敬和保護。\n現在才是工作的開始！\n\n<i>附註：如果你遇到昂布拉，請告訴她你的發現。</i>\n\n<i>伊莉絲、布萊恩與『活蹦亂跳的傳奇』樂樂 上</i>"
+                ],
+                "m_locId": 2924995
+            }
+        },
+        {
+            "m_ID": 0,
+            "m_specialEventId": 45,
+            "m_eventRewardTrackId": 135,
+            "m_choiceConfirmationText": {
+                "m_locValues": [
+                    "Paladin, Priest, Warlock, Warrior, Murlocs\n<i>(Use Finley's notes to search the Un'Goro Lakes?)</i>",
+                    "Paladin, Priester, Hexenmeister, Krieger, Murlocs\n<i>(Die Seen Un'Goros mithilfe von Finleys Notizen absuchen?)</i>",
+                    "Paladín, sacerdote, brujo, guerrero, múrlocs\n<i>(¿Quieres usar los apuntes de Finley para buscar por los lagos de Un'Goro?)</i>",
+                    "Paladín, Sacerdote, Brujo, Guerrero, Múrlocs\n<i>(¿Quizá usa las notas de Aletardo para buscar en los lagos de Un'Goro?)</i>",
+                    "Paladin, prêtre, démoniste, guerrier, Murlocs\n<i>(Utiliser les notes de Finley pour chercher dans les lacs d’Un’Goro ?)</i>",
+                    "Il Paladino, il Sacerdote, lo Stregone, il Guerriero, i Murloc\n<i>(Vuoi usare gli appunti di Pinnus per perlustrare i Laghi di Un'Goro?)</i>",
+                    "パラディン、プリースト、ウォーロック、ウォリアー、マーロック\n<i>（フィンレーの所見をもとにウンゴロの湖を調査するか？）</i>",
+                    "성기사, 사제, 흑마법사, 전사, 멀록\n<i>(핀리의 메모를 참고해 운고로의 호수 수색하기?)</i>",
+                    "Paladyn, kapłan, czarnoksiężnik, wojownik, Murloki\n<i>(Wykorzystać zapiski Płetwina, by szukać wśród Jezior Un'Goro?)</i>",
+                    "Paladino, Sacerdote, Bruxo, Guerreiro, Murlocs\n<i>(Usar as anotações de Finlei para procurar nos Lagos de Un'Goro?)</i>",
+                    "Паладин, жрец, чернокнижник, воин, мурлоки\n<i>(Искать в озерах Ун'Горо, следуя указаниям Финли?)</i>",
+                    "พาลาดิน พรีสต์ วอร์ล็อค วอริเออร์ เมอร์ล็อค\n<i>(ตามรอยบันทึกของฟินลีย์เพื่อค้นหาในทะเลสาบอันโกโร?)</i>",
+                    "圣骑士，牧师，术士，战士，鱼人\n<i>（利用芬利的笔记，探查安戈洛的湖泊？）</i>",
+                    "聖騎士、牧師、術士、戰士與魚人\n<i>(借助芬利的筆記，在安戈洛湖泊裡尋找？)</i>"
+                ],
+                "m_locId": 2924996
+            },
+            "m_shortConclusion": {
+                "m_locValues": [
+                    "Well done, Adventurer!",
+                    "Reife Leistung, Abenteurer!",
+                    "¡Así se hace, amante de las aventuras!",
+                    "¡Bien hecho, caminante!",
+                    "Bien joué !",
+                    "Ottimo lavoro!",
+                    "よくやった、冒険者！",
+                    "고생하셨습니다, 모험가님!",
+                    "Dobra robota, awanturniku!",
+                    "Bom trabalho, Viajante!",
+                    "Отличная работа, искатель приключений!",
+                    "เก่งมาก นักผจญภัย!",
+                    "干得漂亮，冒险者！",
+                    "幹得好，冒險者！"
+                ],
+                "m_locId": 2924997
+            },
+            "m_longConclusion": {
+                "m_locValues": [
+                    "Thanks to your search in the Lakes, we've found the Lost City!\nThis magnificent volcanic sanctuary, and the Tortollan people\nwho call it home, will be honored and safeguarded for generations.\nNow, the real work begins!\n\n<i>P.S. - If you see Umbra, please inform her of your findings.</i>\n\n<i>- Elise, Finley, and Loh, the Living Legend</i>",
+                    "Dank Eurer Suche unter Wasser haben wir die Verlorene Stadt gefunden!\nDieses prächtige vulkanische Refugium – und das Volk der Tortollaner,\ndas es sein Zuhause nennt – wird nun über viele Generationen hinweg geehrt und geschützt werden.\nDoch jetzt beginnt die wahre Arbeit!\n\n<i>P.S.: Wenn Ihr Umbra seht, informiert sie doch bitte über Eure Entdeckung.</i>\n\n<i>– Elise, Finley und Na’logo, lebende Legende</i>",
+                    "Gracias a tu búsqueda por los lagos, ¡hemos encontrado la Ciudad Perdida!\nA este magnífico santuario volcánico, así como al pueblo tortoliano\nque lo habita, les has garantizado respeto y protección durante muchas generaciones.\n¡Ahora comienza tu verdadera labor!\n\n<i>P. S.: Si ves a Umbra, infórmala de tu hallazgo.</i>\n\n<i>- Elise, Finley y Loh Leyenda Viviente</i>",
+                    "Gracias a tu búsqueda en los lagos, ¡encontramos la Ciudad Perdida! \nEste magnífico santuario volcánico y el pueblo tortollano,\nque lo llaman hogar, será honrado y salvaguardado por generaciones.\nAhora, ¡el verdadero trabajo comienza!\n\n<i>P.D. Si ves a Umbra, hazle saber sobre tus hallazgos.</i>\n\n<i>- Elisa, Aletardo y Loh, la leyenda viviente</i>",
+                    "Vos recherches dans les lacs nous ont permis de trouver la cité perdue !\nCe magnifique sanctuaire volcanique et la population tortollane\nqui y vit seront vénérés et protégés pour les générations à venir.\nMaintenant, le vrai travail commence !\n\n<i>P.S. Si vous voyez Umbra, veuillez l’informer de vos découvertes.</i>\n\n<i>– Elise, Brann et Loh, la légende vivante</i>",
+                    "Grazie alle tue ricerche nei Laghi, abbiamo trovato la Città Perduta!\nQuesto magnifico santuario vulcanico, insieme al popolo Tortolliano\nche lo definisce casa, sarà onorato e salvaguardato per generazioni.\nMa ora inizia il vero lavoro!\n\n<i>P.S. Se dovessi incontrare Umbra, informala delle tue scoperte, per favore.</i>\n\n<i>- Elise, Pinnus e Loh, la Leggenda Vivente</i>",
+                    "湖を調査してくれたおかげでついに最後の秘境を発見したぞ！\nトートランたちが故郷と呼ぶ、この火山だらけの壮大な聖域は\n今後年世代にも渡って彼らに大切に守られていくだろう。\nさあ、本番はここからだぞ！\n\n<i>追伸 - ウンブラを見かけたら、今回の発見について教えてやってくれ。</i>\n\n<i>エリーズ、フィンレー、生ける伝説ロー</i>",
+                    "당신이 호수를 수색해 주신 덕분에 잃어버린 도시를 발견했습니다!\n이 웅장한 화산 안식처와 이곳에 사는 토르톨란 민족은\n여러 세대 동안 기억되고 안전하게 지켜질 것입니다.\n진짜 일은 이제 시작입니다!\n\n<i>추신 - 혹시 움브라를 보면 알아낸 사실을 전해 주세요.</i>\n\n<i>- 엘리스, 핀리, 그리고 살아 있는 전설 로 드림</i>",
+                    "Dzięki twoim odkryciom wśród Jezior udało nam się odnaleźć zaginione miasto!\nTo niesamowite wulkaniczne sanktuarium\ni turtolianie, którzy w nim żyją, będą szanowani i chronieni przez pokolenia.\nCzas więc na ciężką pracę!\n\n<i>P.S. Jeśli uda ci się spotkać Umbrę, to opowiedz jej o swoich odkryciach.</i>\n\n<i>- Eliza, Brann i Loh, Żywa Legenda</i>",
+                    "Graças a suas buscas nos Lagos, encontramos a Cidade Perdida!\nEsse magnífico santuário vulcânico e os tortollanos\nque o chamam de lar serão honrados e protegidos por gerações.\nO trabalho de verdade começa agora!\n\n<i>P.S. - Se você vir a Umbra, informe suas descobertas a ela.</i>\n\n<i>- Elise, Finley e Loh, a Lenda Viva</i>",
+                    "Твои поиски в озерах помогли нам отыскать затерянный город!\nЭто потрясающий вулканический приют, в котором живут тортолланы.\nТакое сокровище нужно беречь и сохранять из поколения в поколение.\nТеперь для нас начинается самое сложное и интересное!\n\n<i>P.S. Если увидишь Умбру, сообщи ей о своих находках.</i>\n\n<i>Элиза, Финли и живая легенда Ло</i>",
+                    "การสำรวจทะเลสาบของเจ้าช่วยให้เราค้นพบนครสาบสูญ!\nดินแดนคุ้มภัยท่ามกลางภูเขาไฟแสนงดงาม และชาวทอร์ทอลลัน\nที่เรียกที่แห่งนี้เป็นบ้านจะได้รับการดูแลและคุ้มครองสืบต่อไป\nตอนนี้งานที่แท้จริงของเราเริ่มต้นแล้ว!\n\n<i>ป.ล. - ถ้าเจ้าพบอัมบร้า ฝากบอกสิ่งที่เจ้าค้นพบให้นางฟังด้วย</i>\n\n<i>- เอลีส ฟินลีย์ และโลฮ์ ตำนานที่มีลมหายใจ</i>",
+                    "感谢你对湖泊的探查，我们成功找到了失落之城！\n这片火山中的乐土，始祖龟的家园，\n必将世代受到尊重与庇护。\n现在，重头戏正式开始！\n\n<i>另外：如果你见到安布拉，请给她讲讲你的发现。</i>\n\n<i>——伊莉斯、芬利、以及洛，在世传奇</i>",
+                    "多虧有你在湖泊裡搜索，我們才得以找到迷城！\n這座宏偉的火山聖地，以及將此處稱為家園的\n托爾托人，將世世代代受到尊敬和保護。\n現在才是工作的開始！\n\n<i>附註：如果你遇到昂布拉，請告訴她你的發現。</i>\n\n<i>伊莉絲、芬利與『活蹦亂跳的傳奇』樂樂 上</i>"
+                ],
+                "m_locId": 2924998
+            }
+        },
+        {
+            "m_ID": 0,
+            "m_specialEventId": 45,
+            "m_eventRewardTrackId": 136,
+            "m_choiceConfirmationText": {
+                "m_locValues": [
+                    "Death Knight, Demon Hunter, Rogue, Hunter, Beasts\n<i>(Use Reno's notes to search the Un'Goro Caverns?)</i>",
+                    "Todesritter, Dämonenjäger, Schurke, Jäger, Wildtiere\n<i>(Die Höhlen Un'Goros mithilfe von Renos Notizen absuchen?)</i>",
+                    "Caballero de la Muerte, cazador de demonios, pícaro, cazador, bestias\n<i>(¿Quieres usar los apuntes de Reno para buscar por las cavernas de Un'Goro?)</i>",
+                    "Caballero de la muerte, Cazador de demonios, Pícaro, Cazador, Bestias\n<i>(¿Quizá usa las notas de Reno para buscar en las cuevas de Un'Goro?)</i>",
+                    "Chevalier de la mort, chasseur de démons, chasseur, voleur, Bêtes\n<i>(Utiliser les notes de Reno pour chercher dans les grottes d’Un’Goro ?)</i>",
+                    "Il Cavaliere della Morte, il Cacciatore di Demoni, il Ladro, il Cacciatore, le Bestie\n<i>(Vuoi usare gli appunti di Reno per perlustrare le Caverne di Un'Goro?)</i>",
+                    "デスナイト、デーモンハンター、ローグ、ハンター、獣\n<i>（レノの所見をもとにウンゴロの洞窟を調査するか？）</i>",
+                    "죽음의 기사, 악마사냥꾼, 도적, 사냥꾼, 야수\n<i>(리노의 메모를 참고해 운고로의 동굴 수색하기?)</i>",
+                    "Rycerz śmierci, łowca demonów, łowca, łotr, Bestie\n<i>(Wykorzystać zapiski Reno, by szukać w Jaskiniach Un'Goro?)</i>",
+                    "Cavaleiro da Morte, Caçador de Demônios, Ladino, Caçador, Feras\n<i>(Usar as anotações de Reno para procurar nas Cavernas de Un'Goro?)</i>",
+                    "Рыцарь смерти, охотник на демонов, охотник, разбойник, звери\n<i>(Искать в пещерах Ун'Горо, следуя указаниям Рено?)</i>",
+                    "เดธไนท์ ดีมอนฮันเตอร์ ฮันเตอร์ โร้ก สัตว์\n<i>(ตามรอยบันทึกของรีโน่เพื่อค้นหาในโพรงถ้ำอันโกโร?)</i>",
+                    "死亡骑士，恶魔猎手，潜行者，猎人，野兽\n<i>（利用雷诺的笔记，探查安戈洛的地窟？）</i>",
+                    "死亡騎士、惡魔獵人、盜賊、獵人與野獸\n<i>(借助里諾的筆記，在安戈洛洞穴中尋找？)</i>"
+                ],
+                "m_locId": 2924999
+            },
+            "m_shortConclusion": {
+                "m_locValues": [
+                    "Well done, Adventurer!",
+                    "Reife Leistung, Abenteurer!",
+                    "¡Así se hace, amante de las aventuras!",
+                    "¡Bien hecho, caminante!",
+                    "Bien joué !",
+                    "Ottimo lavoro!",
+                    "よくやった、冒険者！",
+                    "고생하셨습니다, 모험가님!",
+                    "Dobra robota, awanturniku!",
+                    "Bom trabalho, Viajante!",
+                    "Отличная работа, искатель приключений!",
+                    "เก่งมาก นักผจญภัย!",
+                    "干得漂亮，冒险者！",
+                    "幹得好，冒險者！"
+                ],
+                "m_locId": 2925000
+            },
+            "m_longConclusion": {
+                "m_locValues": [
+                    "Thanks to your search in the Caverns, we've found the Lost City!\nThis magnificent volcanic sanctuary, and the Tortollan people\nwho call it home, will be honored and safeguarded for generations.\nNow, the real work begins!\n\n<i>P.S. - If you see Umbra, please inform her of your findings.</i>\n\n<i>- Elise, Reno, and Loh, the Living Legend</i>",
+                    "Dank Eurer Suche unter Tage haben wir die Verlorene Stadt gefunden!\nDieses prächtige vulkanische Refugium – und das Volk der Tortollaner,\ndas es sein Zuhause nennt – wird nun über viele Generationen hinweg geehrt und geschützt werden.\nDoch jetzt beginnt die wahre Arbeit!\n\n<i>P.S.: Wenn Ihr Umbra seht, informiert sie doch bitte über Eure Entdeckung.</i>\n\n<i>– Elise, Reno und Na’logo, lebende Legende</i>",
+                    "Gracias a tu búsqueda por las cavernas, ¡hemos encontrado la Ciudad Perdida!\nA este magnífico santuario volcánico, así como al pueblo tortoliano\nque lo habita, les has garantizado respeto y protección durante muchas generaciones.\n¡Ahora comienza tu verdadera labor!\n\n<i>P. S.: Si ves a Umbra, infórmala de tu hallazgo.</i>\n\n<i>- Elise, Reno y Loh Leyenda Viviente</i>",
+                    "Gracias a tu búsqueda en las cuevas, ¡encontramos la Ciudad Perdida! \nEste magnífico santuario volcánico y el pueblo tortollano,\nque lo llaman hogar, será honrado y salvaguardado por generaciones.\nAhora, ¡el verdadero trabajo comienza!\n\n<i>P.D. Si ves a Umbra, hazle saber sobre tus hallazgos.</i>\n\n<i>- Elisa, Reno y Loh, la leyenda viviente</i>",
+                    "Vos recherches dans les grottes nous ont permis de trouver la cité perdue !\nCe magnifique sanctuaire volcanique et la population tortollane\nqui y vit seront vénérés et protégés pour les générations à venir.\nMaintenant, le vrai travail commence !\n\n<i>P.S. Si vous voyez Umbra, veuillez l’informer de vos découvertes.</i>\n\n<i>– Elise, Brann et Loh, la légende vivante</i>",
+                    "Grazie alle tue ricerche nelle Caverne, abbiamo trovato la Città Perduta!\nQuesto magnifico santuario vulcanico, insieme al popolo Tortolliano\nche lo definisce casa, sarà onorato e salvaguardato per generazioni.\nMa ora inizia il vero lavoro!\n\n<i>P.S. Se dovessi incontrare Umbra, informala delle tue scoperte, per favore.</i>\n\n<i>- Elise, Reno e Loh, la Leggenda Vivente</i>",
+                    "洞窟を調査してくれたおかげでついに最後の秘境を発見したぞ！\nトートランたちが故郷と呼ぶ、この火山だらけの壮大な聖域は\n今後年世代にも渡って彼らに大切に守られていくだろう。\nさあ、本番はここからだぞ！\n\n<i>追伸 - ウンブラを見かけたら、今回の発見について教えてやってくれ。</i>\n\n<i>エリーズ、レノ、生ける伝説ロー</i>",
+                    "당신이 동굴을 수색해 주신 덕분에 잃어버린 도시를 발견했습니다!\n이 웅장한 화산 안식처와 이곳에 사는 토르톨란 민족은\n여러 세대 동안 기억되고 안전하게 지켜질 것입니다.\n진짜 일은 이제 시작입니다!\n\n<i>추신 - 혹시 움브라를 보면 알아낸 사실을 전해 주세요.</i>\n\n<i>- 엘리스, 리노, 그리고 살아 있는 전설 로 드림</i>",
+                    "Dzięki twoim odkryciom w Jaskiniach udało nam się odnaleźć zaginione miasto!\nTo niesamowite wulkaniczne sanktuarium\ni turtolianie, którzy w nim żyją, będą szanowani i chronieni przez pokolenia.\nCzas więc na ciężką pracę!\n\n<i>P.S. Jeśli uda ci się spotkać Umbrę, to opowiedz jej o swoich odkryciach.</i>\n\n<i>- Eliza, Brann i Loh, Żywa Legenda</i>",
+                    "Graças a suas buscas nas Cavernas, encontramos a Cidade Perdida!\nEsse magnífico santuário vulcânico e os tortollanos\nque o chamam de lar serão honrados e protegidos por gerações.\nO trabalho de verdade começa agora!\n\n<i>P.S. - Se você vir a Umbra, informe suas descobertas a ela.</i>\n\n<i>- Elise, Reno e Loh, a Lenda Viva</i>",
+                    "Твои поиски в пещерах помогли нам отыскать затерянный город!\nЭто потрясающий вулканический приют, в котором живут тортолланы.\nТакое сокровище нужно беречь и сохранять из поколения в поколение.\nТеперь для нас начинается самое сложное и интересное!\n\n<i>P.S. Если увидишь Умбру, сообщи ей о своих находках.</i>\n\n<i>Элиза, Рено и живая легенда Ло</i>",
+                    "การสำรวจโพรงถ้ำของเจ้าช่วยให้เราค้นพบนครสาบสูญ!\nดินแดนคุ้มภัยท่ามกลางภูเขาไฟแสนงดงาม และชาวทอร์ทอลลัน\nที่เรียกที่แห่งนี้เป็นบ้านจะได้รับการดูแลและคุ้มครองสืบต่อไป\nตอนนี้งานที่แท้จริงของเราเริ่มต้นแล้ว!\n\n<i>ป.ล. - ถ้าเจ้าพบอัมบร้า ฝากบอกสิ่งที่เจ้าค้นพบให้นางฟังด้วย</i>\n\n<i>- เอลีส รีโน่ และโลฮ์ ตำนานที่มีลมหายใจ</i>",
+                    "感谢你对地窟的探查，我们成功找到了失落之城！\n这片火山中的乐土，始祖龟的家园，\n必将世代受到尊重与庇护。\n现在，重头戏正式开始！\n\n<i>另外：如果你见到安布拉，请给她讲讲你的发现。</i>\n\n<i>——伊莉斯、雷诺、以及洛，在世传奇</i>",
+                    "多虧有你在洞穴中搜索，我們才得以找到迷城！\n這座宏偉的火山聖地，以及將此處稱為家園的\n托爾托人，將世世代代受到尊敬和保護。\n現在才是工作的開始！\n\n<i>附註：如果你遇到昂布拉，請告訴她你的發現。</i>\n\n<i>伊莉絲、里諾與『活蹦亂跳的傳奇』樂樂 上</i>"
+                ],
+                "m_locId": 2925001
+            }
+        },
+        {
+            "m_ID": 0,
             "m_specialEventId": 5,
             "m_eventRewardTrackId": 39,
             "m_choiceConfirmationText": {
