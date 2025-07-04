@@ -5,7 +5,7 @@ import sys
 import faulthandler; faulthandler.enable()
 import UnityPy
 from argparse import ArgumentParser
-from typing import List, cast, Dict
+from typing import List, cast, Dict, Optional
 
 from PIL import Image, ImageOps, ImageDraw
 from UnityPy import Environment
@@ -38,7 +38,7 @@ class CardTextureInfo:
 		self.portrait_path = portrait_path
 		self.tile_info = tile_info
 
-# ./generate_card_textures.py --outdir out_png --tiles-dir tiles --cards-list cards_list.txt /e/Games/Hearthstone/Data/Win
+# ./generate_card_textures.py --outdir out_test --tiles-dir tiles --cards-list cards_list.txt /e/Games/Hearthstone/Data/Win
 def main():
 	TypeTreeHelper.read_typetree_c = False
 
@@ -94,7 +94,7 @@ def generate_card_textures(src, args):
 	print("Job's done")
 
 
-def build_cards_map(env: Environment, cards_list: List[str]) -> Dict[str, str]:
+def build_cards_map(env: Environment, cards_list: Optional[List[str]] = None) -> Dict[str, str]:
 	for obj in env.objects:
 		if obj.type == ClassIDType.MonoBehaviour:
 			dataM: MonoBehaviour = cast(MonoBehaviour, obj.read())
@@ -114,6 +114,8 @@ def build_cards_map(env: Environment, cards_list: List[str]) -> Dict[str, str]:
 					asset_id = value.split("prefab:")[1]
 					cards_map[cardid] = asset_id
 				return cards_map
+	# Return empty dict if no cards_map found
+	return {}
 				
     
 def build_textures_map(env: Environment) -> Dict[str, PPtr]:
@@ -127,12 +129,12 @@ def build_textures_map(env: Environment) -> Dict[str, PPtr]:
 	return textures
 
 
-def build_cards_info(env: Environment, cards_map: Dict[str, str], cards_list: List[str]):
+def build_cards_info(env: Environment, cards_map: Dict[str, str], cards_list: Optional[List[str]] = None):
 	cards = {}
 	current_card_idx = 0
 	# Iterate over the cards map
 	for cardid, prefabid in cards_map.items():
-		if cards_list and cardid not in cards_list:
+		if cards_list is not None and cardid not in cards_list:
 			# print("skipping build_cards_info %s" % cardid)
 			continue
 		prefab_pptr = env.container[prefabid]
@@ -188,7 +190,7 @@ def do_texture(env: Environment, card_id: str, texture_info: CardTextureInfo, te
 
 		if not (args.skip_existing and exists):
 			print("-> %r" % (filename))
-			flipped = ImageOps.scale(texture.image, 1).convert("RGB")
+			flipped = texture.image.copy().convert("RGB")
 			flipped.save(filename)
 
 		ext = ".png"
@@ -211,7 +213,7 @@ def do_texture(env: Environment, card_id: str, texture_info: CardTextureInfo, te
 			filename, exists = get_filename(args.outdir, thumb_dir, card_id, ext=ext)
 			if not (args.skip_existing and exists):
 				if not flipped:
-					flipped = ImageOps.scale(texture.image, 1).convert("RGB")
+					flipped = texture.image.copy().convert("RGB")
 				thumb_texture = flipped.resize((sz, sz))
 				print("-> %r" % (filename))
 				thumb_texture.save(filename)
