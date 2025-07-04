@@ -38,7 +38,7 @@ class CardTextureInfo:
 		self.portrait_path = portrait_path
 		self.tile_info = tile_info
 
-# ./generate_card_textures.py --outdir out_test --tiles-dir tiles --cards-list cards_list.txt /e/Games/Hearthstone/Data/Win
+# ./generate_card_textures.py --outdir out_png --tiles-dir tiles --cards-list cards_list.txt /e/Games/Hearthstone/Data/Win
 def main():
 	TypeTreeHelper.read_typetree_c = False
 
@@ -61,7 +61,7 @@ def generate_card_textures(src, args):
     # Build an array of cards from the cards-list argument, if present
 	if args.cards_list:
 		with open(args.cards_list, "r") as f:
-			cards_list = f.read().splitlines()
+			cards_list = [line.strip() for line in f.read().splitlines()]
 			print("cards_list: %s" % len(cards_list))
 	else:
 		cards_list = None
