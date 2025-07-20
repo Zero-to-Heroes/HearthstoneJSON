@@ -137,25 +137,11 @@
             "m_globalUrl": "https://us.battle.net/support/article/buying-hearthstone-cards"
         },
         {
-            "m_ID": 6,
-            "m_noteDesc": "Account Healup",
-            "m_assetFlags": 0,
-            "m_endpoint": 5,
-            "m_globalUrl": "https://account.battle.net/creation/completion?theme=wtcg&app={0}&ticket=true&reason={1}&wins={2}&r=/battletag%253Fret=http://localhost:0"
-        },
-        {
             "m_ID": 35,
             "m_noteDesc": "Generic Purchase Error",
             "m_assetFlags": 0,
             "m_endpoint": 24,
             "m_globalUrl": "https://account.battle.net/payment?utm_source=game-hearthstone&utm_medium=internal&utm_content=payment-error-case%1"
-        },
-        {
-            "m_ID": 7,
-            "m_noteDesc": "Privacy Policy",
-            "m_assetFlags": 0,
-            "m_endpoint": 6,
-            "m_globalUrl": "https://www.blizzard.com/privacy"
         },
         {
             "m_ID": 37,
@@ -165,25 +151,11 @@
             "m_globalUrl": "https://support.blizzard.com/"
         },
         {
-            "m_ID": 77,
-            "m_noteDesc": "Mobile Connection Error",
-            "m_assetFlags": 0,
-            "m_endpoint": 26,
-            "m_globalUrl": "https://battle.net/support/article/hearthstone-game-server-connection-mobile"
-        },
-        {
             "m_ID": 4,
             "m_noteDesc": "Account Landing",
             "m_assetFlags": 0,
             "m_endpoint": 3,
             "m_globalUrl": "https://account.battle.net/creation/landing?app={0}&theme=wtcg"
-        },
-        {
-            "m_ID": 78,
-            "m_noteDesc": "China Ratings Website",
-            "m_assetFlags": 0,
-            "m_endpoint": 27,
-            "m_globalUrl": "https://hs.blizzard.cn/age-alter"
         },
         {
             "m_ID": 5,
@@ -193,18 +165,39 @@
             "m_globalUrl": "https://firesidegatherings.com"
         },
         {
+            "m_ID": 6,
+            "m_noteDesc": "Account Healup",
+            "m_assetFlags": 0,
+            "m_endpoint": 5,
+            "m_globalUrl": "https://account.battle.net/creation/completion?theme=wtcg&app={0}&ticket=true&reason={1}&wins={2}&r=/battletag%253Fret=http://localhost:0"
+        },
+        {
+            "m_ID": 7,
+            "m_noteDesc": "Privacy Policy",
+            "m_assetFlags": 0,
+            "m_endpoint": 6,
+            "m_globalUrl": "https://www.blizzard.com/privacy"
+        },
+        {
+            "m_ID": 77,
+            "m_noteDesc": "Mobile Connection Error",
+            "m_assetFlags": 0,
+            "m_endpoint": 26,
+            "m_globalUrl": "https://battle.net/support/article/hearthstone-game-server-connection-mobile"
+        },
+        {
+            "m_ID": 78,
+            "m_noteDesc": "China Ratings Website",
+            "m_assetFlags": 0,
+            "m_endpoint": 27,
+            "m_globalUrl": "https://hs.blizzard.cn/age-alter"
+        },
+        {
             "m_ID": 79,
             "m_noteDesc": "Account Deletion Soft Account",
             "m_assetFlags": 0,
             "m_endpoint": 28,
             "m_globalUrl": "https://account.battle.net/login/sso?token={0}&ref=https://support.blizzard.com/help/wf/services/1328/1361"
-        },
-        {
-            "m_ID": 80,
-            "m_noteDesc": "Account Deletion",
-            "m_assetFlags": 0,
-            "m_endpoint": 29,
-            "m_globalUrl": "https://support.blizzard.com/help/wf/services/1328/1361?logout"
         },
         {
             "m_ID": 8,
@@ -214,11 +207,11 @@
             "m_globalUrl": "https://www.blizzard.com/eula"
         },
         {
-            "m_ID": 88,
-            "m_noteDesc": "Personal Info CN Only",
+            "m_ID": 80,
+            "m_noteDesc": "Account Deletion",
             "m_assetFlags": 0,
-            "m_endpoint": 33,
-            "m_globalUrl": "https://account.battlenet.com.cn/data-sharing/device-info"
+            "m_endpoint": 29,
+            "m_globalUrl": "https://support.blizzard.com/help/wf/services/1328/1361?logout"
         },
         {
             "m_ID": 83,
@@ -228,25 +221,11 @@
             "m_globalUrl": "https://hs.blizzard.cn/news/20240905/40856_1179106.html"
         },
         {
-            "m_ID": 9,
-            "m_noteDesc": "Data Management",
-            "m_assetFlags": 0,
-            "m_endpoint": 8,
-            "m_globalUrl": "https://account.battle.net/login/sso?token={0}&ref=https://support.blizzard.com/help/product/services/1327"
-        },
-        {
             "m_ID": 84,
             "m_noteDesc": "Bot Names",
             "m_assetFlags": 0,
             "m_endpoint": 31,
             "m_globalUrl": "NightRaven,LazyTitan,LazyTurtle,BouncyKnight,NightRaven,ShadowDragon,SwankyOrc,RobotNinja,SwankyOrc,GhostDog,SneakySquid,SuperMage,BrightHammer,SilentStorm,MagicPants,SilentSword,LazyTitan,HiddenPants,GrumpyMonk,GhostDragon,MightyBeast,MightyBeast,SnarkyGoblin,SuperNinja,DeadlyFeet,MightyBeast,SneakySquid,BouncyBear,GrumpyKitten,BouncyKnight,GiantAxe,DeadlyMouse,HiddenSquid,SilentStorm,SwankyOrc,HappyFeet,BrightHammer,QuirkyTurtle,BattleOoze,SilentStorm,LazyTurtle,GhostPants,SuperPants,FunkyMonk,MagicGnome,WildRage,MightyOwl,FunkyPants,DeadlyMouse,TrickyHunter,GrumpyPants,DirePants,CrankyPants,MightyBeast,HiddenSquid,MagicGnome,QuirkyOrc,SneakyTurtle,DireRaven,HiddenSquid,WildRage,FunkyMonk,CrazyMage,MightyElf,GiantDwarf,FrostyDog,LazyTitan,SneakySquid,SilentStorm,NightRaven,MagicTurtle,CrazyCat,ShinyHero,SuperPants,MightyBeast,CrazyCat,SneezyDwarf,MagicTurtle,SneakyTurtle,NightRaven,DirePants,HiddenPants,FrostyFeet,Azedim,LoboSelvagem,SabreMudo,MalhoLuzente,FeraMansa,TitãSagaz,RatoFofo,CiberDraco,NobreTonto,CalzónFeliz,TrolÉpico,MagoEspanto,DruidaLoco,CuervoFatal,EnanoLucido,MazoLuminoso,DruidaLoco"
-        },
-        {
-            "m_ID": 90,
-            "m_noteDesc": "SDK Info CN Only",
-            "m_assetFlags": 0,
-            "m_endpoint": 34,
-            "m_globalUrl": "https://wow.blizzard.cn/news/privacy/20240402/40295_1147022.html"
         },
         {
             "m_ID": 86,
@@ -256,6 +235,27 @@
             "m_globalUrl": "https://www.blizzard.com/legal/1d866a2c-a45d-4b3c-9d03-af900c428d4b"
         },
         {
+            "m_ID": 88,
+            "m_noteDesc": "Personal Info CN Only",
+            "m_assetFlags": 0,
+            "m_endpoint": 33,
+            "m_globalUrl": "https://account.battlenet.com.cn/data-sharing/device-info"
+        },
+        {
+            "m_ID": 9,
+            "m_noteDesc": "Data Management",
+            "m_assetFlags": 0,
+            "m_endpoint": 8,
+            "m_globalUrl": "https://account.battle.net/login/sso?token={0}&ref=https://support.blizzard.com/help/product/services/1327"
+        },
+        {
+            "m_ID": 90,
+            "m_noteDesc": "SDK Info CN Only",
+            "m_assetFlags": 0,
+            "m_endpoint": 34,
+            "m_globalUrl": "https://wow.blizzard.cn/news/privacy/20240402/40295_1147022.html"
+        },
+        {
             "m_ID": 91,
             "m_noteDesc": "CN Registration Info",
             "m_assetFlags": 0,
@@ -263,18 +263,18 @@
             "m_globalUrl": "https://beian.miit.gov.cn/"
         },
         {
-            "m_ID": 94,
-            "m_noteDesc": "Blizzard License Terms",
-            "m_assetFlags": 0,
-            "m_endpoint": 37,
-            "m_globalUrl": "https://us.blizzard.com/en-us/eula"
-        },
-        {
             "m_ID": 93,
             "m_noteDesc": "Arena Disclaimer",
             "m_assetFlags": 0,
             "m_endpoint": 36,
             "m_globalUrl": "https://us.battle.net/support/en/article/32545"
+        },
+        {
+            "m_ID": 94,
+            "m_noteDesc": "Blizzard License Terms",
+            "m_assetFlags": 0,
+            "m_endpoint": 37,
+            "m_globalUrl": "https://us.blizzard.com/en-us/eula"
         },
         {
             "m_ID": 95,

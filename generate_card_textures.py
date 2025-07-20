@@ -38,7 +38,7 @@ class CardTextureInfo:
 		self.portrait_path = portrait_path
 		self.tile_info = tile_info
 
-# ./generate_card_textures.py --outdir out_png --tiles-dir tiles --cards-list cards_list.txt /e/Games/Hearthstone/Data/Win
+# ./generate_card_textures.py --outdir out_png_test --tiles-dir tiles --cards-list cards_list.txt /e/Games/Hearthstone/Data/Win
 def main():
 	TypeTreeHelper.read_typetree_c = False
 
@@ -110,6 +110,8 @@ def build_cards_map(env: Environment, cards_list: Optional[List[str]] = None) ->
 					if cards_list and cardid not in cards_list:
 						# print("skipping build_cards_map %s" % cardid)
 						continue
+					# if "BG" not in cardid:
+					# 	continue
 					# Only keep the id of the prefab, which means what is after prefab:
 					asset_id = value.split("prefab:")[1]
 					cards_map[cardid] = asset_id
@@ -138,7 +140,7 @@ def build_cards_info(env: Environment, cards_map: Dict[str, str], cards_list: Op
 			# print("skipping build_cards_info %s" % cardid)
 			continue
 		prefab_pptr = env.container[prefabid]
-		# print("card %s: %s" % (current_card_idx, cardid))
+		print("card %s: %s" % (current_card_idx, cardid))
 		current_card_idx += 1
 		prefab = cast(GameObject, prefab_pptr.read())
 		components = cast(List[ComponentPair], prefab.m_Component)
@@ -164,8 +166,16 @@ def build_cards_info(env: Environment, cards_map: Dict[str, str], cards_list: Op
 					print("\tskipping %s, portrait_path is empty" % cardid)
 					continue
 				# print("portrait_path: %s" % portrait_path)
+    
 				tile_ptr: PPtr = card_def.__getattribute__("m_DeckCardBarPortrait")
 				# print("tile_ptr: %s" % tile_ptr)
+				# custom_deck_portrait: PPtr = card_def.__getattribute__("m_CustomDeckPortrait")
+				# print("custom_deck_portrait: %s" % custom_deck_portrait)
+				# deck_box_portrait: PPtr = card_def.__getattribute__("m_DeckBoxPortrait")
+				# print("deck_box_portrait: %s" % deck_box_portrait)
+				# deck_picker_portrait: PPtr = card_def.__getattribute__("m_DeckPickerPortrait")
+				# print("deck_picker_portrait: %s" % deck_picker_portrait)
+    
 				tile: Material = None if tile_ptr.path_id == 0 else tile_ptr.read()
 				# print("tile: %s" % tile)
 				tile_info = None if tile == None else tile.m_SavedProperties
@@ -182,9 +192,9 @@ def build_cards_info(env: Environment, cards_map: Dict[str, str], cards_list: Op
 def do_texture(env: Environment, card_id: str, texture_info: CardTextureInfo, textures: Dict[str, PPtr], thumb_sizes, args):
 	try:
 		texture_pptr = textures[texture_info.portrait_path]	
-		# print("texture_pptr: %s" % texture_pptr)
+		print("texture_pptr: %s" % texture_pptr)
 		texture = texture_pptr.read()
-		# print("texture: %s" % texture)
+		print("texture: %s" % texture)
 		flipped = None
 		filename, exists = get_filename(args.outdir, args.orig_dir, card_id, ext=".png")
 
@@ -199,7 +209,8 @@ def do_texture(env: Environment, card_id: str, texture_info: CardTextureInfo, te
 			# print("will build texture for %r" % (filename))
 			if not texture.image:
 				print("texture has no image %s" % card_id)
-			tile_texture = generate_tile_image(env, texture.image, texture_info.tile_info)
+			use_secondary_value = "coin" in card_id.lower()
+			tile_texture = generate_tile_image(env, texture.image, texture_info.tile_info, use_secondary_value)
 			if not tile_texture:
 				print("could not generate tile texture %s" % card_id)
 				# Some hero skins have no tiles, but still have the thumb
@@ -222,8 +233,8 @@ def do_texture(env: Environment, card_id: str, texture_info: CardTextureInfo, te
         
 
 
-def generate_tile_image(env: Environment, img, tile_info):
-	# print("tile: %s" % tile_info)    
+def generate_tile_image(env: Environment, img, tile_info, use_secondary_value):
+	print("tile: %s" % tile_info)    
 	if (img.width, img.height) != (512, 512):
 		img = img.resize((512, 512), Image.ANTIALIAS)
   
@@ -248,12 +259,12 @@ def generate_tile_image(env: Environment, img, tile_info):
 		for entry in tile_info.m_TexEnvs:
 			if isinstance(entry, tuple) and entry[0] == "_MainTex":
 				main_tex = entry[1]
-				# print("found main_tex: %s" % main_tex)
+				print("found main_tex: %s" % main_tex)
 				break
 		if main_tex is None:
 			print("No _MainTex found in m_TexEnvs")
 			return None
-		# print("main_tex: %s" % main_tex)
+		print("main_tex: %s" % main_tex)
 		offset_x = main_tex.m_Offset.x
 		offset_y = main_tex.m_Offset.y
 		scale_x = main_tex.m_Scale.x
@@ -269,13 +280,19 @@ def generate_tile_image(env: Environment, img, tile_info):
 			img.width
 		)
 	# Hardcode the value (taken from the Counterfeit coin)
-	else:
+	elif use_secondary_value:
 		x = 467
 		y = 223
 		width = 440
 		height = 101
-
-		# print("rect: x=%d, y=%d, width=%d, height=%d" % (x, y, width, height))
+		print("rect secondary: x=%d, y=%d, width=%d, height=%d" % (x, y, width, height))
+  	# For BG
+	else:
+		x = 0
+		y = 300
+		width = 512
+		height = 117
+		print("rect: x=%d, y=%d, width=%d, height=%d" % (x, y, width, height))
 
 	# Clamp to image bounds
 	x = max(0, min(x, img.width * 2 - 1))

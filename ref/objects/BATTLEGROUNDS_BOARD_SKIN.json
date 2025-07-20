@@ -83,438 +83,6 @@
             "m_borderType": 0
         },
         {
-            "m_ID": 18,
-            "m_enabled": 1,
-            "m_rarityId": 3,
-            "m_fullBoardPrefab": "Mecha_1_Board.prefab:d2913114539b73c49a49bb1b0c91b6c0",
-            "m_fullBoardPrefabPhone": "Mecha_1_Board_Phone.prefab:6915f8c16f551e3409092022224324c0",
-            "m_fullTavernBoardPrefab": "Default_1T_Board.prefab:3e3de375694b2504cb99031806d0d068",
-            "m_fullTavernBoardPrefabPhone": "Default_1T_Board_Phone.prefab:9fc3c1e16769c6b4982d89c6b7c43843",
-            "m_collectionName": {
-                "m_locValues": [
-                    "Mecha Makerspace",
-                    "Mecha-Werkraum",
-                    "Espacio de mecacreación",
-                    "Espacio creativo mecanizado",
-                    "Laboratoire méca",
-                    "Laboratorio Robotico",
-                    "メカ・メーカースペース",
-                    "기계 공방",
-                    "Mecha Warsztat",
-                    "Ateliê de Mecanoides",
-                    "Меха-мастерская",
-                    "เมคาเมคเกอร์สเปซ",
-                    "机械工坊",
-                    "機甲創客空間"
-                ],
-                "m_locId": 2827057
-            },
-            "m_collectionShortName": {
-                "m_locValues": [
-                    "Mecha Makerspace",
-                    "Mecha-Werkraum",
-                    "Espacio de mecacreación",
-                    "Espacio creativo mecanizado",
-                    "Laboratoire méca",
-                    "Laboratorio Robotico",
-                    "メカ・メーカースペース",
-                    "기계 공방",
-                    "Mecha Warsztat",
-                    "Ateliê de Mecanoides",
-                    "Меха-мастерская",
-                    "เมคาเมคเกอร์สเปซ",
-                    "机械工坊",
-                    "機甲創客空間"
-                ],
-                "m_locId": 2827058
-            },
-            "m_description": {
-                "m_locValues": [
-                    "** BEGINNING BATTLEFIELD ANALYSIS **\nHere the plans are drawn, the alloys are forged, and the suits are fitted. No hero leaves the makerspace without receiving a proper tune-up.\n** ANALYSIS COMPLETE **",
-                    "** BEGINNE SCHLACHTFELDANALYSE **\nHier werden die Pläne angefertigt, die Legierungen geschmiedet und die Anzüge angepasst. Kein Held verlässt den Werkraum ohne eine Generalüberholung.\n** ANALSYSE ABGESCHLOSSEN **",
-                    "**INICIANDO ANÁLISIS DEL CAMPO DE BATALLA**\nAquí es donde se trazan los planos, se forjan las aleaciones y se ajustan los trajes. No hay héroe que abandone este espacio sin recibir una puesta a punto.\n**ANÁLISIS COMPLETADO**",
-                    "** INICIO DE ANÁLISIS DE CAMPO DE BATALLA **\nEn este lugar se crean planes, se forjan aleaciones y se ajustan trajes. Ningún héroe deja este espacio creativo sin recibir una mejora adecuada.\n** ANÁLISIS COMPLETO **",
-                    "** LANCEMENT DE L’ANALYSE DU CHAMP DE BATAILLE **\nC’est ici que les plans sont esquissés, les alliages forgés et les combinaisons ajustées. Aucun héros ou héroïne ne quitte le laboratoire sans une mise à niveau en bonne et due forme.\n** ANALYSE TERMINÉE **",
-                    "**INIZIO ANALISI DEL CAMPO DI BATTAGLIA**\nI piani sono stati elaborati, le leghe sono state forgiate e le tute sono montate. Nessun eroe lascia il laboratorio senza essere stato sintonizzato.\n**ANALISI COMPLETATA**",
-                    "** 戦場の分析を開始 **\nここでは設計図が描かれ、合金が鍛造され、スーツが装着される。このメーカースペースを訪れるヒーローは例外なく適切なチューンナップを施される。\n** 分析完了 **",
-                    "** 전장 분석 시작 **\n도면을 그리고, 합금을 만들며, 복장을 재단하는 장소입니다. 그 어떤 영웅도 정밀 교정을 마치지 않으면 이 공방을 나설 수 없습니다.\n** 분석 완료 **",
-                    "**ROZPOCZYNAM ANALIZĘ POLA BITWY**\nTutaj rodzą się pomysły, łączą się metale i wykuwają legendy. Żaden bohater nie wyjdzie stąd bez delikatnego odpicowania.\n **ANALIZA ZAKOŃCZONA**",
-                    "** INICIANDO ANÁLISE DO CAMPO DE BATALHA **\nAqui os planos são traçados, as ligas são forjadas e os trajes são ajustados. Nenhum herói sai do ateliê sem uma boa tunada.\n** ANÁLISE CONCLUÍDA **",
-                    "** ПРЕДВАРИТЕЛЬНЫЙ АНАЛИЗ ПОЛЯ БОЯ **\nЗдесь составляются планы, куется железо, подгоняются костюмы и доспехи. Ни один герой не уйдет из нашей мастерской без соответствующего снаряжения.\n** АНАЛИЗ ЗАВЕРШЕН **",
-                    "** เริ่มการ[b]วิเคราะห์[b]สนามรบ **\nสถานที่สำหรับวาด[b]แบบแปลน หลอมโลหะ[b]อัลลอย และสวมชุดสูท ฮีโร่ทุกคนล้วนได้รับ[b]การปรับแต่งอย่าง[b]เหมาะสมก่อนออกจาก[b]เมคเกอร์สเปซ\n** เสร็จสิ้นการวิเคราะห์ **",
-                    "**启动战场分析**\n绘制计划，浇铸合金，适配机甲。所有英雄在离开工坊前都会接受充分的调整。\n**分析完成**",
-                    "**進行戰場分析**\n此處為繪製設計圖、鍛造合金，以及安裝機甲之場所。未經適當調整的英雄不可離開創客空間**\n分析完畢**"
-                ],
-                "m_locId": 2827059
-            },
-            "m_detailsTexture": "Mecha_1_Texture_Details.tif:15fa79b6e790bcb4f9411c964a072bc3",
-            "m_detailsTexturePhone": "Mecha_1_Texture_Details_Phone.tif:9cf031247b397f84a8b47d625b1235ee",
-            "m_detailsMovie": "Mecha_PC_New.mp4:256c8d25c6005774a979932ae365bee5",
-            "m_detailsMoviePhone": "Mecha_Mobile_New.mp4:1e24f0217de27ff4583b9266539544a8",
-            "m_detailsRenderConfig": "Mecha_1_Configuration.asset:d317320f1084b7246a3c41005a63d35a",
-            "m_borderType": 0
-        },
-        {
-            "m_ID": 25,
-            "m_enabled": 1,
-            "m_rarityId": 3,
-            "m_fullBoardPrefab": "EternalNight_1_Board 1.prefab:b1f22b59369ac2045abfa24453e0df2c",
-            "m_fullBoardPrefabPhone": "EternalNight_1_Board_mobile.prefab:6ad88b896b5f7a14ea7d68b5652e0fc4",
-            "m_fullTavernBoardPrefab": "Default_1T_Board.prefab:3e3de375694b2504cb99031806d0d068",
-            "m_fullTavernBoardPrefabPhone": "Default_1T_Board_Phone.prefab:9fc3c1e16769c6b4982d89c6b7c43843",
-            "m_collectionName": {
-                "m_locValues": [
-                    "Karazhan Forever",
-                    "Karazhan für immer",
-                    "Karazhan para siempre",
-                    "Karazhan por siempre",
-                    "Karazhan pour l’éternité",
-                    "Karazhan per Sempre",
-                    "カラザンフォーエバー",
-                    "카라잔이여 영원하라",
-                    "Wieczny Karazhan",
-                    "Karazhan Eterna",
-                    "Каражан навсегда",
-                    "คาราซานฟอร์เอฟเวอร์",
-                    "永远的卡拉赞",
-                    "卡拉贊萬歲"
-                ],
-                "m_locId": 2838883
-            },
-            "m_collectionShortName": {
-                "m_locValues": [
-                    "Karazhan Forever",
-                    "Karazhan für immer",
-                    "Karazhan para siempre",
-                    "Karazhan por siempre",
-                    "Karazhan pour l’éternité",
-                    "Karazhan per Sempre",
-                    "カラザンフォーエバー",
-                    "카라잔이여 영원하라",
-                    "Wieczny Karazhan",
-                    "Karazhan Eterna",
-                    "Каражан навсегда",
-                    "คาราซานฟอร์เอฟเวอร์",
-                    "永远的卡拉赞",
-                    "卡拉贊萬歲"
-                ],
-                "m_locId": 2838884
-            },
-            "m_description": {
-                "m_locValues": [
-                    "Come to Karazhan, where the party never stops and the night goes on forever!",
-                    "Kommt nach Karazhan, wo die Party niemals endet und die Nacht ewig andauert!",
-                    "¡Ven a Karazhan, donde la fiesta nunca cesa y la noche dura para siempre!",
-                    "Ven a Karazhan, ¡donde la fiesta nunca para y la noche es eterna!",
-                    "Venez à Karazhan, où la fête ne s’arrête jamais et la nuit est éternelle !",
-                    "Vieni a Karazhan, dove la festa non finisce mai e la notte continua per sempre!",
-                    "カラザンに集まれ！パーティーはノンストップ、サタデーナイトがフォーエバー！",
-                    "끝나지 않는 축제의 밤, 카라잔으로 오세요!",
-                    "Przybywajcie do Karazhanu, gdzie imprezy nigdy się nie kończą, a noce trwają wiecznie!",
-                    "Venha para Karazhan, onde a festa nunca termina e a noite é eterna!",
-                    "Добро пожаловать в Каражан, где вечеринка продолжается вечную ночь напролет!",
-                    "ขอเชิญมาที่คาราซาน ที่ที่ปาร์ตี้ไม่เคยจบลง และค่ำคืนยาวนานชั่วนิรันดร์!",
-                    "来卡拉赞吧，这里的派对无尽，长夜永恒！",
-                    "歡迎來到卡拉贊，這裡的派對永遠不停歇，夜晚狂歡沒有終點！"
-                ],
-                "m_locId": 2838885
-            },
-            "m_detailsTexture": "EternalNight_1_Texture_Details.tif:c4b1729c287fd754982f4fdc26324628",
-            "m_detailsTexturePhone": "EternalNight_1_Texture_Details_Phone.tif:b273c495c7240e7428c67af249e517ae",
-            "m_detailsMovie": "EternalNight_1_Video.mp4:75bbc9d9be9055d479ae19932e768ac3",
-            "m_detailsMoviePhone": "EternalNight_Mobile_New.mp4:8943395a145531646bfb0c3dcd9b52a5",
-            "m_detailsRenderConfig": "EternalNight_1_Configuration.asset:e401cb3e9124b414e9060a5c836eb625",
-            "m_borderType": 0
-        },
-        {
-            "m_ID": 27,
-            "m_enabled": 1,
-            "m_rarityId": 3,
-            "m_fullBoardPrefab": "SandyShores_1_Board.prefab:444311ae59f414f43af1dba44b97fe21",
-            "m_fullBoardPrefabPhone": "SandyShores_1_Board_Phone.prefab:2820e41e3dcfa6d4a8b7a503715c2adc",
-            "m_fullTavernBoardPrefab": "Default_1T_Board.prefab:3e3de375694b2504cb99031806d0d068",
-            "m_fullTavernBoardPrefabPhone": "Default_1T_Board_Phone.prefab:9fc3c1e16769c6b4982d89c6b7c43843",
-            "m_collectionName": {
-                "m_locValues": [
-                    "Sandy Shores",
-                    "Sandstrand",
-                    "Orilla arenosa",
-                    "Playas arenosas",
-                    "Rivage sablonneux",
-                    "Lidi Sabbiosi",
-                    "砂浜",
-                    "모래사장",
-                    "Piaszczysta Plaża",
-                    "Costas Arenosas",
-                    "Песчаные берега",
-                    "ชายฝั่งหาดทราย",
-                    "黄沙海岸",
-                    "沙灘"
-                ],
-                "m_locId": 2845212
-            },
-            "m_collectionShortName": {
-                "m_locValues": [
-                    "Sandy Shores",
-                    "Sandstrand",
-                    "Orilla arenosa",
-                    "Playas arenosas",
-                    "Rivage sablonneux",
-                    "Lidi Sabbiosi",
-                    "砂浜",
-                    "모래사장",
-                    "Piaszczysta Plaża",
-                    "Costas Arenosas",
-                    "Песчаные берега",
-                    "ชายฝั่งหาดทราย",
-                    "黄沙海岸",
-                    "沙灘"
-                ],
-                "m_locId": 2845213
-            },
-            "m_description": {
-                "m_locValues": [
-                    "When the battlegrounds rage and the festival torches burn, this breezy beach will keep you cool.",
-                    "Wenn das Schlachtfeld tobt und die Festtagsfackeln brennen, sorgt eine frische Strandbrise für eine willkommene Abkühlung.",
-                    "Cuando los campos de batalla se encarnicen y las antorchas de los festivales ardan, la brisa fresca de esta playa te refrescará.",
-                    "Cuando los campos de batalla son un caos y arden las antorchas del festival, la brisa de esta playa te ayudará a mantener la calma.",
-                    "Quand les champs de bataille s’enflamment et que les flambeaux de la fête s’embrasent, cette plage caressée par la brise est l’endroit rêvé pour rester au frais.",
-                    "Quando la battaglia infurierà e le torce del festival bruceranno, questa spiaggia ventosa ti manterrà al fresco.",
-                    "バトルグラウンドの熱戦や、燃え盛る祭りの松明で暑くなり過ぎた時は、このビーチの海風に当たって火照りを冷まそう。",
-                    "전장의 분노와 축제의 횃불이 뜨겁게 타오르면, 이 서늘한 해변이 열을 식혀줄 겁니다.",
-                    "Gdy dookoła płoną festiwalowe pochodnie, a w Ustawce trwają zacięte walki, na plaży poczujesz przyjemny chłód morskiej bryzy.",
-                    "Quando os campos de batalha rugirem e as tochas do festival arderem, esta praia será um alívio refrescante.",
-                    "Когда бои в самом разгаре и повсюду праздничные факелы, на этом пляже все равно царит приятная прохлада.",
-                    "ในยามที่แบทเทิลกราวด์[b]เดือดพล่าน[b]และคบไฟ[b]เทศกาลลุกโชน ชายหาดลมโชยแห่งนี้[b]จะช่วย[b]ให้คุณเย็นลง",
-                    "战棋的怒火与节日的烟火盛燃之际，这片清爽的海滩还能让你清凉一下。",
-                    "當戰場的怒火和節慶的熱火熊熊燃燒時，這座吹著微風的沙灘能讓你涼爽一下。"
-                ],
-                "m_locId": 2845214
-            },
-            "m_detailsTexture": "SandyShores_PC.tif:556ad1d98d04f0b419cdc9940597aab5",
-            "m_detailsTexturePhone": "SandyShores_Mobile.tif:988d80f469b244643aead7c1b355f757",
-            "m_detailsMovie": "SandyShores_New_PC_2.mp4:36ac9cd6bebb57b4e98162306398d1cb",
-            "m_detailsMoviePhone": "SandyShores_New_Mobile_2.mp4:92dbb3d0e2581e441a4265ff7f84d431",
-            "m_detailsRenderConfig": "SandyShores_1_Configuration.asset:6a8b166557393d747b4a6765852f1b45",
-            "m_borderType": 0
-        },
-        {
-            "m_ID": 30,
-            "m_enabled": 1,
-            "m_rarityId": 3,
-            "m_fullBoardPrefab": "MagicalGuardians_1_Board.prefab:2fb507ae41875c448a066743e347e25a",
-            "m_fullBoardPrefabPhone": "MagicalGuardian_1_Board_Phone.prefab:248c1f60d2cf6434fa131c544e6b2add",
-            "m_fullTavernBoardPrefab": "Default_1T_Board.prefab:3e3de375694b2504cb99031806d0d068",
-            "m_fullTavernBoardPrefabPhone": "Default_1T_Board_Phone.prefab:9fc3c1e16769c6b4982d89c6b7c43843",
-            "m_collectionName": {
-                "m_locValues": [
-                    "Crystallarium",
-                    "Kristallarium",
-                    "Cristalario",
-                    "Cristalarium",
-                    "Cristallarium",
-                    "Cristallarium",
-                    "クリスタラリウム",
-                    "수정 천문관",
-                    "Krysztarium",
-                    "Cristalário",
-                    "Кристалларий",
-                    "คริสตัลลาเรียม",
-                    "水晶魔宫",
-                    "水晶展示廳"
-                ],
-                "m_locId": 2849890
-            },
-            "m_collectionShortName": {
-                "m_locValues": [
-                    "Crystallarium",
-                    "Kristallarium",
-                    "Cristalario",
-                    "Cristalarium",
-                    "Cristallarium",
-                    "Cristallarium",
-                    "クリスタラリウム",
-                    "수정 천문관",
-                    "Krysztarium",
-                    "Cristalário",
-                    "Кристалларий",
-                    "คริสตัลลาเรียม",
-                    "水晶魔宫",
-                    "水晶展示廳"
-                ],
-                "m_locId": 2849891
-            },
-            "m_description": {
-                "m_locValues": [
-                    "Before becoming the Dark Flight's base of operations, the Crystallarium was a center of magical learning for all the people of Azeroth.\n\nEarnable after purchasing the Battlegrounds Season Pass in Season <i> 2 </i>.",
-                    "Bevor es zur Operationsbasis des Dunklen Schwarms wurde, war das Kristallarium ein zentraler Ort für alle Bewohner Azeroths, um Magie zu erlernen.\n\nKann nach Kauf des Schlachtfeld-Saisonpasses in Saison <i>2</i> freigeschaltet werden.",
-                    "Antes de convertirse en la base de operaciones del Vuelo Oscuro, el Cristalario era un centro de aprendizaje mágico para todo el pueblo de Azeroth.\n\nSe pueden conseguir al comprar el pase de temporada de Campos de batalla en la temporada <i>2</i>.",
-                    "Antes de convertirse en la base de operaciones del Vuelo Oscuro, el Cristalarium era un centro de aprendizaje mágico para todos los pueblos de Azeroth.\n\nSe puede obtener después de comprar el Pase de temporada de Campos de batalla en la temporada<i> 2 </i>.",
-                    "Avant de devenir la base d’opérations du Vol sombre, le Cristallarium d’Azeroth était un institut d’apprentissage de la magie ouvert à tous et à toutes.\n\nS’obtient après avoir acheté le ticket saisonnier des champs de bataille lors de la saison <i>2</i>.",
-                    "Prima di diventare la base operativa dello Stormo Oscuro, il Cristallarium è stato il centro della conoscenza magica di tutta Azeroth.\n\nOttenibile dopo aver acquistato il Pass Battaglia Stagionale durante la Stagione <i>2</i>.",
-                    "「ダーク・フライト」の基地にされる以前のクリスタラリウムは、アゼロス全ての人々に開かれた、魔法学習の中心地であった。\n\nバトルグラウンド・シーズン<i>2</i>の「シーズンパス」購入後に獲得可能となる。",
-                    "암흑군단의 본거지가 되기 전, 수정 천문관은 마법을 배우고자 하는 모든 아제로스인의 중심지였습니다.\n\n<i>2</i>시즌 전장 시즌 패스를 구매한 후 획득 가능",
-                    "Zanim Krysztarium stało się siedzibą Mrocznego Rodu, było miejscem, w którym wszyscy mieszkańcy Azeroth mogli pobierać nauki magiczne.\n\nDo zdobycia w karnecie sezonowym Ustawki w sezonie <i> 2 </i>.",
-                    "Antes de se tornar a base de operações da Revoada Sombria, o Cristalário era o centro de aprendizado de magia para todos os povos de Azeroth.\n\nPossível de obter após comprar o Passe de Temporada dos Campos de Batalha na Temporada <i> 2 </i>.",
-                    "Кристалларий был центром магических наук для всех рас Азерота, но потом в нем обосновалась Темная стая.\n\nМожно открыть после покупки пропуска <i>2-го</i> сезона полей сражений.",
-                    "คริสตัลลาเรียมเคยเป็น[b]ศูนย์การเรียนรู้เวทมนตร์[b]สำหรับชาวอาเซรอธ ก่อนที่จะกลายเป็น[b]ฐานปฏิบัติการของดาร์คไฟลท์\n\nปลดล็อคได้หลังจากซื้อ\nซีซันพาส_Battlegrounds ในซีซัน_<i>2</i>",
-                    "在成为黑暗军团的行动基地之前，水晶魔宫曾是艾泽拉斯的魔法修习中心，所有人都在这里学习。\n\n购买第<i>2</i>赛季的酒馆战棋赛季通行证后开放解锁。",
-                    "水晶展示廳在成為黑暗軍團的行動基地之前，是艾澤拉斯人民學習魔法的中心。\n\n需在賽季<i>2</i>購買英雄戰場賽季通行證才有機會取得。"
-                ],
-                "m_locId": 2849892
-            },
-            "m_detailsTexture": "MagicalGuardian_1_Texture_Details.tif:5ce4d835bac5a2d4ea7a5132ad14e326",
-            "m_detailsTexturePhone": "MagicalGuardian_1_Texture_Details_Phone.tif:59302af520001a7409728d141e745842",
-            "m_detailsMovie": "MagicalGuardian_1_Video.mp4:40b70bef82c02804da967e7f9a6c170d",
-            "m_detailsMoviePhone": "MagicalGuardian_1_Video_Phone.mp4:2af3aa37837082b49b7971fe025304b7",
-            "m_detailsRenderConfig": "MagicalGuardians_1_Configuration.asset:7e6db31ebe6441141ba2a43d1ecd1cfd",
-            "m_borderType": 0
-        },
-        {
-            "m_ID": 36,
-            "m_enabled": 1,
-            "m_rarityId": 4,
-            "m_fullBoardPrefab": "NomisKitchen_1_Board.prefab:877663b379e5eeb47b8ed03fb3958f7c",
-            "m_fullBoardPrefabPhone": "NomisKitchen_1C_Board_Phone.prefab:ca50ed07494b322428bb95005b071ea1",
-            "m_fullTavernBoardPrefab": "NomisKitchen_TavernBoard_1.prefab:96e2db7afb3bf3a40accb7e5f299b001",
-            "m_fullTavernBoardPrefabPhone": "NomisKitchen_TavernBoard_1.prefab:96e2db7afb3bf3a40accb7e5f299b001",
-            "m_collectionName": {
-                "m_locValues": [
-                    "Nomi's Eatery",
-                    "Nomis Gasthaus",
-                    "Casa Nomi",
-                    "Restaurante de Nomi",
-                    "Chez Nomi",
-                    "Chiosco di Nomi",
-                    "ノミの食堂",
-                    "노미네 식당",
-                    "Jadłodajnia Nomiego",
-                    "Comedoria de Nomi",
-                    "Кухня Номи",
-                    "ภัตตาคารของโนมิ",
-                    "诺米餐厅",
-                    "糯米廚房"
-                ],
-                "m_locId": 2860301
-            },
-            "m_collectionShortName": {
-                "m_locValues": [
-                    "Nomi's Eatery",
-                    "Nomis Gasthaus",
-                    "Casa Nomi",
-                    "Restaurante de Nomi",
-                    "Chez Nomi",
-                    "Chiosco di Nomi",
-                    "ノミの食堂",
-                    "노미네 식당",
-                    "Jadłodajnia Nomiego",
-                    "Comedoria de Nomi",
-                    "Кухня Номи",
-                    "ภัตตาคารของโนมิ",
-                    "诺米餐厅",
-                    "糯米廚房"
-                ],
-                "m_locId": 2860302
-            },
-            "m_description": {
-                "m_locValues": [
-                    "If you can't stand the heat, get back in the kitchen and try making another dish!\n\nPurchasable when available in the shop.",
-                    "Für ganz ausgekochte Spieler!\n\nKann bei Verfügbarkeit im Shop erworben werden.",
-                    "Si no soportas el calor, ¡vuelve a la cocina y prueba a hacer otro plato!\n\nSe compra en la tienda cuando esté disponible.",
-                    "¡Si no quieres quemarte, no juegues con fuego!\n\nSe puede comprar si está disponible en la tienda.",
-                    "Si vous ne supportez pas la chaleur, retournez donc dans la cuisine pour essayer de préparer un autre plat !\n\nCe plateau s’obtient en l’achetant lorsqu’il est disponible dans la boutique.",
-                    "Se non sopporti il caldo, torna in cucina e prova a fare un altro piatto!\n\nAcquistabile quando disponibile nel negozio.",
-                    "暑さに耐えられないなら、厨房に戻ってもう一品作るんだ！\n\nショップでの販売時に購入可能。",
-                    "도저히 열기를 못 견디겠다면, 주방으로 돌아가 다른 요리를 만드세요!\n\n상점에서 판매 시 구매하여 획득 가능",
-                    "Jak ci za ciepło, to precz do kuchni i ugotuj coś!\n\nDo zakupu po udostępnieniu w sklepie.",
-                    "Se não aguenta o calor, volta pra cozinha e tenta fazer um prato frio!\n\nPossível de adquirir quando disponível na loja.",
-                    "Если не можешь выносить этот жар, возвращайся на кухню и попробуй приготовить другое блюдо!\n\nМожно приобрести в магазине.",
-                    "ถ้าคุณทนความร้อนไม่ไหว ให้กลับเข้าครัวไปทำอาหาร\nอีกจาน!\n\nหาซื้อได้เมื่อวางจำหน่ายในร้านค้า",
-                    "要是你受不了这里的温度，那就回到后厨，另做一道菜吧！\n\n可以在上架期间在商店购买。",
-                    "怕熱就回去廚房再做一道菜！\n\n於商店上架時購買取得。"
-                ],
-                "m_locId": 2863223
-            },
-            "m_detailsTexture": "NomisKitchen_BoardFrame.tif:007782e9689046d468110ce81f8a73cf",
-            "m_detailsTexturePhone": "NomisKitchen_MobileCorners.tif:536f1e6a5f0b3e64786c52cdd04c1a98",
-            "m_detailsMovie": "NightmareKitchen_1_Video.mp4:5c7b028c27219744d96d66fab1bafb7c",
-            "m_detailsMoviePhone": "NightmareKitchen_1_Video_Phone.mp4:e9f5d40c3bca0704f83da93b57800a2b",
-            "m_detailsRenderConfig": "NomisKitchen_Board_Configuration.asset:eeac6a60ad7ff44488b824a7e9bd4ac2",
-            "m_borderType": 1
-        },
-        {
-            "m_ID": 4,
-            "m_enabled": 1,
-            "m_rarityId": 3,
-            "m_fullBoardPrefab": "ThreeKingdoms_1_Board.prefab:98f7b00ca6b598748a81e83c7e0ab1a3",
-            "m_fullBoardPrefabPhone": "ThreeKingdoms_1_Board_Phone.prefab:4bf3385fe00f06e4cb237c07d72f305a",
-            "m_fullTavernBoardPrefab": "Default_1T_Board.prefab:3e3de375694b2504cb99031806d0d068",
-            "m_fullTavernBoardPrefabPhone": "Default_1T_Board_Phone.prefab:9fc3c1e16769c6b4982d89c6b7c43843",
-            "m_collectionName": {
-                "m_locValues": [
-                    "Jade Gardens",
-                    "Jadegärten",
-                    "Jardines de jade",
-                    "Jardines de jade",
-                    "Jardins de jade",
-                    "Giardini di Giada",
-                    "翡翠の園",
-                    "비취 정원",
-                    "Nefrytowe Ogrody",
-                    "Jardins de Jade",
-                    "Нефритовые сады",
-                    "สวนหยก",
-                    "青玉园林",
-                    "翠玉花園"
-                ],
-                "m_locId": 2813218
-            },
-            "m_collectionShortName": {
-                "m_locValues": [
-                    "Jade Gardens",
-                    "Jadegärten",
-                    "Jardines de jade",
-                    "Jardines de jade",
-                    "Jardins de jade",
-                    "Giardini di Giada",
-                    "翡翠の園",
-                    "비취 정원",
-                    "Nefrytowe Ogrody",
-                    "Jardins de Jade",
-                    "Нефритовые сады",
-                    "สวนหยก",
-                    "青玉园林",
-                    "翠玉花園"
-                ],
-                "m_locId": 2815901
-            },
-            "m_description": {
-                "m_locValues": [
-                    "The most noble of jade golems watch over this warrior's terrace.",
-                    "Die edelsten Jadegolems wachen über diese Terrasse der Krieger.",
-                    "Los gólems de jade más nobles vigilan la terraza de este guerrero.",
-                    "Los gólems de jade más nobles protegen este bancal de guerreros.",
-                    "Le plus noble des golems de jade protège la terrasse de ce guerrier.",
-                    "Il più nobile dei Golem di Giada protegge questa terrazza dei guerrieri.",
-                    "最も高貴なる翡翠のゴーレム達がこの戦士のテラスを見守っている。",
-                    "가장 고귀한 비취 골렘들이 전사들의 정원을 지켜봅니다.",
-                    "Tego skweru wojowników strzegą najszlachetniejsze spośród nefrytowych golemów.",
-                    "O mais nobre dos golens de jade vigia o terraço deste guerreiro.",
-                    "Эту террасу воинов охраняют самые благородные нефритовые големы.",
-                    "เหล่าเจดโกเล็ม[b]ผู้ทรงคุณธรรม[b]คอยคุ้มครองสวน[b]ของนักรบแห่งนี้",
-                    "这片猛将的园地由最高贵的青玉魔像亲自把守。",
-                    "這座戰士的露台由最尊貴的翠玉魔像把守著。"
-                ],
-                "m_locId": 2813219
-            },
-            "m_detailsTexture": "ThreeKingdoms_1_Texture_Details.tif:c86c876721991444088f3d1a1baaed3c",
-            "m_detailsTexturePhone": "ThreeKingdoms_1_Texture_Details_Phone.tif:17a093f7a4894a545a9271d50e35a743",
-            "m_detailsMovie": "ThreeKingdoms_1_Video.mp4:7f2fbc35b6135f647a998101467b144f",
-            "m_detailsMoviePhone": "ThreeKingdoms_1_Video_Phone.mp4:09ef6ca685a2d6746804d557b66439d6",
-            "m_detailsRenderConfig": "ThreeKingdoms_1_Configuration.asset:b8068f984f1827d4a9263834d1e8c894",
-            "m_borderType": 0
-        },
-        {
             "m_ID": 17,
             "m_enabled": 1,
             "m_rarityId": 3,
@@ -584,6 +152,78 @@
             "m_detailsMovie": "CosmicStudy_1_Video.mp4:1d51e531465d20743bb3f71e67bed6e1",
             "m_detailsMoviePhone": "CosmicStudy_1_Video_Phone.mp4:b66e8bd95f2cd0a4d940dccb1f614e27",
             "m_detailsRenderConfig": "CosmicStudy_1_Configuration.asset:58534180630376a41a0bc9892a8ae83c",
+            "m_borderType": 0
+        },
+        {
+            "m_ID": 18,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_fullBoardPrefab": "Mecha_1_Board.prefab:d2913114539b73c49a49bb1b0c91b6c0",
+            "m_fullBoardPrefabPhone": "Mecha_1_Board_Phone.prefab:6915f8c16f551e3409092022224324c0",
+            "m_fullTavernBoardPrefab": "Default_1T_Board.prefab:3e3de375694b2504cb99031806d0d068",
+            "m_fullTavernBoardPrefabPhone": "Default_1T_Board_Phone.prefab:9fc3c1e16769c6b4982d89c6b7c43843",
+            "m_collectionName": {
+                "m_locValues": [
+                    "Mecha Makerspace",
+                    "Mecha-Werkraum",
+                    "Espacio de mecacreación",
+                    "Espacio creativo mecanizado",
+                    "Laboratoire méca",
+                    "Laboratorio Robotico",
+                    "メカ・メーカースペース",
+                    "기계 공방",
+                    "Mecha Warsztat",
+                    "Ateliê de Mecanoides",
+                    "Меха-мастерская",
+                    "เมคาเมคเกอร์สเปซ",
+                    "机械工坊",
+                    "機甲創客空間"
+                ],
+                "m_locId": 2827057
+            },
+            "m_collectionShortName": {
+                "m_locValues": [
+                    "Mecha Makerspace",
+                    "Mecha-Werkraum",
+                    "Espacio de mecacreación",
+                    "Espacio creativo mecanizado",
+                    "Laboratoire méca",
+                    "Laboratorio Robotico",
+                    "メカ・メーカースペース",
+                    "기계 공방",
+                    "Mecha Warsztat",
+                    "Ateliê de Mecanoides",
+                    "Меха-мастерская",
+                    "เมคาเมคเกอร์สเปซ",
+                    "机械工坊",
+                    "機甲創客空間"
+                ],
+                "m_locId": 2827058
+            },
+            "m_description": {
+                "m_locValues": [
+                    "** BEGINNING BATTLEFIELD ANALYSIS **\nHere the plans are drawn, the alloys are forged, and the suits are fitted. No hero leaves the makerspace without receiving a proper tune-up.\n** ANALYSIS COMPLETE **",
+                    "** BEGINNE SCHLACHTFELDANALYSE **\nHier werden die Pläne angefertigt, die Legierungen geschmiedet und die Anzüge angepasst. Kein Held verlässt den Werkraum ohne eine Generalüberholung.\n** ANALSYSE ABGESCHLOSSEN **",
+                    "**INICIANDO ANÁLISIS DEL CAMPO DE BATALLA**\nAquí es donde se trazan los planos, se forjan las aleaciones y se ajustan los trajes. No hay héroe que abandone este espacio sin recibir una puesta a punto.\n**ANÁLISIS COMPLETADO**",
+                    "** INICIO DE ANÁLISIS DE CAMPO DE BATALLA **\nEn este lugar se crean planes, se forjan aleaciones y se ajustan trajes. Ningún héroe deja este espacio creativo sin recibir una mejora adecuada.\n** ANÁLISIS COMPLETO **",
+                    "** LANCEMENT DE L’ANALYSE DU CHAMP DE BATAILLE **\nC’est ici que les plans sont esquissés, les alliages forgés et les combinaisons ajustées. Aucun héros ou héroïne ne quitte le laboratoire sans une mise à niveau en bonne et due forme.\n** ANALYSE TERMINÉE **",
+                    "**INIZIO ANALISI DEL CAMPO DI BATTAGLIA**\nI piani sono stati elaborati, le leghe sono state forgiate e le tute sono montate. Nessun eroe lascia il laboratorio senza essere stato sintonizzato.\n**ANALISI COMPLETATA**",
+                    "** 戦場の分析を開始 **\nここでは設計図が描かれ、合金が鍛造され、スーツが装着される。このメーカースペースを訪れるヒーローは例外なく適切なチューンナップを施される。\n** 分析完了 **",
+                    "** 전장 분석 시작 **\n도면을 그리고, 합금을 만들며, 복장을 재단하는 장소입니다. 그 어떤 영웅도 정밀 교정을 마치지 않으면 이 공방을 나설 수 없습니다.\n** 분석 완료 **",
+                    "**ROZPOCZYNAM ANALIZĘ POLA BITWY**\nTutaj rodzą się pomysły, łączą się metale i wykuwają legendy. Żaden bohater nie wyjdzie stąd bez delikatnego odpicowania.\n **ANALIZA ZAKOŃCZONA**",
+                    "** INICIANDO ANÁLISE DO CAMPO DE BATALHA **\nAqui os planos são traçados, as ligas são forjadas e os trajes são ajustados. Nenhum herói sai do ateliê sem uma boa tunada.\n** ANÁLISE CONCLUÍDA **",
+                    "** ПРЕДВАРИТЕЛЬНЫЙ АНАЛИЗ ПОЛЯ БОЯ **\nЗдесь составляются планы, куется железо, подгоняются костюмы и доспехи. Ни один герой не уйдет из нашей мастерской без соответствующего снаряжения.\n** АНАЛИЗ ЗАВЕРШЕН **",
+                    "** เริ่มการ[b]วิเคราะห์[b]สนามรบ **\nสถานที่สำหรับวาด[b]แบบแปลน หลอมโลหะ[b]อัลลอย และสวมชุดสูท ฮีโร่ทุกคนล้วนได้รับ[b]การปรับแต่งอย่าง[b]เหมาะสมก่อนออกจาก[b]เมคเกอร์สเปซ\n** เสร็จสิ้นการวิเคราะห์ **",
+                    "**启动战场分析**\n绘制计划，浇铸合金，适配机甲。所有英雄在离开工坊前都会接受充分的调整。\n**分析完成**",
+                    "**進行戰場分析**\n此處為繪製設計圖、鍛造合金，以及安裝機甲之場所。未經適當調整的英雄不可離開創客空間**\n分析完畢**"
+                ],
+                "m_locId": 2827059
+            },
+            "m_detailsTexture": "Mecha_1_Texture_Details.tif:15fa79b6e790bcb4f9411c964a072bc3",
+            "m_detailsTexturePhone": "Mecha_1_Texture_Details_Phone.tif:9cf031247b397f84a8b47d625b1235ee",
+            "m_detailsMovie": "Mecha_PC_New.mp4:256c8d25c6005774a979932ae365bee5",
+            "m_detailsMoviePhone": "Mecha_Mobile_New.mp4:1e24f0217de27ff4583b9266539544a8",
+            "m_detailsRenderConfig": "Mecha_1_Configuration.asset:d317320f1084b7246a3c41005a63d35a",
             "m_borderType": 0
         },
         {
@@ -659,6 +299,78 @@
             "m_borderType": 0
         },
         {
+            "m_ID": 25,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_fullBoardPrefab": "EternalNight_1_Board 1.prefab:b1f22b59369ac2045abfa24453e0df2c",
+            "m_fullBoardPrefabPhone": "EternalNight_1_Board_mobile.prefab:6ad88b896b5f7a14ea7d68b5652e0fc4",
+            "m_fullTavernBoardPrefab": "Default_1T_Board.prefab:3e3de375694b2504cb99031806d0d068",
+            "m_fullTavernBoardPrefabPhone": "Default_1T_Board_Phone.prefab:9fc3c1e16769c6b4982d89c6b7c43843",
+            "m_collectionName": {
+                "m_locValues": [
+                    "Karazhan Forever",
+                    "Karazhan für immer",
+                    "Karazhan para siempre",
+                    "Karazhan por siempre",
+                    "Karazhan pour l’éternité",
+                    "Karazhan per Sempre",
+                    "カラザンフォーエバー",
+                    "카라잔이여 영원하라",
+                    "Wieczny Karazhan",
+                    "Karazhan Eterna",
+                    "Каражан навсегда",
+                    "คาราซานฟอร์เอฟเวอร์",
+                    "永远的卡拉赞",
+                    "卡拉贊萬歲"
+                ],
+                "m_locId": 2838883
+            },
+            "m_collectionShortName": {
+                "m_locValues": [
+                    "Karazhan Forever",
+                    "Karazhan für immer",
+                    "Karazhan para siempre",
+                    "Karazhan por siempre",
+                    "Karazhan pour l’éternité",
+                    "Karazhan per Sempre",
+                    "カラザンフォーエバー",
+                    "카라잔이여 영원하라",
+                    "Wieczny Karazhan",
+                    "Karazhan Eterna",
+                    "Каражан навсегда",
+                    "คาราซานฟอร์เอฟเวอร์",
+                    "永远的卡拉赞",
+                    "卡拉贊萬歲"
+                ],
+                "m_locId": 2838884
+            },
+            "m_description": {
+                "m_locValues": [
+                    "Come to Karazhan, where the party never stops and the night goes on forever!",
+                    "Kommt nach Karazhan, wo die Party niemals endet und die Nacht ewig andauert!",
+                    "¡Ven a Karazhan, donde la fiesta nunca cesa y la noche dura para siempre!",
+                    "Ven a Karazhan, ¡donde la fiesta nunca para y la noche es eterna!",
+                    "Venez à Karazhan, où la fête ne s’arrête jamais et la nuit est éternelle !",
+                    "Vieni a Karazhan, dove la festa non finisce mai e la notte continua per sempre!",
+                    "カラザンに集まれ！パーティーはノンストップ、サタデーナイトがフォーエバー！",
+                    "끝나지 않는 축제의 밤, 카라잔으로 오세요!",
+                    "Przybywajcie do Karazhanu, gdzie imprezy nigdy się nie kończą, a noce trwają wiecznie!",
+                    "Venha para Karazhan, onde a festa nunca termina e a noite é eterna!",
+                    "Добро пожаловать в Каражан, где вечеринка продолжается вечную ночь напролет!",
+                    "ขอเชิญมาที่คาราซาน ที่ที่ปาร์ตี้ไม่เคยจบลง และค่ำคืนยาวนานชั่วนิรันดร์!",
+                    "来卡拉赞吧，这里的派对无尽，长夜永恒！",
+                    "歡迎來到卡拉贊，這裡的派對永遠不停歇，夜晚狂歡沒有終點！"
+                ],
+                "m_locId": 2838885
+            },
+            "m_detailsTexture": "EternalNight_1_Texture_Details.tif:c4b1729c287fd754982f4fdc26324628",
+            "m_detailsTexturePhone": "EternalNight_1_Texture_Details_Phone.tif:b273c495c7240e7428c67af249e517ae",
+            "m_detailsMovie": "EternalNight_1_Video.mp4:75bbc9d9be9055d479ae19932e768ac3",
+            "m_detailsMoviePhone": "EternalNight_Mobile_New.mp4:8943395a145531646bfb0c3dcd9b52a5",
+            "m_detailsRenderConfig": "EternalNight_1_Configuration.asset:e401cb3e9124b414e9060a5c836eb625",
+            "m_borderType": 0
+        },
+        {
             "m_ID": 26,
             "m_enabled": 1,
             "m_rarityId": 5,
@@ -729,6 +441,222 @@
             "m_detailsMoviePhone": "MurlocHideaway_1_Video_Phone.mp4:e7768d551fa6f7a4794f23dfb2d41277",
             "m_detailsRenderConfig": "Murloc_1_Configuration.asset:02e8846afb4708f4b8d6435667fa19a6",
             "m_borderType": 2
+        },
+        {
+            "m_ID": 27,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_fullBoardPrefab": "SandyShores_1_Board.prefab:444311ae59f414f43af1dba44b97fe21",
+            "m_fullBoardPrefabPhone": "SandyShores_1_Board_Phone.prefab:2820e41e3dcfa6d4a8b7a503715c2adc",
+            "m_fullTavernBoardPrefab": "Default_1T_Board.prefab:3e3de375694b2504cb99031806d0d068",
+            "m_fullTavernBoardPrefabPhone": "Default_1T_Board_Phone.prefab:9fc3c1e16769c6b4982d89c6b7c43843",
+            "m_collectionName": {
+                "m_locValues": [
+                    "Sandy Shores",
+                    "Sandstrand",
+                    "Orilla arenosa",
+                    "Playas arenosas",
+                    "Rivage sablonneux",
+                    "Lidi Sabbiosi",
+                    "砂浜",
+                    "모래사장",
+                    "Piaszczysta Plaża",
+                    "Costas Arenosas",
+                    "Песчаные берега",
+                    "ชายฝั่งหาดทราย",
+                    "黄沙海岸",
+                    "沙灘"
+                ],
+                "m_locId": 2845212
+            },
+            "m_collectionShortName": {
+                "m_locValues": [
+                    "Sandy Shores",
+                    "Sandstrand",
+                    "Orilla arenosa",
+                    "Playas arenosas",
+                    "Rivage sablonneux",
+                    "Lidi Sabbiosi",
+                    "砂浜",
+                    "모래사장",
+                    "Piaszczysta Plaża",
+                    "Costas Arenosas",
+                    "Песчаные берега",
+                    "ชายฝั่งหาดทราย",
+                    "黄沙海岸",
+                    "沙灘"
+                ],
+                "m_locId": 2845213
+            },
+            "m_description": {
+                "m_locValues": [
+                    "When the battlegrounds rage and the festival torches burn, this breezy beach will keep you cool.",
+                    "Wenn das Schlachtfeld tobt und die Festtagsfackeln brennen, sorgt eine frische Strandbrise für eine willkommene Abkühlung.",
+                    "Cuando los campos de batalla se encarnicen y las antorchas de los festivales ardan, la brisa fresca de esta playa te refrescará.",
+                    "Cuando los campos de batalla son un caos y arden las antorchas del festival, la brisa de esta playa te ayudará a mantener la calma.",
+                    "Quand les champs de bataille s’enflamment et que les flambeaux de la fête s’embrasent, cette plage caressée par la brise est l’endroit rêvé pour rester au frais.",
+                    "Quando la battaglia infurierà e le torce del festival bruceranno, questa spiaggia ventosa ti manterrà al fresco.",
+                    "バトルグラウンドの熱戦や、燃え盛る祭りの松明で暑くなり過ぎた時は、このビーチの海風に当たって火照りを冷まそう。",
+                    "전장의 분노와 축제의 횃불이 뜨겁게 타오르면, 이 서늘한 해변이 열을 식혀줄 겁니다.",
+                    "Gdy dookoła płoną festiwalowe pochodnie, a w Ustawce trwają zacięte walki, na plaży poczujesz przyjemny chłód morskiej bryzy.",
+                    "Quando os campos de batalha rugirem e as tochas do festival arderem, esta praia será um alívio refrescante.",
+                    "Когда бои в самом разгаре и повсюду праздничные факелы, на этом пляже все равно царит приятная прохлада.",
+                    "ในยามที่แบทเทิลกราวด์[b]เดือดพล่าน[b]และคบไฟ[b]เทศกาลลุกโชน ชายหาดลมโชยแห่งนี้[b]จะช่วย[b]ให้คุณเย็นลง",
+                    "战棋的怒火与节日的烟火盛燃之际，这片清爽的海滩还能让你清凉一下。",
+                    "當戰場的怒火和節慶的熱火熊熊燃燒時，這座吹著微風的沙灘能讓你涼爽一下。"
+                ],
+                "m_locId": 2845214
+            },
+            "m_detailsTexture": "SandyShores_PC.tif:556ad1d98d04f0b419cdc9940597aab5",
+            "m_detailsTexturePhone": "SandyShores_Mobile.tif:988d80f469b244643aead7c1b355f757",
+            "m_detailsMovie": "SandyShores_New_PC_2.mp4:36ac9cd6bebb57b4e98162306398d1cb",
+            "m_detailsMoviePhone": "SandyShores_New_Mobile_2.mp4:92dbb3d0e2581e441a4265ff7f84d431",
+            "m_detailsRenderConfig": "SandyShores_1_Configuration.asset:6a8b166557393d747b4a6765852f1b45",
+            "m_borderType": 0
+        },
+        {
+            "m_ID": 3,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_fullBoardPrefab": "Tournament_1_Board.prefab:76034bbd7abd62c488f3ec26f17b69f9",
+            "m_fullBoardPrefabPhone": "Tournament_1_Board_Phone.prefab:dc0a37c2aec46ad4580c72a80307330c",
+            "m_fullTavernBoardPrefab": "Default_1T_Board.prefab:3e3de375694b2504cb99031806d0d068",
+            "m_fullTavernBoardPrefabPhone": "Default_1T_Board_Phone.prefab:9fc3c1e16769c6b4982d89c6b7c43843",
+            "m_collectionName": {
+                "m_locValues": [
+                    "Arena of Champions",
+                    "Arena der Champions",
+                    "Arena de campeones",
+                    "Arena de los Campeones",
+                    "Arène des champions",
+                    "Arena dei campioni",
+                    "勇者の闘技場",
+                    "용사들의 투기장",
+                    "Arena Bohaterów",
+                    "Arena dos Campeões",
+                    "Арена чемпионов",
+                    "ลานประลองของแชมเปี้ยน",
+                    "勇士竞技场",
+                    "勇士競技場"
+                ],
+                "m_locId": 2813216
+            },
+            "m_collectionShortName": {
+                "m_locValues": [
+                    "Arena of Champions",
+                    "Arena der Champions",
+                    "Arena de campeones",
+                    "Arena de los Campeones",
+                    "Arène des champions",
+                    "Arena dei campioni",
+                    "勇者の闘技場",
+                    "용사들의 투기장",
+                    "Arena Bohaterów",
+                    "Arena dos Campeões",
+                    "Арена чемпионов",
+                    "ลานประลองของแชมเปี้ยน",
+                    "勇士竞技场",
+                    "勇士競技場"
+                ],
+                "m_locId": 2815900
+            },
+            "m_description": {
+                "m_locValues": [
+                    "\"Only the bravest among you shall enter the proving grounds, and only the best shall leave.\"",
+                    "Nur die Tapfersten unter Euch werden sich der Feuerprobe stellen, und nur die Besten werden bestehen.",
+                    "«Solo los más valientes entraréis al terreno de pruebas y solo los mejores saldréis de él».",
+                    "\"Solo los más valientes de ustedes podrán pasar al terreno de pruebas, y solo los mejores saldrán\".",
+                    "Seuls les plus braves d’entre vous accéderont à l’Ordalie, et seuls les meilleurs en sortiront vivants.",
+                    "\"Solo i più coraggiosi di voi entreranno nell'arena d'addestramento, e solo i migliori sopravvivranno.\"",
+                    "「試練場に入れるのは最も勇敢な者だけ。\n__そして出られるのは最も優秀な者だけ。」",
+                    "\"가장 용맹한 자들만 수련의 장에 들어올 수 있고, 가장 강한 자만 살아 나가리라.\"",
+                    "„Tylko najwytrwalsi spośród najdzielniejszych opuszczą ją o_własnych siłach”.",
+                    "\"Só os mais corajosos dentre vocês adentrarão os campos de testes, e só os melhores sairão.\"",
+                    "«На арену испытаний выйдут лишь самые храбрые, а покинут ее — лишь самые сильные».",
+                    "\"มีแต่ผู้กล้าหาญ[b]ที่สุดเท่านั้นที่จะ[b]ได้เข้าสู่สนาม[b]ประลอง และมี[b]แต่ผู้แข็งแกร่ง[b]ที่สุดเท่านั้นที่[b]จะรอดกลับไป\"",
+                    "“只有最勇敢的勇士才能来到这里，但只有最棒的勇士才能活着离开。”",
+                    "「唯勇氣冠絕之人，方可來此試煉；唯技藝精湛之人，方能全身而退。」"
+                ],
+                "m_locId": 2813217
+            },
+            "m_detailsTexture": "Tournament_1_Texture_Details.tif:dc507f8891726dc4381ae56e2f421fe3",
+            "m_detailsTexturePhone": "Tournament_1_Texture_Details_Phone.tif:5e48f3414728b884dbb45f9cb3c12a3c",
+            "m_detailsMovie": "Tournament_1_Video.mp4:c4c267111e9957843a25ddfe49f59454",
+            "m_detailsMoviePhone": "Tournament_1_Video_Phone.mp4:00691944f0f706a46b003e5c0b9a6907",
+            "m_detailsRenderConfig": "Tournament_1_Configuration.asset:b40371976001b724092e4ff3f671650e",
+            "m_borderType": 0
+        },
+        {
+            "m_ID": 30,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_fullBoardPrefab": "MagicalGuardians_1_Board.prefab:2fb507ae41875c448a066743e347e25a",
+            "m_fullBoardPrefabPhone": "MagicalGuardian_1_Board_Phone.prefab:248c1f60d2cf6434fa131c544e6b2add",
+            "m_fullTavernBoardPrefab": "Default_1T_Board.prefab:3e3de375694b2504cb99031806d0d068",
+            "m_fullTavernBoardPrefabPhone": "Default_1T_Board_Phone.prefab:9fc3c1e16769c6b4982d89c6b7c43843",
+            "m_collectionName": {
+                "m_locValues": [
+                    "Crystallarium",
+                    "Kristallarium",
+                    "Cristalario",
+                    "Cristalarium",
+                    "Cristallarium",
+                    "Cristallarium",
+                    "クリスタラリウム",
+                    "수정 천문관",
+                    "Krysztarium",
+                    "Cristalário",
+                    "Кристалларий",
+                    "คริสตัลลาเรียม",
+                    "水晶魔宫",
+                    "水晶展示廳"
+                ],
+                "m_locId": 2849890
+            },
+            "m_collectionShortName": {
+                "m_locValues": [
+                    "Crystallarium",
+                    "Kristallarium",
+                    "Cristalario",
+                    "Cristalarium",
+                    "Cristallarium",
+                    "Cristallarium",
+                    "クリスタラリウム",
+                    "수정 천문관",
+                    "Krysztarium",
+                    "Cristalário",
+                    "Кристалларий",
+                    "คริสตัลลาเรียม",
+                    "水晶魔宫",
+                    "水晶展示廳"
+                ],
+                "m_locId": 2849891
+            },
+            "m_description": {
+                "m_locValues": [
+                    "Before becoming the Dark Flight's base of operations, the Crystallarium was a center of magical learning for all the people of Azeroth.\n\nEarnable after purchasing the Battlegrounds Season Pass in Season <i> 2 </i>.",
+                    "Bevor es zur Operationsbasis des Dunklen Schwarms wurde, war das Kristallarium ein zentraler Ort für alle Bewohner Azeroths, um Magie zu erlernen.\n\nKann nach Kauf des Schlachtfeld-Saisonpasses in Saison <i>2</i> freigeschaltet werden.",
+                    "Antes de convertirse en la base de operaciones del Vuelo Oscuro, el Cristalario era un centro de aprendizaje mágico para todo el pueblo de Azeroth.\n\nSe pueden conseguir al comprar el pase de temporada de Campos de batalla en la temporada <i>2</i>.",
+                    "Antes de convertirse en la base de operaciones del Vuelo Oscuro, el Cristalarium era un centro de aprendizaje mágico para todos los pueblos de Azeroth.\n\nSe puede obtener después de comprar el Pase de temporada de Campos de batalla en la temporada<i> 2 </i>.",
+                    "Avant de devenir la base d’opérations du Vol sombre, le Cristallarium d’Azeroth était un institut d’apprentissage de la magie ouvert à tous et à toutes.\n\nS’obtient après avoir acheté le ticket saisonnier des champs de bataille lors de la saison <i>2</i>.",
+                    "Prima di diventare la base operativa dello Stormo Oscuro, il Cristallarium è stato il centro della conoscenza magica di tutta Azeroth.\n\nOttenibile dopo aver acquistato il Pass Battaglia Stagionale durante la Stagione <i>2</i>.",
+                    "「ダーク・フライト」の基地にされる以前のクリスタラリウムは、アゼロス全ての人々に開かれた、魔法学習の中心地であった。\n\nバトルグラウンド・シーズン<i>2</i>の「シーズンパス」購入後に獲得可能となる。",
+                    "암흑군단의 본거지가 되기 전, 수정 천문관은 마법을 배우고자 하는 모든 아제로스인의 중심지였습니다.\n\n<i>2</i>시즌 전장 시즌 패스를 구매한 후 획득 가능",
+                    "Zanim Krysztarium stało się siedzibą Mrocznego Rodu, było miejscem, w którym wszyscy mieszkańcy Azeroth mogli pobierać nauki magiczne.\n\nDo zdobycia w karnecie sezonowym Ustawki w sezonie <i> 2 </i>.",
+                    "Antes de se tornar a base de operações da Revoada Sombria, o Cristalário era o centro de aprendizado de magia para todos os povos de Azeroth.\n\nPossível de obter após comprar o Passe de Temporada dos Campos de Batalha na Temporada <i> 2 </i>.",
+                    "Кристалларий был центром магических наук для всех рас Азерота, но потом в нем обосновалась Темная стая.\n\nМожно открыть после покупки пропуска <i>2-го</i> сезона полей сражений.",
+                    "คริสตัลลาเรียมเคยเป็น[b]ศูนย์การเรียนรู้เวทมนตร์[b]สำหรับชาวอาเซรอธ ก่อนที่จะกลายเป็น[b]ฐานปฏิบัติการของดาร์คไฟลท์\n\nปลดล็อคได้หลังจากซื้อ\nซีซันพาส_Battlegrounds ในซีซัน_<i>2</i>",
+                    "在成为黑暗军团的行动基地之前，水晶魔宫曾是艾泽拉斯的魔法修习中心，所有人都在这里学习。\n\n购买第<i>2</i>赛季的酒馆战棋赛季通行证后开放解锁。",
+                    "水晶展示廳在成為黑暗軍團的行動基地之前，是艾澤拉斯人民學習魔法的中心。\n\n需在賽季<i>2</i>購買英雄戰場賽季通行證才有機會取得。"
+                ],
+                "m_locId": 2849892
+            },
+            "m_detailsTexture": "MagicalGuardian_1_Texture_Details.tif:5ce4d835bac5a2d4ea7a5132ad14e326",
+            "m_detailsTexturePhone": "MagicalGuardian_1_Texture_Details_Phone.tif:59302af520001a7409728d141e745842",
+            "m_detailsMovie": "MagicalGuardian_1_Video.mp4:40b70bef82c02804da967e7f9a6c170d",
+            "m_detailsMoviePhone": "MagicalGuardian_1_Video_Phone.mp4:2af3aa37837082b49b7971fe025304b7",
+            "m_detailsRenderConfig": "MagicalGuardians_1_Configuration.asset:7e6db31ebe6441141ba2a43d1ecd1cfd",
+            "m_borderType": 0
         },
         {
             "m_ID": 35,
@@ -803,6 +731,78 @@
             "m_borderType": 2
         },
         {
+            "m_ID": 36,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_fullBoardPrefab": "NomisKitchen_1_Board.prefab:877663b379e5eeb47b8ed03fb3958f7c",
+            "m_fullBoardPrefabPhone": "NomisKitchen_1C_Board_Phone.prefab:ca50ed07494b322428bb95005b071ea1",
+            "m_fullTavernBoardPrefab": "NomisKitchen_TavernBoard_1.prefab:96e2db7afb3bf3a40accb7e5f299b001",
+            "m_fullTavernBoardPrefabPhone": "NomisKitchen_TavernBoard_1.prefab:96e2db7afb3bf3a40accb7e5f299b001",
+            "m_collectionName": {
+                "m_locValues": [
+                    "Nomi's Eatery",
+                    "Nomis Gasthaus",
+                    "Casa Nomi",
+                    "Restaurante de Nomi",
+                    "Chez Nomi",
+                    "Chiosco di Nomi",
+                    "ノミの食堂",
+                    "노미네 식당",
+                    "Jadłodajnia Nomiego",
+                    "Comedoria de Nomi",
+                    "Кухня Номи",
+                    "ภัตตาคารของโนมิ",
+                    "诺米餐厅",
+                    "糯米廚房"
+                ],
+                "m_locId": 2860301
+            },
+            "m_collectionShortName": {
+                "m_locValues": [
+                    "Nomi's Eatery",
+                    "Nomis Gasthaus",
+                    "Casa Nomi",
+                    "Restaurante de Nomi",
+                    "Chez Nomi",
+                    "Chiosco di Nomi",
+                    "ノミの食堂",
+                    "노미네 식당",
+                    "Jadłodajnia Nomiego",
+                    "Comedoria de Nomi",
+                    "Кухня Номи",
+                    "ภัตตาคารของโนมิ",
+                    "诺米餐厅",
+                    "糯米廚房"
+                ],
+                "m_locId": 2860302
+            },
+            "m_description": {
+                "m_locValues": [
+                    "If you can't stand the heat, get back in the kitchen and try making another dish!\n\nPurchasable when available in the shop.",
+                    "Für ganz ausgekochte Spieler!\n\nKann bei Verfügbarkeit im Shop erworben werden.",
+                    "Si no soportas el calor, ¡vuelve a la cocina y prueba a hacer otro plato!\n\nSe compra en la tienda cuando esté disponible.",
+                    "¡Si no quieres quemarte, no juegues con fuego!\n\nSe puede comprar si está disponible en la tienda.",
+                    "Si vous ne supportez pas la chaleur, retournez donc dans la cuisine pour essayer de préparer un autre plat !\n\nCe plateau s’obtient en l’achetant lorsqu’il est disponible dans la boutique.",
+                    "Se non sopporti il caldo, torna in cucina e prova a fare un altro piatto!\n\nAcquistabile quando disponibile nel negozio.",
+                    "暑さに耐えられないなら、厨房に戻ってもう一品作るんだ！\n\nショップでの販売時に購入可能。",
+                    "도저히 열기를 못 견디겠다면, 주방으로 돌아가 다른 요리를 만드세요!\n\n상점에서 판매 시 구매하여 획득 가능",
+                    "Jak ci za ciepło, to precz do kuchni i ugotuj coś!\n\nDo zakupu po udostępnieniu w sklepie.",
+                    "Se não aguenta o calor, volta pra cozinha e tenta fazer um prato frio!\n\nPossível de adquirir quando disponível na loja.",
+                    "Если не можешь выносить этот жар, возвращайся на кухню и попробуй приготовить другое блюдо!\n\nМожно приобрести в магазине.",
+                    "ถ้าคุณทนความร้อนไม่ไหว ให้กลับเข้าครัวไปทำอาหาร\nอีกจาน!\n\nหาซื้อได้เมื่อวางจำหน่ายในร้านค้า",
+                    "要是你受不了这里的温度，那就回到后厨，另做一道菜吧！\n\n可以在上架期间在商店购买。",
+                    "怕熱就回去廚房再做一道菜！\n\n於商店上架時購買取得。"
+                ],
+                "m_locId": 2863223
+            },
+            "m_detailsTexture": "NomisKitchen_BoardFrame.tif:007782e9689046d468110ce81f8a73cf",
+            "m_detailsTexturePhone": "NomisKitchen_MobileCorners.tif:536f1e6a5f0b3e64786c52cdd04c1a98",
+            "m_detailsMovie": "NightmareKitchen_1_Video.mp4:5c7b028c27219744d96d66fab1bafb7c",
+            "m_detailsMoviePhone": "NightmareKitchen_1_Video_Phone.mp4:e9f5d40c3bca0704f83da93b57800a2b",
+            "m_detailsRenderConfig": "NomisKitchen_Board_Configuration.asset:eeac6a60ad7ff44488b824a7e9bd4ac2",
+            "m_borderType": 1
+        },
+        {
             "m_ID": 37,
             "m_enabled": 1,
             "m_rarityId": 4,
@@ -875,75 +875,75 @@
             "m_borderType": 1
         },
         {
-            "m_ID": 3,
+            "m_ID": 4,
             "m_enabled": 1,
             "m_rarityId": 3,
-            "m_fullBoardPrefab": "Tournament_1_Board.prefab:76034bbd7abd62c488f3ec26f17b69f9",
-            "m_fullBoardPrefabPhone": "Tournament_1_Board_Phone.prefab:dc0a37c2aec46ad4580c72a80307330c",
+            "m_fullBoardPrefab": "ThreeKingdoms_1_Board.prefab:98f7b00ca6b598748a81e83c7e0ab1a3",
+            "m_fullBoardPrefabPhone": "ThreeKingdoms_1_Board_Phone.prefab:4bf3385fe00f06e4cb237c07d72f305a",
             "m_fullTavernBoardPrefab": "Default_1T_Board.prefab:3e3de375694b2504cb99031806d0d068",
             "m_fullTavernBoardPrefabPhone": "Default_1T_Board_Phone.prefab:9fc3c1e16769c6b4982d89c6b7c43843",
             "m_collectionName": {
                 "m_locValues": [
-                    "Arena of Champions",
-                    "Arena der Champions",
-                    "Arena de campeones",
-                    "Arena de los Campeones",
-                    "Arène des champions",
-                    "Arena dei campioni",
-                    "勇者の闘技場",
-                    "용사들의 투기장",
-                    "Arena Bohaterów",
-                    "Arena dos Campeões",
-                    "Арена чемпионов",
-                    "ลานประลองของแชมเปี้ยน",
-                    "勇士竞技场",
-                    "勇士競技場"
+                    "Jade Gardens",
+                    "Jadegärten",
+                    "Jardines de jade",
+                    "Jardines de jade",
+                    "Jardins de jade",
+                    "Giardini di Giada",
+                    "翡翠の園",
+                    "비취 정원",
+                    "Nefrytowe Ogrody",
+                    "Jardins de Jade",
+                    "Нефритовые сады",
+                    "สวนหยก",
+                    "青玉园林",
+                    "翠玉花園"
                 ],
-                "m_locId": 2813216
+                "m_locId": 2813218
             },
             "m_collectionShortName": {
                 "m_locValues": [
-                    "Arena of Champions",
-                    "Arena der Champions",
-                    "Arena de campeones",
-                    "Arena de los Campeones",
-                    "Arène des champions",
-                    "Arena dei campioni",
-                    "勇者の闘技場",
-                    "용사들의 투기장",
-                    "Arena Bohaterów",
-                    "Arena dos Campeões",
-                    "Арена чемпионов",
-                    "ลานประลองของแชมเปี้ยน",
-                    "勇士竞技场",
-                    "勇士競技場"
+                    "Jade Gardens",
+                    "Jadegärten",
+                    "Jardines de jade",
+                    "Jardines de jade",
+                    "Jardins de jade",
+                    "Giardini di Giada",
+                    "翡翠の園",
+                    "비취 정원",
+                    "Nefrytowe Ogrody",
+                    "Jardins de Jade",
+                    "Нефритовые сады",
+                    "สวนหยก",
+                    "青玉园林",
+                    "翠玉花園"
                 ],
-                "m_locId": 2815900
+                "m_locId": 2815901
             },
             "m_description": {
                 "m_locValues": [
-                    "\"Only the bravest among you shall enter the proving grounds, and only the best shall leave.\"",
-                    "Nur die Tapfersten unter Euch werden sich der Feuerprobe stellen, und nur die Besten werden bestehen.",
-                    "«Solo los más valientes entraréis al terreno de pruebas y solo los mejores saldréis de él».",
-                    "\"Solo los más valientes de ustedes podrán pasar al terreno de pruebas, y solo los mejores saldrán\".",
-                    "Seuls les plus braves d’entre vous accéderont à l’Ordalie, et seuls les meilleurs en sortiront vivants.",
-                    "\"Solo i più coraggiosi di voi entreranno nell'arena d'addestramento, e solo i migliori sopravvivranno.\"",
-                    "「試練場に入れるのは最も勇敢な者だけ。\n__そして出られるのは最も優秀な者だけ。」",
-                    "\"가장 용맹한 자들만 수련의 장에 들어올 수 있고, 가장 강한 자만 살아 나가리라.\"",
-                    "„Tylko najwytrwalsi spośród najdzielniejszych opuszczą ją o_własnych siłach”.",
-                    "\"Só os mais corajosos dentre vocês adentrarão os campos de testes, e só os melhores sairão.\"",
-                    "«На арену испытаний выйдут лишь самые храбрые, а покинут ее — лишь самые сильные».",
-                    "\"มีแต่ผู้กล้าหาญ[b]ที่สุดเท่านั้นที่จะ[b]ได้เข้าสู่สนาม[b]ประลอง และมี[b]แต่ผู้แข็งแกร่ง[b]ที่สุดเท่านั้นที่[b]จะรอดกลับไป\"",
-                    "“只有最勇敢的勇士才能来到这里，但只有最棒的勇士才能活着离开。”",
-                    "「唯勇氣冠絕之人，方可來此試煉；唯技藝精湛之人，方能全身而退。」"
+                    "The most noble of jade golems watch over this warrior's terrace.",
+                    "Die edelsten Jadegolems wachen über diese Terrasse der Krieger.",
+                    "Los gólems de jade más nobles vigilan la terraza de este guerrero.",
+                    "Los gólems de jade más nobles protegen este bancal de guerreros.",
+                    "Le plus noble des golems de jade protège la terrasse de ce guerrier.",
+                    "Il più nobile dei Golem di Giada protegge questa terrazza dei guerrieri.",
+                    "最も高貴なる翡翠のゴーレム達がこの戦士のテラスを見守っている。",
+                    "가장 고귀한 비취 골렘들이 전사들의 정원을 지켜봅니다.",
+                    "Tego skweru wojowników strzegą najszlachetniejsze spośród nefrytowych golemów.",
+                    "O mais nobre dos golens de jade vigia o terraço deste guerreiro.",
+                    "Эту террасу воинов охраняют самые благородные нефритовые големы.",
+                    "เหล่าเจดโกเล็ม[b]ผู้ทรงคุณธรรม[b]คอยคุ้มครองสวน[b]ของนักรบแห่งนี้",
+                    "这片猛将的园地由最高贵的青玉魔像亲自把守。",
+                    "這座戰士的露台由最尊貴的翠玉魔像把守著。"
                 ],
-                "m_locId": 2813217
+                "m_locId": 2813219
             },
-            "m_detailsTexture": "Tournament_1_Texture_Details.tif:dc507f8891726dc4381ae56e2f421fe3",
-            "m_detailsTexturePhone": "Tournament_1_Texture_Details_Phone.tif:5e48f3414728b884dbb45f9cb3c12a3c",
-            "m_detailsMovie": "Tournament_1_Video.mp4:c4c267111e9957843a25ddfe49f59454",
-            "m_detailsMoviePhone": "Tournament_1_Video_Phone.mp4:00691944f0f706a46b003e5c0b9a6907",
-            "m_detailsRenderConfig": "Tournament_1_Configuration.asset:b40371976001b724092e4ff3f671650e",
+            "m_detailsTexture": "ThreeKingdoms_1_Texture_Details.tif:c86c876721991444088f3d1a1baaed3c",
+            "m_detailsTexturePhone": "ThreeKingdoms_1_Texture_Details_Phone.tif:17a093f7a4894a545a9271d50e35a743",
+            "m_detailsMovie": "ThreeKingdoms_1_Video.mp4:7f2fbc35b6135f647a998101467b144f",
+            "m_detailsMoviePhone": "ThreeKingdoms_1_Video_Phone.mp4:09ef6ca685a2d6746804d557b66439d6",
+            "m_detailsRenderConfig": "ThreeKingdoms_1_Configuration.asset:b8068f984f1827d4a9263834d1e8c894",
             "m_borderType": 0
         },
         {
@@ -1091,6 +1091,78 @@
             "m_borderType": 1
         },
         {
+            "m_ID": 43,
+            "m_enabled": 1,
+            "m_rarityId": 3,
+            "m_fullBoardPrefab": "ETCWorldTour_Board.prefab:68ed4e238d4546e4888e18caed3e2c99",
+            "m_fullBoardPrefabPhone": "ETCWorldTour_Board_Phone.prefab:86c6ab2e51091694c9b3d269ea5ffe11",
+            "m_fullTavernBoardPrefab": "Default_1T_Board.prefab:3e3de375694b2504cb99031806d0d068",
+            "m_fullTavernBoardPrefabPhone": "Default_1T_Board_Phone.prefab:9fc3c1e16769c6b4982d89c6b7c43843",
+            "m_collectionName": {
+                "m_locValues": [
+                    "E.T.C's Main Stage",
+                    "E.T.C.s Hauptbühne",
+                    "Escenario principal de ETC",
+                    "Escenario principal de E.T.C.",
+                    "Grande scène d’E.T.C.",
+                    "Palco Principale di E.T.C",
+                    "E.T.C.のメインステージ",
+                    "정.타.족의 주 무대",
+                    "Scena Główna E.T.C.",
+                    "Palco Principal do C.T.E.",
+                    "Главная сцена E.T.C.",
+                    "เวทีหลักของ E.T.C.",
+                    "酋长大舞台",
+                    "精英牛頭大佬的主舞台"
+                ],
+                "m_locId": 2872854
+            },
+            "m_collectionShortName": {
+                "m_locValues": [
+                    "E.T.C's Main Stage",
+                    "E.T.C.s Hauptbühne",
+                    "Escenario principal de ETC",
+                    "Escenario principal de E.T.C.",
+                    "Grande scène d’E.T.C.",
+                    "Palco Principale di E.T.C",
+                    "E.T.C.のメインステージ",
+                    "정.타.족의 주 무대",
+                    "Scena Główna E.T.C.",
+                    "Palco Principal do C.T.E.",
+                    "Главная сцена E.T.C.",
+                    "เวทีหลักของ E.T.C.",
+                    "酋长大舞台",
+                    "精英牛頭大佬的主舞台"
+                ],
+                "m_locId": 2872855
+            },
+            "m_description": {
+                "m_locValues": [
+                    "WHAT? I CAN'T HEAR YOU! I THINK THEY TURNED IT UP TO 11!",
+                    "WAS? ICH KANN EUCH NICHT HÖREN! ICH GLAUBE, SIE HABEN VOLL AUFGEDREHT!",
+                    "¿CÓMO DICES? ¡NO TE OIGO! ¡CREO QUE HAN PUESTO EL VOLUMEN A TOPE!",
+                    "Aquí es donde sucede el verdadero show.",
+                    "QUOI ? JE N’ENTENDS RIEN ! JE CROIS QU’ILS ONT POUSSÉ LE VOLUME À FOND !",
+                    "COSA?!? NON TI SENTO! CREDO CHE IL VOLUME SIA TROPPO ALTO!",
+                    "何だって？今なんて言った？！すげぇ爆音で聞こえないぞ！！",
+                    "뭐라고? 하나도 안 들려! 음향 기기가 최대로 틀어져 있나 봐!",
+                    "CO? NIE SŁYSZĘ! GŁOŚNIEJ GRAĆ SIĘ CHYBA NIE DA!",
+                    "O QUÊ? NÃO CONSIGO OUVIR! ACHO QUE COLOCARAM O VOLUME NO MÁXIMO!",
+                    "ЧТО?! НЕ СЛЫШУ-У-У! КАЖЕТСЯ ГРОМКОСТЬ ВРУБИЛИ НА ПОЛНУЮ!",
+                    "ว่าไงนะ ไม่ได้ยินเลย! ลำโพงมันดังจนทะลุขีดแล้ว!",
+                    "你说什么？我听不见！他们把音量开到了11档！",
+                    "什麼？我聽不見！他們好像把音量轉到11了！"
+                ],
+                "m_locId": 2872856
+            },
+            "m_detailsTexture": "ETCWorldTour_Board_Screenshot.png:c136c8385ffd97847a43430451b75e84",
+            "m_detailsTexturePhone": "ETCWorldTour_Board_Screenshot.png:c136c8385ffd97847a43430451b75e84",
+            "m_detailsMovie": "ETCWorldTour_PC_1.mp4:e20819bd0bc72c148878d614acee438d",
+            "m_detailsMoviePhone": "ETCWorldTour_MOBILE_1.mp4:4e51291b14f67ab4e81c4d16a0e8c701",
+            "m_detailsRenderConfig": "ETCWorldTour_Board_Configuration.asset:d6e2c97ce6184514d874b62e360cc936",
+            "m_borderType": 0
+        },
+        {
             "m_ID": 45,
             "m_enabled": 1,
             "m_rarityId": 3,
@@ -1161,6 +1233,78 @@
             "m_detailsMoviePhone": "Scholomance_ForbiddenLibrary_Phone.mp4:85fb0064f3ac05947b81b47447e30f81",
             "m_detailsRenderConfig": "Scholomance_Board_Configuration.asset:1f54f4ca4b92faf40b388464cc68a9ca",
             "m_borderType": 0
+        },
+        {
+            "m_ID": 46,
+            "m_enabled": 1,
+            "m_rarityId": 4,
+            "m_fullBoardPrefab": "FireFestival_1C_Board.prefab:5aa0c1bea6d7695408faa29e862119d6",
+            "m_fullBoardPrefabPhone": "FireFestival_1C_Board_Phone.prefab:6677fed132616be4c876e76c9c272aed",
+            "m_fullTavernBoardPrefab": "FireFestival_1T_Board.prefab:98dbfc537ec899f4086f26942f4978a7",
+            "m_fullTavernBoardPrefabPhone": "FireFestival_1T_Board_Phone.prefab:e1d0f7632d1d01e479425f0def7e400a",
+            "m_collectionName": {
+                "m_locValues": [
+                    "Festival Grounds",
+                    "Festivalgelände",
+                    "Recinto del festival",
+                    "Recintos del Festival",
+                    "Scène du festival",
+                    "Terre del festival",
+                    "フェス・グラウンド",
+                    "축제의 장",
+                    "Rejon Festiwalu",
+                    "Área do Festival",
+                    "Фестивальная площадка",
+                    "ลานเทศกาล",
+                    "节庆现场",
+                    "節慶會場"
+                ],
+                "m_locId": 2873006
+            },
+            "m_collectionShortName": {
+                "m_locValues": [
+                    "Festival Grounds",
+                    "Festivalgelände",
+                    "Recinto del festival",
+                    "Recintos del Festival",
+                    "Scène du festival",
+                    "Terre del festival",
+                    "フェス・グラウンド",
+                    "축제의 장",
+                    "Rejon Festiwalu",
+                    "Área do Festival",
+                    "Фестивальная площадка",
+                    "ลานเทศกาล",
+                    "节庆现场",
+                    "節慶會場"
+                ],
+                "m_locId": 2873007
+            },
+            "m_description": {
+                "m_locValues": [
+                    "Light a firework or two and enjoy the celebration!\n\nPurchasable when available in the shop.",
+                    "Feuert ein paar Feuerwerkskörper ab und genießt die Show!\n\\Kann bei Verfügbarkeit im Shop erworben werden.",
+                    "¡Enciende unos petardos y disfruta de la celebración!\n\nSe compra en la tienda cuando esté disponible.",
+                    "¡Enciende uno o varios fuegos artificiales y disfruta de la celebración!\n\nSe puede comprar si está disponible en la tienda.",
+                    "Faites claquer des pétards, tirez des feux d’artifice et profitez de la fête !\n\nCe plateau s’obtient en l’achetant lorsqu’il est disponible dans la boutique.",
+                    "Accendi qualche fuoco d'artificio e goditi i festeggiamenti!\n\nAcquistabile quando disponibile nel negozio.",
+                    "花火を景気よく打ち上げてお祝いを楽しもう！\n\nショップでの販売時に購入可能。",
+                    "폭죽에 불을 붙이고 축제를 즐기세요!\n\n상점에서 판매 시 구매하여 획득",
+                    "Odpal fajerwerki i baw się w najlepsze!\n\nDo zakupu po udostępnieniu w sklepie.",
+                    "Acenda alguns fogos de artifício e curta a comemoração!\n\nPossível de adquirir quando disponível na loja.",
+                    "Запустите пару фейерверков и наслаждайтесь праздником!\n\nМожно приобрести в магазине.",
+                    "จุดดอกไม้ไฟสักหน่อยแล้ว[b]ปล่อยใจให้เพลินกับเทศกาล!\n\nหาซื้อได้เมื่อวางจำหน่ายในร้านค้า",
+                    "点燃焰火，享受节日的欢乐！\n\n可以在上架期间在商店购买。",
+                    "發射一些煙火，盡情慶祝吧！\n\n於商店上架時購買取得。"
+                ],
+                "m_locId": 2873008
+            },
+            "m_detailsTexture": "FireFest_PCboard.png:2e81973e5352c9d49aaed0deb1992fed",
+            "m_detailsTexturePhone": "FireFest_PhoneBoard.png:00d9aa59f0e70d94c953b5be7640d75d",
+            "m_detailsMovie": "FireFestival_FestivalGrounds_PC.mp4:5941b51433b49b441a295030f7fff680",
+            "m_detailsMoviePhone": "FireFestival_FestivalGrounds_Mobile.mp4:c3de4e4e3587ec745b0e699246de8a91",
+            "m_detailsRenderConfig": "FireFestival_Board_Configuration.asset:f8baeb1c472afd747961c609f37030b6",
+            "m_borderType": 1
         },
         {
             "m_ID": 49,
@@ -1235,150 +1379,6 @@
             "m_borderType": 1
         },
         {
-            "m_ID": 53,
-            "m_enabled": 1,
-            "m_rarityId": 3,
-            "m_fullBoardPrefab": "LunarFireFestival_1C.prefab:ebbbcf8fd1a947d48ad3eb7907617112",
-            "m_fullBoardPrefabPhone": "LunarFireFestival_1C_Phone.prefab:1582e8cdf88445643a23c18a6b769acb",
-            "m_fullTavernBoardPrefab": "Default_1T_Board.prefab:3e3de375694b2504cb99031806d0d068",
-            "m_fullTavernBoardPrefabPhone": "Default_1T_Board_Phone.prefab:9fc3c1e16769c6b4982d89c6b7c43843",
-            "m_collectionName": {
-                "m_locValues": [
-                    "Dragon Grounds",
-                    "Drachenfeld",
-                    "Campo de los Dragones",
-                    "Terreno de Dragones",
-                    "Terres draconiques",
-                    "Terreni del Drago",
-                    "ドラゴングラウンド",
-                    "용의 대지",
-                    "Smocze Terytorium",
-                    "Território Dracônico",
-                    "Драконьи земли",
-                    "ลานมังกร",
-                    "舞龙之园",
-                    "巨龍之地"
-                ],
-                "m_locId": 2886346
-            },
-            "m_collectionShortName": {
-                "m_locValues": [
-                    "Dragon Grounds",
-                    "Drachenfeld",
-                    "Campo de los Dragones",
-                    "Terreno de Dragones",
-                    "Terres draconiques",
-                    "Terreni del Drago",
-                    "ドラゴングラウンド",
-                    "용의 대지",
-                    "Smocze Terytorium",
-                    "Território Dracônico",
-                    "Драконьи земли",
-                    "ลานมังกร",
-                    "舞龙之园",
-                    "巨龍之地"
-                ],
-                "m_locId": 2886347
-            },
-            "m_description": {
-                "m_locValues": [
-                    "Get ready for a roarin’ celebration!\n\nPurchasable when available in the shop.",
-                    "Dieses Fest wird der Brüller!\n\nKann im Shop erworben werden.",
-                    "¡Prepárate para una celebración a base de rugidos!\n\nSe compra en la tienda cuando esté disponible.",
-                    "¡Prepárate para una estruendosa celebración!\n\nSe compra cuando esté disponible en la tienda.",
-                    "Une fête inoubliable vous attend !\n\nCe plateau s’obtient en l’achetant lorsqu’il est disponible dans la boutique.",
-                    "Preparati a dei festeggiamenti infiammati!\n\nAcquistabile quando disponibile nel negozio.",
-                    "高らかにお祝いの咆哮をあげろ！\n\nショップでの販売時に購入可能。",
-                    "시끌벅적한 축제를 준비하세요!\n\n상점에서 판매 시 구매하여 획득",
-                    "Jak świętować, to ze smokami!\n\nDo zakupu po udostępnieniu w sklepie.",
-                    "Essa celebração promete botar pra esquentar!\n\nPossível de adquirir quando disponível na loja.",
-                    "Новый год с рыком врывается в вашу жизнь — встречайте его!\n\nМожно приобрести в магазине.",
-                    "เตรียมตัวฉลองกันให้กึกก้อง!\n\nซื้อได้เมื่อวางจำหน่ายในร้านค้า",
-                    "舞龙长啸，喜迎新春！\n\n可以在上架期间在商店购买。",
-                    "準備好在狂吼之中大肆慶祝吧！\n\n於商店上架時可購買取得。"
-                ],
-                "m_locId": 2886348
-            },
-            "m_detailsTexture": "",
-            "m_detailsTexturePhone": "",
-            "m_detailsMovie": "",
-            "m_detailsMoviePhone": "",
-            "m_detailsRenderConfig": "LunarFireFestival_Configuration.asset:6d4fa5c4ac5a8cd4c8358c82f0c13762",
-            "m_borderType": 0
-        },
-        {
-            "m_ID": 43,
-            "m_enabled": 1,
-            "m_rarityId": 3,
-            "m_fullBoardPrefab": "ETCWorldTour_Board.prefab:68ed4e238d4546e4888e18caed3e2c99",
-            "m_fullBoardPrefabPhone": "ETCWorldTour_Board_Phone.prefab:86c6ab2e51091694c9b3d269ea5ffe11",
-            "m_fullTavernBoardPrefab": "Default_1T_Board.prefab:3e3de375694b2504cb99031806d0d068",
-            "m_fullTavernBoardPrefabPhone": "Default_1T_Board_Phone.prefab:9fc3c1e16769c6b4982d89c6b7c43843",
-            "m_collectionName": {
-                "m_locValues": [
-                    "E.T.C's Main Stage",
-                    "E.T.C.s Hauptbühne",
-                    "Escenario principal de ETC",
-                    "Escenario principal de E.T.C.",
-                    "Grande scène d’E.T.C.",
-                    "Palco Principale di E.T.C",
-                    "E.T.C.のメインステージ",
-                    "정.타.족의 주 무대",
-                    "Scena Główna E.T.C.",
-                    "Palco Principal do C.T.E.",
-                    "Главная сцена E.T.C.",
-                    "เวทีหลักของ E.T.C.",
-                    "酋长大舞台",
-                    "精英牛頭大佬的主舞台"
-                ],
-                "m_locId": 2872854
-            },
-            "m_collectionShortName": {
-                "m_locValues": [
-                    "E.T.C's Main Stage",
-                    "E.T.C.s Hauptbühne",
-                    "Escenario principal de ETC",
-                    "Escenario principal de E.T.C.",
-                    "Grande scène d’E.T.C.",
-                    "Palco Principale di E.T.C",
-                    "E.T.C.のメインステージ",
-                    "정.타.족의 주 무대",
-                    "Scena Główna E.T.C.",
-                    "Palco Principal do C.T.E.",
-                    "Главная сцена E.T.C.",
-                    "เวทีหลักของ E.T.C.",
-                    "酋长大舞台",
-                    "精英牛頭大佬的主舞台"
-                ],
-                "m_locId": 2872855
-            },
-            "m_description": {
-                "m_locValues": [
-                    "WHAT? I CAN'T HEAR YOU! I THINK THEY TURNED IT UP TO 11!",
-                    "WAS? ICH KANN EUCH NICHT HÖREN! ICH GLAUBE, SIE HABEN VOLL AUFGEDREHT!",
-                    "¿CÓMO DICES? ¡NO TE OIGO! ¡CREO QUE HAN PUESTO EL VOLUMEN A TOPE!",
-                    "Aquí es donde sucede el verdadero show.",
-                    "QUOI ? JE N’ENTENDS RIEN ! JE CROIS QU’ILS ONT POUSSÉ LE VOLUME À FOND !",
-                    "COSA?!? NON TI SENTO! CREDO CHE IL VOLUME SIA TROPPO ALTO!",
-                    "何だって？今なんて言った？！すげぇ爆音で聞こえないぞ！！",
-                    "뭐라고? 하나도 안 들려! 음향 기기가 최대로 틀어져 있나 봐!",
-                    "CO? NIE SŁYSZĘ! GŁOŚNIEJ GRAĆ SIĘ CHYBA NIE DA!",
-                    "O QUÊ? NÃO CONSIGO OUVIR! ACHO QUE COLOCARAM O VOLUME NO MÁXIMO!",
-                    "ЧТО?! НЕ СЛЫШУ-У-У! КАЖЕТСЯ ГРОМКОСТЬ ВРУБИЛИ НА ПОЛНУЮ!",
-                    "ว่าไงนะ ไม่ได้ยินเลย! ลำโพงมันดังจนทะลุขีดแล้ว!",
-                    "你说什么？我听不见！他们把音量开到了11档！",
-                    "什麼？我聽不見！他們好像把音量轉到11了！"
-                ],
-                "m_locId": 2872856
-            },
-            "m_detailsTexture": "ETCWorldTour_Board_Screenshot.png:c136c8385ffd97847a43430451b75e84",
-            "m_detailsTexturePhone": "ETCWorldTour_Board_Screenshot.png:c136c8385ffd97847a43430451b75e84",
-            "m_detailsMovie": "ETCWorldTour_PC_1.mp4:e20819bd0bc72c148878d614acee438d",
-            "m_detailsMoviePhone": "ETCWorldTour_MOBILE_1.mp4:4e51291b14f67ab4e81c4d16a0e8c701",
-            "m_detailsRenderConfig": "ETCWorldTour_Board_Configuration.asset:d6e2c97ce6184514d874b62e360cc936",
-            "m_borderType": 0
-        },
-        {
             "m_ID": 50,
             "m_enabled": 1,
             "m_rarityId": 3,
@@ -1451,76 +1451,76 @@
             "m_borderType": 0
         },
         {
-            "m_ID": 46,
+            "m_ID": 53,
             "m_enabled": 1,
-            "m_rarityId": 4,
-            "m_fullBoardPrefab": "FireFestival_1C_Board.prefab:5aa0c1bea6d7695408faa29e862119d6",
-            "m_fullBoardPrefabPhone": "FireFestival_1C_Board_Phone.prefab:6677fed132616be4c876e76c9c272aed",
-            "m_fullTavernBoardPrefab": "FireFestival_1T_Board.prefab:98dbfc537ec899f4086f26942f4978a7",
-            "m_fullTavernBoardPrefabPhone": "FireFestival_1T_Board_Phone.prefab:e1d0f7632d1d01e479425f0def7e400a",
+            "m_rarityId": 3,
+            "m_fullBoardPrefab": "LunarFireFestival_1C.prefab:ebbbcf8fd1a947d48ad3eb7907617112",
+            "m_fullBoardPrefabPhone": "LunarFireFestival_1C_Phone.prefab:1582e8cdf88445643a23c18a6b769acb",
+            "m_fullTavernBoardPrefab": "Default_1T_Board.prefab:3e3de375694b2504cb99031806d0d068",
+            "m_fullTavernBoardPrefabPhone": "Default_1T_Board_Phone.prefab:9fc3c1e16769c6b4982d89c6b7c43843",
             "m_collectionName": {
                 "m_locValues": [
-                    "Festival Grounds",
-                    "Festivalgelände",
-                    "Recinto del festival",
-                    "Recintos del Festival",
-                    "Scène du festival",
-                    "Terre del festival",
-                    "フェス・グラウンド",
-                    "축제의 장",
-                    "Rejon Festiwalu",
-                    "Área do Festival",
-                    "Фестивальная площадка",
-                    "ลานเทศกาล",
-                    "节庆现场",
-                    "節慶會場"
+                    "Dragon Grounds",
+                    "Drachenfeld",
+                    "Campo de los Dragones",
+                    "Terreno de Dragones",
+                    "Terres draconiques",
+                    "Terreni del Drago",
+                    "ドラゴングラウンド",
+                    "용의 대지",
+                    "Smocze Terytorium",
+                    "Território Dracônico",
+                    "Драконьи земли",
+                    "ลานมังกร",
+                    "舞龙之园",
+                    "巨龍之地"
                 ],
-                "m_locId": 2873006
+                "m_locId": 2886346
             },
             "m_collectionShortName": {
                 "m_locValues": [
-                    "Festival Grounds",
-                    "Festivalgelände",
-                    "Recinto del festival",
-                    "Recintos del Festival",
-                    "Scène du festival",
-                    "Terre del festival",
-                    "フェス・グラウンド",
-                    "축제의 장",
-                    "Rejon Festiwalu",
-                    "Área do Festival",
-                    "Фестивальная площадка",
-                    "ลานเทศกาล",
-                    "节庆现场",
-                    "節慶會場"
+                    "Dragon Grounds",
+                    "Drachenfeld",
+                    "Campo de los Dragones",
+                    "Terreno de Dragones",
+                    "Terres draconiques",
+                    "Terreni del Drago",
+                    "ドラゴングラウンド",
+                    "용의 대지",
+                    "Smocze Terytorium",
+                    "Território Dracônico",
+                    "Драконьи земли",
+                    "ลานมังกร",
+                    "舞龙之园",
+                    "巨龍之地"
                 ],
-                "m_locId": 2873007
+                "m_locId": 2886347
             },
             "m_description": {
                 "m_locValues": [
-                    "Light a firework or two and enjoy the celebration!\n\nPurchasable when available in the shop.",
-                    "Feuert ein paar Feuerwerkskörper ab und genießt die Show!\n\\Kann bei Verfügbarkeit im Shop erworben werden.",
-                    "¡Enciende unos petardos y disfruta de la celebración!\n\nSe compra en la tienda cuando esté disponible.",
-                    "¡Enciende uno o varios fuegos artificiales y disfruta de la celebración!\n\nSe puede comprar si está disponible en la tienda.",
-                    "Faites claquer des pétards, tirez des feux d’artifice et profitez de la fête !\n\nCe plateau s’obtient en l’achetant lorsqu’il est disponible dans la boutique.",
-                    "Accendi qualche fuoco d'artificio e goditi i festeggiamenti!\n\nAcquistabile quando disponibile nel negozio.",
-                    "花火を景気よく打ち上げてお祝いを楽しもう！\n\nショップでの販売時に購入可能。",
-                    "폭죽에 불을 붙이고 축제를 즐기세요!\n\n상점에서 판매 시 구매하여 획득",
-                    "Odpal fajerwerki i baw się w najlepsze!\n\nDo zakupu po udostępnieniu w sklepie.",
-                    "Acenda alguns fogos de artifício e curta a comemoração!\n\nPossível de adquirir quando disponível na loja.",
-                    "Запустите пару фейерверков и наслаждайтесь праздником!\n\nМожно приобрести в магазине.",
-                    "จุดดอกไม้ไฟสักหน่อยแล้ว[b]ปล่อยใจให้เพลินกับเทศกาล!\n\nหาซื้อได้เมื่อวางจำหน่ายในร้านค้า",
-                    "点燃焰火，享受节日的欢乐！\n\n可以在上架期间在商店购买。",
-                    "發射一些煙火，盡情慶祝吧！\n\n於商店上架時購買取得。"
+                    "Get ready for a roarin’ celebration!\n\nPurchasable when available in the shop.",
+                    "Dieses Fest wird der Brüller!\n\nKann im Shop erworben werden.",
+                    "¡Prepárate para una celebración a base de rugidos!\n\nSe compra en la tienda cuando esté disponible.",
+                    "¡Prepárate para una estruendosa celebración!\n\nSe compra cuando esté disponible en la tienda.",
+                    "Une fête inoubliable vous attend !\n\nCe plateau s’obtient en l’achetant lorsqu’il est disponible dans la boutique.",
+                    "Preparati a dei festeggiamenti infiammati!\n\nAcquistabile quando disponibile nel negozio.",
+                    "高らかにお祝いの咆哮をあげろ！\n\nショップでの販売時に購入可能。",
+                    "시끌벅적한 축제를 준비하세요!\n\n상점에서 판매 시 구매하여 획득",
+                    "Jak świętować, to ze smokami!\n\nDo zakupu po udostępnieniu w sklepie.",
+                    "Essa celebração promete botar pra esquentar!\n\nPossível de adquirir quando disponível na loja.",
+                    "Новый год с рыком врывается в вашу жизнь — встречайте его!\n\nМожно приобрести в магазине.",
+                    "เตรียมตัวฉลองกันให้กึกก้อง!\n\nซื้อได้เมื่อวางจำหน่ายในร้านค้า",
+                    "舞龙长啸，喜迎新春！\n\n可以在上架期间在商店购买。",
+                    "準備好在狂吼之中大肆慶祝吧！\n\n於商店上架時可購買取得。"
                 ],
-                "m_locId": 2873008
+                "m_locId": 2886348
             },
-            "m_detailsTexture": "FireFest_PCboard.png:2e81973e5352c9d49aaed0deb1992fed",
-            "m_detailsTexturePhone": "FireFest_PhoneBoard.png:00d9aa59f0e70d94c953b5be7640d75d",
-            "m_detailsMovie": "FireFestival_FestivalGrounds_PC.mp4:5941b51433b49b441a295030f7fff680",
-            "m_detailsMoviePhone": "FireFestival_FestivalGrounds_Mobile.mp4:c3de4e4e3587ec745b0e699246de8a91",
-            "m_detailsRenderConfig": "FireFestival_Board_Configuration.asset:f8baeb1c472afd747961c609f37030b6",
-            "m_borderType": 1
+            "m_detailsTexture": "",
+            "m_detailsTexturePhone": "",
+            "m_detailsMovie": "",
+            "m_detailsMoviePhone": "",
+            "m_detailsRenderConfig": "LunarFireFestival_Configuration.asset:6d4fa5c4ac5a8cd4c8358c82f0c13762",
+            "m_borderType": 0
         },
         {
             "m_ID": 54,

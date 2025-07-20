@@ -161,62 +161,10 @@
             "m_gameModeButtonState": "PVPDR",
             "m_linkedScene": "PVP_DUNGEON_RUN",
             "m_showAsNewEvent": 164,
-            "m_showAsEarlyAccessEvent": 10000502,
-            "m_showAsBetaEvent": 10000503,
+            "m_showAsEarlyAccessEvent": 10000504,
+            "m_showAsBetaEvent": 10000505,
             "m_featureUnlockId": 10,
             "m_featureUnlockId2": 11
-        },
-        {
-            "m_ID": 6,
-            "m_noteDesc": "Solo Adventures",
-            "m_modeKey": 4,
-            "m_event": 203,
-            "m_name": {
-                "m_locValues": [
-                    "Solo Adventures",
-                    "Soloabenteuer",
-                    "Aventuras",
-                    "Aventuras solitarias",
-                    "Aventures",
-                    "Avventura",
-                    "ソロ・アドベンチャー",
-                    "1인 모험",
-                    "Przygoda",
-                    "Modo Aventura",
-                    "Приключения",
-                    "การผจญภัยคนเดียว",
-                    "冒险模式",
-                    "單人模式"
-                ],
-                "m_locId": 2763440
-            },
-            "m_description": {
-                "m_locValues": [
-                    "Embark on adventures or practice against the AI!",
-                    "Wagt Euch auf Abenteuer oder übt im Kampf gegen KI-Gegner!",
-                    "¡Vive aventuras épicas o practica contra la IA!",
-                    "¡Embárcate en aventuras o practica contra la IA!",
-                    "Lancez-vous dans d’épiques aventures ou entraînez-vous contre l’ordinateur !",
-                    "Affronta avventure o fai pratica contro avversari controllati dall'IA!",
-                    "冒険に出発したり、AIを相手に練習できるぞ！",
-                    "멋진 모험을 떠나거나 인공지능을 상대로 실력을 연마하세요!",
-                    "Rzuć się w wir przygód lub_poćwicz walkę z SI!",
-                    "Comece sua aventura ou pratique contra a IA!",
-                    "Отправьтесь на поиски новых приключений и отточите навыки игры против ИИ.",
-                    "ออกผจญภัยหรือฝึกฝน[b]ฝีมือกับ AI!",
-                    "开启史诗般的冒险之旅，或与电脑对手磨练牌技！",
-                    "踏上冒險旅程或與電腦對手練習！"
-                ],
-                "m_locId": 2763441
-            },
-            "m_sortOrder": 2,
-            "m_gameModeButtonState": "ADVENTURE",
-            "m_linkedScene": "ADVENTURE",
-            "m_showAsNewEvent": 164,
-            "m_showAsEarlyAccessEvent": -1,
-            "m_showAsBetaEvent": -1,
-            "m_featureUnlockId": 0,
-            "m_featureUnlockId2": 0
         },
         {
             "m_ID": 8,
@@ -264,6 +212,58 @@
             "m_sortOrder": 1,
             "m_gameModeButtonState": "TAVERNBRAWL",
             "m_linkedScene": "TAVERN_BRAWL",
+            "m_showAsNewEvent": 164,
+            "m_showAsEarlyAccessEvent": -1,
+            "m_showAsBetaEvent": -1,
+            "m_featureUnlockId": 0,
+            "m_featureUnlockId2": 0
+        },
+        {
+            "m_ID": 6,
+            "m_noteDesc": "Solo Adventures",
+            "m_modeKey": 4,
+            "m_event": 203,
+            "m_name": {
+                "m_locValues": [
+                    "Solo Adventures",
+                    "Soloabenteuer",
+                    "Aventuras",
+                    "Aventuras solitarias",
+                    "Aventures",
+                    "Avventura",
+                    "ソロ・アドベンチャー",
+                    "1인 모험",
+                    "Przygoda",
+                    "Modo Aventura",
+                    "Приключения",
+                    "การผจญภัยคนเดียว",
+                    "冒险模式",
+                    "單人模式"
+                ],
+                "m_locId": 2763440
+            },
+            "m_description": {
+                "m_locValues": [
+                    "Embark on adventures or practice against the AI!",
+                    "Wagt Euch auf Abenteuer oder übt im Kampf gegen KI-Gegner!",
+                    "¡Vive aventuras épicas o practica contra la IA!",
+                    "¡Embárcate en aventuras o practica contra la IA!",
+                    "Lancez-vous dans d’épiques aventures ou entraînez-vous contre l’ordinateur !",
+                    "Affronta avventure o fai pratica contro avversari controllati dall'IA!",
+                    "冒険に出発したり、AIを相手に練習できるぞ！",
+                    "멋진 모험을 떠나거나 인공지능을 상대로 실력을 연마하세요!",
+                    "Rzuć się w wir przygód lub_poćwicz walkę z SI!",
+                    "Comece sua aventura ou pratique contra a IA!",
+                    "Отправьтесь на поиски новых приключений и отточите навыки игры против ИИ.",
+                    "ออกผจญภัยหรือฝึกฝน[b]ฝีมือกับ AI!",
+                    "开启史诗般的冒险之旅，或与电脑对手磨练牌技！",
+                    "踏上冒險旅程或與電腦對手練習！"
+                ],
+                "m_locId": 2763441
+            },
+            "m_sortOrder": 2,
+            "m_gameModeButtonState": "ADVENTURE",
+            "m_linkedScene": "ADVENTURE",
             "m_showAsNewEvent": 164,
             "m_showAsEarlyAccessEvent": -1,
             "m_showAsBetaEvent": -1,
