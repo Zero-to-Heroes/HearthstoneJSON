@@ -13,7 +13,9 @@
         {
             "m_ID": 1,
             "m_enabled": 1,
+            "m_isDefault": 1,
             "m_rarityId": 2,
+            "m_baseFinisherId": 0,
             "m_collectionName": {
                 "m_locValues": [
                     "Classic",
@@ -79,13 +81,14 @@
             "m_detailsRenderConfig": "DefaultStrikePreviewConfig.asset:3e20ecf730bf08548b4782948f55423f",
             "m_miniBodyMaterial": "Default_Material_CollectionMini_Body.mat:87f55dd6ffabc084c9a7d5b7d6ea759d",
             "m_miniArtMaterial": "Default_Material_CollectionMini_Art.mat:181088ea1a758c1478d3c4c388386fe4",
-            "m_isDefault": 1,
             "m_capsuleType": 0
         },
         {
             "m_ID": 12,
             "m_enabled": 1,
+            "m_isDefault": 0,
             "m_rarityId": 4,
+            "m_baseFinisherId": 0,
             "m_collectionName": {
                 "m_locValues": [
                     "Onyxia’s Rage",
@@ -151,13 +154,14 @@
             "m_detailsRenderConfig": "OnyxiaStrikePreviewConfig.asset:107efe707eba8aa4d9aa289791ccc3b4",
             "m_miniBodyMaterial": "Onyxia_Material_CollectionMini_Body.mat:23524f18a29d233449acebeaf99bd064",
             "m_miniArtMaterial": "Onyxia_Material_CollectionMini_Art.mat:b5b4e4f659a32bb46b3b5ad9d9cda0d6",
-            "m_isDefault": 0,
             "m_capsuleType": 0
         },
         {
             "m_ID": 13,
             "m_enabled": 1,
+            "m_isDefault": 0,
             "m_rarityId": 4,
+            "m_baseFinisherId": 0,
             "m_collectionName": {
                 "m_locValues": [
                     "Lokholar’s Wrath",
@@ -223,13 +227,14 @@
             "m_detailsRenderConfig": "IceBlastStrikePreviewConfig.asset:1301380caf8f2fe489894d1c331de3ef",
             "m_miniBodyMaterial": "IceBlast_Material_CollectionMini_Body.mat:fd46f7a829170c84a9b55da4c6e89031",
             "m_miniArtMaterial": "IceBlast_Material_CollectionMini_Art.mat:d6dab7873d6599e44aa39915c5861dfd",
-            "m_isDefault": 0,
             "m_capsuleType": 0
         },
         {
             "m_ID": 17,
             "m_enabled": 1,
+            "m_isDefault": 0,
             "m_rarityId": 4,
+            "m_baseFinisherId": 0,
             "m_collectionName": {
                 "m_locValues": [
                     "Tidal Force",
@@ -295,13 +300,14 @@
             "m_detailsRenderConfig": "SunkenCityStrikePreviewConfig.asset:222ad9acefdd4fd4c86d6ee57cdf9828",
             "m_miniBodyMaterial": "SunkenCity_Material_CollectionMini_Body.mat:fad2886063250fd43a512acad335f71f",
             "m_miniArtMaterial": "SunkenCity_Material_CollectionMini_Art.mat:ca0e59f1bd51e7a418e8af39778e93f2",
-            "m_isDefault": 0,
             "m_capsuleType": 0
         },
         {
             "m_ID": 18,
             "m_enabled": 1,
+            "m_isDefault": 0,
             "m_rarityId": 4,
+            "m_baseFinisherId": 0,
             "m_collectionName": {
                 "m_locValues": [
                     "Party Time!",
@@ -367,13 +373,14 @@
             "m_detailsRenderConfig": "ScholomanceStrikePreviewConfig.asset:fffd1ad0925d3654386535252b37b861",
             "m_miniBodyMaterial": "ScholomanceBall_Material_CollectionMini_Body.mat:e32ac58790b00314e96f2e4e82d27fd6",
             "m_miniArtMaterial": "ScholomanceBall_Material_CollectionMini_Art.mat:d4189750d5fb18042a24e78326b8ff97",
-            "m_isDefault": 0,
             "m_capsuleType": 0
         },
         {
             "m_ID": 19,
             "m_enabled": 1,
+            "m_isDefault": 0,
             "m_rarityId": 4,
+            "m_baseFinisherId": 0,
             "m_collectionName": {
                 "m_locValues": [
                     "Petal Power",
@@ -439,13 +446,14 @@
             "m_detailsRenderConfig": "NobleGardenStrikePreviewConfig.asset:651f7b3427e9671499f8f7a216b2175d",
             "m_miniBodyMaterial": "Noblegarden_Material_CollectionMini_Body.mat:aefc9fa1c874e9d48843ab2774b8369a",
             "m_miniArtMaterial": "Noblegarden_Material_CollectionMini_Art.mat:e8da598e051b81b428b6cd178babb9fa",
-            "m_isDefault": 0,
             "m_capsuleType": 0
         },
         {
             "m_ID": 2,
             "m_enabled": 1,
+            "m_isDefault": 0,
             "m_rarityId": 4,
+            "m_baseFinisherId": 0,
             "m_collectionName": {
                 "m_locValues": [
                     "Astral Impact",
@@ -511,13 +519,14 @@
             "m_detailsRenderConfig": "AstralCometStrikePreviewConfig.asset:3052a045b3d96b74ebe97e64ef703035",
             "m_miniBodyMaterial": "AstralComet_Material_CollectionMini_Body.mat:3f460e4b9156aa94c8d7c106c8980ea0",
             "m_miniArtMaterial": "AstralComet_Material_CollectionMini_Art.mat:83a6f5fa37c39df48ab2209f5f8283d9",
-            "m_isDefault": 0,
             "m_capsuleType": 0
         },
         {
             "m_ID": 20,
             "m_enabled": 1,
+            "m_isDefault": 0,
             "m_rarityId": 4,
+            "m_baseFinisherId": 0,
             "m_collectionName": {
                 "m_locValues": [
                     "Disco Dynamite",
@@ -583,13 +592,14 @@
             "m_detailsRenderConfig": "EternalNightStrikePreviewConfig.asset:72a7613d614e3fd46888699c6f5e3240",
             "m_miniBodyMaterial": "EternalNight_Material_CollectionMini_Body.mat:7a09c64239d9e2c48acee9053f5d2e5d",
             "m_miniArtMaterial": "EternalNight_Material_CollectionMini_Art.mat:785c9e6e0a135b64e8a600d741782a6f",
-            "m_isDefault": 0,
             "m_capsuleType": 0
         },
         {
             "m_ID": 21,
             "m_enabled": 1,
+            "m_isDefault": 0,
             "m_rarityId": 4,
+            "m_baseFinisherId": 0,
             "m_collectionName": {
                 "m_locValues": [
                     "Blazing Skies",
@@ -655,13 +665,14 @@
             "m_detailsRenderConfig": "FireFestivalStrikePreviewConfig.asset:bfd44d0dbd402ec4cbbb64909828edc5",
             "m_miniBodyMaterial": "FireFestival_Material_CollectionMini_Body.mat:6dffce63b54c6cb47a8730505c4e07a7",
             "m_miniArtMaterial": "FireFestival_Material_CollectionMini_Art.mat:466ad3d6f8fb55548acfa486472e2077",
-            "m_isDefault": 0,
             "m_capsuleType": 0
         },
         {
             "m_ID": 23,
             "m_enabled": 1,
+            "m_isDefault": 0,
             "m_rarityId": 4,
+            "m_baseFinisherId": 0,
             "m_collectionName": {
                 "m_locValues": [
                     "Anima Crypt",
@@ -727,13 +738,14 @@
             "m_detailsRenderConfig": "MurderMysteryStrikePreviewConfig.asset:cb7c2ea55ebd499408505b22f78a107e",
             "m_miniBodyMaterial": "MurderMystery_Material_CollectionMini_Body.mat:6a0f12e588d186742bff9bf9a2c49cef",
             "m_miniArtMaterial": "MurderMystery_Material_CollectionMini_Art.mat:f9e88626776434841bb7437e0aba3f37",
-            "m_isDefault": 0,
             "m_capsuleType": 0
         },
         {
             "m_ID": 24,
             "m_enabled": 1,
+            "m_isDefault": 0,
             "m_rarityId": 4,
+            "m_baseFinisherId": 0,
             "m_collectionName": {
                 "m_locValues": [
                     "Murloc Mayhem",
@@ -799,13 +811,14 @@
             "m_detailsRenderConfig": "MurlockStrike_Configuration.asset:32c5cb318c620bc40838304e6585f063",
             "m_miniBodyMaterial": "Murloc_Material_CollectionMini_Body.mat:606b36084f60f224a86e623b4b7d51ac",
             "m_miniArtMaterial": "Murloc_Material_CollectionMini_Art.mat:614c443bf8c0c8b43ac9389bde191a55",
-            "m_isDefault": 0,
             "m_capsuleType": 0
         },
         {
             "m_ID": 25,
             "m_enabled": 1,
+            "m_isDefault": 0,
             "m_rarityId": 5,
+            "m_baseFinisherId": 0,
             "m_collectionName": {
                 "m_locValues": [
                     "Candy Cane Crush",
@@ -871,13 +884,14 @@
             "m_detailsRenderConfig": "",
             "m_miniBodyMaterial": "Winterveil_CollectionMini_Body.mat:7825445ba970a564abb6969132933027",
             "m_miniArtMaterial": "Winterveil_CollectionMini_Art.mat:67abc3aa73fd0554893fafdea1a7cdd8",
-            "m_isDefault": 0,
             "m_capsuleType": 1
         },
         {
             "m_ID": 26,
             "m_enabled": 1,
+            "m_isDefault": 0,
             "m_rarityId": 3,
+            "m_baseFinisherId": 26,
             "m_collectionName": {
                 "m_locValues": [
                     "Crystal Justice (Rare Strike)",
@@ -943,13 +957,14 @@
             "m_detailsRenderConfig": "MagicalGuardianLightRareStrikePreviewConfig.asset:721df728b50a00440b27d9d0d0ad1ae2",
             "m_miniBodyMaterial": "MagicalGuardiansLight_Rare_Material_CollectionMini_Body.mat:5141e263fef3ecc4fb85b5a707df222d",
             "m_miniArtMaterial": "MagicalGuardiansLight_Rare_Material_CollectionMini_Art.mat:56d888c0623b9cd4699288f64dddc36d",
-            "m_isDefault": 0,
             "m_capsuleType": 0
         },
         {
             "m_ID": 27,
             "m_enabled": 1,
+            "m_isDefault": 0,
             "m_rarityId": 4,
+            "m_baseFinisherId": 26,
             "m_collectionName": {
                 "m_locValues": [
                     "Crystal Justice (Epic Strike)",
@@ -1015,13 +1030,14 @@
             "m_detailsRenderConfig": "MagicalGuardianLightEpicStrikePreviewConfig.asset:56c07d7b53a112f4d92ca8f0e76c5b46",
             "m_miniBodyMaterial": "MagicalGuardiansLight_Epic_Material_CollectionMini_Body.mat:af9b67c553331e64d80bc25c8b473c14",
             "m_miniArtMaterial": "MagicalGuardiansLight_Epic_Material_CollectionMini_Art.mat:5e8da08f86d7b43428502754ed390f18",
-            "m_isDefault": 0,
             "m_capsuleType": 0
         },
         {
             "m_ID": 28,
             "m_enabled": 1,
+            "m_isDefault": 0,
             "m_rarityId": 5,
+            "m_baseFinisherId": 26,
             "m_collectionName": {
                 "m_locValues": [
                     "Crystal Justice (Legendary Strike)",
@@ -1087,13 +1103,14 @@
             "m_detailsRenderConfig": "MagicalGuardianLightLegendaryStrikePreviewConfig.asset:42271f651756cd740bf21200eee2f158",
             "m_miniBodyMaterial": "MagicalGuardiansLight_Legendary_Material_CollectionMini_Body.mat:d351271a907d8ed4da73707aedc385ef",
             "m_miniArtMaterial": "MagicalGuardiansLight_Legendary_Material_CollectionMini_Art.mat:030e5fcdf1b053c4990affc9061b94d3",
-            "m_isDefault": 0,
             "m_capsuleType": 1
         },
         {
             "m_ID": 29,
             "m_enabled": 1,
+            "m_isDefault": 0,
             "m_rarityId": 3,
+            "m_baseFinisherId": 29,
             "m_collectionName": {
                 "m_locValues": [
                     "Corrupted Arcana (Rare Strike)",
@@ -1159,13 +1176,14 @@
             "m_detailsRenderConfig": "MagicalGuardianDarkRareStrikePreviewConfig.asset:4e19cd633aee0794283996e81a7e283a",
             "m_miniBodyMaterial": "MagicalGuardiansDark_Rare_Material_CollectionMini_Body.mat:ce3c74def87ce8d479bcb3a3989a6e59",
             "m_miniArtMaterial": "MagicalGuardiansDark_Rare_Material_CollectionMini_Art.mat:6175ff37c2a4e6847837c575020881f3",
-            "m_isDefault": 0,
             "m_capsuleType": 0
         },
         {
             "m_ID": 3,
             "m_enabled": 1,
+            "m_isDefault": 0,
             "m_rarityId": 4,
+            "m_baseFinisherId": 0,
             "m_collectionName": {
                 "m_locValues": [
                     "Boombardment",
@@ -1231,13 +1249,14 @@
             "m_detailsRenderConfig": "ZapBoomStrikePreviewConfig.asset:cfb5891d53ef6aa4da09b0addde7c683",
             "m_miniBodyMaterial": "ZapAndBoom_Material_CollectionMini_Body.mat:986427d2348ed174d8e67f0629086813",
             "m_miniArtMaterial": "ZapAndBoom_Material_CollectionMini_Art.mat:e73945dccdefbcd4d8c8bedcd501dec9",
-            "m_isDefault": 0,
             "m_capsuleType": 0
         },
         {
             "m_ID": 30,
             "m_enabled": 1,
+            "m_isDefault": 0,
             "m_rarityId": 4,
+            "m_baseFinisherId": 29,
             "m_collectionName": {
                 "m_locValues": [
                     "Corrupted Arcana (Epic Strike)",
@@ -1303,13 +1322,14 @@
             "m_detailsRenderConfig": "MagicalGuardianDarkStrikePreviewConfig.asset:ab29407962b494f4da953bbc166fe4a0",
             "m_miniBodyMaterial": "MagicalGuardiansDark_Epic_Material_CollectionMini_Body.mat:f7705d6f1e819254485503818096bc58",
             "m_miniArtMaterial": "MagicalGuardiansDark_Epic_Material_CollectionMini_Art.mat:3ee6fbdbb7373cd42823b67802b137fb",
-            "m_isDefault": 0,
             "m_capsuleType": 0
         },
         {
             "m_ID": 31,
             "m_enabled": 1,
+            "m_isDefault": 0,
             "m_rarityId": 5,
+            "m_baseFinisherId": 0,
             "m_collectionName": {
                 "m_locValues": [
                     "Reaper's Toll (Legendary Strike)",
@@ -1375,13 +1395,14 @@
             "m_detailsRenderConfig": "",
             "m_miniBodyMaterial": "HallowsEnd_Material_CollectionMini_Body.mat:3f570bcba83f08d4f84888fdf779d512",
             "m_miniArtMaterial": "HallowsEnd_Material_CollectionMini_Art.mat:9067b9b4efa1a494aa818e2a092f6415",
-            "m_isDefault": 0,
             "m_capsuleType": 1
         },
         {
             "m_ID": 32,
             "m_enabled": 1,
+            "m_isDefault": 0,
             "m_rarityId": 3,
+            "m_baseFinisherId": 32,
             "m_collectionName": {
                 "m_locValues": [
                     "Rending Winter (Rare Strike)",
@@ -1447,13 +1468,14 @@
             "m_detailsRenderConfig": "Undead_Strike_Rare_Configuration.asset:6f3306df9011c7c4bb42c458ee31eb6c",
             "m_miniBodyMaterial": "Undead_Rare_CollectionMini_Body.mat:427a4edc06c9e83448ca12c1bcdcc7d6",
             "m_miniArtMaterial": "Undead_Rare_CollectionMini_Art.mat:b0cf133ff99252f4f968a85cdfd128d5",
-            "m_isDefault": 0,
             "m_capsuleType": 0
         },
         {
             "m_ID": 33,
             "m_enabled": 1,
+            "m_isDefault": 0,
             "m_rarityId": 4,
+            "m_baseFinisherId": 32,
             "m_collectionName": {
                 "m_locValues": [
                     "Rending Winter (Epic Strike)",
@@ -1519,13 +1541,14 @@
             "m_detailsRenderConfig": "Undead_Strike_Epic_Configuration.asset:bcf089d5601089849b3e5f5f75195835",
             "m_miniBodyMaterial": "Undead_Epic_CollectionMini_Body.mat:d29c30bd16b12894aa45c251486fd6c7",
             "m_miniArtMaterial": "Undead_Epic_CollectionMini_Art.mat:cb473dde93eb7a645a8238cf13219d5a",
-            "m_isDefault": 0,
             "m_capsuleType": 0
         },
         {
             "m_ID": 34,
             "m_enabled": 1,
+            "m_isDefault": 0,
             "m_rarityId": 5,
+            "m_baseFinisherId": 32,
             "m_collectionName": {
                 "m_locValues": [
                     "Rending Winter (Legendary Strike)",
@@ -1591,13 +1614,14 @@
             "m_detailsRenderConfig": "Undead_Strike_Legendary_Configuration.asset:d3959d35476f8f24eb4b5cbd2381c5e2",
             "m_miniBodyMaterial": "Undead_Legendary_CollectionMini_Body.mat:e8961369555a8c74da3dbfb30f44aa0e",
             "m_miniArtMaterial": "Undead_Legendary_CollectionMini_Art.mat:d50999a9d88b49743b448afe5f16a650",
-            "m_isDefault": 0,
             "m_capsuleType": 1
         },
         {
             "m_ID": 35,
             "m_enabled": 1,
+            "m_isDefault": 0,
             "m_rarityId": 3,
+            "m_baseFinisherId": 35,
             "m_collectionName": {
                 "m_locValues": [
                     "Rising Phoenix (Rare Strike)",
@@ -1663,13 +1687,14 @@
             "m_detailsRenderConfig": "Silvermoon_Strike_Rare_Config.asset:30de1814aa85f1a438268a866f190e0d",
             "m_miniBodyMaterial": "Silvermoon_Rare_CollectionMini_Body.mat:f281c215c54e70b43a8c085004d768db",
             "m_miniArtMaterial": "Silvermoon_Rare_CollectionMini_Art.mat:965caece6ee050f4098f460a43c369dd",
-            "m_isDefault": 0,
             "m_capsuleType": 0
         },
         {
             "m_ID": 36,
             "m_enabled": 1,
+            "m_isDefault": 0,
             "m_rarityId": 4,
+            "m_baseFinisherId": 35,
             "m_collectionName": {
                 "m_locValues": [
                     "Rising Phoenix (Epic Strike)",
@@ -1735,13 +1760,14 @@
             "m_detailsRenderConfig": "Silvermoon_Strike_Epic_Config.asset:3b6f4818a5b1628449ef4540d70b8ca4",
             "m_miniBodyMaterial": "Silvermoon_Epic_CollectionMini_Body.mat:fe50cfd9fe3a1a744a4f2ef55790050e",
             "m_miniArtMaterial": "Silvermoon_Epic_CollectionMini_Art.mat:d81a789e14f25f847a7384f420e64cfe",
-            "m_isDefault": 0,
             "m_capsuleType": 0
         },
         {
             "m_ID": 37,
             "m_enabled": 1,
+            "m_isDefault": 0,
             "m_rarityId": 4,
+            "m_baseFinisherId": 0,
             "m_collectionName": {
                 "m_locValues": [
                     "Corgle Strike (Epic)",
@@ -1807,13 +1833,14 @@
             "m_detailsRenderConfig": "Corgle_Strike_Legendary_Configuration.asset:60fdcfcff894d454b8bbe3cefc433b4a",
             "m_miniBodyMaterial": "Corgle_Legendary_Material_CollectionMini_Body.mat:dc1d57517b8f00140986257e6af8d72e",
             "m_miniArtMaterial": "Corgle_Legendary_Material_CollectionMini_Art.mat:c906949bfba22e44eb4e75769eb8843b",
-            "m_isDefault": 0,
             "m_capsuleType": 0
         },
         {
             "m_ID": 38,
             "m_enabled": 1,
+            "m_isDefault": 0,
             "m_rarityId": 4,
+            "m_baseFinisherId": 39,
             "m_collectionName": {
                 "m_locValues": [
                     "Doom Symphony (Epic Strike)",
@@ -1871,7 +1898,7 @@
                 ],
                 "m_locId": 2873203
             },
-            "m_gameplaySettings": "MusicFestivalClassical_Epic.asset:320291a1542f5ca4e8334cc9152a2281",
+            "m_gameplaySettings": "EtcWorldTour2_Epic.asset:320291a1542f5ca4e8334cc9152a2281",
             "m_destroyOpponentPrefab": "",
             "m_destroyOpponentVictoryPrefab": "",
             "m_detailsTexture": "Epic_Strike_Epic.png:7c6933b56118a40418da20a9f6ac79ef",
@@ -1879,13 +1906,14 @@
             "m_detailsRenderConfig": "ETCWorldTour2_Strike_Epic_Configuration.asset:f2f407ed0221f624f9047a74e6c3b89b",
             "m_miniBodyMaterial": "Orchestra_Epic_Texture_CollectionMini_Body.mat:65a75593cb28a224b9e752c1a5b77e23",
             "m_miniArtMaterial": "Orchestra_Epic_Texture_CollectionMini_Art.mat:4cecbe86b4f1c8d4f9122c360f344226",
-            "m_isDefault": 0,
             "m_capsuleType": 0
         },
         {
             "m_ID": 39,
             "m_enabled": 1,
+            "m_isDefault": 0,
             "m_rarityId": 3,
+            "m_baseFinisherId": 39,
             "m_collectionName": {
                 "m_locValues": [
                     "Doom Symphony (Rare Strike)",
@@ -1943,7 +1971,7 @@
                 ],
                 "m_locId": 2873206
             },
-            "m_gameplaySettings": "MusicFestivalClassical_Rare.asset:e61e984015e02994d9b524577410637f",
+            "m_gameplaySettings": "EtcWolrdTour2_Rare.asset:e61e984015e02994d9b524577410637f",
             "m_destroyOpponentPrefab": "",
             "m_destroyOpponentVictoryPrefab": "",
             "m_detailsTexture": "Epic_Strike_Rare.png:aad626be4f317b24db51f02df20816c0",
@@ -1951,19 +1979,20 @@
             "m_detailsRenderConfig": "ETCWorldTour2_Strike_Rare_Configuration.asset:b2ab1341eb94ca14694b21b6251979c9",
             "m_miniBodyMaterial": "Orchestra_Rare_Texture_CollectionMini_Body.mat:4f1fb59c0dba57143b1c4edda88f323a",
             "m_miniArtMaterial": "Orchestra_Rare_Texture_CollectionMini_Art.mat:40672307d7b63c347a936320c14cfd7a",
-            "m_isDefault": 0,
             "m_capsuleType": 0
         },
         {
             "m_ID": 40,
             "m_enabled": 1,
+            "m_isDefault": 0,
             "m_rarityId": 5,
+            "m_baseFinisherId": 46,
             "m_collectionName": {
                 "m_locValues": [
                     "World Tour (Legendary Strike)",
                     "Welttournee (legendärer Angriff)",
                     "Gira mundial (asalto legendario)",
-                    "Gira mundial (azote legendario)",
+                    "Gira mundial (Azote legendario)",
                     "Tournée mondiale (frappe légendaire)",
                     "Tour Mondiale (Colpo Leggendario)",
                     "ワールドツアー（レジェンドストライク）",
@@ -2023,13 +2052,14 @@
             "m_detailsRenderConfig": "MusicFestival_Strike_Legendary_Configuration.asset:d1094c4edf818f14c8b77571ceb56162",
             "m_miniBodyMaterial": "MusicFestival_Legendary_CollectionMini_Body.mat:ab70bbe356693274194fc2ad208b5aa7",
             "m_miniArtMaterial": "MusicFestival_Legendary_CollectionMini_Art.mat:16c5e6ae78a4ed148a4b72b4d109f63b",
-            "m_isDefault": 0,
             "m_capsuleType": 1
         },
         {
             "m_ID": 45,
             "m_enabled": 1,
+            "m_isDefault": 0,
             "m_rarityId": 4,
+            "m_baseFinisherId": 46,
             "m_collectionName": {
                 "m_locValues": [
                     "World Tour (Epic Strike)",
@@ -2095,13 +2125,14 @@
             "m_detailsRenderConfig": "MusicFestival_Strike_Epic_Configuration.asset:b7b5e1701a9a0d044baf6a45b7e5c512",
             "m_miniBodyMaterial": "MusicFestival_Epic_CollectionMini_Body.mat:b138b6133c50d6a49ac421f86a125ce1",
             "m_miniArtMaterial": "MusicFestival_Epic_CollectionMini_Art.mat:694d433a790e1cf41bae13fd6f7519ae",
-            "m_isDefault": 0,
             "m_capsuleType": 0
         },
         {
             "m_ID": 46,
             "m_enabled": 1,
+            "m_isDefault": 0,
             "m_rarityId": 3,
+            "m_baseFinisherId": 46,
             "m_collectionName": {
                 "m_locValues": [
                     "World Tour (Rare Strike)",
@@ -2167,13 +2198,14 @@
             "m_detailsRenderConfig": "MusicFestival_Strike_Rare_Configuration.asset:d7ee6567981e80a4e914ce1b831a0c25",
             "m_miniBodyMaterial": "MusicFestival_Rare_CollectionMini_Body.mat:6634201a6e9b7cc449312c842cf73fa9",
             "m_miniArtMaterial": "MusicFestival_Rare_CollectionMini_Art.mat:809566260ce006d4b93989b54076e851",
-            "m_isDefault": 0,
             "m_capsuleType": 0
         },
         {
             "m_ID": 47,
             "m_enabled": 1,
+            "m_isDefault": 0,
             "m_rarityId": 5,
+            "m_baseFinisherId": 0,
             "m_collectionName": {
                 "m_locValues": [
                     "Arcane Tome (Legendary Strike)",
@@ -2239,13 +2271,14 @@
             "m_detailsRenderConfig": "Scholomancy_Strike_Legendary_Configuration.asset:2fcd2109c9f2eb04891bf6742de1a321",
             "m_miniBodyMaterial": "ScholomanceLibrary_Legendary_CollectionMini_Body.mat:f01223fce5b870343bd39bb99ac16ce7",
             "m_miniArtMaterial": "ScholomanceLibrary_Legendary_CollectionMini_Art.mat:564ad20a09e45a4409fe84586058fef5",
-            "m_isDefault": 0,
             "m_capsuleType": 1
         },
         {
             "m_ID": 48,
             "m_enabled": 1,
+            "m_isDefault": 0,
             "m_rarityId": 5,
+            "m_baseFinisherId": 0,
             "m_collectionName": {
                 "m_locValues": [
                     "Flame Vortex",
@@ -2311,13 +2344,14 @@
             "m_detailsRenderConfig": "FlameVortex_Strike_Legendary_Configuration.asset:7e2664bbcc30ba74d8fa11818b0d61b9",
             "m_miniBodyMaterial": "FireFestival_Legendary_Material_CollectionMini_Body.mat:781066bfef5943a459a96b3f55b30741",
             "m_miniArtMaterial": "FireFestival_Legendary_Material_CollectionMini_Art.mat:93c494b4f7b4c4a4aae334ad536cef9c",
-            "m_isDefault": 0,
             "m_capsuleType": 1
         },
         {
             "m_ID": 51,
             "m_enabled": 1,
+            "m_isDefault": 0,
             "m_rarityId": 5,
+            "m_baseFinisherId": 0,
             "m_collectionName": {
                 "m_locValues": [
                     "Thorim's Thunder (Legendary)",
@@ -2383,19 +2417,20 @@
             "m_detailsRenderConfig": "ThorimGladiator_Legendary_Configuration.asset:495bcfca3dbe70e41b1b125d8ae0fa3e",
             "m_miniBodyMaterial": "ThorimsGladiator_Legendary_Material_CollectionMini_Body.mat:8ac22821553ba2a40bc08b177231c87d",
             "m_miniArtMaterial": "ThorimsGladiator_Legendary_Material_CollectionMini_Art.mat:c4da853f2fecdd149af15e382037a98b",
-            "m_isDefault": 0,
             "m_capsuleType": 1
         },
         {
             "m_ID": 52,
             "m_enabled": 1,
+            "m_isDefault": 0,
             "m_rarityId": 4,
+            "m_baseFinisherId": 0,
             "m_collectionName": {
                 "m_locValues": [
                     "Clockwork (Epic Strike)",
                     "Uhrwerk (epischer Angriff)",
                     "Relojería (asalto épico)",
-                    "De cuerda (azote épico)",
+                    "De cuerda (Azote épico)",
                     "Mécanisme (frappe épique)",
                     "Meccanico (Colpo Epico)",
                     "ゼンマイ仕掛け（エピックストライク）",
@@ -2414,7 +2449,7 @@
                     "Clockwork (Epic)",
                     "Uhrwerk (episch)",
                     "Relojería (épico)",
-                    "De cuerda (épico)",
+                    "De cuerda (Épico)",
                     "Mécanisme (épique)",
                     "Meccanico (Epico)",
                     "ゼンマイ仕掛け（エピック）",
@@ -2455,13 +2490,14 @@
             "m_detailsRenderConfig": "Wonder_Strike_Epic_Configuration.asset:503462f469be6614b9d2582de77eadb7",
             "m_miniBodyMaterial": "Clockwork_Epic_Material_CollectionMini_Body.mat:dcb8355b0ed72b04288a4466f3bd5185",
             "m_miniArtMaterial": "Clockwork_Epic_Material_CollectionMini_Art.mat:3496d1923c2489b4eb95fbc9f8decd9c",
-            "m_isDefault": 0,
             "m_capsuleType": 0
         },
         {
             "m_ID": 53,
             "m_enabled": 1,
+            "m_isDefault": 0,
             "m_rarityId": 5,
+            "m_baseFinisherId": 0,
             "m_collectionName": {
                 "m_locValues": [
                     "Crafty Clash (Legendary Strike)",
@@ -2527,19 +2563,20 @@
             "m_detailsRenderConfig": "BG27FX_HallowsEnd_Strike_Legendary_Configuration.asset:734e1067e377e3b4a9d2aa3f548396e8",
             "m_miniBodyMaterial": "2023HallowsEnd_Legendary_Material_CollectionMini_Body.mat:881bd2fb790549241b55d44a07b9c179",
             "m_miniArtMaterial": "2023HallowsEnd_Legendary_Material_CollectionMini_Art.mat:b2b94d8a67b653744aa7d90ab1b0a044",
-            "m_isDefault": 0,
             "m_capsuleType": 1
         },
         {
             "m_ID": 58,
             "m_enabled": 1,
+            "m_isDefault": 0,
             "m_rarityId": 4,
+            "m_baseFinisherId": 59,
             "m_collectionName": {
                 "m_locValues": [
                     "Bloodrock Burn (Epic Strike)",
                     "Blutfelsbrand (epischer Angriff)",
                     "Quemadura Rocasangre (asalto épico)",
-                    "Quemadura Rocasangre (azote épico)",
+                    "Quemadura Rocasangre (Azote épico)",
                     "Feu de Roc-Sanglant (frappe épique)",
                     "Bruciatura di Rocciasanguigna (Colpo Epico)",
                     "灼熱のブラッドロック（エピックストライク）",
@@ -2558,7 +2595,7 @@
                     "Bloodrock Burn (Epic)",
                     "Blutfelsbrand (episch)",
                     "Quemadura Rocasangre (épico)",
-                    "Quemadura Rocasangre (épico)",
+                    "Quemadura Rocasangre (Épico)",
                     "Feu de Roc-Sanglant (épique)",
                     "Bruciatura di Rocciasanguigna (Epico)",
                     "灼熱のブラッドロック（エピック）",
@@ -2599,19 +2636,20 @@
             "m_detailsRenderConfig": "LawAndOrder_Strike_Epic_Configuration.asset:131966a120f13414fb61d6f83214270a",
             "m_miniBodyMaterial": "LawAndOrder_Epic_Texture_CollectionMini_Body.mat:1494d4a31accaf34dbd464cdbca4a725",
             "m_miniArtMaterial": "LawAndOrder_Epic_Texture_CollectionMini_Art.mat:687087b475b73994a88ca30de1646073",
-            "m_isDefault": 0,
             "m_capsuleType": 0
         },
         {
             "m_ID": 59,
             "m_enabled": 1,
+            "m_isDefault": 0,
             "m_rarityId": 3,
+            "m_baseFinisherId": 59,
             "m_collectionName": {
                 "m_locValues": [
                     "Bloodrock Burn (Rare Strike)",
                     "Blutfelsbrand (seltener Angriff)",
                     "Quemadura Rocasangre (asalto poco común)",
-                    "Quemadura Rocasangre (azote raro)",
+                    "Quemadura Rocasangre (Azote raro)",
                     "Feu de Roc-Sanglant (frappe rare)",
                     "Bruciatura di Rocciasanguigna (Colpo Raro)",
                     "灼熱のブラッドロック（レアストライク）",
@@ -2630,7 +2668,7 @@
                     "Bloodrock Burn (Rare)",
                     "Blutfelsbrand (selten)",
                     "Quemadura Rocasangre (poco común)",
-                    "Quemadura Rocasangre (raro)",
+                    "Quemadura Rocasangre (Raro)",
                     "Feu de Roc-Sanglant (rare)",
                     "Bruciatura di Rocciasanguigna (Raro)",
                     "灼熱のブラッドロック（レア）",
@@ -2671,19 +2709,20 @@
             "m_detailsRenderConfig": "LawAndOrder_Strike_Rare_Configuration.asset:ea77bd9385d112b47a1d20372062ddcb",
             "m_miniBodyMaterial": "LawAndOrder_Rare_Texture_CollectionMini_Body.mat:9486f739cfb6fcf4697958d33f02802c",
             "m_miniArtMaterial": "LawAndOrder_Rare_Texture_CollectionMini_Art.mat:a1abd63e3c84f794b80a49471b5a98bd",
-            "m_isDefault": 0,
             "m_capsuleType": 0
         },
         {
             "m_ID": 60,
             "m_enabled": 1,
+            "m_isDefault": 0,
             "m_rarityId": 5,
+            "m_baseFinisherId": 62,
             "m_collectionName": {
                 "m_locValues": [
                     "Festive Frontier (Legendary Strike)",
                     "Festliches Grenzland (legendärer Angriff)",
                     "Festival en la frontera (asalto legendario)",
-                    "Frontera Festiva (azote legendario)",
+                    "Frontera Festiva (Azote legendario)",
                     "Frontière festive (frappe légendaire)",
                     "Frontiera Festiva (Colpo Leggendario)",
                     "お祭り気分の開拓地（レジェンドストライク）",
@@ -2743,19 +2782,20 @@
             "m_detailsRenderConfig": "WinterOutlaw_Legendary_Configuration.asset:d40c820e41ad39e4a9e5792c7ed680d3",
             "m_miniBodyMaterial": "FestiveFrontier_Legendary_Texture_CollectionMini_Body.mat:b2299eb59c8794a44abb17dad17839da",
             "m_miniArtMaterial": "FestiveFrontier_Legendary_Texture_CollectionMini_Art.mat:5adb2dc45f9b3d046a415a29a4cb31e0",
-            "m_isDefault": 0,
             "m_capsuleType": 1
         },
         {
             "m_ID": 61,
             "m_enabled": 1,
+            "m_isDefault": 0,
             "m_rarityId": 4,
+            "m_baseFinisherId": 62,
             "m_collectionName": {
                 "m_locValues": [
                     "Festive Frontier (Epic Strike)",
                     "Festliches Grenzland (epischer Angriff)",
                     "Festival en la frontera (asalto épico)",
-                    "Frontera Festiva (azote épico)",
+                    "Frontera Festiva (Azote épico)",
                     "Frontière festive (frappe épique)",
                     "Frontiera Festiva (Colpo Epico)",
                     "お祭り気分の開拓地（エピックストライク）",
@@ -2774,7 +2814,7 @@
                     "Festive Frontier (Epic)",
                     "Festliches Grenzland (episch)",
                     "Festival en la frontera (épico)",
-                    "Frontera Festiva (épico)",
+                    "Frontera Festiva (Épico)",
                     "Frontière festive (épique)",
                     "Frontiera Festiva (Epico)",
                     "お祭り気分の開拓地（エピック）",
@@ -2815,19 +2855,20 @@
             "m_detailsRenderConfig": "WinterOutlaw_Epic_Configuration.asset:d6a4623da281b8f44bce2445ccd96866",
             "m_miniBodyMaterial": "FestiveFrontier_Epic_Texture_CollectionMini_Body.mat:68b880cff564c8348bbe151136793370",
             "m_miniArtMaterial": "FestiveFrontier_Epic_Texture_CollectionMini_Art.mat:a6e3845269fbb264fafb670c861e19b7",
-            "m_isDefault": 0,
             "m_capsuleType": 0
         },
         {
             "m_ID": 62,
             "m_enabled": 1,
+            "m_isDefault": 0,
             "m_rarityId": 3,
+            "m_baseFinisherId": 62,
             "m_collectionName": {
                 "m_locValues": [
                     "Festive Frontier (Rare Strike)",
                     "Festliches Grenzland (seltener Angriff)",
                     "Festival en la frontera (asalto poco común)",
-                    "Frontera Festiva (azote raro)",
+                    "Frontera Festiva (Azote raro)",
                     "Frontière festive (frappe rare)",
                     "Frontiera Festiva (Colpo Raro)",
                     "お祭り気分の開拓地（レアストライク）",
@@ -2846,7 +2887,7 @@
                     "Festive Frontier (Rare)",
                     "Festliches Grenzland (selten)",
                     "Festival en la frontera (poco común)",
-                    "Frontera Festiva (raro)",
+                    "Frontera Festiva (Raro)",
                     "Frontière festive (rare)",
                     "Frontiera Festiva (Rara)",
                     "お祭り気分の開拓地（レア）",
@@ -2887,13 +2928,14 @@
             "m_detailsRenderConfig": "WinterOutlaw_Rare_Configuration.asset:87ee22b2cbd788f49830062019547891",
             "m_miniBodyMaterial": "FestiveFrontier_Rare_Texture_CollectionMini_Body.mat:608beab40023199488c557d6e6e7e472",
             "m_miniArtMaterial": "FestiveFrontier_Rare_Texture_CollectionMini_Art.mat:f5bb5d7ae1e798d478520a83e4043e6d",
-            "m_isDefault": 0,
             "m_capsuleType": 0
         },
         {
             "m_ID": 63,
             "m_enabled": 1,
+            "m_isDefault": 0,
             "m_rarityId": 4,
+            "m_baseFinisherId": 0,
             "m_collectionName": {
                 "m_locValues": [
                     "Dragon’s Delight",
@@ -2918,7 +2960,7 @@
                     "Dragon’s Delight (Epic)",
                     "Drachenfest (Episch)",
                     "Deleite de dragón (épico)",
-                    "Deleite de Dragón (épico)",
+                    "Deleite de Dragón (Épico)",
                     "Délice du dragon (épique)",
                     "Delizia del Drago (Epico)",
                     "ドラゴンの歓喜（エピック）",
@@ -2959,19 +3001,20 @@
             "m_detailsRenderConfig": "LunarNewYears_Strike_Epic_Configuration.asset:ba46abf6f6e2c824abe17360012ca1d8",
             "m_miniBodyMaterial": "LunarNewYears2024_Epic_Texture_CollectionMini_Body.mat:a1fd227f60d123b47a0c41becb8cd6e6",
             "m_miniArtMaterial": "LunarNewYears2024_Epic_Texture_CollectionMini_Art.mat:242bf88bd146e42418bbb4f40e983248",
-            "m_isDefault": 0,
             "m_capsuleType": 0
         },
         {
             "m_ID": 64,
             "m_enabled": 1,
+            "m_isDefault": 0,
             "m_rarityId": 5,
+            "m_baseFinisherId": 0,
             "m_collectionName": {
                 "m_locValues": [
                     "Birthday Ball (Legendary Strike)",
                     "Jubiläumsball (Legendärer Angriff)",
                     "Baile de cumpleaños (asalto legendario)",
-                    "Baile de cumpleaños (azote legendario)",
+                    "Baile de cumpleaños (Azote legendario)",
                     "Ballon d’anniversaire (frappe légendaire)",
                     "Gala di Compleanno (Colpo Leggendario)",
                     "記念舞踏会（レジェンドストライク）",
@@ -3031,19 +3074,20 @@
             "m_detailsRenderConfig": "Anniversary_LegendaryStrike_Configuration.asset:861415b2069957f4b9923cffb7bd443b",
             "m_miniBodyMaterial": "Anniversary_Legendary_Texture_CollectionMini_Body.mat:915134610cc06fa4a9b8166fc6a1c02b",
             "m_miniArtMaterial": "Anniversary_Legendary_Texture_CollectionMini_Art.mat:98d6cb40b58950240a2697f46e084d3f",
-            "m_isDefault": 0,
             "m_capsuleType": 1
         },
         {
             "m_ID": 68,
             "m_enabled": 1,
+            "m_isDefault": 0,
             "m_rarityId": 4,
+            "m_baseFinisherId": 69,
             "m_collectionName": {
                 "m_locValues": [
                     "Tome of Tales (Epic Strike)",
                     "Foliant der Geschichten (epischer Angriff)",
                     "Tomo de cuentos (asalto épico)",
-                    "Tomo de cuentos (azote épico)",
+                    "Tomo de cuentos (Azote épico)",
                     "Livre de contes (frappe épique)",
                     "Tomo delle Favole (Colpo Epico)",
                     "おとぎ話の大型本（エピックストライク）",
@@ -3062,7 +3106,7 @@
                     "Tome of Tales (Epic)",
                     "Foliant der Geschichten (episch)",
                     "Tomo de cuentos (épico)",
-                    "Tomo de cuentos (épico)",
+                    "Tomo de cuentos (Épico)",
                     "Livre de contes (épique)",
                     "Tomo delle Favole (Epico)",
                     "おとぎ話の大型本（エピック）",
@@ -3103,19 +3147,20 @@
             "m_detailsRenderConfig": "TomeofTales Epic Configuration.asset:51878dc4ebf263b4ca7ac162e612d0b3",
             "m_miniBodyMaterial": "TomeofTales_Epic_Texture_CollectionMini_Body.mat:7d3bc298788f6354bb8861e49401fc27",
             "m_miniArtMaterial": "TomeofTales_Epic_Texture_CollectionMini_Art.mat:5a8afbf26e1344240b4288cd77b608c7",
-            "m_isDefault": 0,
             "m_capsuleType": 0
         },
         {
             "m_ID": 69,
             "m_enabled": 1,
+            "m_isDefault": 0,
             "m_rarityId": 3,
+            "m_baseFinisherId": 69,
             "m_collectionName": {
                 "m_locValues": [
                     "Tome of Tales (Rare Strike)",
                     "Foliant der Geschichten (seltener Angriff)",
                     "Tomo de cuentos (asalto poco común)",
-                    "Tomo de cuentos (azote raro)",
+                    "Tomo de cuentos (Azote raro)",
                     "Livre de contes (frappe rare)",
                     "Tomo delle Favole (Colpo Raro)",
                     "おとぎ話の大型本（レアストライク）",
@@ -3134,7 +3179,7 @@
                     "Tome of Tales (Rare)",
                     "Foliant der Geschichten (selten)",
                     "Tomo de cuentos (poco común)",
-                    "Tomo de cuentos (raro)",
+                    "Tomo de cuentos (Raro)",
                     "Livre de contes (rare)",
                     "Tomo delle Favole (Raro)",
                     "おとぎ話の大型本（レア）",
@@ -3175,19 +3220,20 @@
             "m_detailsRenderConfig": "TomeofTales Rare Configuration.asset:33a9b00265a833949a9973f1280a4276",
             "m_miniBodyMaterial": "TomeofTales_Rare_Texture_CollectionMini_Body.mat:8e170445c4dfb7f4ca61156934dbd60d",
             "m_miniArtMaterial": "TomeofTales_Rare_Texture_CollectionMini_Art.mat:a8e29f86654745c40a6062c68e33dce9",
-            "m_isDefault": 0,
             "m_capsuleType": 0
         },
         {
             "m_ID": 70,
             "m_enabled": 1,
+            "m_isDefault": 0,
             "m_rarityId": 5,
+            "m_baseFinisherId": 72,
             "m_collectionName": {
                 "m_locValues": [
                     "Endless Fables (Legendary Strike)",
                     "Endlose Fabeln (legendärer Angriff)",
                     "Sinfín de fábulas (asalto legendario)",
-                    "Fábulas infinitas (azote legendario)",
+                    "Fábulas infinitas (Azote legendario)",
                     "Histoires sans fin (frappe légendaire)",
                     "Favole Infinite (Colpo Leggendario)",
                     "終わりなき伝記（レジェンドストライク）",
@@ -3247,19 +3293,20 @@
             "m_detailsRenderConfig": "EndlessFables Legendary Configuration.asset:59cf7b78d321d6647a3f44015c28150d",
             "m_miniBodyMaterial": "EndlessFables_Legendary_Material_CollectionMini_Body.mat:37cf3d740094d4e4ab9687b5b8b37189",
             "m_miniArtMaterial": "EndlessFables_Legendary_Material_CollectionMini_Art.mat:3cde596ec04d6a14e87588283ae1e784",
-            "m_isDefault": 0,
             "m_capsuleType": 1
         },
         {
             "m_ID": 71,
             "m_enabled": 1,
+            "m_isDefault": 0,
             "m_rarityId": 4,
+            "m_baseFinisherId": 72,
             "m_collectionName": {
                 "m_locValues": [
                     "Endless Fables (Epic Strike)",
                     "Endlose Fabeln (epischer Angriff)",
                     "Sinfín de fábulas (asalto épico)",
-                    "Fábulas infinitas (azote épico)",
+                    "Fábulas infinitas (Azote épico)",
                     "Histoires sans fin (frappe épique)",
                     "Favole Infinite (Colpo Epico)",
                     "終わりなき伝記（エピックストライク）",
@@ -3278,7 +3325,7 @@
                     "Endless Fables (Epic)",
                     "Endlose Fabeln (episch)",
                     "Sinfín de fábulas (épico)",
-                    "Fábulas infinitas (épico)",
+                    "Fábulas infinitas (Épico)",
                     "Histoires sans fin (épique)",
                     "Favole Infinite (Epico)",
                     "終わりなき伝記（エピック）",
@@ -3319,19 +3366,20 @@
             "m_detailsRenderConfig": "EndlessFables Epic Configuration.asset:a2fda27d168949e48b2ddb85da8e64f8",
             "m_miniBodyMaterial": "EndlessFables_Epic_Material_CollectionMini_Body.mat:13ac613d8ba426547ae0126339d66cb5",
             "m_miniArtMaterial": "EndlessFables_Epic_Material_CollectionMini_Art.mat:cbd812345d201d4438802f6c901a8764",
-            "m_isDefault": 0,
             "m_capsuleType": 0
         },
         {
             "m_ID": 72,
             "m_enabled": 1,
+            "m_isDefault": 0,
             "m_rarityId": 3,
+            "m_baseFinisherId": 72,
             "m_collectionName": {
                 "m_locValues": [
                     "Endless Fables (Rare Strike)",
                     "Endlose Fabeln (seltener Angriff)",
                     "Sinfín de fábulas (asalto poco común)",
-                    "Fábulas infinitas (azote raro)",
+                    "Fábulas infinitas (Azote raro)",
                     "Histoires sans fin (frappe rare)",
                     "Favole Infinite (Colpo Raro)",
                     "終わりなき伝記（レアストライク）",
@@ -3350,7 +3398,7 @@
                     "Endless Fables (Rare)",
                     "Endlose Fabeln (selten)",
                     "Sinfín de fábulas (poco común)",
-                    "Fábulas infinitas (raro)",
+                    "Fábulas infinitas (Raro)",
                     "Histoires sans fin (rare)",
                     "Favole Infinite (Raro)",
                     "終わりなき伝記（レア）",
@@ -3391,19 +3439,20 @@
             "m_detailsRenderConfig": "EndlessFables Rare Configuration.asset:b8d65da1d061d7f45a0082c07788cea9",
             "m_miniBodyMaterial": "EndlessFables_Rare_Material_CollectionMini_Body.mat:597562c21bc93c641bad2662a4c58fc2",
             "m_miniArtMaterial": "EndlessFables_Rare_Material_CollectionMini_Art.mat:58c89e999a6096548bd0133c67253884",
-            "m_isDefault": 0,
             "m_capsuleType": 0
         },
         {
             "m_ID": 75,
             "m_enabled": 1,
+            "m_isDefault": 0,
             "m_rarityId": 4,
+            "m_baseFinisherId": 76,
             "m_collectionName": {
                 "m_locValues": [
                     "Swashbuckler (Epic Strike)",
                     "Säbelrassler (epischer Angriff)",
                     "Lobo de mar (asalto épico)",
-                    "Espadachín (azote épico)",
+                    "Espadachín (Azote épico)",
                     "Sabres croisés (frappe épique)",
                     "Sciabolata (Colpo Epico)",
                     "悪漢剣士（エピックストライク）",
@@ -3422,7 +3471,7 @@
                     "Swashbuckler (Epic)",
                     "Säbelrassler (episch)",
                     "Lobo de mar (épico)",
-                    "Espadachín (épico)",
+                    "Espadachín (Épico)",
                     "Sabres croisés (épique)",
                     "Sciabolata (Epico)",
                     "悪漢剣士（エピック）",
@@ -3463,19 +3512,20 @@
             "m_detailsRenderConfig": "VacationMishapPirate Epic Configuration.asset:85c6c7bd7647b5347b6098a583b00e5c",
             "m_miniBodyMaterial": "VacationMishapPirate_Epic_Material_CollectionMini_Body.mat:e6daafe578de28247a1ad1a129fea73e",
             "m_miniArtMaterial": "VacationMishapPirate_Epic_Material_CollectionMini_Art.mat:d093459ecbb52494e924042207e17382",
-            "m_isDefault": 0,
             "m_capsuleType": 0
         },
         {
             "m_ID": 76,
             "m_enabled": 1,
+            "m_isDefault": 0,
             "m_rarityId": 3,
+            "m_baseFinisherId": 76,
             "m_collectionName": {
                 "m_locValues": [
                     "Swashbuckler (Rare Strike)",
                     "Säbelrassler (seltener Angriff)",
                     "Lobo de mar (asalto poco común)",
-                    "Espadachín (azote raro)",
+                    "Espadachín (Azote raro)",
                     "Sabres croisés (frappe rare)",
                     "Sciabolata (Colpo Raro)",
                     "悪漢剣士（レアストライク）",
@@ -3494,7 +3544,7 @@
                     "Swashbuckler (Rare)",
                     "Säbelrassler (selten)",
                     "Lobo de mar (poco común)",
-                    "Espadachín (raro)",
+                    "Espadachín (Raro)",
                     "Sabres croisés (rare)",
                     "Sciabolata (Raro)",
                     "悪漢剣士（レア）",
@@ -3535,19 +3585,20 @@
             "m_detailsRenderConfig": "VacationMishapPirate Rare Configuration.asset:c10f2cf6137acec4d9c452267d03d900",
             "m_miniBodyMaterial": "VacationMishapPirate_Rare_Material_CollectionMini_Body.mat:dfca23564180bab4691123222bd184db",
             "m_miniArtMaterial": "VacationMishapPirate_Rare_Material_CollectionMini_Art.mat:355bbc60fc7d9be43a508117383c7bcc",
-            "m_isDefault": 0,
             "m_capsuleType": 0
         },
         {
             "m_ID": 77,
             "m_enabled": 1,
+            "m_isDefault": 0,
             "m_rarityId": 5,
+            "m_baseFinisherId": 79,
             "m_collectionName": {
                 "m_locValues": [
                     "Beach Blast (Legendary Strike)",
                     "Strandspaß (legendärer Angriff)",
                     "Explosión playera (asalto legendario)",
-                    "Explosión playera (azote legendario)",
+                    "Explosión playera (Azote legendario)",
                     "Volée estivale (frappe légendaire)",
                     "Esplosione da Spiaggia (Colpo Leggendario)",
                     "ビーチブラスト（レジェンドストライク）",
@@ -3607,19 +3658,20 @@
             "m_detailsRenderConfig": "VacationMishap Legendary Configuration.asset:c77e331df3918ca45802164909c99195",
             "m_miniBodyMaterial": "VacationMishap_Legendary_Material_CollectionMini_Body.mat:21d8737377570a34db4db1902fc14e7c",
             "m_miniArtMaterial": "VacationMishap_Legendary_Material_CollectionMini_Art.mat:a974e027317e9554bad282fe4be10ca3",
-            "m_isDefault": 0,
             "m_capsuleType": 1
         },
         {
             "m_ID": 78,
             "m_enabled": 1,
+            "m_isDefault": 0,
             "m_rarityId": 4,
+            "m_baseFinisherId": 79,
             "m_collectionName": {
                 "m_locValues": [
                     "Beach Blast (Epic Strike)",
                     "Strandspaß (epischer Angriff)",
                     "Explosión playera (asalto épico)",
-                    "Explosión playera (azote épico)",
+                    "Explosión playera (Azote épico)",
                     "Volée estivale (frappe épique)",
                     "Esplosione da Spiaggia (Colpo Epico)",
                     "ビーチブラスト（エピックストライク）",
@@ -3638,7 +3690,7 @@
                     "Beach Blast (Epic)",
                     "Strandspaß (episch)",
                     "Explosión playera (épico)",
-                    "Explosión playera (épico)",
+                    "Explosión playera (Épico)",
                     "Volée estivale (épique)",
                     "Esplosione da Spiaggia (Epico)",
                     "ビーチブラスト（エピック）",
@@ -3679,19 +3731,20 @@
             "m_detailsRenderConfig": "VacationMishap Epic Configuration.asset:7ab58e89c2f603a40a13966abba8b4e8",
             "m_miniBodyMaterial": "VacationMishap_Epic_Material_CollectionMini_Body.mat:16a25525db9d2a24a9f9d9a676bfdbb4",
             "m_miniArtMaterial": "VacationMishap_Epic_Material_CollectionMini_Art.mat:9bfc5eb2cfce26f4d90a8cd7f2577950",
-            "m_isDefault": 0,
             "m_capsuleType": 0
         },
         {
             "m_ID": 79,
             "m_enabled": 1,
+            "m_isDefault": 0,
             "m_rarityId": 3,
+            "m_baseFinisherId": 79,
             "m_collectionName": {
                 "m_locValues": [
                     "Beach Blast (Rare Strike)",
                     "Strandspaß (seltener Angriff)",
                     "Explosión playera (asalto poco común)",
-                    "Explosión playera (azote raro)",
+                    "Explosión playera (Azote raro)",
                     "Volée estivale (frappe rare)",
                     "Esplosione da Spiaggia (Colpo Raro)",
                     "ビーチブラスト（レアストライク）",
@@ -3710,7 +3763,7 @@
                     "Beach Blast (Rare)",
                     "Strandspaß (selten)",
                     "Explosión playera (poco común)",
-                    "Explosión playera (raro)",
+                    "Explosión playera (Raro)",
                     "Volée estivale (rare)",
                     "Esplosione da Spiaggia (Raro)",
                     "ビーチブラスト（レア）",
@@ -3751,19 +3804,20 @@
             "m_detailsRenderConfig": "VacationMishap Rare Configuration.asset:3908bf5f50465d24994602218bb326ae",
             "m_miniBodyMaterial": "VacationMishap_Rare_Material_CollectionMini_Body.mat:8f647c515191e1841908e505e542aca4",
             "m_miniArtMaterial": "VacationMishap_Rare_Material_CollectionMini_Art.mat:a7ddcffd9ceacdc409e376f711a450f0",
-            "m_isDefault": 0,
             "m_capsuleType": 0
         },
         {
             "m_ID": 80,
             "m_enabled": 1,
+            "m_isDefault": 0,
             "m_rarityId": 5,
+            "m_baseFinisherId": 82,
             "m_collectionName": {
                 "m_locValues": [
                     "Cybernetic Slam (Legendary Strike)",
                     "Legendärer Angriff: Kybernetisches Zerschmettern",
                     "Embate cibernético (asalto legendario)",
-                    "Embate cibernético (azote legendario)",
+                    "Embate cibernético (Azote legendario)",
                     "Choc cybernétique (frappe légendaire)",
                     "Schianto cibernetico (Colpo Leggendario)",
                     "サイバネティックスラム（レジェンドストライク）",
@@ -3823,19 +3877,20 @@
             "m_detailsRenderConfig": "Cyberpunk Legendary Configuration.asset:94cd3dc5e10a81e44b04b91390e195c8",
             "m_miniBodyMaterial": "Cyberpunk_Legendary_Material_CollectionMini_Body.mat:385f44c2ece92014f930920ebd5778b5",
             "m_miniArtMaterial": "Cyberpunk_Legendary_Material_CollectionMini_Art.mat:04ac220708ead684c88bd928258e55cc",
-            "m_isDefault": 0,
             "m_capsuleType": 1
         },
         {
             "m_ID": 81,
             "m_enabled": 1,
+            "m_isDefault": 0,
             "m_rarityId": 4,
+            "m_baseFinisherId": 82,
             "m_collectionName": {
                 "m_locValues": [
                     "Cybernetic Slam (Epic Strike)",
                     "Epischer Angriff: Kybernetisches Zerschmettern",
                     "Embate cibernético (asalto épico)",
-                    "Embate cibernético (azote épico)",
+                    "Embate cibernético (Azote épico)",
                     "Choc cybernétique (frappe épique)",
                     "Schianto cibernetico (Colpo Epico)",
                     "サイバネティックスラム（エピックストライク）",
@@ -3854,7 +3909,7 @@
                     "Cybernetic Slam (Epic)",
                     "Episch: Kybernetisches Zerschmettern",
                     "Embate cibernético (épico)",
-                    "Embate cibernético (épico)",
+                    "Embate cibernético (Épico)",
                     "Choc cybernétique (épique)",
                     "Schianto cibernetico (Epico)",
                     "サイバネティックスラム（エピック）",
@@ -3895,19 +3950,20 @@
             "m_detailsRenderConfig": "Cyberpunk Epic Configuration.asset:5c0f037d73145294c9f4c5751511b420",
             "m_miniBodyMaterial": "Cyberpunk_Epic_Material_CollectionMini_Body.mat:57a157d01f7b13443a99ac32ed31d68b",
             "m_miniArtMaterial": "Cyberpunk_Epic_Material_CollectionMini_Art.mat:c31ed4ee41b076c40ab75073aa3cd441",
-            "m_isDefault": 0,
             "m_capsuleType": 0
         },
         {
             "m_ID": 82,
             "m_enabled": 1,
+            "m_isDefault": 0,
             "m_rarityId": 3,
+            "m_baseFinisherId": 82,
             "m_collectionName": {
                 "m_locValues": [
                     "Cybernetic Slam (Rare Strike)",
                     "Seltener Angriff: Kybernetisches Zerschmettern",
                     "Embate cibernético (asalto poco común)",
-                    "Embate cibernético (azote raro)",
+                    "Embate cibernético (Azote raro)",
                     "Choc cybernétique (frappe rare)",
                     "Schianto cibernetico (Colpo Raro)",
                     "サイバネティックスラム（レアストライク）",
@@ -3926,7 +3982,7 @@
                     "Cybernetic Slam (Rare)",
                     "Selten: Kybernetisches Zerschmettern",
                     "Embate cibernético (poco común)",
-                    "Embate cibernético (raro)",
+                    "Embate cibernético (Raro)",
                     "Choc cybernétique (rare)",
                     "Schianto cibernetico (Raro)",
                     "サイバネティックスラム（レア）",
@@ -3967,19 +4023,20 @@
             "m_detailsRenderConfig": "Cyberpunk Rare Configuration.asset:8d97db5f3c7b7ed47bf28ff5efe43354",
             "m_miniBodyMaterial": "Cyberpunk_Rare_Material_CollectionMini_Body.mat:548668cd14ed14c49943dbc853588247",
             "m_miniArtMaterial": "Cyberpunk_Rare_Material_CollectionMini_Art.mat:4e9c514f414379e448b19f1afcec3497",
-            "m_isDefault": 0,
             "m_capsuleType": 0
         },
         {
             "m_ID": 84,
             "m_enabled": 1,
+            "m_isDefault": 0,
             "m_rarityId": 3,
+            "m_baseFinisherId": 84,
             "m_collectionName": {
                 "m_locValues": [
                     "Night Fae Forest (Rare Strike)",
                     "Nachtfeenwald (seltener Angriff)",
                     "Bosque de sílfides nocturnas (asalto poco común)",
-                    "Bosque Noctifeérico (azote raro)",
+                    "Bosque Noctifeérico (Azote raro)",
                     "Forêt des Faë nocturnes (frappe rare)",
                     "Foresta dei Silfi della Notte (Colpo Raro)",
                     "ナイトフェイの森（レアストライク）",
@@ -3998,7 +4055,7 @@
                     "Night Fae Forest (Rare)",
                     "Nachtfeenwald (selten)",
                     "Bosque de sílfides nocturnas (poco común)",
-                    "Bosque Noctifeérico (raro)",
+                    "Bosque Noctifeérico (Raro)",
                     "Forêt des Faë nocturnes (rare)",
                     "Foresta dei Silfi della Notte (Raro)",
                     "ナイトフェイの森（レア）",
@@ -4039,19 +4096,20 @@
             "m_detailsRenderConfig": "Ardenweald Rare Configuration.asset:720c5e8e2ecd24945822c67ffc33cc34",
             "m_miniBodyMaterial": "Ardenweald_Rare_Material_CollectionMini_Body.mat:ab42de20dca30a145a0817caaaf2e18c",
             "m_miniArtMaterial": "Ardenwealld_Rare_Material_CollectionMini_Art.mat:204b4f924a8f081489a5585a71ef3d0e",
-            "m_isDefault": 0,
             "m_capsuleType": 0
         },
         {
             "m_ID": 85,
             "m_enabled": 1,
+            "m_isDefault": 0,
             "m_rarityId": 4,
+            "m_baseFinisherId": 84,
             "m_collectionName": {
                 "m_locValues": [
                     "Night Fae Forest (Epic Strike)",
                     "Nachtfeenwald (epischer Angriff)",
                     "Bosque de sílfides nocturnas (asalto épico)",
-                    "Bosque Noctifeérico (azote épico)",
+                    "Bosque Noctifeérico (Azote épico)",
                     "Forêt des Faë nocturnes (frappe épique)",
                     "Foresta dei Silfi della Notte (Colpo Epico)",
                     "ナイトフェイの森（エピックストライク）",
@@ -4070,7 +4128,7 @@
                     "Night Fae Forest (Epic)",
                     "Nachtfeenwald (episch)",
                     "Bosque de sílfides nocturnas (épico)",
-                    "Bosque Noctifeérico (épico)",
+                    "Bosque Noctifeérico (Épico)",
                     "Forêt des Faë nocturnes (épique)",
                     "Foresta dei Silfi della Notte (Epico)",
                     "ナイトフェイの森（エピック）",
@@ -4111,19 +4169,20 @@
             "m_detailsRenderConfig": "Ardenweald Epic Configuration.asset:4249a313701ad5e4bbdf8e9ae03b1715",
             "m_miniBodyMaterial": "Ardenweald_Epic_Material_CollectionMini_Body.mat:dfd571b5381221f44be1d129364477fb",
             "m_miniArtMaterial": "Ardenwealld_Epic_Material_CollectionMini_Art.mat:7ae1e754619b7044b8501ec7a76efb40",
-            "m_isDefault": 0,
             "m_capsuleType": 0
         },
         {
             "m_ID": 86,
             "m_enabled": 1,
+            "m_isDefault": 0,
             "m_rarityId": 5,
+            "m_baseFinisherId": 84,
             "m_collectionName": {
                 "m_locValues": [
                     "Night Fae Forest (Legendary Strike)",
                     "Nachtfeenwald (legendärer Angriff)",
                     "Bosque de sílfides nocturnas (asalto legendario)",
-                    "Bosque Noctifeérico (azote legendario)",
+                    "Bosque Noctifeérico (Azote legendario)",
                     "Forêt des Faë nocturnes (frappe légendaire)",
                     "Foresta dei Silfi della Notte (Colpo Leggendario)",
                     "ナイトフェイの森（レジェンドストライク）",
@@ -4183,19 +4242,20 @@
             "m_detailsRenderConfig": "Ardenweald Legendary Configuration.asset:78c8a3a944f5e2b4f93ac48843400f82",
             "m_miniBodyMaterial": "Ardenweald_Legendary_Material_CollectionMini_Body.mat:0b05f222d3d78704fb0b41cc545ecf15",
             "m_miniArtMaterial": "Ardenwealld_Legendary_Material_CollectionMini_Art.mat:cf602d2b021584e4893cda33b2d3185e",
-            "m_isDefault": 0,
             "m_capsuleType": 1
         },
         {
             "m_ID": 89,
             "m_enabled": 1,
+            "m_isDefault": 0,
             "m_rarityId": 4,
+            "m_baseFinisherId": 90,
             "m_collectionName": {
                 "m_locValues": [
                     "Emerald Dream (Epic Strike)",
                     "Smaragdgrüner Traum (epischer Angriff) ",
                     "Sueño Esmeralda (asalto épico)",
-                    "Sueño Esmeralda (azote épico)",
+                    "Sueño Esmeralda (Azote épico)",
                     "Rêve d’émeraude (frappe épique)",
                     "Sogno di Smeraldo (Colpo Epico)",
                     "エメラルド・ドリーム（エピックストライク）",
@@ -4214,7 +4274,7 @@
                     "Emerald Dream (Epic)",
                     "Smaragdgrüner Traum (episch) ",
                     "Sueño Esmeralda (épico)",
-                    "Sueño Esmeralda (épico)",
+                    "Sueño Esmeralda (Épico)",
                     "Rêve d’émeraude (épique)",
                     "Sogno di Smeraldo (Epico)",
                     "エメラルド・ドリーム（エピック）",
@@ -4255,19 +4315,20 @@
             "m_detailsRenderConfig": "EmeraldDream Epic Configuration.asset:09f16ab1c6b2eba478689ff454a791a6",
             "m_miniBodyMaterial": "EmeraldDream_Epic_Material_CollectionMini_Body.mat:56f8e58e53c342a4b8f1851f4ac6256d",
             "m_miniArtMaterial": "EmeraldDream_Epic_Material_CollectionMini_Art.mat:05f34d0597eb88147967925399deff6b",
-            "m_isDefault": 0,
             "m_capsuleType": 0
         },
         {
             "m_ID": 90,
             "m_enabled": 1,
+            "m_isDefault": 0,
             "m_rarityId": 3,
+            "m_baseFinisherId": 90,
             "m_collectionName": {
                 "m_locValues": [
                     "Emerald Dream (Rare Strike)",
                     "Smaragdgrüner Traum (seltener Angriff)",
                     "Sueño Esmeralda (asalto poco común)",
-                    "Sueño Esmeralda (azote raro)",
+                    "Sueño Esmeralda (Azote raro)",
                     "Rêve d’émeraude (frappe rare)",
                     "Sogno di Smeraldo (Colpo Raro)",
                     "エメラルド・ドリーム（レアストライク）",
@@ -4286,7 +4347,7 @@
                     "Emerald Dream (Rare)",
                     "Smaragdgrüner Traum (selten)",
                     "Sueño Esmeralda (poco común)",
-                    "Sueño Esmeralda (raro)",
+                    "Sueño Esmeralda (Raro)",
                     "Rêve d’émeraude (rare)",
                     "Sogno di Smeraldo (Raro)",
                     "エメラルド・ドリーム（レア）",
@@ -4327,8 +4388,226 @@
             "m_detailsRenderConfig": "EmeraldDream Rare Configuration.asset:e8f7243a30bceab4587df2e7e46b754c",
             "m_miniBodyMaterial": "EmeraldDream_Rare_Material_CollectionMini_Body.mat:e17b461b291ed7940a8088e180ce4737",
             "m_miniArtMaterial": "EmeraldDream_Rare_Material_CollectionMini_Art.mat:563cb8e5e811cee43916b8a1a320e681",
-            "m_isDefault": 0,
             "m_capsuleType": 0
+        },
+        {
+            "m_ID": 91,
+            "m_enabled": 1,
+            "m_isDefault": 0,
+            "m_rarityId": 3,
+            "m_baseFinisherId": 91,
+            "m_collectionName": {
+                "m_locValues": [
+                    "Underpollen (Rare Strike)",
+                    "Unterweltpollen (seltener Angriff)",
+                    "Infrapolen (asalto poco común)",
+                    "Bajopolen (Azote raro)",
+                    "Gangrefleur (frappe rare)",
+                    "Polline del Sottosuolo (Colpo Raro)",
+                    "アンダーポレン（レアストライク）",
+                    "언더꽃가루 (희귀 타격 효과)",
+                    "Podpyłek (rzadkie zwieńczenie)",
+                    "Subpólen (Ataque Raro)",
+                    "Нижепыль (редкий удар)",
+                    "ละอองอันเดอร์เฟล (ท่าโจมตีระดับหายาก)",
+                    "邪窟绿植（稀有打击特效）",
+                    "魔洞花粉(精良攻擊特效)"
+                ],
+                "m_locId": 2926965
+            },
+            "m_collectionShortName": {
+                "m_locValues": [
+                    "Underpollen (Rare)",
+                    "Unterweltpollen (selten)",
+                    "Infrapolen (poco común)",
+                    "Bajopolen (Raro)",
+                    "Gangrefleur (rare)",
+                    "Polline del Sottosuolo (Raro)",
+                    "アンダーポレン（レア）",
+                    "언더꽃가루 (희귀)",
+                    "Podpyłek (rzadkie)",
+                    "Subpólen (Raro)",
+                    "Нижепыль (редкий)",
+                    "ละอองอันเดอร์เฟล (ระดับหายาก)",
+                    "邪窟绿植（稀有）",
+                    "魔洞花粉(精良)"
+                ],
+                "m_locId": 2926966
+            },
+            "m_description": {
+                "m_locValues": [
+                    "This Rare Strike adds a little something special to all your Battlegrounds Heroes’ attacks.\n\nEarnable after purchasing the Battlegrounds Season Pass in Season <i>11</i>.",
+                    "Dieser seltene Angriffseffekt verleiht den Angriffen Eurer Schlachtfeldhelden etwas Besonderes.\n\nKann nach Kauf des Schlachtfeld-Saisonpasses in Saison <i>11</i> freigeschaltet werden.",
+                    "Este asalto poco común les da un toque especial a todos los ataques de tus héroes de Campos de batalla.\n\nSe puede conseguir al comprar el pase de temporada de Campos de batalla en la temporada <i>11</i>9.",
+                    "Este azote raro les da un toque especial a todos los ataques de tus héroes de Campos de batalla.\n\nSe puede obtener después de comprar el Pase de temporada de Campos de batalla en la temporada <i>11</i>.",
+                    "Cette frappe rare ajoute un petit quelque chose à toutes les attaques de vos héros et héroïnes de champs de bataille.\n\nS’obtient après avoir acheté le ticket saisonnier des champs de bataille lors de la saison <i>11</i>.",
+                    "Questo Colpo Raro aggiunge qualcosa di speciale agli attacchi dei tuoi eroi della Battaglia.\n\nOttenibile dopo aver acquistato il Pass Battaglia Stagionale nella Stagione <i>11</i>.",
+                    "このレアストライクは、バトルグラウンドのヒーローの攻撃に少々スペシャルな何かを加えるぞ。\n\nバトルグラウンド・シーズン<i>11</i>の「シーズンパス」購入後に獲得可能となる。",
+                    "희귀 타격 효과로 전장 영웅의 공격을 특별하게 꾸미세요.\n\n<i>11</i>시즌 전장 시즌 패스를 구매한 후 획득 가능",
+                    "To rzadkie zwieńczenie doda nieco finezji atakom twoich bohaterów podczas Ustawki.\n\nDo zdobycia po zakupie karnetu sezonowego Ustawki w sezonie <i>11</i>.",
+                    "Esse Ataque Raro adiciona algo especial a todos os ataques dos seus Heróis dos Campos de Batalha.\n\nPossível de obter após comprar o Passe de Temporada dos Campos de Batalha na Temporada <i>11</i>.",
+                    "Этот редкий удар придаст изюминку атакам ваших героев на полях сражений.\n\nМожно открыть после покупки пропуска <i>11</i>-го сезона полей сражений.",
+                    "ท่าโจมตีระดับหายากท่านี้[b]เพิ่มความพิเศษให้การโจมตี[b]ของฮีโร่_Battlegrounds ของคุณ\n\nปลดล็อคได้หลังจากซื้อ[b]ซีซันพาส_Battlegrounds ในซีซัน_<i>11</i>",
+                    "这款稀有打击特效可以为你战棋英雄的攻击增添特效。\n\n购买第<i>11</i>赛季的酒馆战棋赛季通行证后开放解锁。",
+                    "精良攻擊特效會讓英雄戰場全部的英雄在攻擊時增加一點特殊效果。\n\n需在賽季<i>11</i>購買英雄戰場賽季通行證才有機會取得。"
+                ],
+                "m_locId": 2926967
+            },
+            "m_gameplaySettings": "UnderfellRareStrike.asset:f13a2b9e65d51c74b8edb6babaf3b063",
+            "m_destroyOpponentPrefab": "",
+            "m_destroyOpponentVictoryPrefab": "",
+            "m_detailsTexture": "",
+            "m_detailsMovie": "",
+            "m_detailsRenderConfig": "Underfell Rare Configuration.asset:d171894a9c7a5b34badbded6f90374e5",
+            "m_miniBodyMaterial": "Underfell_Rare_Material_CollectionMini_Body.mat:34ba788df24f60a458b7f67b414c964e",
+            "m_miniArtMaterial": "Underfell_Rare_Material_CollectionMini_Art.mat:f2c623e7f819af04b9dd4b65d6ecd2f4",
+            "m_capsuleType": 0
+        },
+        {
+            "m_ID": 93,
+            "m_enabled": 1,
+            "m_isDefault": 0,
+            "m_rarityId": 4,
+            "m_baseFinisherId": 91,
+            "m_collectionName": {
+                "m_locValues": [
+                    "Underpollen (Epic Strike)",
+                    "Unterweltpollen (epischer Angriff)",
+                    "Infrapolen (asalto épico)",
+                    "Bajopolen (Azote épico)",
+                    "Gangrefleur (frappe épique)",
+                    "Polline del Sottosuolo (Colpo Epico)",
+                    "アンダーポレン（エピックストライク）",
+                    "언더꽃가루 (특급 타격 효과)",
+                    "Podpyłek (epickie zwieńczenie)",
+                    "Subpólen (Ataque Épico)",
+                    "Нижепыль (эпический удар)",
+                    "ละอองอันเดอร์เฟล (ท่าโจมตีระดับสุดยอด)",
+                    "邪窟绿植（史诗打击特效）",
+                    "魔洞花粉(史詩攻擊特效)"
+                ],
+                "m_locId": 2926962
+            },
+            "m_collectionShortName": {
+                "m_locValues": [
+                    "Underpollen (Epic)",
+                    "Unterweltpollen (episch)",
+                    "Infrapolen (épico)",
+                    "Bajopolen (Épico)",
+                    "Gangrefleur (épique)",
+                    "Polline del Sottosuolo (Epico)",
+                    "アンダーポレン（エピック）",
+                    "언더꽃가루 (특급)",
+                    "Podpyłek (epickie)",
+                    "Subpólen (Épico)",
+                    "Нижепыль (эпический)",
+                    "ละอองอันเดอร์เฟล (ระดับสุดยอด)",
+                    "邪窟绿植（史诗）",
+                    "魔洞花粉(史詩)"
+                ],
+                "m_locId": 2926963
+            },
+            "m_description": {
+                "m_locValues": [
+                    "This Epic Strike adds some flair to your Battlegrounds Heroes’ attacks. Get an even bigger effect for attacks of 15 or more damage!\n\nEarnable after purchasing the Battlegrounds Season Pass in Season <i>11</i>.",
+                    "Dieser epische Angriffseffekt verleiht den Angriffen Eurer Schlachtfeldhelden etwas mehr Flair. Angriffe mit 15 Schaden oder mehr haben einen noch größeren Effekt!\n\nKann nach Kauf des Schlachtfeld-Saisonpasses in Saison <i>11</i> freigeschaltet werden.",
+                    "Este asalto épico aporta estilo a los ataques de tus héroes de Campos de batalla. ¡Consigue un efecto aún mayor para ataques de 15 p. de daño o más!\n\nSe puede conseguir al comprar el pase de temporada de Campos de batalla en la temporada <i>11</i>.",
+                    "Este azote épico les da un poco de estilo a los ataques de tus héroes de Campos de batalla. ¡Tendrás incluso mejores efectos para ataques de 15 o más de daño!\n\nSe puede obtener después de comprar el Pase de temporada de Campos de batalla en la temporada <i>11</i>.",
+                    "Cette frappe épique donne du panache aux attaques de vos héros et héroïnes de champs de bataille. L’effet est encore plus marqué sur les attaques infligeant 15 points de dégâts ou plus !\n\nS’obtient après avoir acheté le ticket saisonnier des champs de bataille lors de la saison <i>11</i>.",
+                    "Questo Colpo Epico aggiunge un tocco speciale agli attacchi dei tuoi eroi della Battaglia. Ottieni un effetto ancora più grande per gli attacchi che infliggono 15 o più danni!\n\nOttenibile dopo aver acquistato il Pass Battaglia Stagionale nella Stagione <i>11</i>.",
+                    "このエピックストライクは、バトルグラウンドのヒーローの攻撃を派手にする。ダメージが15以上なら、攻撃がさらにド派手になるぞ！\n\nバトルグラウンド・シーズン<i>11</i>の「シーズンパス」購入後に獲得可能となる。",
+                    "특급 타격 효과로 전장 영웅의 공격에 화려함을 곁들이세요. 피해를 15 이상 줄 때 더 큰 효과로 표현됩니다!\n\n<i>11</i>시즌 전장 시즌 패스를 구매한 후 획득 가능",
+                    "To epickie zwieńczenie pokaże wszystkim, kto jest prawdziwą gwiazdą tej Ustawki. Efekt staje się potężniejszy przy obrażeniach o wartości 15 lub wyższej!\n\nDo zdobycia po zakupie karnetu sezonowego Ustawki w sezonie <i>11</i>.",
+                    "Esse Ataque Épico traz mais estilo aos ataques dos seus Heróis dos Campos de Batalha. Você consegue um efeito ainda maior para ataques de 15 ou mais de dano!\n\nPossível de obter após comprar o Passe de Temporada dos Campos de Batalha na Temporada <i>11</i>.",
+                    "Этот эпический удар разнообразит атаки ваших героев на полях сражений. Сделайте атаки на 15+ ед. урона еще эффектнее!\n\nМожно открыть после покупки пропуска <i>11</i>-го сезона полей сражений.",
+                    "ท่าโจมตีระดับสุดยอดท่านี้[b]เพิ่มความพิเศษให้การโจมตี[b]ของฮีโร่_Battlegrounds ของคุณ_เอฟเฟกต์จะ[b]ตระการตายิ่งขึ้นสำหรับ[b]การโจมตีที่สร้างความเสียหาย 15_แต้มหรือมากกว่า!\n\nปลดล็อคได้หลังจากซื้อ[b]ซีซันพาส_Battlegrounds ในซีซัน_<i>11</i>",
+                    "这款史诗打击特效可以为你的战棋英雄攻击增添特效。如果你造成了15点或以上的伤害，还能看到更加盛大的特效！\n\n购买第<i>11</i>赛季的酒馆战棋赛季通行证后开放解锁。",
+                    "史詩攻擊特效會為英雄戰場的英雄攻擊加上絢麗的特效。攻擊力達到15點以上時更加華麗！\n\n需在賽季<i>11</i>購買英雄戰場賽季通行證才有機會取得。"
+                ],
+                "m_locId": 2926964
+            },
+            "m_gameplaySettings": "UnderfellEpicStrike.asset:60ed820271c22424c979f53f73381689",
+            "m_destroyOpponentPrefab": "",
+            "m_destroyOpponentVictoryPrefab": "",
+            "m_detailsTexture": "",
+            "m_detailsMovie": "",
+            "m_detailsRenderConfig": "Underfell Epic Configuration.asset:35364be7a85de3e47b1deb954ae39cbf",
+            "m_miniBodyMaterial": "Underfell_Epic_Material_CollectionMini_Body.mat:52af7d9298e44a94fb88cbf01819c099",
+            "m_miniArtMaterial": "Underfell_Epic_Material_CollectionMini_Art.mat:f12a9053adc5eec4ea57ed24e506968b",
+            "m_capsuleType": 0
+        },
+        {
+            "m_ID": 94,
+            "m_enabled": 1,
+            "m_isDefault": 0,
+            "m_rarityId": 5,
+            "m_baseFinisherId": 91,
+            "m_collectionName": {
+                "m_locValues": [
+                    "Underpollen (Legendary Strike)",
+                    "Unterweltpollen (legendärer Angriff)",
+                    "Infrapolen (asalto legendario)",
+                    "Bajopolen (Azote legendario)",
+                    "Gangrefleur (frappe légendaire)",
+                    "Polline del Sottosuolo (Colpo Leggendario)",
+                    "アンダーポレン（レジェンドストライク）",
+                    "언더꽃가루 (전설 타격 효과)",
+                    "Podpyłek (legendarne zwieńczenie)",
+                    "Subpólen (Ataque Lendário)",
+                    "Нижепыль (легендарный удар)",
+                    "ละอองอันเดอร์เฟล (ท่าโจมตีระดับตำนาน)",
+                    "邪窟绿植（传说打击特效）",
+                    "魔洞花粉(傳說攻擊特效)"
+                ],
+                "m_locId": 2926390
+            },
+            "m_collectionShortName": {
+                "m_locValues": [
+                    "Underpollen (Legendary)",
+                    "Unterweltpollen (legendär)",
+                    "Infrapolen (legendario)",
+                    "Bajopolen (Legendario)",
+                    "Gangrefleur (légendaire)",
+                    "Polline del Sottosuolo (Leggendario)",
+                    "アンダーポレン（レジェンド）",
+                    "언더꽃가루 (전설)",
+                    "Podpyłek (legendarne)",
+                    "Subpólen (Lendário)",
+                    "Нижепыль (легендарный)",
+                    "ละอองอันเดอร์เฟล (ระดับตำนาน)",
+                    "邪窟绿植（传说）",
+                    "魔洞花粉(傳說)"
+                ],
+                "m_locId": 2926391
+            },
+            "m_description": {
+                "m_locValues": [
+                    "This Legendary Strike adds a new animation to your Battlegrounds Heroes’ attacks, a bigger effect for attacks of 15 or more damage, an even bigger effect for when you knock out an opponent, and a HUGE effect when you finish in first place!\n\nEarnable after purchasing the Battlegrounds Season Pass in Season <i>11</i>.",
+                    "Dieser legendäre Angriffseffekt fügt den Angriffen Eurer Schlachtfeldhelden eine neue Animation hinzu, hat einen größeren Effekt bei Angriffen mit 15 oder mehr Schaden, einen noch größeren Effekt, wenn Ihr damit siegt, und einen RIESIGEN Effekt, wenn Ihr den ersten Platz belegt!\n\nKann nach Kauf des Schlachtfeld-Saisonpasses in Saison <i>11</i> freigeschaltet werden.",
+                    "Este asalto legendario añade una nueva animación a los ataques de tus héroes de Campos de batalla, un efecto mayor para ataques de 15 p. de daño o más, un efecto aún mayor cuando eliminas a un oponente ¡y un efecto ENORME cuando acabas en primera posición!\n\nSe puede conseguir al comprar el pase de temporada de Campos de batalla en la temporada <i>11</i>.",
+                    "Este azote legendario les da una nueva animación a los ataques de tus héroes de Campos de batalla. ¡Tendrás incluso mejores efectos para ataques de 15 o más de daño, un efecto aún mayor cuando elimines a un adversario e incluso uno MAYOR cuando termines en el primer lugar!\n\nSe puede obtener después de comprar el Pase de temporada de Campos de batalla en la temporada <i>11</i>.",
+                    "Cette frappe légendaire ajoute une nouvelle animation aux attaques de vos héros et héroïnes de champs de bataille. Bénéficiez d’un effet plus marqué sur les attaques infligeant 15 points de dégâts ou plus, encore plus marqué lorsque vous achevez votre adversaire et GIGANTESQUE lorsque vous finissez à la première place !\n\nS’obtient après avoir acheté le ticket saisonnier des champs de bataille lors de la saison <i>11</i>.",
+                    "Questo Colpo Leggendario aggiunge una nuova animazione agli attacchi dei tuoi eroi della Battaglia, un effetto più grande per gli attacchi che infliggono 15 o più danni, uno ancora più grande quando sconfiggi un avversario e un effetto ENORME quando raggiungi il primo posto!\n\nOttenibile dopo aver acquistato il Pass Battaglia Stagionale nella Stagione <i>11</i>.",
+                    "このレジェンドストライクは、バトルグラウンドのヒーローの攻撃に新たなアニメーションを追加する。ダメージが15以上なら攻撃エフェクトが派手に、相手をKOした時にはさらに派手になり、優勝をキメると巨大なエフェクトが発生するぞ！\n\nバトルグラウンド・シーズン<i>11</i>の「シーズンパス」購入後に獲得可能となる。",
+                    "전설 타격 효과로 전장 영웅의 새로운 공격 애니메이션, 피해를 15 이상 줄 때 더 큰 효과, 상대를 탈락시킬 때 더더욱 큰 효과, 그리고 1위 달성을 기념하는 효과까지 더해보세요!\n\n<i>11</i>시즌 전장 시즌 패스를 구매한 후 획득 가능",
+                    "To legendarne zwieńczenie zmienia animacje ataku twoich bohaterów podczas Ustawki. Efekt staje się potężniejszy przy obrażeniach o wartości 15 lub wyższej, jeszcze potężniejszy, gdy wyeliminujesz przeciwnika, oraz NAJPOTĘŻNIEJSZY, gdy zdobędziesz pierwsze miejsce!\n\nDo zdobycia po zakupie karnetu sezonowego Ustawki w sezonie <i>11</i>.",
+                    "Esse Ataque Lendário adiciona uma nova animação aos ataques dos seus heróis dos Campos de Batalha, um efeito maior para ataques de 15 ou mais de dano, um efeito ainda maior quando você nocauteia o oponente e um efeito GIGANTESCO quando você termina em primeiro lugar!\n\nPossível de obter após comprar o Passe de Temporada dos Campos de Batalha na Temporada <i>11</i>.",
+                    "Этот легендарный удар добавляет новую анимацию для атак ваших героев на полях сражений, при этом атаки, наносящие 15+ ед. урона, получают особый эффект. Ваши победы над противниками станут еще более впечатляющими, а если вы займете первое место, вас ждет поистине невероятное зрелище!\n\nМожно открыть после покупки пропуска <i>11</i>-го сезона полей сражений.",
+                    "ท่าโจมตีระดับตำนานท่านี้[b]เพิ่มความพิเศษให้การโจมตี[b]ของฮีโร่_Battlegrounds ของคุณ_เอฟเฟกต์จะ[b]ตระการตายิ่งขึ้นสำหรับ[b]การโจมตีที่สร้างความเสียหาย 15_แต้มหรือมากกว่า เอฟเฟกต์จะยิ่งใหญ่ขึ้นไปอีก[b]ถ้าคุณน็อคคู่ต่อสู้ได้และ\nปิดท้ายด้วยเอฟเฟกต์[b]สุดอลังการเมื่อคุณจบเป็น[b]อันดับหนึ่ง!\n\nปลดล็อคได้หลังจากซื้อ[b]ซีซันพาส_Battlegrounds ในซีซัน_<i>11</i>",
+                    "这款传说打击特效会为你的战棋英雄攻击添加新的动画效果。如果你造成了15点或以上的伤害，还能看到更加盛大的特效；在淘汰对手时还有更加宏大的特效；如果你最终获得了第一名，还会有规模空前的特效！\n\n购买第<i>11</i>赛季的酒馆战棋赛季通行证后开放解锁。",
+                    "傳說攻擊特效會為英雄戰場的英雄攻擊增加全新的動畫。攻擊力達到15點以上時更加華麗，打倒對手時還有特殊效果，而且以第一名勝利時會有超炫的特效！\n\n需在賽季<i>11</i>購買英雄戰場賽季通行證才有機會取得。"
+                ],
+                "m_locId": 2926392
+            },
+            "m_gameplaySettings": "UnderfellLegendaryStrike.asset:f233d3f152d5a0c4b9c0160c225c53f7",
+            "m_destroyOpponentPrefab": "",
+            "m_destroyOpponentVictoryPrefab": "",
+            "m_detailsTexture": "",
+            "m_detailsMovie": "",
+            "m_detailsRenderConfig": "Underfell Legendary Configuration.asset:0185691496f8d654ea4636d4be52ccd0",
+            "m_miniBodyMaterial": "Underfell_Legendary_Material_CollectionMini_Body.mat:a15a4e2a76103b44badd3c07f15890e4",
+            "m_miniArtMaterial": "Underfell_Legendary_Material_CollectionMini_Art.mat:996f465fa9687c449b3ae636ca147b3b",
+            "m_capsuleType": 1
         }
     ]
 }

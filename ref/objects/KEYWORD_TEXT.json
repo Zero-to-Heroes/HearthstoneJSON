@@ -1631,6 +1631,18 @@
             "m_tooltipInitOrder": 3000
         },
         {
+            "m_ID": 360,
+            "m_noteDesc": "Rally",
+            "m_tagId": 4204,
+            "m_name": "GLOBAL_KEYWORD_BACON_RALLY",
+            "m_text": "GLOBAL_KEYWORD_BACON_RALLY_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_BACON_RALLY_TEXT",
+            "m_collectionText": "",
+            "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
+            "m_tooltipInitOrder": 93100
+        },
+        {
             "m_ID": 37,
             "m_noteDesc": "",
             "m_tagId": 438,
@@ -1641,6 +1653,18 @@
             "m_isCollectionOnly": 0,
             "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 1000
+        },
+        {
+            "m_ID": 379,
+            "m_noteDesc": "Bounty",
+            "m_tagId": 4231,
+            "m_name": "GLOBAL_KEYWORD_BACON_BOUNTY",
+            "m_text": "GLOBAL_KEYWORD_BACON_BOUNTY_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_BACON_BOUNTY_TEXT",
+            "m_collectionText": "",
+            "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
+            "m_tooltipInitOrder": 93101
         },
         {
             "m_ID": 38,

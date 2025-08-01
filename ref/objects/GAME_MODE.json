@@ -161,62 +161,10 @@
             "m_gameModeButtonState": "PVPDR",
             "m_linkedScene": "PVP_DUNGEON_RUN",
             "m_showAsNewEvent": 164,
-            "m_showAsEarlyAccessEvent": 10000504,
-            "m_showAsBetaEvent": 10000505,
+            "m_showAsEarlyAccessEvent": 10000502,
+            "m_showAsBetaEvent": 10000503,
             "m_featureUnlockId": 10,
             "m_featureUnlockId2": 11
-        },
-        {
-            "m_ID": 8,
-            "m_noteDesc": "Tavern Brawl",
-            "m_modeKey": 1,
-            "m_event": 203,
-            "m_name": {
-                "m_locValues": [
-                    "Tavern Brawl",
-                    "Kartenchaos",
-                    "Pelea de taberna",
-                    "Gresca de la taberna",
-                    "Bras de fer",
-                    "Rissa",
-                    "酒場の喧嘩",
-                    "선술집 난투",
-                    "Karczemna bójka",
-                    "Contenda de Taverna",
-                    "Потасовка",
-                    "ท้าประลอง",
-                    "乱斗模式",
-                    "旅店大亂鬥"
-                ],
-                "m_locId": 2763442
-            },
-            "m_description": {
-                "m_locValues": [
-                    "Play a new challenge on a weekly basis!",
-                    "Meistert jede Woche eine neue Herausforderung!",
-                    "¡Juega un nuevo desafío cada semana!",
-                    "¡Juega un nuevo desafío todas las semanas!",
-                    "Découvrez un nouveau défi chaque semaine !",
-                    "Affronta una nuova sfida ogni settimana!",
-                    "週替わりの愉快な特別ルールで対戦しよう！",
-                    "매주마다 새로운 규칙으로 게임을 합니다!",
-                    "Podejmuj cotygodniowe wyzwania!",
-                    "Jogue um novo desafio toda semana!",
-                    "Новое испытание каждую неделю!",
-                    "แข่งขันในเกมท้าทาย[b]รูปแบบใหม่ๆ_ทุกสัปดาห์",
-                    "每个星期都会有新的挑战！",
-                    "每週進行全新的挑戰！"
-                ],
-                "m_locId": 2763443
-            },
-            "m_sortOrder": 1,
-            "m_gameModeButtonState": "TAVERNBRAWL",
-            "m_linkedScene": "TAVERN_BRAWL",
-            "m_showAsNewEvent": 164,
-            "m_showAsEarlyAccessEvent": -1,
-            "m_showAsBetaEvent": -1,
-            "m_featureUnlockId": 0,
-            "m_featureUnlockId2": 0
         },
         {
             "m_ID": 6,
@@ -264,6 +212,58 @@
             "m_sortOrder": 2,
             "m_gameModeButtonState": "ADVENTURE",
             "m_linkedScene": "ADVENTURE",
+            "m_showAsNewEvent": 164,
+            "m_showAsEarlyAccessEvent": -1,
+            "m_showAsBetaEvent": -1,
+            "m_featureUnlockId": 0,
+            "m_featureUnlockId2": 0
+        },
+        {
+            "m_ID": 8,
+            "m_noteDesc": "Tavern Brawl",
+            "m_modeKey": 1,
+            "m_event": 203,
+            "m_name": {
+                "m_locValues": [
+                    "Tavern Brawl",
+                    "Kartenchaos",
+                    "Pelea de taberna",
+                    "Gresca de la taberna",
+                    "Bras de fer",
+                    "Rissa",
+                    "酒場の喧嘩",
+                    "선술집 난투",
+                    "Karczemna bójka",
+                    "Contenda de Taverna",
+                    "Потасовка",
+                    "ท้าประลอง",
+                    "乱斗模式",
+                    "旅店大亂鬥"
+                ],
+                "m_locId": 2763442
+            },
+            "m_description": {
+                "m_locValues": [
+                    "Play a new challenge on a weekly basis!",
+                    "Meistert jede Woche eine neue Herausforderung!",
+                    "¡Juega un nuevo desafío cada semana!",
+                    "¡Juega un nuevo desafío todas las semanas!",
+                    "Découvrez un nouveau défi chaque semaine !",
+                    "Affronta una nuova sfida ogni settimana!",
+                    "週替わりの愉快な特別ルールで対戦しよう！",
+                    "매주마다 새로운 규칙으로 게임을 합니다!",
+                    "Podejmuj cotygodniowe wyzwania!",
+                    "Jogue um novo desafio toda semana!",
+                    "Новое испытание каждую неделю!",
+                    "แข่งขันในเกมท้าทาย[b]รูปแบบใหม่ๆ_ทุกสัปดาห์",
+                    "每个星期都会有新的挑战！",
+                    "每週進行全新的挑戰！"
+                ],
+                "m_locId": 2763443
+            },
+            "m_sortOrder": 1,
+            "m_gameModeButtonState": "TAVERNBRAWL",
+            "m_linkedScene": "TAVERN_BRAWL",
             "m_showAsNewEvent": 164,
             "m_showAsEarlyAccessEvent": -1,
             "m_showAsBetaEvent": -1,
