@@ -63,110 +63,6 @@
             "m_featureUnlockId2": 0
         },
         {
-            "m_ID": 12,
-            "m_noteDesc": "Mercenaries",
-            "m_modeKey": 6,
-            "m_event": 203,
-            "m_name": {
-                "m_locValues": [
-                    "Mercenaries",
-                    "Söldner",
-                    "Mercenarios",
-                    "Mercenarios",
-                    "Mercenaires",
-                    "Mercenari",
-                    "マーセナリーズ",
-                    "용병단",
-                    "Najemnicy",
-                    "Mercenários",
-                    "Наемники",
-                    "ทหารรับจ้าง",
-                    "佣兵战纪",
-                    "傭兵戰隊"
-                ],
-                "m_locId": 2874844
-            },
-            "m_description": {
-                "m_locValues": [
-                    "Build and level up a party of Mercenaries as you battle for bounties and glory!",
-                    "Stellt ein Team von Söldnern auf und bildet es in Kämpfen um Kopfgelder und Ruhm aus!",
-                    "¡Forma un grupo de mercenarios y sube de nivel luchando por el botín y la gloria!",
-                    "¡Forma un grupo de Mercenarios y súbelos de nivel mientras luchas por contratos y gloria!",
-                    "Formez un groupe de mercenaires et faites-les monter en niveau en combattant pour la gloire et la richesse !",
-                    "Forma e potenzia un gruppo di Mercenari mentre vai a caccia di taglie e di gloria!",
-                    "傭兵団を作ってレベルアップさせ、賞金と栄光のために戦おう！",
-                    "용병단을 꾸리고 레벨을 올려 전리품과 영광을 손에 넣으세요!",
-                    "Stwórz i rozwijaj drużynę najemników, walcząc o nagrody i chwałę!",
-                    "Monte uma equipe de Mercenários para subir de nível enfrentando batalhas por recompensas e glória!",
-                    "Собирайте и развивайте отряд наемников, сражаясь за награды и славу!",
-                    "สร้างปาร์ตี้[b]ทหาร[b]รับจ้าง[b]และ[b]เพิ่ม[b]เลเวล[b]แล้ว[b]ต่อสู้[b]เพื่อ[b]คว้า[b]รางวัล[b]และ[b]เกียรติยศ!",
-                    "组建一支佣兵队伍，提升等级，为悬赏和荣耀而战！",
-                    "一邊建立與升級傭兵戰隊，一邊為了獎賞和榮耀戰鬥吧！"
-                ],
-                "m_locId": 2874845
-            },
-            "m_sortOrder": 3,
-            "m_gameModeButtonState": "MERCENARIES",
-            "m_linkedScene": "LETTUCE_VILLAGE",
-            "m_showAsNewEvent": 164,
-            "m_showAsEarlyAccessEvent": -1,
-            "m_showAsBetaEvent": -1,
-            "m_featureUnlockId": 0,
-            "m_featureUnlockId2": 0
-        },
-        {
-            "m_ID": 3,
-            "m_noteDesc": "PvP Dungeon Run",
-            "m_modeKey": 5,
-            "m_event": 164,
-            "m_name": {
-                "m_locValues": [
-                    "Duels",
-                    "Duelle",
-                    "Duelos",
-                    "Duelos",
-                    "Duels",
-                    "Duelli",
-                    "デュエル",
-                    "결투",
-                    "Starcia",
-                    "Duelos",
-                    "Дуэли",
-                    "ดวลเดือด",
-                    "对决模式",
-                    "決鬥擂台"
-                ],
-                "m_locId": 2727279
-            },
-            "m_description": {
-                "m_locValues": [
-                    "Grow your deck. Collect treasures. Win duels!",
-                    "Erweitert Euer Deck. Sammelt Schätze. Gewinnt Duelle!",
-                    "Amplía tu mazo, reúne tesoros ¡y gana duelos!",
-                    "Perfecciona tu mazo. Reúne tesoros. ¡Gana duelos!",
-                    "Étoffez votre deck. Obtenez des trésors. Remportez des duels !",
-                    "Fai crescere il tuo mazzo, colleziona i Tesori, vinci i Duelli!",
-                    "デッキを育てて、宝物を集めて、デュエルに勝とう！",
-                    "덱을 보강하고, 보물을 모으고, 결투에서 승리하세요!",
-                    "Rozwijaj talię. Gromadź skarby. Wygrywaj starcia!",
-                    "Construa seu deck. Receba tesouros. Vença duelos! ",
-                    "Расширяйте колоду, собирайте сокровища, побеждайте в дуэлях!",
-                    "พัฒนาเด็ค รวบรวมสมบัติ พิชิตการดวลเดือด!",
-                    "丰富你的套牌，收集强大宝藏，赢得最终对决！",
-                    "擴充套牌、收集寶藏，打贏決鬥！"
-                ],
-                "m_locId": 2727280
-            },
-            "m_sortOrder": 3,
-            "m_gameModeButtonState": "PVPDR",
-            "m_linkedScene": "PVP_DUNGEON_RUN",
-            "m_showAsNewEvent": 164,
-            "m_showAsEarlyAccessEvent": 10000502,
-            "m_showAsBetaEvent": 10000503,
-            "m_featureUnlockId": 10,
-            "m_featureUnlockId2": 11
-        },
-        {
             "m_ID": 6,
             "m_noteDesc": "Solo Adventures",
             "m_modeKey": 4,
@@ -264,6 +160,110 @@
             "m_sortOrder": 1,
             "m_gameModeButtonState": "TAVERNBRAWL",
             "m_linkedScene": "TAVERN_BRAWL",
+            "m_showAsNewEvent": 164,
+            "m_showAsEarlyAccessEvent": -1,
+            "m_showAsBetaEvent": -1,
+            "m_featureUnlockId": 0,
+            "m_featureUnlockId2": 0
+        },
+        {
+            "m_ID": 3,
+            "m_noteDesc": "PvP Dungeon Run",
+            "m_modeKey": 5,
+            "m_event": 164,
+            "m_name": {
+                "m_locValues": [
+                    "Duels",
+                    "Duelle",
+                    "Duelos",
+                    "Duelos",
+                    "Duels",
+                    "Duelli",
+                    "デュエル",
+                    "결투",
+                    "Starcia",
+                    "Duelos",
+                    "Дуэли",
+                    "ดวลเดือด",
+                    "对决模式",
+                    "決鬥擂台"
+                ],
+                "m_locId": 2727279
+            },
+            "m_description": {
+                "m_locValues": [
+                    "Grow your deck. Collect treasures. Win duels!",
+                    "Erweitert Euer Deck. Sammelt Schätze. Gewinnt Duelle!",
+                    "Amplía tu mazo, reúne tesoros ¡y gana duelos!",
+                    "Perfecciona tu mazo. Reúne tesoros. ¡Gana duelos!",
+                    "Étoffez votre deck. Obtenez des trésors. Remportez des duels !",
+                    "Fai crescere il tuo mazzo, colleziona i Tesori, vinci i Duelli!",
+                    "デッキを育てて、宝物を集めて、デュエルに勝とう！",
+                    "덱을 보강하고, 보물을 모으고, 결투에서 승리하세요!",
+                    "Rozwijaj talię. Gromadź skarby. Wygrywaj starcia!",
+                    "Construa seu deck. Receba tesouros. Vença duelos! ",
+                    "Расширяйте колоду, собирайте сокровища, побеждайте в дуэлях!",
+                    "พัฒนาเด็ค รวบรวมสมบัติ พิชิตการดวลเดือด!",
+                    "丰富你的套牌，收集强大宝藏，赢得最终对决！",
+                    "擴充套牌、收集寶藏，打贏決鬥！"
+                ],
+                "m_locId": 2727280
+            },
+            "m_sortOrder": 3,
+            "m_gameModeButtonState": "PVPDR",
+            "m_linkedScene": "PVP_DUNGEON_RUN",
+            "m_showAsNewEvent": 164,
+            "m_showAsEarlyAccessEvent": 10000504,
+            "m_showAsBetaEvent": 10000505,
+            "m_featureUnlockId": 10,
+            "m_featureUnlockId2": 11
+        },
+        {
+            "m_ID": 12,
+            "m_noteDesc": "Mercenaries",
+            "m_modeKey": 6,
+            "m_event": 203,
+            "m_name": {
+                "m_locValues": [
+                    "Mercenaries",
+                    "Söldner",
+                    "Mercenarios",
+                    "Mercenarios",
+                    "Mercenaires",
+                    "Mercenari",
+                    "マーセナリーズ",
+                    "용병단",
+                    "Najemnicy",
+                    "Mercenários",
+                    "Наемники",
+                    "ทหารรับจ้าง",
+                    "佣兵战纪",
+                    "傭兵戰隊"
+                ],
+                "m_locId": 2874844
+            },
+            "m_description": {
+                "m_locValues": [
+                    "Build and level up a party of Mercenaries as you battle for bounties and glory!",
+                    "Stellt ein Team von Söldnern auf und bildet es in Kämpfen um Kopfgelder und Ruhm aus!",
+                    "¡Forma un grupo de mercenarios y sube de nivel luchando por el botín y la gloria!",
+                    "¡Forma un grupo de Mercenarios y súbelos de nivel mientras luchas por contratos y gloria!",
+                    "Formez un groupe de mercenaires et faites-les monter en niveau en combattant pour la gloire et la richesse !",
+                    "Forma e potenzia un gruppo di Mercenari mentre vai a caccia di taglie e di gloria!",
+                    "傭兵団を作ってレベルアップさせ、賞金と栄光のために戦おう！",
+                    "용병단을 꾸리고 레벨을 올려 전리품과 영광을 손에 넣으세요!",
+                    "Stwórz i rozwijaj drużynę najemników, walcząc o nagrody i chwałę!",
+                    "Monte uma equipe de Mercenários para subir de nível enfrentando batalhas por recompensas e glória!",
+                    "Собирайте и развивайте отряд наемников, сражаясь за награды и славу!",
+                    "สร้างปาร์ตี้[b]ทหาร[b]รับจ้าง[b]และ[b]เพิ่ม[b]เลเวล[b]แล้ว[b]ต่อสู้[b]เพื่อ[b]คว้า[b]รางวัล[b]และ[b]เกียรติยศ!",
+                    "组建一支佣兵队伍，提升等级，为悬赏和荣耀而战！",
+                    "一邊建立與升級傭兵戰隊，一邊為了獎賞和榮耀戰鬥吧！"
+                ],
+                "m_locId": 2874845
+            },
+            "m_sortOrder": 3,
+            "m_gameModeButtonState": "MERCENARIES",
+            "m_linkedScene": "LETTUCE_VILLAGE",
             "m_showAsNewEvent": 164,
             "m_showAsEarlyAccessEvent": -1,
             "m_showAsBetaEvent": -1,
