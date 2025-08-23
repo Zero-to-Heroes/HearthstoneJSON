@@ -1516,221 +1516,6 @@
             "m_prefab": "WoodenSign_Paint_SCH.prefab:158b418982a73594eb8b94bcf410e265"
         },
         {
-            "m_ID": 146,
-            "m_noteDesc": "Book of Mercenaries - Dawngrasp is now live",
-            "m_headerText": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_text": {
-                "m_locValues": [
-                    "Dawngrasp is now available in the Book of Mercenaries!",
-                    "Dämmergriff ist jetzt im Buch der Söldner verfügbar!",
-                    "¡Aferralba ya está disponible en el Libro de los Mercenarios!",
-                    "¡Albaciernes ya está disponible en el Libro de Mercenarios!",
-                    "Aubétreinte est désormais disponible dans le Livre des mercenaires !",
-                    "Ghermiluce è disponibile nel Libro dei Mercenari!",
-                    "「傭兵の書：ドーングラスプの章」が公開されたぞ！",
-                    "던그래스프의 이야기가 출시되었습니다!",
-                    "Darzybrzask jest już dostępnu\nw Księdze najemników!",
-                    "Aurafirme já está disponível no Livro dos Mercenários!",
-                    "В «Книге наемников» теперь есть Варден!",
-                    "ดอว์นกราสป์พร้อมให้เล่นแล้วใน\nBook of Mercenaries!",
-                    "晨拥现已在“佣兵之书”中登场！",
-                    "瓦登的傭兵之書開放了！"
-                ],
-                "m_locId": 2835900
-            },
-            "m_prefab": "WoodenSign_Paint_SCH.prefab:158b418982a73594eb8b94bcf410e265"
-        },
-        {
-            "m_ID": 15,
-            "m_noteDesc": "LOE Uldaman is open",
-            "m_headerText": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_text": {
-                "m_locValues": [
-                    "Uldaman is now open!",
-                    "Uldaman ist jetzt offen!",
-                    "¡Uldaman ya está abierto!",
-                    "¡Uldaman ya está abierto!",
-                    "Uldaman est ouvert !",
-                    "Uldaman è ora disponibile!",
-                    "ウルダマンが開いたぞ！",
-                    "울다만이 열렸습니다!",
-                    "Uldaman\njest już otwarty!",
-                    "Uldaman já está aberta!",
-                    "Ульдаман открыт!",
-                    "ขณะนี้อุลดามานเปิดแล้ว!",
-                    "奥达曼现已开放！",
-                    "奧達曼開放了！"
-                ],
-                "m_locId": 21927
-            },
-            "m_prefab": "WoodenSign_Paint_LOE.prefab:1308b6497954006479145da7cac59bf5"
-        },
-        {
-            "m_ID": 16,
-            "m_noteDesc": "LOE The Ruined City is open",
-            "m_headerText": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_text": {
-                "m_locValues": [
-                    "The Ruined City is now open!",
-                    "Die Verfallene Stadt ist jetzt offen!",
-                    "¡La Ciudad en Ruinas ya está abierta!",
-                    "¡Ciudad en ruinas ya está abierta!",
-                    "La ville en ruines est ouverte !",
-                    "La Città Fatiscente\nè ora disponibile!",
-                    "廃墟の都市が開いたぞ！",
-                    "폐허가 된 도시가 열렸습니다!",
-                    "Zrujnowane Miasto\n jest już otwarte!",
-                    "A Cidade Arruinada já está aberta!",
-                    "Разрушенный город открыт!",
-                    "ขณะนี้นครร้างเปิดแล้ว!",
-                    "废墟之城现已开放！",
-                    "古城遺跡開放了！"
-                ],
-                "m_locId": 21928
-            },
-            "m_prefab": "WoodenSign_Paint_LOE.prefab:1308b6497954006479145da7cac59bf5"
-        },
-        {
-            "m_ID": 17,
-            "m_noteDesc": "LOE Hall of Explorers is open",
-            "m_headerText": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_text": {
-                "m_locValues": [
-                    "Hall of Explorers is now open!",
-                    "Die Halle der Forscher ist jetzt offen!",
-                    "¡La Sala de Expedicionarios ya está abierta!",
-                    "¡La Sala de los Expedicionarios ya está abierta!",
-                    "Le hall des Explorateurs est ouvert !",
-                    "Il Salone degli Esploratori\nè ora disponibile!",
-                    "探検家の殿堂が開いたぞ！",
-                    "탐험가의 전당이 열렸습니다!",
-                    "Sala Odkrywców\n jest już otwarta!",
-                    "O Salão dos Exploradores já está aberto!",
-                    "Зал Исследователей открыт!",
-                    "ขณะนี้ห้องโถงแห่งนักสำรวจเปิดแล้ว!",
-                    "探险者大厅现已开放！",
-                    "探險者大廳開放了！"
-                ],
-                "m_locId": 21929
-            },
-            "m_prefab": "WoodenSign_Paint_LOE.prefab:1308b6497954006479145da7cac59bf5"
-        },
-        {
-            "m_ID": 18,
-            "m_noteDesc": "OG is now live",
-            "m_headerText": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_text": {
-                "m_locValues": [
-                    "The Whispers of the Old Gods expansion has launched and is now available!",
-                    "Die Erweiterung „Das Flüstern der Alten Götter“ ist jetzt verfügbar!",
-                    "¡La expansión Susurros de los Dioses Antiguos acaba de estrenarse y ya está disponible!",
-                    "¡Hemos lanzado la expansión Susurros de los Dioses Antiguos y ya está disponible!",
-                    "L’extension Les murmures des Dieux très anciens est maintenant disponible !",
-                    "L'espansione Sussurri degli Dei Antichi è ora disponibile!",
-                    "拡張版「旧神のささやき」が公開されたぞ！",
-                    "고대 신의 속삭임 확장팩이 출시되었습니다!",
-                    "Rozszerzenie Przedwieczni Bogowie jest już dostępne!",
-                    "A expansão Sussurros dos Deuses Antigos foi lançada e já está disponível!",
-                    "Древние боги все-таки пробудились! Покоритесь их силе!",
-                    "ส่วนเสริม Whispers of the Old Gods พร้อมให้เล่นแล้ว!",
-                    "“上古之神的低语”扩展包现已登场！",
-                    "《古神碎碎念》資料片已經上市！"
-                ],
-                "m_locId": 22464
-            },
-            "m_prefab": "WoodenSign_Paint_OG.prefab:ee81c3f7be602467587195de7335697f"
-        },
-        {
             "m_ID": 2,
             "m_noteDesc": "Naxx Plague Quarter is open",
             "m_headerText": {
@@ -2247,6 +2032,49 @@
             "m_prefab": "WoodenSign_Paint_UNG.prefab:883df53ce8155554cb462f2b825fcd23"
         },
         {
+            "m_ID": 146,
+            "m_noteDesc": "Book of Mercenaries - Dawngrasp is now live",
+            "m_headerText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_text": {
+                "m_locValues": [
+                    "Dawngrasp is now available in the Book of Mercenaries!",
+                    "Dämmergriff ist jetzt im Buch der Söldner verfügbar!",
+                    "¡Aferralba ya está disponible en el Libro de los Mercenarios!",
+                    "¡Albaciernes ya está disponible en el Libro de Mercenarios!",
+                    "Aubétreinte est désormais disponible dans le Livre des mercenaires !",
+                    "Ghermiluce è disponibile nel Libro dei Mercenari!",
+                    "「傭兵の書：ドーングラスプの章」が公開されたぞ！",
+                    "던그래스프의 이야기가 출시되었습니다!",
+                    "Darzybrzask jest już dostępnu\nw Księdze najemników!",
+                    "Aurafirme já está disponível no Livro dos Mercenários!",
+                    "В «Книге наемников» теперь есть Варден!",
+                    "ดอว์นกราสป์พร้อมให้เล่นแล้วใน\nBook of Mercenaries!",
+                    "晨拥现已在“佣兵之书”中登场！",
+                    "瓦登的傭兵之書開放了！"
+                ],
+                "m_locId": 2835900
+            },
+            "m_prefab": "WoodenSign_Paint_SCH.prefab:158b418982a73594eb8b94bcf410e265"
+        },
+        {
             "m_ID": 56,
             "m_noteDesc": "The Fire Festival is Live",
             "m_headerText": {
@@ -2290,6 +2118,49 @@
             "m_prefab": "FireFestival_ToastBanner.prefab:f429e55478893454994e091c748aca95"
         },
         {
+            "m_ID": 15,
+            "m_noteDesc": "LOE Uldaman is open",
+            "m_headerText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_text": {
+                "m_locValues": [
+                    "Uldaman is now open!",
+                    "Uldaman ist jetzt offen!",
+                    "¡Uldaman ya está abierto!",
+                    "¡Uldaman ya está abierto!",
+                    "Uldaman est ouvert !",
+                    "Uldaman è ora disponibile!",
+                    "ウルダマンが開いたぞ！",
+                    "울다만이 열렸습니다!",
+                    "Uldaman\njest już otwarty!",
+                    "Uldaman já está aberta!",
+                    "Ульдаман открыт!",
+                    "ขณะนี้อุลดามานเปิดแล้ว!",
+                    "奥达曼现已开放！",
+                    "奧達曼開放了！"
+                ],
+                "m_locId": 21927
+            },
+            "m_prefab": "WoodenSign_Paint_LOE.prefab:1308b6497954006479145da7cac59bf5"
+        },
+        {
             "m_ID": 59,
             "m_noteDesc": "Frozen Throne Prologue/Lower Reaches is open",
             "m_headerText": {
@@ -2331,6 +2202,92 @@
                 "m_locId": 91724
             },
             "m_prefab": "WoodenSign_Paint_ICC.prefab:65c0ac91d97d3c4458b34d7f0ceb2a1f"
+        },
+        {
+            "m_ID": 16,
+            "m_noteDesc": "LOE The Ruined City is open",
+            "m_headerText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_text": {
+                "m_locValues": [
+                    "The Ruined City is now open!",
+                    "Die Verfallene Stadt ist jetzt offen!",
+                    "¡La Ciudad en Ruinas ya está abierta!",
+                    "¡Ciudad en ruinas ya está abierta!",
+                    "La ville en ruines est ouverte !",
+                    "La Città Fatiscente\nè ora disponibile!",
+                    "廃墟の都市が開いたぞ！",
+                    "폐허가 된 도시가 열렸습니다!",
+                    "Zrujnowane Miasto\n jest już otwarte!",
+                    "A Cidade Arruinada já está aberta!",
+                    "Разрушенный город открыт!",
+                    "ขณะนี้นครร้างเปิดแล้ว!",
+                    "废墟之城现已开放！",
+                    "古城遺跡開放了！"
+                ],
+                "m_locId": 21928
+            },
+            "m_prefab": "WoodenSign_Paint_LOE.prefab:1308b6497954006479145da7cac59bf5"
+        },
+        {
+            "m_ID": 17,
+            "m_noteDesc": "LOE Hall of Explorers is open",
+            "m_headerText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_text": {
+                "m_locValues": [
+                    "Hall of Explorers is now open!",
+                    "Die Halle der Forscher ist jetzt offen!",
+                    "¡La Sala de Expedicionarios ya está abierta!",
+                    "¡La Sala de los Expedicionarios ya está abierta!",
+                    "Le hall des Explorateurs est ouvert !",
+                    "Il Salone degli Esploratori\nè ora disponibile!",
+                    "探検家の殿堂が開いたぞ！",
+                    "탐험가의 전당이 열렸습니다!",
+                    "Sala Odkrywców\n jest już otwarta!",
+                    "O Salão dos Exploradores já está aberto!",
+                    "Зал Исследователей открыт!",
+                    "ขณะนี้ห้องโถงแห่งนักสำรวจเปิดแล้ว!",
+                    "探险者大厅现已开放！",
+                    "探險者大廳開放了！"
+                ],
+                "m_locId": 21929
+            },
+            "m_prefab": "WoodenSign_Paint_LOE.prefab:1308b6497954006479145da7cac59bf5"
         },
         {
             "m_ID": 6,
@@ -2419,6 +2376,49 @@
             "m_prefab": "WoodenSign_Paint_ICC.prefab:65c0ac91d97d3c4458b34d7f0ceb2a1f"
         },
         {
+            "m_ID": 18,
+            "m_noteDesc": "OG is now live",
+            "m_headerText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_text": {
+                "m_locValues": [
+                    "The Whispers of the Old Gods expansion has launched and is now available!",
+                    "Die Erweiterung „Das Flüstern der Alten Götter“ ist jetzt verfügbar!",
+                    "¡La expansión Susurros de los Dioses Antiguos acaba de estrenarse y ya está disponible!",
+                    "¡Hemos lanzado la expansión Susurros de los Dioses Antiguos y ya está disponible!",
+                    "L’extension Les murmures des Dieux très anciens est maintenant disponible !",
+                    "L'espansione Sussurri degli Dei Antichi è ora disponibile!",
+                    "拡張版「旧神のささやき」が公開されたぞ！",
+                    "고대 신의 속삭임 확장팩이 출시되었습니다!",
+                    "Rozszerzenie Przedwieczni Bogowie jest już dostępne!",
+                    "A expansão Sussurros dos Deuses Antigos foi lançada e já está disponível!",
+                    "Древние боги все-таки пробудились! Покоритесь их силе!",
+                    "ส่วนเสริม Whispers of the Old Gods พร้อมให้เล่นแล้ว!",
+                    "“上古之神的低语”扩展包现已登场！",
+                    "《古神碎碎念》資料片已經上市！"
+                ],
+                "m_locId": 22464
+            },
+            "m_prefab": "WoodenSign_Paint_OG.prefab:ee81c3f7be602467587195de7335697f"
+        },
+        {
             "m_ID": 61,
             "m_noteDesc": "Frozen Throne final wing is open",
             "m_headerText": {
@@ -2460,135 +2460,6 @@
                 "m_locId": 91726
             },
             "m_prefab": "WoodenSign_Paint_ICC.prefab:65c0ac91d97d3c4458b34d7f0ceb2a1f"
-        },
-        {
-            "m_ID": 62,
-            "m_noteDesc": "Hallow's End arena season is active",
-            "m_headerText": {
-                "m_locValues": [
-                    "Hallow's End is Here",
-                    "Die Schlotternächte haben begonnen!",
-                    "Halloween ha llegado",
-                    "Ha llegado Halloween",
-                    "La Sanssaint a commencé",
-                    "La Veglia delle Ombre è arrivata",
-                    "ハロウェンドがやって来た",
-                    "할로윈이 왔다네",
-                    "Nadeszły Zaduszniki",
-                    "A Noturnália chegou",
-                    "Пришла пора Тыквовина",
-                    "เทศกาลฮอลโลว์สเอนด์",
-                    "万圣节来了",
-                    "萬鬼節到了"
-                ],
-                "m_locId": 94490
-            },
-            "m_text": {
-                "m_locValues": [
-                    "During this special event, you can pick two classes in Arena and draft class cards from both!",
-                    "Während der Schlotternächte könnt Ihr in der Arena zwei Klassen wählen und Euer Deck aus Karten beider Klassen zusammenstellen!",
-                    "¡Durante este evento especial, podrás seleccionar dos clases en la Arena y elegir cartas de ambas!",
-                    "Durante este evento especial, puedes seleccionar dos clases en la Arena y armar un mazo con cartas de ambas clases.",
-                    "Pendant cet évènement spécial, vous pouvez choisir deux classes en Arène et piocher des cartes pour ces deux classes_!",
-                    "Durante questo evento, potrai scegliere due classi in Arena e comporre un mazzo con carte di entrambe!",
-                    "このスペシャルイベント中、闘技場では2つのクラスを選んで、両クラスのカードからドラフトできるんだ！",
-                    "이벤트 기간 동안 투기장에서 두 직업의 카드로 덱을 만들 수 있습니다!",
-                    "Podczas tego specjalnego wydarzenia możesz wybrać dwie klasy na Arenie i korzystać z ich kart klasowych!",
-                    "Durante esse evento especial, você pode selecionar duas classes na Arena e escolher cards das duas!",
-                    "В ходе этого особого события вы можете выбрать на Арене сразу два класса и составить колоду с использованием их классовых карт!",
-                    "ตลอดเทศกาลพิเศษนี้ คุณจะได้เลือกสองคลาสในลานประลองแล้วเลือกการ์ดจากทั้งสองคลาส!",
-                    "在特殊活动期间，你可以在竞技模式中选择两个职业，并用两个职业的卡牌组成套牌！",
-                    "在這次的節慶特殊活動期間，你在競技場裡可以選擇兩個職業，並且選到兩者的職業牌！"
-                ],
-                "m_locId": 94491
-            },
-            "m_prefab": "HallowsEndDialog_started.prefab:39569858db280e14094d661a79673e6d"
-        },
-        {
-            "m_ID": 63,
-            "m_noteDesc": "Kobolds n Catacombs is now live",
-            "m_headerText": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_text": {
-                "m_locValues": [
-                    "The Kobolds & Catacombs expansion is now available!",
-                    "Die Erweiterung „Kobolde & Katakomben“ ist jetzt verfügbar!",
-                    "¡La expansión Kóbolds & Catacumbas ya está disponible!",
-                    "¡La expansión Kóbolds & Catacumbas ya está disponible!",
-                    "L’extension Kobolds et Catacombes est maintenant disponible_!",
-                    "L'espansione Coboldi & Catacombe è ora disponibile!",
-                    "拡張版「コボルトと秘宝の迷宮」が公開されたぞ！",
-                    "코볼트와 지하 미궁이 출시되었습니다!",
-                    "Rozszerzenie Koboldy i katakumby jest już dostępne!",
-                    "A expansão Kobolds & Catacumbas já está disponível!",
-                    "Кобольды и катакомбы ждут вас!",
-                    "ส่วนเสริม Kobolds & Catacombs พร้อมให้เล่นแล้ว!",
-                    "“狗头人与地下世界”扩展包现已登场！",
-                    "《狗頭人與地下城》\n資料片已經上市！"
-                ],
-                "m_locId": 96562
-            },
-            "m_prefab": "WoodenSign_Paint_LOOT.prefab:c1f1a158f539ad3428175ebcd948f138"
-        },
-        {
-            "m_ID": 64,
-            "m_noteDesc": "The Witchwood is now live",
-            "m_headerText": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_text": {
-                "m_locValues": [
-                    "The Witchwood expansion is now available!",
-                    "Die Erweiterung „Der Hexenwald“ ist jetzt verfügbar!",
-                    "¡La expansión El Bosque Embrujado ya está disponible!",
-                    "¡La expansión del Bosque Embrujado ya está disponible!",
-                    "L’extension Le Bois Maudit est maintenant disponible_!",
-                    "L'espansione Boscotetro è ora disponibile!",
-                    "拡張版「妖の森ウィッチウッド」が公開されたぞ！",
-                    "마녀숲이 출시되었습니다!",
-                    "Rozszerzenie Wiedźmi Las jest już dostępne!",
-                    "A expansão Bosque das Bruxas já está disponível!",
-                    "Отправляйтесь в Ведьмин лес!",
-                    "ส่วนเสริม The Witchwood พร้อมให้เล่นแล้ว!",
-                    "“女巫森林”扩展包现已\n登场！",
-                    "《黑巫森林》\n資料片已經上市！"
-                ],
-                "m_locId": 2692470
-            },
-            "m_prefab": "WoodenSign_Paint_GIL.prefab:14986b5a1ba41a64c83298c8da14457d"
         },
         {
             "m_ID": 65,
@@ -2634,6 +2505,49 @@
             "m_prefab": "WoodenSign_Paint_GIL.prefab:14986b5a1ba41a64c83298c8da14457d"
         },
         {
+            "m_ID": 62,
+            "m_noteDesc": "Hallow's End arena season is active",
+            "m_headerText": {
+                "m_locValues": [
+                    "Hallow's End is Here",
+                    "Die Schlotternächte haben begonnen!",
+                    "Halloween ha llegado",
+                    "Ha llegado Halloween",
+                    "La Sanssaint a commencé",
+                    "La Veglia delle Ombre è arrivata",
+                    "ハロウェンドがやって来た",
+                    "할로윈이 왔다네",
+                    "Nadeszły Zaduszniki",
+                    "A Noturnália chegou",
+                    "Пришла пора Тыквовина",
+                    "เทศกาลฮอลโลว์สเอนด์",
+                    "万圣节来了",
+                    "萬鬼節到了"
+                ],
+                "m_locId": 94490
+            },
+            "m_text": {
+                "m_locValues": [
+                    "During this special event, you can pick two classes in Arena and draft class cards from both!",
+                    "Während der Schlotternächte könnt Ihr in der Arena zwei Klassen wählen und Euer Deck aus Karten beider Klassen zusammenstellen!",
+                    "¡Durante este evento especial, podrás seleccionar dos clases en la Arena y elegir cartas de ambas!",
+                    "Durante este evento especial, puedes seleccionar dos clases en la Arena y armar un mazo con cartas de ambas clases.",
+                    "Pendant cet évènement spécial, vous pouvez choisir deux classes en Arène et piocher des cartes pour ces deux classes_!",
+                    "Durante questo evento, potrai scegliere due classi in Arena e comporre un mazzo con carte di entrambe!",
+                    "このスペシャルイベント中、闘技場では2つのクラスを選んで、両クラスのカードからドラフトできるんだ！",
+                    "이벤트 기간 동안 투기장에서 두 직업의 카드로 덱을 만들 수 있습니다!",
+                    "Podczas tego specjalnego wydarzenia możesz wybrać dwie klasy na Arenie i korzystać z ich kart klasowych!",
+                    "Durante esse evento especial, você pode selecionar duas classes na Arena e escolher cards das duas!",
+                    "В ходе этого особого события вы можете выбрать на Арене сразу два класса и составить колоду с использованием их классовых карт!",
+                    "ตลอดเทศกาลพิเศษนี้ คุณจะได้เลือกสองคลาสในลานประลองแล้วเลือกการ์ดจากทั้งสองคลาส!",
+                    "在特殊活动期间，你可以在竞技模式中选择两个职业，并用两个职业的卡牌组成套牌！",
+                    "在這次的節慶特殊活動期間，你在競技場裡可以選擇兩個職業，並且選到兩者的職業牌！"
+                ],
+                "m_locId": 94491
+            },
+            "m_prefab": "HallowsEndDialog_started.prefab:39569858db280e14094d661a79673e6d"
+        },
+        {
             "m_ID": 7,
             "m_noteDesc": "GvG is now live",
             "m_headerText": {
@@ -2675,6 +2589,49 @@
                 "m_locId": 20871
             },
             "m_prefab": "WoodenSign_Paint_GVG.prefab:2f9dff0f690bcfc4592ad8250bbce604"
+        },
+        {
+            "m_ID": 63,
+            "m_noteDesc": "Kobolds n Catacombs is now live",
+            "m_headerText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_text": {
+                "m_locValues": [
+                    "The Kobolds & Catacombs expansion is now available!",
+                    "Die Erweiterung „Kobolde & Katakomben“ ist jetzt verfügbar!",
+                    "¡La expansión Kóbolds & Catacumbas ya está disponible!",
+                    "¡La expansión Kóbolds & Catacumbas ya está disponible!",
+                    "L’extension Kobolds et Catacombes est maintenant disponible_!",
+                    "L'espansione Coboldi & Catacombe è ora disponibile!",
+                    "拡張版「コボルトと秘宝の迷宮」が公開されたぞ！",
+                    "코볼트와 지하 미궁이 출시되었습니다!",
+                    "Rozszerzenie Koboldy i katakumby jest już dostępne!",
+                    "A expansão Kobolds & Catacumbas já está disponível!",
+                    "Кобольды и катакомбы ждут вас!",
+                    "ส่วนเสริม Kobolds & Catacombs พร้อมให้เล่นแล้ว!",
+                    "“狗头人与地下世界”扩展包现已登场！",
+                    "《狗頭人與地下城》\n資料片已經上市！"
+                ],
+                "m_locId": 96562
+            },
+            "m_prefab": "WoodenSign_Paint_LOOT.prefab:c1f1a158f539ad3428175ebcd948f138"
         },
         {
             "m_ID": 71,
@@ -2720,6 +2677,49 @@
             "m_prefab": "TavernsOfTimeDialog_started.prefab:83eef519320dc414d904669e922a03d0"
         },
         {
+            "m_ID": 64,
+            "m_noteDesc": "The Witchwood is now live",
+            "m_headerText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_text": {
+                "m_locValues": [
+                    "The Witchwood expansion is now available!",
+                    "Die Erweiterung „Der Hexenwald“ ist jetzt verfügbar!",
+                    "¡La expansión El Bosque Embrujado ya está disponible!",
+                    "¡La expansión del Bosque Embrujado ya está disponible!",
+                    "L’extension Le Bois Maudit est maintenant disponible_!",
+                    "L'espansione Boscotetro è ora disponibile!",
+                    "拡張版「妖の森ウィッチウッド」が公開されたぞ！",
+                    "마녀숲이 출시되었습니다!",
+                    "Rozszerzenie Wiedźmi Las jest już dostępne!",
+                    "A expansão Bosque das Bruxas já está disponível!",
+                    "Отправляйтесь в Ведьмин лес!",
+                    "ส่วนเสริม The Witchwood พร้อมให้เล่นแล้ว!",
+                    "“女巫森林”扩展包现已\n登场！",
+                    "《黑巫森林》\n資料片已經上市！"
+                ],
+                "m_locId": 2692470
+            },
+            "m_prefab": "WoodenSign_Paint_GIL.prefab:14986b5a1ba41a64c83298c8da14457d"
+        },
+        {
             "m_ID": 73,
             "m_noteDesc": "The Boomsday expansion is now live",
             "m_headerText": {
@@ -2761,264 +2761,6 @@
                 "m_locId": 2699833
             },
             "m_prefab": "WoodenSign_Paint_BOT.prefab:642dd8d04e0053c4ca4d8a185a2ef535"
-        },
-        {
-            "m_ID": 74,
-            "m_noteDesc": "The Boomsday adventure is now live",
-            "m_headerText": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_text": {
-                "m_locValues": [
-                    "The Boomsday Project solo adventure is now available!",
-                    "Das Soloabenteuer von Dr. Bumms Geheimlabor ist jetzt verfügbar!",
-                    "¡Ya está disponible El Proyecto Armagebum, una aventura para un solo jugador!",
-                    "¡La aventura para un jugador de Proyecto K-Bum ya está disponible!",
-                    "Le mode aventure du Projet Armageboum est maintenant disponible !",
-                    "L'avventura Operazione Apocalisse è ora disponibile!",
-                    "ソロ・アドベンチャー「博士のメカメカ大作戦」が公開されたぞ！",
-                    "박사 붐의 폭심만만 프로젝트 1인 모험이 열렸습니다!",
-                    "Tryb przygody Projektu Hukatomba jest już dostępny!",
-                    "A aventura solo Projeto Cabum já está disponível!",
-                    "Поучаствуйте в новом бумопомрачительном приключении!",
-                    "การผจญภัยคนเดียว The Boomsday Project พร้อมให้เล่นแล้ว!",
-                    "砰砰计划冒险模式现已登场！",
-                    "爆爆計畫單人冒險篇章\n開放了！"
-                ],
-                "m_locId": 2700380
-            },
-            "m_prefab": "WoodenSign_Paint_BOT.prefab:642dd8d04e0053c4ca4d8a185a2ef535"
-        },
-        {
-            "m_ID": 75,
-            "m_noteDesc": "The Fire Festival v2 is Live",
-            "m_headerText": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_text": {
-                "m_locValues": [
-                    "In celebration, all your quests give Double Gold, INSECT!",
-                    "Zum Fest erhaltet Ihr für Quests doppelt so viel Gold, INSEKT!",
-                    "Para celebrarlo, ¡todas tus misiones otorgarán el doble de oro, INSECTO!",
-                    "Para celebrar, todas tus misiones otorgan el doble de oro, ¡INSECTO!",
-                    "En l’honneur de la fête du Feu, toutes vos quêtes vous font gagner le double d’or, INSECTE !",
-                    "Per festeggiare, tutte le missioni forniranno doppio oro, INSETTO!",
-                    "祭りを祝って、クエストで得られるゴールドが2倍だ、虫ケラ！",
-                    "축제 동안 모든 퀘스트가 골드를 두 배로 준다, 벌레 같은 놈!",
-                    "Z okazji festiwalu wszystkie twoje zadania dają podwójną ilość złota, ROBAKU!",
-                    "Para comemorar, todas as missões dão o Dobro de Ouro, INSETO!",
-                    "В честь праздника за выполнение всех заданий ты получишь вдвое больше золота, НАСЕКОМОЕ!",
-                    "เพื่อเป็นการฉลอง มดปลวกอย่างเจ้าจะได้รับโกลด์จากเควสต์เป็นสองเท่า!",
-                    "节日期间，你所有任务奖励的金币翻倍，欢庆吧，虫子！",
-                    "任務獎勵的金幣全部加倍，慶祝吧，蟲子！"
-                ],
-                "m_locId": 2700475
-            },
-            "m_prefab": "FireFestival_ToastBanner.prefab:f429e55478893454994e091c748aca95"
-        },
-        {
-            "m_ID": 76,
-            "m_noteDesc": "Hallow's End 2018 arena season is active",
-            "m_headerText": {
-                "m_locValues": [
-                    "Hallow's End is Here!",
-                    "Die Schlotternächte haben begonnen!",
-                    "¡Ya es Halloween!",
-                    "¡Ha llegado Halloween!",
-                    "La Sanssaint a commencé",
-                    "La Veglia delle Ombre è arrivata!",
-                    "ハロウェンドがやって来た！",
-                    "할로윈 축제가 시작됐습니다!",
-                    "Nadeszły Zaduszniki!",
-                    "A Noturnália chegou!",
-                    "Пришел Тыквовин!",
-                    "ฮอลโลว์สเอนด์มาถึงแล้ว!",
-                    "万圣节到了！",
-                    "萬鬼節到了！"
-                ],
-                "m_locId": 2703054
-            },
-            "m_text": {
-                "m_locValues": [
-                    "During this special event, you can pick two classes in Arena and draft class cards from both!",
-                    "Während der Schlotternächte könnt Ihr in der Arena zwei Klassen wählen und Euer Deck aus Karten beider Klassen zusammenstellen!",
-                    "¡Durante este evento especial, podrás seleccionar dos clases en la Arena y elegir cartas de ambas!",
-                    "Durante este evento especial, puedes seleccionar dos clases en la Arena y armar un mazo con cartas de ambas clases.",
-                    "Pendant cet évènement spécial, vous pouvez choisir deux classes en Arène et piocher des cartes pour ces deux classes !",
-                    "Durante questo evento, potrai scegliere due classi in Arena e comporre un mazzo con carte di entrambe!",
-                    "このスペシャルイベント中、闘技場では2つのクラスを選んで、両クラスのカードからドラフトできるんだ！",
-                    "이벤트 기간 동안 투기장에서 두 직업의 카드로 덱을 만들 수 있습니다!",
-                    "Podczas tego specjalnego wydarzenia możesz wybrać dwie klasy na Arenie i korzystać z ich kart klasowych!",
-                    "Durante esse evento especial, você pode selecionar duas classes na Arena e escolher cards das duas!",
-                    "В ходе этого особого события вы можете выбрать на Арене сразу два класса и составить колоду с использованием их классовых карт!",
-                    "ตลอดเทศกาลพิเศษนี้ คุณจะได้เลือกสองคลาสในลานประลองแล้วเลือกการ์ดจากทั้งสองคลาส!",
-                    "在特殊活动期间，你可以在竞技模式中选择两个职业，并用两个职业的卡牌组成套牌！",
-                    "在這次的節慶特殊活動期間，你在競技場裡可以選擇兩個職業，並且選到兩者的職業牌！"
-                ],
-                "m_locId": 2703055
-            },
-            "m_prefab": "HallowsEndDialog_started.prefab:39569858db280e14094d661a79673e6d"
-        },
-        {
-            "m_ID": 77,
-            "m_noteDesc": "The Rastakhan's Rumble expansion is now live",
-            "m_headerText": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_text": {
-                "m_locValues": [
-                    "The Rastakhan's Rumble expansion is now available!",
-                    "Die Erweiterung „Rastakhans Rambazamba“ ist jetzt verfügbar!",
-                    "¡La expansión La Arena de Rastakhan ya está disponible!",
-                    "¡La expansión El Reto de Rastakhan ya está disponible!",
-                    "L’extension Les Jeux de Rastakhan est maintenant disponible !",
-                    "L'espansione La sfida di Rastakhan è ora disponibile!",
-                    "拡張版「天下一ヴドゥ祭」が公開されたぞ！",
-                    "라스타칸의 대난투가 출시되었습니다!",
-                    "Rozszerzenie Rozróba Rastakana jest już dostępne!",
-                    "A expansão Ringue do Rastakhan já está disponível!",
-                    "Растахановы игрища начались!",
-                    "ส่วนเสริม Rastakhan's Rumble พร้อมให้เล่นแล้ว!",
-                    "“拉斯塔哈的大乱斗”扩展包现已登场！",
-                    "《拉斯塔哈大混戰》\n資料片已經上市！"
-                ],
-                "m_locId": 2705066
-            },
-            "m_prefab": "WoodenSign_Paint_TRL.prefab:9eaf1b68bb8b74842bd3d7c22aa368ac"
-        },
-        {
-            "m_ID": 78,
-            "m_noteDesc": "The Rastakhan's Rumble adventure is now live",
-            "m_headerText": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_text": {
-                "m_locValues": [
-                    "Rastakhan's Rumble solo adventure is now available!",
-                    "Das Soloabenteuer zu Rastakhans Rambazamba ist jetzt verfügbar!",
-                    "¡La aventura de La Arena de Rastakhan ya está disponible!",
-                    "¡La aventura para un jugador de El Reto de Rastakhan ya está disponible!",
-                    "Le mode aventure des Jeux de Rastakhan est maintenant disponible !",
-                    "L'avventura La sfida di Rastakhan è ora disponibile!",
-                    "「天下一ヴドゥ祭」のソロ・アドベンチャーが公開されたぞ！",
-                    "라스타칸의 대난투 1인 모험이 열렸습니다!",
-                    "Tryb przygody Rozróby Rastakana jest już dostępny!",
-                    "A aventura solo de Ringue do Rastakhan já está disponível!",
-                    "Поучаствуйте в новом приключении «Растахановы игрища»!",
-                    "การผจญภัยคนเดียว Rastakhan's Rumble พร้อมให้เล่นแล้ว!",
-                    "“拉斯塔哈的大乱斗”冒险模式现已登场！",
-                    "拉斯塔哈大混戰\n單人冒險篇章開放了！"
-                ],
-                "m_locId": 2705067
-            },
-            "m_prefab": "WoodenSign_Paint_TRL.prefab:9eaf1b68bb8b74842bd3d7c22aa368ac"
-        },
-        {
-            "m_ID": 79,
-            "m_noteDesc": "dalaran_expansion_banner",
-            "m_headerText": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_text": {
-                "m_locValues": [
-                    "The Rise of Shadows expansion is now available!",
-                    "Die Erweiterung „Verschwörung der Schatten“ ist jetzt verfügbar!",
-                    "¡La expansión El Auge de las Sombras ya está disponible!",
-                    "¡La expansión Ascenso de las Sombras ya está disponible!",
-                    "L’extension L’Éveil des ombres est maintenant disponible !",
-                    "L'espansione L'ascesa delle ombre è ora disponibile!",
-                    "拡張版「爆誕！悪党同盟」が公開されたぞ！",
-                    "어둠의 반격이 출시되었습니다!",
-                    "Rozszerzenie Wyjście z cienia jest już dostępne!",
-                    "A expansão Ascensão das Sombras já está disponível!",
-                    "Возмездие теней начинается!",
-                    "ส่วนเสริม Rise of Shadows พร้อมให้เล่นแล้ว!",
-                    "“暗影崛起”扩展包现已\n登场！",
-                    "《反派大進擊》\n資料片已經上市！"
-                ],
-                "m_locId": 2710389
-            },
-            "m_prefab": "WoodenSign_Paint_DAL.prefab:8a59c6e5188e33844b6910fa552df4a0"
         },
         {
             "m_ID": 8,
@@ -3064,6 +2806,49 @@
             "m_prefab": "WoodenSign_Paint_BRM.prefab:99cf0a6834987804ea66fb844dfb8955"
         },
         {
+            "m_ID": 74,
+            "m_noteDesc": "The Boomsday adventure is now live",
+            "m_headerText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_text": {
+                "m_locValues": [
+                    "The Boomsday Project solo adventure is now available!",
+                    "Das Soloabenteuer von Dr. Bumms Geheimlabor ist jetzt verfügbar!",
+                    "¡Ya está disponible El Proyecto Armagebum, una aventura para un solo jugador!",
+                    "¡La aventura para un jugador de Proyecto K-Bum ya está disponible!",
+                    "Le mode aventure du Projet Armageboum est maintenant disponible !",
+                    "L'avventura Operazione Apocalisse è ora disponibile!",
+                    "ソロ・アドベンチャー「博士のメカメカ大作戦」が公開されたぞ！",
+                    "박사 붐의 폭심만만 프로젝트 1인 모험이 열렸습니다!",
+                    "Tryb przygody Projektu Hukatomba jest już dostępny!",
+                    "A aventura solo Projeto Cabum já está disponível!",
+                    "Поучаствуйте в новом бумопомрачительном приключении!",
+                    "การผจญภัยคนเดียว The Boomsday Project พร้อมให้เล่นแล้ว!",
+                    "砰砰计划冒险模式现已登场！",
+                    "爆爆計畫單人冒險篇章\n開放了！"
+                ],
+                "m_locId": 2700380
+            },
+            "m_prefab": "WoodenSign_Paint_BOT.prefab:642dd8d04e0053c4ca4d8a185a2ef535"
+        },
+        {
             "m_ID": 82,
             "m_noteDesc": "The Great Dalaran Heist Chapter 3 is now live.",
             "m_headerText": {
@@ -3105,6 +2890,49 @@
                 "m_locId": 2710674
             },
             "m_prefab": "WoodenSign_Paint_DAL.prefab:8a59c6e5188e33844b6910fa552df4a0"
+        },
+        {
+            "m_ID": 75,
+            "m_noteDesc": "The Fire Festival v2 is Live",
+            "m_headerText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_text": {
+                "m_locValues": [
+                    "In celebration, all your quests give Double Gold, INSECT!",
+                    "Zum Fest erhaltet Ihr für Quests doppelt so viel Gold, INSEKT!",
+                    "Para celebrarlo, ¡todas tus misiones otorgarán el doble de oro, INSECTO!",
+                    "Para celebrar, todas tus misiones otorgan el doble de oro, ¡INSECTO!",
+                    "En l’honneur de la fête du Feu, toutes vos quêtes vous font gagner le double d’or, INSECTE !",
+                    "Per festeggiare, tutte le missioni forniranno doppio oro, INSETTO!",
+                    "祭りを祝って、クエストで得られるゴールドが2倍だ、虫ケラ！",
+                    "축제 동안 모든 퀘스트가 골드를 두 배로 준다, 벌레 같은 놈!",
+                    "Z okazji festiwalu wszystkie twoje zadania dają podwójną ilość złota, ROBAKU!",
+                    "Para comemorar, todas as missões dão o Dobro de Ouro, INSETO!",
+                    "В честь праздника за выполнение всех заданий ты получишь вдвое больше золота, НАСЕКОМОЕ!",
+                    "เพื่อเป็นการฉลอง มดปลวกอย่างเจ้าจะได้รับโกลด์จากเควสต์เป็นสองเท่า!",
+                    "节日期间，你所有任务奖励的金币翻倍，欢庆吧，虫子！",
+                    "任務獎勵的金幣全部加倍，慶祝吧，蟲子！"
+                ],
+                "m_locId": 2700475
+            },
+            "m_prefab": "FireFestival_ToastBanner.prefab:f429e55478893454994e091c748aca95"
         },
         {
             "m_ID": 83,
@@ -3150,6 +2978,49 @@
             "m_prefab": "WoodenSign_Paint_DAL.prefab:8a59c6e5188e33844b6910fa552df4a0"
         },
         {
+            "m_ID": 76,
+            "m_noteDesc": "Hallow's End 2018 arena season is active",
+            "m_headerText": {
+                "m_locValues": [
+                    "Hallow's End is Here!",
+                    "Die Schlotternächte haben begonnen!",
+                    "¡Ya es Halloween!",
+                    "¡Ha llegado Halloween!",
+                    "La Sanssaint a commencé",
+                    "La Veglia delle Ombre è arrivata!",
+                    "ハロウェンドがやって来た！",
+                    "할로윈 축제가 시작됐습니다!",
+                    "Nadeszły Zaduszniki!",
+                    "A Noturnália chegou!",
+                    "Пришел Тыквовин!",
+                    "ฮอลโลว์สเอนด์มาถึงแล้ว!",
+                    "万圣节到了！",
+                    "萬鬼節到了！"
+                ],
+                "m_locId": 2703054
+            },
+            "m_text": {
+                "m_locValues": [
+                    "During this special event, you can pick two classes in Arena and draft class cards from both!",
+                    "Während der Schlotternächte könnt Ihr in der Arena zwei Klassen wählen und Euer Deck aus Karten beider Klassen zusammenstellen!",
+                    "¡Durante este evento especial, podrás seleccionar dos clases en la Arena y elegir cartas de ambas!",
+                    "Durante este evento especial, puedes seleccionar dos clases en la Arena y armar un mazo con cartas de ambas clases.",
+                    "Pendant cet évènement spécial, vous pouvez choisir deux classes en Arène et piocher des cartes pour ces deux classes !",
+                    "Durante questo evento, potrai scegliere due classi in Arena e comporre un mazzo con carte di entrambe!",
+                    "このスペシャルイベント中、闘技場では2つのクラスを選んで、両クラスのカードからドラフトできるんだ！",
+                    "이벤트 기간 동안 투기장에서 두 직업의 카드로 덱을 만들 수 있습니다!",
+                    "Podczas tego specjalnego wydarzenia możesz wybrać dwie klasy na Arenie i korzystać z ich kart klasowych!",
+                    "Durante esse evento especial, você pode selecionar duas classes na Arena e escolher cards das duas!",
+                    "В ходе этого особого события вы можете выбрать на Арене сразу два класса и составить колоду с использованием их классовых карт!",
+                    "ตลอดเทศกาลพิเศษนี้ คุณจะได้เลือกสองคลาสในลานประลองแล้วเลือกการ์ดจากทั้งสองคลาส!",
+                    "在特殊活动期间，你可以在竞技模式中选择两个职业，并用两个职业的卡牌组成套牌！",
+                    "在這次的節慶特殊活動期間，你在競技場裡可以選擇兩個職業，並且選到兩者的職業牌！"
+                ],
+                "m_locId": 2703055
+            },
+            "m_prefab": "HallowsEndDialog_started.prefab:39569858db280e14094d661a79673e6d"
+        },
+        {
             "m_ID": 84,
             "m_noteDesc": "The Great Dalaran Heist Chapter 5 is now live.",
             "m_headerText": {
@@ -3191,6 +3062,49 @@
                 "m_locId": 2710676
             },
             "m_prefab": "WoodenSign_Paint_DAL.prefab:8a59c6e5188e33844b6910fa552df4a0"
+        },
+        {
+            "m_ID": 77,
+            "m_noteDesc": "The Rastakhan's Rumble expansion is now live",
+            "m_headerText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_text": {
+                "m_locValues": [
+                    "The Rastakhan's Rumble expansion is now available!",
+                    "Die Erweiterung „Rastakhans Rambazamba“ ist jetzt verfügbar!",
+                    "¡La expansión La Arena de Rastakhan ya está disponible!",
+                    "¡La expansión El Reto de Rastakhan ya está disponible!",
+                    "L’extension Les Jeux de Rastakhan est maintenant disponible !",
+                    "L'espansione La sfida di Rastakhan è ora disponibile!",
+                    "拡張版「天下一ヴドゥ祭」が公開されたぞ！",
+                    "라스타칸의 대난투가 출시되었습니다!",
+                    "Rozszerzenie Rozróba Rastakana jest już dostępne!",
+                    "A expansão Ringue do Rastakhan já está disponível!",
+                    "Растахановы игрища начались!",
+                    "ส่วนเสริม Rastakhan's Rumble พร้อมให้เล่นแล้ว!",
+                    "“拉斯塔哈的大乱斗”扩展包现已登场！",
+                    "《拉斯塔哈大混戰》\n資料片已經上市！"
+                ],
+                "m_locId": 2705066
+            },
+            "m_prefab": "WoodenSign_Paint_TRL.prefab:9eaf1b68bb8b74842bd3d7c22aa368ac"
         },
         {
             "m_ID": 85,
@@ -3236,6 +3150,49 @@
             "m_prefab": "WoodenSign_Paint_DAL.prefab:8a59c6e5188e33844b6910fa552df4a0"
         },
         {
+            "m_ID": 78,
+            "m_noteDesc": "The Rastakhan's Rumble adventure is now live",
+            "m_headerText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_text": {
+                "m_locValues": [
+                    "Rastakhan's Rumble solo adventure is now available!",
+                    "Das Soloabenteuer zu Rastakhans Rambazamba ist jetzt verfügbar!",
+                    "¡La aventura de La Arena de Rastakhan ya está disponible!",
+                    "¡La aventura para un jugador de El Reto de Rastakhan ya está disponible!",
+                    "Le mode aventure des Jeux de Rastakhan est maintenant disponible !",
+                    "L'avventura La sfida di Rastakhan è ora disponibile!",
+                    "「天下一ヴドゥ祭」のソロ・アドベンチャーが公開されたぞ！",
+                    "라스타칸의 대난투 1인 모험이 열렸습니다!",
+                    "Tryb przygody Rozróby Rastakana jest już dostępny!",
+                    "A aventura solo de Ringue do Rastakhan já está disponível!",
+                    "Поучаствуйте в новом приключении «Растахановы игрища»!",
+                    "การผจญภัยคนเดียว Rastakhan's Rumble พร้อมให้เล่นแล้ว!",
+                    "“拉斯塔哈的大乱斗”冒险模式现已登场！",
+                    "拉斯塔哈大混戰\n單人冒險篇章開放了！"
+                ],
+                "m_locId": 2705067
+            },
+            "m_prefab": "WoodenSign_Paint_TRL.prefab:9eaf1b68bb8b74842bd3d7c22aa368ac"
+        },
+        {
             "m_ID": 9,
             "m_noteDesc": "BRM Molten Core is open",
             "m_headerText": {
@@ -3279,6 +3236,49 @@
             "m_prefab": "WoodenSign_Paint_BRM.prefab:99cf0a6834987804ea66fb844dfb8955"
         },
         {
+            "m_ID": 79,
+            "m_noteDesc": "dalaran_expansion_banner",
+            "m_headerText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_text": {
+                "m_locValues": [
+                    "The Rise of Shadows expansion is now available!",
+                    "Die Erweiterung „Verschwörung der Schatten“ ist jetzt verfügbar!",
+                    "¡La expansión El Auge de las Sombras ya está disponible!",
+                    "¡La expansión Ascenso de las Sombras ya está disponible!",
+                    "L’extension L’Éveil des ombres est maintenant disponible !",
+                    "L'espansione L'ascesa delle ombre è ora disponibile!",
+                    "拡張版「爆誕！悪党同盟」が公開されたぞ！",
+                    "어둠의 반격이 출시되었습니다!",
+                    "Rozszerzenie Wyjście z cienia jest już dostępne!",
+                    "A expansão Ascensão das Sombras já está disponível!",
+                    "Возмездие теней начинается!",
+                    "ส่วนเสริม Rise of Shadows พร้อมให้เล่นแล้ว!",
+                    "“暗影崛起”扩展包现已\n登场！",
+                    "《反派大進擊》\n資料片已經上市！"
+                ],
+                "m_locId": 2710389
+            },
+            "m_prefab": "WoodenSign_Paint_DAL.prefab:8a59c6e5188e33844b6910fa552df4a0"
+        },
+        {
             "m_ID": 93,
             "m_noteDesc": "uldum_expansion_banner",
             "m_headerText": {
@@ -3318,135 +3318,6 @@
                     "《奧丹姆守護者》\n資料片已經上市！"
                 ],
                 "m_locId": 2715857
-            },
-            "m_prefab": "WoodenSign_Paint_ULD.prefab:7f29d8d081340d24180472493995104d"
-        },
-        {
-            "m_ID": 94,
-            "m_noteDesc": "Tombs of Terror Chapter 3 is now live.",
-            "m_headerText": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_text": {
-                "m_locValues": [
-                    "The Tombs of Terror\nChapter 3 is now available!",
-                    "Das dritte Kapitel der Gräber des Grauens ist jetzt verfügbar!",
-                    "¡El capítulo 3 de Tumbas del Terror\nya está disponible!",
-                    "¡El capítulo 3 de\nTumbas del Terror ya está disponible!",
-                    "Les Tombes de la Terreur\nLe chapitre III est désormais disponible !",
-                    "Il Capitolo III di Tombe del Terrore\nè ora disponibile!",
-                    "恐怖の遺産\n第III章が公開されたぞ！",
-                    "공포의 무덤\n제3장이 열렸습니다!",
-                    "Rozdział 3\nGrobowców grozy jest już dostępny!",
-                    "Já está disponível o Capítulo 3\nde Tumbas do Terror!",
-                    "Гробницы ужаса\nГлава III ждет смельчаков!",
-                    "The Tombs of Terror\nบทที่ 3 เปิดให้เล่นแล้ว!",
-                    "古墓惊魂\n第三章现已登场！",
-                    "探險奇兵\n第三章開放了！"
-                ],
-                "m_locId": 2716177
-            },
-            "m_prefab": "WoodenSign_Paint_ULD.prefab:7f29d8d081340d24180472493995104d"
-        },
-        {
-            "m_ID": 95,
-            "m_noteDesc": "Tombs of Terror Chapter 4 and Finale are now live.",
-            "m_headerText": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_text": {
-                "m_locValues": [
-                    "The Tombs of Terror\nChapter 4 and Finale are now available!",
-                    "Das vierte Kapitel und das Finale der Gräber des Grauens sind jetzt verfügbar!",
-                    "¡El capítulo 4 y el desenlace de Tumbas del Terror\nya están disponibles!",
-                    "¡El capítulo 4 y el final de\nTumbas del Terror ya están disponibles!",
-                    "Les Tombes de la Terreur\nLe chapitre IV et le chapitre final sont désormais disponibles !",
-                    "Il Capitolo IV e il gran finale\ndi Tombe del Terrore sono ora disponibili!",
-                    "恐怖の遺産\n第IV章および最終章が\n公開されたぞ！",
-                    "공포의 무덤\n제4장과 최종장이 열렸습니다!",
-                    "Rozdział 4 oraz Finał\nGrobowców grozy jest już dostępny!",
-                    "Já estão disponíveis o Capítulo 4\ne o Final de Tumbas do Terror!",
-                    "Гробницы ужаса\nГлава IV и финал ждут смельчаков!",
-                    "The Tombs of Terror\nบทที่ 4 และบทสุดท้ายเปิดให้เล่นแล้ว!",
-                    "古墓惊魂\n第四章及最终决战现已登场！",
-                    "探險奇兵\n第四章與第五章開放了！"
-                ],
-                "m_locId": 2716178
-            },
-            "m_prefab": "WoodenSign_Paint_ULD.prefab:7f29d8d081340d24180472493995104d"
-        },
-        {
-            "m_ID": 96,
-            "m_noteDesc": "Tombs of Terror solo adventure is now live.",
-            "m_headerText": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_text": {
-                "m_locValues": [
-                    "The Tombs of Terror\nsolo adventure is now available!",
-                    "Das Soloabenteuer „Gräber des Grauens“ ist jetzt verfügbar!",
-                    "¡Ya está disponible Tumbas del Terror, una aventura para un solo jugador!",
-                    "¡La aventura para un jugador\nTumbas del Terror ya está disponible!",
-                    "Les Tombes de la Terreur\nLe mode aventure est désormais disponible !",
-                    "L'avventura in solitaria\nTombe del Terrore è ora disponibile!",
-                    "ソロ・アドベンチャー\n「恐怖の遺産」が公開されたぞ！",
-                    "공포의 무덤\n1인 모험이 열렸습니다!",
-                    "Grobowce grozy są już\ndostepne w trybie przygody!",
-                    "A aventura solo de\nTumbas do Terror já está disponível!",
-                    "Поучаствуйте в новом приключении\n«Гробницы ужаса»!",
-                    "การผจญภัยคนเดียว The Tombs of Terror\nเปิดให้เล่นแล้ว!",
-                    "古墓惊魂\n冒险模式现已登场！",
-                    "探險奇兵\n單人冒險篇章開放了！"
-                ],
-                "m_locId": 2716179
             },
             "m_prefab": "WoodenSign_Paint_ULD.prefab:7f29d8d081340d24180472493995104d"
         },
@@ -3537,6 +3408,92 @@
             "m_prefab": "WoodenSign_Paint_DRG.prefab:f5ed475231513684dbe46ba68dcbed2e"
         },
         {
+            "m_ID": 94,
+            "m_noteDesc": "Tombs of Terror Chapter 3 is now live.",
+            "m_headerText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_text": {
+                "m_locValues": [
+                    "The Tombs of Terror\nChapter 3 is now available!",
+                    "Das dritte Kapitel der Gräber des Grauens ist jetzt verfügbar!",
+                    "¡El capítulo 3 de Tumbas del Terror\nya está disponible!",
+                    "¡El capítulo 3 de\nTumbas del Terror ya está disponible!",
+                    "Les Tombes de la Terreur\nLe chapitre III est désormais disponible !",
+                    "Il Capitolo III di Tombe del Terrore\nè ora disponibile!",
+                    "恐怖の遺産\n第III章が公開されたぞ！",
+                    "공포의 무덤\n제3장이 열렸습니다!",
+                    "Rozdział 3\nGrobowców grozy jest już dostępny!",
+                    "Já está disponível o Capítulo 3\nde Tumbas do Terror!",
+                    "Гробницы ужаса\nГлава III ждет смельчаков!",
+                    "The Tombs of Terror\nบทที่ 3 เปิดให้เล่นแล้ว!",
+                    "古墓惊魂\n第三章现已登场！",
+                    "探險奇兵\n第三章開放了！"
+                ],
+                "m_locId": 2716177
+            },
+            "m_prefab": "WoodenSign_Paint_ULD.prefab:7f29d8d081340d24180472493995104d"
+        },
+        {
+            "m_ID": 95,
+            "m_noteDesc": "Tombs of Terror Chapter 4 and Finale are now live.",
+            "m_headerText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_text": {
+                "m_locValues": [
+                    "The Tombs of Terror\nChapter 4 and Finale are now available!",
+                    "Das vierte Kapitel und das Finale der Gräber des Grauens sind jetzt verfügbar!",
+                    "¡El capítulo 4 y el desenlace de Tumbas del Terror\nya están disponibles!",
+                    "¡El capítulo 4 y el final de\nTumbas del Terror ya están disponibles!",
+                    "Les Tombes de la Terreur\nLe chapitre IV et le chapitre final sont désormais disponibles !",
+                    "Il Capitolo IV e il gran finale\ndi Tombe del Terrore sono ora disponibili!",
+                    "恐怖の遺産\n第IV章および最終章が\n公開されたぞ！",
+                    "공포의 무덤\n제4장과 최종장이 열렸습니다!",
+                    "Rozdział 4 oraz Finał\nGrobowców grozy jest już dostępny!",
+                    "Já estão disponíveis o Capítulo 4\ne o Final de Tumbas do Terror!",
+                    "Гробницы ужаса\nГлава IV и финал ждут смельчаков!",
+                    "The Tombs of Terror\nบทที่ 4 และบทสุดท้ายเปิดให้เล่นแล้ว!",
+                    "古墓惊魂\n第四章及最终决战现已登场！",
+                    "探險奇兵\n第四章與第五章開放了！"
+                ],
+                "m_locId": 2716178
+            },
+            "m_prefab": "WoodenSign_Paint_ULD.prefab:7f29d8d081340d24180472493995104d"
+        },
+        {
             "m_ID": 99,
             "m_noteDesc": "Galakrond's Awakening Chapter 2 is now live.",
             "m_headerText": {
@@ -3578,6 +3535,49 @@
                 "m_locId": 2720614
             },
             "m_prefab": "WoodenSign_Paint_DRG.prefab:f5ed475231513684dbe46ba68dcbed2e"
+        },
+        {
+            "m_ID": 96,
+            "m_noteDesc": "Tombs of Terror solo adventure is now live.",
+            "m_headerText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_text": {
+                "m_locValues": [
+                    "The Tombs of Terror\nsolo adventure is now available!",
+                    "Das Soloabenteuer „Gräber des Grauens“ ist jetzt verfügbar!",
+                    "¡Ya está disponible Tumbas del Terror, una aventura para un solo jugador!",
+                    "¡La aventura para un jugador\nTumbas del Terror ya está disponible!",
+                    "Les Tombes de la Terreur\nLe mode aventure est désormais disponible !",
+                    "L'avventura in solitaria\nTombe del Terrore è ora disponibile!",
+                    "ソロ・アドベンチャー\n「恐怖の遺産」が公開されたぞ！",
+                    "공포의 무덤\n1인 모험이 열렸습니다!",
+                    "Grobowce grozy są już\ndostepne w trybie przygody!",
+                    "A aventura solo de\nTumbas do Terror já está disponível!",
+                    "Поучаствуйте в новом приключении\n«Гробницы ужаса»!",
+                    "การผจญภัยคนเดียว The Tombs of Terror\nเปิดให้เล่นแล้ว!",
+                    "古墓惊魂\n冒险模式现已登场！",
+                    "探險奇兵\n單人冒險篇章開放了！"
+                ],
+                "m_locId": 2716179
+            },
+            "m_prefab": "WoodenSign_Paint_ULD.prefab:7f29d8d081340d24180472493995104d"
         }
     ]
 }
