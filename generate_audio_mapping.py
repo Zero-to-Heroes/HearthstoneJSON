@@ -10,7 +10,6 @@ from argparse import ArgumentParser
 from typing import List, cast, Dict
 
 from PIL import Image, ImageOps 
-from pympler import asizeof
 from UnityPy import Environment
 from UnityPy.enums import ClassIDType
 from UnityPy.helpers import TypeTreeHelper
