@@ -11,29 +11,6 @@
     "m_Name": "CARD_ADDITONAL_SEARCH_TERMS",
     "Records": [
         {
-            "m_ID": 11,
-            "m_cardId": 49172,
-            "m_searchTerm": {
-                "m_locValues": [
-                    "emp",
-                    "emp",
-                    "pem",
-                    "pem",
-                    "iem",
-                    "elettromagnetica",
-                    "emp",
-                    "이엠피",
-                    "elektromag",
-                    "pem",
-                    "эмп",
-                    "emp",
-                    "EMP",
-                    "emp"
-                ],
-                "m_locId": 2720374
-            }
-        },
-        {
             "m_ID": 60,
             "m_cardId": 100174,
             "m_searchTerm": {
@@ -54,6 +31,29 @@
                     "死亡之聲"
                 ],
                 "m_locId": 2890687
+            }
+        },
+        {
+            "m_ID": 11,
+            "m_cardId": 49172,
+            "m_searchTerm": {
+                "m_locValues": [
+                    "emp",
+                    "emp",
+                    "pem",
+                    "pem",
+                    "iem",
+                    "elettromagnetica",
+                    "emp",
+                    "이엠피",
+                    "elektromag",
+                    "pem",
+                    "эмп",
+                    "emp",
+                    "EMP",
+                    "emp"
+                ],
+                "m_locId": 2720374
             }
         },
         {
@@ -172,6 +172,29 @@
             }
         },
         {
+            "m_ID": 68,
+            "m_cardId": 104632,
+            "m_searchTerm": {
+                "m_locValues": [
+                    "Deathrattle",
+                    "Todesröcheln",
+                    "Último aliento",
+                    "Estertor",
+                    "Râle d’agonie",
+                    "Rantolo di Morte",
+                    "断末魔",
+                    "죽음의 메아리",
+                    "Agonia",
+                    "Último Suspiro",
+                    "Предсмертный хрип",
+                    "เสียงสุดท้าย",
+                    "亡语",
+                    "死亡之聲"
+                ],
+                "m_locId": 2890979
+            }
+        },
+        {
             "m_ID": 17,
             "m_cardId": 53756,
             "m_searchTerm": {
@@ -241,26 +264,49 @@
             }
         },
         {
-            "m_ID": 68,
-            "m_cardId": 104632,
+            "m_ID": 73,
+            "m_cardId": 106307,
             "m_searchTerm": {
                 "m_locValues": [
-                    "Deathrattle",
-                    "Todesröcheln",
-                    "Último aliento",
-                    "Estertor",
-                    "Râle d’agonie",
-                    "Rantolo di Morte",
-                    "断末魔",
-                    "죽음의 메아리",
-                    "Agonia",
-                    "Último Suspiro",
-                    "Предсмертный хрип",
-                    "เสียงสุดท้าย",
-                    "亡语",
-                    "死亡之聲"
+                    "decor",
+                    "Deko",
+                    "adorno",
+                    "decoración",
+                    "décor",
+                    "decorazione",
+                    "霜色の装飾",
+                    "장식",
+                    "dekoracja",
+                    "decoração",
+                    "украшение",
+                    "ของตกแต่ง",
+                    "摆件",
+                    "裝飾"
                 ],
-                "m_locId": 2890979
+                "m_locId": 2902303
+            }
+        },
+        {
+            "m_ID": 74,
+            "m_cardId": 106390,
+            "m_searchTerm": {
+                "m_locValues": [
+                    "entree",
+                    "Vorspeise",
+                    "entremés",
+                    "entrada",
+                    "entrée",
+                    "piatto forte",
+                    "アントレ",
+                    "앙트레",
+                    "przystawka",
+                    "entrada",
+                    "закуска",
+                    "อาหารจานหลัก",
+                    "主菜",
+                    "主菜"
+                ],
+                "m_locId": 2902304
             }
         },
         {
@@ -333,52 +379,6 @@
             }
         },
         {
-            "m_ID": 73,
-            "m_cardId": 106307,
-            "m_searchTerm": {
-                "m_locValues": [
-                    "decor",
-                    "Deko",
-                    "adorno",
-                    "decoración",
-                    "décor",
-                    "decorazione",
-                    "霜色の装飾",
-                    "장식",
-                    "dekoracja",
-                    "decoração",
-                    "украшение",
-                    "ของตกแต่ง",
-                    "摆件",
-                    "裝飾"
-                ],
-                "m_locId": 2902303
-            }
-        },
-        {
-            "m_ID": 74,
-            "m_cardId": 106390,
-            "m_searchTerm": {
-                "m_locValues": [
-                    "entree",
-                    "Vorspeise",
-                    "entremés",
-                    "entrada",
-                    "entrée",
-                    "piatto forte",
-                    "アントレ",
-                    "앙트레",
-                    "przystawka",
-                    "entrada",
-                    "закуска",
-                    "อาหารจานหลัก",
-                    "主菜",
-                    "主菜"
-                ],
-                "m_locId": 2902304
-            }
-        },
-        {
             "m_ID": 75,
             "m_cardId": 107923,
             "m_searchTerm": {
@@ -448,6 +448,443 @@
             }
         },
         {
+            "m_ID": 105,
+            "m_cardId": 119432,
+            "m_searchTerm": {
+                "m_locValues": [
+                    "Tiny Rafaam",
+                    "Winziger Rafaam",
+                    "Rafaam Mini",
+                    "Rafaam pequeño",
+                    "Petit Rafaam",
+                    "Piccolo Rafaam",
+                    "ちいさなラファーム",
+                    "작은 라팜",
+                    "Maleńki Rafaam",
+                    "Rafaamzinho",
+                    "Мини-Рафаам",
+                    "ราฟามจิ๋ว",
+                    "小小拉法姆",
+                    "迷你拉法姆"
+                ],
+                "m_locId": 2937006
+            }
+        },
+        {
+            "m_ID": 106,
+            "m_cardId": 119432,
+            "m_searchTerm": {
+                "m_locValues": [
+                    "Green Rafaam",
+                    "Grüner Rafaam",
+                    "Rafaam Verde",
+                    "Rafaam verde",
+                    "Rafaam vert",
+                    "Rafaam Verde",
+                    "緑色のラファーム",
+                    "녹색 라팜",
+                    "Zielony Rafaam",
+                    "Rafaam Verde",
+                    "Зеленый Рафаам",
+                    "ราฟามเขียว",
+                    "绿色拉法姆",
+                    "綠色拉法姆"
+                ],
+                "m_locId": 2937007
+            }
+        },
+        {
+            "m_ID": 107,
+            "m_cardId": 119432,
+            "m_searchTerm": {
+                "m_locValues": [
+                    "Murloc Rafaam",
+                    "Murloc-Rafaam",
+                    "Rafaam Múrloc",
+                    "Rafaam múrloc",
+                    "Rafaam, le Murloc",
+                    "Rafaam Murloc",
+                    "マーロックのラファーム",
+                    "멀록 라팜",
+                    "Rafaam Murlok",
+                    "Rafaam Murloc",
+                    "Рафаам-мурлок",
+                    "ราฟามเมอร์ล็อค",
+                    "鱼人拉法姆",
+                    "魚人拉法姆"
+                ],
+                "m_locId": 2937008
+            }
+        },
+        {
+            "m_ID": 108,
+            "m_cardId": 119432,
+            "m_searchTerm": {
+                "m_locValues": [
+                    "Explorer Rafaam",
+                    "Entdecker Rafaam",
+                    "Rafaam Expedicionario",
+                    "Rafaam expedicionario",
+                    "Rafaam, l’explorateur",
+                    "Rafaam Esploratore",
+                    "探検家ラファーム",
+                    "탐험가 라팜",
+                    "Odkrywca Rafaam",
+                    "Explorador Rafaam",
+                    "Исследователь Рафаам",
+                    "ราฟามนักสำรวจ",
+                    "探险者拉法姆",
+                    "探險者拉法姆"
+                ],
+                "m_locId": 2937009
+            }
+        },
+        {
+            "m_ID": 109,
+            "m_cardId": 119432,
+            "m_searchTerm": {
+                "m_locValues": [
+                    "Warchief Rafaam",
+                    "Kriegshäuptling Rafaam",
+                    "Rafaam Jefe de Guerra",
+                    "Rafaam jefe de guerra",
+                    "Rafaam, le chef de guerre",
+                    "Rafaam Capoguerra",
+                    "戦長ラファーム",
+                    "대족장 라팜",
+                    "Wódz Hordy Rafaam",
+                    "Chefe Guerreiro Rafaam",
+                    "Вождь Рафаам",
+                    "ราฟามผู้นำชนเผ่า",
+                    "大酋长拉法姆",
+                    "大酋長拉法姆"
+                ],
+                "m_locId": 2937010
+            }
+        },
+        {
+            "m_ID": 110,
+            "m_cardId": 119432,
+            "m_searchTerm": {
+                "m_locValues": [
+                    "Calamitous Rafaam",
+                    "Verhängnisvoller Rafaam",
+                    "Rafaam Calamitoso",
+                    "Rafaam calamitoso",
+                    "Rafaam, le calamiteux",
+                    "Rafaam Distruttivo",
+                    "波滅のラファーム",
+                    "재앙의 라팜",
+                    "Zabójczy Rafaam",
+                    "Rafaam Calamitoso",
+                    "Разрушительный Рафаам",
+                    "ราฟามแห่งหายนะ",
+                    "灾异拉法姆",
+                    "災禍拉法姆"
+                ],
+                "m_locId": 2937011
+            }
+        },
+        {
+            "m_ID": 111,
+            "m_cardId": 119432,
+            "m_searchTerm": {
+                "m_locValues": [
+                    "Mindflayer R'faam",
+                    "Gedankenschinder R’faam",
+                    "R'Faam Destripamentes",
+                    "R'faam rompementes",
+                    "R’faam, l’écorcheur d’esprit",
+                    "R'faam Scorticatore di Menti",
+                    "精神剥ぎのラファーム",
+                    "정신파괴자 라팜",
+                    "R'faam, Łupieżca Umysłów",
+                    "Rasgamentes R'faam",
+                    "Пожиратель разума Р'фаам",
+                    "ราฟามไมนด์เฟลเยอร์",
+                    "夺心者拉法姆",
+                    "笞靈者拉法姆"
+                ],
+                "m_locId": 2937012
+            }
+        },
+        {
+            "m_ID": 112,
+            "m_cardId": 119432,
+            "m_searchTerm": {
+                "m_locValues": [
+                    "Giant Rafaam",
+                    "Riesiger Rafaam",
+                    "Rafaam Gigante",
+                    "Rafaam gigante",
+                    "Rafaam géant",
+                    "Rafaam Gigante",
+                    "巨大ラファーム",
+                    "거인 라팜",
+                    "Olbrzymi Rafaam",
+                    "Rafaam Gigante",
+                    "Рафаам-великан",
+                    "ราฟามยักษ์",
+                    "巨人拉法姆",
+                    "巨大拉法姆"
+                ],
+                "m_locId": 2937013
+            }
+        },
+        {
+            "m_ID": 113,
+            "m_cardId": 119432,
+            "m_searchTerm": {
+                "m_locValues": [
+                    "Archmage Rafaam",
+                    "Erzmagier Rafaam",
+                    "Rafaam Archimago",
+                    "Rafaam archimago",
+                    "Rafaam, l’archimage",
+                    "Rafaam Arcimago",
+                    "大魔術師ラファーム",
+                    "대마법사 라팜",
+                    "Arcymag Rafaam",
+                    "Arquimago Rafaam",
+                    "Верховный маг Рафаам",
+                    "อาร์คเมจราฟาม",
+                    "大法师拉法姆",
+                    "大法師拉法姆"
+                ],
+                "m_locId": 2937014
+            }
+        },
+        {
+            "m_ID": 103,
+            "m_cardId": 119451,
+            "m_searchTerm": {
+                "m_locValues": [
+                    "Broll, Blood Fighter",
+                    "Blutkämpfer Broll",
+                    "Broll Luchador de Sangre",
+                    "Broll, Luchador de sangre",
+                    "Broll, combattant du sang",
+                    "Broll, Combattente del Sangue",
+                    "血の戦士ブロール",
+                    "피의 투사 브롤",
+                    "Broll, Wojownik Krwi",
+                    "Broll, Lutador Sangrento",
+                    "Кровавый боец Бролл",
+                    "โบรล นักสู้นองเลือด",
+                    "血斗士布罗尔",
+                    "『鮮血鬥士』布洛"
+                ],
+                "m_locId": 2937004
+            }
+        },
+        {
+            "m_ID": 104,
+            "m_cardId": 119451,
+            "m_searchTerm": {
+                "m_locValues": [
+                    "Valeera, Blood Fighter",
+                    "Blutkämpferin Valeera",
+                    "Valeera Luchadora de Sangre",
+                    "Valeera, Luchadora de sangre",
+                    "Valeera, combattante du sang",
+                    "Valeera, Combattente del Sangue",
+                    "血の戦士ヴァリーラ",
+                    "피의 투사 발리라",
+                    "Valeera, Wojowniczka Krwi",
+                    "Valira, Lutadora Sangrenta",
+                    "Кровавый боец Валира",
+                    "วาลีร่า นักสู้นองเลือด",
+                    "血斗士瓦莉拉",
+                    "『鮮血鬥士』瓦麗拉"
+                ],
+                "m_locId": 2937005
+            }
+        },
+        {
+            "m_ID": 101,
+            "m_cardId": 119524,
+            "m_searchTerm": {
+                "m_locValues": [
+                    "Azure King Malygos",
+                    "Azurkönig Malygos",
+                    "Rey Azur Malygos",
+                    "Rey azur Malygos",
+                    "Malygos, roi azur",
+                    "Re Azzurro Malygos",
+                    "アジュア王マリゴス",
+                    "하늘빛 왕 말리고스",
+                    "Malygos, Lazurowy Król",
+                    "Malygos, Rei Lazúli",
+                    "Лазурный король Малигос",
+                    "ราชาฟ้าครามมาลิกอส",
+                    "碧蓝之王玛里苟斯",
+                    "蒼藍之王瑪里苟斯"
+                ],
+                "m_locId": 2937002
+            }
+        },
+        {
+            "m_ID": 102,
+            "m_cardId": 119524,
+            "m_searchTerm": {
+                "m_locValues": [
+                    "Azure Oathstone",
+                    "Azurblauer Schwurstein",
+                    "Piedra de juramento Azur",
+                    "Piedra de juramento azur",
+                    "Pierre de vœu azur",
+                    "Pietra del Giuramento Azzurra",
+                    "アジュアのオースストーン",
+                    "하늘빛 서약의 돌",
+                    "Lazurowy kamień przysięgi",
+                    "Pedra do Juramento Lazúli",
+                    "Лазурный камень клятвы",
+                    "โอธสโตนฟ้าคราม",
+                    "碧蓝誓言石",
+                    "蒼藍誓言石"
+                ],
+                "m_locId": 2937003
+            }
+        },
+        {
+            "m_ID": 99,
+            "m_cardId": 119643,
+            "m_searchTerm": {
+                "m_locValues": [
+                    "Avatar Form",
+                    "Avatargestalt",
+                    "Forma de avatar",
+                    "Forma de avatar",
+                    "Forme d’avatar",
+                    "Forma Avatar",
+                    "変身・アバター",
+                    "화신 형상",
+                    "Postać awatara",
+                    "Forma de Avatar",
+                    "Облик аватары",
+                    "ร่างอวตาร",
+                    "天神下凡形态",
+                    "化身形態"
+                ],
+                "m_locId": 2937001
+            }
+        },
+        {
+            "m_ID": 97,
+            "m_cardId": 119707,
+            "m_searchTerm": {
+                "m_locValues": [
+                    "Ranger Captain Alleria",
+                    "Hauptmann Alleria",
+                    "Alleria capitana forestal",
+                    "Capitana forestal Alleria",
+                    "Capitaine des forestiers Alleria",
+                    "Alleria Capitana Guardaboschi",
+                    "レンジャー隊長アレリア",
+                    "순찰대장 알레리아",
+                    "Alleria, Kapitanka Tropicieli",
+                    "Capitã-patrulheira Alleria",
+                    "Капитан следопытов Аллерия",
+                    "อัลลีเรีย หัวหน้าหน่วยเรนเจอร์",
+                    "游侠队长奥蕾莉亚",
+                    "遊俠隊長艾蘭里亞"
+                ],
+                "m_locId": 2936999
+            }
+        },
+        {
+            "m_ID": 98,
+            "m_cardId": 119707,
+            "m_searchTerm": {
+                "m_locValues": [
+                    "Ranger Initiate Vereesa",
+                    "Initiandin Vereesa",
+                    "Vereesa iniciada forestal",
+                    "Iniciada forestal Vereesa",
+                    "Recrue des forestiers Vereesa",
+                    "Vereesa Apprendista Guardaboschi",
+                    "レンジャー新隊員ヴェリーサ",
+                    "순찰대 수습생 베리사",
+                    "Vereesa, Nowicjuszka Tropicieli",
+                    "Patrulheira Iniciada Vereesa",
+                    "Посвященный следопыт Вериса",
+                    "เวรีซา เรนเจอร์ทหารใหม่",
+                    "游侠新兵温蕾萨",
+                    "遊俠新兵凡蕾莎"
+                ],
+                "m_locId": 2937000
+            }
+        },
+        {
+            "m_ID": 96,
+            "m_cardId": 119814,
+            "m_searchTerm": {
+                "m_locValues": [
+                    "The Kingslayers",
+                    "Die Königsmörder",
+                    "Matarreyes",
+                    "Las Matarreyes",
+                    "Les Régicides",
+                    "Lame Sterminatrici di Re",
+                    "王殺しの双剣",
+                    "국왕 시해자",
+                    "Królobójcy",
+                    "As Regicidas",
+                    "Убийцы Королей",
+                    "คิงสเลเยอร์ส",
+                    "弑君者",
+                    "弒君之刃"
+                ],
+                "m_locId": 2936998
+            }
+        },
+        {
+            "m_ID": 94,
+            "m_cardId": 119918,
+            "m_searchTerm": {
+                "m_locValues": [
+                    "Gnomish Aura",
+                    "Gnomische Aura",
+                    "Aura gnómica",
+                    "Aura gnómica",
+                    "Aura gnome",
+                    "Aura Gnomesca",
+                    "ノームのオーラ",
+                    "노움의 오라",
+                    "Aura gnomów",
+                    "Aura Gnômica",
+                    "Гномья аура",
+                    "รัศมีของโนม",
+                    "侏儒光环",
+                    "地精光環"
+                ],
+                "m_locId": 2936996
+            }
+        },
+        {
+            "m_ID": 95,
+            "m_cardId": 119918,
+            "m_searchTerm": {
+                "m_locValues": [
+                    "Mekkatorque's Aura",
+                    "Mekkadrills Aura",
+                    "Aura de Mekkatorque",
+                    "Aura de Mekkatorque",
+                    "Aura de Mekkanivelle",
+                    "Aura di Meccatork",
+                    "メカトルクのオーラ",
+                    "멕카토크의 오라",
+                    "Aura Mekanownika",
+                    "Aura de Mekkatorque",
+                    "Аура Меггакрута",
+                    "รัศมีของเมคคาทอร์ค",
+                    "梅卡托克的光环",
+                    "梅卡托克的光環"
+                ],
+                "m_locId": 2936997
+            }
+        },
+        {
             "m_ID": 6,
             "m_cardId": 56223,
             "m_searchTerm": {
@@ -494,6 +931,144 @@
             }
         },
         {
+            "m_ID": 92,
+            "m_cardId": 120060,
+            "m_searchTerm": {
+                "m_locValues": [
+                    "Karazhan the Sanctum",
+                    "Das Sanktum Karazhan",
+                    "Karazhan el Santuario",
+                    "Karazhan, el sagrario",
+                    "Karazhan, le sanctuaire",
+                    "Karazhan, il Luogo Sacro",
+                    "聖域カラザン",
+                    "성소 카라잔",
+                    "Sanktuarium Karazhan",
+                    "Karazhan, o Santuário",
+                    "Святыня Каражан",
+                    "แซงค์ทัมคาราซาน",
+                    "圣地卡拉赞",
+                    "聖所卡拉贊"
+                ],
+                "m_locId": 2936994
+            }
+        },
+        {
+            "m_ID": 93,
+            "m_cardId": 120060,
+            "m_searchTerm": {
+                "m_locValues": [
+                    "Atiesh the Greatstaff",
+                    "Atiesh der Hohestab",
+                    "Gran bastón Atiesh",
+                    "Atiesh, el gran báculo",
+                    "Atiesh le grand bâton",
+                    "Atiesh il Granbastone",
+                    "大杖アティシュ",
+                    "대지팡이 아티쉬",
+                    "Atiesz, Wielki Kostur",
+                    "Atiesh, o Grande Cajado",
+                    "Великий посох Атиеш",
+                    "คทาอาทิเอช",
+                    "圣杖埃提耶什",
+                    "巨杖阿泰絲"
+                ],
+                "m_locId": 2936995
+            }
+        },
+        {
+            "m_ID": 90,
+            "m_cardId": 120074,
+            "m_searchTerm": {
+                "m_locValues": [
+                    "Axe of Cenarius",
+                    "Axt des Cenarius",
+                    "Hacha de Cenarius",
+                    "Hacha de Cenarius",
+                    "Hache de Cénarius",
+                    "Ascia di Cenarius",
+                    "セナリウスの斧",
+                    "세나리우스의 도끼",
+                    "Topór Cenariusa",
+                    "Machado de Cenarius",
+                    "Топор Кенария",
+                    "ขวานเซนาเรียส",
+                    "塞纳留斯之斧",
+                    "塞納留斯之斧"
+                ],
+                "m_locId": 2936992
+            }
+        },
+        {
+            "m_ID": 91,
+            "m_cardId": 120074,
+            "m_searchTerm": {
+                "m_locValues": [
+                    "First Portal to Argus",
+                    "Erstes Portal nach Argus",
+                    "Primer Portal a Argus",
+                    "Primer Portal a Argus",
+                    "Premier portail vers Argus",
+                    "Primo Portale per Argus",
+                    "第一のアルガスへのポータル",
+                    "아르거스로 통하는 첫 번째 차원문",
+                    "Pierwszy portal na Argusa",
+                    "Primeiro Portal para Argus",
+                    "Первый портал на Аргус",
+                    "ประตูมิติแรกสู่อาร์กัส",
+                    "第一道阿古斯传送门",
+                    "第一道阿古斯傳送門"
+                ],
+                "m_locId": 2936993
+            }
+        },
+        {
+            "m_ID": 89,
+            "m_cardId": 120183,
+            "m_searchTerm": {
+                "m_locValues": [
+                    "What Befell Zandalar",
+                    "Zandalars Schicksal",
+                    "Sucesos de Zandalar",
+                    "Lo que fue de Zandalar",
+                    "Calamité de Zandalar",
+                    "Sorte di Zandalar",
+                    "ザンダラーに起きたこと",
+                    "잔달라에 닥친 일",
+                    "Losy Zandalaru",
+                    "O que Acometeu Zandalar",
+                    "Что стало с Зандаларом",
+                    "หายนะของซันดาลาร์",
+                    "赞达拉的惨象",
+                    "贊達拉的命運"
+                ],
+                "m_locId": 2936991
+            }
+        },
+        {
+            "m_ID": 10,
+            "m_cardId": 48542,
+            "m_searchTerm": {
+                "m_locValues": [
+                    "dyno",
+                    "dyno",
+                    "dino",
+                    "dina",
+                    "dyno",
+                    "dino",
+                    "dyno",
+                    "폭격",
+                    "dino",
+                    "dina",
+                    "взрыво",
+                    "ไดโน",
+                    "掷弹",
+                    "dyno"
+                ],
+                "m_locId": 2720373
+            }
+        },
+        {
             "m_ID": 57,
             "m_cardId": 97642,
             "m_searchTerm": {
@@ -537,29 +1112,6 @@
                     "泰坦"
                 ],
                 "m_locId": 2876474
-            }
-        },
-        {
-            "m_ID": 10,
-            "m_cardId": 48542,
-            "m_searchTerm": {
-                "m_locValues": [
-                    "dyno",
-                    "dyno",
-                    "dino",
-                    "dina",
-                    "dyno",
-                    "dino",
-                    "dyno",
-                    "폭격",
-                    "dino",
-                    "dina",
-                    "взрыво",
-                    "ไดโน",
-                    "掷弹",
-                    "dyno"
-                ],
-                "m_locId": 2720373
             }
         }
     ]

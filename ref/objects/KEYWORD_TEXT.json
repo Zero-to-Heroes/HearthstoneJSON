@@ -1607,6 +1607,30 @@
             "m_tooltipInitOrder": 93520
         },
         {
+            "m_ID": 356,
+            "m_noteDesc": "Fabled",
+            "m_tagId": 4085,
+            "m_name": "GLOBAL_KEYWORD_FABLED",
+            "m_text": "GLOBAL_KEYWORD_FABLED_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_FABLED_TEXT",
+            "m_collectionText": "",
+            "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
+            "m_tooltipInitOrder": 9755
+        },
+        {
+            "m_ID": 357,
+            "m_noteDesc": "Fabled+",
+            "m_tagId": 4184,
+            "m_name": "GLOBAL_KEYWORD_FABLEDPLUS",
+            "m_text": "GLOBAL_KEYWORD_FABLEDPLUS_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_FABLEDPLUS_TEXT",
+            "m_collectionText": "",
+            "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
+            "m_tooltipInitOrder": 9756
+        },
+        {
             "m_ID": 358,
             "m_noteDesc": "Elemental Bonus",
             "m_tagId": 4197,
@@ -1665,6 +1689,18 @@
             "m_isCollectionOnly": 0,
             "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 1000
+        },
+        {
+            "m_ID": 371,
+            "m_noteDesc": "Shatter",
+            "m_tagId": 4239,
+            "m_name": "GLOBAL_KEYWORD_SHATTER",
+            "m_text": "GLOBAL_KEYWORD_SHATTER_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_SHATTER_TEXT",
+            "m_collectionText": "",
+            "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
+            "m_tooltipInitOrder": 9800
         },
         {
             "m_ID": 379,

@@ -34143,7 +34143,7 @@
             "m_description": {
                 "m_locValues": [
                     "3x Hearthstone Hero Skins - Libram Aponi, Astral Talanji, Astro Arfus",
-                    "3x Hearthstone-Heldenskins – Aponi der Buchbände, Astrale Talanji, Astro-Arfus",
+                    "3x Hearthstone-Heldenskins – Aponi der Buchbände, Astrale Talanji, Astro-Lichköter",
                     "3x Aspecto de héroe de Hearthstone - Aponi con tratado, Talanji astral, Astro Garraparthas",
                     "3 diseños de héroe de Hearthstone: Aponi de tratado, Talanji astral, Astro Arfus",
                     "Modèles héroïques de Hearthstone : Aponi au libram ×3, Talanji astrale ×3, Arfus, chien de l’espace ×3",
@@ -42903,7 +42903,7 @@
                     "1 комплект «Затерянного города Ун'Горо», 2 случайные обычные карты из последнего дополнения",
                     "1x ซองการ์ด The Lost City of Un'Goro, 2x การ์ดระดับทั่วไปแบบสุ่มจากส่วนเสริมล่าสุด",
                     "1包安戈洛龟途卡牌包，2张最新扩展包的随机普通卡牌",
-                    "1x 《安戈洛迷城》卡牌包、2x 隨機最新資料片普通"
+                    "1x 《安戈洛迷城》卡牌包、2x 隨機最新資料片普通卡牌"
                 ],
                 "m_locId": 2932525
             },
@@ -42957,7 +42957,7 @@
                     "1 комплект «Затерянного города Ун'Горо», 2 случайные редкие карты из последнего дополнения",
                     "1x ซองการ์ด The Lost City of Un'Goro, 2x การ์ดระดับหายากแบบสุ่มจากส่วนเสริมล่าสุด",
                     "1包安戈洛龟途卡牌包，2张最新扩展包的随机稀有卡牌",
-                    "1x 《安戈洛迷城》卡牌包、2x 隨機最新資料片精良"
+                    "1x 《安戈洛迷城》卡牌包、2x 隨機最新資料片精良卡牌"
                 ],
                 "m_locId": 2932526
             },
@@ -42984,7 +42984,7 @@
                     "2 случайные эпические карты из последнего дополнения",
                     "2x การ์ดระดับสุดยอดแบบสุ่มจากส่วนเสริมล่าสุด",
                     "2张最新扩展包的随机史诗卡牌",
-                    "2x 隨機最新資料片史詩"
+                    "2x 隨機最新資料片史詩卡牌"
                 ],
                 "m_locId": 2932527
             },
@@ -43011,7 +43011,7 @@
                     "Облик героя Hearthstone «Кошмарный Заиль»,\n1 случайная легендарная карта из последнего дополнения",
                     "เซลฝันร้าย - สกินฮีโร่ Hearthstone, 1x การ์ดระดับตำนานแบบสุ่มจากส่วนเสริมล่าสุด",
                     "传统对战英雄皮肤 - 梦魇扎尔，1张最新扩展包的随机传说卡牌",
-                    "爐石戰記英雄造型：夢魘札爾、1x 隨機最新資料片傳說金卡"
+                    "爐石戰記英雄造型：夢魘札爾、1x 隨機最新資料片傳說卡牌"
                 ],
                 "m_locId": 2932528
             },
@@ -44159,7 +44159,7 @@
             "m_ID": 2962,
             "m_description": {
                 "m_locValues": [
-                    "Heartsthone Hero Skin - Ysera the Awakened",
+                    "Hearthstone Hero Skin - Ysera the Awakened",
                     "Hearthstone: Heldenskin – Ysera die Erwachte",
                     "Aspecto de héroe de Hearthstone - Ysera la Despierta",
                     "Diseño de heroína de Hearthstone: Ysera la Despierta",
@@ -44168,9 +44168,9 @@
                     "王道用ヒーロースキン - 目覚めしものイセラ",
                     "하스스톤 영웅 스킨 - 깨어난 여왕 이세라",
                     "Skórka bohatera – Ysera Przebudzona",
-                    "Visual de herói de Hearthstone - Ysera, a Desperta",
+                    "Visual de Herói de Hearthstone – Ysera, a Desperta",
                     "Облик героя Hearthstone «Изера Пробудившаяся»",
-                    "สกินฮีโร่ Heartsthone - อิเซร่า ผู้ตื่นจากฝัน",
+                    "สกินฮีโร่ Hearthstone - อิเซร่า ผู้ตื่นจากฝัน",
                     "传统对战英雄皮肤 - 觉醒者伊瑟拉",
                     "爐石戰記英雄造型：『覺醒之龍』伊瑟拉"
                 ],
@@ -44264,6 +44264,114 @@
             "m_locked": 0
         },
         {
+            "m_ID": 2966,
+            "m_description": {
+                "m_locValues": [
+                    "1x Lost City of Un'Goro Pack, 1x Into the Emerald Dream Pack, 1x The Great Dark Beyond Pack",
+                    "1x Packung aus Die Verlorene Stadt Un’Goro, 1x Packung aus Der Smaragdgrüne Traum, 1x Packung aus Die Großen Dunklen Weiten",
+                    "1x sobre de La Ciudad Perdida de Un'Goro, 1x sobre de Camino al Sueño Esmeralda, 1x sobre de La Gran Oscuridad",
+                    "1 paquete de La Ciudad Perdida de Un'Goro, 1 paquete de Hacia el Sueño Esmeralda, 1 paquete de La Gran Oscuridad",
+                    "Paquet de La cité perdue d’Un’Goro ×1, paquet d’Au cœur du Rêve d’émeraude ×1, paquet de La Ténèbre de l’Au-delà ×1",
+                    "1 busta di La Città Perduta di Un'Goro, 1 busta di Nel Sogno di Smeraldo, 1 busta di La Grande Oscurità",
+                    "「ウンゴロ最後の秘境」パックx1、「夢みる大地エメラルド・ドリーム」パックx1、「暗黒宇宙ドラナイ伝」パックx1",
+                    "운고로의 잃어버린 도시 팩 1개, 에메랄드의 꿈 속으로 팩 1개, 끝없는 어둠 팩 1개",
+                    "1 x pakiet Zaginionego miasta Un'Goro, 1 x pakiet W objęciach Szmaragdowego Snu, 1 x pakiet Bezkresnej ciemności",
+                    "1x Pacote de A Cidade Perdida de Un'Goro, 1x Pacote de Rumo ao Sonho Esmeralda, 1x Pacote de Grande Treva Infinita",
+                    "1 комплект «Затерянного города Ун'Горо», 1 комплект «Объятий Изумрудного Сна»,\n1 комплект «Великой Запредельной Тьмы»",
+                    "1x ซองการ์ด The Lost City of Un'Goro, 1x ซองการ์ด Into the Emerald Dream, 1x ซองการ์ด The Great Dark Beyond",
+                    "1包安戈洛龟途卡牌包，1包漫游翡翠梦境卡牌包，1包深暗领域卡牌包",
+                    "1x 《安戈洛迷城》卡牌包、1x 《翡翠夢境》卡牌包、1x 《星外暗界》卡牌包"
+                ],
+                "m_locId": 2934782
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 2967,
+            "m_description": {
+                "m_locValues": [
+                    "1x Across the Timeways Pack, 1x The Lost City of Un'Goro Pack, 1x Into the Emerald Dream Pack",
+                    "1x Packung aus Reise durch die Zeitwege, 1x Packung aus Die Verlorene Stadt Un’Goro, 1x Packung aus Der Smaragdgrüne Traum",
+                    "1x sobre de Los Portales del Tiempo, 1x sobre de La Ciudad Perdida de Un'Goro, 1x sobre de Camino al Sueño Esmeralda",
+                    "1 paquete de A través de los Portales del Tiempo, 1 paquete de La Ciudad Perdida de Un'Goro, 1 paquete de Hacia el Sueño Esmeralda",
+                    "Paquet de Par-delà les voies temporelles ×1, paquet de La cité perdue d’Un’Goro ×1, paquet d’Au cœur du Rêve d’émeraude ×1",
+                    "1 busta di Oltre i Flussi Temporali, 1 busta di La Città Perduta di Un'Goro, 1 busta di Nel Sogno di Smeraldo",
+                    "「タイムウェイの旅人たち」パックx1、「ウンゴロ最後の秘境」パックx1、「夢みる大地エメラルド・ドリーム」パックx1",
+                    "시간의 길 너머로 팩 1개, 운고로의 잃어버린 도시 팩 1개, 에메랄드의 꿈 속으로 팩 1개",
+                    "1 x pakiet Poprzez linie czasu, 1 x pakiet Zaginionego miasta Un'Goro, 1 x pakiet W objęciach Szmaragdowego Snu",
+                    "1x Pacote de Através dos Percursos Temporais, 1x Pacote de A Cidade Perdida de Un'Goro, 1x Pacote de Rumo ao Sonho Esmeralda",
+                    "1 комплект «Сквозь потоки времени», 1 комплект «Затерянного города Ун'Горо», 1 комплект «Объятий Изумрудного Сна»",
+                    "1x ซองการ์ด Across the Timeways, 1x ซองการ์ด The Lost City of Un'Goro, 1x ซองการ์ด Into the Emerald Dream",
+                    "1包穿越时间流卡牌包，1包安戈洛龟途卡牌包，1包漫游翡翠梦境卡牌包",
+                    "1x 《時光特攻隊》卡牌包、1x 《安戈洛迷城》卡牌包、1x 《翡翠夢境》卡牌包"
+                ],
+                "m_locId": 2934783
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 2968,
+            "m_description": {
+                "m_locValues": [
+                    "2x Across the Timeways Pack, 1x Lost City of Un'Goro, 1x Year of the Pegasus Pack",
+                    "2x Packung aus Reise durch die Zeitwege, 1x Packung aus Die Verlorene Stadt Un’Goro, 1x Packung aus dem Jahr des Pegasus",
+                    "2x sobre de Los Portales del Tiempo, 1x sobre de La Ciudad Perdida de Un'Goro, 1x sobre del Año del Pegaso",
+                    "2 paquetes de A través de los Portales del Tiempo, 1 Ciudad Perdida de Un'Goro, 1 paquete de Año del pegaso",
+                    "Paquet de Par-delà les voies temporelles ×2, paquet de La cité perdue d’Un’Goro ×1, paquet de l’année du Pégase ×1",
+                    "2 buste di Oltre i Flussi Temporali, 1 busta di La Città Perduta di Un'Goro, 1 busta dell'Anno del Pegaso",
+                    "「タイムウェイの旅人たち」パックx2、「ウンゴロ最後の秘境」パックx1、「ペガサス年」パックx1",
+                    "시간의 길 너머로 팩 2개, 운고로의 잃어버린 도시 팩 1개, 페가수스의 해 팩 1개",
+                    "2 x pakiet Poprzez linie czasu, 1 x pakiet Zaginionego miasta Un'Goro, 1 x pakiet z Roku Pegaza",
+                    "2x Pacote de Através dos Percursos Temporais, 1x A Cidade Perdida de Un'Goro, 1x Pacote de Ano do Pégaso",
+                    "2 комплекта «Сквозь потоки времени», 1 комплект «Затерянного города Ун'Горо», 1 комплект года Пегаса",
+                    "2x ซองการ์ด Across the Timeways, 1x ซองการ์ด The Lost City of Un'Goro, 1x ซองการ์ดปีแห่งเพกาซัส",
+                    "2包穿越时间流卡牌包，1包安戈洛龟途卡牌包，1包天马年卡牌包",
+                    "2x 《時光特攻隊》卡牌包、1x 《安戈洛迷城》卡牌包、1x 飛馬年卡牌包"
+                ],
+                "m_locId": 2934784
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 2969,
+            "m_description": {
+                "m_locValues": [
+                    "Kirin Tor Kel'thuzad - Hearthstone Hero Skin, 3x Across the Timeways Pack, 2x Year of the Pegasus Pack",
+                    "Hearthstone: Heldenskin – Kel’Thuzad der Kirin Tor, 3x Packung aus Reise durch die Zeitwege, 2x Packung aus dem Jahr des Pegasus",
+                    "Kel'Thuzad del Kirin Tor - Aspecto de héroe de Hearthstone, 3x sobre de Los Portales del Tiempo, 2x sobre del Año del Pegaso",
+                    "Diseño de héroe de Hearthstone: Kel'thuzad del Kirin Tor, 3 paquetes de A través de los Portales del Tiempo, 2 paquetes de Año del pegaso",
+                    "Modèle héroïque de Hearthstone : Kel’Thuzad du Kirin Tor,\npaquet de Par-delà les voies temporelles ×3,\npaquet de l’année du Pégase ×2",
+                    "Modello eroe di Hearthstone - Kel'Thuzad del Kirin Tor, 3 buste di Oltre i Flussi Temporali, 2 buste dell'Anno del Pegaso",
+                    "王道用ヒーロースキン「キリン・トアのケルスザード」、「タイムウェイの旅人たち」パックx3、「ペガサス年」パックx2",
+                    "키린 토 켈투자드 - 하스스톤 영웅 스킨, 시간의 길 너머로 팩 3개, 페가수스의 해 팩 2개",
+                    "Skórka bohatera – Kel'thuzad z Kirin Toru, 3 x pakiet Poprzez linie czasu, 2 x pakiet z Roku Pegaza",
+                    "Kel'Thuzad do Kirin Tor - Visual de Herói de Hearthstone, 3x Pacote de Através dos Percursos Temporais, 2x Pacote de Ano do Pégaso",
+                    "Облик героя Hearthstone «Кел'Тузад из Кирин-Тора», 3 комплекта «Сквозь потоки времени», 2 комплекта года Пегаса",
+                    "เคลธูซาดแห่งคิรินทอร์ - สกินฮีโร่ Hearthstone, 3x ซองการ์ด Across the Timeways, 2x ซองการ์ดปีแห่งเพกาซัส",
+                    "传统对战英雄皮肤 - 肯瑞托的克尔苏加德，3包穿越时间流卡牌包，2包天马年卡牌包",
+                    "爐石戰記英雄造型：祈倫托科爾蘇加德、3x 《時光特攻隊》卡牌包、2x 飛馬年卡牌包"
+                ],
+                "m_locId": 2934785
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
             "m_ID": 297,
             "m_description": {
                 "m_locValues": [
@@ -44287,6 +44395,276 @@
             "m_chooseOne": 0,
             "m_random": 0,
             "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 2970,
+            "m_description": {
+                "m_locValues": [
+                    "1x The Lost City of Un'Goro Pack, 1x Into the Emerald Dream Pack, 1x The Great Dark Beyond Pack",
+                    "1x Packung aus Die Verlorene Stadt Un’Goro, 1x Packung aus Der Smaragdgrüne Traum, 1x Packung aus Die Großen Dunklen Weiten",
+                    "1x sobre de La Ciudad Perdida de Un'Goro, 1x sobre de Camino al Sueño Esmeralda, 1x sobre de La Gran Oscuridad",
+                    "1 paquete de La Ciudad Perdida de Un'Goro, 1 paquete de Hacia el Sueño Esmeralda, 1 paquete de La Gran Oscuridad",
+                    "Paquet de La cité perdue d’Un’Goro ×1, paquet d’Au cœur du Rêve d’émeraude ×1, paquet de La Ténèbre de l’Au-delà ×1",
+                    "1 busta di La Città Perduta di Un'Goro, 1 busta di Nel Sogno di Smeraldo, 1 busta di La Grande Oscurità",
+                    "「ウンゴロ最後の秘境」パックx1、「夢みる大地エメラルド・ドリーム」パックx1、「暗黒宇宙ドラナイ伝」パックx1",
+                    "운고로의 잃어버린 도시 팩 1개, 에메랄드의 꿈 속으로 팩 1개, 끝없는 어둠 팩 1개",
+                    "1 x pakiet Zaginionego miasta Un'Goro, 1 x pakiet W objęciach Szmaragdowego Snu, 1 x pakiet Bezkresnej ciemności",
+                    "1x Pacote de A Cidade Perdida de Un'Goro, 1x Pacote de Rumo ao Sonho Esmeralda, 1x Pacote de Grande Treva Infinita",
+                    "1 комплект «Затерянного города Ун'Горо», 1 комплект «Объятий Изумрудного Сна»,\n1 комплект «Великой Запредельной Тьмы»",
+                    "1x ซองการ์ด The Lost City of Un'Goro, 1x ซองการ์ด Into the Emerald Dream, 1x ซองการ์ด The Great Dark Beyond",
+                    "1包安戈洛龟途卡牌包，1包漫游翡翠梦境卡牌包，1包深暗领域卡牌包",
+                    "1x 《安戈洛迷城》卡牌包、1x 《翡翠夢境》卡牌包、1x 《星外暗界》卡牌包"
+                ],
+                "m_locId": 2934786
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 2971,
+            "m_description": {
+                "m_locValues": [
+                    "1x Across the Timeways Pack, 1x The Lost City of Un'Goro Pack, 1x Into the Emerald Dream Pack",
+                    "1x Packung aus Reise durch die Zeitwege, 1x Packung aus Die Verlorene Stadt Un’Goro, 1x Packung aus Der Smaragdgrüne Traum",
+                    "1x sobre de Los Portales del Tiempo, 1x sobre de La Ciudad Perdida de Un'Goro, 1x sobre de Camino al Sueño Esmeralda",
+                    "1 paquete de A través de los Portales del Tiempo, 1 paquete de La Ciudad Perdida de Un'Goro, 1 paquete de Hacia el Sueño Esmeralda",
+                    "Paquet de Par-delà les voies temporelles ×1, paquet de La cité perdue d’Un’Goro ×1, paquet d’Au cœur du Rêve d’émeraude ×1",
+                    "1 busta di Oltre i Flussi Temporali, 1 busta di La Città Perduta di Un'Goro, 1 busta di Nel Sogno di Smeraldo",
+                    "「タイムウェイの旅人たち」パックx1、「ウンゴロ最後の秘境」パックx1、「夢みる大地エメラルド・ドリーム」パックx1",
+                    "시간의 길 너머로 팩 1개, 운고로의 잃어버린 도시 팩 1개, 에메랄드의 꿈 속으로 팩 1개",
+                    "1 x pakiet Poprzez linie czasu, 1 x pakiet Zaginionego miasta Un'Goro, 1 x pakiet W objęciach Szmaragdowego Snu",
+                    "1x Pacote de Através dos Percursos Temporais, 1x Pacote de A Cidade Perdida de Un'Goro, 1x Pacote de Rumo ao Sonho Esmeralda",
+                    "1 комплект «Сквозь потоки времени», 1 комплект «Затерянного города Ун'Горо», 1 комплект «Объятий Изумрудного Сна»",
+                    "1x ซองการ์ด Across the Timeways, 1x ซองการ์ด The Lost City of Un'Goro, 1x ซองการ์ด Into the Emerald Dream",
+                    "1包穿越时间流卡牌包，1包安戈洛龟途卡牌包，1包漫游翡翠梦境卡牌包",
+                    "1x 《時光特攻隊》卡牌包、1x 《安戈洛迷城》卡牌包、1x 《翡翠夢境》卡牌包"
+                ],
+                "m_locId": 2934787
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 2972,
+            "m_description": {
+                "m_locValues": [
+                    "2x Across the Timeways Pack, 1x The Lost City of Un'Goro Pack, 1x Year of the Pegasus Pack",
+                    "2x Packung aus Reise durch die Zeitwege, 1x Packung aus Die Verlorene Stadt Un’Goro, 1x Packung aus dem Jahr des Pegasus",
+                    "2x sobre de Los Portales del Tiempo, 1x sobre de La Ciudad Perdida de Un'Goro, 1x sobre del Año del Pegaso",
+                    "2 paquetes de A través de los Portales del Tiempo, 1 paquete de La Ciudad Perdida de Un'Goro, 1 paquete de Año del pegaso",
+                    "Paquet de Par-delà les voies temporelles ×2, paquet de La cité perdue d’Un’Goro ×1, paquet de l’année du Pégase ×1",
+                    "2 buste di Oltre i Flussi Temporali, 1 busta di La Città Perduta di Un'Goro, 1 busta dell'Anno del Pegaso",
+                    "「タイムウェイの旅人たち」パックx2、「ウンゴロ最後の秘境」パックx1、「ペガサス年」パックx1",
+                    "시간의 길 너머로 팩 2개, 운고로의 잃어버린 도시 팩 1개, 페가수스의 해 팩 1개",
+                    "2 x pakiet Poprzez linie czasu, 1 x pakiet Zaginionego miasta Un'Goro, 1 x pakiet z Roku Pegaza",
+                    "2x Pacote de Através dos Percursos Temporais, 1x Pacote de A Cidade Perdida de Un'Goro, 1x Pacote de Ano do Pégaso",
+                    "2 комплекта «Сквозь потоки времени», 1 комплект «Затерянного города Ун'Горо», 1 комплект года Пегаса",
+                    "2x ซองการ์ด Across the Timeways, 1x ซองการ์ด The Lost City of Un'Goro, 1x ซองการ์ดปีแห่งเพกาซัส",
+                    "2包穿越时间流卡牌包，1包安戈洛龟途卡牌包，1包天马年卡牌包",
+                    "2x 《時光特攻隊》卡牌包、1x 《安戈洛迷城》卡牌包、1x 飛馬年卡牌包"
+                ],
+                "m_locId": 2934788
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 2973,
+            "m_description": {
+                "m_locValues": [
+                    "Medivh, Master of Doves - Hearthstone Hero Skin, 3x Across the Timeways Pack, 2x Year of the Pegasus Pack",
+                    "Hearthstone: Heldenskin – Medivh, Meister der Tauben, 3x Packung aus Reise durch die Zeitwege, 2x Packung aus dem Jahr des Pegasus",
+                    "Medivh Maestro de Tórtolas - Aspecto de héroe de Hearthstone, 3x sobre de Los Portales del Tiempo, 2x sobre del Año del Pegaso",
+                    "Diseño de héroe de Hearthstone: Medivh, Señor de las palomas, 3 paquetes de A través de los Portales del Tiempo, 2 paquetes de Año del pegaso",
+                    "Modèle héroïque de Hearthstone : Medivh, maître des colombes, paquet de Par-delà les voies temporelles ×3, paquet de l’année du Pégase ×2",
+                    "Modello eroe di Hearthstone - Medivh, Maestro delle Colombe, 3 buste di Oltre i Flussi Temporali, 2 buste dell'Anno del Pegaso",
+                    "王道用ヒーロースキン「鳩の使い手メディヴ」、「タイムウェイの旅人たち」パックx3、「ペガサス年」パックx2",
+                    "비둘기 조련사 메디브 - 하스스톤 영웅 스킨, 시간의 길 너머로 팩 3개, 페가수스의 해 팩 2개",
+                    "Skórka bohatera – Medivh, Władca Gołębi, 3 x pakiet Poprzez linie czasu, 2 x pakiet z Roku Pegaza",
+                    "Medivh, Mestre das Pombas - Visual de Herói de Hearthstone, 3x Pacote de Através dos Percursos Temporais, 2x Pacote de Ano do Pégaso",
+                    "Облик героя Hearthstone «Повелитель голубей Медив», 3 комплекта «Сквозь потоки времени», 2 комплекта года Пегаса",
+                    "เมดิฟห์ เจ้าแห่งพิราบ - สกินฮีโร่ Hearthstone, 3x ซองการ์ด Across the Timeways, 2x ซองการ์ดปีแห่งเพกาซัส",
+                    "传统对战英雄皮肤 - 白鸽圣者麦迪文，3包穿越时间流卡牌包，2包天马年卡牌包",
+                    "爐石戰記英雄造型：聖鴿大師麥迪文、3x 《時光特攻隊》卡牌包、2x 飛馬年卡牌包"
+                ],
+                "m_locId": 2934789
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 2974,
+            "m_description": {
+                "m_locValues": [
+                    "1x Lost City of Un'Goro Pack, 1x Into the Emerald Dream Pack, 1x The Great Dark Beyond Pack",
+                    "1x Packung aus Die Verlorene Stadt Un’Goro, 1x Packung aus Der Smaragdgrüne Traum, 1x Packung aus Die Großen Dunklen Weiten",
+                    "1x sobre de La Ciudad Perdida de Un'Goro, 1x sobre de Camino al Sueño Esmeralda, 1x sobre de La Gran Oscuridad",
+                    "1 paquete de La Ciudad Perdida de Un'Goro, 1 paquete de Hacia el Sueño Esmeralda, 1 paquete de La Gran Oscuridad",
+                    "Paquet de La cité perdue d’Un’Goro ×1, paquet d’Au cœur du Rêve d’émeraude ×1, paquet de La Ténèbre de l’Au-delà ×1",
+                    "1 busta di La Città Perduta di Un'Goro, 1 busta di Nel Sogno di Smeraldo, 1 busta di La Grande Oscurità",
+                    "「ウンゴロ最後の秘境」パックx1、「夢みる大地エメラルド・ドリーム」パックx1、「暗黒宇宙ドラナイ伝」パックx1",
+                    "운고로의 잃어버린 도시 팩 1개, 에메랄드의 꿈 속으로 팩 1개, 끝없는 어둠 팩 1개",
+                    "1 x pakiet Zaginionego miasta Un'Goro, 1 x pakiet W objęciach Szmaragdowego Snu, 1 x pakiet Bezkresnej ciemności",
+                    "1x Pacote de A Cidade Perdida de Un'Goro, 1x Pacote de Rumo ao Sonho Esmeralda, 1x Pacote de Grande Treva Infinita",
+                    "1 комплект «Затерянного города Ун'Горо», 1 комплект «Объятий Изумрудного Сна»,\n1 комплект «Великой Запредельной Тьмы»",
+                    "1x ซองการ์ด The Lost City of Un'Goro, 1x ซองการ์ด Into the Emerald Dream, 1x ซองการ์ด The Great Dark Beyond",
+                    "1包安戈洛龟途卡牌包，1包漫游翡翠梦境卡牌包，1包深暗领域卡牌包",
+                    "1x 《安戈洛迷城》卡牌包、1x 《翡翠夢境》卡牌包、1x 《星外暗界》卡牌包"
+                ],
+                "m_locId": 2934790
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 2975,
+            "m_description": {
+                "m_locValues": [
+                    "1x Across the Timeways Pack, 1x The Lost City of Un'Goro Pack, 1x Into the Emerald Dream Pack",
+                    "1x Packung aus Reise durch die Zeitwege, 1x Packung aus Die Verlorene Stadt Un’Goro, 1x Packung aus Der Smaragdgrüne Traum",
+                    "1x sobre de Los Portales del Tiempo, 1x sobre de La Ciudad Perdida de Un'Goro, 1x sobre de Camino al Sueño Esmeralda",
+                    "1 paquete de A través de los Portales del Tiempo, 1 paquete de La Ciudad Perdida de Un'Goro, 1 paquete de Hacia el Sueño Esmeralda",
+                    "Paquet de Par-delà les voies temporelles ×1, paquet de La cité perdue d’Un’Goro ×1, paquet d’Au cœur du Rêve d’émeraude ×1",
+                    "1 busta di Oltre i Flussi Temporali, 1 busta di La Città Perduta di Un'Goro, 1 busta di Nel Sogno di Smeraldo",
+                    "「タイムウェイの旅人たち」パックx1、「ウンゴロ最後の秘境」パックx1、「夢みる大地エメラルド・ドリーム」パックx1",
+                    "시간의 길 너머로 팩 1개, 운고로의 잃어버린 도시 팩 1개, 에메랄드의 꿈 속으로 팩 1개",
+                    "1 x pakiet Poprzez linie czasu, 1 x pakiet Zaginionego miasta Un'Goro, 1 x pakiet W objęciach Szmaragdowego Snu",
+                    "1x Pacote de Através dos Percursos Temporais, 1x Pacote de A Cidade Perdida de Un'Goro, 1x Pacote de Rumo ao Sonho Esmeralda",
+                    "1 комплект «Сквозь потоки времени», 1 комплект «Затерянного города Ун'Горо», 1 комплект «Объятий Изумрудного Сна»",
+                    "1x ซองการ์ด Across the Timeways, 1x ซองการ์ด The Lost City of Un'Goro, 1x ซองการ์ด Into the Emerald Dream",
+                    "1包穿越时间流卡牌包，1包安戈洛龟途卡牌包，1包漫游翡翠梦境卡牌包",
+                    "1x 《時光特攻隊》卡牌包、1x 《安戈洛迷城》卡牌包、1x 《翡翠夢境》卡牌包"
+                ],
+                "m_locId": 2934791
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 2976,
+            "m_description": {
+                "m_locValues": [
+                    "2x Across the Timeways Pack, 1x Lost City of Un'Goro, 1x Year of the Pegasus Pack",
+                    "2x Packung aus Reise durch die Zeitwege, 1x Packung aus Die Verlorene Stadt Un’Goro, 1x Packung aus dem Jahr des Pegasus",
+                    "2x sobre de Los Portales del Tiempo, 1x sobre de La Ciudad Perdida de Un'Goro, 1x sobre del Año del Pegaso",
+                    "2 paquetes de A través de los Portales del Tiempo, 1 Ciudad Perdida de Un'Goro, 1 paquete de Año del pegaso",
+                    "Paquet de Par-delà les voies temporelles ×2, paquet de La cité perdue d’Un’Goro ×1, paquet de l’année du Pégase ×1",
+                    "2 buste di Oltre i Flussi Temporali, 1 busta di La Città Perduta di Un'Goro, 1 busta dell'Anno del Pegaso",
+                    "「タイムウェイの旅人たち」パックx2、「ウンゴロ最後の秘境」パックx1、「ペガサス年」パックx1",
+                    "시간의 길 너머로 팩 2개, 운고로의 잃어버린 도시 팩 1개, 페가수스의 해 팩 1개",
+                    "2 x pakiet Poprzez linie czasu, 1 x pakiet Zaginionego miasta Un'Goro, 1 x pakiet z Roku Pegaza",
+                    "2x Pacote de Através dos Percursos Temporais, 1x A Cidade Perdida de Un'Goro, 1x Pacote de Ano do Pégaso",
+                    "2 комплекта «Сквозь потоки времени», 1 комплект «Затерянного города Ун'Горо», 1 комплект года Пегаса",
+                    "2x ซองการ์ด Across the Timeways, 1x ซองการ์ด The Lost City of Un'Goro, 1x ซองการ์ดปีแห่งเพกาซัส",
+                    "2包穿越时间流卡牌包，1包安戈洛龟途卡牌包，1包天马年卡牌包",
+                    "2x 《時光特攻隊》卡牌包、1x 《安戈洛迷城》卡牌包、1x 飛馬年卡牌包"
+                ],
+                "m_locId": 2934792
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 2977,
+            "m_description": {
+                "m_locValues": [
+                    "Stormbringer Magni - Hearthstone Hero Skin, 3x Across the Timeways Pack, 2x Year of the Pegasus Pack",
+                    "Hearthstone: Heldenskin – Sturmbringer Magni, 3x Packung aus Reise durch die Zeitwege, 2x Packung aus dem Jahr des Pegasus",
+                    "Magni Invocatormentas - Aspecto de héroe de Hearthstone, 3x sobre de Los Portales del Tiempo, 2x sobre del Año del Pegaso",
+                    "Diseño de héroe de Hearthstone: Magni Portatormentas, 3 paquetes de A través de los Portales del Tiempo, 2 paquetes de Año del pegaso",
+                    "Modèle héroïque de Hearthstone : Porte-tempête Magni, paquet de Par-delà les voies temporelles ×3, paquet de l’année du Pégase ×2",
+                    "Modello eroe di Hearthstone - Magni Araldo della Tempesta, 3 buste di Oltre i Flussi Temporali, 2 buste dell'Anno del Pegaso",
+                    "王道用ヒーロースキン「ストームブリンガー・マグニ」、「タイムウェイの旅人たち」パックx3、「ペガサス年」パックx2",
+                    "폭풍인도자 마그니 - 하스스톤 영웅 스킨, 시간의 길 너머로 팩 3개, 페가수스의 해 팩 2개",
+                    "Skórka bohatera – Siewca burzy Magni, 3 x pakiet Poprzez linie czasu, 2 x pakiet z Roku Pegaza",
+                    "Magni Traztormenta - Visual de Herói de Hearthstone, 3x Pacote de Através dos Percursos Temporais, 2x Pacote de Ano do Pégaso",
+                    "Облик героя Hearthstone «Вестник шторма Магни», 3 комплекта «Сквозь потоки времени», 2 комплекта года Пегаса",
+                    "แม็กนิผู้เรียกพายุ - สกินฮีโร่ Hearthstone, 3x ซองการ์ด Across the Timeways, 2x ซองการ์ดปีแห่งเพกาซัส",
+                    "传统对战英雄皮肤 - 雷霆使者麦格尼，3包穿越时间流卡牌包，2包天马年卡牌包",
+                    "爐石戰記英雄造型：風暴使者麥格尼、3x 《時光特攻隊》卡牌包、2x 飛馬年卡牌包"
+                ],
+                "m_locId": 2934793
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 2978,
+            "m_description": {
+                "m_locValues": [
+                    "Random Unowned - Card Back\n<i>(Years - Gryphon, Hydra, Wolf)</i>",
+                    "Zufälliger nicht freigeschalteter Kartenrücken\n<i>(Jahre: Greif, Hydra, Wolf)</i>",
+                    "Aleatorio no adquirido - Dorso de carta\n<i>(Años: Grifo, Hidra, Lobo)</i>",
+                    "Dorso de carta: aleatorio, faltante \n<i>(Años: grifo, hidra, lobo)</i>",
+                    "Dos de carte non possédé aléatoire\n<i>(Années : Griffon, Hydre, Loup)</i>",
+                    "Oggetto casuale non posseduto: dorso\n<i>(Anni: Grifone, Idra, Lupo)</i>",
+                    "ランダムな未所持のカード裏面デザイン\n<i>（年 - グリフォン、ヒドラ、オオカミ）</i>",
+                    "무작위 미보유 - 카드 뒷면\n<i>(그리핀, 히드라, 늑대의 해)</i>",
+                    "Rewers – losowy nieposiadany\n<i>(Lata – Gryfa, Hydry, Wilka)</i>",
+                    "Verso de card aleatório ainda não obtido\n<i>(Anos - Grifo, Hidra, Lobo)</i>",
+                    "Случайная еще не открытая рубашка для карт\n<i>(из года Грифона, Гидры или Волка)</i>",
+                    "ของตกแต่งที่คุณยังไม่มีแบบสุ่ม - หลังการ์ด\n<i>(ปีแห่งกริฟฟอน ไฮดรา หรือหมาป่า)</i>",
+                    "尚未拥有的随机卡背图案\n<i>（狮鹫年，多头蛇年或独狼年）</i>",
+                    "卡背：隨機未擁有\n<i>(年份：獅鷲、多頭蛇、嘯狼)</i>"
+                ],
+                "m_locId": 2934794
+            },
+            "m_chooseOne": 0,
+            "m_random": 1,
+            "m_fallbackRewardListId": 3016,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 2979,
+            "m_description": {
+                "m_locValues": [
+                    "Random Unowned - Coin Cosmetic\n<i>(Years - Gryphon, Hydra, Wolf)</i>",
+                    "Zufälliger nicht freigeschalteter Münzenskin\n<i>(Jahre: Greif, Hydra, Wolf)</i>",
+                    "Aleatorio no adquirido - Moneda cosmética\n<i>(Años: Grifo, Hidra, Lobo)</i>",
+                    "Moneda estética: aleatoria, faltante\n<i>(Años: grifo, hidra, lobo)</i>",
+                    "Pièce ornementale non possédée aléatoire\n<i>(Années : Griffon, Hydre, Loup)</i>",
+                    "Oggetto casuale non posseduto: moneta cosmetica\n<i>(Anni: Grifone, Idra, Lupo)</i>",
+                    "ランダムな未所持の記念コイン\n<i>（年 - グリフォン、ヒドラ、オオカミ）</i>",
+                    "무작위 미보유 - 동전 외형\n<i>(그리핀, 히드라, 늑대의 해)</i>",
+                    "Ozdobna moneta – losowa nieposiadana\n<i>(Lata – Gryfa, Hydry, Wilka)</i>",
+                    "Moeda cosmética aleatória ainda não obtida\n<i>(Anos - Grifo, Hidra, Lobo)</i>",
+                    "Случайная еще не открытая декоративная монетка\n<i>(из года Грифона, Гидры или Волка)</i>",
+                    "ของตกแต่งที่คุณยังไม่มีแบบสุ่ม - เหรียญตกแต่ง\n<i>(ปีแห่งกริฟฟอน ไฮดรา หรือหมาป่า)</i>",
+                    "尚未拥有的随机幸运币外观\n<i>（狮鹫年，多头蛇年或独狼年）</i>",
+                    "幸運幣造型：隨機未擁有\n<i>(年份：獅鷲、多頭蛇、嘯狼)</i>"
+                ],
+                "m_locId": 2934795
+            },
+            "m_chooseOne": 0,
+            "m_random": 1,
+            "m_fallbackRewardListId": 3017,
             "m_exitRewardListId": 0,
             "m_locked": 0
         },
@@ -44318,6 +44696,276 @@
             "m_locked": 0
         },
         {
+            "m_ID": 2980,
+            "m_description": {
+                "m_locValues": [
+                    "Random Unowned - Lite Hero Skin\n<i>(Years - Gryphon, Hydra, Wolf)</i>",
+                    "Zufälliger nicht freigeschalteter Heldenskin (Lite)\n<i>(Jahre: Greif, Hydra, Wolf)</i>",
+                    "Aleatorio no adquirido - Aspecto de héroe básico\n<i>(Años: Grifo, Hidra, Lobo)</i>",
+                    "Diseño de héroe básico: aleatorio, faltante\n<i>(Años: grifo, hidra, lobo)</i>",
+                    "Modèle héroïque léger non possédé aléatoire\n<i>(Années : Griffon, Hydre, Loup)</i>",
+                    "Oggetto casuale non posseduto: modello eroe semplice\n<i>(Anni: Grifone, Idra, Lupo)</i>",
+                    "ランダムな未所持のライト・ヒーロースキン\n<i>（年 - グリフォン、ヒドラ、オオカミ）</i>",
+                    "무작위 미보유 - 라이트 영웅 스킨\n<i>(그리핀, 히드라, 늑대의 해)</i>",
+                    "Zwykła skórka bohatera – losowa nieposiadana\n<i>(Lata – Gryfa, Hydry, Wilka)</i>",
+                    "Visual de Herói Simples aleatório ainda não obtido\n<i>(Anos - Grifo, Hidra, Lobo)</i>",
+                    "Случайный еще не открытый неполный облик героя\n<i>(из года Грифона, Гидры или Волка)</i>",
+                    "ของตกแต่งที่คุณยังไม่มีแบบสุ่ม - สกินฮีโร่แบบไลท์\n<i>(ปีแห่งกริฟฟอน ไฮดรา หรือหมาป่า)</i>",
+                    "尚未拥有的随机轻量英雄皮肤\n<i>（狮鹫年，多头蛇年或独狼年）</i>",
+                    "輕量英雄造型：隨機未擁有\n<i>(年份：獅鷲、多頭蛇、嘯狼)</i>"
+                ],
+                "m_locId": 2934796
+            },
+            "m_chooseOne": 0,
+            "m_random": 1,
+            "m_fallbackRewardListId": 3018,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 2981,
+            "m_description": {
+                "m_locValues": [
+                    "Random Unowned - Full Hero Skin\n<i>(Years - Gryphon, Hydra, Wolf)</i>",
+                    "Zufälliger nicht freigeschalteter vollständiger Heldenskin\n<i>(Jahre: Greif, Hydra, Wolf)</i>",
+                    "Aleatorio no adquirido - Aspecto de héroe completo\n<i>(Años: Grifo, Hidra, Lobo)</i>",
+                    "Diseño de héroe completo: aleatorio, faltante\n<i>(Años: grifo, hidra, lobo)</i>",
+                    "Modèle héroïque complet non possédé aléatoire\n<i>(Années : Griffon, Hydre, Loup)</i>",
+                    "Oggetto casuale non posseduto: modello eroe completo\n<i>(Anni: Grifone, Idra, Lupo)</i>",
+                    "ランダムな未所持のフル・ヒーロースキン\n<i>（年 - グリフォン、ヒドラ、オオカミ）</i>",
+                    "무작위 미보유 - 풀 영웅 스킨\n<i>(그리핀, 히드라, 늑대의 해)</i>",
+                    "Pełna skórka bohatera – losowa nieposiadana\n<i>(Lata – Gryfa, Hydry, Wilka)</i>",
+                    "Visual de Herói Completo aleatório ainda não obtido\n<i>(Anos - Grifo, Hidra, Lobo)</i>",
+                    "Случайный еще не открытый полный облик героя\n<i>(из года Грифона, Гидры или Волка)</i>",
+                    "ของตกแต่งที่คุณยังไม่มีแบบสุ่ม - สกินฮีโร่\n<i>(ปีแห่งกริฟฟอน ไฮดรา หรือหมาป่า)</i>",
+                    "尚未拥有的随机完整英雄皮肤\n<i>（狮鹫年，多头蛇年或独狼年）</i>",
+                    "完整英雄造型：隨機未擁有\n<i>(年份：獅鷲、多頭蛇、嘯狼)</i>"
+                ],
+                "m_locId": 2934797
+            },
+            "m_chooseOne": 0,
+            "m_random": 1,
+            "m_fallbackRewardListId": 3019,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 2982,
+            "m_description": {
+                "m_locValues": [
+                    "Random Legendary Fabled Card",
+                    "Zufällige sagenhafte legendäre Karte",
+                    "Carta legendaria con Renombre aleatoria",
+                    "Carta Célebre legendaria aleatoria",
+                    "Carte iconique légendaire aléatoire",
+                    "Carta Favolosa Leggendaria casuale",
+                    "ランダムなレジェンド列伝カード",
+                    "무작위 전설 설화 카드",
+                    "Losowa legendarna karta Osławionych",
+                    "Card Célebre Lendário Aleatório",
+                    "Случайная легендарная карта героя саги",
+                    "การ์ดเลื่องชื่อระดับตำนานแบบสุ่ม",
+                    "随机的传说奇闻牌",
+                    "隨機傳說顯赫卡牌"
+                ],
+                "m_locId": 2935517
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 2983,
+            "m_description": {
+                "m_locValues": [
+                    "Across the Timeways Card Pack",
+                    "Kartenpackung aus Reise durch die Zeitwege",
+                    "Sobre de Los Portales del Tiempo",
+                    "Paquete de cartas de A través de los Portales del Tiempo",
+                    "Paquet de Par-delà les voies temporelles",
+                    "Busta di Oltre i Flussi Temporali",
+                    "「タイムウェイの旅人たち」パック",
+                    "시간의 길 너머로 카드 팩",
+                    "Pakiet kart Poprzez linie czasu",
+                    "Pacote de cards Através dos Percursos Temporais",
+                    "Комплект карт «Сквозь потоки времени»",
+                    "ซองการ์ด Across the Timeways",
+                    "穿越时间流卡牌包",
+                    "《時光特攻隊》卡牌包"
+                ],
+                "m_locId": 2935518
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 2984,
+            "m_description": {
+                "m_locValues": [
+                    "2x Whelp of the Bronze (Golden Uncraftable Common)",
+                    "2x goldene gewöhnliche Karte Welpling der Bronzenen (nicht herstellbar)",
+                    "2x Cría del Bronce (común dorada, no se puede crear)",
+                    "2 Cría de los Bronce (dorada común no creable)",
+                    "Carte commune dorée Dragonnet du Vol de bronze ×2 (impossible à créer)",
+                    "2 Draghetto di Bronzo (Comuni vincolate Dorate)",
+                    "「ブロンズ族のチビドラゴン」x2（ゴールデン作成不能コモン）",
+                    "청동 새끼용 2장 (황금 제작 불가 일반 카드)",
+                    "2 x Spiżowe smoczątko (złota zwykła niewytwarzalna)",
+                    "2x Dragonete do Bronze (Dourado Incriável Comum)",
+                    "2 золотые карты «Бронзовый дракончик» (нельзя создать, обычная карта)",
+                    "2x ลูกมังกรแห่งบรอนซ์ (ระดับทั่วไปสีทอง สร้างไม่ได้)",
+                    "2张青铜雏龙（无法制作的金色普通卡牌）",
+                    "2x 青銅幼龍(無法合成的普通金卡)"
+                ],
+                "m_locId": 2935519
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 2985,
+            "m_description": {
+                "m_locValues": [
+                    "2x Time Machine (Golden Uncraftable Common)",
+                    "2x goldene gewöhnliche Karte Zeitmaschine (nicht herstellbar)",
+                    "2x Máquina del tiempo (común dorada, no se puede crear)",
+                    "2 Máquina del tiempo (dorada común no creable)",
+                    "Carte commune dorée Machine temporelle ×2 (impossible à créer)",
+                    "2 Macchina del Tempo (Comuni vincolate Dorate)",
+                    "「タイムマシン」x2（ゴールデン作成不能コモン）",
+                    "타임머신 2장 (황금 제작 불가 일반 카드)",
+                    "2 x Wehikuł czasu (złota zwykła niewytwarzalna)",
+                    "2x Máquina do Tempo (Dourado Incriável Comum)",
+                    "2 золотые карты «Машина времени» (нельзя создать, обычная карта)",
+                    "2x ไทม์แมชชีน (ระดับทั่วไปสีทอง สร้างไม่ได้)",
+                    "2张时间机器（无法制作的金色普通卡牌）",
+                    "2x 時光機(無法合成的普通金卡)"
+                ],
+                "m_locId": 2935520
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 2986,
+            "m_description": {
+                "m_locValues": [
+                    "2x Living Paradox (Golden Uncraftable Common)",
+                    "2x goldene gewöhnliche Karte Lebendes Paradox (nicht herstellbar)",
+                    "2x Paradoja viviente (común dorada, no se puede crear)",
+                    "2 Paradoja viviente (dorada común no creable)",
+                    "Carte commune dorée Paradoxe vivant ×2 (impossible à créer)",
+                    "2 Paradosso Vivente (Comuni vincolate Dorate)",
+                    "「 生けるパラドックス」x2（ゴールデン作成不能コモン）",
+                    "살아 움직이는 모순 2장 (황금 제작 불가 일반 카드)",
+                    "2 x Żywy paradoks (złota zwykła niewytwarzalna)",
+                    "2x Paradoxo Vivo (Dourado Incriável Comum)",
+                    "2 золотые карты «Живой парадокс» (нельзя создать, обычная карта)",
+                    "2x ปฏิทรรศน์มีชีวิต (ระดับทั่วไปสีทอง สร้างไม่ได้)",
+                    "2张悖论活体（无法制作的金色普通卡牌）",
+                    "2x 活體悖論(無法合成的普通金卡)"
+                ],
+                "m_locId": 2935521
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 2987,
+            "m_description": {
+                "m_locValues": [
+                    "Random Latest Expansion Epic Card",
+                    "Zufällige epische Karte der neuesten Erweiterung",
+                    "Carta épica aleatoria de la última expansión",
+                    "Carta épica aleatoria de la expansión más reciente",
+                    "Carte épique aléatoire de l’extension la plus récente",
+                    "Carta Epica casuale della nuova espansione",
+                    "最新拡張版のランダムなエピックカード",
+                    "무작위 최신 확장팩 특급 카드",
+                    "Losowa epicka karta z najnowszego rozszerzenia",
+                    "Card Épico aleatório da expansão mais recente",
+                    "Случайная эпическая карта из последнего дополнения",
+                    "การ์ดระดับสุดยอดแบบสุ่มจากส่วนเสริมล่าสุด",
+                    "最新扩展包的随机史诗卡牌",
+                    "隨機最新資料片史詩卡牌"
+                ],
+                "m_locId": 2935522
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 2988,
+            "m_description": {
+                "m_locValues": [
+                    "1x Unknown Voyager (Golden Uncraftable Rare)",
+                    "1x goldene seltene Karte Unbekannter Reisender (nicht herstellbar)",
+                    "1x Viajero desconocido (poco común dorada, no se puede crear)",
+                    "1 Viajero desconocido (dorada rara no creable)",
+                    "Carte rare dorée Voyageur inconnu ×1 (impossible à créer)",
+                    "1 Viaggiatore Sconosciuto (Rara vincolata Dorata)",
+                    "「見知らぬ旅人」x1（ゴールデン作成不能レア）",
+                    "알 수 없는 여행자 1장 (황금 제작 불가 희귀 카드)",
+                    "1 x Bezimienny tułacz (złota rzadka niewytwarzalna)",
+                    "1x Viajante Desconhecido (Dourado Incriável Raro)",
+                    "1 золотая карта «Неизвестный путешественник» (нельзя создать, редкая карта)",
+                    "1x นักเดินทางนิรนาม (ระดับหายากสีทอง สร้างไม่ได้)",
+                    "1张未知旅客（无法制作的金色稀有卡牌）",
+                    "1x 未知航海家(無法合成的精良金卡)"
+                ],
+                "m_locId": 2935523
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 2989,
+            "m_description": {
+                "m_locValues": [
+                    "Time War Card Back",
+                    "Kartenrücken Zeitkrieg",
+                    "Dorso de carta de Guerra temporal",
+                    "Dorso de carta Cronoguerra",
+                    "Dos de carte Guerre temporelle",
+                    "Dorso Guerra Temporale",
+                    "カード裏面デザイン「時間戦争」",
+                    "시간 전쟁 카드 뒷면",
+                    "Rewers Wojna czasowa",
+                    "Verso de card Guerra Temporal",
+                    "Рубашка «Война Времен»",
+                    "หลังการ์ดสงครามเวลา",
+                    "时空之战卡背图案",
+                    "時間之戰卡背"
+                ],
+                "m_locId": 2935524
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
             "m_ID": 299,
             "m_description": {
                 "m_locValues": [
@@ -44337,6 +44985,168 @@
                     "受困的法師金卡(無法合成 - 精良)"
                 ],
                 "m_locId": 2765366
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 2990,
+            "m_description": {
+                "m_locValues": [
+                    "1x Chrono-Lord Deios (Uncraftable Legendary)",
+                    "1x legendäre Karte Chronolord Deios (nicht herstellbar)",
+                    "1x Cronolord Deios (legendaria, no se puede crear)",
+                    "1 Cronolord Deios dorada (legendaria no creable)",
+                    "Carte Chronoseigneur Déios ×1 (impossible à créer)",
+                    "1 Cronosignore Deios (Leggendaria vincolata)",
+                    "「時空王デイオス」x1（作成不能レジェンド）",
+                    "시간의 군주 데이오스 1장 (제작 불가 전설 카드)",
+                    "1 x Deios, Władca Czasu (legendarna niewytwarzalna)",
+                    "1x Crono-lorde Deios (Lendário Incriável)",
+                    "1 карта «Хронолорд Дейос» (нельзя создать, легендарная карта)",
+                    "1x โครโนลอร์ดเดย์ออส (ระดับตำนาน สร้างไม่ได้)",
+                    "1张时空领主戴欧斯（无法制作的传说卡牌）",
+                    "1x 時空領主戴歐司(無法合成的傳說卡牌)"
+                ],
+                "m_locId": 2935525
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 2992,
+            "m_description": {
+                "m_locValues": [
+                    "1x Deja Vu (Golden Uncraftable Rare)",
+                    "1x goldene seltene Karte Déjà-vu (nicht herstellbar)",
+                    "1x Déjà vu (poco común dorada, no se puede crear)",
+                    "1 Déjà vu (dorada rara no creable)",
+                    "Carte rare dorée Répétition temporelle ×1 (impossible à créer)",
+                    "1 Déjà Vu (Rara vincolata Dorata)",
+                    "「デジャブ」x1（ゴールデン作成不能レア）",
+                    "데자뷔 1장 (황금 제작 불가 희귀 카드)",
+                    "1 x Deja vu (złota rzadka niewytwarzalna)",
+                    "1x Deja Vu (Dourado Incriável Raro)",
+                    "1 золотая карта «Дежа вю» (нельзя создать, редкая карта)",
+                    "1x เดจาวู (ระดับหายากสีทอง สร้างไม่ได้)",
+                    "1张似曾相识（无法制作的金色稀有卡牌）",
+                    "1x 既視感(無法合成的精良金卡)"
+                ],
+                "m_locId": 2935526
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 2994,
+            "m_description": {
+                "m_locValues": [
+                    "1x Manifested Timeways (Golden Uncraftable Rare)",
+                    "1x goldene seltene Karte Manifestierte Zeitwege (nicht herstellbar)",
+                    "1x Portal manifiesto (poco común dorada, no se puede crear)",
+                    "1 Portales del tiempo revelados (dorada rara no creable)",
+                    "Carte rare dorée Voies temporelles matérialisées ×1 (impossible à créer)",
+                    "1 Flusso Temporale Manifesto (Rara vincolata Dorata)",
+                    "「タイムウェイの顕出」x1（ゴールデン作成不能レア）",
+                    "현신한 시간의 길 1장 (황금 제작 불가 희귀 카드)",
+                    "1 x Ujawnione linie czasu (złota rzadka niewytwarzalna)",
+                    "1x Percursos Temporais Manifestos (Dourado Incriável Raro)",
+                    "1 золотая карта «Ожившие потоки времени» (нельзя создать, редкая карта)",
+                    "1x ร่างจำแลงเส้นเวลา (ระดับหายากสีทอง สร้างไม่ได้)",
+                    "1张时间流具象（无法制作的金色稀有卡牌）",
+                    "1x 時間之道化身(無法合成的精良金卡)"
+                ],
+                "m_locId": 2935527
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 2996,
+            "m_description": {
+                "m_locValues": [
+                    "Random Latest Expansion Legendary Card",
+                    "Zufällige legendäre Karte der neuesten Erweiterung",
+                    "Carta legendaria aleatoria de la última expansión",
+                    "Carta legendaria aleatoria de la expansión más reciente",
+                    "Carte légendaire aléatoire de l’extension la plus récente",
+                    "Carta Leggendaria casuale dell'ultima espansione",
+                    "最新拡張版のランダムなレジェンドカード",
+                    "무작위 최신 확장팩 전설 카드",
+                    "Losowa karta legendarna z najnowszego rozszerzenia",
+                    "Card Lendário aleatório da expansão mais recente",
+                    "Случайная легендарная карта из последнего дополнения",
+                    "การ์ดระดับตำนานแบบสุ่มจากส่วนเสริมล่าสุด",
+                    "最新扩展包的随机传说卡牌",
+                    "隨機最新資料片傳說卡牌"
+                ],
+                "m_locId": 2935528
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 2997,
+            "m_description": {
+                "m_locValues": [
+                    "1x Conflux Crasher (Golden Uncraftable Epic)",
+                    "1x goldene epische Karte Konfluxbrecher (nicht herstellbar)",
+                    "1x Destructor de la Confluencia (épica dorada, no se puede crear)",
+                    "1 Arrasador del Conflujo (épica dorada no creable)",
+                    "Carte épique dorée Fracasseur de confluence ×1 (impossible à créer)",
+                    "1 Spezzaconfluenza (Epica vincolata Dorata)",
+                    "「合流点クラッシャー」x1（ゴールデン作成不能エピック）",
+                    "합일점 파괴자 1장 (황금 제작 불가 특급 카드)",
+                    "1 x Łamacz czasu (złota epicka niewytwarzalna)",
+                    "1x Quebra-confluxo (Dourado Incriável Épico)",
+                    "1 золотая карта «Разрушитель Перекрестка» (нельзя создать, эпическая карта)",
+                    "1x จอมถล่มคอนฟลักซ์ (ระดับสุดยอดสีทอง สร้างไม่ได้)",
+                    "1张时光流汇扫荡者（无法制作的金色史诗卡牌）",
+                    "1x 合流破壞者(無法合成的史詩金卡)"
+                ],
+                "m_locId": 2935529
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 2999,
+            "m_description": {
+                "m_locValues": [
+                    "10% XP Boost",
+                    "10% EP-Schub",
+                    "Aumento de PE del 10%",
+                    "Potenciador de EXP de 10%",
+                    "10 % de points d’EXP supplémentaires",
+                    "Bonus 10% PE",
+                    "XPブースト10%",
+                    "10% 경험치 부스트",
+                    "Premia 10% do PD",
+                    "10% de Impulso de EXP",
+                    "+10% к опыту",
+                    "บูสต์ XP 10%",
+                    "10%经验值加成",
+                    "10%經驗值加成"
+                ],
+                "m_locId": 2935530
             },
             "m_chooseOne": 0,
             "m_random": 0,
@@ -44426,6 +45236,276 @@
             "m_locked": 0
         },
         {
+            "m_ID": 3000,
+            "m_description": {
+                "m_locValues": [
+                    "15% XP Boost",
+                    "15% EP-Schub",
+                    "Aumento de PE del 15%",
+                    "Potenciador de EXP de 15%",
+                    "15 % de points d’EXP supplémentaires",
+                    "Bonus 15% PE",
+                    "XPブースト15%",
+                    "15% 경험치 부스트",
+                    "Premia 15% do PD",
+                    "15% de Impulso de EXP",
+                    "+15% к опыту",
+                    "บูสต์ XP 15%",
+                    "15%经验值加成",
+                    "15%經驗值加成"
+                ],
+                "m_locId": 2935531
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3001,
+            "m_description": {
+                "m_locValues": [
+                    "Chromie",
+                    "Chromie",
+                    "Cromi",
+                    "Cromi",
+                    "Chromie",
+                    "Cromie",
+                    "クロミー",
+                    "크로미",
+                    "Chronia",
+                    "Crona",
+                    "Хроми",
+                    "โครมี่",
+                    "克罗米",
+                    "克羅米"
+                ],
+                "m_locId": 2935532
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3002,
+            "m_description": {
+                "m_locValues": [
+                    "Mekkatorque Card Back",
+                    "Kartenrücken Mekkadrill",
+                    "Dorso de carta de Mekkatorque",
+                    "Dorso de carta de Mekkatorque",
+                    "Dos de carte Mekkanivelle",
+                    "Dorso Meccatork",
+                    "カード裏面デザイン「メカトルク」",
+                    "멕카토크 카드 뒷면",
+                    "Rewers Mekanownik",
+                    "Verso de card Mekkatorque",
+                    "Рубашка «Меггакрут»",
+                    "หลังการ์ดเมคคาทอร์ค",
+                    "梅卡托克卡背图案",
+                    "梅卡托克卡背"
+                ],
+                "m_locId": 2935533
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3003,
+            "m_description": {
+                "m_locValues": [
+                    "Hearthstone Hero Skin - Ranger Lord Nathanos",
+                    "Hearthstone: Heldenskin – Jägerhauptmann Nathanos",
+                    "Aspecto de héroe de Hearthstone - Lord forestal Nathanos",
+                    "Diseño de héroe de Hearthstone: Señor forestal Nathanos",
+                    "Modèle héroïque de Hearthstone : Nathanos, seigneur forestier",
+                    "Modello eroe di Hearthstone - Nathanos Signore dei Guardaboschi",
+                    "王道用ヒーロースキン - 大レンジャーのナサノス",
+                    "하스스톤 영웅 스킨 - 순찰대장 나타노스",
+                    "Skórka bohatera – Lord tropicieli Nathanos",
+                    "Visual de Herói de Hearthstone - Nathanos Senhor dos Patrulheiros",
+                    "Облик героя Hearthstone «Предводитель следопытов Натанос»",
+                    "สกินฮีโร่ Hearthstone - เรนเจอร์ลอร์ดนาธานอส",
+                    "传统对战英雄皮肤 - 游侠领主纳萨诺斯",
+                    "爐石戰記英雄造型：遊俠領主納薩諾斯"
+                ],
+                "m_locId": 2935534
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3004,
+            "m_description": {
+                "m_locValues": [
+                    "Circadiamancer (Golden Uncraftable Epic)",
+                    "Goldene epische Karte Circadiamantin (nicht herstellbar)",
+                    "Circadianomántica (épica dorada, no se puede crear)",
+                    "Circadiamante (dorada épica no creable)",
+                    "Carte épique dorée Circadiomancienne (impossible à créer)",
+                    "Circadiamante (Epica vincolata Dorata)",
+                    "「概日霊術師」（ゴールデン作成不能エピック）",
+                    "순환술사 (황금 제작 불가 특급 카드)",
+                    "Dobomantka (złota epicka niewytwarzalna)",
+                    "Circadiomante (Dourado Incriável Épico)",
+                    "Золотая карта «Циркадомант» (нельзя создать, эпическая карта)",
+                    "เซอร์คาเดียแมนเซอร์ (ระดับสุดยอดสีทอง สร้างไม่ได้)",
+                    "昼夜节律术师（无法制作的金色史诗卡牌）",
+                    "晝夜占師(無法合成的史詩金卡)"
+                ],
+                "m_locId": 2935535
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3005,
+            "m_description": {
+                "m_locValues": [
+                    "Hearthstone Hero Skin - Hopeful Vanessa",
+                    "Hearthstone: Heldenskin – Hoffnungsvolle Vanessa",
+                    "Aspecto de héroe de Hearthstone - Vanessa esperanzada",
+                    "Diseño de héroe de Hearthstone: Vanessa esperanzada",
+                    "Modèle héroïque de Hearthstone : Vanessa pleine d’espoir",
+                    "Modello eroe di Hearthstone - Vanessa Speranzosa",
+                    "王道用ヒーロースキン - 夢見がちなヴァネッサ",
+                    "하스스톤 영웅 스킨 - 희망찬 바네사",
+                    "Skórka bohatera – Pogodna Vanessa",
+                    "Visual de Herói de Hearthstone - Vanessa Esperançosa",
+                    "Облик героя Hearthstone «Оптимистичная Ванесса»",
+                    "สกินฮีโร่ Hearthstone - วาเนสซาผู้เปี่ยมหวัง",
+                    "传统对战英雄皮肤 - 满怀希望的梵妮莎",
+                    "爐石戰記英雄造型：滿懷希望的凡妮莎"
+                ],
+                "m_locId": 2935536
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3006,
+            "m_description": {
+                "m_locValues": [
+                    "2x Signature Paltry Flutterwing",
+                    "2x markante Karte Kümmerliche Flatterschwinge",
+                    "2x Revoloteadora menuda distintiva",
+                    "2 Revoloteador irrisorio insignia",
+                    "Carte signature Frêle bruissaile ×2",
+                    "2 Alasalda Insignificante Pregiate",
+                    "シグネチャー「ちんけなフラッターウィング」x2",
+                    "간판 하찮은 팔랑날개 2장",
+                    "2 x specjalna karta Mizerny trzeposkrzydły",
+                    "2x Farfalheta Miúda Exclusivo",
+                    "2 особые карты «Неприметная пухокрылка»",
+                    "2x ฟลัตเตอร์วิงตัวจ้อยซิกเนเจอร์",
+                    "2张异画渺小的振翅蝶",
+                    "2x 珍藏卑微顫翼蝶"
+                ],
+                "m_locId": 2935537
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3007,
+            "m_description": {
+                "m_locValues": [
+                    "Hearthstone Hero Skin - Druid Illidan",
+                    "Hearthstone: Heldenskin – Druide Illidan",
+                    "Aspecto de héroe de Hearthstone - Illidan druida",
+                    "Diseño de héroe de Hearthstone: Druida Illidan",
+                    "Modèle héroïque de Hearthstone : Illidan, le druide",
+                    "Modello eroe di Hearthstone - Illidan Druido",
+                    "王道用ヒーロースキン - ドルイドのイリダン",
+                    "하스스톤 영웅 스킨 - 드루이드 일리단",
+                    "Skórka bohatera – Druid Illidan",
+                    "Visual de Herói de Hearthstone - Illidan Druida",
+                    "Облик героя Hearthstone «Друид Иллидан»",
+                    "สกินฮีโร่ Hearthstone - อิลลิดันดรูอิด",
+                    "传统对战英雄皮肤 - 德鲁伊伊利丹",
+                    "爐石戰記英雄造型：德魯伊伊利丹"
+                ],
+                "m_locId": 2935538
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3008,
+            "m_description": {
+                "m_locValues": [
+                    "Golden Clocksworth (Golden Uncraftable Legendary)",
+                    "Goldene legendäre Karte Goldener Uhrig (nicht herstellbar)",
+                    "Don Relojero dorada (legendaria dorada, no se puede crear)",
+                    "Tictac dorada (dorada legendaria no creable)",
+                    "Carte légendaire dorée Lapendule (impossible à créer)",
+                    "Signor Tickins Dorata (Leggendaria vincolata Dorata)",
+                    "ゴールデン「クロックスワース」（ゴールデン作成不能レジェンド）",
+                    "황금 클록스워스 (황금 제작 불가 전설 카드)",
+                    "Złoty Trybiczek (złota legendarna niewytwarzalna)",
+                    "Horácio Dourado (Dourado Incriável Lendário)",
+                    "Золотая карта «Часовщик» (нельзя создать, легендарная карта)",
+                    "คล็อกสเวิร์ธสีทอง (ระดับตำนานสีทอง สร้างไม่ได้)",
+                    "金色钟表先生克劳沃斯（无法制作的金色传说卡牌）",
+                    "鐘錶沃斯先生金卡(無法合成的傳說金卡)"
+                ],
+                "m_locId": 2935539
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3009,
+            "m_description": {
+                "m_locValues": [
+                    "Hearthstone Hero Skin - Newly Risen Scarlet",
+                    "Hearthstone: Heldenskin – Neu aufgestiegene Scarlet",
+                    "Aspecto de héroe de Hearthstone - Scarlet recién alzada",
+                    "Diseño de héroe de Hearthstone: Scarlet recién resucitada",
+                    "Modèle héroïque de Hearthstone : Écarlate morte-vivante",
+                    "Modello eroe di Hearthstone - Scarlet Rediviva",
+                    "王道用ヒーロースキン - 新しく蘇ったスカーレット",
+                    "하스스톤 영웅 스킨 - 부활한 스칼렛",
+                    "Skórka bohatera – Świeżo wskrzeszona Scarlet",
+                    "Visual de Herói de Hearthstone - Scarlet Recém-desperta",
+                    "Облик героя Hearthstone «Недавно восставшая Алая»",
+                    "สกินฮีโร่ Hearthstone - สการ์เล็ตเพิ่งกำเนิดใหม่",
+                    "传统对战英雄皮肤 - 新生亡灵斯嘉丽",
+                    "爐石戰記英雄造型：剛復活的史嘉蕾"
+                ],
+                "m_locId": 2935540
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
             "m_ID": 301,
             "m_description": {
                 "m_locValues": [
@@ -44445,6 +45525,276 @@
                     "艾爾文森林野豬金卡(無法合成 - 史詩)"
                 ],
                 "m_locId": 2765368
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3010,
+            "m_description": {
+                "m_locValues": [
+                    "Hearthstone Hero Skin - High Paladin Mekkatorque",
+                    "Hearthstone: Heldenskin – Oberster Paladin Mekkadrill",
+                    "Aspecto de héroe de Hearthstone - Sumo paladín Mekkatorque",
+                    "Diseño de héroe de Hearthstone: Sumo paladín Mekkatorque",
+                    "Modèle héroïque de Hearthstone : Mekkanivelle, le haut paladin",
+                    "Modello eroe di Hearthstone - Meccatork Alto Paladino",
+                    "王道用ヒーロースキン - ハイ・パラディンのメカトルク",
+                    "하스스톤 영웅 스킨 - 고위 성기사 멕카토크",
+                    "Skórka bohatera – Najwyższy paladyn Mekanownik",
+                    "Visual de Herói de Hearthstone - Mekkatorque Alto Paladino",
+                    "Облик героя Hearthstone «Верховный паладин Меггакрут»",
+                    "สกินฮีโร่ Hearthstone - ไฮพาลาดินเมคคาทอร์ค",
+                    "传统对战英雄皮肤 - 高阶圣骑士梅卡托克",
+                    "爐石戰記英雄造型：至高聖騎士梅卡托克"
+                ],
+                "m_locId": 2935541
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3011,
+            "m_description": {
+                "m_locValues": [
+                    "Golden Chrono-Lord Deios (Golden Uncraftable Legendary)",
+                    "Goldene legendäre Karte Goldener Chronolord Deios (nicht herstellbar)",
+                    "Cronolord Deios dorada (legendaria dorada, no se puede crear)",
+                    "Cronolord Deios dorada (dorada legendaria no creable)",
+                    "Carte légendaire dorée Chronoseigneur Déios (impossible à créer)",
+                    "Cronosignore Deios Dorata (Leggendaria vincolata Dorata)",
+                    "「時空王デイオス」（ゴールデン作成不能レジェンド）",
+                    "황금 시간의 군주 데이오스 (황금 제작 불가 전설 카드)",
+                    "Złoty Deios, Władca Czasu (złota legendarna niewytwarzalna)",
+                    "Crono-lorde Deios Dourado (Dourado Incriável Lendário)",
+                    "Золотая карта «Хронолорд Дейос» (нельзя создать, легендарная карта)",
+                    "โครโนลอร์ดเดย์ออสสีทอง (ระดับตำนานสีทอง สร้างไม่ได้)",
+                    "金色时空领主戴欧斯（无法制作的金色传说卡牌）",
+                    "時空領主戴歐司金卡(無法合成的傳說金卡)"
+                ],
+                "m_locId": 2935542
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3012,
+            "m_description": {
+                "m_locValues": [
+                    "Hearthstone Hero Skin - Warchief Genn",
+                    "Hearthstone: Heldenskin – Kriegshäuptling Genn",
+                    "Aspecto de héroe de Hearthstone - Genn Jefe de Guerra",
+                    "Diseño de héroe de Hearthstone: Jefe de guerra Genn",
+                    "Modèle héroïque de Hearthstone : Genn, le chef de guerre",
+                    "Modello eroe di Hearthstone - Genn Capoguerra",
+                    "王道用ヒーロースキン - 戦長ゲン",
+                    "하스스톤 영웅 스킨 - 대족장 겐",
+                    "Skórka bohatera – Wódz Genn",
+                    "Visual de Herói de Hearthstone - Chefe Guerreiro Genn",
+                    "Облик героя Hearthstone «Вождь Генн»",
+                    "สกินฮีโร่ Hearthstone - เก็นน์ผู้นำชนเผ่า",
+                    "传统对战英雄皮肤 - 大酋长吉恩",
+                    "爐石戰記英雄造型：大酋長吉恩"
+                ],
+                "m_locId": 2935543
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3013,
+            "m_description": {
+                "m_locValues": [
+                    "Hearthstone Hero Skin - Xavius the Exile",
+                    "Hearthstone: Heldenskin – Xavius der Verbannte",
+                    "Aspecto de héroe de Hearthstone - Xavius el Exiliado",
+                    "Diseño de héroe de Hearthstone: Xavius, el exiliado",
+                    "Modèle héroïque de Hearthstone : Xavius l’Exilé",
+                    "Modello eroe di Hearthstone - Xavius l'Esiliato",
+                    "王道用ヒーロースキン - 追放者ザヴィウス",
+                    "하스스톤 영웅 스킨 - 추방자 자비우스",
+                    "Skórka bohatera – Xavius Wygnaniec",
+                    "Visual de Herói de Hearthstone - Xavius, o Exilado",
+                    "Облик героя Hearthstone «Ксавий Изгнанник»",
+                    "สกินฮีโร่ Hearthstone - เซเวียสผู้ถูกเนรเทศ",
+                    "传统对战英雄皮肤 - 流亡者萨维斯",
+                    "爐石戰記英雄造型：流亡者薩維斯"
+                ],
+                "m_locId": 2935544
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3014,
+            "m_description": {
+                "m_locValues": [
+                    "2x Tavern Ticket",
+                    "2x Gasthauszugang",
+                    "2x entrada de taberna",
+                    "2 boletos de la Taberna",
+                    "Admission pour la taverne ×2",
+                    "2 Biglietti Locanda",
+                    "酒場チケットx2",
+                    "선술집 입장권 2장",
+                    "2 x bilet do Karczmy",
+                    "2x Ingresso da Taverna",
+                    "2 пропуска в таверну",
+                    "2x บัตรโรงเตี๊ยม",
+                    "2张旅店通票",
+                    "2x 旅店門票"
+                ],
+                "m_locId": 2935566
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3015,
+            "m_description": {
+                "m_locValues": [
+                    "2x Tavern Ticket, 1x Across the Timeways Pack",
+                    "2x Gasthauszugang, 1x Packung aus Reise durch die Zeitwege",
+                    "2x entrada de taberna, 1x sobre de Los Portales del Tiempo",
+                    "2 boletos de la Taberna, 1 paquete de A través de los Portales del Tiempo",
+                    "Admission pour la taverne ×2, paquet de Par-delà les voies temporelles ×1",
+                    "2 Biglietti Locanda, 1 busta di Oltre i Flussi Temporali",
+                    "酒場チケットx2、「タイムウェイの旅人たち」パックx1",
+                    "선술집 입장권 2장, 시간의 길 너머로 팩 1개",
+                    "2 x bilet do Karczmy, 1 x pakiet Poprzez linie czasu",
+                    "2x Ingresso da Taverna, 1x Pacote de Através dos Percursos Temporais",
+                    "2 пропуска в таверну, 1 комплект «Сквозь потоки времени»",
+                    "2x บัตรโรงเตี๊ยม, 1x ซองการ์ด Across the Timeways",
+                    "2张旅店通票，1包穿越时间流卡牌包",
+                    "2x 旅店門票、1x 《時光特攻隊》卡牌包"
+                ],
+                "m_locId": 2935567
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3016,
+            "m_description": {
+                "m_locValues": [
+                    "1x Golden Across the Timeways Pack",
+                    "1x goldene Packung aus Reise durch die Zeitwege",
+                    "1x sobre dorado de Los Portales del Tiempo",
+                    "1 paquete dorado de A través de los Portales del Tiempo",
+                    "Paquet doré de Par-delà les voies temporelles ×1",
+                    "1 busta Dorata di Oltre i Flussi Temporali",
+                    "ゴールデン「タイムウェイの旅人たち」パックx1",
+                    "황금 시간의 길 너머로 팩 1개",
+                    "1 x złoty pakiet Poprzez linie czasu",
+                    "1x Pacote Dourado de Através dos Percursos Temporais",
+                    "1 золотой комплект «Сквозь потоки времени»",
+                    "1x ซองการ์ด Across the Timeways สีทอง",
+                    "1包穿越时间流金色包",
+                    "1x 《時光特攻隊》黃金卡牌包"
+                ],
+                "m_locId": 2935620
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3017,
+            "m_description": {
+                "m_locValues": [
+                    "1x Golden Across the Timeways Pack",
+                    "1x goldene Packung aus Reise durch die Zeitwege",
+                    "1x sobre dorado de Los Portales del Tiempo",
+                    "1 paquete dorado de A través de los Portales del Tiempo",
+                    "Paquet doré de Par-delà les voies temporelles ×1",
+                    "1 busta Dorata di Oltre i Flussi Temporali",
+                    "ゴールデン「タイムウェイの旅人たち」パックx1",
+                    "황금 시간의 길 너머로 팩 1개",
+                    "1 x złoty pakiet Poprzez linie czasu",
+                    "1x Pacote Dourado de Através dos Percursos Temporais",
+                    "1 золотой комплект «Сквозь потоки времени»",
+                    "1x ซองการ์ด Across the Timeways สีทอง",
+                    "1包穿越时间流金色包",
+                    "1x 《時光特攻隊》黃金卡牌包"
+                ],
+                "m_locId": 2935621
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3018,
+            "m_description": {
+                "m_locValues": [
+                    "2x Golden Across the Timeways Pack",
+                    "2x goldene Packung aus Reise durch die Zeitwege",
+                    "2x sobre dorado de Los Portales del Tiempo",
+                    "2 paquetes dorados de A través de los Portales del Tiempo",
+                    "Paquet doré de Par-delà les voies temporelles ×2",
+                    "2 buste Dorate di Oltre i Flussi Temporali",
+                    "ゴールデン「タイムウェイの旅人たち」パックx2",
+                    "황금 시간의 길 너머로 팩 2개",
+                    "2 x złoty pakiet Poprzez linie czasu",
+                    "2x Pacote Dourado de Através dos Percursos Temporais",
+                    "2 золотых комплекта «Сквозь потоки времени»",
+                    "2x ซองการ์ด Across the Timeways สีทอง",
+                    "2包穿越时间流金色包",
+                    "2x 《時光特攻隊》黃金卡牌包"
+                ],
+                "m_locId": 2935622
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3019,
+            "m_description": {
+                "m_locValues": [
+                    "2x Golden Across the Timeways Pack",
+                    "2x goldene Packung aus Reise durch die Zeitwege",
+                    "2x sobre dorado de Los Portales del Tiempo",
+                    "2 paquetes dorados de A través de los Portales del Tiempo",
+                    "Paquet doré de Par-delà les voies temporelles ×2",
+                    "2 buste Dorate di Oltre i Flussi Temporali",
+                    "ゴールデン「タイムウェイの旅人たち」パックx2",
+                    "황금 시간의 길 너머로 팩 2개",
+                    "2 x złoty pakiet Poprzez linie czasu",
+                    "2x Pacote Dourado de Através dos Percursos Temporais",
+                    "2 золотых комплекта «Сквозь потоки времени»",
+                    "2x ซองการ์ด Across the Timeways สีทอง",
+                    "2包穿越时间流金色包",
+                    "2x 《時光特攻隊》黃金卡牌包"
+                ],
+                "m_locId": 2935623
             },
             "m_chooseOne": 0,
             "m_random": 0,
@@ -44480,6 +45830,276 @@
             "m_locked": 0
         },
         {
+            "m_ID": 3020,
+            "m_description": {
+                "m_locValues": [
+                    "2x Signature Futuristic Forefather",
+                    "2x markante Karte Futuristischer Vorfahre",
+                    "2x Antepasado del futuro distintiva",
+                    "2 Antepasado futurístico insignia",
+                    "Carte signature Ancêtre du futur ×2",
+                    "2 Antenato Futuristico Pregiate",
+                    "シグネチャー「未来から来た先祖」x2",
+                    "간판 미래의 선조 2장",
+                    "2 x specjalna karta Futurystyczny praojciec",
+                    "2x Antepassado Futurista Exclusivo",
+                    "2 особые карты «Футуристичный праотец»",
+                    "2x บรรพบุรุษจากอนาคตซิกเนเจอร์",
+                    "2张异画未来主义先祖",
+                    "2x 珍藏未來先祖"
+                ],
+                "m_locId": 2935728
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3021,
+            "m_description": {
+                "m_locValues": [
+                    "Hearthstone Hero Skin - Demon Hunter Malfurion",
+                    "Hearthstone: Heldenskin – Dämonenjäger Malfurion",
+                    "Aspecto de héroe de Hearthstone - Malfurion cazador de demonios",
+                    "Diseño de héroe de Hearthstone: Cazador de demonios Malfurion",
+                    "Modèle héroïque de Hearthstone : Malfurion, le chasseur de démons",
+                    "Modello eroe di Hearthstone - Malfurion Cacciatore di Demoni",
+                    "王道用ヒーロースキン - デーモンハンター・マルフュリオン",
+                    "하스스톤 영웅 스킨 - 악마사냥꾼 말퓨리온",
+                    "Skórka bohatera – Łowca demonów Malfurion",
+                    "Visual de Herói de Hearthstone - Caçador de Demônios Malfurion",
+                    "Облик героя Hearthstone «Охотник на демонов Малфурион»",
+                    "สกินฮีโร่ Hearthstone - มัลฟิวเรียนดีมอนฮันเตอร์",
+                    "传统对战英雄皮肤 - 恶魔猎手玛法里奥",
+                    "爐石戰記英雄造型：惡魔獵人瑪法里恩"
+                ],
+                "m_locId": 2935729
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3022,
+            "m_description": {
+                "m_locValues": [
+                    "Clockwork Coin",
+                    "Uhrwerksmünze",
+                    "Moneda de relojería",
+                    "Moneda de cuerda",
+                    "Pièce de rouage mécanique",
+                    "Moneta a Orologeria",
+                    "ゼンマイ仕掛けのコイン",
+                    "태엽돌이 동전",
+                    "Moneta z mechanizmem",
+                    "Moeda Mecânica",
+                    "Часовая монетка",
+                    "เหรียญลานนาฬิกา",
+                    "钟表发条幸运币",
+                    "發條幸運幣"
+                ],
+                "m_locId": 2935730
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3023,
+            "m_description": {
+                "m_locValues": [
+                    "Chosen Hero Skin",
+                    "Heldenskin Eurer Wahl",
+                    "Aspecto de héroe elegido",
+                    "Diseño de héroe a elección",
+                    "Modèle héroïque choisi",
+                    "Modello eroe scelto",
+                    "選んだヒーロースキン",
+                    "선택한 영웅 스킨",
+                    "Wybrana skórka dla bohatera",
+                    "Visual de Herói Escolhido",
+                    "Выбранный облик героя",
+                    "สกินฮีโร่ที่เลือก",
+                    "选择的英雄皮肤",
+                    "選擇的英雄造型"
+                ],
+                "m_locId": 2935731
+            },
+            "m_chooseOne": 1,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3024,
+            "m_description": {
+                "m_locValues": [
+                    "1x Signature Azure Queen Sindragosa",
+                    "1x markante Karte Azurkönigin Sindragosa",
+                    "1x Reina Azur Sindragosa distintiva",
+                    "1 Reina azur Sindragosa insignia",
+                    "Carte signature Sindragosa, reine azur ×1",
+                    "1 Regina Azzurra Sindragosa Pregiata",
+                    "シグネチャー「アジュア王妃シンドラゴサ」x1",
+                    "간판 하늘빛 여왕 신드라고사 1장",
+                    "1 x specjalna karta Sindragosa, Lazurowa Królowa",
+                    "1x Sindragosa, Rainha Lazúli",
+                    "1 особая карта «Лазурная королева Синдрагоса»",
+                    "1x ราชินีฟ้าครามซินดราโกซาซิกเนเจอร์",
+                    "1张异画碧蓝女王辛达苟萨",
+                    "1x 珍藏蒼藍女王辛德拉苟莎"
+                ],
+                "m_locId": 2935732
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3025,
+            "m_description": {
+                "m_locValues": [
+                    "2x Signature Hourglass Attendant",
+                    "2x markante Karte Stundenglaswächter",
+                    "2x Cuidador del reloj de arena distintiva",
+                    "2 Cuidador de relojes de arena insignia",
+                    "Carte signature Préposé au sablier ×2",
+                    "2 Addetto alle Clessidre Pregiate",
+                    "シグネチャー「砂時計の助手」x2",
+                    "간판 모래시계 수행원 2장",
+                    "2 x specjalna karta Opiekun klepsydry",
+                    "2x Servente da Ampulheta Exclusivo",
+                    "2 особые карты «Смотритель песочных часов»",
+                    "2x ผู้ดูแลนาฬิกาทรายซิกเนเจอร์",
+                    "2张异画沙漏侍者",
+                    "2x 珍藏沙漏侍者"
+                ],
+                "m_locId": 2935735
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3026,
+            "m_description": {
+                "m_locValues": [
+                    "20% XP Boost",
+                    "20% EP-Schub",
+                    "Aumento de PE del 20%",
+                    "Potenciador de EXP de 20%",
+                    "20 % de points d’EXP supplémentaires",
+                    "Bonus 20% PE",
+                    "XPブースト20%",
+                    "20% 경험치 부스트",
+                    "Premia 20% do PD",
+                    "20% de Impulso de EXP",
+                    "+20% к опыту",
+                    "บูสต์ XP 20%",
+                    "20%经验值加成",
+                    "20%經驗值加成"
+                ],
+                "m_locId": 2935737
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3027,
+            "m_description": {
+                "m_locValues": [
+                    "Signature Sandmaw x2",
+                    "Markante Karte: Sandschlund x2",
+                    "Faucearena distintiva x2",
+                    "2 Faucearena insignia",
+                    "Carte signature Molosse-de-sable ×2",
+                    "2 Predatore delle Sabbie Pregiate",
+                    "シグネチャー「サンドモー」x2",
+                    "간판 모래아귀 2장",
+                    "Specjalna karta Piaskożer x 2",
+                    "Gorjareia Exclusivo x2",
+                    "2 особые карты «Пескозев»",
+                    "แซนด์มอว์ซิกเนเจอร์ x2",
+                    "2张异画流沙巨口",
+                    "珍藏黃沙之喉 x2"
+                ],
+                "m_locId": 2935821
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3028,
+            "m_description": {
+                "m_locValues": [
+                    "Signature Stormrook x2",
+                    "Markante Karte: Sturmkrähe x2",
+                    "Tormengrajo distintiva x2",
+                    "2 Corventoso insignia",
+                    "Carte signature Freux de la tempête ×2",
+                    "2 Corvo della Tempesta Pregiate",
+                    "シグネチャー「ストームルーク」x2",
+                    "간판 폭풍떼까마귀 2장",
+                    "Specjalna karta Gromogawron x 2",
+                    "Corventa Exclusivo x2",
+                    "2 особые карты «Буреклюв»",
+                    "สตอร์มรูคซิกเนเจอร์ x2",
+                    "2张异画雷鸫",
+                    "珍藏風暴禿鼻鴉 x2"
+                ],
+                "m_locId": 2935822
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3029,
+            "m_description": {
+                "m_locValues": [
+                    "Farseer Wo",
+                    "Scharfseherin Wo",
+                    "Clarividente Wo",
+                    "Clarividente Wo",
+                    "Long-voyante Wo",
+                    "Chiaroveggente Wo",
+                    "遠見師ウー",
+                    "선견자 워오",
+                    "Wieszczka Wo",
+                    "Clarividente Wo",
+                    "Предсказательница Во",
+                    "ฟาร์เซียร์โว",
+                    "先知者沃",
+                    "先知沃老"
+                ],
+                "m_locId": 2935827
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
             "m_ID": 303,
             "m_description": {
                 "m_locValues": [
@@ -44507,6 +46127,276 @@
             "m_locked": 0
         },
         {
+            "m_ID": 3030,
+            "m_description": {
+                "m_locValues": [
+                    "Signature Husk, Eternal Reaper",
+                    "Markante Karte: Hülle, ewiger Schnitter",
+                    "Receptáculo Segador Eterno distintiva",
+                    "Vacuo, Segador eterno insignia",
+                    "Carte signature Karcass, la Mort sempiternelle",
+                    "Husk, l'Eterno Mietitore Pregiata",
+                    "シグネチャー「永遠の収穫者のハスク」",
+                    "간판 영원한 사신 허스크",
+                    "Specjalna karta Powłok, Wieczny Żniwiarz",
+                    "Carcaça, Ceifador Eterno Exclusivo",
+                    "Особая карта «Вечный жнец Пустотел»",
+                    "ฮัสค์ ยมทูตนิรันดร์ซิกเนเจอร์",
+                    "异画永时收割者哈斯克",
+                    "珍藏『永恆收割者』哈斯克"
+                ],
+                "m_locId": 2935828
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3031,
+            "m_description": {
+                "m_locValues": [
+                    "2x Signature Dethrone",
+                    "2x markante Karte Entthronen",
+                    "2x Destronar distintiva",
+                    "2 Destronar insignia",
+                    "Carte signature Destitution ×2",
+                    "2 Detronizzazione Pregiate",
+                    "シグネチャー「解任」x2",
+                    "간판 권한 박탈 2장",
+                    "2 x specjalna karta Detronizacja",
+                    "2x Destronar Exclusivo",
+                    "2 особые карты «Свержение»",
+                    "2x โค่นบัลลังก์ซิกเนเจอร์",
+                    "2张异画诛灭暴君",
+                    "2x 珍藏罷黜"
+                ],
+                "m_locId": 2935829
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3032,
+            "m_description": {
+                "m_locValues": [
+                    "2x Signature Undefeated Champion",
+                    "2x markante Karte Unbesiegter Champion",
+                    "2x Campeón invicto distintiva",
+                    "2 Campeón invicto insignia",
+                    "Carte signature Champion invaincu ×2",
+                    "2 Campione Imbattuto Pregiate",
+                    "シグネチャー「無敗の勇者」x2",
+                    "간판 무패의 용사 2장",
+                    "2 x specjalna karta Niepokonany czempion",
+                    "2x Campeão Invicto Exclusivo",
+                    "2 особые карты «Непобежденный чемпион»",
+                    "2x แชมเปี้ยนไร้พ่ายซิกเนเจอร์",
+                    "2张异画不败冠军",
+                    "2x 珍藏不敗的勇士"
+                ],
+                "m_locId": 2935830
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3033,
+            "m_description": {
+                "m_locValues": [
+                    "2x Signature Highborne Mentor",
+                    "2x markante Karte Mentor der Hochgeborenen",
+                    "2x Mentor Altonato distintiva",
+                    "2 Mentor altonato insignia",
+                    "Carte signature Mentor bien-né ×2",
+                    "2 Mentore Alto Nobile Pregiate",
+                    "シグネチャー「ハイボーンの師匠」x2",
+                    "간판 명가의 스승 2장",
+                    "2 x specjalna karta Mentor z wysokiego rodu",
+                    "2x Mentor Altaneiro Exclusivo",
+                    "2 особые карты «Высокорожденный-наставник»",
+                    "2x อาจารย์ชาวไฮบอร์นซิกเนเจอร์",
+                    "2张异画上层精灵教师",
+                    "2x 珍藏精靈貴族導師"
+                ],
+                "m_locId": 2935831
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3034,
+            "m_description": {
+                "m_locValues": [
+                    "Hero Skin and Card Back - Husk, Eternal Reaper",
+                    "Heldenskin und Kartenrücken: Hülle, ewiger Schnitter",
+                    "Aspecto de héroe y dorso de carta - Receptáculo Segador Eterno",
+                    "Diseño de héroe y dorso de carta: Vacuo, Segador eterno",
+                    "Modèle héroïque et dos de carte : Karcass, la Mort sempiternelle",
+                    "Modello eroe e dorso delle carte - Husk, l'Eterno Mietitore",
+                    "ヒーロースキンとカード裏面デザイン - 永遠の収穫者のハスク",
+                    "영웅 스킨 및 카드 뒷면 - 영원한 사신 허스크",
+                    "Skórka bohatera i rewers – Powłok, Wieczny Żniwiarz",
+                    "Visual de Herói e Verso de Card – Carcaça, Ceifador Eterno",
+                    "Облик героя и рубашка «Вечный жнец Пустотел»",
+                    "สกินฮีโร่และหลังการ์ด - ฮัสค์ ยมทูตนิรันดร์",
+                    "英雄皮肤永时收割者哈斯克及其卡背图案",
+                    "英雄造型和卡背：『永恆收割者』哈斯克"
+                ],
+                "m_locId": 2935832
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3035,
+            "m_description": {
+                "m_locValues": [
+                    "Hearthstone Hero Skin - Warden Tyrande",
+                    "Hearthstone: Heldenskin – Wächterin Tyrande",
+                    "Aspecto de héroe de Hearthstone - Tyrande celadora",
+                    "Diseño de heroína de Hearthstone: Celadora Tyrande",
+                    "Modèle héroïque de Hearthstone : Gardienne Tyrande",
+                    "Modello eroe di Hearthstone - Tyrande Guardiana",
+                    "王道用ヒーロースキン - ウォーデンのティランダ",
+                    "하스스톤 영웅 스킨 - 감시자 티란데",
+                    "Skórka bohatera – Strażniczka Tyrande",
+                    "Visual de Herói de Hearthstone – Tyrande Guardiã",
+                    "Облик героя Hearthstone «Страж Тиранда»",
+                    "สกินฮีโร่ Heartsthone - วอร์เดนทิรันเดอ",
+                    "传统对战英雄皮肤 - 守望者泰兰德",
+                    "爐石戰記英雄造型：看守者泰蘭妲"
+                ],
+                "m_locId": 2935833
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3036,
+            "m_description": {
+                "m_locValues": [
+                    "Random Golden Epic",
+                    "Zufällige goldene epische Karte",
+                    "Épica dorada aleatoria",
+                    "Épica dorada aleatoria",
+                    "Carte épique dorée aléatoire",
+                    "Epica Dorata casuale",
+                    "ランダムなゴールデンエピック",
+                    "무작위 황금 특급 카드",
+                    "Losowa złota karta epicka",
+                    "Épico Dourado Aleatório",
+                    "Случайная золотая эпическая карта",
+                    "การ์ดระดับสุดยอดสีทองแบบสุ่ม",
+                    "随机金色史诗卡牌",
+                    "隨機史詩金卡"
+                ],
+                "m_locId": 2935834
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3037,
+            "m_description": {
+                "m_locValues": [
+                    "Across the Timeways Golden Card Pack",
+                    "Goldene Kartenpackung aus Reise durch die Zeitwege",
+                    "Sobre dorado de Los Portales del Tiempo",
+                    "Paquete de cartas dorado de A través de los Portales del Tiempo",
+                    "Paquet de cartes dorées de\nPar-delà les voies temporelles",
+                    "Busta Dorata di Oltre i Flussi Temporali",
+                    "「タイムウェイの旅人たち」ゴールデンカードパック",
+                    "시간의 길 너머로 황금 카드 팩",
+                    "Złoty pakiet kart Poprzez linie czasu",
+                    "Pacote de Cards Dourado de Através dos Percursos Temporais",
+                    "Золотой комплект карт «Сквозь потоки времени»",
+                    "ซองการ์ด Across the Timeways สีทอง",
+                    "穿越时间流金色包",
+                    "《時光特攻隊》黃金卡牌包"
+                ],
+                "m_locId": 2935835
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3038,
+            "m_description": {
+                "m_locValues": [
+                    "Cosmetic Pet - Arfus",
+                    "Kosmetisches Haustier – Der Lichköter",
+                    "Mascota cosmética - Garraparthas",
+                    "Mascota estética: Arfus",
+                    "Familier ornemental – Arfus",
+                    "Mascotte cosmetica - Arfus",
+                    "ペット - 「アーファス」",
+                    "외형 애완동물 - 멍서스",
+                    "Ozdobny pupil – Król Liż",
+                    "Mascote Cosmética - Arfus",
+                    "Декоративный питомец «Псартас»",
+                    "สัตว์เลี้ยงตกแต่ง - อาร์ฟัส",
+                    "宠物 - 阿尔福斯",
+                    "造型寵物：阿福斯"
+                ],
+                "m_locId": 2935836
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3039,
+            "m_description": {
+                "m_locValues": [
+                    "1x Across the Timeways Pack",
+                    "1x Packung aus Reise durch die Zeitwege",
+                    "1x sobre de Los Portales del Tiempo",
+                    "1 paquete de A través de los Portales del Tiempo",
+                    "Paquet de Par-delà les voies temporelles ×1",
+                    "1 busta di Oltre i Flussi Temporali",
+                    "「タイムウェイの旅人たち」パックx1",
+                    "시간의 길 너머로 팩 1개",
+                    "1 pakiet Poprzez linie czasu",
+                    "1x Pacote de Através dos Percursos Temporais",
+                    "1 комплект «Сквозь потоки времени»",
+                    "1x ซองการ์ด Across the Timeways",
+                    "1包穿越时间流卡牌包",
+                    "1x 《時光特攻隊》卡牌包"
+                ],
+                "m_locId": 2935895
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
             "m_ID": 304,
             "m_description": {
                 "m_locValues": [
@@ -44526,6 +46416,60 @@
                     "大廚史蓋伯斯"
                 ],
                 "m_locId": 2765371
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3040,
+            "m_description": {
+                "m_locValues": [
+                    "1x Across the Timeways Pack",
+                    "1x Packung aus Reise durch die Zeitwege",
+                    "1x sobre de Los Portales del Tiempo",
+                    "1 paquete de A través de los Portales del Tiempo",
+                    "Paquet de Par-delà les voies temporelles ×1",
+                    "1 busta di Oltre i Flussi Temporali",
+                    "「タイムウェイの旅人たち」パックx1",
+                    "시간의 길 너머로 팩 1개",
+                    "1 pakiet Poprzez linie czasu",
+                    "1x Pacote de Através dos Percursos Temporais",
+                    "1 комплект «Сквозь потоки времени»",
+                    "1x ซองการ์ด Across the Timeways",
+                    "1包穿越时间流卡牌包",
+                    "1x 《時光特攻隊》卡牌包"
+                ],
+                "m_locId": 2935896
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3041,
+            "m_description": {
+                "m_locValues": [
+                    "Champion's Crest 2025 - Card Back",
+                    "Kartenrücken: Championwappen 2025",
+                    "Blasón de Campeón 2025 - Dorso de carta",
+                    "Dorso de carta: Emblema de campeón 2025",
+                    "Dos de carte Emblème de ferriste 2025",
+                    "Dorso - Emblema del Campione 2025",
+                    "カード裏面デザイン「勇者のクレスト2025」",
+                    "챔피언의 문장 2025 - 카드 뒷면",
+                    "Odznaka czempiona 2025 – rewers",
+                    "Brasão do Campeão 2025 - Verso de card",
+                    "Рубашка для карт «Герб чемпиона 2025»",
+                    "ตราของแชมเปี้ยน 2025 - หลังการ์ด",
+                    "卡背图案 - 冠军桂冠2025",
+                    "卡背：2025勇士紋章"
+                ],
+                "m_locId": 2935897
             },
             "m_chooseOne": 0,
             "m_random": 0,
@@ -44607,6 +46551,33 @@
                     "《暴風城》卡牌包"
                 ],
                 "m_locId": 2765374
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3074,
+            "m_description": {
+                "m_locValues": [
+                    "Sundial Coin",
+                    "Sonnenuhrmünze",
+                    "Moneda de reloj de sol",
+                    "Moneda de reloj de sol",
+                    "Pièce de cadran solaire",
+                    "Moneta della Meridiana",
+                    "日時計のコイン",
+                    "해시계 동전",
+                    "Moneta z gnomonem",
+                    "Moeda do Relógio de Sol",
+                    "Монетка с солнечными часами",
+                    "เหรียญนาฬิกาแดด",
+                    "日晷幸运币",
+                    "日晷幸運幣"
+                ],
+                "m_locId": 2938766
             },
             "m_chooseOne": 0,
             "m_random": 0,

@@ -99,6 +99,226 @@
             }
         },
         {
+            "m_ID": 1030,
+            "m_name": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            }
+        },
+        {
+            "m_ID": 1031,
+            "m_name": {
+                "m_locValues": [
+                    "Death Knight",
+                    "Todesritter",
+                    "Caballero de la Muerte",
+                    "Caballero de la muerte",
+                    "Chevalier de la mort",
+                    "Cavaliere della Morte",
+                    "デスナイト",
+                    "죽음의 기사",
+                    "Rycerz śmierci",
+                    "Cavaleiro da Morte",
+                    "Рыцарь смерти",
+                    "เดธไนท์",
+                    "死亡骑士",
+                    "死亡騎士"
+                ],
+                "m_locId": 2910376
+            }
+        },
+        {
+            "m_ID": 1032,
+            "m_name": {
+                "m_locValues": [
+                    "Demon Hunter",
+                    "Dämonenjäger",
+                    "Cazador de demonios",
+                    "Cazador de demonios",
+                    "Chasseur de démons",
+                    "Cacciatore di Demoni",
+                    "デーモンハンター",
+                    "악마사냥꾼",
+                    "Łowca demonów",
+                    "Caçador de Demônios",
+                    "Охотник на демонов",
+                    "ดีมอนฮันเตอร์",
+                    "恶魔猎手",
+                    "惡魔獵人"
+                ],
+                "m_locId": 2910377
+            }
+        },
+        {
+            "m_ID": 1033,
+            "m_name": {
+                "m_locValues": [
+                    "Druid",
+                    "Druide",
+                    "Druida",
+                    "Druida",
+                    "Druide",
+                    "Druido",
+                    "ドルイド",
+                    "드루이드",
+                    "Druid",
+                    "Druida",
+                    "Друид",
+                    "ดรูอิด",
+                    "德鲁伊",
+                    "德魯伊"
+                ],
+                "m_locId": 2910378
+            }
+        },
+        {
+            "m_ID": 1034,
+            "m_name": {
+                "m_locValues": [
+                    "Hunter",
+                    "Jäger",
+                    "Cazador",
+                    "Cazador",
+                    "Chasseur",
+                    "Cacciatore",
+                    "ハンター",
+                    "사냥꾼",
+                    "Łowca",
+                    "Caçador",
+                    "Охотник",
+                    "ฮันเตอร์",
+                    "猎人",
+                    "獵人"
+                ],
+                "m_locId": 2910379
+            }
+        },
+        {
+            "m_ID": 1035,
+            "m_name": {
+                "m_locValues": [
+                    "Mage",
+                    "Magier",
+                    "Mago",
+                    "Mago",
+                    "Mage",
+                    "Mago",
+                    "メイジ",
+                    "마법사",
+                    "Mag",
+                    "Mago",
+                    "Маг",
+                    "เมจ",
+                    "法师",
+                    "法師"
+                ],
+                "m_locId": 2910380
+            }
+        },
+        {
+            "m_ID": 1036,
+            "m_name": {
+                "m_locValues": [
+                    "Paladin",
+                    "Paladin",
+                    "Paladín",
+                    "Paladín",
+                    "Paladin",
+                    "Paladino",
+                    "パラディン",
+                    "성기사",
+                    "Paladyn",
+                    "Paladino",
+                    "Паладин",
+                    "พาลาดิน",
+                    "圣骑士",
+                    "聖騎士"
+                ],
+                "m_locId": 2910381
+            }
+        },
+        {
+            "m_ID": 1037,
+            "m_name": {
+                "m_locValues": [
+                    "Priest",
+                    "Priester",
+                    "Sacerdote",
+                    "Sacerdote",
+                    "Prêtre",
+                    "Sacerdote",
+                    "プリースト",
+                    "사제",
+                    "Kapłan",
+                    "Sacerdote",
+                    "Жрец",
+                    "พรีสต์",
+                    "牧师",
+                    "牧師"
+                ],
+                "m_locId": 2910382
+            }
+        },
+        {
+            "m_ID": 1038,
+            "m_name": {
+                "m_locValues": [
+                    "Rogue",
+                    "Schurke",
+                    "Pícaro",
+                    "Pícaro",
+                    "Voleur",
+                    "Ladro",
+                    "ローグ",
+                    "도적",
+                    "Łotr",
+                    "Ladino",
+                    "Разбойник",
+                    "โร้ก",
+                    "潜行者",
+                    "盜賊"
+                ],
+                "m_locId": 2910383
+            }
+        },
+        {
+            "m_ID": 1039,
+            "m_name": {
+                "m_locValues": [
+                    "Shaman",
+                    "Schamane",
+                    "Chamán",
+                    "Chamán",
+                    "Chaman",
+                    "Sciamano",
+                    "シャーマン",
+                    "주술사",
+                    "Szaman",
+                    "Xamã",
+                    "Шаман",
+                    "ชาแมน",
+                    "萨满祭司",
+                    "薩滿"
+                ],
+                "m_locId": 2910384
+            }
+        },
+        {
             "m_ID": 104,
             "m_name": {
                 "m_locValues": [
@@ -118,6 +338,72 @@
                     ""
                 ],
                 "m_locId": 0
+            }
+        },
+        {
+            "m_ID": 1040,
+            "m_name": {
+                "m_locValues": [
+                    "Warlock",
+                    "Hexenmeister",
+                    "Brujo",
+                    "Brujo",
+                    "Démoniste",
+                    "Stregone",
+                    "ウォーロック",
+                    "흑마법사",
+                    "Czarnoksiężnik",
+                    "Bruxo",
+                    "Чернокнижник",
+                    "วอร์ล็อค",
+                    "术士",
+                    "術士"
+                ],
+                "m_locId": 2910385
+            }
+        },
+        {
+            "m_ID": 1041,
+            "m_name": {
+                "m_locValues": [
+                    "Warrior",
+                    "Krieger",
+                    "Guerrero",
+                    "Guerrero",
+                    "Guerrier",
+                    "Guerriero",
+                    "ウォリアー",
+                    "전사",
+                    "Wojownik",
+                    "Guerreiro",
+                    "Воин",
+                    "วอริเออร์",
+                    "战士",
+                    "戰士"
+                ],
+                "m_locId": 2910386
+            }
+        },
+        {
+            "m_ID": 1042,
+            "m_name": {
+                "m_locValues": [
+                    "Neutral",
+                    "Neutral",
+                    "Neutral",
+                    "Neutral",
+                    "Neutre",
+                    "Generiche",
+                    "中立",
+                    "중립",
+                    "Neutralne",
+                    "Neutro",
+                    "Общие",
+                    "เป็นกลาง",
+                    "中立",
+                    "中立"
+                ],
+                "m_locId": 2910387
             }
         },
         {
@@ -932,6 +1218,28 @@
                     ""
                 ],
                 "m_locId": 0
+            }
+        },
+        {
+            "m_ID": 1391,
+            "m_name": {
+                "m_locValues": [
+                    "Hidden",
+                    "Versteckt",
+                    "Oculto",
+                    "Oculto",
+                    "Masqué",
+                    "Nascoste",
+                    "非表示",
+                    "숨겨짐",
+                    "Ukryte",
+                    "Oculto",
+                    "Скрытые",
+                    "ความลับ",
+                    "隐藏",
+                    "隱藏"
+                ],
+                "m_locId": 2935589
             }
         },
         {

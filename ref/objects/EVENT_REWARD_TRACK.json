@@ -3050,6 +3050,254 @@
         },
         {
             "m_ID": 0,
+            "m_specialEventId": 54,
+            "m_eventRewardTrackId": 146,
+            "m_choiceConfirmationText": {
+                "m_locValues": [
+                    "Demon Hunter, Mage, Hunter, Warrior\n<i>(Summon Heroes of the Past?)</i>",
+                    "Dämonenjäger, Magier, Jäger, Krieger\n<i>(Helden der Vergangenheit herbeirufen?)</i>",
+                    "Cazador de demonios, mago, cazador y guerrero\n<i>(¿Invocar a héroes del pasado?)</i>",
+                    "Cazador de demonios, Mago, Cazador, Guerrero\n<i>(¿Quieres invocar a héroes del pasado?)</i>",
+                    "Chasseur de démons, mage, chasseur, guerrier\n<i>(Invoquer les héros et héroïnes du passé ?)</i>",
+                    "Cacciatore di Demoni, Mago, Cacciatore, Guerriero\n<i>(Vuoi evocare gli Eroi del Passato?)</i>",
+                    "デーモンハンター、メイジ、ハンター、ウォリアー\n<i>（過去のヒーローを召喚するか？）</i>",
+                    "악마사냥꾼, 마법사, 사냥꾼, 전사\n<i>(과거의 영웅들을 소환할까요?)</i>",
+                    "Łowca demonów, mag, łowca, wojownik\n<i>(Przyzwać bohaterów przeszłości?)</i>",
+                    "Caçador de Demônios, Mago, Caçador, Guerreiro\n<i>(Evocar heróis do passado?)</i>",
+                    "Охотник на демонов, маг, охотник, воин\n<i>(Призвать героев из прошлого?)</i>",
+                    "ดีมอนฮันเตอร์ เมจ ฮันเตอร์ วอริเออร์\n<i>(เรียกฮีโร่จากอดีต?)</i>",
+                    "恶魔猎手，法师，猎人，战士\n<i>（召唤过去的英雄？）</i>",
+                    "惡魔獵人、法師、獵人、戰士\n<i>(召喚過去的英雄？)</i>"
+                ],
+                "m_locId": 2934764
+            },
+            "m_shortConclusion": {
+                "m_locValues": [
+                    "Stand firm! We fight as one!",
+                    "Bleibt standhaft! Wir kämpfen gemeinsam!",
+                    "¡Siempre firmes! ¡Luchamos como uno solo!",
+                    "¡Firmes! ¡Luchamos unidos!",
+                    "Tenez bon ! Nous combattons ensemble !",
+                    "Resistiamo e combattiamo uniti!",
+                    "踏ん張れ！一丸となって戦おう！",
+                    "굳게 버텨라! 우리는 하나 되어 싸운다!",
+                    "Ani kroku w tył! W jedności siła!",
+                    "Firmes! Lutamos unidos!",
+                    "Стоять до последнего! Мы едины!",
+                    "เราจะยืดหยัดและร่วมสู้เป็นหนึ่ง!",
+                    "坚持住！我们并肩作战！",
+                    "保持堅定！我們會共同奮戰！"
+                ],
+                "m_locId": 2934765
+            },
+            "m_longConclusion": {
+                "m_locValues": [
+                    "Your call echoes across time and space, Champion!\nWe march as one to end Murozond's terror!\nHis twisted future ends here.\nToday, the sands of time turn against him!\n\n - <i>Heroes of the Past</i>",
+                    "Euer Ruf erzeugt Echos in Raum und Zeit, Champion!\nVereint stellen wir uns gegen Murozond!\nSeine verdorbene Zukunft endet hier.\nHeute wendet sich der Sand der Zeit gegen ihn!\n\n – <i>Helden der Vergangenheit</i>",
+                    "¡Tu llamada reverbera por el tiempo y el espacio, Adalid!\n¡Marchamos al unísono para poner fin al terror de Murozond!\nAquí termina su futuro retorcido.\nHoy, ¡las arenas del tiempo se volverán contra él!\n\n - <i>Héroes del pasado</i>",
+                    "¡Tu llamado reverbera por todo el tiempo y el espacio, adalid!\n¡Marchamos unidos para poner fin al terror de Murozond!\nSu futuro retorcido termina aquí.\n¡Hoy, las arenas del tiempo lucharán contra él!\n\n - <i>Héroes del pasado</i>",
+                    "Votre appel résonne à travers le temps et l’espace !\nEnsemble, nous allons mettre un terme au règne de Murozond !\nSon funeste destin s’achève ici.\nDésormais, le temps joue contre lui !\n\n – <i>Les héros et héroïnes du passé</i>",
+                    "Campione, il tuo richiamo echeggia attraverso il tempo e lo spazio.\nMarciamo insieme per porre fine al regno del terrore di Murozond!\nIl suo futuro perverso finisce qui.\nOggi, le sabbie del tempo gli si ritorceranno contro!\n\n - <i>Eroi del Passato</i>",
+                    "勇者よ、時空を超えて残響を呼び出したな！\n一丸となってムロゾンドの恐怖を終わらせよう！\n奴のひねくれた未来も、もはやこれまで。\n今日こそ、時間の砂は奴の敵となるのだ！\n\n- <i>過去のヒーロー</i>",
+                    "그대의 부름이 시공을 가로질러 메아리친다, 용사여!\n우리는 무르도즈노의 공포에 종지부를 찍기 위해 하나 되어 행군하노라!\n그의 뒤틀린 미래는 여기서 끝이 난다.\n오늘, 시간의 모래가 그를 거역한다!\n\n - <i>과거의 영웅들</i>",
+                    "Twoje wezwanie odbija się echem w czasie i przestrzeni!\nKroczymy razem, by położyć kres terrorowi Murozonda!\nTo koniec jego wypaczonej przyszłości.\nDziś piaski czasu zwracają się przeciw niemu!\n\n – <i>Bohaterowie przeszłości</i>",
+                    "Seu chamado ecoa através do tempo e do espaço, Campeão!\nMarchamos como um só para dar um basta ao terror de Murozond!\nO futuro sórdido dele acaba aqui.\nHoje, as areias do tempo não correm a favor dele!\n\n – <i>Heróis do passado</i>",
+                    "Твой зов огласил время и пространство, герой!\nВместе мы остановим ужасающие планы Дорнозму!\nЕго искаженное будущее не настанет.\nСегодня сами пески времени сражаются против него!\n\n<i>Герои из прошлого)</i>",
+                    "เสียงเรียกของท่านก้องกังวาลไปทั่วทุกมิติเวลา แชมเปี้ยน!\nพวกเราจะเดินทัพเป็นหนึ่งเดียวเพื่อทำลายแผนชั่วของมูโรซอนด์ให้สิ้น\nอนาคตอันบิดเบี้ยวของมันจะจบลงเพียงเท่านี้\nเพราะในวันนี้ ทรายแห่งกาลเวลาได้ไหลย้อนกลับมาทำลายมันแล้ว!\n\n - <i>เหล่าฮีโร่จากอดีต</i>",
+                    "勇士，你的呼唤在时空中回荡！\n我们齐心协力，一起解决恐怖的姆诺兹多！\n他那扭曲的未来必将不复存在。\n从此刻起，时间会站在我们一边！\n\n——<i>过去的英雄们</i>",
+                    "勇士，你的呼喚在時空之中迴響！\n我們會團結一心，終結姆多茲諾的恐怖行徑！\n他創造的扭曲未來就到此為止了。\n在今天，時間的黃沙會轉而對付他！\n\n - <i>過去的英雄</i>"
+                ],
+                "m_locId": 2934766
+            }
+        },
+        {
+            "m_ID": 0,
+            "m_specialEventId": 54,
+            "m_eventRewardTrackId": 147,
+            "m_choiceConfirmationText": {
+                "m_locValues": [
+                    "Druid, Priest, Rogue, Warlock\n<i>(Summon Heroes of the Meta-Present?)</i>",
+                    "Druide, Priester, Schurke, Hexenmeister\n<i>(Helden der Meta-Gegenwart herbeirufen?)</i>",
+                    "Druida, sacerdote, pícaro y brujo\n<i>(¿Invocar a héroes del metapresente?)</i>",
+                    "Druida, Sacerdote, Pícaro, Brujo\n<i>(¿Quieres invocar a héroes del metapresente?)</i>",
+                    "Druide, prêtre, voleur, démoniste\n<i>(Invoquer les héros et héroïnes du métaprésent ?)</i>",
+                    "Druido, Sacerdote, Ladro, Stregone\n<i>(Vuoi evocare gli Eroi del Meta-Presente?)</i>",
+                    "ドルイド、プリースト、ローグ、ウォーロック\n<i>（現在のメタのヒーローを召喚するか？）</i>",
+                    "드루이드, 사제, 도적, 흑마법사\n<i>(초현재의 영웅들을 소환할까요?)</i>",
+                    "Druid, kapłan, łotr, czarnoksiężnik\n<i>(Przyzwać bohaterów metateraźniejszości?)</i>",
+                    "Druida, Sacerdote, Ladino, Bruxo\n<i>(Evocar heróis do metapresente?)</i>",
+                    "Друид, жрец, разбойник, чернокнижник\n<i>(Призвать героев из мета-настоящего?)</i>",
+                    "ดรูอิด พรีสต์ โร้ก วอร์ล็อค\n<i>(เรียกฮีโร่จากเมต้าปัจจุบัน?)</i>",
+                    "德鲁伊，牧师，潜行者，术士\n<i>（召唤平行现在的英雄？）</i>",
+                    "德魯伊、牧師、盜賊、術士\n<i>(召喚元現今的英雄？)</i>"
+                ],
+                "m_locId": 2934767
+            },
+            "m_shortConclusion": {
+                "m_locValues": [
+                    "Stand firm! We fight as one!",
+                    "Bleibt standhaft! Wir kämpfen gemeinsam!",
+                    "¡Siempre firmes! ¡Luchamos como uno solo!",
+                    "¡Firmes! ¡Luchamos unidos!",
+                    "Tenez bon ! Nous combattons ensemble !",
+                    "Resistiamo e combattiamo uniti!",
+                    "踏ん張れ！一丸となって戦おう！",
+                    "굳게 버텨라! 우리는 하나 되어 싸운다!",
+                    "Ani kroku w tył! W jedności siła!",
+                    "Firmes! Lutamos unidos!",
+                    "Стоять до последнего! Мы едины!",
+                    "เราจะยืดหยัดและร่วมสู้เป็นหนึ่ง!",
+                    "坚持住！我们并肩作战！",
+                    "保持堅定！我們會共同奮戰！"
+                ],
+                "m_locId": 2934768
+            },
+            "m_longConclusion": {
+                "m_locValues": [
+                    "Your call echoes across time and space, Champion!\nWe march as one to end Murozond's terror!\nHis twisted future ends here.\nToday, the sands of time turn against him!\n\n - <i>Heroes of the Meta-Present</i>",
+                    "Euer Ruf erzeugt Echos in Raum und Zeit, Champion!\nVereint stellen wir uns gegen Murozond!\nSeine verdorbene Zukunft endet hier.\nHeute wendet sich der Sand der Zeit gegen ihn!\n\n – <i>Helden der Meta-Gegenwart</i>",
+                    "¡Tu llamada reverbera por el tiempo y el espacio, Adalid!\n¡Marchamos al unísono para poner fin al terror de Murozond!\nAquí termina su futuro retorcido.\nHoy, ¡las arenas del tiempo se volverán contra él!\n\n - <i>Héroes del metapresente</i>",
+                    "¡Tu llamado reverbera por todo el tiempo y el espacio, adalid!\n¡Marchamos unidos para poner fin al terror de Murozond!\nSu futuro retorcido termina aquí.\n¡Hoy, las arenas del tiempo lucharán contra él!\n\n - <i>Héroes del metapresente</i>",
+                    "Votre appel résonne à travers le temps et l’espace !\nEnsemble, nous allons mettre un terme au règne de Murozond !\nSon funeste destin s’achève ici.\nDésormais, le temps joue contre lui !\n\n – <i>Les héros et héroïnes du métaprésent</i>",
+                    "Campione, il tuo richiamo echeggia attraverso il tempo e lo spazio.\nMarciamo insieme per porre fine al regno del terrore di Murozond!\nIl suo futuro perverso finisce qui.\nOggi, le sabbie del tempo gli si ritorceranno contro!\n\n - <i>Eroi del Meta-Presente</i>",
+                    "勇者よ、時空を超えて残響を呼び出したな！\n一丸となってムロゾンドの恐怖を終わらせよう！\n奴のひねくれた未来も、もはやこれまで。\n今日こそ、時間の砂は奴の敵となるのだ！\n\n- <i>現在のメタのヒーロー</i>",
+                    "그대의 부름이 시공을 가로질러 메아리친다, 용사여!\n우리는 무르도즈노의 공포에 종지부를 찍기 위해 하나 되어 행군하노라!\n그의 뒤틀린 미래는 여기서 끝이 난다.\n오늘, 시간의 모래가 그를 거역한다!\n\n - <i>초현재의 영웅들</i>",
+                    "Twoje wezwanie odbija się echem w czasie i przestrzeni!\nKroczymy razem, by położyć kres terrorowi Murozonda!\nTo koniec jego wypaczonej przyszłości.\nDziś piaski czasu zwracają się przeciw niemu!\n\n – <i>Bohaterowie metateraźniejszości</i>",
+                    "Seu chamado ecoa através do tempo e do espaço, Campeão!\nMarchamos como um só para dar um basta ao terror de Murozond!\nO futuro sórdido dele acaba aqui.\nHoje, as areias do tempo não correm a favor dele!\n\n — <i>Heróis do metapresente</i>",
+                    "Твой зов огласил время и пространство, герой!\nВместе мы остановим ужасающие планы Дорнозму!\nЕго искаженное будущее не настанет.\nСегодня сами пески времени сражаются против него!\n\n<i>Герои из мета-настоящего)</i>",
+                    "เสียงเรียกของท่านก้องกังวาลไปทั่วทุกมิติเวลา แชมเปี้ยน!\nพวกเราจะเดินทัพเป็นหนึ่งเดียวเพื่อทำลายแผนชั่วของมูโรซอนด์ให้สิ้น\nอนาคตอันบิดเบี้ยวของมันจะจบลงเพียงเท่านี้\nเพราะในวันนี้ ทรายแห่งกาลเวลาได้ไหลย้อนกลับมาทำลายมันแล้ว!\n\n - <i>เหล่าฮีโร่จากเมต้าปัจจุบัน</i>",
+                    "勇士，你的呼唤在时空中回荡！\n我们齐心协力，一起解决恐怖的姆诺兹多！\n他那扭曲的未来必将不复存在。\n从此刻起，时间会站在我们一边！\n\n——<i>平行现在的英雄们</i>",
+                    "勇士，你的呼喚在時空之中迴響！\n我們會團結一心，終結姆多茲諾的恐怖行徑！\n他創造的扭曲未來就到此為止了。\n在今天，時間的黃沙會轉而對付他！\n\n - <i>元現今的英雄</i>"
+                ],
+                "m_locId": 2934769
+            }
+        },
+        {
+            "m_ID": 0,
+            "m_specialEventId": 54,
+            "m_eventRewardTrackId": 148,
+            "m_choiceConfirmationText": {
+                "m_locValues": [
+                    "Death Knight, Paladin, Shaman\n<i>(Summon Heroes of the Future?)</i>",
+                    "Todesritter, Paladin, Schamane\n<i>(Helden der Zukunft herbeirufen?)</i>",
+                    "Caballero de la Muerte, paladín y chamán\n<i>(¿Invocar a héroes del futuro?)</i>",
+                    "Caballero de la muerte, Paladín, Chamán\n<i>(¿Quieres invocar a héroes del futuro?)</i>",
+                    "Chevalier de la mort, paladin, chaman\n<i>(Invoquer les héros et héroïnes du futur ?)</i>",
+                    "Cavaliere della Morte, Paladino, Sciamano\n<i>(Vuoi evocare gli Eroi del Futuro?)</i>",
+                    "デスナイト、パラディン、シャーマン\n<i>（未来のヒーローを召喚するか？）</i>",
+                    "죽음의 기사, 성기사, 주술사\n<i>(미래의 영웅들을 소환할까요?)</i>",
+                    "Rycerz śmierci, paladyn, szaman\n<i>(Przyzwać bohaterów przyszłości?)</i>",
+                    "Cavaleiro da Morte, Paladino, Xamã\n<i>(Evocar heróis do futuro?)</i>",
+                    "Рыцарь смерти, паладин, шаман\n<i>(Призвать героев из будущего?)</i>",
+                    "เดธไนท์ พาลาดิน ชาแมน\n<i>(เรียกฮีโร่จากอนาคต?)</i>",
+                    "死亡骑士，圣骑士，萨满祭司\n<i>（召唤未来的英雄？）</i>",
+                    "死亡騎士、聖騎士、薩滿\n<i>(召喚未來的英雄？)</i>"
+                ],
+                "m_locId": 2934770
+            },
+            "m_shortConclusion": {
+                "m_locValues": [
+                    "Stand firm! We fight as one!",
+                    "Bleibt standhaft! Wir kämpfen gemeinsam!",
+                    "¡Siempre firmes! ¡Luchamos como uno solo!",
+                    "¡Firmes! ¡Luchamos unidos!",
+                    "Tenez bon ! Nous combattons ensemble !",
+                    "Resistiamo e combattiamo uniti!",
+                    "踏ん張れ！一丸となって戦おう！",
+                    "굳게 버텨라! 우리는 하나 되어 싸운다!",
+                    "Ani kroku w tył! W jedności siła!",
+                    "Firmes! Lutamos unidos!",
+                    "Стоять до последнего! Мы едины!",
+                    "เราจะยืดหยัดและร่วมสู้เป็นหนึ่ง!",
+                    "坚持住！我们并肩作战！",
+                    "保持堅定！我們會共同奮戰！"
+                ],
+                "m_locId": 2934771
+            },
+            "m_longConclusion": {
+                "m_locValues": [
+                    "Your call echoes across time and space, Champion!\nWe march as one to end Murozond's terror!\nHis twisted future ends here.\nToday, the sands of time turn against him!\n\n - <i>Heroes of the Future</i>",
+                    "Euer Ruf erzeugt Echos in Raum und Zeit, Champion!\nVereint stellen wir uns gegen Murozond!\nSeine verdorbene Zukunft endet hier.\nHeute wendet sich der Sand der Zeit gegen ihn!\n\n – <i>Helden der Zukunft</i>",
+                    "¡Tu llamada reverbera por el tiempo y el espacio, Adalid!\n¡Marchamos al unísono para poner fin al terror de Murozond!\nAquí termina su futuro retorcido.\nHoy, ¡las arenas del tiempo se volverán contra él!\n\n - <i>Héroes del futuro</i>",
+                    "¡Tu llamado reverbera por todo el tiempo y el espacio, adalid!\n¡Marchamos unidos para poner fin al terror de Murozond!\nSu futuro retorcido termina aquí.\n¡Hoy, las arenas del tiempo lucharán contra él!\n\n - <i>Héroes del futuro</i>",
+                    "Votre appel résonne à travers le temps et l’espace !\nEnsemble, nous allons mettre un terme au règne de Murozond !\nSon funeste destin s’achève ici.\nDésormais, le temps joue contre lui !\n\n – <i>Les héros et héroïne du futur</i>",
+                    "Campione, il tuo richiamo echeggia attraverso il tempo e lo spazio.\nMarciamo insieme per porre fine al regno del terrore di Murozond!\nIl suo futuro perverso finisce qui.\nOggi, le sabbie del tempo gli si ritorceranno contro!\n\n - <i>Eroi del Futuro</i>",
+                    "勇者よ、時空を超えて残響を呼び出したな！\n一丸となってムロゾンドの恐怖を終わらせよう！\n奴のひねくれた未来も、もはやこれまで。\n今日こそ、時間の砂は奴の敵となるのだ！\n\n- <i>未来のヒーロー</i>",
+                    "그대의 부름이 시공을 가로질러 메아리친다, 용사여!\n우리는 무르도즈노의 공포에 종지부를 찍기 위해 하나 되어 행군하노라!\n그의 뒤틀린 미래는 여기서 끝이 난다.\n오늘, 시간의 모래가 그를 거역한다!\n\n - <i>미래의 영웅들</i>",
+                    "Twoje wezwanie odbija się echem w czasie i przestrzeni!\nKroczymy razem, by położyć kres terrorowi Murozonda!\nTo koniec jego wypaczonej przyszłości.\nDziś piaski czasu zwracają się przeciw niemu!\n\n – <i>Bohaterowie przyszłości</i>",
+                    "Seu chamado ecoa através do tempo e do espaço, Campeão!\nMarchamos como um só para dar um basta ao terror de Murozond!\nO futuro sórdido dele acaba aqui.\nHoje, as areias do tempo não correm a favor dele!\n\n — <i>Heróis do futuro</i>",
+                    "Твой зов огласил время и пространство, герой!\nВместе мы остановим ужасающие планы Дорнозму!\nЕго искаженное будущее не настанет.\nСегодня сами пески времени сражаются против него!\n\n<i>Герои из будущего)</i>",
+                    "เสียงเรียกของท่านก้องกังวาลไปทั่วทุกมิติเวลา แชมเปี้ยน!\nพวกเราจะเดินทัพเป็นหนึ่งเดียวเพื่อทำลายแผนชั่วของมูโรซอนด์ให้สิ้น\nอนาคตอันบิดเบี้ยวของมันจะจบลงเพียงเท่านี้\nเพราะในวันนี้ ทรายแห่งกาลเวลาได้ไหลย้อนกลับมาทำลายมันแล้ว!\n\n - <i>เหล่าฮีโร่จากอนาคต</i>",
+                    "勇士，你的呼唤在时空中回荡！\n我们齐心协力，一起解决恐怖的姆诺兹多！\n他那扭曲的未来必将不复存在。\n从此刻起，时间会站在我们一边！\n\n——<i>未来的英雄们</i>",
+                    "勇士，你的呼喚在時空之中迴響！\n我們會團結一心，終結姆多茲諾的恐怖行徑！\n他創造的扭曲未來就到此為止了。\n在今天，時間的黃沙會轉而對付他！\n\n - <i>未來的英雄</i>"
+                ],
+                "m_locId": 2934772
+            }
+        },
+        {
+            "m_ID": 0,
+            "m_specialEventId": 55,
+            "m_eventRewardTrackId": 149,
+            "m_choiceConfirmationText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_shortConclusion": {
+                "m_locValues": [
+                    "Go with honor and thanks for stopping by!",
+                    "Geht mit Ehre und habt Dank für Euren Besuch.",
+                    "Ve con honor, ¡y gracias por venir!",
+                    "¡Ve con honor, y gracias por la visita!",
+                    "Marchez avec honneur… et merci pour votre visite !",
+                    "Comportati con onore e grazie per la visita!",
+                    "誇り高く去れ。お立ち寄りありがとう！",
+                    "명예롭게 나아가십시오. 들러주셔서 감사합니다!",
+                    "Walcz z honorem i dzięki za wizytę!",
+                    "Siga com honradez, e agradeço a preferência!",
+                    "Сражайся с честью и спасибо за визит!",
+                    "ขอให้ท่านเดินทางอย่างสมเกียรติและขอขอบคุณที่แวะมาอุดหนุน",
+                    "感谢回顾，一路顺风！",
+                    "謝謝光臨，願榮耀與你同行！"
+                ],
+                "m_locId": 2934776
+            },
+            "m_longConclusion": {
+                "m_locValues": [
+                    "May your new treasures serve you well!\nMy shop is always open, but its shelves\nnever look the same twice.",
+                    "Mögen Eure neuen Schätze Euch gute Dienste leisten!\nMein Laden ist stets geöffnet, aber die Regale\nverändern sich ständig.",
+                    "¡Ojalá te aprovechen tus nuevos tesoros!\nMi tienda siempre está abierta, pero nunca encontrarás\nlo mismo dos veces en sus estanterías.",
+                    "¡Disfruta de tus nuevos tesoros!\nMi tienda siempre está abierta, pero sus estanterías\nnunca se ven dos veces igual.",
+                    "Puissent vos nouveaux trésors vous être utiles !\nMa boutique est toujours ouverte,\nmais mes articles changent à chaque fois.",
+                    "Che i tuoi nuovi tesori possano esserti utili!\nIl mio negozio è sempre aperto, ma non\nci troverai mai gli stessi prodotti.",
+                    "新しい宝が役に立ちますように！\nうちの店はいつでも営業してるけど\n商品は常に入れ替わってる。",
+                    "새로 얻은 보물이 도움이 되길!\n제 상점은 언제나 열려 있지만\n상품은 매번 달라집니다!",
+                    "Oby nowe skarby dobrze ci służyły!\nMój sklep jest zawsze otwarty, ale jego półki\nnigdy nie wyglądają tak samo.",
+                    "Que seus novos tesouros lhe sejam úteis!\nMinha loja está sempre aberta, mas nunca\nse deparará com os mesmos artigos duas vezes.",
+                    "Пусть твои новые сокровища хорошо послужат тебе!\nМой магазин всегда открыт, но на полках\nвсе время появляется что-то новенькое.",
+                    "ขอให้สมบัติใหม่เหล่านี้สร้างประโยชน์ให้แก่ท่าน!\nร้านค้าของข้าพร้อมให้ท่านมาเยี่ยมชมเสมอ\nและข้ารับรองว่าสินค้ารอบหน้าจะไม่เหมือนรอบนี้แน่นอน",
+                    "希望你喜欢这些新的宝物！\n我的店总会开着，\n但里面的商品绝不会重复！",
+                    "願你的新寶物能對你有所助益！\n我的商店永遠不會打烊，但是架上的商品\n絕對不會重複。"
+                ],
+                "m_locId": 2934777
+            }
+        },
+        {
+            "m_ID": 0,
             "m_specialEventId": 6,
             "m_eventRewardTrackId": 43,
             "m_choiceConfirmationText": {

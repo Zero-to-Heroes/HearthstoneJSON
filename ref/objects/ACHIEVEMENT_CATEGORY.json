@@ -35,30 +35,6 @@
             "m_sortOrder": 0
         },
         {
-            "m_ID": 2,
-            "m_name": {
-                "m_locValues": [
-                    "Gameplay",
-                    "Gameplay",
-                    "Juego",
-                    "Experiencia de juego",
-                    "Jeu",
-                    "Dinamica di gioco",
-                    "ゲームプレイ",
-                    "게임플레이",
-                    "Rozgrywka",
-                    "Jogos",
-                    "Игра",
-                    "ระบบเกม",
-                    "游戏",
-                    "遊戲機制"
-                ],
-                "m_locId": 2730706
-            },
-            "m_icon": "gameplay",
-            "m_sortOrder": 1
-        },
-        {
             "m_ID": 3,
             "m_name": {
                 "m_locValues": [
@@ -81,6 +57,30 @@
             },
             "m_icon": "collection",
             "m_sortOrder": 2
+        },
+        {
+            "m_ID": 2,
+            "m_name": {
+                "m_locValues": [
+                    "Gameplay",
+                    "Gameplay",
+                    "Juego",
+                    "Experiencia de juego",
+                    "Jeu",
+                    "Dinamica di gioco",
+                    "ゲームプレイ",
+                    "게임플레이",
+                    "Rozgrywka",
+                    "Jogos",
+                    "Игра",
+                    "ระบบเกม",
+                    "游戏",
+                    "遊戲機制"
+                ],
+                "m_locId": 2730706
+            },
+            "m_icon": "gameplay",
+            "m_sortOrder": 1
         },
         {
             "m_ID": 4,
