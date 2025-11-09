@@ -54,15 +54,16 @@ class Logger(object):
         pass    
 
 sys.stdout = Logger("extract_audio.log")
+outDir = "out"
 
 # ./generate_audio_mapping.py /e/Games/Hearthstone/Data/Win
 def main():
-	os.makedirs(os.path.dirname(f"out/sounds_wav/"), exist_ok=True)
-	os.makedirs(os.path.dirname(f"out/sounds_wav/common/"), exist_ok=True)
-	os.makedirs(os.path.dirname(f"out/sounds/common/"), exist_ok=True)
+	os.makedirs(os.path.dirname(f"{outDir}/sounds_wav/"), exist_ok=True)
+	os.makedirs(os.path.dirname(f"{outDir}/sounds_wav/common/"), exist_ok=True)
+	os.makedirs(os.path.dirname(f"{outDir}/sounds/common/"), exist_ok=True)
 	for loc in locales:
-		os.makedirs(os.path.dirname(f"out/sounds/{loc}/"), exist_ok=True)
-		os.makedirs(os.path.dirname(f"out/sounds_wav/{loc}/"), exist_ok=True)
+		os.makedirs(os.path.dirname(f"{outDir}/sounds/{loc}/"), exist_ok=True)
+		os.makedirs(os.path.dirname(f"{outDir}/sounds_wav/{loc}/"), exist_ok=True)
 		
 	p = ArgumentParser()
 	p.add_argument("src")
@@ -137,8 +138,9 @@ def export_obj(path, obj, current_loc):
 		# if "VO_EX1_383_Play_01" not in base_file_name:
 		# 	continue
 
-		wav_file_name = f"out/sounds_wav/{current_loc}/{base_file_name}.wav"
-		ogg_file_name = f"out/sounds/{current_loc}/{base_file_name}.ogg"
+		print("processing %s" % base_file_name)
+		wav_file_name = f"{outDir}/sounds_wav/{current_loc}/{base_file_name}.wav"
+		ogg_file_name = f"{outDir}/sounds/{current_loc}/{base_file_name}.ogg"
 		# print("base_file_name %s" % base_file_name)
 		# print("wav_file_name %s" % wav_file_name)
 		# print("locale %s" % current_loc)
@@ -151,20 +153,30 @@ def export_obj(path, obj, current_loc):
 
 		try:
 			with open(wav_file_name, "wb") as f:
-				print("extracting wav file %s from %s" % (wav_file_name, path))
+				# print("\textracting wav file %s from %s" % (wav_file_name, path))
 				f.write(data)
-			print("\t exporting ogg file %s" % ogg_file_name)
+				# print("\t\twav file %s successfully created" % wav_file_name)
+		except Exception as e:
+			# print("\t\tcould not extract wav file %s from %s" % (wav_file_name, path))
+			# print("\t\texception %s " % e)
+			error = 1
+
+		try:
+			# print("\texporting ogg file %s" % ogg_file_name)
 			sound = AudioSegment.from_wav(wav_file_name)		
 			sound.export(ogg_file_name, format="ogg")
+			# print("\t\togg file %s successfully created" % ogg_file_name)
 		except Exception as e:
-			print("could not extract wav file %s from %s" % (wav_file_name, path))
-			print("exception %s " % e)
+			# print("\t\tcould not extract ogg file %s from %s" % (ogg_file_name, path))
+			# print("\t\texception %s " % e)
+			error = 1
 
 		if os.path.exists(ogg_file_name):
-			print("\togg file %s successfully created" % ogg_file_name)
+			error = 0
+			# print("\togg file %s successfully created" % ogg_file_name)
 		else:
-			print("\togg file %s not found" % ogg_file_name)
-			raise Exception("ogg file %s not found" % ogg_file_name)
+			print("\tERROR: ogg file %s not found" % ogg_file_name)
+			# raise Exception("ogg file %s not found" % ogg_file_name)
 
 
 if __name__ == '__main__':
