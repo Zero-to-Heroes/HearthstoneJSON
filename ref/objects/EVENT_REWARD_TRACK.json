@@ -3298,6 +3298,192 @@
         },
         {
             "m_ID": 0,
+            "m_specialEventId": 56,
+            "m_eventRewardTrackId": 150,
+            "m_choiceConfirmationText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_shortConclusion": {
+                "m_locValues": [
+                    "Happy Winter Veil!",
+                    "Frohes Winterhauchfest!",
+                    "¡Feliz Festival de Invierno!",
+                    "¡Feliz Festival de Invierno!",
+                    "Joyeux Voile d’hiver !",
+                    "Buon Grande Inverno!",
+                    "冬至祭おめでとう！",
+                    "즐거운 겨울맞이 축제!",
+                    "Szczęśliwej Zimowej Uczty!",
+                    "Feliz Véu de Inverno!",
+                    "Счастливого Зимнего Покрова!",
+                    "สุขสันต์วินเทอร์เวล!",
+                    "冬幕节快乐！",
+                    "冬幕節快樂！"
+                ],
+                "m_locId": 2935171
+            },
+            "m_longConclusion": {
+                "m_locValues": [
+                    "...And it was always said of Rafaam that he\nknew how to keep Winterveil well, if any\nin the Tavern possessed the knowledge!\nMay that be truly said of us, and all of us!\nAnd so, as Mini Murky observed,\n\"Mglrmglmglmgl! Every One!\"",
+                    "... Und immer sagte man von Rafaam,\ner wisse das Winterhauchfest recht zu feiern, wenn es\nüberhaupt jemand im Gasthaus wisse!\nMöge dies auch in Wahrheit von uns allen gesagt werden können.\nUnd so schließen wir mit Mini Murkys Worten:\n„Mglrmglmglmgl!, allerseits!“",
+                    "... De Rafaam siempre se decía que sabía\ncuidar del Festival de Invierno, ¡con tal de que\nalguien poseyera el conocimiento en la taberna!\n¡Ojalá lo mismo se pueda decir en verdad de todos\ny cada uno de nosotros! Y así, como ya observó\nMini Murky, «¡Mglrmglmglmgl a todos!».",
+                    "... Y por siempre se dijo que Rafaam\nera quien mejor sabía celebrar el Festival de Invierno,\n¡en especial entre los más versados en la materia de la Taberna!\n¡Quiera el destino que seamos dignos de esas palabras,\ntodos y cada uno de nosotros! Así que, como dijo Mini Murky,\n\"¡Mglrmglmglmgl, todos!\".",
+                    "Rafaam a la réputation de savoir célébrer \nla fête du Voile d’hiver comme personne.\nPuissions-nous en faire autant !\nEt comme le dirait si bien ce cher Bourbie :\n« Mglrmglmglmgl, tout le monde ! » ",
+                    "...Di Rafaam si è sempre detto che\nsapesse come festeggiare Grande Inverno,\nse solo qualcuno alla Locanda l'avesse saputo!\nChe questo possa essere vero per noi, ognuno di noi!\nPerciò, citando le parole di Mini Fosky:\n\"Mglrmglmglmgl a tutti!\"",
+                    "…ラファームについてはいつも、\n冬至祭をうまく継続させる術を心得ていたと言われてた。\nそれを知ってる者が酒場にいたかわからないがな！\n俺たちもそうであってほしいものだ！\nさあ、ミニ・マーキーが言ったように、\n「どいつもムグルァムグルムグルムグル！」だ！",
+                    "...그리고 선술집에서 겨울맞이 축제를\n잘 지내는 방법을 아는 자가 있다면 그게 바로\n라팜이라고들 입을 모아 이야기했습니다.\n우리도 진정으로 그런 말을 들을 수 있기를! 우리들 모두가!\n그리고 꼬마 머키가 말했던 것처럼,\n\"우리 모두 아옳옳옳!\"",
+                    "...I mówiło się zawsze, że jeśli ktokolwiek\nw Karczmie wiedział, jak godnie obchodzić\nZimową Ucztę, to właśnie Rafaam!\nOby i o nas można tak było rzec – o nas wszystkich!\nA więc, jak już powiedział miniaturowy Męcik:\nMglrmglmglmgl, kochani!",
+                    "... E todos concordavam em dizer que Rafaam sabia celebrar\no Véu de Inverno e manter seu espírito vivo o ano todo \n— se é que alguém na Taverna consegue isso!\nQue o mesmo possa ser dito de cada um de nós.\nE, como dizia o pequeno Murquinho,\n\"Mglrmglmglmgl a cada um de nós!",
+                    "...Про Рафаама говорили, что он умеет встретить\nЗимний Покров, как никто другой в таверне!\nХорошо, если бы так говорили о каждом из нас!\nИ, как заметил крошка Мурчаль,\n«Мрглмглмглмгл!»",
+                    "...และผู้คนก็พูดกันเสมอว่าราฟาม\nรู้จักรักษาบรรยากาศวินเทอร์เวล ถ้าใครสักคน\nในโรงเตี๊ยมมีความรู้เท่าเขาก็คงดี!\nขอให้เราทุกคนรู้เช่นเดียวกับเขา!\nและสุดท้าย เมอร์กี้จิ๋วก็กล่าวขึ้นว่า\n\"มกลรมกลมกลม! นะทุกคน!\"",
+                    "……人们常说，如果旅店中有谁真正懂得冬幕节的真谛，\n那一定是拉法姆！\n愿我们每个人都能享有节日的安宁！\n正如迷你奔波尔霸所言：\n\n“各位！姆啦啦咯姆啦嘎嘎咯！”",
+                    "…人們總是說，要說旅店裡\n誰最懂得慶祝冬幕節，\n那一定非拉法姆莫屬！\n願我們與在座的每一位皆是如此！\n就像小小莫奇說的那樣：\n「各位！咕莫咕莫呣！」"
+                ],
+                "m_locId": 2935172
+            }
+        },
+        {
+            "m_ID": 0,
+            "m_specialEventId": 58,
+            "m_eventRewardTrackId": 154,
+            "m_choiceConfirmationText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_shortConclusion": {
+                "m_locValues": [
+                    "Your New Home Awaits!",
+                    "Euer neues Heim erwartet Euch!",
+                    "¡Tu nuevo hogar te aguarda!",
+                    "¡Tu nuevo hogar te espera!",
+                    "Votre nouveau foyer vous attend !",
+                    "La tua nuova casa ti attende!",
+                    "あんたの新しい家が待ってるぞ！",
+                    "새로운 우리집이 기다립니다!",
+                    "Twój nowy dom czeka!",
+                    "Seu novo lar está à sua espera!",
+                    "Новый дом ждет вас!",
+                    "บ้านใหม่ของคุณรออยู่!",
+                    "新的家园等着你！",
+                    "你的全新家園正等著你！"
+                ],
+                "m_locId": 2939217
+            },
+            "m_longConclusion": {
+                "m_locValues": [
+                    "Join millions of adventurers across Azeroth in <b>World of Warcraft</b>!\nAfter settling into your new home, swing by and pull up a chair\nby the hearth. The Tavern always has room for another!\n\n<i>P.S. - Enjoy the housewarming gifts!</i>\n\n<i>* Start your housing journey today by pre-purchasing\n<b>World of Warcraft: Midnight</b>.</i>",
+                    "Schließt Euch in <b>World of Warcraft</b> Millionen anderen Abenteurern in Azeroth an!\nKommt und setzt Euch ans Feuer, wenn Ihr Euch in Eurem neuen Zuhause eingelebt habt! Im Gasthaus ist immer ein Plätzchen frei!\n\n<i>PS: - Viel Spaß mit den Einweihungsgeschenken!</i>\n\n<i>* Entdeckt schon heute die Behausungen, wenn Ihr\n<b>World of Warcraft: Midnight</b> im Vorverkauf erwerbt.</i>",
+                    "¡Recorre Azeroth con millones de aventureros en <b>World of Warcraft</b>!\nCuando te hayas asentado en tu nuevo hogar, pásate por aquí y siéntate\njunto al fuego. ¡La taberna siempre tiene sitio para uno más!\n\n<i>P. S.: ¡Esperamos que te gusten los regalos de bienvenida!</i>\n\n<i>* Comienza a disfrutar de tu vivienda hoy mismo precomprando\n<b>World of Warcraft: Midnight</b>.</i>",
+                    "¡Únete a millones de aventureros que viajan por todo Azeroth en <b>World of Warcraft</b>!\nDespués de acomodarte en tu nueva casa, acerca una silla y siéntate \njunto al fuego. ¡En la taberna siempre hay lugar para uno más!\n\n<i>P. D.: ¡Disfruta de los regalos de inauguración!</i>\n\n<i>* Comienza tu viaje en las Viviendas con la precompra de\n<b>World of Warcraft: Midnight</b>.</i>",
+                    "Rejoignez des millions d’aventuriers et aventurières en Azeroth dans <b>World of Warcraft</b> !\nUne fois dans votre nouvelle demeure, installez-vous confortablement au coin du feu et venez nous rendre visite. Il y a toujours de la place pour une personne de plus dans l’auberge !\n\n<i>P.S. Nous espérons que vous apprécierez les cadeaux de pendaison de crémaillère !</i>\n\n<i>* Commencez votre quête d’un logis dès aujourd’hui en profitant de l’offre de préachat de <b>World of Warcraft: Midnight</b>.</i>",
+                    "Unisciti a milioni di avventurieri e avventuriere in tutta Azeroth su <b>World of Warcraft</b>!\nDopo aver sistemato la tua nuova dimora, prendi una sedia e avvicinati\nal focolare. Nella Locanda c'è spazio per tutti!\n\n<i>PS: goditi i regali di benvenuto!</i>\n\n<i>* Scopri l'esperienza degli alloggi preacquistando\n<b>World of Warcraft: Midnight</b>.</i>",
+                    "<b>『World of Warcraft』</b>のアゼロスで数多くの他の冒険家に加わろう！\n新しい家で落ち着いたら、酒場に寄って暖炉のそばに椅子を\n持っていくといい。いつでも歓迎されること間違いなしだ！\n\n<i>ついでに引越祝いのギフトも満喫してくれ！</i>\n\n<i>*『World of Warcraft: Midnight』</b>を先行購入して\n<b>今すぐハウジングを始めよう。</i>",
+                    "<b>월드 오브 워크래프트</b>에서 아제로스의 수많은 모험가와 함께하세요!\n새 집에 입주한 후에는 잠시 들러\n난롯가에 의자를 가져다가 앉으세요. 선술집엔 항상 여러분의 자리가 있답니다!\n\n<i>추신 - 집들이 선물 잘 사용하세요!</i>\n\n<i>*<b>월드 오브 워크래프트: 한밤</b>을 사전 구매하고\n하우징을 이용해 보세요.</i>",
+                    "Przemierzaj Azeroth razem z milionami innych awanturników w <b>World of Warcraft</b>!\nGdy już urządzisz się w nowym domu, zajrzyj do nas\ni siadnij se przy kominku. W Karczmie znajdzie się miejsce dla każdego!\n\n<i>PS. Mamy nadzieję, że spodobają ci się prezenty powitalne!</i>\n\n<i>* Już dziś pomyśl o nowym domu i kup w przedsprzedaży \n<b>World of Warcraft: Midnight</b>.</i>",
+                    "Junte-se a milhões de viajantes Azeroth afora em <b>World of Warcraft</b>!\nDepois de se instalar na sua casa nova, venha nos ver e puxe uma cadeira\npara junto do fogo. Na Taverna, sempre cabe mais um!\n\n<i>P.S.: Aproveite os presentes para a casa nova!</i>\n\n<i>* Comece sua jornada de moradia hoje mesmo aproveitando a pré-venda de\n<b>World of Warcraft: Midnight</b>.</i>",
+                    "Присоединитесь к миллионам искателей приключений на Азероте\nв <b>World of Warcraft</b>! Когда освоитесь в новом доме, загляните\nв таверну и присядьте у очага. У нас всегда есть место для нового гостя!\n\n<i>Надеемся, что вам понравятся подарки на новоселье!</i>\n\n<i>* Оформите предзаказ <b>World of Warcraft: Midnight</b>\nи начните обживать свой дом уже сегодня.</i>",
+                    "ร่วมเดินทางทั่วอาเซรอธไปกับนักผจญภัยอีกหลายล้านคนใน <b>World of Warcraft</b>!\nหลังจากทำความคุ้นเคยกับบ้านใหม่ของคุณแล้ว ก็แวะมาหาเราและลากเก้าอี้\nเข้ามาใกล้ๆ เตาผิงได้นะ โรงเตี๊ยมมีที่ว่างต้อนรับคุณเสมอ!\n\n<i>ป.ล. - หวังว่าจะชอบของขวัญต้อนรับเข้าบ้านนะ!</i>\n\n<i>* เริ่มก้าวแรกสู่บ้านของคุณได้แล้ววันนี้ด้วยการซื้อ\n<b>World of Warcraft: Midnight</b> ล่วงหน้า</i>",
+                    "走进<b>魔兽世界</b>，和千万冒险者一同游览艾泽拉斯！\n进驻新家之后，也别忘了在火炉旁\n找个位子随便坐坐。旅店永远为你开着！\n\n<i>希望你喜欢这份新居贺礼！</i>\n\n<i>\n*进入<b>《魔兽世界》：至暗之夜</b>，开启你的家宅体验。</i>",
+                    "在<b>《魔獸世界》</b>中與數百萬名冒險者一起在艾澤拉斯碰面！\n新家定下來之後，拉張椅子，\n到火爐邊坐坐。旅店很歡迎大家！\n\n<i>備註：好好享受暖心的贈禮！</i>\n\n<i>*預購<b>《魔獸世界：至暗之夜》</b>，\n立即開啟你的起家興宅之路。</i>"
+                ],
+                "m_locId": 2939218
+            }
+        },
+        {
+            "m_ID": 0,
+            "m_specialEventId": 59,
+            "m_eventRewardTrackId": 155,
+            "m_choiceConfirmationText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_shortConclusion": {
+                "m_locValues": [
+                    "A toast to the start of a <i><b>Legendary</b></i> year!",
+                    "Wir stoßen auf ein <i><b>legendäres</b></i> neues Jahr an!",
+                    "¡Un brindis por el comienzo de un año <i><b>legendario</b></i>!",
+                    "¡Un brindis por el comienzo de un año <i><b>legendario</b></i>!",
+                    "Célébrons le début d’une année <i><b>légendaire</b></i> !",
+                    "Un brindisi per l'inizio di un anno <i><b>Leggendario</b></i>!",
+                    "<i><b>素晴らしい</b></i>年の始まりを祝って乾杯しよう！",
+                    "건배를 하고 <i><b>전설</b></i>적인 한 해를 시작해요!",
+                    "Wznieśmy toast i wkroczmy w prawdziwie <i><b>legendarny</b></i> rok!",
+                    "Um brinde ao início de um ano <i><b>Lendário</b></i>!",
+                    "Поднимем бокалы за начало <i><b>легендарного</b></i> года!",
+                    "ยกแก้วฉลองการเริ่มต้นปีใหม่ระดับ <i><b>ตำนาน</b></i>!",
+                    "共同举杯，庆祝<i><b>传说</b></i>般的新年！",
+                    "為<i><b>傳奇</b></i>年度的啟始致詞！"
+                ],
+                "m_locId": 2939553
+            },
+            "m_longConclusion": {
+                "m_locValues": [
+                    "Wherever your journeys take you this year,\nmay fortune favor your draw and joy find your table.\nCheers to all of the cards yet to be played,\nand the memories to be made!",
+                    "Wohin dieses Jahr Euer Weg auch führt,\nmöge Euch das Glück hold sein.\nEin Hoch auf alle Karten, die Ihr kommendes Jahr ausspielt,\nund alle Erlebnisse, die Euch in Erinnerung bleiben!",
+                    "Dondequiera que te lleven tus aventuras este año,\nque la fortuna guíe tus partidas y la alegría no falte en tu mesa.\n¡Brindemos por todas las cartas que aún quedan por jugar\ny los recuerdos que forjaremos!",
+                    "No importa a dónde te lleven este año tus aventuras,\nque la fortuna esté con tu mazo y te diviertas jugando.\nPor todas las cartas que jugarás\n y los recuerdos que harás: ¡salud!",
+                    "Où que vos périples vous mènent cette année,\npuisse la chance vous sourire et la joie vous envahir.\nExcellente année pleine de surprises,\nde cartes et de souvenirs inoubliables !",
+                    "Quest'anno, ovunque ti condurrà questo viaggio,\npossa la fortuna assistere le tue pescate e la gioia arrivare sul tuo tavolo.\nSalute a tutte le carte ancora da giocare\ne ai ricordi da creare!",
+                    "今年どこを旅することになっても、\nいいカードに恵まれ、自陣で喜びを得られることを祈ろう。\nまだ使用してないカードと、\nこれから作る思い出に乾杯！",
+                    "올해의 여정이 당신을 어디로 데려가든,\n뽑는 카드에 행운이 깃들고 테이블에는\n즐거움이 찾아오길 빕니다.앞으로 낼 카드들,\n앞으로 만들 추억들을 위하여!",
+                    "Dokądkolwiek zawędrujesz w tym roku w poszukiwaniu przygód,\nniech fortuna sprzyja twym rozdaniom, a radość zagości przy twej planszy.\nWznieśmy toast za wszystkie karty, które rozegrasz,\ni wspomnienia, które stworzysz!",
+                    "Não importa aonde as suas jornadas levem você este ano,\nque a sorte agracie cada compra sua e esteja sempre presente na sua mesa.\nUm viva a todos os cards que você ainda vai jogar\ne às memórias que ainda vai criar!",
+                    "Куда бы ни привели вас приключения в этом году,\nпусть удача осенит вашу колоду, а игры будут увлекательными.\nПоднимем же бокалы за карты, что нам предстоит разыграть,\nи памятные моменты, которые еще впереди!",
+                    "ไม่ว่าปีนี้เส้นทางจะนำพาคุณไปยังที่ใด\nก็ขอให้คุณจั่วการ์ดที่ใช่และสนุกกับเกมเสมอ\nแด่การ์ดที่รอให้คุณเล่น\nและความทรงจำที่รอให้คุณสร้าง!",
+                    "无论今年的旅程如何，\n愿你在新的一年牌运爆红！\n再来一杯，敬所有的卡牌，\n敬这些美好的回忆！",
+                    "不論今年你的旅途將涉足何處，\n祝你手氣順利、場場順心！\n為今年將被打出的所有卡牌歡呼，\n創造美好回憶吧！"
+                ],
+                "m_locId": 2939554
+            }
+        },
+        {
+            "m_ID": 0,
             "m_specialEventId": 6,
             "m_eventRewardTrackId": 43,
             "m_choiceConfirmationText": {

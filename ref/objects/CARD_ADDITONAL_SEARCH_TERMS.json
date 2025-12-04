@@ -34,29 +34,6 @@
             }
         },
         {
-            "m_ID": 11,
-            "m_cardId": 49172,
-            "m_searchTerm": {
-                "m_locValues": [
-                    "emp",
-                    "emp",
-                    "pem",
-                    "pem",
-                    "iem",
-                    "elettromagnetica",
-                    "emp",
-                    "이엠피",
-                    "elektromag",
-                    "pem",
-                    "эмп",
-                    "emp",
-                    "EMP",
-                    "emp"
-                ],
-                "m_locId": 2720374
-            }
-        },
-        {
             "m_ID": 53,
             "m_cardId": 90749,
             "m_searchTerm": {
@@ -126,6 +103,52 @@
             }
         },
         {
+            "m_ID": 10,
+            "m_cardId": 48542,
+            "m_searchTerm": {
+                "m_locValues": [
+                    "dyno",
+                    "dyno",
+                    "dino",
+                    "dina",
+                    "dyno",
+                    "dino",
+                    "dyno",
+                    "폭격",
+                    "dino",
+                    "dina",
+                    "взрыво",
+                    "ไดโน",
+                    "掷弹",
+                    "dyno"
+                ],
+                "m_locId": 2720373
+            }
+        },
+        {
+            "m_ID": 11,
+            "m_cardId": 49172,
+            "m_searchTerm": {
+                "m_locValues": [
+                    "emp",
+                    "emp",
+                    "pem",
+                    "pem",
+                    "iem",
+                    "elettromagnetica",
+                    "emp",
+                    "이엠피",
+                    "elektromag",
+                    "pem",
+                    "эмп",
+                    "emp",
+                    "EMP",
+                    "emp"
+                ],
+                "m_locId": 2720374
+            }
+        },
+        {
             "m_ID": 61,
             "m_cardId": 71235,
             "m_searchTerm": {
@@ -172,6 +195,52 @@
             }
         },
         {
+            "m_ID": 73,
+            "m_cardId": 106307,
+            "m_searchTerm": {
+                "m_locValues": [
+                    "decor",
+                    "Deko",
+                    "adorno",
+                    "decoración",
+                    "décor",
+                    "decorazione",
+                    "霜色の装飾",
+                    "장식",
+                    "dekoracja",
+                    "decoração",
+                    "украшение",
+                    "ของตกแต่ง",
+                    "摆件",
+                    "裝飾"
+                ],
+                "m_locId": 2902303
+            }
+        },
+        {
+            "m_ID": 74,
+            "m_cardId": 106390,
+            "m_searchTerm": {
+                "m_locValues": [
+                    "entree",
+                    "Vorspeise",
+                    "entremés",
+                    "entrada",
+                    "entrée",
+                    "piatto forte",
+                    "アントレ",
+                    "앙트레",
+                    "przystawka",
+                    "entrada",
+                    "закуска",
+                    "อาหารจานหลัก",
+                    "主菜",
+                    "主菜"
+                ],
+                "m_locId": 2902304
+            }
+        },
+        {
             "m_ID": 67,
             "m_cardId": 72651,
             "m_searchTerm": {
@@ -195,26 +264,72 @@
             }
         },
         {
-            "m_ID": 73,
-            "m_cardId": 106307,
+            "m_ID": 75,
+            "m_cardId": 107923,
             "m_searchTerm": {
                 "m_locValues": [
-                    "decor",
-                    "Deko",
-                    "adorno",
-                    "decoración",
-                    "décor",
-                    "decorazione",
-                    "霜色の装飾",
-                    "장식",
-                    "dekoracja",
-                    "decoração",
-                    "украшение",
-                    "ของตกแต่ง",
-                    "摆件",
-                    "裝飾"
+                    "health drink",
+                    "Fitnessdrink",
+                    "bebida saludable",
+                    "bebida de salud",
+                    "boisson saine",
+                    "drink salutare",
+                    "体力ドリンク",
+                    "몸보신 음료",
+                    "zdrowy napitek",
+                    "bebida de cura",
+                    "здоровый напиток",
+                    "เครื่องดื่มเพื่อสุขภาพ",
+                    "健康饮品",
+                    "健康飲料"
                 ],
-                "m_locId": 2902303
+                "m_locId": 2902307
+            }
+        },
+        {
+            "m_ID": 66,
+            "m_cardId": 64346,
+            "m_searchTerm": {
+                "m_locValues": [
+                    "Deathrattle",
+                    "Todesröcheln",
+                    "Último aliento",
+                    "Estertor",
+                    "Râle d’agonie",
+                    "Rantolo di Morte",
+                    "断末魔",
+                    "죽음의 메아리",
+                    "Agonia",
+                    "Último Suspiro",
+                    "Предсмертный хрип",
+                    "เสียงสุดท้าย",
+                    "亡语",
+                    "死亡之聲"
+                ],
+                "m_locId": 2890693
+            }
+        },
+        {
+            "m_ID": 65,
+            "m_cardId": 64416,
+            "m_searchTerm": {
+                "m_locValues": [
+                    "Deathrattle",
+                    "Todesröcheln",
+                    "Último aliento",
+                    "Estertor",
+                    "Râle d’agonie",
+                    "Rantolo di Morte",
+                    "断末魔",
+                    "죽음의 메아리",
+                    "Agonia",
+                    "Último Suspiro",
+                    "Предсмертный хрип",
+                    "เสียงสุดท้าย",
+                    "亡语",
+                    "死亡之聲"
+                ],
+                "m_locId": 2890692
             }
         },
         {
@@ -284,167 +399,6 @@
                     "zephyrus"
                 ],
                 "m_locId": 2721224
-            }
-        },
-        {
-            "m_ID": 74,
-            "m_cardId": 106390,
-            "m_searchTerm": {
-                "m_locValues": [
-                    "entree",
-                    "Vorspeise",
-                    "entremés",
-                    "entrada",
-                    "entrée",
-                    "piatto forte",
-                    "アントレ",
-                    "앙트레",
-                    "przystawka",
-                    "entrada",
-                    "закуска",
-                    "อาหารจานหลัก",
-                    "主菜",
-                    "主菜"
-                ],
-                "m_locId": 2902304
-            }
-        },
-        {
-            "m_ID": 66,
-            "m_cardId": 64346,
-            "m_searchTerm": {
-                "m_locValues": [
-                    "Deathrattle",
-                    "Todesröcheln",
-                    "Último aliento",
-                    "Estertor",
-                    "Râle d’agonie",
-                    "Rantolo di Morte",
-                    "断末魔",
-                    "죽음의 메아리",
-                    "Agonia",
-                    "Último Suspiro",
-                    "Предсмертный хрип",
-                    "เสียงสุดท้าย",
-                    "亡语",
-                    "死亡之聲"
-                ],
-                "m_locId": 2890693
-            }
-        },
-        {
-            "m_ID": 65,
-            "m_cardId": 64416,
-            "m_searchTerm": {
-                "m_locValues": [
-                    "Deathrattle",
-                    "Todesröcheln",
-                    "Último aliento",
-                    "Estertor",
-                    "Râle d’agonie",
-                    "Rantolo di Morte",
-                    "断末魔",
-                    "죽음의 메아리",
-                    "Agonia",
-                    "Último Suspiro",
-                    "Предсмертный хрип",
-                    "เสียงสุดท้าย",
-                    "亡语",
-                    "死亡之聲"
-                ],
-                "m_locId": 2890692
-            }
-        },
-        {
-            "m_ID": 75,
-            "m_cardId": 107923,
-            "m_searchTerm": {
-                "m_locValues": [
-                    "health drink",
-                    "Fitnessdrink",
-                    "bebida saludable",
-                    "bebida de salud",
-                    "boisson saine",
-                    "drink salutare",
-                    "体力ドリンク",
-                    "몸보신 음료",
-                    "zdrowy napitek",
-                    "bebida de cura",
-                    "здоровый напиток",
-                    "เครื่องดื่มเพื่อสุขภาพ",
-                    "健康饮品",
-                    "健康飲料"
-                ],
-                "m_locId": 2902307
-            }
-        },
-        {
-            "m_ID": 64,
-            "m_cardId": 64525,
-            "m_searchTerm": {
-                "m_locValues": [
-                    "Deathrattle",
-                    "Todesröcheln",
-                    "Último aliento",
-                    "Estertor",
-                    "Râle d’agonie",
-                    "Rantolo di Morte",
-                    "断末魔",
-                    "죽음의 메아리",
-                    "Agonia",
-                    "Último Suspiro",
-                    "Предсмертный хрип",
-                    "เสียงสุดท้าย",
-                    "亡语",
-                    "死亡之聲"
-                ],
-                "m_locId": 2890691
-            }
-        },
-        {
-            "m_ID": 63,
-            "m_cardId": 64896,
-            "m_searchTerm": {
-                "m_locValues": [
-                    "Deathrattle",
-                    "Todesröcheln",
-                    "Último aliento",
-                    "Estertor",
-                    "Râle d’agonie",
-                    "Rantolo di Morte",
-                    "断末魔",
-                    "죽음의 메아리",
-                    "Agonia",
-                    "Último Suspiro",
-                    "Предсмертный хрип",
-                    "เสียงสุดท้าย",
-                    "亡语",
-                    "死亡之聲"
-                ],
-                "m_locId": 2890690
-            }
-        },
-        {
-            "m_ID": 62,
-            "m_cardId": 64965,
-            "m_searchTerm": {
-                "m_locValues": [
-                    "Deathrattle",
-                    "Todesröcheln",
-                    "Último aliento",
-                    "Estertor",
-                    "Râle d’agonie",
-                    "Rantolo di Morte",
-                    "断末魔",
-                    "죽음의 메아리",
-                    "Agonia",
-                    "Último Suspiro",
-                    "Предсмертный хрип",
-                    "เสียงสุดท้าย",
-                    "亡语",
-                    "死亡之聲"
-                ],
-                "m_locId": 2890689
             }
         },
         {
@@ -573,7 +527,7 @@
                     "Rafaam calamitoso",
                     "Rafaam, le calamiteux",
                     "Rafaam Distruttivo",
-                    "波滅のラファーム",
+                    "破滅のラファーム",
                     "재앙의 라팜",
                     "Zabójczy Rafaam",
                     "Rafaam Calamitoso",
@@ -638,13 +592,13 @@
                 "m_locValues": [
                     "Archmage Rafaam",
                     "Erzmagier Rafaam",
-                    "Rafaam Archimago",
+                    "Rafaam Archimaga",
                     "Rafaam archimago",
                     "Rafaam, l’archimage",
                     "Rafaam Arcimaga",
                     "大魔術師ラファーム",
                     "대마법사 라팜",
-                    "Arcymag Rafaam",
+                    "Arcymagini Rafaam",
                     "Arquimaga Rafaam",
                     "Верховный маг Рафаам",
                     "อาร์คเมจราฟาม",
@@ -698,6 +652,29 @@
                     "『鮮血鬥士』瓦麗拉"
                 ],
                 "m_locId": 2937005
+            }
+        },
+        {
+            "m_ID": 64,
+            "m_cardId": 64525,
+            "m_searchTerm": {
+                "m_locValues": [
+                    "Deathrattle",
+                    "Todesröcheln",
+                    "Último aliento",
+                    "Estertor",
+                    "Râle d’agonie",
+                    "Rantolo di Morte",
+                    "断末魔",
+                    "죽음의 메아리",
+                    "Agonia",
+                    "Último Suspiro",
+                    "Предсмертный хрип",
+                    "เสียงสุดท้าย",
+                    "亡语",
+                    "死亡之聲"
+                ],
+                "m_locId": 2890691
             }
         },
         {
@@ -813,52 +790,6 @@
                     "遊俠新兵凡蕾莎"
                 ],
                 "m_locId": 2937000
-            }
-        },
-        {
-            "m_ID": 6,
-            "m_cardId": 56223,
-            "m_searchTerm": {
-                "m_locValues": [
-                    "SNIP",
-                    "SCHNIPP",
-                    "ZIPI",
-                    "CLIC",
-                    "TCHIC",
-                    "Tagliotto",
-                    "SNIP",
-                    "가르게",
-                    "CIACH",
-                    "CLIC",
-                    "КЛИК",
-                    "SNIP",
-                    "大闸蟹",
-                    "SNIP"
-                ],
-                "m_locId": 2720153
-            }
-        },
-        {
-            "m_ID": 7,
-            "m_cardId": 56223,
-            "m_searchTerm": {
-                "m_locValues": [
-                    "SNAP",
-                    "SCHNAPP",
-                    "ZAPE",
-                    "CLAC",
-                    "TCHAC",
-                    "T4gli8",
-                    "SNAP",
-                    "가르게",
-                    "CIACH",
-                    "CLAC",
-                    "КЛАК",
-                    "SNAP",
-                    "大铡蟹",
-                    "SNAP"
-                ],
-                "m_locId": 2720164
             }
         },
         {
@@ -1046,6 +977,98 @@
             }
         },
         {
+            "m_ID": 63,
+            "m_cardId": 64896,
+            "m_searchTerm": {
+                "m_locValues": [
+                    "Deathrattle",
+                    "Todesröcheln",
+                    "Último aliento",
+                    "Estertor",
+                    "Râle d’agonie",
+                    "Rantolo di Morte",
+                    "断末魔",
+                    "죽음의 메아리",
+                    "Agonia",
+                    "Último Suspiro",
+                    "Предсмертный хрип",
+                    "เสียงสุดท้าย",
+                    "亡语",
+                    "死亡之聲"
+                ],
+                "m_locId": 2890690
+            }
+        },
+        {
+            "m_ID": 62,
+            "m_cardId": 64965,
+            "m_searchTerm": {
+                "m_locValues": [
+                    "Deathrattle",
+                    "Todesröcheln",
+                    "Último aliento",
+                    "Estertor",
+                    "Râle d’agonie",
+                    "Rantolo di Morte",
+                    "断末魔",
+                    "죽음의 메아리",
+                    "Agonia",
+                    "Último Suspiro",
+                    "Предсмертный хрип",
+                    "เสียงสุดท้าย",
+                    "亡语",
+                    "死亡之聲"
+                ],
+                "m_locId": 2890689
+            }
+        },
+        {
+            "m_ID": 6,
+            "m_cardId": 56223,
+            "m_searchTerm": {
+                "m_locValues": [
+                    "SNIP",
+                    "SCHNIPP",
+                    "ZIPI",
+                    "CLIC",
+                    "TCHIC",
+                    "Tagliotto",
+                    "SNIP",
+                    "가르게",
+                    "CIACH",
+                    "CLIC",
+                    "КЛИК",
+                    "SNIP",
+                    "大闸蟹",
+                    "SNIP"
+                ],
+                "m_locId": 2720153
+            }
+        },
+        {
+            "m_ID": 7,
+            "m_cardId": 56223,
+            "m_searchTerm": {
+                "m_locValues": [
+                    "SNAP",
+                    "SCHNAPP",
+                    "ZAPE",
+                    "CLAC",
+                    "TCHAC",
+                    "T4gli8",
+                    "SNAP",
+                    "가르게",
+                    "CIACH",
+                    "CLAC",
+                    "КЛАК",
+                    "SNAP",
+                    "大铡蟹",
+                    "SNAP"
+                ],
+                "m_locId": 2720164
+            }
+        },
+        {
             "m_ID": 57,
             "m_cardId": 97642,
             "m_searchTerm": {
@@ -1089,29 +1112,6 @@
                     "泰坦"
                 ],
                 "m_locId": 2876474
-            }
-        },
-        {
-            "m_ID": 10,
-            "m_cardId": 48542,
-            "m_searchTerm": {
-                "m_locValues": [
-                    "dyno",
-                    "dyno",
-                    "dino",
-                    "dina",
-                    "dyno",
-                    "dino",
-                    "dyno",
-                    "폭격",
-                    "dino",
-                    "dina",
-                    "взрыво",
-                    "ไดโน",
-                    "掷弹",
-                    "dyno"
-                ],
-                "m_locId": 2720373
             }
         }
     ]

@@ -4681,6 +4681,225 @@
             "m_miniBodyMaterial": "Underfell_Legendary_Material_CollectionMini_Body.mat:a15a4e2a76103b44badd3c07f15890e4",
             "m_miniArtMaterial": "Underfell_Legendary_Material_CollectionMini_Art.mat:996f465fa9687c449b3ae636ca147b3b",
             "m_capsuleType": 1
+        },
+        {
+            "m_ID": 95,
+            "m_enabled": 1,
+            "m_isDefault": 0,
+            "m_rarityId": 5,
+            "m_baseFinisherId": 96,
+            "m_collectionName": {
+                "m_locValues": [
+                    "Edge of Time (Legendary Strike)",
+                    "Klinge der Zeit (legendärer Angriff)",
+                    "Borde del tiempo (asalto legendario)",
+                    "Filo del tiempo (azote legendario)",
+                    "Fil du temps (frappe légendaire)",
+                    "Confini del Tempo (Colpo Leggendario)",
+                    "時間の境界（レジェンドストライク）",
+                    "시간의 가장자리 (전설 타격 효과)",
+                    "Skraj Czasu (legendarne zwieńczenie)",
+                    "Limiar Temporal (Ataque Lendário)",
+                    "Грань времени (легендарный удар)",
+                    "สุดขอบกาลเวลา (ท่าโจมตีระดับตำนาน)",
+                    "时空限界（传说打击特效）",
+                    "時間之緣（傳說攻擊特效）"
+                ],
+                "m_locId": 2938263
+            },
+            "m_collectionShortName": {
+                "m_locValues": [
+                    "Edge of Time (Legendary)",
+                    "Klinge der Zeit (legendär)",
+                    "Borde del tiempo (legendario)",
+                    "Filo del tiempo (legendario)",
+                    "Fil du temps (légendaire)",
+                    "Confini del Tempo (Leggendario)",
+                    "時間の境界（レジェンド）",
+                    "시간의 가장자리 (전설)",
+                    "Skraj Czasu (legendarne)",
+                    "Limiar Temporal (Lendário)",
+                    "Грань времени (легендарный)",
+                    "สุดขอบกาลเวลา (ตำนาน)",
+                    "时空限界（传说）",
+                    "時間之緣（傳說）"
+                ],
+                "m_locId": 2938264
+            },
+            "m_description": {
+                "m_locValues": [
+                    "This Legendary Strike adds a new animation to your Battlegrounds Heroes’ attacks, a bigger effect for attacks of 15 or more damage, an even bigger effect for when you knock out an opponent, and a HUGE effect when you finish in first place!\n\nEarnable after purchasing the Battlegrounds Season Pass in Season <i>12</i>.",
+                    "Dieser legendäre Angriffseffekt fügt den Angriffen Eurer Schlachtfeldhelden eine neue Animation hinzu, hat einen größeren Effekt bei Angriffen mit 15 oder mehr Schaden, einen noch größeren Effekt, wenn Ihr damit siegt, und einen RIESIGEN Effekt, wenn Ihr den ersten Platz belegt!\n\nKann nach Kauf des Schlachtfeld-Saisonpasses in Saison <i>12</i> freigeschaltet werden.",
+                    "Este asalto legendario añade una nueva animación a los ataques de tus héroes de Campos de batalla, un efecto mayor para ataques de 15 p. de daño o más, un efecto aún mayor cuando eliminas a un oponente ¡y un efecto ENORME cuando acabas en primera posición!\n\nSe puede conseguir al comprar el pase de temporada de Campos de batalla en la temporada <i>12</i>.",
+                    "Este azote legendario les da una nueva animación a los ataques de tus héroes de Campos de batalla. ¡Tendrás incluso mejores efectos para ataques de 15 o más de daño, un efecto aún mayor cuando elimines a un adversario e incluso uno MAYOR cuando termines en el primer lugar!\n\nSe puede obtener después de comprar el Pase de temporada de Campos de batalla en la temporada <i>12</i>.",
+                    "Cette frappe légendaire ajoute une nouvelle animation aux attaques de vos héros et héroïnes de champs de bataille. Bénéficiez d’un effet plus marqué sur les attaques infligeant 15 points de dégâts ou plus, encore plus marqué lorsque vous achevez votre adversaire et GIGANTESQUE lorsque vous finissez à la première place !\n\nS’obtient après avoir acheté le ticket saisonnier des champs de bataille lors de la saison <i>12</i>.",
+                    "Questo Colpo Leggendario aggiunge una nuova animazione agli attacchi dei tuoi eroi della Battaglia, un effetto più grande per gli attacchi che infliggono 15 o più danni, uno ancora più grande quando sconfiggi un avversario e un effetto ENORME quando raggiungi il primo posto!\n\nOttenibile dopo aver acquistato il Pass Battaglia Stagionale nella Stagione <i>12</i>.",
+                    "このレジェンドストライクは、バトルグラウンドのヒーローの攻撃に新たなアニメーションを追加する。ダメージが15以上なら攻撃エフェクトが派手に、相手をKOした時にはさらに派手になり、優勝をキメると巨大なエフェクトが発生するぞ！\n\nバトルグラウンド・シーズン<i>12</i>の「シーズンパス」購入後に獲得可能となる。",
+                    "전설 타격 효과로 전장 영웅의 새로운 공격 애니메이션, 피해를 15 이상 줄 때 더 큰 효과, 상대를 탈락시킬 때 더더욱 큰 효과, 그리고 1위 달성을 기념하는 효과까지 더해보세요!\n\n<i>12</i>시즌 전장 시즌 패스를 구매한 후 획득 가능",
+                    "To legendarne zwieńczenie zmienia animacje ataku twoich bohaterów podczas Ustawki. Efekt staje się potężniejszy przy obrażeniach o wartości 15 lub wyższej, jeszcze potężniejszy, gdy wyeliminujesz przeciwnika, oraz NAJPOTĘŻNIEJSZY, gdy zdobędziesz pierwsze miejsce!\n\nDo zdobycia po zakupie karnetu sezonowego Ustawki w sezonie <i>12</i>.",
+                    "Esse Ataque Lendário adiciona uma nova animação aos ataques dos seus heróis dos Campos de Batalha, um efeito maior para ataques de 15 ou mais de dano, um efeito ainda maior quando você nocauteia o oponente e um efeito GIGANTESCO quando você termina em primeiro lugar!\n\nPossível de obter após comprar o Passe de Temporada dos Campos de Batalha na Temporada <i>12</i>.",
+                    "Этот легендарный удар добавляет новую анимацию для атак ваших героев на полях сражений, при этом атаки, наносящие 15+ ед. урона, получают особый эффект. Ваши победы над противниками станут еще более впечатляющими, а если вы займете первое место, вас ждет поистине невероятное зрелище!\n\nМожно открыть после покупки пропуска <i>12</i>-го сезона полей сражений.",
+                    "ท่าโจมตีระดับตำนานท่านี้[b]เพิ่มความพิเศษให้การโจมตี[b]ของฮีโร่_Battlegrounds ของคุณ_เอฟเฟกต์จะตระการตา\nยิ่งขึ้นสำหรับการโจมตีที่สร้าง\nความเสียหาย_15_แต้มหรือมากกว่า เอฟเฟกต์จะยิ่งใหญ่ขึ้นไปอีก[b]ถ้าคุณน็อคคู่ต่อสู้ได้และ\nปิดท้ายด้วยเอฟเฟกต์\nสุดอลังการเมื่อคุณจบเป็น\nอันดับหนึ่ง!\n\nปลดล็อคได้หลังจากซื้อ[b]ซีซันพาส_Battlegrounds\nในซีซัน_<i>12</i>",
+                    "这款传说打击特效会为你的战棋英雄攻击添加新的动画效果。如果你造成了15点或以上的伤害，还能看到更加盛大的特效；在淘汰对手时还有更加宏大的特效；如果你最终获得了第一名，还会有规模空前的特效！\n\n购买第<i>12</i>赛季的酒馆战棋赛季通行证后开放解锁。",
+                    "傳說攻擊特效會為英雄戰場的英雄攻擊增加全新的動畫。攻擊力達到15點以上時更加華麗，打倒對手時還有特殊效果，而且以第一名勝利時會有超炫的特效！\n\n需在賽季<i>12</i>購買英雄戰場賽季通行證才有機會取得。"
+                ],
+                "m_locId": 2938265
+            },
+            "m_gameplaySettings": "EdgeofTime_StrikeSettings_Legendary.asset:e4aec1e83c9b9c94399277255c01cea9",
+            "m_destroyOpponentPrefab": "",
+            "m_destroyOpponentVictoryPrefab": "",
+            "m_detailsTexture": "",
+            "m_detailsMovie": "",
+            "m_detailsRenderConfig": "EdgeofTime_LegendaryConfiguration.asset:f62b00892600841468a61579b4d63d6b",
+            "m_miniBodyMaterial": "EdgeofTime_Legendary_Material_CollectionMini_Body.mat:11fe78b358813f145a40fc0cad2ffb02",
+            "m_miniArtMaterial": "EdgeofTime_Legendary_Material_CollectionMini_Art.mat:3aa048cdc6e136e42979893f21a70dd6",
+            "m_capsuleType": 1
+        },
+        {
+            "m_ID": 96,
+            "m_enabled": 1,
+            "m_isDefault": 0,
+            "m_rarityId": 3,
+            "m_baseFinisherId": 96,
+            "m_collectionName": {
+                "m_locValues": [
+                    "Edge of Time (Rare Strike)",
+                    "Klinge der Zeit (seltener Angriff)",
+                    "Borde del tiempo (asalto poco común)",
+                    "Filo del tiempo (azote raro)",
+                    "Fil du temps (frappe rare)",
+                    "Confini del Tempo (Colpo Raro)",
+                    "時間の境界（レアストライク）",
+                    "시간의 가장자리 (희귀 타격 효과)",
+                    "Skraj Czasu (rzadkie zwieńczenie)",
+                    "Limiar Temporal (Ataque Raro)",
+                    "Грань времени (редкий удар)",
+                    "สุดขอบกาลเวลา (ท่าโจมตีระดับหายาก)",
+                    "时空限界（稀有打击特效）",
+                    "時間之緣（精良攻擊特效）"
+                ],
+                "m_locId": 2939142
+            },
+            "m_collectionShortName": {
+                "m_locValues": [
+                    "Edge of Time (Rare)",
+                    "Klinge der Zeit (selten)",
+                    "Borde del tiempo (poco común)",
+                    "Filo del tiempo (raro)",
+                    "Fil du temps (rare)",
+                    "Confini del Tempo (Raro)",
+                    "時間の境界（レア）",
+                    "시간의 가장자리 (희귀)",
+                    "Skraj Czasu (rzadkie)",
+                    "Limiar Temporal (Raro)",
+                    "Грань времени (редкий)",
+                    "สุดขอบกาลเวลา (หายาก)",
+                    "时空限界（稀有）",
+                    "時間之緣（精良）"
+                ],
+                "m_locId": 2939143
+            },
+            "m_description": {
+                "m_locValues": [
+                    "This Rare Strike adds a little something special to all your Battlegrounds Heroes’ attacks.\n\nEarnable after purchasing the Battlegrounds Season Pass in Season <i>12</i>.",
+                    "Dieser seltene Angriffseffekt verleiht den Angriffen Eurer Schlachtfeldhelden etwas Besonderes.\n\nKann nach Kauf des Schlachtfeld-Saisonpasses in Saison <i>12</i> freigeschaltet werden.",
+                    "Este asalto poco común les da un toque especial a todos los ataques de tus héroes de Campos de batalla.\n\nSe puede conseguir al comprar el pase de temporada de Campos de batalla en la temporada <i>12</i>.",
+                    "Este azote raro les da un toque especial a todos los ataques de tus héroes de Campos de batalla.\n\nSe puede obtener después de comprar el Pase de temporada de Campos de batalla en la temporada <i>12</i>.",
+                    "Cette frappe rare ajoute un petit quelque chose à toutes les attaques de vos héros et héroïnes de champs de bataille.\n\nS’obtient après avoir acheté le ticket saisonnier des champs de bataille lors de la saison <i>12</i>.",
+                    "Questo Colpo Raro aggiunge qualcosa di speciale agli attacchi dei tuoi eroi della Battaglia.\n\nOttenibile dopo aver acquistato il Pass Battaglia Stagionale nella Stagione <i>12</i>.",
+                    "このレアストライクは、バトルグラウンドのヒーローの攻撃に少々スペシャルな何かを加えるぞ。\n\nバトルグラウンド・シーズン<i>12</i>の「シーズンパス」購入後に獲得可能となる。",
+                    "희귀 타격 효과로 전장 영웅의 공격을 특별하게 꾸미세요.\n\n<i>12</i>시즌 전장 시즌 패스를 구매한 후 획득 가능",
+                    "To rzadkie zwieńczenie doda nieco finezji atakom twoich bohaterów podczas Ustawki.\n\nDo zdobycia po zakupie karnetu sezonowego Ustawki w sezonie <i>12</i>.",
+                    "Esse Ataque Raro adiciona algo especial a todos os ataques dos seus heróis dos Campos de Batalha.\n\nPossível de obter após comprar o Passe de Temporada dos Campos de Batalha na Temporada <i>12</i>.",
+                    "Этот редкий удар придаст изюминку атакам ваших героев на полях сражений.\n\nМожно открыть после покупки пропуска <i>12</i>-го сезона полей сражений.",
+                    "ท่าโจมตีระดับหายากท่านี้[b]เพิ่มความพิเศษให้การโจมตี[b]ของฮีโร่_Battlegrounds ของคุณ\n\nปลดล็อคได้หลังจากซื้อ[b]ซีซันพาส_Battlegrounds ในซีซัน_<i>12</i>",
+                    "这款稀有打击特效可以为你战棋英雄的攻击增添特效。\n\n购买第<i>12</i>赛季的酒馆战棋赛季通行证后开放解锁。",
+                    "精良攻擊特效會讓英雄戰場全部的英雄在攻擊時增加一點特殊效果。\n\n需在賽季<i>12</i>購買英雄戰場賽季通行證才有機會取得。"
+                ],
+                "m_locId": 2939144
+            },
+            "m_gameplaySettings": "EdgeofTime_StrikeSettings_Rare.asset:44bf3d4d7b4bf714f9aaf0b3021a16f3",
+            "m_destroyOpponentPrefab": "",
+            "m_destroyOpponentVictoryPrefab": "",
+            "m_detailsTexture": "",
+            "m_detailsMovie": "",
+            "m_detailsRenderConfig": "EdgeofTime_RareConfiguration.asset:841949e1bdc467f4b884bf2c1b1a61e8",
+            "m_miniBodyMaterial": "EdgeofTime_Rare_Material_CollectionMini_Body.mat:7d4a9a72ca9cbbf42bf97f3ba18ed084",
+            "m_miniArtMaterial": "EdgeofTime_Rare_Material_CollectionMini_Art.mat:3a2796a291940434091f68c9af1bea54",
+            "m_capsuleType": 0
+        },
+        {
+            "m_ID": 97,
+            "m_enabled": 1,
+            "m_isDefault": 0,
+            "m_rarityId": 4,
+            "m_baseFinisherId": 96,
+            "m_collectionName": {
+                "m_locValues": [
+                    "Edge of Time (Epic Strike)",
+                    "Klinge der Zeit (epischer Angriff)",
+                    "Borde del tiempo (asalto épico)",
+                    "Filo del tiempo (azote épico)",
+                    "Fil du temps (frappe épique)",
+                    "Confini del Tempo (Colpo Epico)",
+                    "時間の境界（エピックストライク）",
+                    "시간의 가장자리 (특급 타격 효과)",
+                    "Skraj Czasu (epickie zwieńczenie)",
+                    "Limiar Temporal (Ataque Épico)",
+                    "Грань времени (эпический удар)",
+                    "สุดขอบกาลเวลา (ท่าโจมตีระดับสุดยอด)",
+                    "时空限界（史诗打击特效）",
+                    "時間之緣（史詩攻擊特效）"
+                ],
+                "m_locId": 2939145
+            },
+            "m_collectionShortName": {
+                "m_locValues": [
+                    "Edge of Time (Epic)",
+                    "Klinge der Zeit (episch)",
+                    "Borde del tiempo (épico)",
+                    "Filo del tiempo (épico)",
+                    "Fil du temps (épique)",
+                    "Confini del Tempo (Epico)",
+                    "時間の境界（エピック）",
+                    "시간의 가장자리 (특급)",
+                    "Skraj Czasu (epickie)",
+                    "Limiar Temporal (Épico)",
+                    "Грань времени (эпический)",
+                    "สุดขอบกาลเวลา (สุดยอด)",
+                    "时空限界（史诗）",
+                    "時間之緣（史詩）"
+                ],
+                "m_locId": 2939146
+            },
+            "m_description": {
+                "m_locValues": [
+                    "This Epic Strike adds some flair to your Battlegrounds Heroes’ attacks. Get an even bigger effect for attacks of 15 or more damage!\n\nEarnable after purchasing the Battlegrounds Season Pass in Season <i>12</i>.",
+                    "Dieser epische Angriffseffekt verleiht den Angriffen Eurer Schlachtfeldhelden etwas mehr Flair. Angriffe mit 15 Schaden oder mehr haben einen noch größeren Effekt!\n\nKann nach Kauf des Schlachtfeld-Saisonpasses in Saison <i>12</i> freigeschaltet werden.",
+                    "Este asalto épico aporta estilo a los ataques de tus héroes de Campos de batalla. ¡Consigue un efecto aún mayor para ataques de 15 p. de daño o más!\n\nSe puede conseguir al comprar el pase de temporada de Campos de batalla en la temporada <i>12</i>.",
+                    "Este azote épico les da un poco de estilo a los ataques de tus héroes de Campos de batalla. ¡Tendrás incluso mejores efectos para ataques de 15 o más de daño!\n\nSe puede obtener después de comprar el Pase de temporada de Campos de batalla en la temporada <i>12</i>.",
+                    "Cette frappe épique donne du panache aux attaques de vos héros et héroïnes de champs de bataille. L’effet est encore plus marqué sur les attaques infligeant 15 points de dégâts ou plus !\n\nS’obtient après avoir acheté le ticket saisonnier des champs de bataille lors de la saison <i>12</i>.",
+                    "Questo Colpo Epico aggiunge un tocco speciale agli attacchi dei tuoi eroi della Battaglia. Ottieni un effetto ancora più grande per gli attacchi che infliggono 15 o più danni!\n\nOttenibile dopo aver acquistato il Pass Battaglia Stagionale nella Stagione <i>12</i>.",
+                    "このエピックストライクは、バトルグラウンドのヒーローの攻撃を派手にする。ダメージが15以上なら、攻撃がさらにド派手になるぞ！\n\nバトルグラウンド・シーズン<i>12</i>の「シーズンパス」購入後に獲得可能となる。",
+                    "특급 타격 효과로 전장 영웅의 공격에 화려함을 곁들이세요. 피해를 15 이상 줄 때 더 큰 효과로 표현됩니다!\n\n<i>12</i>시즌 전장 시즌 패스를 구매한 후 획득 가능",
+                    "To epickie zwieńczenie pokaże wszystkim, kto jest prawdziwą gwiazdą tej Ustawki. Efekt staje się potężniejszy przy obrażeniach o wartości 15 lub wyższej!\n\nDo zdobycia po zakupie karnetu sezonowego Ustawki w sezonie <i>12</i>.",
+                    "Esse Ataque Épico traz mais estilo aos ataques dos seus heróis dos Campos de Batalha. Você consegue um efeito ainda maior para ataques de 15 ou mais de dano!\n\nPossível de obter após comprar o Passe de Temporada dos Campos de Batalha na Temporada <i>12</i>.",
+                    "Этот эпический удар разнообразит атаки ваших героев на полях сражений. Сделайте атаки на 15+ ед. урона еще эффектнее!\n\nМожно открыть после покупки пропуска <i>12</i>-го сезона полей сражений.",
+                    "ท่าโจมตีระดับสุดยอดท่านี้[b]เพิ่มความพิเศษให้การโจมตี[b]ของฮีโร่_Battlegrounds ของคุณ_เอฟเฟกต์จะ[b]ตระการตายิ่งขึ้นสำหรับ[b]การโจมตีที่สร้างความเสียหาย 15_แต้มหรือมากกว่า!\n\nปลดล็อคได้หลังจากซื้อ[b]ซีซันพาส_Battlegrounds ในซีซัน_<i>12</i>",
+                    "这款史诗打击特效可以为你的战棋英雄攻击增添特效。如果你造成了15点或以上的伤害，还能看到更加盛大的特效！\n\n购买第<i>12</i>赛季的酒馆战棋赛季通行证后开放解锁。",
+                    "史詩攻擊特效會為英雄戰場的英雄攻擊加上絢麗的特效。攻擊力達到15點以上時更加華麗！\n\n需在賽季<i>12</i>購買英雄戰場賽季通行證才有機會取得。"
+                ],
+                "m_locId": 2939147
+            },
+            "m_gameplaySettings": "EdgeofTime_StrikeSettings_Epic.asset:2094acd5ca219584784d1bba01b76258",
+            "m_destroyOpponentPrefab": "",
+            "m_destroyOpponentVictoryPrefab": "",
+            "m_detailsTexture": "",
+            "m_detailsMovie": "",
+            "m_detailsRenderConfig": "EdgeofTime_EpicConfiguration.asset:83fd5b3807c958941a877fa25c7f8504",
+            "m_miniBodyMaterial": "EdgeofTime_Epic_Material_CollectionMini_Body.mat:05c5c949b32754c40aec4df7545d3ab8",
+            "m_miniArtMaterial": "EdgeofTime_Epic_Material_CollectionMini_Art.mat:0dc0afd2838f7d04ca582da3e375e86c",
+            "m_capsuleType": 0
         }
     ]
 }

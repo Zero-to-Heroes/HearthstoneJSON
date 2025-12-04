@@ -1739,6 +1739,30 @@
             "m_tooltipInitOrder": 80000
         },
         {
+            "m_ID": 391,
+            "m_noteDesc": "Timewarp",
+            "m_tagId": 4517,
+            "m_name": "GLOBAL_KEYWORD_BACON_TIMEWARP",
+            "m_text": "GLOBAL_KEYWORD_BACON_TIMEWARP_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_BACON_TIMEWARP_TEXT",
+            "m_collectionText": "",
+            "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
+            "m_tooltipInitOrder": 93102
+        },
+        {
+            "m_ID": 394,
+            "m_noteDesc": "Refresh Count",
+            "m_tagId": 4536,
+            "m_name": "GLOBAL_KEYWORD_REFRESH_COUNT",
+            "m_text": "GLOBAL_KEYWORD_REFRESH_COUNT_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_REFRESH_COUNT_TEXT",
+            "m_collectionText": "",
+            "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
+            "m_tooltipInitOrder": 94001
+        },
+        {
             "m_ID": 4,
             "m_noteDesc": "Charge",
             "m_tagId": 197,
