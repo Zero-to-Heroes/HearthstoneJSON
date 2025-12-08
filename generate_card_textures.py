@@ -132,6 +132,24 @@ def build_textures_map(env: Environment) -> Dict[str, PPtr]:
 	return textures
 
 
+def is_valid_pointer(ptr) -> bool:
+	"""Check if a pointer is valid (not None, not UnknownObject, and has non-zero path_id)"""
+	if ptr is None:
+		return False
+	# Check if it's an UnknownObject (which doesn't have path_id)
+	if not hasattr(ptr, 'path_id'):
+		return False
+	# Check if path_id is non-zero (0 means null/unset in Unity)
+	return ptr.path_id != 0
+
+def get_pointer_path_id(ptr) -> str:
+	"""Safely get the path_id of a pointer, returning a string representation"""
+	if ptr is None:
+		return "None"
+	if not hasattr(ptr, 'path_id'):
+		return "UnknownObject"
+	return str(ptr.path_id)
+
 def build_cards_info(env: Environment, cards_map: Dict[str, str], cards_list: Optional[List[str]] = None):
 	cards = {}
 	current_card_idx = 0
@@ -167,20 +185,41 @@ def build_cards_info(env: Environment, cards_map: Dict[str, str], cards_list: Op
 					print("\tskipping %s, portrait_path is empty" % cardid)
 					continue
 				# print("portrait_path: %s" % portrait_path)
-    
-				tile_ptr: PPtr = card_def.__getattribute__("m_DeckCardBarPortrait")
-				# print("tile_ptr: %s" % tile_ptr)
-				# custom_deck_portrait: PPtr = card_def.__getattribute__("m_CustomDeckPortrait")
-				# print("custom_deck_portrait: %s" % custom_deck_portrait)
-				# deck_box_portrait: PPtr = card_def.__getattribute__("m_DeckBoxPortrait")
-				# print("deck_box_portrait: %s" % deck_box_portrait)
-				# deck_picker_portrait: PPtr = card_def.__getattribute__("m_DeckPickerPortrait")
-				# print("deck_picker_portrait: %s" % deck_picker_portrait)
-    
-				tile: Material = None if tile_ptr.path_id == 0 else tile_ptr.read()
+		
+				# Check for m_DeckCardBarPortrait
+				tile_ptr: PPtr = None
+				if hasattr(card_def, "m_DeckCardBarPortrait"):
+					tile_ptr = card_def.__getattribute__("m_DeckCardBarPortrait")
+					path_id_val = get_pointer_path_id(tile_ptr)
+					print("\tm_DeckCardBarPortrait: path_id=%s" % path_id_val)
+				else:
+					print("\tm_DeckCardBarPortrait: attribute not found")
+				
+				# Check for alternative portrait attributes as fallbacks
+				fallback_attrs = ["m_CustomDeckPortrait", "m_DeckBoxPortrait", "m_DeckPickerPortrait"]
+				fallback_found = False
+				for attr_name in fallback_attrs:
+					if hasattr(card_def, attr_name):
+						fallback_ptr = card_def.__getattribute__(attr_name)
+						if is_valid_pointer(fallback_ptr):
+							path_id_val = get_pointer_path_id(fallback_ptr)
+							print("\t%s: path_id=%s (available as fallback)" % (attr_name, path_id_val))
+							if not is_valid_pointer(tile_ptr):
+								tile_ptr = fallback_ptr
+								fallback_found = True
+								print("\tUsing %s as fallback" % attr_name)
+								break
+			
+				tile: Material = None if not is_valid_pointer(tile_ptr) else tile_ptr.read()
 				# print("tile: %s" % tile)
 				tile_info = None if tile == None else tile.m_SavedProperties
-				# print("tile_info: %s" % tile_info)
+				if tile_info is None:
+					path_id_str = get_pointer_path_id(tile_ptr)
+					print("\tWARNING: tile_info is None for %s (tile_ptr.path_id=%s)" % (
+						cardid, path_id_str
+					))
+				else:
+					print("\ttile_info: found")
 				texture_info: CardTextureInfo = CardTextureInfo(
 					portrait_path = portrait_path.lower(),
 					tile_info = tile_info,
