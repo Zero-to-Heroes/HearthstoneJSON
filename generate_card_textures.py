@@ -142,6 +142,31 @@ def is_valid_pointer(ptr) -> bool:
 	# Check if path_id is non-zero (0 means null/unset in Unity)
 	return ptr.path_id != 0
 
+def extract_material_from_unknown_object(unknown_obj, attr_name: str):
+	"""Try to extract a Material PPtr from an UnknownObject (like Material_MobileOverride)"""
+	if unknown_obj is None:
+		return None
+	# UnknownObject types might have nested PPtrs we can extract
+	# Try common attribute names that might contain Material references
+	possible_attrs = ['values', 'm_Values', 'material', 'm_Material', 'portrait', 'm_Portrait']
+	for attr in possible_attrs:
+		if hasattr(unknown_obj, attr):
+			try:
+				value = getattr(unknown_obj, attr)
+				# If it's a list/array, try to find a valid PPtr in it
+				if isinstance(value, (list, tuple)):
+					for item in value:
+						if hasattr(item, 'path_id') and item.path_id != 0:
+							print("\tExtracted Material from %s.%s" % (attr_name, attr))
+							return item
+				# If it's a single PPtr, check if it's valid
+				elif hasattr(value, 'path_id') and value.path_id != 0:
+					print("\tExtracted Material from %s.%s" % (attr_name, attr))
+					return value
+			except:
+				continue
+	return None
+
 def get_pointer_path_id(ptr) -> str:
 	"""Safely get the path_id of a pointer, returning a string representation"""
 	if ptr is None:
@@ -170,9 +195,9 @@ def build_cards_info(env: Environment, cards_map: Dict[str, str], cards_list: Op
 			# print("component_pptr: %s" % component_pptr)
 			if component_pptr.type.name == "MonoBehaviour":
 				card_def = component_pptr.read()
-				# print("card_def: %s" % card_def)
+				print("card_def: %s" % card_def)
 				attrs = [attr for attr in dir(card_def) if not attr.startswith("__")]
-				# print("card_def attributes:", attrs)
+				print("card_def attributes:", attrs)
     
 				# Sometimes there's multiple per cardid, we remove the ones without art
 				if not hasattr(card_def, "m_PortraitTexturePath"):
@@ -196,11 +221,13 @@ def build_cards_info(env: Environment, cards_map: Dict[str, str], cards_list: Op
 					print("\tm_DeckCardBarPortrait: attribute not found")
 				
 				# Check for alternative portrait attributes as fallbacks
-				fallback_attrs = ["m_CustomDeckPortrait", "m_DeckBoxPortrait", "m_DeckPickerPortrait"]
+				fallback_attrs = ["m_SignatureDeckCardBarPortrait", "m_CustomDeckPortrait", "m_DeckBoxPortrait", "m_DeckPickerPortrait"]
 				fallback_found = False
 				for attr_name in fallback_attrs:
 					if hasattr(card_def, attr_name):
 						fallback_ptr = card_def.__getattribute__(attr_name)
+						
+						# If it's a valid PPtr, use it directly
 						if is_valid_pointer(fallback_ptr):
 							path_id_val = get_pointer_path_id(fallback_ptr)
 							print("\t%s: path_id=%s (available as fallback)" % (attr_name, path_id_val))
@@ -209,6 +236,15 @@ def build_cards_info(env: Environment, cards_map: Dict[str, str], cards_list: Op
 								fallback_found = True
 								print("\tUsing %s as fallback" % attr_name)
 								break
+						# If it's an UnknownObject, try to extract a Material from it
+						elif fallback_ptr is not None and not hasattr(fallback_ptr, 'path_id'):
+							extracted_material = extract_material_from_unknown_object(fallback_ptr, attr_name)
+							if extracted_material is not None and is_valid_pointer(extracted_material):
+								if not is_valid_pointer(tile_ptr):
+									tile_ptr = extracted_material
+									fallback_found = True
+									print("\tUsing Material extracted from %s as fallback" % attr_name)
+									break
 			
 				tile: Material = None if not is_valid_pointer(tile_ptr) else tile_ptr.read()
 				# print("tile: %s" % tile)
@@ -231,7 +267,49 @@ def build_cards_info(env: Environment, cards_map: Dict[str, str], cards_list: Op
 
 def do_texture(env: Environment, card_id: str, texture_info: CardTextureInfo, textures: Dict[str, PPtr], thumb_sizes, args):
 	try:
-		texture_pptr = textures[texture_info.portrait_path]	
+		# Check if the texture exists in the map (try exact match first, then case-insensitive)
+		portrait_path = texture_info.portrait_path
+		texture_pptr = None
+		
+		if portrait_path in textures:
+			texture_pptr = textures[portrait_path]
+		else:
+			# Try case-insensitive lookup
+			portrait_path_lower = portrait_path.lower()
+			for key in textures.keys():
+				if key.lower() == portrait_path_lower:
+					texture_pptr = textures[key]
+					print("Found texture with case mismatch: '%s' -> '%s'" % (portrait_path, key))
+					break
+		
+		# If still not found, try looking up by GUID in env.container or searching Texture2D objects
+		if texture_pptr is None:
+			# Try env.container lookup (GUIDs might be keys there)
+			if portrait_path in env.container:
+				texture_pptr = env.container[portrait_path]
+				print("Found texture via env.container for %s" % card_id)
+			else:
+				# Search through Texture2D objects and try to match by name or other properties
+				# This is a fallback for GUID-based lookups
+				for obj in env.objects:
+					if obj.type == ClassIDType.Texture2D:
+						try:
+							texture_data = obj.read()
+							# Check if the texture name or path matches
+							if hasattr(texture_data, 'm_Name') and texture_data.m_Name:
+								# Some textures might have the GUID in their name or path
+								texture_name_lower = texture_data.m_Name.lower()
+								if portrait_path.lower() in texture_name_lower or texture_name_lower in portrait_path.lower():
+									texture_pptr = obj
+									print("Found texture by name match for %s (name='%s')" % (card_id, texture_data.m_Name))
+									break
+						except:
+							continue
+		
+		if texture_pptr is None:
+			print("ERROR: Texture not found for %s (portrait_path='%s')" % (card_id, portrait_path))
+			return
+			
 		print("texture_pptr: %s" % texture_pptr)
 		texture = texture_pptr.read()
 		print("texture: %s" % texture)
@@ -250,7 +328,7 @@ def do_texture(env: Environment, card_id: str, texture_info: CardTextureInfo, te
 			if not texture.image:
 				print("texture has no image %s" % card_id)
 			use_secondary_value = "coin" in card_id.lower()
-			tile_texture = generate_tile_image(env, texture.image, texture_info.tile_info, use_secondary_value)
+			tile_texture = generate_tile_image(card_id, env, texture.image, texture_info.tile_info, use_secondary_value)
 			if not tile_texture:
 				print("could not generate tile texture %s" % card_id)
 				# Some hero skins have no tiles, but still have the thumb
@@ -273,8 +351,8 @@ def do_texture(env: Environment, card_id: str, texture_info: CardTextureInfo, te
         
 
 
-def generate_tile_image(env: Environment, img, tile_info, use_secondary_value):
-	print("tile: %s" % tile_info)    
+def generate_tile_image(card_id: str, env: Environment, img, tile_info, use_secondary_value):
+	print("card_id: %s, tile: %s" % (card_id, tile_info))    
 	if (img.width, img.height) != (512, 512):
 		img = img.resize((512, 512), Image.ANTIALIAS)
   
@@ -327,12 +405,18 @@ def generate_tile_image(env: Environment, img, tile_info, use_secondary_value):
 		height = 101
 		print("rect secondary: x=%d, y=%d, width=%d, height=%d" % (x, y, width, height))
   	# For BG
-	else:
+	elif "bg" in card_id.lower():
 		x = 0
 		y = 300
 		width = 512
 		height = 117
 		print("rect: x=%d, y=%d, width=%d, height=%d" % (x, y, width, height))
+	else:
+		x = 467
+		y = 223
+		width = 440
+		height = 101
+		print("rect default: x=%d, y=%d, width=%d, height=%d" % (x, y, width, height))
 
 	# Clamp to image bounds
 	x = max(0, min(x, img.width * 2 - 1))
