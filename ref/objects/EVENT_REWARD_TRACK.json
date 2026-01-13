@@ -3546,6 +3546,192 @@
         },
         {
             "m_ID": 0,
+            "m_specialEventId": 60,
+            "m_eventRewardTrackId": 156,
+            "m_choiceConfirmationText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_shortConclusion": {
+                "m_locValues": [
+                    "Oh No, Hero! You've won but... it's too late!",
+                    "Oh nein, Held! Ihr habt gewonnen, aber_... es ist zu spät!",
+                    "¡Lástima, adalid! Ganaste, pero... ¡demasiado tarde!",
+                    "¡Ay, no! Has ganado, pero... ¡es demasiado tarde, adalid!",
+                    "Oh, non ! Vous avez réussi, mais… il est trop tard !",
+                    "Oh no! Hai vinto ma... è troppo tardi!",
+                    "大変だ、ヒーロー！勝ったけど...遅すぎた！",
+                    "큰일이에요, 영웅님! 승리하긴 했는데... 너무 늦었어요!",
+                    "O, nie... Udało ci się wygrać, ale... jest już za późno!",
+                    "Ah, não, viajante! Você venceu... mas é tarde demais!",
+                    "О нет! Победа за тобой, но... слишком поздно!",
+                    "แย่แล้วล่ะฮีโร่! ถึงเจ้าชนะแต่ว่ามัน... ไม่ทันการณ์ซะแล้ว!",
+                    "不好了，英雄！你虽然赢了……但是太晚了！",
+                    "哦不，英雄！你贏了，但是…一切都太遲了！"
+                ],
+                "m_locId": 2941929
+            },
+            "m_longConclusion": {
+                "m_locValues": [
+                    "You won! I don't know how, but Murozond's defeated and I'm back to my old self! That vile, awful Morchie! Yee-uck! It gives me the creeps to think about! But she knew what Murozond was planning. He had something dark and terrible in mind... and he succeeded before he was destroyed!\n\n<i>- Chromie</i>",
+                    "Ihr habt gewonnen! Ich weiß nicht, wie, aber Murozond ist besiegt und ich bin wieder ich selbst! Diese üble, schreckliche Morchie! Igitt! Allein der Gedanke an sie lässt mich erschauern! Aber sie wusste, was Murozond vorhatte. Er hatte etwas Dunkles, Fürchterliches im Sinn_... und es ist ihm gelungen, bevor er vernichtet wurde!\n\n<i>– Chromie</i>",
+                    "¡Has ganado! No sé cómo lo has conseguido, pero Murozond ha caído y yo vuelvo a ser como antes. ¡Maldita Mocri! ¡Puaj! Solo de recordarla, me dan escalofríos. Pero ella sabía que Murozond estaba planeando algo siniestro y espantoso... ¡y consiguió lo que quería antes de ser destruido!\n\n<i>- Cromi</i>",
+                    "¡Ganaste! ¡No sé cómo, pero Murozond ha sido derrotado, y yo he vuelto a la normalidad! Esa horrible y despreciable Moric, agh... ¡me dan escalofríos de tan solo pensarlo! Pero ella sabía lo que Murozond estaba tramando. Tenía algo temible y oscuro en mente... ¡y tuvo éxito antes de que fuera destruido!\n\n<i>- Cromi</i>",
+                    "Vous avez réussi ! Je ne sais pas comment, mais Murozond a été vaincu et je suis redevenue moi-même ! Cette horrible Morchie… Brrr ! Rien que d’y penser, j’en ai des frissons ! Mais elle savait ce que Murozond préparait. Il avait quelque chose de sinistre et de terrible en tête… et il a réussi avant d’être éliminé !\n\n<i>– Chromie</i>",
+                    "Hai vinto! Non so come, ma Murozond è stato sconfitto e io sono tornata a essere la vecchia me! Quella vile e orribile Morcie! Ugh! Solo a pensarci mi vengono i brividi! Ma lei sapeva cosa stava pianificando Murozond. Lui aveva in mente qualcosa di oscuro e terribile... e ha avuto successo prima di venire distrutto!\n\n<i>- Cromie</i>",
+                    "見事な戦いだったね！勝ってくれたおかげでムロゾンドは倒れ、私も元に戻れた！ミロクーみたいな悪いやつのままだったらと思うと...寒気がする！でも彼女はムロゾンドの計画を知っていた...あいつは、すごく恐ろしいことを考えていたんだ。それも、倒される前に成功しちゃってたみたい！\n\n<i>- クロミー</i>",
+                    "당신이 이겼어요! 영문은 모르겠지만 무르도즈노가 졌고 저도 예전의 저로 돌아왔네요! 그 사악하고 흉악한 미로크! 으익! 생각만 해도 소름이 돋아요! 하지만 미로크는 무르도즈노가 무슨 꿍꿍이를 품고 있는지 알았죠. 그는 검고 끔찍한 계획을 품고 있었고... 쓰러지기 전에 그 계획을 실행했어요!\n\n<i>- 크로미</i>",
+                    "Zwycięstwo jest twoje! Nie wiem, jak to się stało, ale Murozond został pokonany, a ja znów jestem sobą! Uch, ta paskudna, okropeczna Mronia! Aż mnie ciarki przechodzą, jak o niej myślę! Ona wiedziała wszystko o knowaniach Murozonda. Planował cosik mrocznego i straszliwego... i zanim został unicestwiony, osiągnął swój cel!\n\n<i>– Chronia</i>",
+                    "Você venceu! Eu não sei como, mas Murozond foi derrotado e eu voltei a ser eu mesma! E aquela horrorosa da Anorc! Eca! Só de pensar já me dá arrepios! Mas ela sabia o que Murozond estava planejando. Ele tinha algo sombrio e terrível em mente... e conseguiu alcançar antes de ser destruído!\n\n<i>– Crona</i>",
+                    "Победа! Не знаю, как у тебя это получилось, но Дорнозму повержен, а я снова стала собой! Ну и гадкая же эта Морхи... тьфу, даже думать про нее не хочу! Но она знала, что замышлял Дорнозму. У него были какие-то страшно зловещие планы... и он успел воплотить их в реальность перед тем, как пал!\n\n<i>Хроми</i>",
+                    "เจ้าชนะแล้ว! ข้าก็ไม่รู้ว่าเจ้าทำได้ยังไง แต่เจ้าเอาชนะมูโรซอนด์และช่วยให้ข้ากลับมาเป็นปกติได้! เจ้ามอร์ชี่ แกนะแก! แค่คิดถึงยังขนลุก! แต่นางคือคนที่รู้ว่าแผนการของมูโรซอนด์คืออะไร และมันได้ทำ... แผนการอันชั่วร้ายของมันสำเร็จไปแล้ว[b]ก่อนที่มันจะถูกกำจัดลง!\n\n<i>- โครมี่</i>",
+                    "没错，确实是你赢了！不知道怎么回事，姆诺兹多败了，我又变回了原来的自己！那个邪恶的米罗克，唉，真是太坏了！想想都觉得可怕！不过，她知道姆诺兹多的计划，黑暗又可怕的计划……而且在你消灭他之前，他的计划成功了！\n\n<i>——克罗米</i>",
+                    "你贏了！我也不懂是怎麼贏的，不過姆多茲諾被打敗，我也變回原本的自己了！那個又邪惡又討厭的米羅克！唉噁！光是用想的就讓我起雞皮疙瘩！但是她知道姆多茲諾的計畫。他的腦中存在著某種黑暗且可怕的念頭…更糟的是他在被消滅前成功實行了！\n\n<i>- 克羅米</i>"
+                ],
+                "m_locId": 2941930
+            }
+        },
+        {
+            "m_ID": 0,
+            "m_specialEventId": 61,
+            "m_eventRewardTrackId": 157,
+            "m_choiceConfirmationText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_shortConclusion": {
+                "m_locValues": [
+                    "We're out of options, Hero!",
+                    "Wir haben keine andere Wahl, Held!",
+                    "¡No nos quedan más opciones, adalid!",
+                    "¡No tenemos más opciones, adalid!",
+                    "Nous sommes à court d’options !",
+                    "Non abbiamo altre opzioni!",
+                    "これ以上打てる手がないよ、ヒーロー！",
+                    "이제 방법이 없어요, 영웅님!",
+                    "Skończyły się nam opcje!",
+                    "Estamos sem opções, viajante!",
+                    "Наши возможности на исходе!",
+                    "เราไม่มีทางเลือกแล้ว ฮีโร่!",
+                    "没什么办法了，英雄！",
+                    "我們別無選擇了，英雄！"
+                ],
+                "m_locId": 2942077
+            },
+            "m_longConclusion": {
+                "m_locValues": [
+                    "I sense it coming, the dark fate that Murozond called for before he fell! It's out there, waiting just a few heartbeats into the future for us. You did a great job saving what you could from the wreckage of time, but I'm not sure what we can do now, but wait...\n\n<i>- Chromie</i>",
+                    "Ich spüre es, das dunkle Schicksal, das Murozond heraufbeschwor, bevor er fiel. Es lauert da draußen und wird in ein paar Atemzügen über uns hereinbrechen. Ihr habt aus den Bruchstücken der Zeit gerettet, was Ihr konntet. Aber ich denke, jetzt können wir nur noch warten_...\n\n<i>– Chromie</i>",
+                    "Percibo su llegada, ¡la del destino oscuro que invocó Murozond antes de su caída! Está ahí mismo, en el futuro, a tan solo unos latidos. Te admiro por haber salvado lo que pudiste entre las ruinas del tiempo, pero no sé qué más nos queda por hacer, aparte de esperar...\n\n<i>- Cromi</i>",
+                    "El destino oscuro que Murozond invocó antes de caer... ¡puedo sentirlo cerca! Está ahí, esperándonos, a tan solo un par de latidos de distancia. Hiciste un gran trabajo al salvar todo lo que pudiste de este desastre temporal, pero ahora no sé qué podemos hacer, además de esperar...\n\n<i>- Cromi</i>",
+                    "Le funeste destin que Murozond a appelé avant sa chute est imminent. Il est là, dans un futur proche, à quelques encablures de nous. Vous avez accompli un travail remarquable en sauvant ce qui pouvait l’être des ruines du temps, mais je ne sais pas ce que nous pouvons faire maintenant, à part attendre…\n\n<i>– Chromie</i>",
+                    "Sento che sta arrivando, l'oscuro destino che Murozond ha invocato prima di cadere! È là fuori che ci aspetta, si profila nell'immediato futuro. Hai fatto un ottimo lavoro salvando ciò che potevi dalla devastazione del tempo, ma non so cos'altro possiamo fare ora, se non aspettare...\n\n<i>- Cromie</i>",
+                    "ムロゾンドが倒れる前に呼び寄せた、暗い運命の気配がする…！ほんの少し先の未来で、私たちを待ち受けているみたい。すでに時の崩壊から救えるものは救ってくれたし、これ以上何ができるかはわからない。もう待つしかないのかな…\n\n<i>- クロミー</i>",
+                    "무르도즈노가 쓰러지기 전에 불러온 검은 운명이 다가오는 것이 느껴져요! 그게 바로 코앞의 미래에서 우리를 기다리고 있어요. 당신은 시간의 잔해에서 구할 수 있는 것을 최대한 구해 냈지만, 지금은 기다리는 수밖에 없을 것 같네요...\n\n<i>- 크로미</i>",
+                    "Czuję, że nadciąga mroczny los zgotowany nam przez Murozonda na sam koniuszek jego żywota! Zaledwie kilka uderzeń serca dzieli nas od tego straszliwego przeznaczenia. Udało ci się odratować z gruzów czasu, co się tylko dało – dobra robota! Teraz pozostaje nam już tylko czekać...\n\n<i>– Chronia</i>",
+                    "Estou sentindo chegar o destino sombrio que Murozond invocou antes de sua queda! Ele está à espreita, esperando por nós a apenas algumas badaladas no futuro. Você fez um ótimo trabalho salvando o que pôde dos destroços do tempo, mas não sei se há algo que possamos agora fazer além de esperar...\n\n<i>– Crona</i>",
+                    "Я чувствую приближение той мрачной судьбы, которую напоследок предрекал Дорнозму! Всего несколько ударов сердца отделяют нас от ужасного будущего. Тебе удалось спасти все, что можно, во временном катаклизме, и, похоже, сейчас мы можем лишь ждать...\n\n<i>Хроми</i>",
+                    "ข้าสัมผัสมันได้... โชคชะตาอันดำมืดที่มูโรซอนด์สร้างไว้ก่อนที่[b]มันจะถูกกำจัดกำลังรอเราอยู่ในอนาคตอันใกล้! แม้เจ้าจะต่อสู้เพื่อกอบกู้เศษซากที่เหลือ[b]ของมิติเวลาได้อย่างยอดเยี่ยม แต่ข้าไม่แน่ใจแล้วว่าจากนี้พวกเราจะทำอะไรได้อีก นอกจากรอคอย...\n\n<i>- โครมี่</i>",
+                    "我感受到了！是姆诺兹多临死前召唤出的黑暗命运，就在不久之后的未来！是你尽力拯救了残存的时空，不过我不知道我们现在还能做什么……只好先等等看了……\n\n<i>——克罗米</i>",
+                    "我能感覺到它在逼近，就是姆多茲諾倒下前呼喚的那個黑暗命運！它蠢蠢欲動，在僅僅只有幾個心跳之遙的未來中等待我們。你在時間的殘骸中進行的挽救工作做得很好，但我不確定除了等待之外，我們如今還能做什麼…\n\n<i>- 克羅米</i>"
+                ],
+                "m_locId": 2942078
+            }
+        },
+        {
+            "m_ID": 0,
+            "m_specialEventId": 62,
+            "m_eventRewardTrackId": 158,
+            "m_choiceConfirmationText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_shortConclusion": {
+                "m_locValues": [
+                    "We're out of options, Hero!",
+                    "Wir haben keine andere Wahl, Held!",
+                    "¡No nos quedan más opciones, adalid!",
+                    "¡No tenemos más opciones, adalid!",
+                    "Nous sommes à court d’options !",
+                    "Non abbiamo altre opzioni!",
+                    "これ以上打てる手がないよ、ヒーロー！",
+                    "이제 방법이 없어요, 영웅님!",
+                    "Skończyły się nam opcje!",
+                    "Estamos sem opções, viajante!",
+                    "Наши возможности на исходе!",
+                    "เราไม่มีทางเลือกแล้ว ฮีโร่!",
+                    "没什么办法了，英雄！",
+                    "我們別無選擇了，英雄！"
+                ],
+                "m_locId": 2942327
+            },
+            "m_longConclusion": {
+                "m_locValues": [
+                    "I sense it coming, the dark fate that Murozond called for before he fell! It's out there, waiting just a few heartbeats into the future for us. You did a great job saving what you could from the wreckage of time, but I'm not sure what we can do now, but wait...\n\n<i>- Chromie</i>",
+                    "Ich spüre es, das dunkle Schicksal, das Murozond heraufbeschwor, bevor er fiel. Es lauert da draußen und wird in ein paar Atemzügen über uns hereinbrechen. Ihr habt aus den Bruchstücken der Zeit gerettet, was Ihr konntet. Aber ich denke, jetzt können wir nur noch warten_...\n\n<i>– Chromie</i>",
+                    "Percibo su llegada, ¡la del destino oscuro que invocó Murozond antes de su caída! Está ahí mismo, en el futuro, a tan solo unos latidos. Te admiro por haber salvado lo que pudiste entre las ruinas del tiempo, pero no sé qué más nos queda por hacer, aparte de esperar...\n\n<i>- Cromi</i>",
+                    "El destino oscuro que Murozond invocó antes de caer... ¡puedo sentirlo cerca! Está ahí, esperándonos, a tan solo un par de latidos de distancia. Hiciste un gran trabajo al salvar todo lo que pudiste de este desastre temporal, pero ahora no sé qué podemos hacer, además de esperar...\n\n<i>- Cromi</i>",
+                    "Le funeste destin que Murozond a appelé avant sa chute est imminent. Il est là, dans un futur proche, à quelques encablures de nous. Vous avez accompli un travail remarquable en sauvant ce qui pouvait l’être des ruines du temps, mais je ne sais pas ce que nous pouvons faire maintenant, à part attendre…\n\n<i>– Chromie</i>",
+                    "Sento che sta arrivando, l'oscuro destino che Murozond ha invocato prima di cadere! È là fuori che ci aspetta, si profila nell'immediato futuro. Hai fatto un ottimo lavoro salvando ciò che potevi dalla devastazione del tempo, ma non so cos'altro possiamo fare ora, se non aspettare...\n\n<i>- Cromie</i>",
+                    "ムロゾンドが倒れる前に呼び寄せた、暗い運命の気配がする…！ほんの少し先の未来で、私たちを待ち受けているみたい。すでに時の崩壊から救えるものは救ってくれたし、これ以上何ができるかはわからない。もう待つしかないのかな…\n\n<i>- クロミー</i>",
+                    "무르도즈노가 쓰러지기 전에 불러온 검은 운명이 다가오는 것이 느껴져요! 그게 바로 코앞의 미래에서 우리를 기다리고 있어요. 당신은 시간의 잔해에서 구할 수 있는 것을 최대한 구해 냈지만, 지금은 기다리는 수밖에 없을 것 같네요...\n\n<i>- 크로미</i>",
+                    "Czuję, że nadciąga mroczny los zgotowany nam przez Murozonda na sam koniuszek jego żywota! Zaledwie kilka uderzeń serca dzieli nas od tego straszliwego przeznaczenia. Udało ci się odratować z gruzów czasu, co się tylko dało – dobra robota! Teraz pozostaje nam już tylko czekać...\n\n<i>– Chronia</i>",
+                    "Estou sentindo chegar o destino sombrio que Murozond invocou antes de sua queda! Ele está à espreita, esperando por nós a apenas algumas badaladas no futuro. Você fez um ótimo trabalho salvando o que pôde dos destroços do tempo, mas não sei se há algo que possamos agora fazer além de esperar...\n\n<i>– Crona</i>",
+                    "Я чувствую приближение той мрачной судьбы, которую напоследок предрекал Дорнозму! Всего несколько ударов сердца отделяют нас от ужасного будущего. Тебе удалось спасти все, что можно, во временном катаклизме, и, похоже, сейчас мы можем лишь ждать...\n\n<i>Хроми</i>",
+                    "ข้าสัมผัสมันได้... โชคชะตาอันดำมืดที่มูโรซอนด์สร้างไว้ก่อนที่[b]มันจะถูกกำจัดกำลังรอเราอยู่ในอนาคตอันใกล้! แม้เจ้าจะต่อสู้เพื่อกอบกู้เศษซากที่เหลือ[b]ของมิติเวลาได้อย่างยอดเยี่ยม แต่ข้าไม่แน่ใจแล้วว่าจากนี้พวกเราจะทำอะไรได้อีก นอกจากรอคอย...\n\n<i>- โครมี่</i>",
+                    "我感受到了！是姆诺兹多临死前召唤出的黑暗命运，就在不久之后的未来！是你尽力拯救了残存的时空，不过我不知道我们现在还能做什么……只好先等等看了……\n\n<i>——克罗米</i>",
+                    "我能感覺到它在逼近，就是姆多茲諾倒下前呼喚的那個黑暗命運！它蠢蠢欲動，在僅僅只有幾個心跳之遙的未來中等待我們。你在時間的殘骸中進行的挽救工作做得很好，但我不確定除了等待之外，我們如今還能做什麼…\n\n<i>- 克羅米</i>"
+                ],
+                "m_locId": 2942328
+            }
+        },
+        {
+            "m_ID": 0,
             "m_specialEventId": 7,
             "m_eventRewardTrackId": 52,
             "m_choiceConfirmationText": {

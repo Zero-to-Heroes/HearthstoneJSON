@@ -115,58 +115,6 @@
             "m_featureUnlockId2": 0
         },
         {
-            "m_ID": 3,
-            "m_noteDesc": "PvP Dungeon Run",
-            "m_modeKey": 5,
-            "m_event": 164,
-            "m_name": {
-                "m_locValues": [
-                    "Duels",
-                    "Duelle",
-                    "Duelos",
-                    "Duelos",
-                    "Duels",
-                    "Duelli",
-                    "デュエル",
-                    "결투",
-                    "Starcia",
-                    "Duelos",
-                    "Дуэли",
-                    "ดวลเดือด",
-                    "对决模式",
-                    "決鬥擂台"
-                ],
-                "m_locId": 2727279
-            },
-            "m_description": {
-                "m_locValues": [
-                    "Grow your deck. Collect treasures. Win duels!",
-                    "Erweitert Euer Deck. Sammelt Schätze. Gewinnt Duelle!",
-                    "Amplía tu mazo, reúne tesoros ¡y gana duelos!",
-                    "Perfecciona tu mazo. Reúne tesoros. ¡Gana duelos!",
-                    "Étoffez votre deck. Obtenez des trésors. Remportez des duels !",
-                    "Fai crescere il tuo mazzo, colleziona i Tesori, vinci i Duelli!",
-                    "デッキを育てて、宝物を集めて、デュエルに勝とう！",
-                    "덱을 보강하고, 보물을 모으고, 결투에서 승리하세요!",
-                    "Rozwijaj talię. Gromadź skarby. Wygrywaj starcia!",
-                    "Construa seu deck. Receba tesouros. Vença duelos! ",
-                    "Расширяйте колоду, собирайте сокровища, побеждайте в дуэлях!",
-                    "พัฒนาเด็ค รวบรวมสมบัติ พิชิตการดวลเดือด!",
-                    "丰富你的套牌，收集强大宝藏，赢得最终对决！",
-                    "擴充套牌、收集寶藏，打贏決鬥！"
-                ],
-                "m_locId": 2727280
-            },
-            "m_sortOrder": 3,
-            "m_gameModeButtonState": "PVPDR",
-            "m_linkedScene": "PVP_DUNGEON_RUN",
-            "m_showAsNewEvent": 164,
-            "m_showAsEarlyAccessEvent": 10000524,
-            "m_showAsBetaEvent": 10000525,
-            "m_featureUnlockId": 10,
-            "m_featureUnlockId2": 11
-        },
-        {
             "m_ID": 6,
             "m_noteDesc": "Solo Adventures",
             "m_modeKey": 4,
@@ -217,6 +165,58 @@
             "m_showAsBetaEvent": -1,
             "m_featureUnlockId": 0,
             "m_featureUnlockId2": 0
+        },
+        {
+            "m_ID": 3,
+            "m_noteDesc": "PvP Dungeon Run",
+            "m_modeKey": 5,
+            "m_event": 164,
+            "m_name": {
+                "m_locValues": [
+                    "Duels",
+                    "Duelle",
+                    "Duelos",
+                    "Duelos",
+                    "Duels",
+                    "Duelli",
+                    "デュエル",
+                    "결투",
+                    "Starcia",
+                    "Duelos",
+                    "Дуэли",
+                    "ดวลเดือด",
+                    "对决模式",
+                    "決鬥擂台"
+                ],
+                "m_locId": 2727279
+            },
+            "m_description": {
+                "m_locValues": [
+                    "Grow your deck. Collect treasures. Win duels!",
+                    "Erweitert Euer Deck. Sammelt Schätze. Gewinnt Duelle!",
+                    "Amplía tu mazo, reúne tesoros ¡y gana duelos!",
+                    "Perfecciona tu mazo. Reúne tesoros. ¡Gana duelos!",
+                    "Étoffez votre deck. Obtenez des trésors. Remportez des duels !",
+                    "Fai crescere il tuo mazzo, colleziona i Tesori, vinci i Duelli!",
+                    "デッキを育てて、宝物を集めて、デュエルに勝とう！",
+                    "덱을 보강하고, 보물을 모으고, 결투에서 승리하세요!",
+                    "Rozwijaj talię. Gromadź skarby. Wygrywaj starcia!",
+                    "Construa seu deck. Receba tesouros. Vença duelos! ",
+                    "Расширяйте колоду, собирайте сокровища, побеждайте в дуэлях!",
+                    "พัฒนาเด็ค รวบรวมสมบัติ พิชิตการดวลเดือด!",
+                    "丰富你的套牌，收集强大宝藏，赢得最终对决！",
+                    "擴充套牌、收集寶藏，打贏決鬥！"
+                ],
+                "m_locId": 2727280
+            },
+            "m_sortOrder": 3,
+            "m_gameModeButtonState": "PVPDR",
+            "m_linkedScene": "PVP_DUNGEON_RUN",
+            "m_showAsNewEvent": 164,
+            "m_showAsEarlyAccessEvent": 10000526,
+            "m_showAsBetaEvent": 10000527,
+            "m_featureUnlockId": 10,
+            "m_featureUnlockId2": 11
         },
         {
             "m_ID": 8,

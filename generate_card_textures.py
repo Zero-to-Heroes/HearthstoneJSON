@@ -38,8 +38,8 @@ class CardTextureInfo:
 		self.portrait_path = portrait_path
 		self.tile_info = tile_info
 
-# ./generate_card_textures.py --outdir out_png_test_2 --tiles-dir tiles --cards-list cards_list.txt /e/Games/Hearthstone/Data/Win
-# ./generate_card_textures.py --outdir out_png --tiles-dir tiles --cards-list cards_list.txt /e/Games/Hearthstone_Event_1/Data/Win
+# ./generate_card_textures.py --outdir out_png --tiles-dir tiles --cards-list cards_list.txt /e/Games/Hearthstone/Data/Win
+# ./generate_card_textures.py --outdir out_png_event --tiles-dir tiles --cards-list cards_list.txt /e/Games/Hearthstone_Event_1/Data/Win
 def main():
 	TypeTreeHelper.read_typetree_c = False
 
@@ -195,9 +195,9 @@ def build_cards_info(env: Environment, cards_map: Dict[str, str], cards_list: Op
 			# print("component_pptr: %s" % component_pptr)
 			if component_pptr.type.name == "MonoBehaviour":
 				card_def = component_pptr.read()
-				print("card_def: %s" % card_def)
+				# print("card_def: %s" % card_def)
 				attrs = [attr for attr in dir(card_def) if not attr.startswith("__")]
-				print("card_def attributes:", attrs)
+				# print("card_def attributes:", attrs)
     
 				# Sometimes there's multiple per cardid, we remove the ones without art
 				if not hasattr(card_def, "m_PortraitTexturePath"):
@@ -216,7 +216,7 @@ def build_cards_info(env: Environment, cards_map: Dict[str, str], cards_list: Op
 				if hasattr(card_def, "m_DeckCardBarPortrait"):
 					tile_ptr = card_def.__getattribute__("m_DeckCardBarPortrait")
 					path_id_val = get_pointer_path_id(tile_ptr)
-					print("\tm_DeckCardBarPortrait: path_id=%s" % path_id_val)
+					# print("\tm_DeckCardBarPortrait: path_id=%s" % path_id_val)
 				else:
 					print("\tm_DeckCardBarPortrait: attribute not found")
 				

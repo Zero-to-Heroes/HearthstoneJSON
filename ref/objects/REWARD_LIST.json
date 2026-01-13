@@ -42887,6 +42887,33 @@
             "m_locked": 0
         },
         {
+            "m_ID": 2914,
+            "m_description": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
             "m_ID": 2915,
             "m_description": {
                 "m_locValues": [
@@ -45140,7 +45167,7 @@
                     "「デジャブ」x1（ゴールデン作成不能レア）",
                     "데자뷔 1장 (황금 제작 불가 희귀 카드)",
                     "1 x Deja vu (złota rzadka niewytwarzalna)",
-                    "1x Deja Vu (Dourado Incriável Raro)",
+                    "1x Déjà-vu (Dourado Incriável Raro)",
                     "1 золотая карта «Дежа вю» (нельзя создать, редкая карта)",
                     "1x เดจาวู (ระดับหายากสีทอง สร้างไม่ได้)",
                     "1张似曾相识（无法制作的金色稀有卡牌）",
@@ -45944,7 +45971,7 @@
                     "2x Signature Futuristic Forefather",
                     "2x markante Karte Futuristischer Vorfahre",
                     "2x Antepasado del futuro distintiva",
-                    "2 Antepasado futurístico insignia",
+                    "2 Antepasado futurista insignia",
                     "Carte signature Ancêtre du futur ×2",
                     "2 Antenato Futuristico Pregiate",
                     "シグネチャー「未来から来た先祖」x2",
@@ -47648,7 +47675,7 @@
                     "Eudora del fin de los tiempos (emoción épica)",
                     "Eudora de la Fin des temps (emote épique)",
                     "Eudora della Fine dei Tempi (emote Epica)",
-                    "終焉のユードラ（エピック感情表現）",
+                    "終末のユードラ（エピック感情表現）",
                     "시간의 끝 유도라 (특급 감정 표현)",
                     "Eudora z Końca Czasu (epicka emotka)",
                     "Eudora do Fim dos Tempos (Expressão Épica)",
@@ -47945,7 +47972,7 @@
                     "Galakrond del fin de los tiempos (diseño de héroe raro)",
                     "Galakrond de la Fin des temps (modèle héroïque rare)",
                     "Galakrond Fine dei Tempi (modello eroe Raro)",
-                    "終焉のガラクロンド（レアヒーロースキン）",
+                    "終末のガラクロンド（レアヒーロースキン）",
                     "시간의 끝 갈라크론드 (희귀 영웅 스킨)",
                     "Galakrond z Końca Czasu (rzadka skórka dla bohatera)",
                     "Galakrond do Fim dos Tempos (visual de herói Raro)",
@@ -48188,7 +48215,7 @@
                     "Diseño de héroe de Hearthstone: Garrosh del fin de los tiempos",
                     "Modèle héroïque de Hearthstone : Garrosh de la Fin des temps",
                     "Modello eroe di Hearthstone - Garrosh Fine dei Tempi",
-                    "王道用ヒーロースキン「終焉のガロッシュ」",
+                    "王道用ヒーロースキン「終末のガロッシュ」",
                     "하스스톤 영웅 스킨 - 시간의 끝 가로쉬",
                     "Skórka bohatera – Garosz z Końca Czasu",
                     "Visual de herói de Hearthstone – Garrosh do Fim dos Tempos",
@@ -48935,6 +48962,222 @@
             "m_locked": 0
         },
         {
+            "m_ID": 3152,
+            "m_description": {
+                "m_locValues": [
+                    "Hearthstone Hero Skin - Morchie",
+                    "Hearthstone: Heldenskin – Morchie",
+                    "Aspecto de héroe de Hearthstone - Mocri",
+                    "Diseño de heroína de Hearthstone: Moric",
+                    "Modèle héroïque de Hearthstone : Morchie",
+                    "Modello eroe di Hearthstone - Morcie",
+                    "王道用ヒーロースキン - ミロクー",
+                    "하스스톤 영웅 스킨 - 미로크",
+                    "Skórka bohatera – Mronia",
+                    "Visual de herói de Hearthstone - Anorc",
+                    "Облик героя Hearthstone «Морхи»",
+                    "สกินฮีโร่ Hearthstone - มอร์ชี่",
+                    "传统对战英雄皮肤 - 米罗克",
+                    "爐石戰記英雄造型：米羅克"
+                ],
+                "m_locId": 2941186
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3153,
+            "m_description": {
+                "m_locValues": [
+                    "2x Signature Precise Shot",
+                    "2x markante Karte Präziser Schuss",
+                    "2x Disparo preciso distintiva",
+                    "2 Disparo preciso insignia",
+                    "Carte signature Tir précis ×2",
+                    "2 Tiro Preciso Pregiate",
+                    "シグネチャー「正確な一矢」x2",
+                    "간판 정밀 사격 2장",
+                    "2 x specjalna karta Precyzyjny strzał",
+                    "2x Tiro Preciso Exclusivo",
+                    "2 особые карты «Точный выстрел»",
+                    "2x ศรตรงศูนย์ซิกเนเจอร์",
+                    "2张异画精确射击",
+                    "2張珍藏精準射擊"
+                ],
+                "m_locId": 2941187
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3154,
+            "m_description": {
+                "m_locValues": [
+                    "The Winter Queen Card Back",
+                    "Kartenrücken: Die Winterkönigin",
+                    "Dorso de carta de Reina del Invierno",
+                    "Dorso de carta Reina del invierno",
+                    "Dos de carte Reine de l’hiver",
+                    "Dorso Regina dell'Inverno",
+                    "カード裏面デザイン「冬の女王」",
+                    "겨울 여왕 카드 뒷면",
+                    "Rewers Królowa Zimy",
+                    "Verso de card A Rainha Invernal",
+                    "Рубашка «Королева Зимы»",
+                    "หลังการ์ดวินเทอร์ควีน",
+                    "寒冬女王卡背图案",
+                    "凜冬女王卡背"
+                ],
+                "m_locId": 2941188
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3155,
+            "m_description": {
+                "m_locValues": [
+                    "Golden Standard Card Pack",
+                    "Goldene Standardkartenpackung",
+                    "Sobre estándar dorado",
+                    "Paquete de cartas estándar dorado",
+                    "Paquet de cartes standard dorées",
+                    "Busta Dorata Standard",
+                    "ゴールデンスタンダードカードパック",
+                    "황금 정규 카드 팩",
+                    "Złoty pakiet kart standardowych",
+                    "Pacote de cards Padrão Dourado",
+                    "Золотой стандартный комплект карт",
+                    "ซองการ์ดมาตรฐานสีทอง",
+                    "金色标准卡牌包",
+                    "標準規則黃金卡牌包"
+                ],
+                "m_locId": 2941189
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3156,
+            "m_description": {
+                "m_locValues": [
+                    "Hero Skin and Card Back - King Maluk",
+                    "Heldenskin und Kartenrücken: König Maluk",
+                    "Aspecto de héroe y dorso de carta - Rey Maluk",
+                    "Diseño de héroe y dorso de carta: Rey Maluk",
+                    "Modèle héroïque et dos de carte : Roi Maluk",
+                    "Modello eroe e dorso delle carte - Re Maluk",
+                    "ヒーロースキンとカード裏面デザイン - マルク王",
+                    "영웅 스킨 및 카드 뒷면 - 밀림의 왕 말루크",
+                    "Skórka bohatera i rewers – Król Maluk",
+                    "Visual de herói e verso de card - Rei Maluk",
+                    "Облик героя и рубашка «Король Малук»",
+                    "สกินฮีโร่และหลังการ์ด - คิงมาลุค",
+                    "英雄皮肤及卡背图案 - 穆拉克",
+                    "英雄造型與卡背：拉克穆"
+                ],
+                "m_locId": 2941190
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3157,
+            "m_description": {
+                "m_locValues": [
+                    "Diamond Chronikar",
+                    "Diamantkarte Chronikar",
+                    "Cronikar de diamante",
+                    "Crónicar diamante",
+                    "Carte diamant Chronikar",
+                    "Cronikar Diamante",
+                    "ダイヤモンド「クロニカル」",
+                    "다이아몬드 크로니카르",
+                    "Diamentowa karta Chronikar",
+                    "Cronikar Diamante",
+                    "Алмазный Хроникар",
+                    "โครนิคาร์ขอบเพชร",
+                    "钻石克罗妮卡",
+                    "柯瓏妮卡鑽石卡"
+                ],
+                "m_locId": 2941191
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3158,
+            "m_description": {
+                "m_locValues": [
+                    "2x Random Golden Epic Cards from Across the Timeways",
+                    "2x zufällige goldene epische Karte aus Reise durch die Zeitwege",
+                    "2x carta épica dorada aleatoria de Los Portales del Tiempo",
+                    "2 cartas épicas doradas aleatorias de A través de los Portales del Tiempo",
+                    "Carte épique dorée aléatoire de Par-delà les voies temporelles ×2",
+                    "2 carte Epiche Dorate casuali di Oltre i Flussi Temporali",
+                    "「タイムウェイの旅人たち」のランダムなゴールデンエピックカード2枚",
+                    "시간의 길 너머로의 무작위 황금 특급 카드 2장",
+                    "2 x losowa złota karta epicka Poprzez linie czasu",
+                    "2x cards Épicos Dourados aleatórios de Através dos Percursos Temporais",
+                    "2 случайные золотые эпические карты «Сквозь потоки времени»",
+                    "2x การ์ดระดับสุดยอดสีทองแบบสุ่มจาก Across the Timeways",
+                    "2张穿越时间流的随机金色史诗卡牌",
+                    "2張來自《時光特攻隊》的隨機史詩金卡"
+                ],
+                "m_locId": 2941192
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3159,
+            "m_description": {
+                "m_locValues": [
+                    "Signature Morchie",
+                    "Markante Karte Morchie",
+                    "Mocri distintiva",
+                    "Moric insignia",
+                    "Carte signature Morchie",
+                    "Morcie Pregiata",
+                    "シグネチャー「ミロクー」",
+                    "간판 미로크",
+                    "Specjalna karta Mronia",
+                    "Anorc Exclusivo",
+                    "Особая карта «Морхи»",
+                    "มอร์ชี่ซิกเนเจอร์",
+                    "异画米罗克",
+                    "珍藏米羅克"
+                ],
+                "m_locId": 2941193
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
             "m_ID": 316,
             "m_description": {
                 "m_locValues": [
@@ -48954,6 +49197,276 @@
                     "密探史蓋伯斯"
                 ],
                 "m_locId": 2765387
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3160,
+            "m_description": {
+                "m_locValues": [
+                    "1x Golden Across the Timeways Card Pack",
+                    "1x goldene Kartenpackung aus Reise durch die Zeitwege",
+                    "1x sobre dorado de Los Portales del Tiempo",
+                    "1 paquete de cartas dorado de A través de los Portales del Tiempo",
+                    "Paquet de cartes dorées de Par-delà les voies temporelles ×1",
+                    "1 busta Dorata di Oltre i Flussi Temporali",
+                    "ゴールデン「タイムウェイの旅人たち」カードパック1個",
+                    "황금 시간의 길 너머로 카드 팩 1개",
+                    "1 x złoty pakiet kart Poprzez linie czasu",
+                    "1x Pacote de cards Dourado de Através dos Percursos Temporais",
+                    "1 золотой комплект карт «Сквозь потоки времени»",
+                    "1x ซองการ์ด Across the Timeways สีทอง",
+                    "1包穿越时间流金色包",
+                    "1包《時光特攻隊》黃金卡牌包"
+                ],
+                "m_locId": 2941194
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3161,
+            "m_description": {
+                "m_locValues": [
+                    "Cosmetic Pet - Ysera",
+                    "Kosmetisches Haustier – Ysera",
+                    "Mascota cosmética - Ysera",
+                    "Mascota estética: Ysera",
+                    "Familier ornemental – Ysera",
+                    "Mascotte cosmetica - Ysera",
+                    "ペット - 「イセラ」",
+                    "외형 애완동물 - 이세라",
+                    "Ozdobny pupil – Ysera",
+                    "Mascote cosmética - Ysera",
+                    "Декоративный питомец «Изера»",
+                    "สัตว์เลี้ยงตกแต่ง - อิเซร่า",
+                    "宠物 - 伊瑟拉",
+                    "造型寵物：伊瑟拉"
+                ],
+                "m_locId": 2941195
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3162,
+            "m_description": {
+                "m_locValues": [
+                    "Golden Dispossessed Soul (Uncraftable Rare)",
+                    "Goldene seltene Karte Enteignete Seele (nicht herstellbar)",
+                    "Alma desposeída dorada (poco común, no se puede crear)",
+                    "Alma desposeída dorada (rara no creable)",
+                    "Carte rare dorée Âme dépossédée (impossible à créer)",
+                    "Anima Nullatenente Dorata (Rara vincolata)",
+                    "ゴールデン「寄るべなき魂」（作成不能レア）",
+                    "황금 방황하는 영혼 (제작 불가 희귀 카드)",
+                    "Złota karta Uwolniona dusza (rzadka niewytwarzalna)",
+                    "Alma Despossuída Dourado (Incriável Raro)",
+                    "Золотая карта «Обездоленная душа» (нельзя создать, редкая карта)",
+                    "วิญญาณไร้บ้านสีทอง (ระดับหายาก สร้างไม่ได้)",
+                    "金色离躯之魂（无法制作的稀有卡牌）",
+                    "孤魂金卡(無法合成 - 精良)"
+                ],
+                "m_locId": 2941786
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3163,
+            "m_description": {
+                "m_locValues": [
+                    "2x Across the Timeways Card Packs",
+                    "2x Kartenpackungen aus Reise durch die Zeitwege",
+                    "2x sobre de Los Portales del Tiempo",
+                    "2 paquetes de cartas de A través de los Portales del Tiempo",
+                    "Paquet de Par-delà les voies temporelles ×2",
+                    "2 buste di carte di Oltre i Flussi Temporali",
+                    "「タイムウェイの旅人たち」カードパックx2",
+                    "시간의 길 너머로 카드 팩 2개",
+                    "2 x pakiet kart Poprzez linie czasu",
+                    "2x Pacotes de cards de Através dos Percursos Temporais",
+                    "2 комплекта «Сквозь потоки времени»",
+                    "2x ซองการ์ด Across the Timeways",
+                    "2包穿越时间流卡牌包",
+                    "2包《時光特攻隊》卡牌包"
+                ],
+                "m_locId": 2942038
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3164,
+            "m_description": {
+                "m_locValues": [
+                    "2x Random Epic Cards from Across the Timeways",
+                    "2x zufällige epische Karten aus Reise durch die Zeitwege",
+                    "2x carta épica aleatoria de Los Portales del Tiempo",
+                    "2 cartas épicas aleatorias de A través de los Portales del Tiempo",
+                    "Carte épique aléatoire de Par-delà les voies temporelles ×2",
+                    "2 carte Epiche casuali di Oltre i Flussi Temporali",
+                    "「タイムウェイの旅人たち」のランダムなエピックカード2枚",
+                    "시간의 길 너머로의 무작위 특급 카드 2장",
+                    "2 x losowa karta epicka Poprzez linie czasu",
+                    "2x cards Épicos aleatórios de Através dos Percursos Temporais",
+                    "2 случайные эпические карты «Сквозь потоки времени»",
+                    "2x การ์ดระดับสุดยอดแบบสุ่มจาก Across the Timeways",
+                    "2张穿越时间流的随机史诗卡牌",
+                    "2張來自《時光特攻隊》的隨機史詩卡牌"
+                ],
+                "m_locId": 2942039
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3165,
+            "m_description": {
+                "m_locValues": [
+                    "Hour of Twilight Card Back and 1x Across the Timeways Card Pack",
+                    "Kartenrücken: Stunde des Zwielichts und 1x Kartenpackung aus Reise durch die Zeitwege",
+                    "Dorso de carta de Hora del Crepúsculo y 1x sobre de Los Portales del Tiempo",
+                    "Dorso de carta Hora del Crepúsculo y 1 paquete de cartas de A través de los Portales del Tiempo",
+                    "Dos de carte Heure du Crépuscule et paquet de Par-delà les voies temporelles ×1",
+                    "Dorso Ora del Crepuscolo e 1 busta di carte di Oltre i Flussi Temporali",
+                    "カード裏面デザイン「黄昏時、来たれり」と「タイムウェイの旅人たち」カードパックx1",
+                    "황혼의 시간 카드 뒷면 및 시간의 길 너머로 카드 팩 1개",
+                    "Rewers Godzina Zmierzchu i 1 x pakiet kart Poprzez linie czasu",
+                    "Verso de card Hora do Crepúsculo e 1x Pacote de cards de Através dos Percursos Temporais",
+                    "Рубашка «Время Сумерек» и 1 комплект карт «Сквозь потоки времени»",
+                    "หลังการ์ดยามสนธยาและ 1x ซองการ์ด Across the Timeways",
+                    "暮光审判卡背图案和1包穿越时间流卡牌包",
+                    "暮光之時卡背和1包《時光特攻隊》卡牌包"
+                ],
+                "m_locId": 2942040
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3166,
+            "m_description": {
+                "m_locValues": [
+                    "1x Golden Across the Timeways Card Pack, 1x Across the Timeways Card Pack, Infinite Coin",
+                    "1x goldene Kartenpackung aus Reise durch die Zeitwege, 1x Kartenpackung aus Reise durch die Zeitwege, Ewige Münze",
+                    "1x sobre dorado de Los Portales del Tiempo, 1x sobre de Los Portales del Tiempo, Moneda del Infinito",
+                    "1 paquete de cartas dorado de A través de los Portales del Tiempo, 1 paquete de cartas de A través de los Portales del Tiempo, Moneda infinita",
+                    "Paquet doré de Par-delà les voies temporelles ×1, paquet de Par-delà les voies temporelles ×1, pièce de l’infini",
+                    "1 busta di carte Dorata di Oltre i Flussi Temporali, 1 busta di carte di Oltre i Flussi Temporali, Moneta dell'Infinito",
+                    "「タイムウェイの旅人たち」ゴールデンカードパック1個、「タイムウェイの旅人たち」カードパック1個、「無限のコイン」",
+                    "황금 시간의 길 너머로 카드 팩 1개, 시간의 길 너머로 카드 팩 1개, 무한의 동전",
+                    "1 x złoty pakiet kart Poprzez linie czasu, 1 x pakiet kart Poprzez linie czasu, Moneta nieskończonych",
+                    "1x Pacote de cards Dourado de Através dos Percursos Temporais, 1x Pacote de cards de Através dos Percursos Temporais, Moeda Infinita",
+                    "1 золотой комплект «Сквозь потоки времени, 1 комплект «Сквозь потоки времени», бесконечная монетка",
+                    "1x ซองการ์ด Across the Timeways สีทอง, 1x ซองการ์ด Across the Timeways, เหรียญอินฟินิต",
+                    "1包穿越时间流金色包，1包穿越时间流卡牌包和永恒幸运币",
+                    "1包《時光特攻隊》黃金卡牌包、1包《時光特攻隊》卡牌包、恆龍幸運幣"
+                ],
+                "m_locId": 2942041
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3167,
+            "m_description": {
+                "m_locValues": [
+                    "Across the Timeways Card Pack",
+                    "Kartenpackung aus Reise durch die Zeitwege",
+                    "Sobre de Los Portales del Tiempo",
+                    "Paquete de cartas de A través de los Portales del Tiempo",
+                    "Paquet de Par-delà les voies temporelles",
+                    "Busta di Oltre i Flussi Temporali",
+                    "「タイムウェイの旅人たち」パック",
+                    "시간의 길 너머로 카드 팩",
+                    "Pakiet kart Poprzez linie czasu",
+                    "Pacote de cards Através dos Percursos Temporais",
+                    "Комплект карт «Сквозь потоки времени»",
+                    "ซองการ์ด Across the Timeways",
+                    "穿越时间流卡牌包",
+                    "《時光特攻隊》卡牌包"
+                ],
+                "m_locId": 2942320
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3168,
+            "m_description": {
+                "m_locValues": [
+                    "Lunar New Year Card Back",
+                    "Kartenrücken: Mondfest",
+                    "Dorso de carta del Año Nuevo lunar",
+                    "Dorso de carta Año Nuevo Lunar",
+                    "Dos de carte Fête lunaire",
+                    "Dorso Festa della Luna",
+                    "カード裏面デザイン「旧正月」",
+                    "설날 카드 뒷면",
+                    "Rewers Księżycowy Nowy Rok",
+                    "Verso de card Ano Novo Lunar",
+                    "Рубашка «Лунный Новый год»",
+                    "หลังการ์ดวันตรุษจีน",
+                    "新年吉祥卡背图案",
+                    "農曆新年卡背"
+                ],
+                "m_locId": 2942321
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3169,
+            "m_description": {
+                "m_locValues": [
+                    "Lunar Lunara Hero Skin",
+                    "Heldenskin: Lunare Lunara",
+                    "Aspecto de héroe Lunara lunar",
+                    "Diseño de heroína Lunara Lunar",
+                    "Modèle héroïque Lunara lunaire",
+                    "Modello eroe Lunara Lunare",
+                    "レアヒーロースキン「旧正月のルナーラ」",
+                    "달의 루나라 영웅 스킨",
+                    "Skórka dla bohatera Księżycowa Lunara",
+                    "Visual de herói Lunara Lunar",
+                    "Облик героя «Лунная Лунара»",
+                    "สกินฮีโร่ลูนาร่าจันทรา",
+                    "英雄皮肤嘲风望月露娜拉",
+                    "新年露娜拉英雄造型"
+                ],
+                "m_locId": 2942322
             },
             "m_chooseOne": 0,
             "m_random": 0,
