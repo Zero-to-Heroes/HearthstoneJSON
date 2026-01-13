@@ -38,7 +38,7 @@ class CardTextureInfo:
 		self.portrait_path = portrait_path
 		self.tile_info = tile_info
 
-# ./generate_card_textures.py --outdir out_png_test --tiles-dir tiles --cards-list cards_list.txt /e/Games/Hearthstone/Data/Win
+# ./generate_card_textures.py --outdir out_png_test_2 --tiles-dir tiles --cards-list cards_list.txt /e/Games/Hearthstone/Data/Win
 # ./generate_card_textures.py --outdir out_png --tiles-dir tiles --cards-list cards_list.txt /e/Games/Hearthstone_Event_1/Data/Win
 def main():
 	TypeTreeHelper.read_typetree_c = False
