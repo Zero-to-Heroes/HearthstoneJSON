@@ -32,7 +32,7 @@ class Logger(object):
 
 # sys.stdout = Logger("generate_audio_mapping.log")
 
-# ./generate_audio.py /e/t > out.txt
+# ./generate_audio_mapping.py /e/Games/Hearthstone/Data/Win
 def main():
 	p = ArgumentParser()
 	p.add_argument("src")
