@@ -3732,6 +3732,130 @@
         },
         {
             "m_ID": 0,
+            "m_specialEventId": 63,
+            "m_eventRewardTrackId": 159,
+            "m_choiceConfirmationText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_shortConclusion": {
+                "m_locValues": [
+                    "They're in retreat!",
+                    "Sie ziehen sich zurück!",
+                    "¡Se baten en retirada!",
+                    "¡Emprenden la retirada!",
+                    "Ils battent en retraite !",
+                    "Si stanno ritirando!",
+                    "奴らが撤退するぞ！",
+                    "적이 퇴각한다!",
+                    "Wycofują się!",
+                    "Eles estão recuando!",
+                    "Они отступают!",
+                    "พวกมันกำลังถอยไปตั้งหลัก!",
+                    "他们撤兵了！",
+                    "他們開始撤退了！"
+                ],
+                "m_locId": 2943070
+            },
+            "m_longConclusion": {
+                "m_locValues": [
+                    "Al'akir is dispersed and Ragnaros has tactically retreated - not vanquished, but at least temporarility neutralized. Take what rest and respite you can, for who knows what horrors lurk within that doomed reality, now converging with our own... Stay strong, hero!\n\n<i>- Merithra</i>",
+                    "Al’Akir hat sich in Luft aufgelöst und Ragnaros hat sich taktisch zurückgezogen. Sie sind nicht besiegt, aber wenigstens vorübergehend neutralisiert. Erholt Euch, so gut Ihr könnt, denn wer weiß, welche Schrecken in dieser dem Untergang geweihten Realität auf Euch warten, die nun mit unserer eigenen verschmilzt_... Bleibt standhaft!\n\n<i>– Merithra</i>",
+                    "Al'Akir se ha dispersado y Ragnaros ha ejecutado una retirada táctica. No han sido aniquilados, pero por lo menos están neutralizados temporalmente. Descansa y toma aliento todo lo que puedas, pues nadie sabe qué horrores acechan en esa realidad funesta que ahora converge con la nuestra... ¡Resiste, adalid!\n\n<i>- Merithra</i>",
+                    "Al'akir se ha dispersado y Ragnaros ha emprendido una retirada táctica. No han desaparecido, pero, por lo menos, los hemos neutralizado temporalmente. Descansa todo lo que puedas, pues quién sabe qué horrores acechan en esa realidad maldita que ahora converge con la nuestra... ¡Mantente fuerte, adalid!\n\n<i>- Merithra</i>",
+                    "Al’akir a été repoussé et Ragnaros a stratégiquement battu en retraite. Il n’est pas vaincu, mais au moins neutralisé temporairement. Profitez de ce répit pour vous reposer, car qui sait quelles horreurs vous guettent dans cette réalité maudite qui converge désormais avec la nôtre… Ne perdez pas espoir !\n\n<i>– Mérithra</i>",
+                    "Al'Akir è ormai lontano e Ragnaros ha messo in atto una ritirata strategica... Non sono stati sconfitti, ma perlomeno per ora non sono più una minaccia. Approfitta di questa tregua e riposa più che puoi, poiché non sappiamo quali orrori si annidino in quella realtà maledetta, che ormai si sta sovrapponendo alla nostra... Teniamo duro!\n\n<i>- Merithra</i>",
+                    "アラキアを消滅させ、ラグナロスは戦略的に撤退した。まだ倒したとは言えないものの、一時的に無力化できた状態だ。今のうちに休んでおくといい。私たちの現実と一つになりつつある世界では、何が起きるかわからないのだから…油断禁物だ、ヒーロー！\n\n<i>- メリスラ</i>",
+                    "알아키르는 흩어졌고 라그나로스는 전략적으로 후퇴했다... 완전히 패퇴한 것은 아니지만 최소한 일시적으로 무력화됐지. 이제 잠시라도 쉬면서 회복해라. 우리의 현실과 합쳐지고 있는 파멸의 현실 속에 어떤 끔찍한 것이 도사리고 있을지 모르니... 마음 단단히 먹어라, 영웅이여!\n\n<i>- 메리스라</i>",
+                    "Al'Akir został przepędzony, a Ragnaros postawił na taktyczny odwrót. Nie jest to ostateczne zwycięstwo, ale na tę chwilę zneutralizowaliśmy zagrożenie. Odpocznij, jeśli zdołasz. Kto wie, jakie okropieństwa kryją się w skazanej na zagładę rzeczywistości, która przeplata się z naszą... Nie poddawaj się!\n\n<i>– Merithra</i>",
+                    "Al'Akir foi disperso e Ragnaros recuou de forma estratégica — não derrotado, mas pelo menos neutralizado por ora. Aproveite a trégua e o alívio que puder, pois não se sabe que horrores espreitam naquela realidade em ruínas, e agora em convergência com a nossa... Fique firme, viajante!\n\n<i>- Merithra</i>",
+                    "Ал'акир развеян, а Рагнарос отступил – не уничтожен, но хотя бы на время нейтрализован. Отдохни и восстанови силы, пока есть возможность... кто знает, какие ужасы таит та обреченная реальность, что сливается с нашей... Не падай духом, герой!\n\n<i>- Меритра</i>",
+                    "อัลอาเคียร์แตกพ่าย ส่วนแร็กนารอสถอยทัพกลับไป แม้จะไม่ได้แพ้แบบหมดรูป แต่อย่างน้อยก็ทำให้[b]หมดกำลังไปได้ชั่วคราว จงพักผ่อนให้เต็มที่[b]เท่าที่ทำได้ เพราะไม่มีใครรู้ได้[b]ถึงความน่าสะพรึงกลัว[b]ที่ซ่อนอยู่ภายใต้[b]ความเป็นจริงที่พินาศ ซึ่งบัดนี้กำลังมา[b]บรรจบกับความเป็นจริงของเรา... เข้มแข็งเข้าไว้ล่ะ ฮีโร่!\n\n<i>- เมริธร่า</i>",
+                    "奥拉基尔暂时偃息，拉格纳罗斯也已撤退——虽然未能彻底击败他们，但至少眼前的危机解除了。好好休息一下吧，谁知道那条惨遭毁灭的时间线中还有什么恐怖的存在等着我们……保重吧，英雄！\n\n<i>——麦琳瑟拉</i>",
+                    "奧拉基爾被驅散，拉格納羅斯選擇戰術性撤退…雖然沒能消滅他們，但至少他們暫時不會來找麻煩了。盡可能好好休息一下，誰知道那個末日降臨的現實裡還潛伏著什麼樣的恐怖敵人，更不用說我們的現實正匯聚到一起…保持堅強，英雄！\n\n<i>- 麥琳瑟拉</i>"
+                ],
+                "m_locId": 2943071
+            }
+        },
+        {
+            "m_ID": 0,
+            "m_specialEventId": 64,
+            "m_eventRewardTrackId": 160,
+            "m_choiceConfirmationText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_shortConclusion": {
+                "m_locValues": [
+                    "Two battles won! But the war looms!",
+                    "Zwei Schlachten sind gewonnen, doch der Krieg naht!",
+                    "¡Has ganado dos batallas! Pero...",
+                    "¡Dos batallas ganadas! ¡Pero la guerra acecha!",
+                    "Deux batailles gagnées. Mais la guerre menace.",
+                    "Due battaglie vinte, ma la guerra incombe!",
+                    "二度勝利をおさめたが、戦火はまだ近づく！",
+                    "두 번의 전투에 승리했지만, 전쟁이 닥쳐온다!",
+                    "Dwa zwycięstwa! Lecz widmo wojny trwa.",
+                    "Duas grandes vitórias! Mas a guerra se avizinha!",
+                    "Мы победили в двух битвах, но грядет война!",
+                    "ถึงจะชนะมาสองศึก แต่สงครามครั้งใหญ่กำลังมาถึง!",
+                    "又胜一阵！可战局依旧紧迫！",
+                    "贏得兩場戰役！但戰爭依然在逼近！"
+                ],
+                "m_locId": 2943075
+            },
+            "m_longConclusion": {
+                "m_locValues": [
+                    "Valiant work, hero, but do not grow complacent. His lieutenants have all retreated, but Deathwing himself has not brought his own strength to bear; he must have been mighty to have prevailed in his own time, but...\n\nHe will not prevail HERE!\n\n<i>- Alexstrasza</i>",
+                    "Ihr habt gut gekämpft, doch ruht Euch noch nicht aus. Die Truppen sind weg, aber seine eigenen Kräfte hat Todesschwinge noch nicht entfesselt. Er muss mächtig sein, wenn er in seiner eigenen Zeitlinie triumphiert hat, doch_...\n\nHIER wird er nicht siegreich sein!\n\n<i>– Alexstrasza</i>",
+                    "Admiro tu valor, adalid, pero no te duermas en los laureles. Los tenientes de Alamuerte se han batido en retirada, pero él ni siquiera ha mostrado su fuerza, que muy grande debe de ser, porque en su propio tiempo él prevaleció. En todo caso...\n\n¡Aquí no prevalecerá!\n\n<i>- Alexstrasza</i>",
+                    "Gran trabajo, adalid, pero no te relajes. Sus tenientes se han retirado, pero Alamuerte aún no mostrado su fuerza. Debe haber sido poderoso para prevalecer en su tiempo, pero...\n\n¡No prevalecerá AQUÍ!\n\n<i>- Alexstrasza</i>",
+                    "Excellent travail, mais ne vous reposez pas sur vos lauriers. Ses lieutenants ont tous battu en retraite, mais Aile de mort n’a pas encore mobilisé toutes ses forces. Il était sûrement très puissant à son époque, mais…\n\nil ne l’emportera pas ICI !\n\n<i>– Alexstrasza</i>",
+                    "Hai dimostrato coraggio, ma non cedere alla presunzione. Sebbene tutti i suoi luogotenenti si siano ritirati, Alamorte non ha ancora mostrato tutta la sua forza. Nella sua realtà è stato abbastanza potente da prevalere, ma...\n\nNon prevarrà QUI!\n\n<i>- Alexstrasza</i>",
+                    "勇敢なるヒーローよ、気を抜くのはまだ早い。デスウィングの手下は撤退したものの、奴自身はまだ本来の力を見せていない。かつて時代を支配できただけの強大な力を持つのだろうが…ここで好きにさせてなるものか！\n\n<i>- アレクストラーザ</i>",
+                    "용맹을 발휘해 주었지만, 승리에 안주하진 마라. 데스윙의 부하들은 모두 물러났지만, 데스윙 본인은 아직 총력을 쏟지 않았다. 그가 자신의 시간에서는 세상을 호령할 만큼 강성했을지 몰라도...\n\n이곳에서는 그러지 못할 것이다!\n\n<i>- 알렉스트라자</i>",
+                    "Wspaniała robota, jest jednak za wcześnie, by spoczywać na laurach. Przyboczni Śmiercioskrzydłego wycofali się, lecz on sam nie zademonstrował pełni swojej siły. Musiał być naprawdę potężny, skoro zatriumfował w swoich czasach, lecz...\n\nTUTAJ damy mu odpór!\n\n<i>– Alexstraza</i>",
+                    "Um trabalho valoroso, mas ainda não é hora de repousar. Embora seus tenentes tenham recuado, o Asa da Morte ainda não lançou mão de toda a sua força. Seu poder deve ter sido formidável para ter prevalecido em seu tempo...\n\nMas AQUI ele não prevalecerá!\n\n<i>- Alexstrasza</i>",
+                    "Славная работа, герой, но не время расслабляться. Силы Смертокрыла отступили, но сам он пока не явил свою полную мощь. Он оказался достаточно силен, чтобы одержать победу в своем времени, но...\n\nОн не победит ЗДЕСЬ!\n\n<i>- Алекстраза</i>",
+                    "งานดีมาก ฮีโร่ แต่อย่าได้วางใจไป แม้ไพร่พลของเขาจะถอน[b]กำลังไปหมดแล้ว แต่ตัวของเดธวิงยังไม่ได้แสดงพลังที่แท้จริง[b]ของเขาให้ได้ประจักษ์ เขาต้องมีพละกำลังมหาศาลเป็นแน่[b]ถึงได้พิชิตศึกในยุคของเขาได้ แต่ว่า...เขาจะไม่มีวัน[b]ชนะสงครามที่นี่![b]<i>- อเล็กสตราสซา</i>",
+                    "你的表现堪称神勇，英雄！不过不要骄傲。虽说死亡之翼的部下已经全数撤退，但那条灭世之龙尚未亲临。纵然他在自己的时间线里荡平了整个世界，不过……\n\n在这个世界，他休想得逞！\n\n<i>——阿莱克丝塔萨</i>",
+                    "英雄，你表現得很英勇，不過千萬別感到自滿。死亡之翼的所有副官都已經撤退，但他本人卻還沒有展現出真正的實力。他一定非常強大，才能在自己的時間線贏得勝利，但是…\n\n在這裡他休想得逞！\n\n<i>- 雅立史卓莎</i>"
+                ],
+                "m_locId": 2943076
+            }
+        },
+        {
+            "m_ID": 0,
             "m_specialEventId": 7,
             "m_eventRewardTrackId": 52,
             "m_choiceConfirmationText": {
