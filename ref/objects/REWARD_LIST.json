@@ -24431,7 +24431,7 @@
                     "レア感情表現「不機嫌なチョ＝ガル」",
                     "심술 난 초갈 희귀 감정 표현",
                     "Rzadka emotka Czo'gal Gburek",
-                    "Expressão Rara Cho'Gall Rabugento",
+                    "Expressão Rara Cho'gall Rabugento",
                     "Редкая реплика «Угрюмый Чо'Галл»",
                     "การแสดงความรู้สึกระดับหายาก โชกัลขี้โมโห",
                     "稀有表情古加尔不高兴",
@@ -24674,7 +24674,7 @@
                     "レア感情表現「ハッピーなチョ＝ガル」",
                     "행복한 초갈 희귀 감정 표현",
                     "Rzadka emotka Czo'gal Wesołek",
-                    "Expressão Rara Cho'Gall Feliz",
+                    "Expressão Rara Cho'gall Feliz",
                     "Редкая реплика «Радостный Чо'Галл»",
                     "การแสดงความรู้สึกระดับหายาก โชกัลมีความสุข",
                     "稀有表情古加尔没烦恼",
@@ -49880,6 +49880,141 @@
             "m_locked": 0
         },
         {
+            "m_ID": 3185,
+            "m_description": {
+                "m_locValues": [
+                    "2x Signature Cataclysmic War Axe",
+                    "2x markante Karte Kataklysmische Kriegsaxt",
+                    "2x Hacha de guerra cataclísmica distintiva",
+                    "2 Hacha de guerra cataclísmica insignia",
+                    "Carte signature Hache de guerre cataclysmique ×2",
+                    "2 Ascia da Guerra Cataclismica Pregiate",
+                    "シグネチャー「大破の戦斧」x2",
+                    "간판 대격변의 전쟁 도끼 2장",
+                    "2 x specjalna karta Topór Bitewny Kataklizmu",
+                    "2x Machado de Guerra Cataclísmico Exclusivo",
+                    "2 особые карты «Катастрофический боевой топор»",
+                    "2x ขวานศึกมหาวินาศภัยซิกเนเจอร์",
+                    "2张异画灾变战斧",
+                    "2x 珍藏浩劫戰斧"
+                ],
+                "m_locId": 2942947
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3186,
+            "m_description": {
+                "m_locValues": [
+                    "Golden CATACLYSM Card Pack",
+                    "Goldene Kartenpackung aus KATAKLYSMUS",
+                    "Sobre dorado de EL CATACLISMO",
+                    "Paquete de cartas dorado de CATACLISMO",
+                    "Paquet de cartes dorées de CATACLYSME",
+                    "Busta Dorata di CATACLISMA",
+                    "「終焉のアゼロス」ゴールデンカードパック",
+                    "황금 대격변 카드 팩",
+                    "Złoty pakiet kart KATAKLIZMU",
+                    "Pacote de cards Dourado de CATACLISMO",
+                    "Золотой комплект карт дополнения «КАТАКЛИЗМ»",
+                    "ซองการ์ด CATACLYSM สีทอง",
+                    "大地的裂变金色包",
+                    "《浩劫與重生》黃金卡牌包"
+                ],
+                "m_locId": 2942948
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3187,
+            "m_description": {
+                "m_locValues": [
+                    "Worldbreaker Card Back",
+                    "Kartenrücken Weltenbrecher",
+                    "Dorso de carta de Rompemundos",
+                    "Dorso de carta de Rompemundos",
+                    "Dos de carte Brise-monde",
+                    "Dorso Devastamondi",
+                    "カード裏面デザイン「世界の破壊者」",
+                    "세계파괴자 카드 뒷면",
+                    "Rewers Niszczyciel Światów",
+                    "Verso de card Quebramundo",
+                    "Рубашка «Разрушитель миров»",
+                    "หลังการ์ดผู้ทำลายโลก",
+                    "灭世者卡背图案",
+                    "碎界者卡背"
+                ],
+                "m_locId": 2942949
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3188,
+            "m_description": {
+                "m_locValues": [
+                    "2x Signature Scorching Ravager",
+                    "2x markante Karte Sengender Verheerer",
+                    "2x Devastadora calcinante distintiva",
+                    "2 Devastadora agostadora insignia",
+                    "Carte signature Ravageuse brûlante ×2",
+                    "2 Devastatrice Rovente Pregiate",
+                    "シグネチャー「灼熱の荒らし屋」x2",
+                    "간판 이글거리는 약탈자 2장",
+                    "2 x specjalna karta Gorejąca łupieżczyni",
+                    "2x Assoladora Abrasadora Exclusivo",
+                    "2 особые карты «Обжигающий разоритель»",
+                    "2x ผู้ล้างผลาญพลังเพลิงซิกเนเจอร์",
+                    "2张异画灼烧掠夺者",
+                    "2x 珍藏灼燒劫毀者"
+                ],
+                "m_locId": 2942950
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3189,
+            "m_description": {
+                "m_locValues": [
+                    "Hearthstone Hero Skin - Blackrock Sheriff Reska",
+                    "Hearthstone: Heldenskin – Schwarzfelssheriff Reska",
+                    "Aspecto de héroe de Hearthstone - Reska Sheriff de Roca Negra",
+                    "Diseño de heroína de Hearthstone: Alguacil de Roca Negra Reska",
+                    "Modèle héroïque de Hearthstone : Reska, shérif de Rochenoire",
+                    "Modello eroe di Hearthstone - Reska Ufficiale di Roccianera",
+                    "王道用ヒーロースキン - ブラックロックの保安官レスカ",
+                    "하스스톤 영웅 스킨 - 검은바위 보안관 레스카",
+                    "Skórka bohatera – Szeryf Reska z Czarnej Góry",
+                    "Visual de Herói de Hearthstone - Reska Xerife de Rocha Negra",
+                    "Облик героя Hearthstone «Черный шериф Реска»",
+                    "สกินฮีโร่ Hearthstone - เรสกานายอำเภอแบล็คร็อค",
+                    "传统对战英雄皮肤 - 黑石警官雷斯卡",
+                    "爐石戰記英雄造型：黑石治安官雷斯卡"
+                ],
+                "m_locId": 2942951
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
             "m_ID": 319,
             "m_description": {
                 "m_locValues": [
@@ -49907,6 +50042,141 @@
             "m_locked": 0
         },
         {
+            "m_ID": 3190,
+            "m_description": {
+                "m_locValues": [
+                    "2x Signature Decimation",
+                    "2x markante Karte Dezimieren",
+                    "2x Exterminio distintiva",
+                    "2 Exterminio insignia",
+                    "Carte signature Décimation ×2",
+                    "2 Decimazione Pregiate",
+                    "シグネチャー「壊滅状態」x2",
+                    "간판 대학살 2장",
+                    "2 x specjalna karta Zdziesiątkowanie",
+                    "2x Dizimação Exclusivo",
+                    "2 особые карты «Истребление»",
+                    "2x ทำลายย่อยยับซิกเนเจอร์",
+                    "2张异画屠灭",
+                    "2x 珍藏屠戮"
+                ],
+                "m_locId": 2942952
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3191,
+            "m_description": {
+                "m_locValues": [
+                    "Random Golden CATACLYSM Legendary",
+                    "Zufällige goldene legendäre Karte aus KATAKLYSMUS",
+                    "Legendaria dorada aleatoria de EL CATACLISMO",
+                    "Legendaria dorada aleatoria de CATACLISMO",
+                    "Carte légendaire dorée aléatoire de CATACLYSME",
+                    "Leggendaria Dorata casuale di CATACLISMA",
+                    "「終焉のアゼロス」のランダムなゴールデンレジェンド",
+                    "무작위 황금 대격변 전설 카드",
+                    "Losowa złota karta legendarna KATAKLIZMU",
+                    "Card Lendário Dourado aleatório de CATACLISMO",
+                    "Случайная золотая легендарная карта дополнения «КАТАКЛИЗМ»",
+                    "การ์ด CATACLYSM ระดับตำนานสีทองแบบสุ่ม",
+                    "大地的裂变随机金色传说卡牌",
+                    "《浩劫與重生》隨機傳說金卡"
+                ],
+                "m_locId": 2942953
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3192,
+            "m_description": {
+                "m_locValues": [
+                    "Signature Ragnaros, the Great Fire",
+                    "Markante Karte Ragnaros, das große Feuer",
+                    "Ragnaros el Gran Fuego distintiva",
+                    "Ragnaros, el Gran Fuego insignia",
+                    "Carte signature Ragnaros le Grand Feu",
+                    "Ragnaros il Grande Fuoco Pregiata",
+                    "シグネチャー「偉大なる炎ラグナロス」",
+                    "간판 위대한 불 라그나로스",
+                    "Specjalna karta Ragnaros, Wielki Płomień",
+                    "Ragnaros, o Grande Fogo Exclusivo",
+                    "Особая карта «Рагнарос Великий огонь»",
+                    "แร็กนารอส มหาอัคคีซิกเนเจอร์",
+                    "异画拉格纳罗斯，绝世烈火",
+                    "珍藏『滅世烈火』拉格納羅斯"
+                ],
+                "m_locId": 2942954
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3193,
+            "m_description": {
+                "m_locValues": [
+                    "Diamond Alexstrasza, Guardian of Life & Signature Legendary",
+                    "Diamantkarte Lebenshüterin Alexstrasza & markante legendäre Karte",
+                    "Alexstrasza Guardiana de Vida de diamante y carta legendaria distintiva",
+                    "Alexstrasza, Guardiana de la Vida diamante y legendaria insignia",
+                    "Carte diamant Alexstrasza, gardienne de la vie et carte légendaire signature",
+                    "Alexstrasza, Protettrice della Vita Diamante e Leggendaria Pregiata",
+                    "ダイヤモンド「生命の守護者アレクストラーザ」とシグネチャーレジェンド",
+                    "다이아몬드 생명의 수호자 알렉스트라자 및 간판 전설 카드",
+                    "Diamentowa karta Alexstraza, Strażniczka Życia i specjalna karta legendarna",
+                    "Alexstrasza, Guardiã da Vida Diamante e Lendário Exclusivo",
+                    "Алмазная карта «Алекстраза, Хранительница жизни» и особая легендарная карта",
+                    "อเล็กสตราสซา ผู้พิทักษ์ชีวิตขอบเพชร และการ์ดซิกเนเจอร์ระดับตำนาน",
+                    "钻石阿莱克丝塔萨，生命守护者和异画传说卡牌",
+                    "『生命守護者』雅立史卓莎鑽石卡和珍藏傳說卡"
+                ],
+                "m_locId": 2942955
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3194,
+            "m_description": {
+                "m_locValues": [
+                    "Deathwing Mythic Skin & Signature Deathwing, Worldbreaker",
+                    "Mythischer Skin Todesschwinge & markante Karte Weltenbrecher Todesschwinge",
+                    "Aspecto mítico Alamuerte y Alamuerte Rompemundos distintiva",
+                    "Diseño mítico de Alamuerte y Alamuerte, Rompemundos insignia",
+                    "Modèle héroïque mythique Aile de mort et carte signature Aile de Mort le Brise-monde",
+                    "Modello Mitico Alamorte e Alamorte il Devastamondi Pregiata",
+                    "ミシックスキン「デスウィング」＆シグネチャー「世界の破壊者デスウィング」",
+                    "데스윙 신화 스킨 및 간판 세계파괴자 데스윙",
+                    "Mityczna skórka Śmiercioskrzydły i specjalna karta Śmiercioskrzydły, Niszczyciel Światów",
+                    "Visual Mítico de Asa da Morte e Asa da Morte, o Quebramundo Exclusivo",
+                    "Эпохальный облик «Смертокрыл» и особая карта «Смертокрыл Разрушитель миров»",
+                    "สกินเดธวิงระดับมิทธิคและเดธวิง ผู้ทำลายโลกซิกเนเจอร์",
+                    "神话英雄皮肤死亡之翼和异画灭世者死亡之翼",
+                    "死亡之翼傳奇造型和珍藏『碎界者』死亡之翼"
+                ],
+                "m_locId": 2942956
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
             "m_ID": 3195,
             "m_description": {
                 "m_locValues": [
@@ -49926,6 +50196,114 @@
                     "1x 《浩劫與重生》黃金卡牌包"
                 ],
                 "m_locId": 2943235
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3196,
+            "m_description": {
+                "m_locValues": [
+                    "Test DFT Reward for Kerrigan",
+                    "Test DFT-Belohnung für Kerrigan",
+                    "Test DFT Reward for Kerrigan",
+                    "Test DFT Reward for Kerrigan",
+                    "Test – Récompense pour Kerrigan",
+                    "Prova TFL Ricompensa per Kerrigan",
+                    "ケリガンのテストDFT報酬",
+                    "케리건 테스트 DFT 보상",
+                    "Testowa nagroda NSFL dla Kerrigan",
+                    "Teste DFT recompensa para Kerrigan",
+                    "Тестовая награда СЯН для Керриган",
+                    "รางวัล DFT ทดสอบสำหรับเคอร์ริแกน",
+                    "暗月宝藏凯瑞甘测试奖励",
+                    "凱莉根的暗月馬戲團寶藏測試獎勵"
+                ],
+                "m_locId": 2943248
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3197,
+            "m_description": {
+                "m_locValues": [
+                    "Test DFT Reward for Kerrigan",
+                    "Test DFT-Belohnung für Kerrigan",
+                    "Test DFT Reward for Kerrigan",
+                    "Test DFT Reward for Kerrigan",
+                    "Test – Récompense pour Kerrigan",
+                    "Prova TFL Ricompensa per Kerrigan",
+                    "ケリガンのテストDFT報酬",
+                    "케리건 테스트 DFT 보상",
+                    "Testowa nagroda NSFL dla Kerrigan",
+                    "Teste DFT recompensa para Kerrigan",
+                    "Тестовая награда СЯН для Керриган",
+                    "รางวัล DFT ทดสอบสำหรับเคอร์ริแกน",
+                    "暗月宝藏凯瑞甘测试奖励",
+                    "凱莉根的暗月馬戲團寶藏測試獎勵"
+                ],
+                "m_locId": 2943557
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3198,
+            "m_description": {
+                "m_locValues": [
+                    "Random Legendary Colossal Cataclysm Card",
+                    "Zufällige legendäre kolossale Karte aus Kataklysmus",
+                    "Carta legendaria aleatoria Colosal de EL CATACLISMO",
+                    "Carta legendaria aleatoria Colosal de Cataclismo",
+                    "Carte légendaire colossale aléatoire de Cataclysme",
+                    "Carta Leggendaria casuale Colosso di Cataclisma",
+                    "「終焉のアゼロス」のランダムな超大型レジェンドカード",
+                    "무작위 전설 거수 대격변 카드",
+                    "Losowa karta legendarna Kolosa z Kataklizmu",
+                    "Card Lendário Colossal aleatório de Cataclismo",
+                    "Случайная легендарная карта со свойством «Гигант» из дополнения «КАТАКЛИЗМ»",
+                    "การ์ดขนาดยักษ์ระดับตำนานแบบสุ่มจาก Cataclysm",
+                    "大地的裂变随机巨型传说卡牌",
+                    "《浩劫與重生》隨機傳說巨型卡牌"
+                ],
+                "m_locId": 2943643
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3199,
+            "m_description": {
+                "m_locValues": [
+                    "Across the Timeways Card Pack",
+                    "Kartenpackung aus Reise durch die Zeitwege",
+                    "Sobre de Los Portales del Tiempo",
+                    "Paquete de cartas de A través de los Portales del Tiempo",
+                    "Paquet de Par-delà les voies temporelles",
+                    "Busta di Oltre i Flussi Temporali",
+                    "「タイムウェイの旅人たち」パック",
+                    "시간의 길 너머로 카드 팩",
+                    "Pakiet kart Poprzez linie czasu",
+                    "Pacote de cards Através dos Percursos Temporais",
+                    "Комплект карт «Сквозь потоки времени»",
+                    "ซองการ์ด Across the Timeways",
+                    "穿越时间流卡牌包",
+                    "《時光特攻隊》卡牌包"
+                ],
+                "m_locId": 2943644
             },
             "m_chooseOne": 0,
             "m_random": 0,
@@ -49988,6 +50366,276 @@
             "m_locked": 0
         },
         {
+            "m_ID": 3200,
+            "m_description": {
+                "m_locValues": [
+                    "2x Carrier Whelp (Golden Uncraftable Common)",
+                    "2x goldene gewöhnliche Karte Trägerwelpling (nicht herstellbar)",
+                    "2x Cría transportadora dorada (común, no se puede crear)",
+                    "2 Cría mensajera (dorada común no creable)",
+                    "Carte commune dorée Dragonnet livreur ×2 (impossible à créer)",
+                    "2 Draghetto Trasportatore (Comune vincolata Dorata)",
+                    "「運び屋チビドラゴン」x2（ゴールデン作成不能コモン）",
+                    "짐 운반 새끼용 2장 (황금 제작 불가 일반 카드)",
+                    "2 x Pisklę transportowe (złota zwykła niewytwarzalna)",
+                    "2x Dragonete Carregador (Dourado Incriável Comum)",
+                    "2 золотые карты «Дракончик-носильщик» (нельзя создать, обычная карта)",
+                    "2x ลูกมังกรจอมแบก (ระดับทั่วไปสีทอง สร้างไม่ได้)",
+                    "2张载蛋雏龙（无法制作的金色普通卡牌）",
+                    "2x 運送幼龍(無法合成的普通金卡)"
+                ],
+                "m_locId": 2943645
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3201,
+            "m_description": {
+                "m_locValues": [
+                    "2x Battlefield Blaster (Golden Uncraftable Common)",
+                    "2x goldene gewöhnliche Karte Schlachtfeldsprengerin (nicht herstellbar)",
+                    "2x Tiradora del campo de batalla dorada (común, no se puede crear)",
+                    "2 Destructora de campo de batalla (dorada común no creable)",
+                    "Carte commune dorée Boutefeu du champ de bataille ×2 (impossible à créer)",
+                    "2 Demolitrice da Battaglia (Comune vincolata Dorata)",
+                    "「戦場破壊係」x2（ゴールデン作成不能コモン）",
+                    "전장 발파공 2장 (황금 제작 불가 일반 카드)",
+                    "2 x Bitewna detonatorka (złota zwykła niewytwarzalna)",
+                    "2x Destruidora do Campo de Batalha (Dourado Incriável Comum)",
+                    "2 золотые карты «Полевая взрывательница» (нельзя создать, обычная карта)",
+                    "2x จอมถล่มสนามรบ (ระดับทั่วไปสีทอง สร้างไม่ได้)",
+                    "2张战场轰炸手（无法制作的金色普通卡牌）",
+                    "2x 戰場轟擊手(無法合成的普通金卡)"
+                ],
+                "m_locId": 2943646
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3202,
+            "m_description": {
+                "m_locValues": [
+                    "2x Twilight Egg (Golden Uncraftable Common)",
+                    "2x goldene gewöhnliche Karte Zwielichtei (nicht herstellbar)",
+                    "2x Huevo Crepuscular dorada (común, no se puede crear)",
+                    "2 Huevo crepuscular (dorada común no creable)",
+                    "Carte commune dorée Œuf du Crépuscule ×2 (impossible à créer)",
+                    "2 Uovo del Crepuscolo (Comune vincolata Dorata)",
+                    "「トワイライトの卵」x2（ゴールデン作成不能コモン）",
+                    "황혼의 알 2장 (황금 제작 불가 일반 카드)",
+                    "2 x Jajo Zmierzchu (złota zwykła niewytwarzalna)",
+                    "2x Ovo do Crepúsculo (Dourado Incriável Comum)",
+                    "2 золотые карты «Сумеречное яйцо» (нельзя создать, обычная карта)",
+                    "2x ไข่สนธยา (ระดับทั่วไปสีทอง สร้างไม่ได้)",
+                    "2张暮光龙卵（无法制作的金色普通卡牌）",
+                    "2x 暮光龍蛋(無法合成的普通金卡)"
+                ],
+                "m_locId": 2943647
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3203,
+            "m_description": {
+                "m_locValues": [
+                    "Random Latest Expansion Epic Card",
+                    "Zufällige epische Karte der neuesten Erweiterung",
+                    "Carta épica aleatoria de la última expansión",
+                    "Carta épica aleatoria de la expansión más reciente",
+                    "Carte épique aléatoire de l’extension la plus récente",
+                    "Carta Epica casuale della nuova espansione",
+                    "最新拡張版のランダムなエピックカード",
+                    "무작위 최신 확장팩 특급 카드",
+                    "Losowa epicka karta z najnowszego rozszerzenia",
+                    "Card Épico aleatório da expansão mais recente",
+                    "Случайная эпическая карта из последнего дополнения",
+                    "การ์ดระดับสุดยอดแบบสุ่มจากส่วนเสริมล่าสุด",
+                    "最新扩展包的随机史诗卡牌",
+                    "隨機最新資料片史詩卡牌"
+                ],
+                "m_locId": 2943648
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3204,
+            "m_description": {
+                "m_locValues": [
+                    "1x Darkscale Broodmother (Golden Uncraftable Rare)",
+                    "1x goldene seltene Karte Dunkelschuppenbrutmutter (nicht herstellbar)",
+                    "1x Madre de linaje Escamaoscura dorada (poco común, no se puede crear)",
+                    "1 Madre de linaje escama oscura (dorada rara no creable)",
+                    "Carte rare dorée Mère des couvées sombrécaille ×1 (impossible à créer)",
+                    "1 Madre della Stirpe Scagliascura (Rara vincolata Dorata)",
+                    "「暗鱗の太母」x1（ゴールデン作成不能レア）",
+                    "어둠비늘 무리어미 1장 (황금 제작 불가 희귀 카드)",
+                    "1 x Matka miotu Mrocznołuskich (złota rzadka niewytwarzalna)",
+                    "1x Prolemadre Skamanegra (Dourado Incriável Raro)",
+                    "1 золотая карта «Темночешуйчатая праматерь» (нельзя создать, редкая карта)",
+                    "1x นางพญามังกรเกล็ดทมิฬ (ระดับหายากสีทอง สร้างไม่ได้)",
+                    "1张黑鳞巢母（无法制作的金色稀有卡牌）",
+                    "1x 暗鱗育母(無法合成的精良金卡)"
+                ],
+                "m_locId": 2943649
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3205,
+            "m_description": {
+                "m_locValues": [
+                    "CATACLYSM Card Back",
+                    "Kartenrücken KATAKLYSMUS",
+                    "Dorso de carta de EL CATACLISMO",
+                    "Dorso de carta de CATACLISMO",
+                    "Dos de carte CATACLYSME",
+                    "Dorso delle carte di CATACLISMA",
+                    "「終焉のアゼロス」カード裏面デザイン",
+                    "대격변 카드 뒷면",
+                    "Rewers KATAKLIZM",
+                    "Verso de card CATACLISMO",
+                    "Рубашка «КАТАКЛИЗМ»",
+                    "หลังการ์ดมหาวินาศภัย",
+                    "大地的裂变卡背图案",
+                    "浩劫與重生卡背"
+                ],
+                "m_locId": 2943650
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3206,
+            "m_description": {
+                "m_locValues": [
+                    "1x Genn, Cursed King (Uncraftable Legendary)",
+                    "1x legendäre Karte Verfluchter König Genn (nicht herstellbar)",
+                    "1x Genn Rey Maldito (legendaria, no se puede crear)",
+                    "1 Genn, Rey maldito (legendaria no creable)",
+                    "Carte légendaire Genn, roi maudit ×1 (impossible à créer)",
+                    "1 Genn, Re Maledetto (Leggendaria vincolata)",
+                    "「呪われた王ゲン」x1（作成不能レジェンド）",
+                    "저주받은 왕 겐 1장 (제작 불가 전설 카드)",
+                    "1 x Genn, Przeklęty Król (legendarna niewytwarzalna)",
+                    "1x Genn, Rei Amaldiçoado (Lendário Incriável)",
+                    "1 карта «Проклятый король Генн» (нельзя создать, легендарная карта)",
+                    "1x เก็นน์ ราชาต้องสาป (ระดับตำนาน สร้างไม่ได้)",
+                    "1张吉恩，厄运国王（无法制作的传说卡牌）",
+                    "1x 『詛咒之王』吉恩(無法合成的傳說卡牌)"
+                ],
+                "m_locId": 2943651
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3207,
+            "m_description": {
+                "m_locValues": [
+                    "1x Wildwood Circle (Golden Uncraftable Rare)",
+                    "1x goldene seltene Karte Wildwaldzirkel (nicht herstellbar)",
+                    "1x Círculo de la Arboleda Salvaje dorada (poco común, no se puede crear)",
+                    "1 Círculo de Madera Salvaje (dorada rara no creable)",
+                    "Carte rare dorée Cercle du bois Sauvage ×1 (impossible à créer)",
+                    "1 Cerchio di Selvabrada (Rara vincolata Dorata)",
+                    "「ワイルドウッドの輪」x1（ゴールデン作成不能レア）",
+                    "원시림의 소환진 1장 (황금 제작 불가 희귀 카드)",
+                    "1 x Dzikodrzewny krąg (złota rzadka niewytwarzalna)",
+                    "1x Círculo da Matagreste (Dourado Incriável Raro)",
+                    "1 золотая карта «Чащобный круг» (нельзя создать, редкая карта)",
+                    "1x วงเวทไวลด์วู้ด (ระดับหายากสีทอง สร้างไม่ได้)",
+                    "1张荒林怪圈（无法制作的金色稀有卡牌）",
+                    "1x 野木法陣(無法合成的精良金卡)"
+                ],
+                "m_locId": 2943652
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3208,
+            "m_description": {
+                "m_locValues": [
+                    "1x Torch (Golden Uncraftable Rare)",
+                    "1x goldene seltene Karte Fackel (nicht herstellbar)",
+                    "1x Estranguladora dorada (poco común, no se puede crear)",
+                    "1 Prender fuego (dorada rara no creable)",
+                    "Carte rare dorée Flambeau ×1 (impossible à créer)",
+                    "1 Carbonizzazione (Rara vincolata Dorata)",
+                    "「松明」x1（ゴールデン作成不能レア）",
+                    "횃불 1장 (황금 제작 불가 희귀 카드)",
+                    "1 x Pochodnia (złota rzadka niewytwarzalna)",
+                    "1x Tocha (Dourado Incriável Raro)",
+                    "1 золотая карта «Факел» (нельзя создать, редкая карта)",
+                    "1x เผาจนเกรียม (ระดับหายากสีทอง สร้างไม่ได้)",
+                    "1张炬火（无法制作的金色稀有卡牌）",
+                    "1x 火炬(無法合成的精良金卡)"
+                ],
+                "m_locId": 2943653
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3209,
+            "m_description": {
+                "m_locValues": [
+                    "Random Latest Expansion Legendary Card",
+                    "Zufällige legendäre Karte der neuesten Erweiterung",
+                    "Carta legendaria aleatoria de la última expansión",
+                    "Carta legendaria aleatoria de la expansión más reciente",
+                    "Carte légendaire aléatoire de l’extension la plus récente",
+                    "Carta Leggendaria casuale dell'ultima espansione",
+                    "最新拡張版のランダムなレジェンドカード",
+                    "무작위 최신 확장팩 전설 카드",
+                    "Losowa karta legendarna z najnowszego rozszerzenia",
+                    "Card Lendário aleatório da expansão mais recente",
+                    "Случайная легендарная карта из последнего дополнения",
+                    "การ์ดระดับตำนานแบบสุ่มจากส่วนเสริมล่าสุด",
+                    "最新扩展包的随机传说卡牌",
+                    "隨機最新資料片傳說卡牌"
+                ],
+                "m_locId": 2943654
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
             "m_ID": 321,
             "m_description": {
                 "m_locValues": [
@@ -50007,6 +50655,276 @@
                     "隨機傳說卡牌"
                 ],
                 "m_locId": 2765392
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3210,
+            "m_description": {
+                "m_locValues": [
+                    "1x Confront the Tol'vir (Golden Uncraftable Epic)",
+                    "1x goldene epische Karte Die Tol’vir konfrontieren (nicht herstellbar)",
+                    "1x Enfrentarse al tol'vir dorada (épica, no se puede crear)",
+                    "1 Enfrentamiento con los tol'vir (dorada épica no creable)",
+                    "Carte épique dorée Confrontation des Tol’vir ×1 (impossible à créer)",
+                    "1 Scontro coi Tol'vir (Epica vincolata Dorata)",
+                    "「トルヴィアとの対決」x1（ゴールデン作成不能エピック）",
+                    "톨비르 대적 1장 (황금 제작 불가 특급 카드)",
+                    "1 x Konfrontacja z tol'virami (złota epicka niewytwarzalna)",
+                    "1x Confrontar os Tol'vir (Dourado Incriável Épico)",
+                    "1 золотая карта «Битва с тол'вирами» (нельзя создать, эпическая карта)",
+                    "1x เผชิญหน้าทอลเวียร์ (ระดับสุดยอดสีทอง สร้างไม่ได้)",
+                    "1张直面托维尔（无法制作的金色史诗卡牌）",
+                    "1x 面對托維爾(無法合成的史詩金卡)"
+                ],
+                "m_locId": 2943655
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3211,
+            "m_description": {
+                "m_locValues": [
+                    "10% XP Boost",
+                    "10% EP-Schub",
+                    "Aumento de PE del 10%",
+                    "Potenciador de EXP de 10%",
+                    "10 % de points d’EXP supplémentaires",
+                    "Bonus 10% PE",
+                    "XPブースト10%",
+                    "10% 경험치 부스트",
+                    "Premia 10% do PD",
+                    "10% de Impulso de EXP",
+                    "+10% к опыту",
+                    "บูสต์ XP 10%",
+                    "10%经验值加成",
+                    "10%經驗值加成"
+                ],
+                "m_locId": 2943656
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3212,
+            "m_description": {
+                "m_locValues": [
+                    "15% XP Boost",
+                    "15% EP-Schub",
+                    "Aumento de PE del 15%",
+                    "Potenciador de EXP de 15%",
+                    "15 % de points d’EXP supplémentaires",
+                    "Bonus 15% PE",
+                    "XPブースト15%",
+                    "15% 경험치 부스트",
+                    "Premia 15% do PD",
+                    "15% de Impulso de EXP",
+                    "+15% к опыту",
+                    "บูสต์ XP 15%",
+                    "15%经验值加成",
+                    "15%經驗值加成"
+                ],
+                "m_locId": 2943657
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3213,
+            "m_description": {
+                "m_locValues": [
+                    "Archmage Kalec",
+                    "Erzmagier Kalec",
+                    "Archimago Kalec",
+                    "Archimago Kalec",
+                    "Archimage Kalec",
+                    "Arcimago Kalec",
+                    "大魔術師カレク",
+                    "대마법사 칼렉",
+                    "Arcymag Kaleg",
+                    "Arquimago Kalec",
+                    "Верховный маг Кейлек",
+                    "อาร์คเมจคาเลค",
+                    "大法师卡雷",
+                    "大法師卡雷克"
+                ],
+                "m_locId": 2943658
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3214,
+            "m_description": {
+                "m_locValues": [
+                    "Magmaw Card Back",
+                    "Kartenrücken Magmaul",
+                    "Dorso de carta de Faucemagma",
+                    "Dorso de carta de Faucemagma",
+                    "Dos de carte Magmagueule",
+                    "Dorso Rodimagma",
+                    "カード裏面デザイン「マグモウ」",
+                    "용암아귀 카드 뒷면",
+                    "Rewers Magmor",
+                    "Verso de card Magorja",
+                    "Рубашка «Магмарь»",
+                    "หลังการ์ดแม็กมอว์",
+                    "熔喉卡背图案",
+                    "熔喉卡背"
+                ],
+                "m_locId": 2943659
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3215,
+            "m_description": {
+                "m_locValues": [
+                    "Hearthstone Hero Skin - Lady Sinestra",
+                    "Hearthstone: Heldenskin – Lady Sinestra",
+                    "Aspecto de héroe de Hearthstone - Lady Sinestra",
+                    "Diseño de heroína de Hearthstone: Lady Sinestra",
+                    "Modèle héroïque de Hearthstone : Dame Sinestra",
+                    "Modello eroe di Hearthstone - Dama Sinestra",
+                    "王道用ヒーロースキン - レディ・シネストラ",
+                    "하스스톤 영웅 스킨 - 여군주 시네스트라",
+                    "Skórka bohatera – Lady Sinestra",
+                    "Visual de Herói de Hearthstone - Lady Sinestra",
+                    "Облик героя Hearthstone «Леди Синестра»",
+                    "สกินฮีโร่ Hearthstone - เลดี้ซิเนสตรา",
+                    "传统对战英雄皮肤 - 女伯爵希奈丝特拉",
+                    "爐石戰記英雄造型：賽絲特拉女士"
+                ],
+                "m_locId": 2943660
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3216,
+            "m_description": {
+                "m_locValues": [
+                    "Medivh's Triumph (Golden Uncraftable Epic)",
+                    "Goldene epische Karte Medivhs Triumph (nicht herstellbar)",
+                    "Triunfo de Medivh dorada (épica, no se puede crear)",
+                    "Triunfo de Medivh (dorada épica no creable)",
+                    "Carte épique dorée Triomphe de Medivh (impossible à créer)",
+                    "Trionfo di Medivh (Epica vincolata Dorata)",
+                    "「メディヴの勝利」（ゴールデン作成不能エピック）",
+                    "메디브의 승리 (황금 제작 불가 특급 카드)",
+                    "Triumf Medivha (złota epicka niewytwarzalna)",
+                    "Triunfo de Medivh (Dourado Incriável Épico)",
+                    "Золотая карта «Триумф Медива» (нельзя создать, эпическая карта)",
+                    "ชัยชนะของเมดิฟห์ (ระดับสุดยอดสีทอง สร้างไม่ได้)",
+                    "麦迪文的胜利（无法制作的金色史诗卡牌）",
+                    "麥迪文的凱旋(無法合成的史詩金卡)"
+                ],
+                "m_locId": 2943661
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3217,
+            "m_description": {
+                "m_locValues": [
+                    "Hearthstone Hero Skin - Assassin Leyara",
+                    "Hearthstone: Heldenskin – Assassine Leyara",
+                    "Aspecto de héroe de Hearthstone - Leyara asesina",
+                    "Diseño de heroína de Hearthstone: Leyara Asesina",
+                    "Modèle héroïque de Hearthstone : Leyara, la tueuse",
+                    "Modello eroe di Hearthstone - Leyara Assassina",
+                    "王道用ヒーロースキン - 暗殺者レヤラ",
+                    "하스스톤 영웅 스킨 - 암살자 레이아라",
+                    "Skórka bohatera – Leyara Skrytobójczyni",
+                    "Visual de Herói de Hearthstone - Leyara Assassina",
+                    "Облик героя Hearthstone «Лиара-ассасин»",
+                    "สกินฮีโร่ Hearthstone - ลียารามือสังหาร",
+                    "传统对战英雄皮肤 - 刺客莱雅娜",
+                    "爐石戰記英雄造型：刺客雷亞拉"
+                ],
+                "m_locId": 2943662
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3218,
+            "m_description": {
+                "m_locValues": [
+                    "2x Signature Twisted Monstrosity",
+                    "2x markante Karte Entstellte Monstrosität",
+                    "2x Monstruosidad retorcida distintiva",
+                    "2 Monstruosidad retorcida insignia",
+                    "Carte signature Monstruosité déformée ×2",
+                    "2 Mostruosità Corrotta Pregiate",
+                    "シグネチャー「変異した怪物」x2",
+                    "간판 뒤틀린 흉물 2장",
+                    "2 x specjalna karta Spaczony potwór",
+                    "2x Monstruosidade Pervertida Exclusivo",
+                    "2 особые карты «Искаженное чудовище»",
+                    "2x อสูรกายวิปริตซิกเนเจอร์",
+                    "2张异画扭曲畸怪",
+                    "2x 珍藏畸變怪物"
+                ],
+                "m_locId": 2943663
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3219,
+            "m_description": {
+                "m_locValues": [
+                    "Hearthstone Hero Skin - Infiltrator Gelbin",
+                    "Hearthstone: Heldenskin – Gelbin der Spitzel",
+                    "Aspecto de héroe de Hearthstone - Gelbin infiltrado",
+                    "Diseño de héroe de Hearthstone: Infiltrado Gelbin",
+                    "Modèle héroïque de Hearthstone : Gelbin, l’infiltré",
+                    "Modello eroe di Hearthstone - Gelbin Infiltrato",
+                    "王道用ヒーロースキン - 潜入者ゲルビン",
+                    "하스스톤 영웅 스킨 - 침투요원 겔빈",
+                    "Skórka bohatera – Gelbin Infiltrator",
+                    "Visual de Herói de Hearthstone - Gelbin Infiltrador",
+                    "Облик героя Hearthstone «Лазутчик Гелбин»",
+                    "สกินฮีโร่ Hearthstone - เกลบินนักแทรกซึม",
+                    "传统对战英雄皮肤 - 间谍格尔宾",
+                    "爐石戰記英雄造型：入侵者傑爾賓"
+                ],
+                "m_locId": 2943664
             },
             "m_chooseOne": 0,
             "m_random": 0,
@@ -50042,6 +50960,276 @@
             "m_locked": 0
         },
         {
+            "m_ID": 3220,
+            "m_description": {
+                "m_locValues": [
+                    "Hearthstone Hero Skin - Risen Godfrey",
+                    "Hearthstone: Heldenskin – Auferstandener Godfrey",
+                    "Aspecto de héroe de Hearthstone - Godfrey alzado",
+                    "Diseño de héroe de Hearthstone: Godfrey Resucitado",
+                    "Modèle héroïque de Hearthstone : Godfrey ressuscité",
+                    "Modello eroe di Hearthstone - Godfrey Risorto",
+                    "王道用ヒーロースキン - 蘇ったゴッドフリー",
+                    "하스스톤 영웅 스킨 - 되살아난 고드프리",
+                    "Skórka bohatera – Wskrzeszony Godfryd",
+                    "Visual de Herói de Hearthstone - Godfrey Reanimado",
+                    "Облик героя Hearthstone «Восставший Годфри»",
+                    "สกินฮีโร่ Hearthstone - ก็อดฟรีย์ผีดิบ",
+                    "传统对战英雄皮肤 - 复活的高弗雷",
+                    "爐石戰記英雄造型：復生的高佛雷"
+                ],
+                "m_locId": 2943665
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3221,
+            "m_description": {
+                "m_locValues": [
+                    "Hearthstone Hero Skin - Magmaw",
+                    "Hearthstone: Heldenskin – Magmaul",
+                    "Aspecto de héroe de Hearthstone - Faucemagma",
+                    "Diseño de héroe de Hearthstone: Faucemagma",
+                    "Modèle héroïque de Hearthstone : Magmagueule",
+                    "Modello eroe di Hearthstone - Rodimagma",
+                    "王道用ヒーロースキン - マグモウ",
+                    "하스스톤 영웅 스킨 - 용암아귀",
+                    "Skórka bohatera – Magmor",
+                    "Visual de Herói de Hearthstone - Magorja",
+                    "Облик героя Hearthstone «Магмарь»",
+                    "สกินฮีโร่ Hearthstone - แม็กมอว์",
+                    "传统对战英雄皮肤 - 熔喉",
+                    "爐石戰記英雄造型：熔喉"
+                ],
+                "m_locId": 2943666
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3222,
+            "m_description": {
+                "m_locValues": [
+                    "Hearthstone Hero Skin - Felwood Protector Aranna",
+                    "Hearthstone: Heldenskin – Teufelswaldhüterin Aranna",
+                    "Aspecto de héroe de Hearthstone - Aranna Protectora de Frondavil",
+                    "Diseño de heroína de Hearthstone: Aranna Protectora de Frondavil",
+                    "Modèle héroïque de Hearthstone : Aranna de Gangrebois",
+                    "Modello eroe di Hearthstone - Aranna Protettrice di Vilbosco",
+                    "王道用ヒーロースキン - フェルウッドの護衛アランナ",
+                    "하스스톤 영웅 스킨 - 악령숲 수호자 아라나",
+                    "Skórka bohatera – Aranna, obrończyni Spaczonej Kniei",
+                    "Visual de Herói de Hearthstone - Aranna Protetora da Selva Maleva",
+                    "Облик героя Hearthstone «Аранна из Оскверненного леса»",
+                    "สกินฮีโร่ Hearthstone - อรันนาผู้พิทักษ์เฟลวู้ด",
+                    "传统对战英雄皮肤 - 费伍德保护者阿兰娜",
+                    "爐石戰記英雄造型：費伍德保衛者艾蘭娜"
+                ],
+                "m_locId": 2943667
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3223,
+            "m_description": {
+                "m_locValues": [
+                    "Hearthstone Hero Skin - Stormpike Expedition Tavish",
+                    "Hearthstone: Heldenskin – Tavish der Expedition",
+                    "Aspecto de héroe de Hearthstone - Tavish explorador de Pico Tormenta",
+                    "Diseño de héroe de Hearthstone: Tavish Expedición Pico Tormenta",
+                    "Modèle héroïque de Hearthstone : Tavish de l’expédition Foudrepique",
+                    "Modello eroe di Hearthstone - Tavish del Clan Piccatonante",
+                    "王道用ヒーロースキン - ストームパイク探検隊タヴィッシュ",
+                    "하스스톤 영웅 스킨 - 스톰파이크 원정대 타비쉬",
+                    "Skórka bohatera – Tawisz z ekspedycji Gromdardy",
+                    "Visual de Herói de Hearthstone - Tavish da Expedição Lançatroz",
+                    "Облик героя Hearthstone «Тавиш из Грозовой экспедиции»",
+                    "สกินฮีโร่ Hearthstone - ทาวิชนักสำรวจสตอร์มไพค์",
+                    "传统对战英雄皮肤 - 雷矛探险队塔维什",
+                    "爐石戰記英雄造型：雷矛遠征隊塔維西"
+                ],
+                "m_locId": 2943668
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3224,
+            "m_description": {
+                "m_locValues": [
+                    "2x Signature Gronn Giant",
+                    "2x markante Karte Gronnriese",
+                    "2x Gigante gronn distintiva",
+                    "2 Gigante gronn insignia",
+                    "Carte signature Gronn géant ×2",
+                    "2 Gigante Gronn Pregiate",
+                    "シグネチャー「グロンの巨人」x2",
+                    "간판 그론 거인 2장",
+                    "2 x specjalna karta Olbrzym Gronn",
+                    "2x Gigante Gronn Exclusivo",
+                    "2 особые карты «Гронн-великан»",
+                    "2x ยักษ์กรอนน์ซิกเนเจอร์",
+                    "2张异画戈隆巨人",
+                    "2x 珍藏古羅巨人"
+                ],
+                "m_locId": 2943669
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3225,
+            "m_description": {
+                "m_locValues": [
+                    "Hearthstone Hero Skin - Blackrock Rokara",
+                    "Hearthstone: Heldenskin – Rokara vom Schwarzfels",
+                    "Aspecto de héroe de Hearthstone - Rokara Roca Negra",
+                    "Diseño de heroína de Hearthstone: Rokara Roca Negra",
+                    "Modèle héroïque de Hearthstone : Rokara de Rochenoire",
+                    "Modello eroe di Hearthstone - Rokara Roccianera",
+                    "王道用ヒーロースキン - ブラックロック・ロカラ",
+                    "하스스톤 영웅 스킨 - 검은바위 로카라",
+                    "Skórka bohatera – Rokara z Czarnej Skały",
+                    "Visual de Herói de Hearthstone - Rokara de Rocha Negra",
+                    "Облик героя Hearthstone «Рокара с Черной Горы»",
+                    "สกินฮีโร่ Hearthstone - โรคาร่าแห่งแบล็คร็อค",
+                    "传统对战英雄皮肤 - 黑石洛卡拉",
+                    "爐石戰記英雄造型：黑石洛卡菈"
+                ],
+                "m_locId": 2943670
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3226,
+            "m_description": {
+                "m_locValues": [
+                    "Shattered Coin",
+                    "Zerbrochene Münze",
+                    "Moneda Destrozada",
+                    "Moneda destrozada",
+                    "Pièce scindée",
+                    "Moneta Spaccata",
+                    "粉砕されたコイン",
+                    "산산조각 난 동전",
+                    "Strzaskana moneta",
+                    "Moeda Partida",
+                    "Расколотая монетка",
+                    "เหรียญถูกแยกส่วน",
+                    "钟表发条幸运币",
+                    "碎裂幸運幣"
+                ],
+                "m_locId": 2943671
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3227,
+            "m_description": {
+                "m_locValues": [
+                    "Chosen Hero Skin",
+                    "Heldenskin Eurer Wahl",
+                    "Aspecto de héroe elegido",
+                    "Diseño de héroe a elección",
+                    "Modèle héroïque choisi",
+                    "Modello eroe scelto",
+                    "選んだヒーロースキン",
+                    "선택한 영웅 스킨",
+                    "Wybrana skórka dla bohatera",
+                    "Visual de herói escolhido",
+                    "Выбранный облик героя",
+                    "สกินฮีโร่ที่เลือก",
+                    "选择的英雄皮肤",
+                    "選擇的英雄造型"
+                ],
+                "m_locId": 2943672
+            },
+            "m_chooseOne": 1,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3228,
+            "m_description": {
+                "m_locValues": [
+                    "1x Signature Arisen Onyxia, 2x Signature Obsessive Technician, 2x Signature Experimental Animation",
+                    "1x markante Karte Auferstandene Onyxia, 2x markante Karte Besessene Technikerin, 2x markante Karte Experimentelle Belebung",
+                    "1x Onyxia alzada distintiva, 2x Técnica obsesiva distintiva, 2x Animación experimental distintiva",
+                    "1 Onyxia resucitada insignia, 2 Técnica obsesiva insignia, 2 Animación experimental insignia",
+                    "Carte signature Onyxia ressuscitée ×1, carte signature Technicienne maniaque ×2, carte signature Réanimation expérimentale ×2",
+                    "1 Onyxia Risorta Pregiata, 2 Tecnica Maniacale Pregiate, 2 Rianimazione Sperimentale Pregiate",
+                    "シグネチャー「蘇りしオニクシア」x1、シグネチャー「執念深い技術者」x2、シグネチャー「実験的操り戦士」x2",
+                    "간판 되살아난 오닉시아 1장, 간판 집착하는 기술병 2장, 간판 실험적인 되살리기 2장",
+                    "1 x specjalna karta Onyxia Zmartwychwstała, 2 x specjalna karta Obsesyjna techniczka, 2 x specjalna karta Eksperymentalne ożywienie",
+                    "1x Onyxia Revivida Exclusivo, 2x Técnica Obcecada Exclusivo, 2x Animação Experimental Exclusivo",
+                    "1 особая карта «Оживленная Ониксия», 2 особые карты «Одержимый техник», 2 особые карты «Экспериментальное оживление»",
+                    "1x โอนิกเซียถูกปลุกชีพซิกเนเจอร์, 2x ช่างเทคนิคผู้คลั่งไคล้ซิกเนเจอร์,\n2x ศาสตร์ปลุกศพขั้นทดลองซิกเนเจอร์",
+                    "1张异画复活的奥妮克希亚，2张异画着魔的技师，2张异画试验演示",
+                    "1x 珍藏復生的奧妮克希亞、2x 珍藏癡迷技師、2x 珍藏實驗性活化"
+                ],
+                "m_locId": 2943673
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3229,
+            "m_description": {
+                "m_locValues": [
+                    "2x Signature Drakeadon Mongrel",
+                    "2x markante Karte Bastard von Drakeadon",
+                    "2x Bastardo drakeadon distintiva",
+                    "2 Bastardo drakeadon insignia",
+                    "Carte signature Bâtard drakodon ×2",
+                    "2 Dracadon Meticcio Pregiata",
+                    "シグネチャー「ドレイクアドンの雑種」x2",
+                    "간판 드라케돈 투견 2장",
+                    "2 x specjalna karta Skundlony smokodon",
+                    "2x Dracodonte Mestiço Exclusivo",
+                    "2 особые карты «Дракобель-полукровка»",
+                    "2x อันธพาลเดรเคียดอนซิกเนเจอร์",
+                    "2张异画龙脉混血兽",
+                    "2x 珍藏混種亞龍"
+                ],
+                "m_locId": 2943674
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
             "m_ID": 323,
             "m_description": {
                 "m_locValues": [
@@ -50061,6 +51249,60 @@
                     "伊芮爾卡背"
                 ],
                 "m_locId": 2765416
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3230,
+            "m_description": {
+                "m_locValues": [
+                    "20% XP Boost",
+                    "20% EP-Schub",
+                    "Aumento de PE del 20%",
+                    "Potenciador de EXP de 20%",
+                    "20 % de points d’EXP supplémentaires",
+                    "Bonus 20% PE",
+                    "XPブースト20%",
+                    "20% 경험치 부스트",
+                    "Premia 20% do PD",
+                    "20% de Impulso de EXP",
+                    "+20% к опыту",
+                    "บูสต์ XP 20%",
+                    "20%经验值加成",
+                    "20%經驗值加成"
+                ],
+                "m_locId": 2943675
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3231,
+            "m_description": {
+                "m_locValues": [
+                    "Cataclysm Card Pack",
+                    "Kartenpackung aus Kataklysmus",
+                    "Sobre de EL CATACLISMO",
+                    "Paquete de cartas de Cataclismo",
+                    "Paquet de cartes de Cataclysme",
+                    "Busta di carte di Cataclisma",
+                    "「終焉のアゼロス」カードパック",
+                    "대격변 카드 팩",
+                    "Pakiet Kataklizmu",
+                    "Pacote de cards de Cataclismo",
+                    "Комплект карт дополнения «КАТАКЛИЗМ»",
+                    "ซองการ์ด Cataclysm",
+                    "大地的裂变卡牌包",
+                    "《浩劫與重生》卡牌包"
+                ],
+                "m_locId": 2943684
             },
             "m_chooseOne": 0,
             "m_random": 0,
@@ -50312,6 +51554,141 @@
             "m_locked": 0
         },
         {
+            "m_ID": 3242,
+            "m_description": {
+                "m_locValues": [
+                    "2x Tavern Ticket, 1x CATACLYSM Pack",
+                    "2x Gasthauszugang, 1x Kartenpackung aus Kataklysmus",
+                    "2x entrada de taberna, 1x sobre de EL CATACLISMO",
+                    "2 boletos de la Taberna, 1 paquete de CATACLISMO",
+                    "Admission pour la taverne ×2, paquet de CATACLYSME ×1",
+                    "2 Biglietti Locanda, 1 busta di CATACLISMA",
+                    "酒場チケットx2、「終焉のアゼロス」パックx1",
+                    "선술집 입장권 2장, 대격변 팩 1개",
+                    "2 x bilet do Karczmy, 1 x pakiet KATAKLIZMU",
+                    "2x Ingresso da Taverna, 1x Pacote de cards de CATACLISMO",
+                    "2 пропуска в таверну, 1 комплект дополнения «КАТАКЛИЗМ»",
+                    "2x บัตรโรงเตี๊ยม, 1x ซองการ์ด CATACLYSM",
+                    "2张旅店通票，1包大地的裂变卡牌包",
+                    "2x 旅店門票、1x 《浩劫與重生》卡牌包"
+                ],
+                "m_locId": 2944301
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3243,
+            "m_description": {
+                "m_locValues": [
+                    "Cataclysmic Brawler Card Back, 2x Tavern Ticket",
+                    "Kartenrücken Kartenchaot des Kataklysmus, 2x Gasthauszugang",
+                    "Dorso de carta de Peleón cataclísmico, 2x entrada de taberna",
+                    "Dorso de carta Camorrista cataclísmico, 2 boletos de la Taberna",
+                    "Dos de carte Bras de fer cataclysmique, Admission pour la taverne ×2",
+                    "Dorso Partecipante alla Rissa Cataclismico, 2 Biglietti Locanda",
+                    "カード裏面デザイン「大破の喧嘩屋」、酒場チケットx2",
+                    "대격변 싸움꾼 카드 뒷면, 선술집 입장권 2장",
+                    "Rewers Awanturnik Kataklizmu, 2 x bilet do Karczmy",
+                    "Verso de card Competidor do Cataclismo, 2x Ingresso da Taverna",
+                    "Рубашка «Боец Катаклизма», 2 пропуска в таверну",
+                    "หลังการ์ดนักสู้มหาวินาศภัย, 2x บัตรโรงเตี๊ยม",
+                    "灾变乱斗卡背图案，2张旅店通票",
+                    "災變鬥士卡背、2x 旅店門票"
+                ],
+                "m_locId": 2944304
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3245,
+            "m_description": {
+                "m_locValues": [
+                    "Signature Endbringer Umbra",
+                    "Markante Karte Endbringerin Umbra",
+                    "Portaextinciones Umbra distintiva",
+                    "Umbra, portadora de extinción insignia",
+                    "Carte signature Umbra, la porte-trépas",
+                    "Umbra Portapena Pregiata",
+                    "シグネチャー「終焉をもたらす者ウンブラ」",
+                    "간판 최후의 인도자 움브라",
+                    "Specjalna karta Umbra, Krzewicielka Kresu",
+                    "Umbra Encerra-caso Exclusivo",
+                    "Особая карта «Вестница гибели Умбра»",
+                    "อัมบร้าผู้นำพาหายนะซิกเนเจอร์",
+                    "异画末日使者安布拉",
+                    "珍藏終結者昂布拉"
+                ],
+                "m_locId": 2944860
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3246,
+            "m_description": {
+                "m_locValues": [
+                    "Signature Ysera, Emerald Aspect",
+                    "Markante Karte Ysera, smaragdgrüner Aspekt",
+                    "Ysera Aspecto Esmeralda distintiva",
+                    "Ysera, Aspecto esmeralda insignia",
+                    "Carte signature Ysera, l’Aspect d’émeraude",
+                    "Ysera, Aspetto di Smeraldo Pregiata",
+                    "シグネチャー「エメラルドのアスペクト・イセラ」",
+                    "간판 에메랄드의 위상 이세라",
+                    "Specjalna karta Ysera, Szmaragdowy Aspekt",
+                    "Ysera, Aspecto Esmeralda Exclusivo",
+                    "Особая карта «Изера, изумрудный Аспект»",
+                    "อิเซร่า ผู้แทนมรกตซิกเนเจอร์",
+                    "异画伊瑟拉，翡翠守护巨龙",
+                    "珍藏『翡翠守護巨龍』伊瑟拉"
+                ],
+                "m_locId": 2944861
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3249,
+            "m_description": {
+                "m_locValues": [
+                    "CATACLYSM Card Pack",
+                    "Kartenpackung aus KATAKLYSMUS",
+                    "Sobre de EL CATACLISMO",
+                    "Paquete de cartas de CATACLISMO",
+                    "Paquet de cartes de CATACLYSME",
+                    "Busta di carte di CATACLISMA",
+                    "「終焉のアゼロス」カードパック",
+                    "대격변 카드 팩",
+                    "Pakiet kart KATAKLIZMU",
+                    "Pacote de cards de CATACLISMO",
+                    "Комплект карт дополнения «КАТАКЛИЗМ»",
+                    "ซองการ์ด CATACLYSM",
+                    "大地的裂变卡牌包",
+                    "《浩劫與重生》卡牌包"
+                ],
+                "m_locId": 2945172
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
             "m_ID": 325,
             "m_description": {
                 "m_locValues": [
@@ -50331,6 +51708,276 @@
                     "牙縛葛夫"
                 ],
                 "m_locId": 2765433
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3250,
+            "m_description": {
+                "m_locValues": [
+                    "Golden Warmaster Blackhorn (Golden Uncraftable Legendary)",
+                    "Goldene legendäre Karte Kriegsmeister Schwarzhorn (nicht herstellbar)",
+                    "Maestro de guerra Cuerno Negro dorada (legendaria, no se puede crear)",
+                    "Maestro de guerra Cuerno Negro dorada (dorada legendaria no creable)",
+                    "Carte légendaire dorée Maître de guerre Corne-Noire (impossible à créer)",
+                    "Maestro di Guerra Corno Nero Dorata (Leggendaria vincolata Dorata)",
+                    "ゴールデン「戦将ブラックホーン」（ゴールデン作成不能レジェンド）",
+                    "황금 전투대장 블랙혼 (황금 제작 불가 전설 카드)",
+                    "Złoty Mistrz wojenny Czarnoróg (złota legendarna niewytwarzalna)",
+                    "Mestre Chifre Negro Dourado (Dourado Incriável Lendário)",
+                    "Золотая карта «Воевода Черный Рог» (нельзя создать, легендарная карта)",
+                    "วอร์มาสเตอร์แบล็คฮอร์นสีทอง (ระดับตำนานสีทอง สร้างไม่ได้)",
+                    "金色战争大师黑角（无法制作的金色传说卡牌）",
+                    "將領黑角金卡(無法合成的傳說金卡)"
+                ],
+                "m_locId": 2945175
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3251,
+            "m_description": {
+                "m_locValues": [
+                    "Golden Genn, Cursed King (Golden Uncraftable Legendary)",
+                    "Goldene legendäre Karte Verfluchter König Genn (nicht herstellbar)",
+                    "Genn Rey Maldito dorada (legendaria, no se puede crear)",
+                    "Genn, Rey maldito dorada (dorada legendaria no creable)",
+                    "Carte légendaire dorée Genn, roi maudit (impossible à créer)",
+                    "Genn, Re Maledetto Dorata (Leggendaria vincolata Dorata)",
+                    "ゴールデン「呪われた王ゲン」（ゴールデン作成不能レジェンド）",
+                    "황금 저주받은 왕 겐 (황금 제작 불가 전설 카드)",
+                    "Złoty Genn, Przeklęty Król (złota legendarna niewytwarzalna)",
+                    "Genn, Rei Amaldiçoado Dourado (Dourado Incriável Lendário)",
+                    "Золотая карта «Проклятый король Генн» (нельзя создать, легендарная карта)",
+                    "เก็นน์ ราชาต้องสาปสีทอง (ระดับตำนานสีทอง สร้างไม่ได้)",
+                    "金色吉恩，厄运国王（无法制作的传说卡牌）",
+                    "『詛咒之王』吉恩金卡(無法合成的傳說金卡)"
+                ],
+                "m_locId": 2945176
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3252,
+            "m_description": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_chooseOne": 1,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3253,
+            "m_description": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_chooseOne": 1,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3254,
+            "m_description": {
+                "m_locValues": [
+                    "Alexstrasza Coin",
+                    "Alexstrasza-Münze",
+                    "Moneda de Alexstrasza",
+                    "Moneda de Alexstrasza",
+                    "Pièce d’Alexstrasza",
+                    "Moneta di Alexstrasza",
+                    "アレクストラーザ・コイン",
+                    "알렉스트라자 동전",
+                    "Moneta Alexstrazy",
+                    "Moeda da Alexstrasza",
+                    "Монетка Алекстразы",
+                    "เหรียญอเล็กสตราสซา",
+                    "阿莱克丝塔萨幸运币",
+                    "雅立史卓莎幸運幣"
+                ],
+                "m_locId": 2945384
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3255,
+            "m_description": {
+                "m_locValues": [
+                    "CATACLYSM Golden Card Pack",
+                    "Goldene Kartenpackung aus KATAKLYSMUS",
+                    "Sobre dorado de EL CATACLISMO",
+                    "Paquete de cartas dorado de CATACLISMO",
+                    "Paquet de cartes dorées de CATACLYSME",
+                    "Busta Dorata di CATACLISMA",
+                    "「終焉のアゼロス」ゴールデンカードパック",
+                    "대격변 황금 카드 팩",
+                    "Złoty pakiet kart KATAKLIZMU",
+                    "Pacote de cards Dourado de CATACLISMO",
+                    "Золотой комплект карт дополнения «КАТАКЛИЗМ»",
+                    "ซองการ์ด CATACLYSM สีทอง",
+                    "大地的裂变金色包",
+                    "《浩劫與重生》黃金卡牌包"
+                ],
+                "m_locId": 2945446
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3256,
+            "m_description": {
+                "m_locValues": [
+                    "Across the Timeways Golden Card Pack",
+                    "Goldene Kartenpackung aus Reise durch die Zeitwege",
+                    "Sobre dorado de Los Portales del Tiempo",
+                    "Paquete de cartas dorado de A través de los Portales del Tiempo",
+                    "Paquet de cartes dorées de\nPar-delà les voies temporelles",
+                    "Busta Dorata di Oltre i Flussi Temporali",
+                    "「タイムウェイの旅人たち」ゴールデンカードパック",
+                    "시간의 길 너머로 황금 카드 팩",
+                    "Złoty pakiet kart Poprzez linie czasu",
+                    "Pacote de cards Dourado de Através dos Percursos Temporais",
+                    "Золотой комплект карт «Сквозь потоки времени»",
+                    "ซองการ์ด Across the Timeways สีทอง",
+                    "穿越时间流金色包",
+                    "《時光特攻隊》黃金卡牌包"
+                ],
+                "m_locId": 2945447
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3257,
+            "m_description": {
+                "m_locValues": [
+                    "3x Across the Timeways Card Packs",
+                    "3x Kartenpackungen aus Reise durch die Zeitwege",
+                    "3x sobre de Los Portales del Tiempo",
+                    "3 paquetes de cartas de A través de los Portales del Tiempo",
+                    "Paquet de Par-delà les voies temporelles ×3",
+                    "3 buste di Oltre i Flussi Temporali",
+                    "「タイムウェイの旅人たち」カードパックx3",
+                    "시간의 길 너머로 카드 팩 3개",
+                    "3 x pakiet kart Poprzez linie czasu",
+                    "3 Pacotes de cards de Através dos Percursos Temporais",
+                    "3 комплекта «Сквозь потоки времени»",
+                    "3x ซองการ์ด Across the Timeways",
+                    "3包穿越时间流卡牌包",
+                    "3x 《時光特攻隊》卡牌包"
+                ],
+                "m_locId": 2945488
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3258,
+            "m_description": {
+                "m_locValues": [
+                    "1x CATACLYSM Card Pack & 2x Across the Timeways Card Packs",
+                    "1x Kartenpackung aus KATAKLYSMUS und 2x Kartenpackungen aus Reise durch die Zeitwege",
+                    "1x sobre de EL CATACLISMO y 2x sobre de Los Portales del Tiempo",
+                    "1 paquete de cartas de CATACLISMO y 2 paquetes de cartas de A través de los Portales del Tiempo",
+                    "Paquet de CATACLYSME ×1, paquet de Par-delà les voies temporelles ×2",
+                    "1 busta di CATACLISMA e 2 buste di Oltre i Flussi Temporali",
+                    "「終焉のアゼロス」カードパックx1＆「タイムウェイの旅人たち」カードパックx2",
+                    "대격변 카드 팩 1개, 시간의 길 너머로 카드 팩 2개",
+                    "1 x pakiet kart KATAKLIZMU, 2 x pakiet kart Poprzez linie czasu",
+                    "1 Pacote de cards de CATACLISMO e 2 Pacotes de cards de Através dos Percursos Temporais",
+                    "1 комплект «КАТАКЛИЗМ» и 2 комплекта «Сквозь потоки времени»",
+                    "1x ซองการ์ด CATACLYSM และ 2x ซองการ์ด Across the Timeways",
+                    "1包大地的裂变卡牌包和2包穿越时间流卡牌包",
+                    "1x 《浩劫與重生》卡牌包和2x 《時光特攻隊》卡牌包"
+                ],
+                "m_locId": 2945489
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3259,
+            "m_description": {
+                "m_locValues": [
+                    "2x CATACLYSM Card Packs & 1x Across the Timeways Card Pack",
+                    "2x Kartenpackungen aus KATAKLYSMUS und 1x Kartenpackung aus Reise durch die Zeitwege",
+                    "2x sobre de EL CATACLISMO y 1x sobre de Los Portales del Tiempo",
+                    "2 paquetes de cartas de CATACLISMO y 1 paquete de cartas de A través de los Portales del Tiempo",
+                    "Paquet de CATACLYSME ×2, paquet de Par-delà les voies temporelles ×1",
+                    "2 buste di CATACLISMA e 1 busta di Oltre i Flussi Temporali",
+                    "「終焉のアゼロス」カードパックx2＆「タイムウェイの旅人たち」カードパックx1",
+                    "대격변 카드 팩 2개, 시간의 길 너머로 카드 팩 1개",
+                    "2 x pakiet kart KATAKLIZMU, 1 x pakiet kart Poprzez linie czasu",
+                    "2 Pacotes de cards de CATACLISMO e 1 Pacote de cards de Através dos Percursos Temporais",
+                    "2 комплекта «КАТАКЛИЗМ» и 1 комплект «Сквозь потоки времени»",
+                    "2x ซองการ์ด CATACLYSM และ 1x ซองการ์ด Across the Timeways",
+                    "2包大地的裂变卡牌包和1包穿越时间流卡牌包",
+                    "2x 《浩劫與重生》卡牌包和1x 《時光特攻隊》卡牌包"
+                ],
+                "m_locId": 2945490
             },
             "m_chooseOne": 0,
             "m_random": 0,
@@ -50366,6 +52013,222 @@
             "m_locked": 0
         },
         {
+            "m_ID": 3260,
+            "m_description": {
+                "m_locValues": [
+                    "Dragonscarred Thrall Hero Skin, 3x CATACLYSM Card Packs,\n2x Golden Across the Timeways Card Packs",
+                    "Heldenskin Thrall der Drachennarbe, 3x Kartenpackungen aus KATAKLYSMUS,\n2x goldene Kartenpackungen aus Reise durch die Zeitwege",
+                    "Aspecto de héroe Thrall Dragoestragado, 3x sobre de EL CATACLISMO,\n2x sobre dorado de Los Portales del Tiempo",
+                    "Diseño de héroe Thrall Rasgadraco, 3 paquetes de cartas de CATACLISMO,\n2 paquetes de cartas dorados de A través de los Portales del Tiempo",
+                    "Modèle héroïque Thrall, griffé par le dragon, paquet de CATACLYSME ×3,\npaquet doré de Par-delà les voies temporelles ×2",
+                    "Modello eroe Thrall Sfregiato, 3 buste di CATACLISMA,\n2 buste Dorate di Oltre i Flussi Temporali",
+                    "ヒーロースキン「ドラゴンスカー・スロール」、「終焉のアゼロス」カードパックx3、\n「タイムウェイの旅人たち」ゴールデンカードパックx2",
+                    "용의 흉터 스랄 영웅 스킨, 대격변 카드 팩 3개,\n황금 시간의 길 너머로 카드 팩 2개",
+                    "Skórka bohatera Thrall Smoczoblizny, 3 x pakiet kart KATAKLIZMU,\n2 x złoty pakiet kart Poprzez linie czasu",
+                    "Visual de herói Thrall Marcado pelos Dragões, 3 Pacotes de cards de CATACLISMO,\n2 Pacotes de cards Dourados de Através dos Percursos Temporais",
+                    "Облик героя «Драконожженый Тралл», 3 комплекта «КАТАКЛИЗМ»,\n2 золотых комплекта «Сквозь потоки времени»",
+                    "สกินฮีโร่ธรอลผู้ผ่านศึกมังกร, 3x ซองการ์ด CATACLYSM, 2x ซองการ์ด Across the Timeways สีทอง",
+                    "英雄皮肤巨龙战痕萨尔，3包大地的裂变卡牌包和2包穿越时间流金色包",
+                    "龍之傷痕索爾英雄造型、3x 《浩劫與重生》卡牌包、\n2x 《時光特攻隊》黃金卡牌包"
+                ],
+                "m_locId": 2945491
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3261,
+            "m_description": {
+                "m_locValues": [
+                    "2x Random Common Cards from Latest Expansion",
+                    "2x zufällige gewöhnliche Karte der neuesten Erweiterung",
+                    "2x carta común aleatoria de la última expansión",
+                    "2 cartas comunes aleatorias de la expansión más reciente",
+                    "Carte commune aléatoire de l’extension la plus récente ×2",
+                    "2 carte Comuni casuali dell'ultima espansione",
+                    "最新拡張版のランダムなコモンカードx2",
+                    "최신 확장팩의 무작위 일반 카드 2장",
+                    "2 x losowa karta zwykła z najnowszego rozszerzenia",
+                    "2x cards Comuns aleatórios da expansão mais recente",
+                    "2 случайные обычные карты из последнего дополнения",
+                    "2x การ์ดระดับทั่วไปแบบสุ่มจากส่วนเสริมล่าสุด",
+                    "2张最新扩展包的随机普通卡牌",
+                    "2x 來自最新資料片的隨機普通卡牌"
+                ],
+                "m_locId": 2945492
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3262,
+            "m_description": {
+                "m_locValues": [
+                    "2x Random Rare Cards from Latest Expansion",
+                    "2x zufällige seltene Karte der neuesten Erweiterung",
+                    "2x carta poco común aleatoria de la última expansión",
+                    "2 cartas raras aleatorias de la expansión más reciente",
+                    "Carte rare aléatoire de l’extension la plus récente ×2",
+                    "2 carte Rare casuali dell'ultima espansione",
+                    "最新拡張版のランダムなレアカードx2",
+                    "최신 확장팩의 무작위 희귀 카드 2장",
+                    "2 x losowa karta rzadka z najnowszego rozszerzenia",
+                    "2x cards Raros aleatórios da expansão mais recente",
+                    "2 случайные редкие карты из последнего дополнения",
+                    "2x การ์ดระดับหายากแบบสุ่มจากส่วนเสริมล่าสุด",
+                    "2张最新扩展包的随机稀有卡牌",
+                    "2x 來自最新資料片的隨機精良卡牌"
+                ],
+                "m_locId": 2945493
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3263,
+            "m_description": {
+                "m_locValues": [
+                    "1x CATACLYSM Card Pack",
+                    "1x Kartenpackung aus KATAKLYSMUS",
+                    "1x sobre de EL CATACLISMO",
+                    "1 paquete de cartas de CATACLISMO",
+                    "Paquet de cartes de CATACLYSME ×1",
+                    "1 busta di CATACLISMA",
+                    "「終焉のアゼロス」カードパックx1",
+                    "대격변 카드 팩 1개",
+                    "1 x pakiet kart KATAKLIZMU",
+                    "1x pacote de cards de CATACLISMO",
+                    "1 комплект карт дополнения «КАТАКЛИЗМ»",
+                    "1x ซองการ์ด CATACLYSM",
+                    "1包大地的裂变卡牌包",
+                    "1x 《浩劫與重生》卡牌包"
+                ],
+                "m_locId": 2945494
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3264,
+            "m_description": {
+                "m_locValues": [
+                    "2x Random Epic Cards from Latest Expansion",
+                    "2x zufällige epische Karte der neuesten Erweiterung",
+                    "2x carta épica aleatoria de la última expansión",
+                    "2 cartas épicas aleatorias de la expansión más reciente",
+                    "Carte épique aléatoire de l’extension la plus récente ×2",
+                    "2 carte Epiche casuali dell'ultima espansione",
+                    "最新拡張版のランダムなエピックカードx2",
+                    "최신 확장팩의 무작위 특급 카드 2장",
+                    "2 x losowa epicka karta z najnowszego rozszerzenia",
+                    "2x cards Épicos da expansão mais recente",
+                    "2 случайные эпические карты из последнего дополнения",
+                    "2x การ์ดระดับสุดยอดแบบสุ่มจากส่วนเสริมล่าสุด",
+                    "2张最新扩展包的随机史诗卡牌",
+                    "2x 來自最新資料片的隨機史詩卡牌"
+                ],
+                "m_locId": 2945495
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3265,
+            "m_description": {
+                "m_locValues": [
+                    "Legend of the Scarab Card Back",
+                    "Kartenrücken Legende des Skarabäus",
+                    "Dorso de carta de Leyenda del Escarabajo",
+                    "Dorso de carta Leyenda del escarabajo",
+                    "Dos de carte Légende du Scarabée",
+                    "Dorso Leggenda dello Scarabeo",
+                    "カード裏面デザイン「スカラベの伝説」",
+                    "딱정벌레의 전설 카드 뒷면",
+                    "Rewers Legenda o skarabeuszu",
+                    "Verso de card Lenda do Escaravelho",
+                    "Рубашка «Легенда Скарабея»",
+                    "หลังการ์ดตำนานแห่งสคารับ",
+                    "甲虫传说卡背图案",
+                    "甲蟲傳說卡背"
+                ],
+                "m_locId": 2945721
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3266,
+            "m_description": {
+                "m_locValues": [
+                    "2x Signature Fel Infusion",
+                    "2x markante Karte Teufelsinfusion",
+                    "2x Infusión vil distintiva",
+                    "2 Infusión vil insignia",
+                    "Carte signature Infusion gangrenée ×2",
+                    "2 Vilinfusione Pregiate",
+                    "シグネチャー「フェルの鼓舞」x2",
+                    "간판 지옥 주입 2장",
+                    "2 x specjalna karta Nasycenie spaczeniem",
+                    "2x Infusão Vil Exclusivos",
+                    "2 особые карты «Насыщение Скверной»",
+                    "2x ผสานพลังเฟลซิกเนเจอร์",
+                    "2张异画邪能灌魔",
+                    "2x 珍藏魔化注能"
+                ],
+                "m_locId": 2945775
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3267,
+            "m_description": {
+                "m_locValues": [
+                    "2x Signature Sheltered Survivor",
+                    "2x markante Karte Geschützter Überlebender",
+                    "2x Superviviente resguardado distintiva",
+                    "2 Sobreviviente refugiado insignia",
+                    "Carte signature Survivant à l’abri ×2",
+                    "2 Sopravvissuto al Riparo Pregiate",
+                    "シグネチャー「避難した生存者」x2",
+                    "간판 피신한 생존자 2장",
+                    "2 x specjalna karta Ukryty ocalały",
+                    "2x Sobrevivente Abrigado Exclusivos",
+                    "2 особые карты «Выживший в укрытии»",
+                    "2x ผู้รอดชีวิตหลบซ่อนซิกเนเจอร์",
+                    "2张异画避难的幸存者",
+                    "2x 珍藏受庇護的倖存者"
+                ],
+                "m_locId": 2945776
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
             "m_ID": 327,
             "m_description": {
                 "m_locValues": [
@@ -50385,6 +52248,33 @@
                     "臥底史蓋伯斯、動物之友葛夫、勝利者塔姆辛"
                 ],
                 "m_locId": 2765435
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3273,
+            "m_description": {
+                "m_locValues": [
+                    "Deathwing Mythic Skin & Signature Deathwing, Worldbreaker",
+                    "Mythischer Skin Todesschwinge & markante Karte Weltenbrecher Todesschwinge",
+                    "Aspecto mítico Alamuerte y Alamuerte Rompemundos distintiva",
+                    "Diseño mítico de Alamuerte y Alamuerte, Rompemundos insignia",
+                    "Modèle héroïque mythique Aile de mort et carte signature Aile de Mort le Brise-monde",
+                    "Modello Mitico Alamorte e Alamorte il Devastamondi Pregiata",
+                    "ミシックスキン「デスウィング」＆シグネチャー「世界の破壊者デスウィング」",
+                    "데스윙 신화 스킨 및 간판 세계파괴자 데스윙",
+                    "Mityczna skórka Śmiercioskrzydły i specjalna karta Śmiercioskrzydły, Niszczyciel Światów",
+                    "Visual Mítico de Asa da Morte e Asa da Morte, o Quebramundo Exclusivo",
+                    "Эпохальный облик «Смертокрыл» и особая карта «Смертокрыл Разрушитель миров»",
+                    "สกินเดธวิงระดับมิทธิค และเดธวิง ผู้ทำลายโลกซิกเนเจอร์",
+                    "神话英雄皮肤死亡之翼和异画灭世者死亡之翼",
+                    "死亡之翼傳奇造型和珍藏『碎界者』死亡之翼"
+                ],
+                "m_locId": 2946436
             },
             "m_chooseOne": 0,
             "m_random": 0,

@@ -1703,6 +1703,30 @@
             "m_tooltipInitOrder": 9800
         },
         {
+            "m_ID": 372,
+            "m_noteDesc": "Shattered",
+            "m_tagId": 4240,
+            "m_name": "GLOBAL_KEYWORD_SHATTERED",
+            "m_text": "GLOBAL_KEYWORD_SHATTERED_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_SHATTERED_TEXT",
+            "m_collectionText": "",
+            "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
+            "m_tooltipInitOrder": 9801
+        },
+        {
+            "m_ID": 378,
+            "m_noteDesc": "Herald",
+            "m_tagId": 4309,
+            "m_name": "GLOBAL_KEYWORD_HERALD",
+            "m_text": "GLOBAL_KEYWORD_HERALD_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_HERALD_TEXT",
+            "m_collectionText": "",
+            "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
+            "m_tooltipInitOrder": 9810
+        },
+        {
             "m_ID": 379,
             "m_noteDesc": "Bounty",
             "m_tagId": 4231,

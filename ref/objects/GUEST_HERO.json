@@ -9435,6 +9435,254 @@
             "m_unlockEvent": 164
         },
         {
+            "m_ID": 406,
+            "m_cardId": 31,
+            "m_name": {
+                "m_locValues": [
+                    "Deck of Legends",
+                    "Deck der Legenden",
+                    "Mazo de leyendas",
+                    "Mazo de leyendas",
+                    "Deck de légendes",
+                    "Mazzo delle Leggende",
+                    "レジェンド・デッキ",
+                    "전설의 덱",
+                    "Talia legend",
+                    "Deck das Lendas",
+                    "Колода легенд",
+                    "เด็คแห่งตำนาน",
+                    "传说套牌",
+                    "傳說套牌"
+                ],
+                "m_locId": 2944207
+            },
+            "m_shortName": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_flavorText": {
+                "m_locValues": [
+                    "Play a deck with TWO copies of legendaries!",
+                    "Spielt ein Deck mit ZWEI Kopien legendärer Karten!",
+                    "¡Juega un mazo con DOS copias de las legendarias!",
+                    "¡Juega un mazo con DOS copias de cartas legendarias!",
+                    "Jouez avec un deck contenant DEUX exemplaires de cartes légendaires !",
+                    "Gioca un mazzo con DUE copie di carte Leggendarie!",
+                    "レジェンドカードのコピー2枚が入ったデッキを使用する！",
+                    "같은 전설 카드가 2장씩 든 덱을 사용해 보세요!",
+                    "Zagraj talią zawierającą po DWIE kopie kart legendarnych!",
+                    "Jogue com um deck com DUAS cópias de cards Lendários!",
+                    "Играйте колодой с ДВУМЯ копиями легендарных карт!",
+                    "เล่นเด็คที่มีการ์ด\nระดับตำนานแบบละสองใบ!",
+                    "这副套牌里的同种传说牌有两张！",
+                    "使用一副傳說卡牌各有兩張的套牌！"
+                ],
+                "m_locId": 2944208
+            },
+            "m_unlockEvent": 164
+        },
+        {
+            "m_ID": 407,
+            "m_cardId": 7,
+            "m_name": {
+                "m_locValues": [
+                    "Deck of Villains",
+                    "Deck der Bösewichte",
+                    "Mazo de villanos",
+                    "Mazo de villanos",
+                    "Deck maléfique",
+                    "Mazzo dei Cattivi",
+                    "悪党デッキ",
+                    "악당의 덱",
+                    "Talia złoczyńców",
+                    "Deck de Vilões",
+                    "Колода злодеев",
+                    "เด็คของวายร้าย",
+                    "反派套牌",
+                    "反派套牌"
+                ],
+                "m_locId": 2944209
+            },
+            "m_shortName": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_flavorText": {
+                "m_locValues": [
+                    "Play a deck overflowing with Lackeys!",
+                    "Spielt ein Deck, dass vor Lakaien überquillt!",
+                    "¡Juega un mazo rebosante de lacayos!",
+                    "¡Juega un mazo repleto de Lacayos!",
+                    "Jouez avec un deck rempli de laquais !",
+                    "Gioca un mazzo pieno di Lacchè!",
+                    "悪の手先ばかりのデッキを使用する！",
+                    "졸개들로 넘쳐 나는 덱을 사용해 보세요!",
+                    "Zagraj talią wypełnioną po brzegi Sługusami!",
+                    "Jogue com um deck transbordando de Servos!",
+                    "Играйте колодой с уймой прихвостней!",
+                    "เล่นเด็คที่เต็ม\nไปด้วยลูกสมุน!",
+                    "这副套牌里有好多跟班！",
+                    "使用一副塞滿幫眾的套牌！"
+                ],
+                "m_locId": 2944210
+            },
+            "m_unlockEvent": 164
+        },
+        {
+            "m_ID": 408,
+            "m_cardId": 637,
+            "m_name": {
+                "m_locValues": [
+                    "Wonderful Deck",
+                    "Wunderbares Deck",
+                    "Mazo maravilloso",
+                    "Mazo de maravillas",
+                    "Deck merveilleux",
+                    "Mazzo Magnifico",
+                    "ワクワク・デッキ",
+                    "신비의 덱",
+                    "Talia wspaniałości",
+                    "Deck de Maravilhas",
+                    "Колода чудес",
+                    "เด็คมหัศจรรย์",
+                    "梦幻套牌",
+                    "美妙套牌"
+                ],
+                "m_locId": 2944211
+            },
+            "m_shortName": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_flavorText": {
+                "m_locValues": [
+                    "Play a deck of ever-shifting cards!",
+                    "Spielt ein Deck mit sich stetig wandelnden Karten!",
+                    "¡Juega un mazo cuyas cartas cambian constantemente!",
+                    "¡Juega un mazo de cartas que cambian todo el tiempo!",
+                    "Jouez avec un deck de cartes en constante évolution !",
+                    "Gioca un mazzo di carte in continuo cambiamento!",
+                    "変化し続けるカードのデッキを使用する！",
+                    "끊임없이 변화하는 카드로 이루어진 덱을 사용해 보세요!",
+                    "Zagraj talią zawierającą stale zmieniające się karty!",
+                    "Jogue com um deck de cards em constante mudança!",
+                    "Играйте колодой с постоянно меняющимися картами!",
+                    "เล่นเด็คที่เต็มไปด้วย\nการ์ดที่เปลี่ยนแปลงเสมอ!",
+                    "这副套牌中的卡牌每回合会变成随机卡牌！",
+                    "使用一副卡牌千變萬化的套牌！"
+                ],
+                "m_locId": 2944212
+            },
+            "m_unlockEvent": 164
+        },
+        {
+            "m_ID": 409,
+            "m_cardId": 274,
+            "m_name": {
+                "m_locValues": [
+                    "Deck of Discovery",
+                    "Deck der Entdeckungen",
+                    "Mazo de descubrimiento",
+                    "Mazo de descubrimiento",
+                    "Deck de découverte",
+                    "Mazzo della Scoperta",
+                    "発見デッキ",
+                    "발견의 덱",
+                    "Talia odkryć",
+                    "Deck da Descoberta",
+                    "Колода находок",
+                    "เด็คค้นพบ",
+                    "发现套牌",
+                    "發現套牌"
+                ],
+                "m_locId": 2944213
+            },
+            "m_shortName": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_flavorText": {
+                "m_locValues": [
+                    "Play a deck discovering all your cards!",
+                    "Spielt ein Deck, bei dem Ihr alle Eure Karten entdeckt!",
+                    "¡Juega un mazo con el que Descubres todas tus cartas!",
+                    "¡Juega un mazo que devela todas tus cartas!",
+                    "Jouez avec un deck découvrant toutes vos cartes !",
+                    "Gioca un mazzo scoprendo tutte le tue carte!",
+                    "自分のカードを全て発見するデッキを使用する！",
+                    "내 카드들을 모두 발견하는 덱을 사용해 보세요!",
+                    "Zagraj talią, która odkrywa wszystkie twoje karty!",
+                    "Jogue com um deck para descobrir todos os seus cards!",
+                    "Играйте колодой, позволяющей раскапывать все ваши карты!",
+                    "เล่นเด็คที่จะให้คุณ\nได้ค้นพบการ์ดทั้งหมด!",
+                    "这副套牌里的牌全是可以发现其他牌的牌！",
+                    "使用一副能發現你全部卡牌的套牌！"
+                ],
+                "m_locId": 2944214
+            },
+            "m_unlockEvent": 164
+        },
+        {
             "m_ID": 41,
             "m_cardId": 930,
             "m_name": {
@@ -9493,6 +9741,440 @@
                     ""
                 ],
                 "m_locId": 0
+            },
+            "m_unlockEvent": 164
+        },
+        {
+            "m_ID": 410,
+            "m_cardId": 1066,
+            "m_name": {
+                "m_locValues": [
+                    "Questing Deck",
+                    "Questdeck",
+                    "Mazo de misiones",
+                    "Mazo de misiones",
+                    "Deck de quête",
+                    "Mazzo delle Missioni",
+                    "クエスト・デッキ",
+                    "퀘스트 제시 덱",
+                    "Zadaniowa talia",
+                    "Deck das Missões",
+                    "Колода заданий",
+                    "เด็คทำเควสต์",
+                    "任务套牌",
+                    "任務套牌"
+                ],
+                "m_locId": 2944215
+            },
+            "m_shortName": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_flavorText": {
+                "m_locValues": [
+                    "Play a deck with 3 Quests!",
+                    "Spielt ein Deck mit 3_Quests!",
+                    "¡Juega un mazo con 3 misiones!",
+                    "¡Juega un mazo con 3 Misiones!",
+                    "Jouez avec un deck comprenant 3 quêtes !",
+                    "Gioca un mazzo con 3 Missioni!",
+                    "クエストが3つ入ったデッキを使用する！",
+                    "퀘스트를 3개 포함하는 덱을 사용해 보세요!",
+                    "Zagraj talią zawierającą 3 Zadania!",
+                    "Jogue com um deck com 3 Missões!",
+                    "Играйте колодой с 3 заданиями!",
+                    "เล่นเด็คที่มี\nการ์ดเควสต์ 3 ใบ!",
+                    "这副套牌里有3张任务牌！",
+                    "使用一副有3種任務的套牌！"
+                ],
+                "m_locId": 2944216
+            },
+            "m_unlockEvent": 164
+        },
+        {
+            "m_ID": 411,
+            "m_cardId": 78065,
+            "m_name": {
+                "m_locValues": [
+                    "Rainbow Deck",
+                    "Regenbogendeck",
+                    "Mazo arcoíris",
+                    "Mazo arcoíris",
+                    "Deck arc-en-ciel",
+                    "Mazzo Arcobaleno",
+                    "レインボー・デッキ",
+                    "무지개 덱",
+                    "Tęczowa talia",
+                    "Deck Arco-íris",
+                    "Радужная колода",
+                    "เด็คสีรุ้ง",
+                    "彩虹套牌",
+                    "彩虹套牌"
+                ],
+                "m_locId": 2944217
+            },
+            "m_shortName": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_flavorText": {
+                "m_locValues": [
+                    "Play a deck with cards from all classes and spell schools!",
+                    "Spielt ein Deck mit Karten von allen Klassen und Zaubertypen!",
+                    "¡Juega un mazo con cartas de todas las clases y escuelas de hechizos!",
+                    "¡Juega un mazo con cartas de todas las clases y escuelas de hechizos!",
+                    "Jouez avec un deck qui contient des cartes de toutes les classes et écoles de magie !",
+                    "Gioca un mazzo con carte di tutte le classi e Scuole di Magia!",
+                    "全てのクラスと呪文系統のカードが入ったデッキを使用する！",
+                    "모든 직업과 주문 속성의 카드를 포함하는 덱을 사용해 보세요!",
+                    "Zagraj talią zawierającą karty ze wszystkich klas i szkół zaklęć!",
+                    "Jogue com um deck com cards de todas as classes e escolas de feitiços!",
+                    "Играйте колодой с картами всех классов и школ заклинаний!",
+                    "เล่นเด็คที่มีการ์ดจากทุกคลาส\nและเวทมนตร์ทุกแขนง!",
+                    "这副套牌里的卡牌来自各职业及各法术派系！",
+                    "使用一副包含全部職業和法術系別卡牌的套牌！"
+                ],
+                "m_locId": 2944218
+            },
+            "m_unlockEvent": 164
+        },
+        {
+            "m_ID": 412,
+            "m_cardId": 56550,
+            "m_name": {
+                "m_locValues": [
+                    "Deck of Wishes",
+                    "Deck der Wünsche",
+                    "Mazo de deseos",
+                    "Mazo de deseos",
+                    "Deck de souhaits",
+                    "Mazzo dei Desideri",
+                    "願いのデッキ",
+                    "소원의 덱",
+                    "Talia życzeń",
+                    "Deck dos Desejos",
+                    "Колода желаний",
+                    "เด็คขอพร",
+                    "愿望套牌",
+                    "許願套牌"
+                ],
+                "m_locId": 2944219
+            },
+            "m_shortName": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_flavorText": {
+                "m_locValues": [
+                    "Play a deck with 3 Wishes that give you the perfect card!",
+                    "Spielt ein Deck mit 3_Wünschen, die Euch die perfekte Karte geben!",
+                    "¡Juega un mazo con 3 deseos que te otorgan la carta perfecta!",
+                    "¡Juega un mazo con 3 Deseos que te den la carta perfecta!",
+                    "Jouez avec un deck comprenant 3 souhaits qui vous permettront d’obtenir la carte idéale !",
+                    "Gioca un mazzo con 3 Desideri che ti danno la carta perfetta!",
+                    "勝利のカードを得られる願い3つが入ったデッキを使用する！",
+                    "완벽한 카드를 주는 소원이 3개 들어 있는 덱을 사용해 보세요!",
+                    "Zagraj talią zawierającą 3 Życzenia dające idealną kartę!",
+                    "Jogue com um deck que possui 3 Desejos que concedem o card perfeito!",
+                    "Играйте колодой с 3 желаниями, дающими идеальную карту!",
+                    "เล่นเด็คที่มีการ์ดขอพร 3 ใบ\nที่มอบการ์ดในฝันให้คุณ!",
+                    "这副套牌里有3张可以使你获得完美卡牌的愿望牌！",
+                    "使用一副含有3個賦予你完美卡牌的許願術的套牌！"
+                ],
+                "m_locId": 2944220
+            },
+            "m_unlockEvent": 164
+        },
+        {
+            "m_ID": 413,
+            "m_cardId": 930,
+            "m_name": {
+                "m_locValues": [
+                    "Deck of Treasures",
+                    "Schatzdeck",
+                    "Mazo de tesoros",
+                    "Mazo de tesoros",
+                    "Deck de trésors",
+                    "Mazzo dei Tesori",
+                    "デュエル宝物デッキ",
+                    "보물의 덱",
+                    "Talia skarbów",
+                    "Deck dos Tesouros",
+                    "Колода сокровищ",
+                    "เด็คสมบัติ",
+                    "宝藏套牌",
+                    "寶藏套牌"
+                ],
+                "m_locId": 2944221
+            },
+            "m_shortName": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_flavorText": {
+                "m_locValues": [
+                    "Play a deck with 8 Treasures in it!",
+                    "Spielt ein Deck mit 8_Schätzen!",
+                    "¡Juega un mazo que contiene 8 tesoros!",
+                    "¡Juega un mazo con 8 Tesoros!",
+                    "Jouez avec un deck contenant 8 trésors !",
+                    "Gioca un mazzo contenente 8 Tesori!",
+                    "宝物8つが入ったデッキを使用する！",
+                    "보물이 8개 들어 있는 덱을 사용해 보세요!",
+                    "Zagraj talią zawierającą 8 Skarbów!",
+                    "Jogue com um deck que guarda 8 Tesouros!",
+                    "Играйте колодой с 8 сокровищами!",
+                    "เล่นเด็คที่มี\nการ์ดสมบัติ 8 ใบ!",
+                    "这副套牌里有8张宝藏！",
+                    "使用一副有8種寶藏隱藏其中的套牌！"
+                ],
+                "m_locId": 2944222
+            },
+            "m_unlockEvent": 164
+        },
+        {
+            "m_ID": 414,
+            "m_cardId": 813,
+            "m_name": {
+                "m_locValues": [
+                    "Nonuplet Deck",
+                    "Neunling-Deck",
+                    "Mazo nónuple",
+                    "Mazo nónuple",
+                    "Deck de neuf",
+                    "Mazzo dei Nove Gemelli",
+                    "九ツ子人形デッキ",
+                    "9인조 덱",
+                    "Dziewiątkowa talia",
+                    "Deck dos Nônuplos",
+                    "Колода девяти копий",
+                    "เด็คแฝดเก้า",
+                    "九星套牌",
+                    "九合一套牌"
+                ],
+                "m_locId": 2944223
+            },
+            "m_shortName": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_flavorText": {
+                "m_locValues": [
+                    "Play a deck with 9 Astral Automatons!",
+                    "Spielt ein Deck mit 9_Astralmechanioden!",
+                    "¡Juega un mazo con 9 Autómatas astrales!",
+                    "¡Juega un mazo con 9 Autómatas Astrales!",
+                    "Jouez avec un deck comprenant 9 automates astraux !",
+                    "Gioca un mazzo con 9 Automatron Astrali!",
+                    "「星霊の自動人形」9体が入ったデッキを使用する！",
+                    "천공의 전투로봇을 9개 포함하는 덱을 사용해 보세요!",
+                    "Zagraj talią zawierającą 9 Automatonów astralnych!",
+                    "Jogue com um deck com 9 Autômatos Astrais!",
+                    "Играйте колодой с 9 астральными механизмами!",
+                    "เล่นเด็คที่มีการ์ด\nจักรกลดวงดาว 9 ใบ!",
+                    "这副套牌里有9张星界自动机！",
+                    "使用一副有9個星界自動機的套牌！"
+                ],
+                "m_locId": 2944224
+            },
+            "m_unlockEvent": 164
+        },
+        {
+            "m_ID": 415,
+            "m_cardId": 671,
+            "m_name": {
+                "m_locValues": [
+                    "Deck of Heroes",
+                    "Deck der Helden",
+                    "Mazo de héroes",
+                    "Mazo de héroes",
+                    "Deck héroïque",
+                    "Mazzo degli Eroi",
+                    "ヒーローズ・デッキ",
+                    "영웅의 덱",
+                    "Talia herosów",
+                    "Deck dos Heróis",
+                    "Колода героев",
+                    "เด็คของฮีโร่",
+                    "英雄套牌",
+                    "英雄套牌"
+                ],
+                "m_locId": 2944225
+            },
+            "m_shortName": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_flavorText": {
+                "m_locValues": [
+                    "Play a deck with lots of singleton cards!",
+                    "Spielt ein Deck mit vielen Singleton-Karten!",
+                    "¡Juega un mazo con un montón de cartas únicas!",
+                    "¡Juega un mazo con muchas cartas solitarias!",
+                    "Jouez avec un deck contenant de nombreuses cartes uniques !",
+                    "Gioca un mazzo con un sacco di carte uniche!",
+                    "ハイランダーのカードがたくさん入ったデッキを使用する！",
+                    "하이랜더 방식 카드들이 많이 들어 있는 덱을 사용해 보세요!",
+                    "Zagraj talią zawierającą liczne karty zapewniające korzyści za brak duplikatów!",
+                    "Jogue com um deck cheio de cards de tipos únicos!",
+                    "Играйте колодой с большим количеством одиночных карт!",
+                    "เล่นเด็คที่เต็มไปด้วยการ์ดที่\nทำงานเมื่อในเด็คไม่มีการ์ดซ้ำ!",
+                    "这副套牌里有许多宇宙卡牌！",
+                    "使用一副有大量宇宙流卡牌的套牌！"
+                ],
+                "m_locId": 2944226
+            },
+            "m_unlockEvent": 164
+        },
+        {
+            "m_ID": 416,
+            "m_cardId": 893,
+            "m_name": {
+                "m_locValues": [
+                    "Shrunken Deck",
+                    "Schrumpfdeck",
+                    "Mazo encogido",
+                    "Mazo encogido",
+                    "Deck riquiqui",
+                    "Mazzo Ristretto",
+                    "ちびっ子デッキ",
+                    "압축된 덱",
+                    "Skurczona talia",
+                    "Deck Encolhido",
+                    "Урезанная колода",
+                    "เด็คหด",
+                    "缩小套牌",
+                    "縮小套牌"
+                ],
+                "m_locId": 2944227
+            },
+            "m_shortName": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_flavorText": {
+                "m_locValues": [
+                    "Play a deck with only 20 cards!",
+                    "Spielt ein Deck mit nur 20_Karten!",
+                    "¡Juega un mazo con solo 20 cartas!",
+                    "¡Juega un mazo con solo 20 cartas!",
+                    "Jouez avec un deck de seulement 20 cartes !",
+                    "Gioca un mazzo con solo 20 carte!",
+                    "カードが20枚だけのデッキを使用する！",
+                    "카드가 20장만 있는 덱을 사용해 보세요!",
+                    "Zagraj talią zawierającą tylko 20 kart!",
+                    "Jogue com um deck que só tem 20 cards!",
+                    "Играйте колодой, состоящей лишь из 20 карт!",
+                    "เล่นเด็คที่มี\nการ์ดแค่ 20 ใบ!",
+                    "这副套牌只有20张牌！",
+                    "使用一副只有20張卡牌的套牌！"
+                ],
+                "m_locId": 2944228
             },
             "m_unlockEvent": 164
         },
