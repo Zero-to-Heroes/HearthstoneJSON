@@ -3785,11 +3785,73 @@
                     "Śmiercioskrzydły dostał od ciebie nauczkę i wie już, że z tą linią czasową nie pójdzie mu łatwo. Na horyzoncie, za morzem ognia i dymu, nadal jaśnieje światło zwycięstwa. Poprowadź nas ku niemu!\n\n – <i>Thrall</i>",
                     "Você ensinou uma lição a Asa da Morte: esta linha temporal se recusa a apagar. Além do fogo e da fumaça, a luz da vitória ainda brilha no horizonte. Mostre-nos o caminho!\n\n - <i>Thrall</i>",
                     "Тебе удалось преподать Смертокрылу урок — эту временную линию ему не обратить в пепел. Над пылающим, затянутым дымом горизонтом забрезжил свет победы. Веди же нас к нему, герой!\n\n<i>Тралл</i>",
-                    "เจ้าได้สอนให้เดธวิงรู้ซึ้ง ว่ามิติเวลานี้จะไม่ยอมดับสูญโดยง่าย ท่ามกลางเปลวไฟและควัน ณ เส้นขอบฟ้า แสงแห่งชัยชนะยังส่องประกาย แชมเปี้ยนเอ๋ย จงนำทางเราไปคว้ามัน!\n - <i>ธรอล</i>",
+                    "เจ้าได้สอนให้เดธวิงรู้ซึ้ง ว่ามิติเวลานี้จะไม่ยอมดับสูญ\nโดยง่าย ท่ามกลางเปลวไฟและควัน ณ เส้นขอบฟ้า \nแสงแห่งชัยชนะยังส่องประกาย แชมเปี้ยนเอ๋ย \nจงนำทางเราไปคว้ามัน!\n - <i>ธรอล</i>",
                     "你顶住了死亡之翼——这条时间线绝不会消亡。在火焰与硝烟之后，胜利的光辉还在向我们招手——带领我们冲上去吧，勇士！\n\n——<i>萨尔</i>",
                     "你給了死亡之翼一個教訓：這條時間線沒有那麼容易屈服。在地平線上，火焰和煙霧尚未蔓延之處，勝利的曙光依然閃耀著。帶領我們走向它吧，勇士！\n\n - <i>索爾</i>"
                 ],
                 "m_locId": 2944839
+            }
+        },
+        {
+            "m_ID": 0,
+            "m_specialEventId": 68,
+            "m_eventRewardTrackId": 166,
+            "m_choiceConfirmationText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_shortConclusion": {
+                "m_locValues": [
+                    "Nature Prevails!",
+                    "Die Natur obsiegt!",
+                    "¡La Naturaleza se impone!",
+                    "¡La naturaleza prevalece!",
+                    "La nature l’emporte toujours !",
+                    "La natura trionfa!",
+                    "自然の勝利だ！",
+                    "자연의 승리다!",
+                    "Natura zwycięży!",
+                    "A natureza triunfa!",
+                    "Природа восторжествовала!",
+                    "ธรรมชาติชนะแล้ว!",
+                    "自然必胜！",
+                    "自然必將獲勝！"
+                ],
+                "m_locId": 2947555
+            },
+            "m_longConclusion": {
+                "m_locValues": [
+                    "What held you up, Champion? I'll admit, I didn't expect this battle to be so...drawn out. \nNo matter – the day is ours. Ragnaros' flames blazed fiercely,\nbut Nature's defenders are victorious.\n\nDeathwing's forces may yet seek power, but they'll have to look elsewhere for it.\nNow, we take the battle to the Mad Aspect himself.\nHow can we hope to defeat such a terror? Well, I know of but one way…\n\n- <i>Malfurion</i>",
+                    "Was hat Euch aufgehalten, Champion? Ich hatte nicht erwartet, dass dieser Kampf so_... lange dauern würde.\nAber egal, wir haben triumphiert. Ragnaros’ Flammen loderten heftig,\naber die Verteidiger der Natur waren siegreich.\n\nTodesschwinges Streitkräfte mögen weiterhin nach Macht streben, aber sie müssen sie woanders suchen.\nJetzt tragen wir den Kampf zum wahnsinnigen Aspekt persönlich.\nWie sollen wir so einen Schrecken nur besiegen? Tja, mir fällt nur ein Weg ein_...\n\n- <i>Malfurion</i>",
+                    "¿Por qué has tardado tanto, adalid? Cierto es que no esperaba que esta batalla se... prolongase tanto.\nPero no importa, hoy es nuestro día. Las llamas de Ragnaros ardían con fuerza,\npero los defensores de la Naturaleza hemos salido victoriosos.\n\nLas huestes de Alamuerte aún andarán buscando el poder, pero tendrán que hacerlo en otro sitio.\nAhora, llevaremos la batalla al terreno del mismo Aspecto de la Locura.\n¿Qué esperanzas tenemos de acabar con un horror de semejante envergadura? A mí solo se me ocurre una forma...\n\n-<i>Malfurion</i>",
+                    "¿Por qué tardaste tanto, adalid? Admito que no esperaba que esta batalla fuera tan... prolongada. \nNo importa; la victoria es nuestra. Las llamas de Ragnaros ardieron con furia,\npero los defensores de la naturaleza lograron extinguirlas.\n\nLas fuerzas de Alamuerte querrán más poder, pero tendrán que buscarlo en otra parte.\nAhora, planearemos nuestro ataque contra el mismísimo aspecto de locura.\n¿Cómo podemos derrotar a un enemigo tan espantoso como él? Bueno, conozco una forma...\n\n- <i>Malfurion</i>",
+                    "Qu’est-ce que vous faisiez ? Je reconnais que je ne m’attendais pas à ce que cette bataille soit aussi… longue.\nMais peu importe, la victoire est à nous.\n\nLes flammes de Ragnaros ont été redoutables, mais les défenseuses et défenseurs de la nature ont triomphé.\nLes armées d’Aile de mort n’ont peut-être pas renoncé à leur quête de pouvoir, mais elles devront la poursuivre ailleurs.\nÀ présent, nous allons engager le combat contre l’Aspect fou lui-même.\nMais comment pouvons-nous espérer l’emporter face à une telle menace ? Je ne connais qu’un seul moyen…\n\n– <i>Malfurion</i>",
+                    "Cosa ti ha trattenuto? Devo ammetterlo, non mi sarei mai aspettato una battaglia tanto... lunga.\nNon importa, oggi è il nostro giorno. Le fiamme di Ragnaros hanno arso con ferocia,\nma i difensori della natura hanno avuto la meglio.\n\nLe forze di Alamorte potrebbero ancora essere alla ricerca del potere, ma credo che dovranno cercarlo altrove.\nOra, porteremo la battaglia direttamente davanti all'Aspetto Folle.\nCome possiamo sperare di sconfiggere un tale mostro? Beh, mi viene in mente un solo modo…\n\n- <i>Malfurion</i>",
+                    "たいそう時間がかかったな、勇者。ここまで戦いが長引くとは\n思わなかったが、勝利は我らのものだ。ラグナロスの炎は\n激しく燃えたが、自然の守護者が勝利した。\n\nデスウィングの軍勢が今後も力を求めるとしても、力は他所で\n探すほかない。我らの次の相手は狂気のアスペクトだ。あれほど\n恐ろしい相手をいかにして倒すのかって？一つだけ方法がある…\n\n-<i>マルフュリオン</i>",
+                    "왜 늦었지, 용사여? 나도 인정한다. 이 전투가 이렇게... 질질 끌 줄은 몰랐다. \n어쨌든, 승리는 우리 것이다. 라그나로스의 불길은 맹렬히 타올랐으나,\n자연의 수호자들이 승리했다.\n\n데스윙의 군대는 아직 권력을 노리고 있지만, 그것은 다른 데서 찾아야 할 것이다.\n이제 우리는 광기의 위상 본인에게 도전한다.\n그런 공포의 대상을 어떻게 쓰러뜨릴 수 있냐고? 내가 알기로 방법은 하나뿐이다...\n\n- <i>말퓨리온</i>",
+                    "Co cię zatrzymało? Zaiste, nie spodziewałem się, że bitwa tak się przeciągnie... \nNieistotne – ten dzień należy do nas. Płomienie Ragnarosa buchały pod samo niebo,\nlecz to obrońcy Natury sięgnęli po zwycięstwo.\n\nArmia Śmiercioskrzydłego pewnie jeszcze spróbuje się wzmocnić, ale nie tutaj.\nTeraz czas zmierzyć się z Szalonym Aspektem we własnej smoczej osobie.\nJak w ogóle można pokonać takie okropieństwo? Cóż, znam tylko jeden sposób…\n\n– <i>Malfurion</i>",
+                    "O que atrasou você, Viajante? Admito que não esperava que esta batalha se prolongasse tanto assim.\nMas não importa: a vitória é nossa. As chamas de Ragnaros arderam com fúria,\nmas os defensores da Natureza saíram vitoriosos.\n\nAs forças de Asa da Morte ainda desejam poder, mas terão que procurá-lo em outro lugar.\nAgora levaremos a batalha até o próprio Aspecto Insano.\nComo podemos derrotar um terror como esse? Bem... só conheço um caminho.\n\n- <i>Malfurion</i>",
+                    "Что тебя задержало? Признаюсь, я не ожидал, что битва выйдет... столь затяжной.\nВ любом случае победа осталась за нами. Пламя Рагнароса пылало ярко,\nно защитники природы устояли.\n\nСилы Смертокрыла и дальше будут искать источники силы, но уже не здесь.\nТеперь мы сами дадим бой обезумевшему Аспекту.\nНо как одолеть невообразимый ужас? Я знаю лишь один способ...\n\n <i>Малфурион</i>",
+                    "มีอะไรชะลอเจ้าอยู่เหรอ_แชมเปี้ยน_ว่ากันตามตรง_ข้าเองก็ไม่คิดว่าศึกนี้จะ...\nยืดเยื้อขนาดนี้แต่ไม่สำคัญแล้ว_ในที่สุดวันนี้ก็เป็นวันของเรา_เพลิงของ\nแร็กนารอสเผาผลาญรุนแรง_แต่สุดท้ายผู้ปกป้องธรรมชาติก็เป็นฝ่ายชนะ\nกองกำลังของเดธวิงคงมองหาแหล่งพลังต่อไป_แต่อย่างน้อยก็คงไม่ใช่ที่นี่\nต่อจากนี้ก็ถึงคราวที่เราไปจัดการเจ้าผู้แทนเสียสติแล้วเราจะจัดการภัยร้าย\nระดับนั้นยังไงน่ะเหรอ ข้าพอจะรู้วิธีหนึ่ง…\n- <i>มัลฟิวเรียน</i>",
+                    "怎么耽搁了这么久，勇士？不得不说，我没想到这场战斗会……如此胶着。\n无论如何——是我们赢了。纵然拉格纳罗斯火力凶猛，\n终归是自然的守护者赢得了胜利。\n\n死亡之翼的大军仍在攫取力量，然而他们未能在此得逞，只能另寻别处。\n接下来，我们要直接迎战疯狂的守护巨龙。\n如此恐怖的巨龙，我们该如何取胜？我倒是有个办法……\n\n——<i>玛法里奥</i>",
+                    "勇士，是什麼耽誤了你？我得承認，我沒想到這場戰鬥會如此…漫長。\n不過沒關係，今天的勝利屬於我們。拉格納羅斯的火焰雖然熾熱無比，\n但自然的保衛者還是贏得了勝利。\n\n死亡之翼的勢力或許仍會企圖攫取力量，但他們得去別處找了。\n現在，我們要直接向那個瘋狂巨龍開戰。\n我們究竟該如何擊敗那樣的恐怖存在呢？嗯…我知道的辦法只有一個…\n\n- <i>瑪法里恩</i>"
+                ],
+                "m_locId": 2947556
             }
         },
         {

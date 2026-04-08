@@ -11,32 +11,6 @@
     "m_Name": "TAVERN_BRAWL_TICKET",
     "Records": [
         {
-            "m_ID": 0,
-            "m_noteDesc": "No ticket required",
-            "m_canBeOwned": 0,
-            "m_canBePurchased": 0,
-            "m_storeName": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_ticketBehaviorType": 0
-        },
-        {
             "m_ID": 12,
             "m_noteDesc": "Arena Ticket",
             "m_canBeOwned": 1,
@@ -85,6 +59,32 @@
                     "英雄大亂鬥門票"
                 ],
                 "m_locId": 78780
+            },
+            "m_ticketBehaviorType": 0
+        },
+        {
+            "m_ID": 0,
+            "m_noteDesc": "No ticket required",
+            "m_canBeOwned": 0,
+            "m_canBePurchased": 0,
+            "m_storeName": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
             },
             "m_ticketBehaviorType": 0
         },

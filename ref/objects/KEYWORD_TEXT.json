@@ -1799,6 +1799,18 @@
             "m_tooltipInitOrder": 39000
         },
         {
+            "m_ID": 404,
+            "m_noteDesc": "Provoke",
+            "m_tagId": 4605,
+            "m_name": "GLOBAL_KEYWORD_PROVOKE",
+            "m_text": "GLOBAL_KEYWORD_PROVOKE_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_PROVOKE_TEXT",
+            "m_collectionText": "",
+            "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
+            "m_tooltipInitOrder": 94002
+        },
+        {
             "m_ID": 410,
             "m_noteDesc": "Pirate Bonus",
             "m_tagId": 4613,
@@ -1809,6 +1821,42 @@
             "m_isCollectionOnly": 0,
             "m_autoAddSearchableToken": 0,
             "m_tooltipInitOrder": 93003
+        },
+        {
+            "m_ID": 412,
+            "m_noteDesc": "Fodders in Refresh",
+            "m_tagId": 4664,
+            "m_name": "GLOBAL_KEYWORD_BACON_FODDER_COUNT",
+            "m_text": "GLOBAL_KEYWORD_BACON_FODDER_COUNT_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_BACON_FODDER_COUNT_TEXT",
+            "m_collectionText": "",
+            "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
+            "m_tooltipInitOrder": 94004
+        },
+        {
+            "m_ID": 414,
+            "m_noteDesc": "Chromadrake",
+            "m_tagId": 4689,
+            "m_name": "GLOBAL_KEYWORD_BACON_CHROMADRAKE",
+            "m_text": "GLOBAL_KEYWORD_BACON_CHROMADRAKE_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_BACON_CHROMADRAKE_TEXT",
+            "m_collectionText": "",
+            "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
+            "m_tooltipInitOrder": 93005
+        },
+        {
+            "m_ID": 415,
+            "m_noteDesc": "Fodder",
+            "m_tagId": 3668,
+            "m_name": "GLOBAL_KEYWORD_BACON_FODDER",
+            "m_text": "GLOBAL_KEYWORD_BACON_FODDER_TEXT",
+            "m_refText": "GLOBAL_KEYWORD_BACON_FODDER_TEXT",
+            "m_collectionText": "",
+            "m_isCollectionOnly": 0,
+            "m_autoAddSearchableToken": 0,
+            "m_tooltipInitOrder": 94005
         },
         {
             "m_ID": 5,

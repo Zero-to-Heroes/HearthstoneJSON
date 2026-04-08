@@ -84,6 +84,79 @@
             "m_capsuleType": 0
         },
         {
+            "m_ID": 100,
+            "m_enabled": 1,
+            "m_isDefault": 0,
+            "m_rarityId": 5,
+            "m_baseFinisherId": 0,
+            "m_collectionName": {
+                "m_locValues": [
+                    "Cataclysmic (Legendary Strike)",
+                    "Freiheitskämpfer (legendärer Angriff)",
+                    "Combatientes por la libertad (asalto legendario)",
+                    "Combatientes de la resistencia (Azote legendario)",
+                    "Combat pour la liberté (frappe légendaire)",
+                    "Combattenti per la Libertà (Colpo Leggendario)",
+                    "自由の闘士（レジェンドストライク）",
+                    "자유의 투사 (전설 타격 효과)",
+                    "W Imię Wolności (legendarne zwieńczenie)",
+                    "Defensores da Liberdade (Ataque Lendário)",
+                    "Борцы за свободу (легендарный удар)",
+                    "นักสู้เพื่ออิสรภาพ (ท่าโจมตีระดับตำนาน)",
+                    "自由斗士（传说打击特效）",
+                    "自由鬥士(傳說攻擊特效)"
+                ],
+                "m_locId": 2946076
+            },
+            "m_collectionShortName": {
+                "m_locValues": [
+                    "Cataclysmic (Legendary)",
+                    "Freiheitskämpfer (legendär)",
+                    "Combatientes por la libertad (legendario)",
+                    "Combatientes de la resistencia (Legendario)",
+                    "Combat pour la liberté (légendaire)",
+                    "Combattenti per la Libertà (Leggendario)",
+                    "自由の闘士（レジェンド）",
+                    "자유의 투사 (전설)",
+                    "W Imię Wolności (legendarne)",
+                    "Defensores da Liberdade (Lendário)",
+                    "Борцы за свободу (легендарный)",
+                    "นักสู้เพื่ออิสรภาพ (ตำนาน)",
+                    "自由斗士（传说）",
+                    "自由鬥士(傳說)"
+                ],
+                "m_locId": 2946077
+            },
+            "m_description": {
+                "m_locValues": [
+                    "This Legendary Strike adds a new animation to your Battlegrounds Heroes’ attacks, a bigger effect for attacks of 15 or more damage, an even bigger effect for when you knock out an opponent, and a HUGE effect when you finish in first place!\n\nEarnable after purchasing the Battlegrounds Season Pass in Season <i>13</i>.",
+                    "Dieser legendäre Angriffseffekt fügt den Angriffen Eurer Schlachtfeldhelden eine neue Animation hinzu, hat einen größeren Effekt bei Angriffen mit 15 oder mehr Schaden, einen noch größeren Effekt, wenn Ihr damit siegt, und einen RIESIGEN Effekt, wenn Ihr den ersten Platz belegt!\n\nKann nach Kauf des Schlachtfeld-Saisonpasses in Saison <i>13</i> freigeschaltet werden.",
+                    "Este asalto legendario añade una nueva animación a los ataques de tus héroes de Campos de batalla, un efecto mayor para ataques de 15 p. de daño o más, un efecto aún mayor cuando eliminas a un oponente ¡y un efecto ENORME cuando acabas en primera posición!\n\nSe puede conseguir al comprar el pase de temporada de Campos de batalla en la temporada <i>13</i>.",
+                    "Este azote legendario les da una nueva animación a los ataques de tus héroes de Campos de batalla. ¡Tendrás incluso mejores efectos para ataques de 15 o más de daño, un efecto aún mayor cuando elimines a un adversario e incluso uno MAYOR cuando termines en el primer lugar!\n\nSe puede obtener después de comprar el Pase de temporada de Campos de batalla en la temporada <i>13</i>.",
+                    "Cette frappe légendaire ajoute une nouvelle animation aux attaques de vos héros et héroïnes de champs de bataille. Bénéficiez d’un effet plus marqué sur les attaques infligeant 15 points de dégâts ou plus, encore plus marqué lorsque vous achevez votre adversaire et GIGANTESQUE lorsque vous finissez à la première place !\n\nS’obtient après avoir acheté le ticket saisonnier des champs de bataille lors de la saison <i>13</i>.",
+                    "Questo Colpo Leggendario aggiunge una nuova animazione agli attacchi dei tuoi eroi della Battaglia, un effetto più grande per gli attacchi che infliggono 15 o più danni, uno ancora più grande quando sconfiggi un avversario e un effetto ENORME quando raggiungi il primo posto!\n\nOttenibile dopo aver acquistato il Pass Battaglia Stagionale nella Stagione <i>13</i>.",
+                    "このレジェンドストライクは、バトルグラウンドのヒーローの攻撃に新たなアニメーションを追加する。ダメージが15以上なら攻撃エフェクトが派手に、相手をKOした時にはさらに派手になり、優勝をキメると巨大なエフェクトが発生するぞ！\n\nバトルグラウンド・シーズン<i>13</i>の「シーズンパス」購入後に獲得可能となる。",
+                    "전설 타격 효과로 전장 영웅의 새로운 공격 애니메이션, 피해를 15 이상 줄 때 더 큰 효과, 상대를 탈락시킬 때 더더욱 큰 효과, 그리고 1위 달성을 기념하는 효과까지 더해보세요!\n\n<i>13</i>시즌 전장 시즌 패스를 구매한 후 획득 가능",
+                    "To legendarne zwieńczenie zmienia animacje ataku twoich bohaterów podczas Ustawki. Efekt staje się potężniejszy przy obrażeniach o wartości 15 lub wyższej, jeszcze potężniejszy, gdy wyeliminujesz przeciwnika, oraz NAJPOTĘŻNIEJSZY, gdy zdobędziesz pierwsze miejsce!\n\nDo zdobycia po zakupie karnetu sezonowego Ustawki w sezonie <i>13</i>.",
+                    "Esse Ataque Lendário adiciona uma nova animação aos ataques dos seus heróis dos Campos de Batalha, um efeito maior para ataques de 15 ou mais de dano, um efeito ainda maior quando você nocauteia o oponente e um efeito GIGANTESCO quando você termina em primeiro lugar!\n\nPossível de obter após comprar o Passe de Temporada dos Campos de Batalha na Temporada <i>13</i>.",
+                    "Этот легендарный удар добавляет новую анимацию для атак ваших героев на полях сражений, при этом атаки, наносящие 15+ ед. урона, получают особый эффект. Ваши победы над противниками станут еще более впечатляющими, а если вы займете первое место, вас ждет поистине невероятное зрелище!\n\nМожно открыть после покупки пропуска <i>13</i>-го сезона полей сражений.",
+                    "ท่าโจมตีระดับตำนานท่านี้\nเพิ่มความพิเศษให้การโจมตี\nของฮีโร่_Battlegrounds ของคุณ_เอฟเฟกต์จะตระการตา\nยิ่งขึ้นสำหรับการโจมตีที่สร้าง\nความเสียหาย_15_แต้มหรือ\nมากกว่า_เอฟเฟกต์จะยิ่งใหญ่\nขึ้นไปอีกถ้าคุณน็อคคู่ต่อสู้ได้ และปิดท้ายด้วยเอฟเฟกต์\nสุดอลังการเมื่อคุณจบเป็น\nอันดับหนึ่ง!\nปลดล็อคได้หลังจากซื้อ\nซีซันพาส_Battlegrounds\nในซีซัน_<i>13</i>",
+                    "这款传说打击特效会为你的战棋英雄攻击添加新的动画效果。如果你造成了15点或以上的伤害，还能看到更加盛大的特效；在淘汰对手时还有更加宏大的特效；如果你最终获得了第一名，还会有规模空前的特效！\n\n购买第<i>13</i>赛季的酒馆战棋赛季通行证后开放解锁。",
+                    "傳說攻擊特效會為英雄戰場的英雄攻擊增加全新的動畫。攻擊力達到15點以上時更加華麗，打倒對手時還有特殊效果，而且以第一名勝利時會有超炫的特效！\n\n需在賽季<i>13</i>購買英雄戰場賽季通行證才有機會取得。"
+                ],
+                "m_locId": 2946430
+            },
+            "m_gameplaySettings": "CataclysmLegendaryStrike.asset:203400d2e6107df4e87225d993fb438d",
+            "m_destroyOpponentPrefab": "",
+            "m_destroyOpponentVictoryPrefab": "",
+            "m_detailsTexture": "",
+            "m_detailsMovie": "",
+            "m_detailsRenderConfig": "Cataclysm Legendary Configuration.asset:87054dedbfeb3e64799538cb7460cd96",
+            "m_miniBodyMaterial": "Cataclysm_Legendary_Material_CollectionMini_Body.mat:8994ccfd1e5d27343848dd2539b2ce3a",
+            "m_miniArtMaterial": "Cataclysm_Legendary_Material_CollectionMini_Art.mat:27feab721cbe1d7499c5b4e2c241abff",
+            "m_capsuleType": 1
+        },
+        {
             "m_ID": 12,
             "m_enabled": 1,
             "m_isDefault": 0,
@@ -4034,7 +4107,7 @@
             "m_collectionName": {
                 "m_locValues": [
                     "Night Fae Forest (Rare Strike)",
-                    "Nachtfeenwald (seltener Angriff)",
+                    "Wald der Nachtfae (seltener Angriff)",
                     "Bosque de sílfides nocturnas (asalto poco común)",
                     "Bosque Noctifeérico (Azote raro)",
                     "Forêt des Faë nocturnes (frappe rare)",
@@ -4053,7 +4126,7 @@
             "m_collectionShortName": {
                 "m_locValues": [
                     "Night Fae Forest (Rare)",
-                    "Nachtfeenwald (selten)",
+                    "Wald der Nachtfae (selten)",
                     "Bosque de sílfides nocturnas (poco común)",
                     "Bosque Noctifeérico (Raro)",
                     "Forêt des Faë nocturnes (rare)",
@@ -4107,7 +4180,7 @@
             "m_collectionName": {
                 "m_locValues": [
                     "Night Fae Forest (Epic Strike)",
-                    "Nachtfeenwald (epischer Angriff)",
+                    "Wald der Nachtfae (epischer Angriff)",
                     "Bosque de sílfides nocturnas (asalto épico)",
                     "Bosque Noctifeérico (Azote épico)",
                     "Forêt des Faë nocturnes (frappe épique)",
@@ -4126,7 +4199,7 @@
             "m_collectionShortName": {
                 "m_locValues": [
                     "Night Fae Forest (Epic)",
-                    "Nachtfeenwald (episch)",
+                    "Wald der Nachtfae (episch)",
                     "Bosque de sílfides nocturnas (épico)",
                     "Bosque Noctifeérico (Épico)",
                     "Forêt des Faë nocturnes (épique)",
@@ -4180,7 +4253,7 @@
             "m_collectionName": {
                 "m_locValues": [
                     "Night Fae Forest (Legendary Strike)",
-                    "Nachtfeenwald (legendärer Angriff)",
+                    "Wald der Nachtfae (legendärer Angriff)",
                     "Bosque de sílfides nocturnas (asalto legendario)",
                     "Bosque Noctifeérico (Azote legendario)",
                     "Forêt des Faë nocturnes (frappe légendaire)",
@@ -4199,7 +4272,7 @@
             "m_collectionShortName": {
                 "m_locValues": [
                     "Night Fae Forest (Legendary)",
-                    "Nachtfeenwald (legendär)",
+                    "Wald der Nachtfae (legendär)",
                     "Bosque de sílfides nocturnas (legendario)",
                     "Bosque Noctifeérico (legendario)",
                     "Forêt des Faë nocturnes (légendaire)",
@@ -4899,6 +4972,152 @@
             "m_detailsRenderConfig": "EdgeofTime_EpicConfiguration.asset:83fd5b3807c958941a877fa25c7f8504",
             "m_miniBodyMaterial": "EdgeofTime_Epic_Material_CollectionMini_Body.mat:05c5c949b32754c40aec4df7545d3ab8",
             "m_miniArtMaterial": "EdgeofTime_Epic_Material_CollectionMini_Art.mat:0dc0afd2838f7d04ca582da3e375e86c",
+            "m_capsuleType": 0
+        },
+        {
+            "m_ID": 98,
+            "m_enabled": 1,
+            "m_isDefault": 0,
+            "m_rarityId": 3,
+            "m_baseFinisherId": 0,
+            "m_collectionName": {
+                "m_locValues": [
+                    "Cataclysmic (Rare Strike)",
+                    "Freiheitskämpfer (seltener Angriff)",
+                    "Combatientes por la libertad (asalto poco común)",
+                    "Combatientes de la resistencia (Azote raro)",
+                    "Combat pour la liberté (frappe rare)",
+                    "Combattenti per la Libertà (Colpo Raro)",
+                    "自由の闘士（レアストライク）",
+                    "자유의 투사 (희귀 타격 효과)",
+                    "W Imię Wolności (rzadkie zwieńczenie)",
+                    "Defensores da Liberdade (Ataque Raro)",
+                    "Борцы за свободу (редкий удар)",
+                    "นักสู้เพื่ออิสรภาพ (ท่าโจมตีระดับหายาก)",
+                    "自由斗士（稀有打击特效）",
+                    "自由鬥士(精良攻擊特效)"
+                ],
+                "m_locId": 2946071
+            },
+            "m_collectionShortName": {
+                "m_locValues": [
+                    "Cataclysmic (Rare)",
+                    "Freiheitskämpfer (selten)",
+                    "Combatientes por la libertad (poco común)",
+                    "Combatientes de la resistencia (Raro)",
+                    "Combat pour la liberté (rare)",
+                    "Combattenti per la Libertà (Raro)",
+                    "自由の闘士（レア）",
+                    "자유의 투사 (희귀)",
+                    "W Imię Wolności (rzadkie)",
+                    "Defensores da Liberdade (Raro)",
+                    "Борцы за свободу (редкий)",
+                    "นักสู้เพื่ออิสรภาพ (หายาก)",
+                    "自由斗士（稀有）",
+                    "自由鬥士(精良)"
+                ],
+                "m_locId": 2946072
+            },
+            "m_description": {
+                "m_locValues": [
+                    "This Rare Strike adds a little something special to all your Battlegrounds Heroes’ attacks.\n\nEarnable after purchasing the Battlegrounds Season Pass in Season <i>13</i>.",
+                    "Dieser seltene Angriffseffekt verleiht den Angriffen Eurer Schlachtfeldhelden etwas Besonderes.\n\nKann nach Kauf des Schlachtfeld-Saisonpasses in Saison <i>13</i> freigeschaltet werden.",
+                    "Este asalto poco común les da un toque especial a todos los ataques de tus héroes de Campos de batalla.\n\nSe puede conseguir al comprar el pase de temporada de Campos de batalla en la temporada <i>13</i>.",
+                    "Este azote raro les da un toque especial a todos los ataques de tus héroes de Campos de batalla.\n\nSe puede obtener después de comprar el Pase de temporada de Campos de batalla en la temporada <i>13</i>.",
+                    "Cette frappe rare ajoute un petit quelque chose à toutes les attaques de vos héros et héroïnes de champs de bataille.\n\nS’obtient après avoir acheté le ticket saisonnier des champs de bataille lors de la saison <i>13</i>.",
+                    "Questo Colpo Raro aggiunge qualcosa di speciale agli attacchi dei tuoi eroi della Battaglia.\n\nOttenibile dopo aver acquistato il Pass Battaglia Stagionale nella Stagione <i>13</i>.",
+                    "このレアストライクは、バトルグラウンドのヒーローの攻撃に少々スペシャルな何かを加えるぞ。\n\nバトルグラウンド・シーズン<i>13</i>の「シーズンパス」購入後に獲得可能となる。",
+                    "희귀 타격 효과로 전장 영웅의 공격을 특별하게 꾸미세요.\n\n<i>13</i>시즌 전장 시즌 패스를 구매한 후 획득 가능",
+                    "To rzadkie zwieńczenie doda nieco finezji atakom twoich bohaterów podczas Ustawki.\n\nDo zdobycia po zakupie karnetu sezonowego Ustawki w sezonie <i>13</i>.",
+                    "Esse Ataque Raro adiciona algo especial a todos os ataques dos seus heróis dos Campos de Batalha.\n\nPossível de obter após comprar o Passe de Temporada dos Campos de Batalha na Temporada <i>13</i>.",
+                    "Этот редкий удар придаст изюминку атакам ваших героев на полях сражений.\n\nМожно открыть после покупки пропуска <i>13</i>-го сезона полей сражений.",
+                    "ท่าโจมตีระดับหายากท่านี้[b]เพิ่มความพิเศษให้การโจมตี[b]ของฮีโร่_Battlegrounds ของคุณ\n\nปลดล็อคได้หลังจากซื้อ[b]ซีซันพาส_Battlegrounds ในซีซัน_<i>13</i>",
+                    "这款稀有打击特效可以为你战棋英雄的攻击增添特效。\n\n购买第<i>13</i>赛季的酒馆战棋赛季通行证后开放解锁。",
+                    "精良攻擊特效會讓英雄戰場全部的英雄在攻擊時增加一點特殊效果。\n\n需在賽季<i>13</i>購買英雄戰場賽季通行證才有機會取得。"
+                ],
+                "m_locId": 2946429
+            },
+            "m_gameplaySettings": "CataclysmRareStrike.asset:dcbf7944f5425384f876e68b780655c9",
+            "m_destroyOpponentPrefab": "",
+            "m_destroyOpponentVictoryPrefab": "",
+            "m_detailsTexture": "",
+            "m_detailsMovie": "",
+            "m_detailsRenderConfig": "Cataclysm Rare Configuration.asset:ae1ce7d8d3366e645957b8acd0ebf602",
+            "m_miniBodyMaterial": "Cataclysm_Rare_Material_CollectionMini_Body.mat:024f37fd6588cf4468b958f1b2ca076d",
+            "m_miniArtMaterial": "Cataclysm_Rare_Material_CollectionMini_Art.mat:6fccbf0d7155d124783e6eff71bbad4c",
+            "m_capsuleType": 0
+        },
+        {
+            "m_ID": 99,
+            "m_enabled": 1,
+            "m_isDefault": 0,
+            "m_rarityId": 4,
+            "m_baseFinisherId": 0,
+            "m_collectionName": {
+                "m_locValues": [
+                    "Cataclysmic (Epic Strike)",
+                    "Freiheitskämpfer (epischer Angriff)",
+                    "Combatientes por la libertad (asalto épico)",
+                    "Combatientes de la resistencia (Azote épico)",
+                    "Combat pour la liberté (frappe épique)",
+                    "Combattenti per la Libertà (Colpo Epico)",
+                    "自由の闘士（エピックストライク）",
+                    "자유의 투사 (특급 타격 효과)",
+                    "W Imię Wolności (epickie zwieńczenie)",
+                    "Defensores da Liberdade (Ataque Épico)",
+                    "Борцы за свободу (эпический удар)",
+                    "นักสู้เพื่ออิสรภาพ (ท่าโจมตีระดับสุดยอด)",
+                    "自由斗士（史诗打击特效）",
+                    "自由鬥士(史詩攻擊特效)"
+                ],
+                "m_locId": 2946074
+            },
+            "m_collectionShortName": {
+                "m_locValues": [
+                    "Cataclysmic (Epic)",
+                    "Freiheitskämpfer (episch)",
+                    "Combatientes por la libertad (épico)",
+                    "Combatientes de la resistencia (Épico)",
+                    "Combat pour la liberté (épique)",
+                    "Combattenti per la Libertà (Epico)",
+                    "自由の闘士（エピック）",
+                    "자유의 투사 (특급)",
+                    "W Imię Wolności (epickie)",
+                    "Defensores da Liberdade (Épico)",
+                    "Борцы за свободу (эпический)",
+                    "นักสู้เพื่ออิสรภาพ (สุดยอด)",
+                    "自由斗士（史诗）",
+                    "自由鬥士(史詩)"
+                ],
+                "m_locId": 2946075
+            },
+            "m_description": {
+                "m_locValues": [
+                    "This Epic Strike adds some flair to your Battlegrounds Heroes’ attacks. Get an even bigger effect for attacks of 15 or more damage!\n\nEarnable after purchasing the Battlegrounds Season Pass in Season <i>13</i>.",
+                    "Dieser epische Angriffseffekt verleiht den Angriffen Eurer Schlachtfeldhelden etwas mehr Flair. Angriffe mit 15 Schaden oder mehr haben einen noch größeren Effekt!\n\nKann nach Kauf des Schlachtfeld-Saisonpasses in Saison <i>13</i> freigeschaltet werden.",
+                    "Este asalto épico aporta estilo a los ataques de tus héroes de Campos de batalla. ¡Consigue un efecto aún mayor para ataques de 15 p. de daño o más!\n\nSe puede conseguir al comprar el pase de temporada de Campos de batalla en la temporada <i>13</i>.",
+                    "Este azote épico les da un poco de estilo a los ataques de tus héroes de Campos de batalla. ¡Tendrás incluso mejores efectos para ataques de 15 o más de daño!\n\nSe puede obtener después de comprar el Pase de temporada de Campos de batalla en la temporada <i>13</i>.",
+                    "Cette frappe épique donne du panache aux attaques de vos héros et héroïnes de champs de bataille. L’effet est encore plus marqué sur les attaques infligeant 15 points de dégâts ou plus !\n\nS’obtient après avoir acheté le ticket saisonnier des champs de bataille lors de la saison <i>13</i>.",
+                    "Questo Colpo Epico aggiunge un tocco speciale agli attacchi dei tuoi eroi della Battaglia. Ottieni un effetto ancora più grande per gli attacchi che infliggono 15 o più danni!\n\nOttenibile dopo aver acquistato il Pass Battaglia Stagionale nella Stagione <i>13</i>.",
+                    "このエピックストライクは、バトルグラウンドのヒーローの攻撃を派手にする。ダメージが15以上なら、攻撃がさらにド派手になるぞ！\n\nバトルグラウンド・シーズン<i>13</i>の「シーズンパス」購入後に獲得可能となる。",
+                    "특급 타격 효과로 전장 영웅의 공격에 화려함을 곁들이세요. 피해를 15 이상 줄 때 더 큰 효과로 표현됩니다!\n\n<i>13</i>시즌 전장 시즌 패스를 구매한 후 획득 가능",
+                    "To epickie zwieńczenie pokaże wszystkim, kto jest prawdziwą gwiazdą tej Ustawki. Efekt staje się potężniejszy przy obrażeniach o wartości 15 lub wyższej!\n\nDo zdobycia po zakupie karnetu sezonowego Ustawki w sezonie <i>13</i>.",
+                    "Esse Ataque Épico traz mais estilo aos ataques dos seus heróis dos Campos de Batalha. Você consegue um efeito ainda maior para ataques de 15 ou mais de dano!\n\nPossível de obter após comprar o Passe de Temporada dos Campos de Batalha na Temporada <i>13</i>.",
+                    "Этот эпический удар разнообразит атаки ваших героев на полях сражений. Сделайте атаки на 15+ ед. урона еще эффектнее!\n\nМожно открыть после покупки пропуска <i>13</i>-го сезона полей сражений.",
+                    "ท่าโจมตีระดับสุดยอดท่านี้[b]เพิ่มความพิเศษให้การโจมตี[b]ของฮีโร่_Battlegrounds ของคุณ_เอฟเฟกต์จะ[b]ตระการตายิ่งขึ้นสำหรับ[b]การโจมตีที่สร้างความเสียหาย 15_แต้มหรือมากกว่า!\n\nปลดล็อคได้หลังจากซื้อ[b]ซีซันพาส_Battlegrounds ในซีซัน_<i>13</i>",
+                    "这款史诗打击特效可以为你的战棋英雄攻击增添特效。如果你造成了15点或以上的伤害，还能看到更加盛大的特效！\n\n购买第<i>13</i>赛季的酒馆战棋赛季通行证后开放解锁。",
+                    "史詩攻擊特效會為英雄戰場的英雄攻擊加上絢麗的特效。攻擊力達到15點以上時更加華麗！\n\n需在賽季<i>13</i>購買英雄戰場賽季通行證才有機會取得。"
+                ],
+                "m_locId": 2946428
+            },
+            "m_gameplaySettings": "CataclysmEpicStrike.asset:6be47c5779562d6499a722a09ea5c4a4",
+            "m_destroyOpponentPrefab": "",
+            "m_destroyOpponentVictoryPrefab": "",
+            "m_detailsTexture": "",
+            "m_detailsMovie": "",
+            "m_detailsRenderConfig": "Cataclysm Epic Configuration.asset:f2adcd47df2cf2c49991996809ec3ae8",
+            "m_miniBodyMaterial": "Cataclysm_Epic_Material_CollectionMini_Body.mat:ea87a230198b01842aa94819119d1be9",
+            "m_miniArtMaterial": "Cataclysm_Epic_Material_CollectionMini_Art.mat:c22658ee940d1434a8d5903d36584880",
             "m_capsuleType": 0
         }
     ]
