@@ -35,28 +35,28 @@
             "m_sortOrder": 0
         },
         {
-            "m_ID": 2,
+            "m_ID": 4,
             "m_name": {
                 "m_locValues": [
-                    "Gameplay",
-                    "Gameplay",
-                    "Juego",
-                    "Experiencia de juego",
-                    "Jeu",
-                    "Dinamica di gioco",
-                    "ゲームプレイ",
-                    "게임플레이",
-                    "Rozgrywka",
-                    "Jogos",
-                    "Игра",
-                    "ระบบเกม",
-                    "游戏",
-                    "遊戲機制"
+                    "Adventures",
+                    "Abenteuer",
+                    "Aventuras",
+                    "Aventuras",
+                    "Aventures",
+                    "Avventure",
+                    "アドベンチャー",
+                    "모험",
+                    "Przygody",
+                    "Aventuras",
+                    "Приключения",
+                    "การผจญภัย",
+                    "冒险",
+                    "冒險篇章"
                 ],
-                "m_locId": 2730706
+                "m_locId": 2730708
             },
-            "m_icon": "gameplay",
-            "m_sortOrder": 1
+            "m_icon": "adventures",
+            "m_sortOrder": 3
         },
         {
             "m_ID": 3,
@@ -83,30 +83,6 @@
             "m_sortOrder": 2
         },
         {
-            "m_ID": 4,
-            "m_name": {
-                "m_locValues": [
-                    "Adventures",
-                    "Abenteuer",
-                    "Aventuras",
-                    "Aventuras",
-                    "Aventures",
-                    "Avventure",
-                    "アドベンチャー",
-                    "모험",
-                    "Przygody",
-                    "Aventuras",
-                    "Приключения",
-                    "การผจญภัย",
-                    "冒险",
-                    "冒險篇章"
-                ],
-                "m_locId": 2730708
-            },
-            "m_icon": "adventures",
-            "m_sortOrder": 3
-        },
-        {
             "m_ID": 6,
             "m_name": {
                 "m_locValues": [
@@ -129,6 +105,30 @@
             },
             "m_icon": "game_modes",
             "m_sortOrder": 5
+        },
+        {
+            "m_ID": 2,
+            "m_name": {
+                "m_locValues": [
+                    "Gameplay",
+                    "Gameplay",
+                    "Juego",
+                    "Experiencia de juego",
+                    "Jeu",
+                    "Dinamica di gioco",
+                    "ゲームプレイ",
+                    "게임플레이",
+                    "Rozgrywka",
+                    "Jogos",
+                    "Игра",
+                    "ระบบเกม",
+                    "游戏",
+                    "遊戲機制"
+                ],
+                "m_locId": 2730706
+            },
+            "m_icon": "gameplay",
+            "m_sortOrder": 1
         }
     ]
 }

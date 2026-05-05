@@ -86,6 +86,131 @@
             "m_hideOnClient": 0
         },
         {
+            "m_ID": 123,
+            "m_deckId": 5988,
+            "m_boosterId": 1030,
+            "m_goldenName": {
+                "m_locValues": [
+                    "CLASS SET DRUID",
+                    "KLASSENSET: DRUIDE",
+                    "CONJUNTO DE CLASE DRUIDA",
+                    "KIT DE CLASE DE DRUIDA",
+                    "ENSEMBLE DE DRUIDE",
+                    "SET DI CLASSE DRUIDO",
+                    "クラスセット（ドルイド）",
+                    "직업 세트 드루이드",
+                    "ZESTAW KLASOWY DRUIDA",
+                    "CONJUNTO DE CLASSE DRUIDA",
+                    "КЛАССОВЫЙ НАБОР (ДРУИД)",
+                    "ชุดคลาสดรูอิด",
+                    "职业系列：德鲁伊",
+                    "職業系列德魯伊"
+                ],
+                "m_locId": 2946467
+            },
+            "m_hideOnClient": 0
+        },
+        {
+            "m_ID": 124,
+            "m_deckId": 5989,
+            "m_boosterId": 1030,
+            "m_goldenName": {
+                "m_locValues": [
+                    "CLASS SET HUNTER",
+                    "KLASSENSET: JÄGER",
+                    "CONJUNTO DE CLASE CAZADOR",
+                    "KIT DE CLASE DE CAZADOR",
+                    "ENSEMBLE DE CHASSEUR",
+                    "SET DI CLASSE CACCIATORE",
+                    "クラスセット（ハンター）",
+                    "직업 세트 사냥꾼",
+                    "ZESTAW KLASOWY ŁOWCY",
+                    "CONJUNTO DE CLASSE CAÇADOR",
+                    "КЛАССОВЫЙ НАБОР (ОХОТНИК)",
+                    "ชุดคลาสฮันเตอร์",
+                    "职业系列：猎人",
+                    "職業系列獵人"
+                ],
+                "m_locId": 2947557
+            },
+            "m_hideOnClient": 0
+        },
+        {
+            "m_ID": 125,
+            "m_deckId": 5990,
+            "m_boosterId": 1030,
+            "m_goldenName": {
+                "m_locValues": [
+                    "CLASS SET MAGE",
+                    "KLASSENSET: MAGIER",
+                    "CONJUNTO DE CLASE MAGO",
+                    "KIT DE CLASE DE MAGO",
+                    "ENSEMBLE DE MAGE",
+                    "SET DI CLASSE MAGO",
+                    "クラスセット（メイジ）",
+                    "직업 세트 마법사",
+                    "ZESTAW KLASOWY MAGA",
+                    "CONJUNTO DE CLASSE MAGO",
+                    "КЛАССОВЫЙ НАБОР (МАГ)",
+                    "ชุดคลาสเมจ",
+                    "职业系列：法师",
+                    "職業系列法師"
+                ],
+                "m_locId": 2947558
+            },
+            "m_hideOnClient": 0
+        },
+        {
+            "m_ID": 126,
+            "m_deckId": 5991,
+            "m_boosterId": 1030,
+            "m_goldenName": {
+                "m_locValues": [
+                    "CLASS SET PALADIN",
+                    "KLASSENSET: PALADIN",
+                    "CONJUNTO DE CLASE PALADÍN",
+                    "KIT DE CLASE DE PALADÍN",
+                    "ENSEMBLE DE PALADIN",
+                    "SET DI CLASSE PALADINO",
+                    "クラスセット（パラディン）",
+                    "직업 세트 성기사",
+                    "ZESTAW KLASOWY PALADYNA",
+                    "CONJUNTO DE CLASSE PALADINO",
+                    "КЛАССОВЫЙ НАБОР (ПАЛАДИН)",
+                    "ชุดคลาสพาลาดิน",
+                    "职业系列：圣骑士",
+                    "職業系列聖騎士"
+                ],
+                "m_locId": 2947559
+            },
+            "m_hideOnClient": 0
+        },
+        {
+            "m_ID": 127,
+            "m_deckId": 5992,
+            "m_boosterId": 1030,
+            "m_goldenName": {
+                "m_locValues": [
+                    "[PH] Age of Peace Class Sets",
+                    "[PH] Klassensets Ära des Friedens",
+                    "[PH] Age of Peace Class Sets",
+                    "[PH] Age of Peace Class Sets",
+                    "Ensembles de l’ère de paix",
+                    "[PH] Set di classe Era di Pace",
+                    "[PH]平和の時代クラスセット",
+                    "평화의 시대 직업 세트",
+                    "[PH] Zestawy klasowe z Czasu pokoju",
+                    "[PH] Conjuntos de Classe Era de Paz",
+                    "[PH] Age of Peace Class Sets",
+                    "ชุดคลาสยุคแห่งสันติภาพ",
+                    "和平时代职业系列",
+                    "[PH] 和平時代職業系列"
+                ],
+                "m_locId": 2947657
+            },
+            "m_hideOnClient": 0
+        },
+        {
             "m_ID": 16,
             "m_deckId": 3454,
             "m_boosterId": 553,

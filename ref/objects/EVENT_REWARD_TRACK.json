@@ -3856,6 +3856,68 @@
         },
         {
             "m_ID": 0,
+            "m_specialEventId": 69,
+            "m_eventRewardTrackId": 168,
+            "m_choiceConfirmationText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_shortConclusion": {
+                "m_locValues": [
+                    "Our Gratitude to You, Champion!",
+                    "Unser Dank gebührt Euch, Champion!",
+                    "¡Te estamos muy agradecidos, adalid!",
+                    "¡Tienes nuestro agradecimiento, adalid!",
+                    "Nous vous remercions !",
+                    "Hai la nostra gratitudine!",
+                    "勇者よ、感謝する！",
+                    "고맙다, 용사여!",
+                    "Przyjmij nasze podziękowania!",
+                    "Nossa gratidão a você, combatente!",
+                    "Мы признательны тебе за помощь!",
+                    "เราขอขอบคุณเจ้านะ แชมเปี้ยน!",
+                    "向你致谢，勇士！",
+                    "感謝你，勇士！"
+                ],
+                "m_locId": 2947763
+            },
+            "m_longConclusion": {
+                "m_locValues": [
+                    "The Sanctum is more than a strategic asset in the war against Deathwing, it is our young and the future of the Red Dragonflight; indeed, it is the future of the whole of Azeroth.\n\n - <i>Alexstrasza</i>",
+                    "Das Sanktum ist nicht einfach nur von strategischer Bedeutung im Krieg gegen Todesschwinge, hier sind unsere Jungen, es ist die Zukunft des roten Drachenschwarms, wenn nicht gar die Zukunft von ganz Azeroth.\n\n – <i>Alexstrasza</i>",
+                    "El Sagrario no es solo un recurso estratégico en la guerra contra Alamuerte. Allí se encuentra nuestra juventud, el futuro del Vuelo Rojo y, en definitiva, el futuro de todo Azeroth.\n\n -<i>Alexstrasza</i>",
+                    "El Sagrario es más que un recurso estratégico en nuestra guerra contra Alamuerte: es la vida de nuestros jóvenes y el futuro del Vuelo Rojo. De hecho, es el futuro de todo Azeroth.\n\n - <i>Alexstrasza</i>",
+                    "Le sanctum est plus qu’un simple atout stratégique dans la guerre contre Aile de mort : il abrite nos jeunes dragons et représente l’avenir du Vol rouge… voire l’avenir de tout Azeroth.\n\n – <i>Alexstrasza</i>",
+                    "Il Santuario è più di una risorsa strategica nella guerra contro Alamorte, è la nostra promessa e il futuro dello Stormo dei Draghi Rossi. Sì, è il futuro di tutta Azeroth.\n\n - <i>Alexstrasza</i>",
+                    "聖域は、デスウィングとの戦いにおいて戦略的に重要なだけではない。レッドドラゴン族の幼い命と未来、いや、アゼロス全土の未来でもあるのだ。\n\n - <i>アレクストラーザ</i>",
+                    "성소는 데스윙과의 전투에서 단순한 전략적인 자산만이 아니다. 우리의 후세이자 붉은용군단의 미래이지. 사실상 아제로스 전체의 미래라 봐야겠다.\n\n - <i>알렉스트라자</i>",
+                    "Sanktuarium to coś więcej niż strategiczny atut w wojnie ze Śmiercioskrzydłym – to nasze młode i przyszłość czerwonych smoków. Od niego zależą losy całego Azeroth.\n\n – <i>Alexstraza</i>",
+                    "O Sacrário Rubi é mais do que um mero recurso estratégico na luta contra Asa da Morte. Representa os nossos jovens e o futuro da Revoada Dragônica Vermelha — de fato, o futuro de Azeroth como um todo.\n\n - <i>Alexstrasza</i>",
+                    "Рубиновое святилище — не просто стратегически важная область в войне против Смертокрыла. Там живет наше потомство: залог будущего красных драконов и всего Азерота.\n\n - <i>Алекстраза</i>",
+                    "แซงค์ทัมไม่ได้เป็นเพียงสถานที่สำคัญสำหรับ\nศึกต้านเดธวิง แต่ยังสำคัญสำหรับมังกรวัยเยาว์\nที่จะมาเป็นอนาคตของเรดดราก้อนไฟลท์ด้วย\nจะเรียกที่แห่งนี้เป็นอนาคตของโลกอาเซรอธก็ว่าได้\n- <i>อเล็กสตราสซา</i>",
+                    "红玉圣殿不只是对抗死亡之翼时的战略要地，更关系着红龙军团，乃至整个艾泽拉斯的未来。\n\n - <i>阿莱克丝塔萨</i>",
+                    "晶紅聖所不僅僅是對抗死亡之翼的戰略資產，它更是我們的年輕世代與紅龍軍團的未來。應該說，它就是整個艾澤拉斯的未來。\n\n - <i>雅立史卓莎</i>"
+                ],
+                "m_locId": 2947764
+            }
+        },
+        {
+            "m_ID": 0,
             "m_specialEventId": 7,
             "m_eventRewardTrackId": 52,
             "m_choiceConfirmationText": {
@@ -3914,6 +3976,68 @@
                     "這場演唱會或許結束了，但是音樂會永遠留在心中！"
                 ],
                 "m_locId": 2871749
+            }
+        },
+        {
+            "m_ID": 0,
+            "m_specialEventId": 70,
+            "m_eventRewardTrackId": 169,
+            "m_choiceConfirmationText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_shortConclusion": {
+                "m_locValues": [
+                    "It is Done!",
+                    "Es ist vollbracht!",
+                    "¡Se acabó!",
+                    "¡Ya está!",
+                    "C’est terminé !",
+                    "È fatta!",
+                    "終わった！",
+                    "끝났다!",
+                    "Dokonało się!",
+                    "Está feito!",
+                    "Вот и все!",
+                    "เรียบร้อยแล้ว!",
+                    "大功告成！",
+                    "結束了！"
+                ],
+                "m_locId": 2948751
+            },
+            "m_longConclusion": {
+                "m_locValues": [
+                    "Our battle has left its scars on the land, and remnants of\nDeathwing's forces prowl Azeroth still.\nBut the threat of another timeline burned beneath the\nshadow of his wings – that is ended. This world has been saved.\nThe task that remains now is to heal it.\nBut we will meet this challenge as we always have – together.",
+                    "Unser Kampf hat das Land gezeichnet und einige von Todesschwinges Dienern streifen noch immer durch Azeroth.\nDoch die Gefahr, dass eine weitere Zeitlinie im Schatten seiner Schwingen brennt, ist gebannt. Diese Welt ist gerettet.\nNun ist es an uns, sie zu heilen.\nDoch wir werden diese Herausforderung ebenso meistern wie alle anderen_– gemeinsam.",
+                    "Nuestra batalla ha dejado sus estragos en la tierra, y los que quedan\nde las huestes de Alamuerte siguen recorriendo Azeroth.\nPero la amenaza de otra línea temporal que ardía a la sombra\nde sus alas ha terminado. El mundo está a salvo.\nAhora llega el momento de sanarlo,\ny este desafío lo acometeremos como hemos hecho siempre: todos juntos.",
+                    "Nuestra batalla dejó cicatrices en la tierra, y los restos de\nlas fuerzas de Alamuerte aún acechan Azeroth.\nPero la amenaza de otra línea temporal incendiada\nbajo las sombras de sus alas ya no existe. Este mundo está salvado.\nAhora resta sanarlo.\nPero enfrentaremos este desafío como siempre lo hemos hecho: unidos.",
+                    "Notre combat a laissé des traces sur le continent, et les dernières troupes d’Aile de mort parcourent encore Azeroth.\nMais la menace d’une autre ligne temporelle, qui couvait dans l’ombre de ses ailes, a pris fin.\nCe monde a été sauvé. Il nous reste désormais à le guérir.\nMais nous relèverons ce défi comme nous l’avons toujours fait : ensemble.",
+                    "Il paesaggio è attraversato dalle cicatrici lasciate dal nostro scontro\ne ciò che resta delle forze di Alamorte continua a vagare per Azeroth.\nMa la minaccia di un'altra linea temporale impressa a fuoco\ndall'ombra delle sue ali... Quella è ormai un lontano ricordo. Il mondo è salvo.\nOra non resta altro che sanarlo.\nMa affronteremo questa sfida come abbiamo sempre fatto, insieme.",
+                    "激しい戦いによって大地に大きな傷が残り、\nデスウィングの軍勢の残党が今もアゼロスをさまよっている。\nだが、翼の影に揺らいでいた別の時間線の脅威は去った。\n世界は救われたんだ。\nこれからの使命は世界を癒すことだ。\n今までのように、この試練を共に乗り越えよう。",
+                    "우리의 전투는 이 땅에 상흔을 남겼고, 데스윙 세력의\n잔당이 아직도 아제로스를 배회하고 있다.\n하지만 그의 날개 그림자 아래에서 타오르던 다른 시간선의 위협은\n이제 끝이 났지. 이 세상은 무사하다.\n이제 남은 일은 세상을 치유하는 것이다.\n하지만 우리는 이 난관에 함께 맞설 것이다. 언제나 그랬듯이, 함께.",
+                    "Po stoczonej bitwie krajobraz poorany jest bruzdami,\na niedobitki armii Śmiercioskrzydłego wciąż panoszą się po okolicy.\nJednak zagrożenie związane z inną linią czasową\nskrytą w cieniu jego skrzydeł zostało zażegnane.\nŚwiat jest ocalony. Teraz musimy go uleczyć.\nPodejmiemy się tego zadania tak, jak robimy wszystko inne – razem.",
+                    "Nossa batalha deixou cicatrizes na terra, e vestígios das\nforças de Asa da Morte ainda rondam Azeroth.\nMas a ameaça de outra linha temporal que ardia à\nsombra de suas asas chegou ao fim. Este mundo foi salvo.\nA tarefa que resta agora é curá-lo.\nMas enfrentaremos o desafio como sempre fizemos: juntos.",
+                    "Азерот истерзан войной, а по его землям рыскают\nоставшиеся бойцы Смертокрыла.\nНо под тенью его крыльев не сгорит еще одна вселенная.\nЭтот мир спасен.\nТеперь наша задача — исцелить его.\nНо мы преодолеем это испытание, как и другие: все вместе.",
+                    "การต่อสู้ของเราทิ้งบาดแผลบนดินแดน และเศษซากของกองทัพ\nของเดธวิงยังคงเดินดินบนอาเซรอธ แต่หายนะที่จะแผดเผา\nมิติเวลาของเราใต้เงาปีกของเขา... มันจบลงแล้ว เราช่วยโลกนี้\nได้สำเร็จ งานที่เหลือตอนนี้ก็คือการเยียวยาโลก แต่ก็ถือเป็นแค่\nอีกหนึ่งอุปสรรคที่เราสามารถก้าวข้ามได้... เพียงร่วมมือกัน",
+                    "大地在我们的战斗中裂变，\n死亡之翼的爪牙仍在艾泽拉斯游荡。\n然而在他双翼的阴影之下，\n来自另一条时间线的威胁已成灰烬。\n我们的世界得救了，现在的任务，是治愈这个世界。\n无论今后还有什么困难，我们都会一如既往——共同面对。",
+                    "我們的戰鬥在大地上留下了無數傷痕，而死亡之翼的\n殘餘勢力依然在艾澤拉斯徘徊。\n不過，另一條時間線在他雙翼的陰影下燃燒殆盡的\n威脅算是解除了。這個世界得救了。\n接下來的任務便是治癒它。\n但我們會像往常一樣，共同面對這項挑戰。"
+                ],
+                "m_locId": 2948752
             }
         },
         {

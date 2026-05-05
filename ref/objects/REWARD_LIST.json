@@ -52854,19 +52854,19 @@
             "m_description": {
                 "m_locValues": [
                     "Cataclysmic (Rare Strike)",
-                    "Freiheitskämpfer (seltener Angriff)",
-                    "Combatientes por la libertad (asalto poco común)",
-                    "Combatientes de la resistencia (Azote raro)",
-                    "Combat pour la liberté (frappe rare)",
-                    "Combattenti per la Libertà (Colpo Raro)",
-                    "自由の闘士（レアストライク）",
-                    "자유의 투사 (희귀 타격 효과)",
-                    "W Imię Wolności (rzadkie zwieńczenie)",
-                    "Defensores da Liberdade (Ataque Raro)",
-                    "Борцы за свободу (редкий удар)",
-                    "นักสู้เพื่ออิสรภาพ (ท่าโจมตีระดับหายาก)",
-                    "自由斗士（稀有打击特效）",
-                    "自由鬥士(精良攻擊特效)"
+                    "Kataklysmisch (seltener Angriff)",
+                    "Cataclísmico (asalto poco común)",
+                    "Cataclísmico (Azote raro)",
+                    "Cataclysmique (frappe rare)",
+                    "Cataclismico (Colpo Raro)",
+                    "終焉（レアストライク）",
+                    "대격변 (희귀 타격 효과)",
+                    "Cios Kataklizmu (rzadkie zwieńczenie)",
+                    "Cataclísmico (Ataque Raro)",
+                    "Удар Катаклизма (редкий удар)",
+                    "มหาวินาศภัย (ท่าโจมตีระดับหายาก)",
+                    "大地裂变（稀有打击特效）",
+                    "浩劫(精良攻擊特效)"
                 ],
                 "m_locId": 2946705
             },
@@ -53259,19 +53259,19 @@
             "m_description": {
                 "m_locValues": [
                     "Cataclysmic (Epic Strike)",
-                    "Freiheitskämpfer (epischer Angriff)",
-                    "Combatientes por la libertad (asalto épico)",
-                    "Combatientes de la resistencia (Azote épico)",
-                    "Combat pour la liberté (frappe épique)",
-                    "Combattenti per la Libertà (Colpo Epico)",
-                    "自由の闘士（エピックストライク）",
-                    "자유의 투사 (특급 타격 효과)",
-                    "W Imię Wolności (epickie zwieńczenie)",
-                    "Defensores da Liberdade (Ataque Épico)",
-                    "Борцы за свободу (эпический удар)",
-                    "นักสู้เพื่ออิสรภาพ (ท่าโจมตีระดับสุดยอด)",
-                    "自由斗士（史诗打击特效）",
-                    "自由鬥士(史詩攻擊特效)"
+                    "Kataklysmisch (epischer Angriff)",
+                    "Cataclísmico (asalto épico)",
+                    "Cataclísmico (Azote épico)",
+                    "Cataclysmique (frappe épique)",
+                    "Cataclismico (Colpo Epico)",
+                    "終焉（エピックストライク）",
+                    "대격변 (특급 타격 효과)",
+                    "Cios Kataklizmu (epickie zwieńczenie)",
+                    "Cataclísmico (Ataque Épico)",
+                    "Удар Катаклизма (эпический удар)",
+                    "มหาวินาศภัย (ท่าโจมตีระดับสุดยอด)",
+                    "大地裂变（史诗打击特效）",
+                    "浩劫(史詩攻擊特效)"
                 ],
                 "m_locId": 2946717
             },
@@ -53583,19 +53583,19 @@
             "m_description": {
                 "m_locValues": [
                     "Cataclysmic (Legendary Strike)",
-                    "Freiheitskämpfer (legendärer Angriff)",
-                    "Combatientes por la libertad (asalto legendario)",
-                    "Combatientes de la resistencia (Azote legendario)",
-                    "Combat pour la liberté (frappe légendaire)",
-                    "Combattenti per la Libertà (Colpo Leggendario)",
-                    "自由の闘士（レジェンドストライク）",
-                    "자유의 투사 (전설 타격 효과)",
-                    "W Imię Wolności (legendarne zwieńczenie)",
-                    "Defensores da Liberdade (Ataque Lendário)",
-                    "Борцы за свободу (легендарный удар)",
-                    "นักสู้เพื่ออิสรภาพ (ท่าโจมตีระดับตำนาน)",
-                    "自由斗士（传说打击特效）",
-                    "自由鬥士(傳說攻擊特效)"
+                    "Kataklysmisch (legendärer Angriff)",
+                    "Cataclísmico (asalto legendario)",
+                    "Cataclísmico (Azote legendario)",
+                    "Cataclysmique (frappe légendaire)",
+                    "Cataclismico (Colpo Leggendario)",
+                    "終焉（レジェンドストライク）",
+                    "대격변 (전설 타격 효과)",
+                    "Cios Kataklizmu (legendarne zwieńczenie)",
+                    "Cataclísmico (Ataque Lendário)",
+                    "Удар Катаклизма (легендарный удар)",
+                    "มหาวินาศภัย (ท่าโจมตีระดับตำนาน)",
+                    "大地裂变（传说打击特效）",
+                    "浩劫(傳說攻擊特效)"
                 ],
                 "m_locId": 2946736
             },
@@ -53976,6 +53976,411 @@
                     "火源之界瑪法里恩英雄造型、薩弗拉斯幸運幣、\n2x《浩劫與重生》黃金卡牌包"
                 ],
                 "m_locId": 2947378
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3340,
+            "m_description": {
+                "m_locValues": [
+                    "2x Signature Sleet Storm",
+                    "2x markante Karte Graupelsturm",
+                    "2x Tormenta de granizo distintiva",
+                    "2 Tormenta de granizo insignia",
+                    "Carte signature Tempête de grêle ×2",
+                    "2 Tempesta di Grandine Pregiate",
+                    "シグネチャー「みぞれ嵐」x2",
+                    "간판 진눈깨비 폭풍 2장",
+                    "2 x specjalna karta Śnieżna zawierucha",
+                    "2x Tempestade de Granizo Exclusivo",
+                    "2 особые карты «Ледяной дождь»",
+                    "2x พายุฝนน้ำแข็งซิกเนเจอร์",
+                    "2张异画激寒急流",
+                    "2x 珍藏冰雨風暴"
+                ],
+                "m_locId": 2947728
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3341,
+            "m_description": {
+                "m_locValues": [
+                    "2x Signature Raincaller",
+                    "2 x markante Karte Regenrufer",
+                    "2x Clamalluvias distintiva",
+                    "2 Clamalluvias insignia",
+                    "Carte signature Invocateur de pluie ×2",
+                    "2 Invocapioggia Pregiate",
+                    "シグネチャー「雨を招く者」x2",
+                    "간판 풍수사 2장",
+                    "2 x specjalna karta Przywoływacz deszczu",
+                    "2x Clamachuva Exclusivo",
+                    "2 особые карты «Заклинатель дождя»",
+                    "2x ผู้เรียกฝนซิกเนเจอร์",
+                    "2张异画祈雨元素",
+                    "2x 珍藏喚雨者"
+                ],
+                "m_locId": 2947729
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3342,
+            "m_description": {
+                "m_locValues": [
+                    "2x Signature Unstable Spellcaster",
+                    "2x markante Karte Instabiler Zauberwirker",
+                    "2x Lanzahechizos inestable distintiva",
+                    "2 Taumaturgo inestable insignia",
+                    "Carte signature Lanceur de sorts instable x2",
+                    "2 Lanciamagie Mutevole Pregiate",
+                    "シグネチャー「不安定な呪文使い」x2",
+                    "간판 불안정한 주문술사 2장",
+                    "2 x specjalna karta Niestabilny zaklinacz",
+                    "2x Lançador de Feitiços Instável Exclusivo",
+                    "2 особые карты «Нестабильный заклинатель»",
+                    "2x จอมเวทไม่เสถียรซิกเนเจอร์",
+                    "2张异画不稳定的施法者",
+                    "2x 珍藏不穩定的施法者"
+                ],
+                "m_locId": 2947730
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3343,
+            "m_description": {
+                "m_locValues": [
+                    "Gazlowe Hero Set",
+                    "Heldenpaket: Gazlowe",
+                    "Conjunto de héroe de Gazlowe",
+                    "Kit de héroe de Gazlowe",
+                    "Ensemble héroïque Gazleu",
+                    "Set eroe Sparachiodi",
+                    "ヒーローセット「ガズロウ」",
+                    "가즈로 영웅 세트",
+                    "Zestaw bohaterski Gazola",
+                    "Conjunto de Herói Gasganete",
+                    "Набор «Газлоу»",
+                    "ชุดฮีโร่กาซโลว์",
+                    "备选英雄加兹鲁维",
+                    "加茲魯維英雄禮包"
+                ],
+                "m_locId": 2947731
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3344,
+            "m_description": {
+                "m_locValues": [
+                    "Signature The Arcanomicon",
+                    "Markante Karte Das Arkanomikon",
+                    "Arcanomicón distintiva",
+                    "El Arcanomicón insignia",
+                    "Carte signature L’Arcanomicon",
+                    "L'Arcanomicon Pregiata",
+                    "シグネチャー「アーカノミコン」",
+                    "간판 신비의 지도",
+                    "Specjalna karta Arcanomicon",
+                    "O Arcanomicon Exclusivo",
+                    "Особая карта «Чаромикон»",
+                    "อาร์เคโนมิคอนซิกเนเจอร์",
+                    "异画魔网地图",
+                    "珍藏奧輿全覽圖"
+                ],
+                "m_locId": 2947732
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3345,
+            "m_description": {
+                "m_locValues": [
+                    "Signature Bashana Runetotem",
+                    "Markante Karte Bashana Runentotem",
+                    "Bashana Tótem de Runa distintiva",
+                    "Bashana Tótem de Runa insignia",
+                    "Carte signature Bashana Totem-Runique",
+                    "Bashana Totem Runico Pregiata",
+                    "シグネチャー「バシャナ・ルーントーテム」",
+                    "간판 바샤나 룬토템",
+                    "Specjalna karta Baszana Runiczny Totem",
+                    "Bashana Runa Totem Exclusivo",
+                    "Особая карта «Башана Рунический Тотем»",
+                    "บาชานา รูนโทเท็มซิกเนเจอร์",
+                    "异画巴珊娜·符文图腾",
+                    "珍藏巴珊娜‧符文圖騰"
+                ],
+                "m_locId": 2947733
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3346,
+            "m_description": {
+                "m_locValues": [
+                    "Mythic Hero Skin - Dragonqueen Alexstrasza",
+                    "Mythischer Heldenskin – Drachenkönigin Alexstrasza",
+                    "Aspecto de héroe mítico - Reina dragón Alexstrasza",
+                    "Diseño de heroína mítico: Reina de dragones Alexstrasza",
+                    "Modèle héroïque mythique : Reine-dragon Alexstrasza",
+                    "Modello eroe Mitico - Regina Alexstrasza",
+                    "ミシックヒーロースキン - 竜の女王アレクストラーザ",
+                    "신화 영웅 스킨 - 용의 여왕 알렉스트라자",
+                    "Mityczna skórka bohatera – Smocza Królowa Alexstraza",
+                    "Visual de herói mítico - Rainha Dragonesa Alexstrasza",
+                    "Эпохальный облик героя «Королева Алекстраза»",
+                    "สกินฮีโร่ระดับมิทธิค - ราชินีมังกรอเล็กสตราสซา",
+                    "神话英雄皮肤 - 红龙女王阿莱克丝塔萨",
+                    "傳奇英雄造型：『龍后』雅立史卓莎"
+                ],
+                "m_locId": 2947734
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3347,
+            "m_description": {
+                "m_locValues": [
+                    "1x Druid Card Pack",
+                    "1x Druidenpackung",
+                    "1x sobre de druida",
+                    "1 paquete de cartas de Druida",
+                    "Paquet de cartes de druide ×1",
+                    "1 busta del Druido",
+                    "ドルイドカードパック1個",
+                    "드루이드 카드 팩 1개",
+                    "1 x pakiet kart druida",
+                    "1x pacote de cards de Druida",
+                    "1 комплект карт друида",
+                    "1x ซองการ์ดดรูอิด",
+                    "1包德鲁伊卡牌包",
+                    "1包德魯伊卡牌包"
+                ],
+                "m_locId": 2948201
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3348,
+            "m_description": {
+                "m_locValues": [
+                    "1x Hunter Card Pack",
+                    "1x Jägerpackung",
+                    "1x sobre de cazador",
+                    "1 paquete de cartas de Cazador",
+                    "Paquet de cartes de chasseur ×1",
+                    "1 busta del Cacciatore",
+                    "ハンターカードパック1個",
+                    "사냥꾼 카드 팩 1개",
+                    "1 x pakiet kart łowcy",
+                    "1x pacote de cards de Caçador",
+                    "1 комплект карт охотника",
+                    "1x ซองการ์ดฮันเตอร์",
+                    "1包猎人卡牌包",
+                    "1包獵人卡牌包"
+                ],
+                "m_locId": 2948202
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3349,
+            "m_description": {
+                "m_locValues": [
+                    "1x Mage Card Pack and 1x Tavern Ticket",
+                    "1x Magierpackung und 1x Gasthauszugang",
+                    "1x sobre de mago y 1x entrada de taberna",
+                    "1 paquete de cartas de Mago y 1 boleto de la Taberna",
+                    "Paquet de cartes de mage ×1 et admission pour la taverne ×1",
+                    "1 busta del Mago e 1 Biglietto Locanda",
+                    "メイジカードパック1個、酒場チケット1枚",
+                    "마법사 카드 팩 1개와 선술집 입장권 1장",
+                    "1 x pakiet kart maga i 1 x bilet do Karczmy",
+                    "1x pacote de cards de Mago e 1x Ingresso da Taverna",
+                    "1 комплект карт мага и 1 пропуск в таверну",
+                    "1x ซองการ์ดเมจ และ 1x บัตรโรงเตี๊ยม",
+                    "1包法师卡牌包和1张旅店通票",
+                    "1包法師卡牌包和1張旅店門票"
+                ],
+                "m_locId": 2948203
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3350,
+            "m_description": {
+                "m_locValues": [
+                    "1x Paladin Card Pack and 1x Tavern Ticket",
+                    "1x Paladinpackung und 1x Gasthauszugang",
+                    "1x sobre de paladín y 1x entrada de taberna",
+                    "1 paquete de cartas de Paladín y 1 boleto de la Taberna",
+                    "Paquet de cartes de paladin ×1 et admission pour la taverne ×1",
+                    "1 busta del Paladino e 1 Biglietto Locanda",
+                    "パラディンカードパック1個、酒場チケット1枚",
+                    "성기사 카드 팩 1개와 선술집 입장권 1장",
+                    "1 x pakiet kart paladyna i 1 x bilet do Karczmy",
+                    "1x pacote de cards de Paladino e 1x Ingresso da Taverna",
+                    "1 комплект карт паладина и 1 пропуск в таверну",
+                    "1x ซองการ์ดพาลาดิน และ 1x บัตรโรงเตี๊ยม",
+                    "1包圣骑士卡牌包和1张旅店通票",
+                    "1包聖騎士卡牌包和1張旅店門票"
+                ],
+                "m_locId": 2948204
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3351,
+            "m_description": {
+                "m_locValues": [
+                    "1x Dragon Soul, Shattered, 1x Mage Pack",
+                    "1x Zerschlagene Drachenseele, 1x Magierpackung",
+                    "1x Alma de Dragón Destrozada, 1x sobre de mago",
+                    "1 Alma de dragón, destrozada, 1 paquete de Mago",
+                    "Carte Âme de dragon fracassée ×1, paquet de classe mage ×1",
+                    "1 Anima del Drago, Spaccata, 1 busta del Mago",
+                    "「粉砕されたドラゴンソウル」1枚、メイジパック1個",
+                    "조각난 용의 영혼 1장, 마법사 팩 1개",
+                    "1 x Strzaskana Smocza Dusza, 1 x pakiet maga",
+                    "1x Alma Dragônica, Partida; 1x Pacote de Mago",
+                    "1 карта «Расколотая Душа Дракона», 1 комплект карт мага",
+                    "1x ดวงจิตมังกรแยกส่วน, 1x ซองการ์ดเมจ",
+                    "1张破碎的巨龙之魂，1包法师卡牌包",
+                    "1x 碎裂的巨龍之魂、1x 法師卡牌包"
+                ],
+                "m_locId": 2948753
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3352,
+            "m_description": {
+                "m_locValues": [
+                    "1x Druid Pack, 1x Hunter Pack",
+                    "1x Druidenpackung, 1x Jägerpackung",
+                    "1x sobre de druida, 1x sobre de cazador",
+                    "1 paquete de Druida, 1 paquete de Cazador",
+                    "Paquet de classe druide ×1, paquet de classe chasseur ×1",
+                    "1 busta del Druido, 1 busta del Cacciatore",
+                    "ドルイドパック1個、ハンターパック1個",
+                    "드루이드 팩 1개, 사냥꾼 팩 1개",
+                    "1 x pakiet druida, 1 x pakiet łowcy",
+                    "1x Pacote de Druida; 1x Pacote de Caçador",
+                    "1 комплект карт друида, 1 комплект карт охотника",
+                    "1x ซองการ์ดดรูอิด, 1x ซองการ์ดฮันเตอร์",
+                    "1包德鲁伊卡牌包，1包猎人卡牌包",
+                    "1x 德魯伊卡牌包、1x 獵人卡牌包"
+                ],
+                "m_locId": 2948754
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3353,
+            "m_description": {
+                "m_locValues": [
+                    "Raid Finder Card Back, 1x Paladin Pack",
+                    "Kartenrücken Schlachtzugsbrowser, 1x Paladinpackung",
+                    "Dorso de carta de Buscador de bandas, 1x sobre de paladín",
+                    "Dorso de carta Buscador de bandas, 1 paquete de Paladín",
+                    "Dos de carte Outil Raids, paquet de classe paladin ×1",
+                    "Dorso Ricerca delle Incursioni, 1 busta del Paladino",
+                    "カード裏面デザイン「レイドファインダー」、パラディンパック1個",
+                    "공격대 찾기 카드 뒷면, 성기사 팩 1개",
+                    "Rewers Wyszukiwarka rajdów, 1 x pakiet paladyna",
+                    "Verso de card Localizador de Raides; 1x pacote de Paladino",
+                    "Рубашка «Поиск рейда», 1 комплект карт паладина",
+                    "หลังการ์ดเรดไฟน์เดอร์, 1x ซองการ์ดพาลาดิน",
+                    "随机团队卡背图案，1包圣骑士卡牌包",
+                    "隨機團隊卡背、1x 聖騎士卡牌包"
+                ],
+                "m_locId": 2948755
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3354,
+            "m_description": {
+                "m_locValues": [
+                    "1x Golden Dragon Soul, Shattered, 1x Golden CATACLYSM Card Pack\nValor Point Coin",
+                    "1x goldene Zerschlagene Drachenseele, 1x goldene Kartenpackung aus KATAKLYSMUS\nMünze der Tapferkeitspunkte",
+                    "1x Alma de Dragón Destrozada dorada, 1x sobre dorado de EL CATACLISMO\nMoneda de puntos de valor",
+                    "1 Alma de dragón, destrozada dorada, 1 paquete de cartas dorado de CATACLISMO\nMoneda de punto de valor",
+                    "Carte dorée Âme de dragon fracassée ×1,\npaquet de cartes dorées de CATACLYSME ×1,\npièce point de vaillance",
+                    "1 Anima del Drago Dorata, Spaccata, 1 busta Dorata di CATACLISMA\nMoneta Punto Valore",
+                    "ゴールデン「粉砕されたドラゴンソウル」1枚、「終焉のアゼロス」ゴールデンカードパック1個\nヴァラーポイント・コイン",
+                    "황금 조각난 용의 영혼 1장, 황금 대격변 카드 팩 1개\n용맹 점수 동전",
+                    "1 x złota Strzaskana Smocza Dusza, 1 x złoty pakiet kart KATAKLIZMU\nMoneta z punktem Odwagi",
+                    "1x Alma Dragônica, Partida, Dourado; 1x pacote de cards Dourado de CATACLISMO\nMoeda de Ponto de Bravura",
+                    "1 золотая карта «Расколотая Душа Дракона», 1 золотой комплект карт дополнения «КАТАКЛИЗМ»\nМонетка очков доблести",
+                    "1x ดวงจิตมังกรแยกส่วนสีทอง, 1x ซองการ์ด CATACLYSM สีทอง\nเหรียญวาเลอร์พอยต์",
+                    "1张金色破碎的巨龙之魂，1包大地的裂变金色包\n勇气点数幸运币",
+                    "1x 碎裂的巨龍之魂金卡、1x 《浩劫與重生》黃金卡牌包\n勇氣點數幸運幣"
+                ],
+                "m_locId": 2948756
             },
             "m_chooseOne": 0,
             "m_random": 0,

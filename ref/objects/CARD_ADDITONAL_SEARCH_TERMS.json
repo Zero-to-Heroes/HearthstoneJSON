@@ -172,29 +172,6 @@
             }
         },
         {
-            "m_ID": 10,
-            "m_cardId": 48542,
-            "m_searchTerm": {
-                "m_locValues": [
-                    "dyno",
-                    "dyno",
-                    "dino",
-                    "dina",
-                    "dyno",
-                    "dino",
-                    "dyno",
-                    "폭격",
-                    "dino",
-                    "dina",
-                    "взрыво",
-                    "ไดโน",
-                    "掷弹",
-                    "dyno"
-                ],
-                "m_locId": 2720373
-            }
-        },
-        {
             "m_ID": 75,
             "m_cardId": 107923,
             "m_searchTerm": {
@@ -218,72 +195,26 @@
             }
         },
         {
-            "m_ID": 11,
-            "m_cardId": 49172,
+            "m_ID": 61,
+            "m_cardId": 71235,
             "m_searchTerm": {
                 "m_locValues": [
-                    "emp",
-                    "emp",
-                    "pem",
-                    "pem",
-                    "iem",
-                    "elettromagnetica",
-                    "emp",
-                    "이엠피",
-                    "elektromag",
-                    "pem",
-                    "эмп",
-                    "emp",
-                    "EMP",
-                    "emp"
+                    "Deathrattle",
+                    "Todesröcheln",
+                    "Último aliento",
+                    "Estertor",
+                    "Râle d’agonie",
+                    "Rantolo di Morte",
+                    "断末魔",
+                    "죽음의 메아리",
+                    "Agonia",
+                    "Último Suspiro",
+                    "Предсмертный хрип",
+                    "เสียงสุดท้าย",
+                    "亡语",
+                    "死亡之聲"
                 ],
-                "m_locId": 2720374
-            }
-        },
-        {
-            "m_ID": 103,
-            "m_cardId": 119451,
-            "m_searchTerm": {
-                "m_locValues": [
-                    "Broll, Blood Fighter",
-                    "Blutkämpfer Broll",
-                    "Broll Luchador de Sangre",
-                    "Broll, Luchador de sangre",
-                    "Broll, combattant du sang",
-                    "Broll, Combattente del Sangue",
-                    "血の戦士ブロール",
-                    "피의 투사 브롤",
-                    "Broll, Wojownik Krwi",
-                    "Broll, Lutador Sangrento",
-                    "Кровавый боец Бролл",
-                    "โบรล นักสู้นองเลือด",
-                    "血斗士布罗尔",
-                    "『鮮血鬥士』布洛"
-                ],
-                "m_locId": 2937004
-            }
-        },
-        {
-            "m_ID": 104,
-            "m_cardId": 119451,
-            "m_searchTerm": {
-                "m_locValues": [
-                    "Valeera, Blood Fighter",
-                    "Blutkämpferin Valeera",
-                    "Valeera Luchadora de Sangre",
-                    "Valeera, Luchadora de sangre",
-                    "Valeera, combattante du sang",
-                    "Valeera, Combattente del Sangue",
-                    "血の戦士ヴァリーラ",
-                    "피의 투사 발리라",
-                    "Valeera, Wojowniczka Krwi",
-                    "Valira, Lutadora Sangrenta",
-                    "Кровавый боец Валира",
-                    "วาลีร่า นักสู้นองเลือด",
-                    "血斗士瓦莉拉",
-                    "『鮮血鬥士』瓦麗拉"
-                ],
-                "m_locId": 2937005
+                "m_locId": 2890688
             }
         },
         {
@@ -494,6 +425,52 @@
             }
         },
         {
+            "m_ID": 103,
+            "m_cardId": 119451,
+            "m_searchTerm": {
+                "m_locValues": [
+                    "Broll, Blood Fighter",
+                    "Blutkämpfer Broll",
+                    "Broll Luchador de Sangre",
+                    "Broll, Luchador de sangre",
+                    "Broll, combattant du sang",
+                    "Broll, Combattente del Sangue",
+                    "血の戦士ブロール",
+                    "피의 투사 브롤",
+                    "Broll, Wojownik Krwi",
+                    "Broll, Lutador Sangrento",
+                    "Кровавый боец Бролл",
+                    "โบรล นักสู้นองเลือด",
+                    "血斗士布罗尔",
+                    "『鮮血鬥士』布洛"
+                ],
+                "m_locId": 2937004
+            }
+        },
+        {
+            "m_ID": 104,
+            "m_cardId": 119451,
+            "m_searchTerm": {
+                "m_locValues": [
+                    "Valeera, Blood Fighter",
+                    "Blutkämpferin Valeera",
+                    "Valeera Luchadora de Sangre",
+                    "Valeera, Luchadora de sangre",
+                    "Valeera, combattante du sang",
+                    "Valeera, Combattente del Sangue",
+                    "血の戦士ヴァリーラ",
+                    "피의 투사 발리라",
+                    "Valeera, Wojowniczka Krwi",
+                    "Valira, Lutadora Sangrenta",
+                    "Кровавый боец Валира",
+                    "วาลีร่า นักสู้นองเลือด",
+                    "血斗士瓦莉拉",
+                    "『鮮血鬥士』瓦麗拉"
+                ],
+                "m_locId": 2937005
+            }
+        },
+        {
             "m_ID": 101,
             "m_cardId": 119524,
             "m_searchTerm": {
@@ -629,6 +606,29 @@
                     "弒君之刃"
                 ],
                 "m_locId": 2936998
+            }
+        },
+        {
+            "m_ID": 67,
+            "m_cardId": 72651,
+            "m_searchTerm": {
+                "m_locValues": [
+                    "Deathrattle",
+                    "Todesröcheln",
+                    "Último aliento",
+                    "Estertor",
+                    "Râle d’agonie",
+                    "Rantolo di Morte",
+                    "断末魔",
+                    "죽음의 메아리",
+                    "Agonia",
+                    "Último Suspiro",
+                    "Предсмертный хрип",
+                    "เสียงสุดท้าย",
+                    "亡语",
+                    "死亡之聲"
+                ],
+                "m_locId": 2890694
             }
         },
         {
@@ -793,72 +793,26 @@
             }
         },
         {
-            "m_ID": 66,
-            "m_cardId": 64346,
+            "m_ID": 10,
+            "m_cardId": 48542,
             "m_searchTerm": {
                 "m_locValues": [
-                    "Deathrattle",
-                    "Todesröcheln",
-                    "Último aliento",
-                    "Estertor",
-                    "Râle d’agonie",
-                    "Rantolo di Morte",
-                    "断末魔",
-                    "죽음의 메아리",
-                    "Agonia",
-                    "Último Suspiro",
-                    "Предсмертный хрип",
-                    "เสียงสุดท้าย",
-                    "亡语",
-                    "死亡之聲"
+                    "dyno",
+                    "dyno",
+                    "dino",
+                    "dina",
+                    "dyno",
+                    "dino",
+                    "dyno",
+                    "폭격",
+                    "dino",
+                    "dina",
+                    "взрыво",
+                    "ไดโน",
+                    "掷弹",
+                    "dyno"
                 ],
-                "m_locId": 2890693
-            }
-        },
-        {
-            "m_ID": 65,
-            "m_cardId": 64416,
-            "m_searchTerm": {
-                "m_locValues": [
-                    "Deathrattle",
-                    "Todesröcheln",
-                    "Último aliento",
-                    "Estertor",
-                    "Râle d’agonie",
-                    "Rantolo di Morte",
-                    "断末魔",
-                    "죽음의 메아리",
-                    "Agonia",
-                    "Último Suspiro",
-                    "Предсмертный хрип",
-                    "เสียงสุดท้าย",
-                    "亡语",
-                    "死亡之聲"
-                ],
-                "m_locId": 2890692
-            }
-        },
-        {
-            "m_ID": 64,
-            "m_cardId": 64525,
-            "m_searchTerm": {
-                "m_locValues": [
-                    "Deathrattle",
-                    "Todesröcheln",
-                    "Último aliento",
-                    "Estertor",
-                    "Râle d’agonie",
-                    "Rantolo di Morte",
-                    "断末魔",
-                    "죽음의 메아리",
-                    "Agonia",
-                    "Último Suspiro",
-                    "Предсмертный хрип",
-                    "เสียงสุดท้าย",
-                    "亡语",
-                    "死亡之聲"
-                ],
-                "m_locId": 2890691
+                "m_locId": 2720373
             }
         },
         {
@@ -1000,6 +954,75 @@
             }
         },
         {
+            "m_ID": 11,
+            "m_cardId": 49172,
+            "m_searchTerm": {
+                "m_locValues": [
+                    "emp",
+                    "emp",
+                    "pem",
+                    "pem",
+                    "iem",
+                    "elettromagnetica",
+                    "emp",
+                    "이엠피",
+                    "elektromag",
+                    "pem",
+                    "эмп",
+                    "emp",
+                    "EMP",
+                    "emp"
+                ],
+                "m_locId": 2720374
+            }
+        },
+        {
+            "m_ID": 57,
+            "m_cardId": 97642,
+            "m_searchTerm": {
+                "m_locValues": [
+                    "Titan",
+                    "Titan",
+                    "Titán",
+                    "Titán",
+                    "Titan",
+                    "Titano",
+                    "タイタン",
+                    "티탄",
+                    "Tytan",
+                    "Titã",
+                    "Титан",
+                    "Titan",
+                    "泰坦",
+                    "泰坦"
+                ],
+                "m_locId": 2876473
+            }
+        },
+        {
+            "m_ID": 58,
+            "m_cardId": 97642,
+            "m_searchTerm": {
+                "m_locValues": [
+                    "titan",
+                    "titan",
+                    "titán",
+                    "titán",
+                    "titan",
+                    "titano",
+                    "タイタン",
+                    "티탄",
+                    "tytan",
+                    "titã",
+                    "титан",
+                    "titan",
+                    "泰钽",
+                    "泰坦"
+                ],
+                "m_locId": 2876474
+            }
+        },
+        {
             "m_ID": 17,
             "m_cardId": 53756,
             "m_searchTerm": {
@@ -1069,75 +1092,6 @@
             }
         },
         {
-            "m_ID": 61,
-            "m_cardId": 71235,
-            "m_searchTerm": {
-                "m_locValues": [
-                    "Deathrattle",
-                    "Todesröcheln",
-                    "Último aliento",
-                    "Estertor",
-                    "Râle d’agonie",
-                    "Rantolo di Morte",
-                    "断末魔",
-                    "죽음의 메아리",
-                    "Agonia",
-                    "Último Suspiro",
-                    "Предсмертный хрип",
-                    "เสียงสุดท้าย",
-                    "亡语",
-                    "死亡之聲"
-                ],
-                "m_locId": 2890688
-            }
-        },
-        {
-            "m_ID": 57,
-            "m_cardId": 97642,
-            "m_searchTerm": {
-                "m_locValues": [
-                    "Titan",
-                    "Titan",
-                    "Titán",
-                    "Titán",
-                    "Titan",
-                    "Titano",
-                    "タイタン",
-                    "티탄",
-                    "Tytan",
-                    "Titã",
-                    "Титан",
-                    "Titan",
-                    "泰坦",
-                    "泰坦"
-                ],
-                "m_locId": 2876473
-            }
-        },
-        {
-            "m_ID": 58,
-            "m_cardId": 97642,
-            "m_searchTerm": {
-                "m_locValues": [
-                    "titan",
-                    "titan",
-                    "titán",
-                    "titán",
-                    "titan",
-                    "titano",
-                    "タイタン",
-                    "티탄",
-                    "tytan",
-                    "titã",
-                    "титан",
-                    "titan",
-                    "泰钽",
-                    "泰坦"
-                ],
-                "m_locId": 2876474
-            }
-        },
-        {
             "m_ID": 6,
             "m_cardId": 56223,
             "m_searchTerm": {
@@ -1184,6 +1138,75 @@
             }
         },
         {
+            "m_ID": 66,
+            "m_cardId": 64346,
+            "m_searchTerm": {
+                "m_locValues": [
+                    "Deathrattle",
+                    "Todesröcheln",
+                    "Último aliento",
+                    "Estertor",
+                    "Râle d’agonie",
+                    "Rantolo di Morte",
+                    "断末魔",
+                    "죽음의 메아리",
+                    "Agonia",
+                    "Último Suspiro",
+                    "Предсмертный хрип",
+                    "เสียงสุดท้าย",
+                    "亡语",
+                    "死亡之聲"
+                ],
+                "m_locId": 2890693
+            }
+        },
+        {
+            "m_ID": 65,
+            "m_cardId": 64416,
+            "m_searchTerm": {
+                "m_locValues": [
+                    "Deathrattle",
+                    "Todesröcheln",
+                    "Último aliento",
+                    "Estertor",
+                    "Râle d’agonie",
+                    "Rantolo di Morte",
+                    "断末魔",
+                    "죽음의 메아리",
+                    "Agonia",
+                    "Último Suspiro",
+                    "Предсмертный хрип",
+                    "เสียงสุดท้าย",
+                    "亡语",
+                    "死亡之聲"
+                ],
+                "m_locId": 2890692
+            }
+        },
+        {
+            "m_ID": 64,
+            "m_cardId": 64525,
+            "m_searchTerm": {
+                "m_locValues": [
+                    "Deathrattle",
+                    "Todesröcheln",
+                    "Último aliento",
+                    "Estertor",
+                    "Râle d’agonie",
+                    "Rantolo di Morte",
+                    "断末魔",
+                    "죽음의 메아리",
+                    "Agonia",
+                    "Último Suspiro",
+                    "Предсмертный хрип",
+                    "เสียงสุดท้าย",
+                    "亡语",
+                    "死亡之聲"
+                ],
+                "m_locId": 2890691
+            }
+        },
+        {
             "m_ID": 63,
             "m_cardId": 64896,
             "m_searchTerm": {
@@ -1227,29 +1250,6 @@
                     "死亡之聲"
                 ],
                 "m_locId": 2890689
-            }
-        },
-        {
-            "m_ID": 67,
-            "m_cardId": 72651,
-            "m_searchTerm": {
-                "m_locValues": [
-                    "Deathrattle",
-                    "Todesröcheln",
-                    "Último aliento",
-                    "Estertor",
-                    "Râle d’agonie",
-                    "Rantolo di Morte",
-                    "断末魔",
-                    "죽음의 메아리",
-                    "Agonia",
-                    "Último Suspiro",
-                    "Предсмертный хрип",
-                    "เสียงสุดท้าย",
-                    "亡语",
-                    "死亡之聲"
-                ],
-                "m_locId": 2890694
             }
         }
     ]
