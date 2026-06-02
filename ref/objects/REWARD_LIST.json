@@ -2883,7 +2883,7 @@
                     "Reno, fou d’aventure (modèle de héros légendaire)",
                     "Reno il Bello dell'Avventura (Modello eroe Leggendario)",
                     "レジェンドヒーロースキン「冒険美男レノ」",
-                    "모험의 묘미 리노 전설 영웅 스킨",
+                    "모험의 미 리노 전설 영웅 스킨",
                     "Legendarna skórka dla bohatera Reno, Pasjonat Przygód",
                     "Visual de herói Lendário Reno Beleza Aventureira",
                     "Легендарный облик героя «Красавец-бродяга Рено»",
@@ -51272,7 +51272,7 @@
                     "Moeda Partida",
                     "Расколотая монетка",
                     "เหรียญถูกแยกส่วน",
-                    "钟表发条幸运币",
+                    "裂变幸运币",
                     "碎裂幸運幣"
                 ],
                 "m_locId": 2943671
@@ -52907,20 +52907,20 @@
             "m_ID": 3290,
             "m_description": {
                 "m_locValues": [
-                    "Boss Mida (Epic Bartender)",
-                    "Epischer Barkeeper: Boss Mida",
-                    "Jefa Mida (posadera épica)",
-                    "Jefa Mida (cantinera épica)",
-                    "Boss Mida (modèle de barmaid épique)",
-                    "Boss Mida (Barista Epico)",
-                    "ボスのミダ（エピックバーテンダー）",
-                    "두목 미다 (특급 바텐더)",
-                    "Szefowa Mida (epicki barman)",
-                    "Chefe Mida (Bartender Épico)",
-                    "Босс Мида (эпический бармен)",
-                    "มีดาหัวหน้างาน (บาร์เทนเดอร์ระดับสุดยอด)",
-                    "大老板米达（史诗调酒师）",
-                    "米達老闆(史詩酒保)"
+                    "Mastermind Mida (Epic Bartender)",
+                    "Epische Barkeeperin: Strippenzieherin Mida",
+                    "Mida genial (posadera épica)",
+                    "Mida mente maestra (cantinera épica)",
+                    "Mida la tête pensante (barmaid épique)",
+                    "Mida Geniale (Barista Epico)",
+                    "黒幕ミダ（エピックバーテンダー）",
+                    "주모자 미다 (특급 바텐더)",
+                    "Mądrala Mida (epicki barman)",
+                    "Mida Maquinadora (Bartender Épico)",
+                    "Лидер Мида (эпический бармен)",
+                    "มีดาบงการแผน (บาร์เทนเดอร์ระดับสุดยอด)",
+                    "幕后黑手米达（史诗调酒师）",
+                    "主導者米達(史詩酒保)"
                 ],
                 "m_locId": 2946706
             },
@@ -53036,7 +53036,7 @@
             "m_random": 0,
             "m_fallbackRewardListId": 0,
             "m_exitRewardListId": 0,
-            "m_locked": 1
+            "m_locked": 0
         },
         {
             "m_ID": 3295,
@@ -53063,7 +53063,7 @@
             "m_random": 0,
             "m_fallbackRewardListId": 0,
             "m_exitRewardListId": 0,
-            "m_locked": 1
+            "m_locked": 0
         },
         {
             "m_ID": 3296,
@@ -53090,7 +53090,7 @@
             "m_random": 0,
             "m_fallbackRewardListId": 0,
             "m_exitRewardListId": 0,
-            "m_locked": 1
+            "m_locked": 0
         },
         {
             "m_ID": 3297,
@@ -53117,7 +53117,7 @@
             "m_random": 0,
             "m_fallbackRewardListId": 0,
             "m_exitRewardListId": 0,
-            "m_locked": 1
+            "m_locked": 0
         },
         {
             "m_ID": 3298,
@@ -53144,7 +53144,7 @@
             "m_random": 0,
             "m_fallbackRewardListId": 0,
             "m_exitRewardListId": 0,
-            "m_locked": 1
+            "m_locked": 0
         },
         {
             "m_ID": 3299,
@@ -53231,20 +53231,20 @@
             "m_ID": 3300,
             "m_description": {
                 "m_locValues": [
-                    "Mystery Racer Sneed (Epic Emote)",
-                    "Episches Emote: Mysteriöser Rennpilot Sneed",
-                    "Sneed Piloto Misterioso (frase épica)",
-                    "Sneed Corredor misterioso (emoción épica)",
+                    "Racer Sneed (Epic Emote)",
+                    "Episches Emote: Rennpilot Sneed",
+                    "Sneed Piloto (frase épica)",
+                    "Sneed Corredor (emoción épica)",
                     "Sneed, pilote mystère (emote épique)",
-                    "Sneed Pilota Misterioso (emote Epica)",
-                    "謎のレーサー・スニード（エピック感情表現）",
-                    "수수께끼의 경주자 스니드 (특급 감정 표현)",
-                    "Szmondak, Tajemniczy Wyścigowiec (epicka emotka)",
-                    "Sneed Corredor Misterioso (expressão Épica)",
-                    "Таинственный гонщик Снид (эпическая реплика)",
-                    "สนีดนักซิ่งปริศนา (การแสดงความรู้สึกระดับสุดยอด)",
-                    "神秘车手斯尼德（史诗表情）",
-                    "神秘競速手斯尼德(史詩表情符號)"
+                    "Sneed Pilota (emote Epica)",
+                    "レーサー・スニード（エピック感情表現）",
+                    "경주자 스니드 (특급 감정 표현)",
+                    "Szmondak Wyścigowiec (epicka emotka)",
+                    "Sneed Corredor (Expressão Épica)",
+                    "Гонщик Снид (эпическая реплика)",
+                    "สนีดนักซิ่ง (การแสดงความรู้สึกระดับสุดยอด)",
+                    "车手斯尼德（史诗表情）",
+                    "競速手斯尼德(史詩表情符號)"
                 ],
                 "m_locId": 2946716
             },
@@ -53252,7 +53252,7 @@
             "m_random": 0,
             "m_fallbackRewardListId": 0,
             "m_exitRewardListId": 0,
-            "m_locked": 1
+            "m_locked": 0
         },
         {
             "m_ID": 3301,
@@ -53285,20 +53285,20 @@
             "m_ID": 3302,
             "m_description": {
                 "m_locValues": [
-                    "Hatchling Wrathion (Rare Emote)",
-                    "Seltenes Emote: Kleiner Furorion",
-                    "Prole Wrathion (frase poco común)",
-                    "Wrathion Cría (emoción rara)",
-                    "Jeune Irion (emote rare)",
-                    "Irathion Cucciolo (emote Rara)",
-                    "孵化したてのラシオン（レア感情表現）",
-                    "갓 태어난 래시온 (희귀 감정 표현)",
-                    "Pisklę Gniewion (rzadka emotka)",
-                    "Wrathion Filhote (expressão Rara)",
-                    "Детеныш Гневион (редкая реплика)",
-                    "ราเธียนเพิ่งฟัก (การแสดงความรู้สึกระดับหายาก)",
-                    "破壳宝宝拉希奥（稀有表情）",
-                    "初生怒西昂(精良表情符號)"
+                    "Sassy Wrathion (Rare Emote)",
+                    "Seltenes Emote: Kesser Furorion",
+                    "Wrathion atrevido (frase poco común)",
+                    "Wrathion pilluelo (emoción rara)",
+                    "Irion insolent (emote rare)",
+                    "Irathion Impertinente (emote Rara)",
+                    "生意気なラシオン（レア感情表現）",
+                    "건방진 래시온 (희귀 감정 표현)",
+                    "Zadziorny Gniewion (rzadka emotka)",
+                    "Wrathion Ousado (Expressão Rara)",
+                    "Нахальный Гневион (редкая реплика)",
+                    "ราเธียนปากแจ๋ว (การแสดงความรู้สึกระดับหายาก)",
+                    "活跃的拉希奥（稀有表情）",
+                    "時髦的怒西昂(精良表情符號)"
                 ],
                 "m_locId": 2946718
             },
@@ -53306,7 +53306,7 @@
             "m_random": 0,
             "m_fallbackRewardListId": 0,
             "m_exitRewardListId": 0,
-            "m_locked": 1
+            "m_locked": 0
         },
         {
             "m_ID": 3303,
@@ -53333,7 +53333,7 @@
             "m_random": 0,
             "m_fallbackRewardListId": 0,
             "m_exitRewardListId": 0,
-            "m_locked": 1
+            "m_locked": 0
         },
         {
             "m_ID": 3304,
@@ -53387,26 +53387,26 @@
             "m_random": 0,
             "m_fallbackRewardListId": 0,
             "m_exitRewardListId": 0,
-            "m_locked": 1
+            "m_locked": 0
         },
         {
             "m_ID": 3306,
             "m_description": {
                 "m_locValues": [
-                    "Boss Mida (Rare Emote)",
-                    "Seltenes Emote: Boss Mida",
-                    "Jefa Mida (frase poco común)",
-                    "Jefa Mida (emoción rara)",
-                    "Boss Mida (emote rare)",
-                    "Boss Mida (emote Rara)",
-                    "ボスのミダ（レア感情表現）",
-                    "두목 미다 (희귀 감정 표현)",
-                    "Szefowa Mida (rzadka emotka)",
-                    "Chefe Mida (expressão Rara)",
-                    "Босс Мида (редкая реплика)",
-                    "มีดาหัวหน้างาน (การแสดงความรู้สึกระดับหายาก)",
-                    "大老板米达（稀有表情）",
-                    "米達老闆(精良表情符號)"
+                    "Mastermind Mida (Rare Emote)",
+                    "Seltenes Emote: Strippenzieherin Mida",
+                    "Mida genial (frase poco común)",
+                    "Mida mente maestra (emoción rara)",
+                    "Mida la tête pensante (emote rare)",
+                    "Mida Geniale (emote Rara)",
+                    "黒幕ミダ（レア感情表現）",
+                    "주모자 미다 (희귀 감정 표현)",
+                    "Mądrala Mida (rzadka emotka)",
+                    "Mida Maquinadora (Expressão Rara)",
+                    "Лидер Мида (редкая реплика)",
+                    "มีดาบงการแผน (การแสดงความรู้สึกระดับหายาก)",
+                    "幕后黑手米达（稀有表情）",
+                    "主導者米達(精良表情符號)"
                 ],
                 "m_locId": 2946729
             },
@@ -53414,7 +53414,7 @@
             "m_random": 0,
             "m_fallbackRewardListId": 0,
             "m_exitRewardListId": 0,
-            "m_locked": 1
+            "m_locked": 0
         },
         {
             "m_ID": 3307,
@@ -53468,7 +53468,7 @@
             "m_random": 0,
             "m_fallbackRewardListId": 0,
             "m_exitRewardListId": 0,
-            "m_locked": 1
+            "m_locked": 0
         },
         {
             "m_ID": 3309,
@@ -53495,7 +53495,7 @@
             "m_random": 0,
             "m_fallbackRewardListId": 0,
             "m_exitRewardListId": 0,
-            "m_locked": 1
+            "m_locked": 0
         },
         {
             "m_ID": 3310,
@@ -53522,7 +53522,7 @@
             "m_random": 0,
             "m_fallbackRewardListId": 0,
             "m_exitRewardListId": 0,
-            "m_locked": 1
+            "m_locked": 0
         },
         {
             "m_ID": 3311,
@@ -53549,26 +53549,26 @@
             "m_random": 0,
             "m_fallbackRewardListId": 0,
             "m_exitRewardListId": 0,
-            "m_locked": 1
+            "m_locked": 0
         },
         {
             "m_ID": 3312,
             "m_description": {
                 "m_locValues": [
-                    "Mystery Racer Sneed (Legendary Hero Skin)",
-                    "Legendärer Heldenskin: Mysteriöser Rennpilot Sneed",
-                    "Sneed Piloto Misterioso (aspecto de héroe legendario)",
-                    "Sneed Corredor misterioso (diseño de héroe legendario)",
+                    "Racer Sneed (Legendary Hero Skin)",
+                    "Legendärer Heldenskin: Rennpilot Sneed",
+                    "Sneed Piloto (aspecto de héroe legendario)",
+                    "Sneed Corredor (diseño de héroe legendario)",
                     "Sneed, pilote mystère (modèle héroïque légendaire)",
-                    "Sneed Pilota Misterioso (modello eroe Leggendario)",
-                    "謎のレーサー・スニード（レジェンドヒーロースキン）",
-                    "수수께끼의 경주자 스니드 (전설 영웅 스킨)",
-                    "Szmondak, Tajemniczy Wyścigowiec (legendarna skórka dla bohatera)",
-                    "Sneed Corredor Misterioso (visual de herói Lendário)",
-                    "Таинственный гонщик Снид (легендарный облик героя)",
-                    "สนีดนักซิ่งปริศนา (สกินฮีโร่ระดับตำนาน)",
-                    "神秘车手斯尼德（传说英雄皮肤）",
-                    "神秘競速手斯尼德(傳說英雄造型)"
+                    "Sneed Pilota (modello eroe Leggendario)",
+                    "レーサー・スニード（レジェンドヒーロースキン）",
+                    "경주자 스니드 (전설 영웅 스킨)",
+                    "Szmondak Wyścigowiec (legendarna skórka dla bohatera)",
+                    "Sneed Corredor (Visual de Herói Lendário)",
+                    "Гонщик Снид (легендарный облик героя)",
+                    "สนีดนักซิ่ง (สกินฮีโร่ระดับตำนาน)",
+                    "车手斯尼德（传说英雄皮肤）",
+                    "競速手斯尼德(傳說英雄造型)"
                 ],
                 "m_locId": 2946735
             },
@@ -53576,7 +53576,7 @@
             "m_random": 0,
             "m_fallbackRewardListId": 0,
             "m_exitRewardListId": 0,
-            "m_locked": 1
+            "m_locked": 0
         },
         {
             "m_ID": 3313,
@@ -54389,6 +54389,87 @@
             "m_locked": 0
         },
         {
+            "m_ID": 3357,
+            "m_description": {
+                "m_locValues": [
+                    "2x Signature Mend",
+                    "2x markante Karte Heilung",
+                    "2x Aliviar distintiva",
+                    "2 Aliviar insignia",
+                    "Carte signature Guérison ×2",
+                    "2 Rimarginazione Pregiate",
+                    "シグネチャー「治癒」x2",
+                    "간판 치료 2장",
+                    "2 x specjalna karta Uleczenie ran",
+                    "2x card Recompor Exclusivo",
+                    "2 особые карты «Излечение»",
+                    "2x เยียวยาซิกเนเจอร์",
+                    "2张异画愈合",
+                    "2x 珍藏治療"
+                ],
+                "m_locId": 2949493
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3358,
+            "m_description": {
+                "m_locValues": [
+                    "C'Thun Coin",
+                    "C’Thun-Münze",
+                    "Moneda de C'Thun",
+                    "Moneda de C'Thun",
+                    "Pièce de C’Thun",
+                    "Moneta di C'thun",
+                    "クトゥーン・コイン",
+                    "크툰 동전",
+                    "Moneta C'Thuna",
+                    "Moeda de C'Thun",
+                    "Монетка К'Туна",
+                    "เหรียญคาธูน",
+                    "克苏恩幸运币",
+                    "克蘇恩幸運幣"
+                ],
+                "m_locId": 2949494
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3359,
+            "m_description": {
+                "m_locValues": [
+                    "2x Signature Injured Attendant",
+                    "2x markante Karte Verletzter Aufseher",
+                    "2x Auxiliar herido distintiva",
+                    "2 Cuidador herido insignia",
+                    "Carte signature Auxiliaire blessé ×2",
+                    "2 Aiutante Ferito Pregiate",
+                    "シグネチャー「傷を負った付き人」x2",
+                    "간판 부상당한 수행원 2장",
+                    "2 x specjalna karta Ranny opiekun",
+                    "2x Atendente Ferido Exclusivo",
+                    "2 особые карты «Раненый смотритель»",
+                    "2x ผู้ดูแลบาดเจ็บซิกเนเจอร์",
+                    "2张异画受伤的侍者",
+                    "2x 珍藏受傷的護蛋者"
+                ],
+                "m_locId": 2949495
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
             "m_ID": 336,
             "m_description": {
                 "m_locValues": [
@@ -54416,6 +54497,249 @@
             "m_locked": 0
         },
         {
+            "m_ID": 3360,
+            "m_description": {
+                "m_locValues": [
+                    "Detective Turalyon Hero Skin",
+                    "Heldenskin: Detektiv Turalyon",
+                    "Aspecto de héroe Detective Turalyon",
+                    "Diseño de héroe Turalyon Detective",
+                    "Modèle héroïque de Hearthstone : Détective Turalyon",
+                    "Modello eroe Investigatore Turalyon",
+                    "ヒーロースキン「名探偵テュラリオン」",
+                    "탐정 투랄리온 영웅 스킨",
+                    "Skórka bohatera – Detektyw Turalyon",
+                    "Visual de herói Detetive Turalyon",
+                    "Облик героя «Детектив Туралион»",
+                    "สกินฮีโร่นักสืบทูราลีออน",
+                    "英雄皮肤大侦探图拉扬",
+                    "偵探圖拉揚英雄造型"
+                ],
+                "m_locId": 2949496
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3361,
+            "m_description": {
+                "m_locValues": [
+                    "2x Random Golden Epic Card",
+                    "2x zufällige goldene epische Karte",
+                    "2x carta épica dorada aleatoria",
+                    "2 cartas épicas doradas aleatorias",
+                    "Carte épique dorée aléatoire ×2",
+                    "2 carte Epiche Dorate casuali",
+                    "ランダムなゴールデンエピックカードx2",
+                    "무작위 황금 특급 카드 2장",
+                    "2 x losowa złota karta epicka",
+                    "2x card Épico Dourado aleatório",
+                    "2 случайные золотые эпические карты",
+                    "2x การ์ดระดับสุดยอดสีทองแบบสุ่ม",
+                    "2张随机金色史诗卡牌",
+                    "2x 隨機史詩金卡"
+                ],
+                "m_locId": 2949497
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3362,
+            "m_description": {
+                "m_locValues": [
+                    "2x Signature Medivh's Triumph",
+                    "2x markante Karte Medivhs Triumph",
+                    "2x Triunfo de Medivh distintiva",
+                    "2 Triunfo de Medivh insignia",
+                    "Carte signature Triomphe de Medivh ×2",
+                    "2 Trionfo di Medivh Pregiate",
+                    "シグネチャー「メディヴの勝利」x2",
+                    "간판 메디브의 승리 2장",
+                    "2 x specjalna karta Triumf Medivha",
+                    "2x Triunfo de Medivh Exclusivo",
+                    "2 особые карты «Триумф Медива»",
+                    "2x ชัยชนะของเมดิฟห์ซิกเนเจอร์",
+                    "2张异画麦迪文的胜利",
+                    "2x 珍藏麥迪文的凱旋"
+                ],
+                "m_locId": 2949498
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3363,
+            "m_description": {
+                "m_locValues": [
+                    "G'huun Hero Set",
+                    "Heldenpaket: G’huun",
+                    "Conjunto de héroe de G'huun",
+                    "Kit de héroe de G'huun",
+                    "Ensemble héroïque G’huun",
+                    "Set eroe G'huun",
+                    "ヒーローセット「グフーン」",
+                    "그훈 영웅 세트",
+                    "Zestaw bohaterski G'huuna",
+                    "Conjunto de Herói G'huun",
+                    "Набор героя «Г'уун»",
+                    "ชุดฮีโร่กาฮูน",
+                    "备选英雄戈霍恩",
+                    "古翰英雄禮包"
+                ],
+                "m_locId": 2949499
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3364,
+            "m_description": {
+                "m_locValues": [
+                    "Signature Arator the Redeemer",
+                    "Markante Karte Arator der Erlöser",
+                    "Arator el Redentor distintiva",
+                    "Arator, el Redentor insignia",
+                    "Carte signature Arator le Rédempteur",
+                    "Arator il Redentore Pregiata",
+                    "シグネチャー「救世主アラトー」",
+                    "간판 구원자 아라토르",
+                    "Specjalna karta Arator Odkupiciel",
+                    "Arator, o Redentor, Exclusivo",
+                    "Особая карта «Аратор Искупитель»",
+                    "อาราทอร์ผู้กอบกู้ซิกเนเจอร์",
+                    "异画救赎者阿拉托尔",
+                    "珍藏『救贖者』阿拉特"
+                ],
+                "m_locId": 2949500
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3365,
+            "m_description": {
+                "m_locValues": [
+                    "Signature Talya Earthstrider",
+                    "Markante Karte Talya Erdschreiter",
+                    "Talya Zancatierras distintiva",
+                    "Talya Zancatierras insignia",
+                    "Carte signature Talya Arpenterre",
+                    "Talya Calcaterra Pregiata",
+                    "シグネチャー「タルヤ・アースストライダー」",
+                    "간판 탈랴 어스스트라이더",
+                    "Specjalna karta Talya Ziemiobieżczyni",
+                    "Talya Terrapasso Exclusivo",
+                    "Особая карта «Талия Землеход»",
+                    "ทัลยา เอิร์ธสไตรเดอร์ซิกเนเจอร์",
+                    "异画塔雅·陆行",
+                    "珍藏泰拉‧地行者"
+                ],
+                "m_locId": 2949501
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3366,
+            "m_description": {
+                "m_locValues": [
+                    "C'Thun Cosmetic Pet",
+                    "Kosmetisches Haustier: C’Thun",
+                    "Mascota cosmética C'Thun",
+                    "Mascota estética C'Thun",
+                    "Familier ornemental C’Thun",
+                    "Mascotte cosmetica C'thun",
+                    "ペット「クトゥーン」",
+                    "크툰 외형 애완동물",
+                    "Ozdobny pupil C'Thun",
+                    "Moeda Cosmética C'Thun",
+                    "Декоративный питомец «К'Тун»",
+                    "สัตว์เลี้ยงตกแต่งคาธูน",
+                    "宠物克苏恩",
+                    "克蘇恩造型寵物"
+                ],
+                "m_locId": 2949502
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3368,
+            "m_description": {
+                "m_locValues": [
+                    "2x Golden CATACLYSM Pack",
+                    "2x goldene Kartenpackung aus KATAKLYSMUS",
+                    "2x sobre dorado de EL CATACLISMO",
+                    "2 paquetes dorados de CATACLISMO",
+                    "Paquet doré de CATACLYSME ×2",
+                    "2 buste Dorate di CATACLISMA",
+                    "「終焉のアゼロス」ゴールデンパックx2",
+                    "황금 대격변 팩 2개",
+                    "2 x złoty pakiet KATAKLIZMU",
+                    "2x Pacote Dourado de CATACLISMO",
+                    "2 золотых комплекта «КАТАКЛИЗМ»",
+                    "2x ซองการ์ด CATACLYSM สีทอง",
+                    "2包大地的裂变金色包",
+                    "2x 《浩劫與重生》黃金卡牌包"
+                ],
+                "m_locId": 2949504
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3369,
+            "m_description": {
+                "m_locValues": [
+                    "Random Unowned - Lite Hero Skin\n<i>(Year of the Pegasus)</i>",
+                    "Zufälliger nicht freigeschalteter Heldenskin (Lite)\n<i>(Jahr des Pegasus)</i>",
+                    "Aleatorio no adquirido - Aspecto de héroe básico\n<i>(Año del Pegaso)</i>",
+                    "Diseño de héroe básico: aleatorio, faltante\n<i>(Año del pegaso)</i>",
+                    "Modèle héroïque léger non possédé aléatoire\n<i>(Année du Pégase)</i>",
+                    "Oggetto casuale non posseduto: modello eroe semplice\n<i>(Anno del Pegaso)</i>",
+                    "ランダムな未所持のライト・ヒーロースキン\n<i>（ペガサス年）</i>",
+                    "확률형 미보유 - 라이트 영웅 스킨\n<i>(페가수스의 해)</i>",
+                    "Zwykła skórka bohatera – losowa nieposiadana\n<i>(Rok Pegaza)</i>",
+                    "Visual de Herói Simples aleatório ainda não obtido\n<i>(Ano do Pégaso)</i>",
+                    "Случайный еще не открытый\nнеполный облик героя <i>(из года Пегаса)</i>",
+                    "ของตกแต่งที่คุณยังไม่มีแบบสุ่ม - สกินฮีโร่แบบไลท์\n<i>(ปีแห่งเพกาซัส)</i>",
+                    "尚未拥有的随机轻量英雄皮肤\n<i>（天马年）</i>",
+                    "隨機未擁有：輕量英雄造型\n<i>(飛馬年)</i>"
+                ],
+                "m_locId": 2949529
+            },
+            "m_chooseOne": 0,
+            "m_random": 1,
+            "m_fallbackRewardListId": 3368,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
             "m_ID": 337,
             "m_description": {
                 "m_locValues": [
@@ -54435,6 +54759,222 @@
                     "傭兵代幣"
                 ],
                 "m_locId": 2805177
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3370,
+            "m_description": {
+                "m_locValues": [
+                    "1x Cataclysm Pack",
+                    "1x Kartenpackung aus Kataklysmus",
+                    "1x sobre de EL CATACLISMO",
+                    "1 paquete de Cataclismo",
+                    "Paquet de Cataclysme ×1",
+                    "1 busta di Cataclisma",
+                    "「終焉のアゼロス」パックx1",
+                    "대격변 팩 1개",
+                    "1 x pakiet Kataklizmu",
+                    "1x Pacote de Cataclismo",
+                    "1 комплект «Катаклизм»",
+                    "1x ซองการ์ด CATACLYSM",
+                    "1包大地的裂变卡牌包",
+                    "1x 《浩劫與重生》卡牌包"
+                ],
+                "m_locId": 2949631
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3371,
+            "m_description": {
+                "m_locValues": [
+                    "1x Escape from Violet Hold Pack",
+                    "1x Kartenpackung aus Flucht aus der Violetten Festung",
+                    "1x sobre de Fuga del Bastión Violeta",
+                    "1 paquete de Escape del Bastión Violeta",
+                    "Paquet d’Évasion du fort Pourpre ×1",
+                    "1 busta di Fuga dalla Fortezza Violacea",
+                    "「ヴァイオレット監獄脱出計画！」パックx1",
+                    "보랏빛 요새 탈출 작전 팩 1개",
+                    "1 x pakiet z Ucieczki z Purpurowej Twierdzy",
+                    "1x Pacote de Fuga do Castelo Violeta",
+                    "1 комплект «Побега из Аметистовой крепости»",
+                    "1x ซองการ์ด Escape from Violet Hold",
+                    "1包逃离紫罗兰监狱卡牌包",
+                    "1x 《逃離紫羅蘭堡》卡牌包"
+                ],
+                "m_locId": 2949632
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3372,
+            "m_description": {
+                "m_locValues": [
+                    "1x Cataclysm Golden Pack",
+                    "1x goldene Kartenpackung aus Kataklysmus",
+                    "1x sobre dorado de EL CATACLISMO",
+                    "1 paquete dorado de Cataclismo",
+                    "Paquet doré de Cataclysme ×1",
+                    "1 busta Dorata di Cataclisma",
+                    "「終焉のアゼロス」ゴールデンパックx1",
+                    "대격변 황금 팩 1개",
+                    "1 x złoty pakiet Kataklizmu",
+                    "1x Pacote Dourado de Cataclismo",
+                    "1 золотой комплект «Катаклизм»",
+                    "1x ซองการ์ด CATACLYSM สีทอง",
+                    "1包大地的裂变金色包",
+                    "1x 《浩劫與重生》黃金卡牌包"
+                ],
+                "m_locId": 2949633
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3373,
+            "m_description": {
+                "m_locValues": [
+                    "1x Escape from Violet Hold Golden Pack",
+                    "1x goldene Kartenpackung aus Flucht aus der Violetten Festung",
+                    "1x sobre dorado de Fuga del Bastión Violeta",
+                    "1 paquete dorado de Escape del Bastión Violeta",
+                    "Paquet doré d’Évasion du fort Pourpre ×1",
+                    "1 busta Dorata di Fuga dalla Fortezza Violacea",
+                    "「ヴァイオレット監獄脱出計画！」ゴールデンパックx1",
+                    "보랏빛 요새 탈출 작전 황금 팩 1개",
+                    "1 x złoty pakiet z Ucieczki z Purpurowej Twierdzy",
+                    "1x Pacote Dourado de Fuga do Castelo Violeta",
+                    "1 золотой комплект «Побега из Аметистовой крепости»",
+                    "1x ซองการ์ด Escape from Violet Hold สีทอง",
+                    "1包逃离紫罗兰监狱金色包",
+                    "1x 《逃離紫羅蘭堡》黃金卡牌包"
+                ],
+                "m_locId": 2949634
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3374,
+            "m_description": {
+                "m_locValues": [
+                    "2x Tunneling Geomancer",
+                    "2x Tunnelbauender Geomant",
+                    "2x Geomántico tunelador",
+                    "2 Geomante tunelador",
+                    "Carte Géomancien fouisseur ×2",
+                    "2 Geomante Scavagallerie",
+                    "「掘り進む地霊術師」x2",
+                    "굴 파는 흙점쟁이 2장",
+                    "2 x Tunelowy geomanta",
+                    "2x Geomante Escavador",
+                    "2 карты «Геомант-проходчик»",
+                    "2x จีโอแมนเซอร์ขุดอุโมงค์",
+                    "2张坑道地卜师",
+                    "2x 坑道地卜師"
+                ],
+                "m_locId": 2949965
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3375,
+            "m_description": {
+                "m_locValues": [
+                    "2x Tavern Ticket and 1x CATACLYSM Card Pack",
+                    "2x Gasthauszugang und 1x Kartenpackung aus KATAKLYSMUS",
+                    "2x entrada de taberna y 1x sobre de EL CATACLISMO",
+                    "2 boletos de la Taberna y 1 paquete de cartas de CATACLISMO",
+                    "Admission pour la taverne ×2 et paquet de CATACLYSME ×1",
+                    "2 Biglietti Locanda e 1 busta di CATACLISMA",
+                    "酒場チケットx2、「終焉のアゼロス」カードパックx1",
+                    "선술집 입장권 2장과 대격변 카드 팩 1개",
+                    "2 x bilet do Karczmy i 1 x pakiet kart KATAKLIZMU",
+                    "2x Ingresso da Taverna e 1x Pacote de Cards de CATACLISMO",
+                    "2 пропуска в таверну и 1 комплект карт «КАТАКЛИЗМ»",
+                    "2x บัตรโรงเตี๊ยม และ 1x ซองการ์ด CATACLYSM",
+                    "2张旅店通票和1包大地的裂变卡牌包",
+                    "2x 旅店門票和1x 《浩劫與重生》卡牌包"
+                ],
+                "m_locId": 2949966
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3376,
+            "m_description": {
+                "m_locValues": [
+                    "2x Golden Tunneling Geomancer, 1x Golden CATACLYSM Card Pack, 1x Escape from Violet Hold Card Pack",
+                    "2x Goldener Tunnelbauender Geomant, 1x goldene Kartenpackung aus KATAKLYSMUS, 1x Kartenpackung aus Flucht aus der Violetten Festung",
+                    "2x Geomántico tunelador dorada, 1x sobre dorado de EL CATACLISMO, 1x sobre de Fuga del Bastión Violeta",
+                    "2 Geomante tunelador dorada, 1 paquete de cartas dorado de CATACLISMO, 1 paquete de cartas de Escape del Bastión Violeta",
+                    "Carte dorée Géomancien fouisseur ×2, paquet de cartes dorées de CATACLYSME ×1, paquet de cartes d’Évasion du fort Pourpre ×1",
+                    "2 Geomante Scavagallerie Dorate, 1 busta Dorata di CATACLISMA, 1 busta di Fuga dalla Fortezza Violacea",
+                    "ゴールデン「掘り進む地霊術師」x2、「終焉のアゼロス」ゴールデンカードパックx1、「ヴァイオレット監獄脱出計画！」カードパックx1",
+                    "황금 굴 파는 흙점쟁이 2장, 황금 대격변 카드 팩 1개, 보랏빛 요새 탈출 작전 카드 팩 1개",
+                    "2 x złoty Tunelowy geomanta, 1 x złoty pakiet kart KATAKLIZMU, 1 x pakiet kart Ucieczki z Purpurowej Twierdzy",
+                    "2x Geomante Escavador Dourado, 1x Pacote de Cards Dourado de CATACLISMO, 1x Pacote de Cards de Fuga do Castelo Violeta",
+                    "2 золотые карты «Геомант-проходчик», 1 золотой комплект карт «КАТАКЛИЗМ», 1 комплект карт «Побега из Аметистовой крепости»",
+                    "2x จีโอแมนเซอร์ขุดอุโมงค์สีทอง, 1x ซองการ์ด CATACLYSM สีทอง, 1x ซองการ์ด Escape from Violet Hold",
+                    "2张金色坑道地卜师，1包大地的裂变金色包和1包逃离紫罗兰监狱卡牌包",
+                    "2x 坑道地卜師金卡、1x 《浩劫與重生》黃金卡牌包、1x 《逃離紫羅蘭堡》卡牌包"
+                ],
+                "m_locId": 2949967
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3377,
+            "m_description": {
+                "m_locValues": [
+                    "Eternalflame Ragnaros Hero Skin, 2x Golden Sands of Time, 1x Cataclysm Card Pack",
+                    "Heldenskin Ragnaros der ewigen Flamme, 2x goldene Kartenpackungen aus Sande der Zeit, 1x Kartenpackung aus Kataklysmus",
+                    "Aspecto de héroe Ragnaros Llamaeterna, 2x Arenas del tiempo dorada, 1x sobre de EL CATACLISMO",
+                    "Diseño de héroe Ragnaros Llama eterna, 2 Arenas del tiempo dorada, 1 paquete de cartas de Cataclismo",
+                    "Modèle héroïque Ragnaros, flamme éternelle, carte dorée Sables du temps ×2, paquet de CATACLYSME ×1",
+                    "Modello eroe Ragnaros della Fiamma Eterna, 2 Sabbie del Tempo Dorate, 1 busta di Cataclisma",
+                    "ヒーロースキン「不滅火のラグナロス」、ゴールデン「時の砂」x2、「終焉のアゼロス」カードパックx1",
+                    "영원불길 라그나로스 영웅 스킨, 황금 시간의 모래 2장, 대격변 카드 뒷면 1개",
+                    "Skórka bohatera Ragnaros Wiecznego Płomienia, 2 x złota karta Piaski czasu, 1 x pakiet kart Kataklizmu",
+                    "Visual de herói Ragnaros Chama Eterna, 2x Areias do Tempo Dourados, 1x Pacote de Cards de Cataclismo",
+                    "Облик героя «Рагнарос Вечное Пламя», 2 золотые карты «Пески времени», 1 комплект карт «Катаклизм»",
+                    "สกินฮีโร่แร็กนารอสเพลิงนิรันดร์, 2x ทรายแห่งเวลาสีทอง, 1x ซองการ์ด Cataclysm",
+                    "英雄皮肤永恒之火拉格纳罗斯，2张金色时间之沙，1包大地的裂变卡牌包",
+                    "永恆烈焰拉格納羅斯英雄造型、2x 時間之沙金卡、1x 《浩劫與重生》卡牌包"
+                ],
+                "m_locId": 2949968
             },
             "m_chooseOne": 0,
             "m_random": 0,
@@ -54551,6 +55091,60 @@
             "m_locked": 0
         },
         {
+            "m_ID": 3408,
+            "m_description": {
+                "m_locValues": [
+                    "2x Commissary Crook, 1x CATACLYSM Card Pack",
+                    "2x Gitterladengaunerin, 1x Kartenpackung aus KATAKLYSMUS",
+                    "2x Comisaria corrupta, 1x sobre de EL CATACLISMO",
+                    "2 Delincuente de comisariato, 1 paquete de cartas de CATACLISMO",
+                    "Carte Intendante escroc ×2, paquet de cartes de CATACLYSME ×1",
+                    "2 Furfante dello Spaccio, 1 busta di CATACLISMA",
+                    "「売店の悪人」x2、「終焉のアゼロス」カードパックx1",
+                    "사절 크룩 2장, 대격변 카드 팩 1개",
+                    "2 x Szachrajska intendentka, 1 x pakiet kart KATAKLIZMU",
+                    "2x Comissária Vigarista, 1x Pacote de Cards de CATACLISMO",
+                    "2 карты «Тюремная торговка», 1 комплект «КАТАКЛИЗМ»",
+                    "2x ฝ่ายเสบียงใจคด, 1x ซองการ์ด CATACLYSM",
+                    "2张店铺奸商，1包大地的裂变卡牌包",
+                    "2x 福利社騙徒、1x 《浩劫與重生》卡牌包"
+                ],
+                "m_locId": 2950136
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3409,
+            "m_description": {
+                "m_locValues": [
+                    "2x Deadly Bribe, 1x Escape from Violet Hold Card Pack",
+                    "2x Tödliche Bestechung, 1x Kartenpackung aus Flucht aus der Violetten Festung",
+                    "2x Soborno mortal, 1x sobre de Fuga del Bastión Violeta",
+                    "2 Soborno mortal, 1 paquete de cartas de Escape del Bastión Violeta",
+                    "Carte Pot-de-vin létal ×2, paquet de cartes d’Évasion du fort Pourpre ×1",
+                    "2 Mazzetta Mortale, 1 busta di Fuga dalla Fortezza Violacea",
+                    "「危険な賄賂」x2、「ヴァイオレット監獄脱出計画！」カードパックx1",
+                    "치명적인 뇌물 2장, 보랏빛 요새 탈출 작전 카드 팩 1개",
+                    "2 x Zabójcza łapówka, 1 x pakiet kart Ucieczki z Purpurowej Twierdzy",
+                    "2x Suborno Mortal, 1x Pacote de Cards de Fuga do Castelo Violeta",
+                    "2 карты «Смертельная взятка», 1 комплект «Побега из Аметистовой крепости»",
+                    "2x สินบนมรณะ, 1x ซองการ์ด\nEscape from Violet Hold",
+                    "2张致命贿赂，1包逃离紫罗兰监狱卡牌包",
+                    "2x 致命賄賂、1x 《逃離紫羅蘭堡》卡牌包"
+                ],
+                "m_locId": 2950137
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
             "m_ID": 341,
             "m_description": {
                 "m_locValues": [
@@ -54570,6 +55164,60 @@
                     "傭兵代幣"
                 ],
                 "m_locId": 2805181
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3410,
+            "m_description": {
+                "m_locValues": [
+                    "2x Golden Commissary Crook, 2x Tavern Ticket",
+                    "2x goldene Gitterladengaunerin, 2x Gasthauszugang",
+                    "2x Comisaria corrupta dorada, 2x entrada de taberna",
+                    "2 Delincuente de comisariato dorada, 2 boletos de la Taberna",
+                    "Carte dorée Intendante escroc ×2, admission pour la taverne ×2",
+                    "2 Furfante dello Spaccio Dorate, 2 Biglietti Locanda",
+                    "ゴールデン「売店の悪人」x2、酒場チケットx2",
+                    "황금 사절 크룩 2장, 선술집 입장권 2장",
+                    "2 x złota Szachrajska intendentka, 2 x bilet do Karczmy",
+                    "2x Comissária Vigarista Dourado, 2x Ingresso da Taverna",
+                    "2 золотые карты «Тюремная торговка», 2 пропуска в таверну",
+                    "2x ฝ่ายเสบียงใจคดสีทอง, 2x บัตรโรงเตี๊ยม",
+                    "2张金色店铺奸商，2张旅店通票",
+                    "2x 福利社騙徒金卡、2x 旅店門票"
+                ],
+                "m_locId": 2950138
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3411,
+            "m_description": {
+                "m_locValues": [
+                    "Dalaran Warden Maiev Hero Skin, 2x Golden Deadly Bribe\n2x Escape from Violet Hold Card Pack",
+                    "Heldenskin Dalaranwächterin Maiev, 2x goldene Tödliche Bestechung,\n2x Kartenpackung aus Flucht aus der Violetten Festung",
+                    "Aspecto de héroe Maiev Celadora de Dalaran, 2x Soborno mortal dorada,\n2x sobre de Fuga del Bastión Violeta",
+                    "Diseño de heroína Maiev Celadora de Dalaran, 2 Soborno mortal dorada\n2 paquetes de cartas de Escape del Bastión Violeta",
+                    "Modèle héroïque Maiev, gardienne de Dalaran,\ncarte dorée Pot-de-vin létal ×2, paquet de cartes d’Évasion du fort Pourpre ×2",
+                    "Modello eroe Maiev Custode di Dalaran, 2 Mazzetta Mortale Dorate\n2 buste di Fuga dalla Fortezza Violacea",
+                    "ヒーロースキン「ダラランの看守マイエヴ」、ゴールデン「危険な賄賂」x2、「ヴァイオレット監獄脱出計画！」カードパックx2",
+                    "달라란 감시관 마이에브 영웅 스킨, 황금 치명적인 뇌물 2장\n보랏빛 요새 탈출 작전 카드 팩 2개",
+                    "Skórka bohatera Strażniczka Dalaranu Maiev, 2 x złota Zabójcza łapówka, \n2 x pakiet kart Ucieczki z Purpurowej Twierdzy",
+                    "Visual de Herói Maiev Guardiã de Dalaran, 2x Suborno Mortal Dourado,\n2x Pacote de Cards de Fuga do Castelo Violeta",
+                    "Облик героя «Даларанский страж Майев», 2 золотые карты «Смертельная взятка»,\n2 комплекта «Побега из Аметистовой крепости»",
+                    "สกินฮีโร่ไมเอฟผู้คุมแห่งดาลารัน, 2x สินบนมรณะสีทอง, 2x ซองการ์ด Escape from Violet Hold",
+                    "英雄皮肤达拉然典狱官玛维，2张金色致命贿赂，2包逃离紫罗兰监狱卡牌包",
+                    "達拉然典獄官瑪翼夫英雄造型、2x 致命賄賂金卡\n2x 《逃離紫羅蘭堡》卡牌包"
+                ],
+                "m_locId": 2950139
             },
             "m_chooseOne": 0,
             "m_random": 0,

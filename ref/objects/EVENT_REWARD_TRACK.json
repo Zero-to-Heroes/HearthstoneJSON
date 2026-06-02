@@ -4042,6 +4042,130 @@
         },
         {
             "m_ID": 0,
+            "m_specialEventId": 72,
+            "m_eventRewardTrackId": 172,
+            "m_choiceConfirmationText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_shortConclusion": {
+                "m_locValues": [
+                    "Well Done, Champion...",
+                    "Gut gemacht, Champion_...",
+                    "Así se hace, adalid...",
+                    "Bien hecho, adalid...",
+                    "Beau travail…",
+                    "Ben fatto, complimenti...",
+                    "よくやったわ、勇者…",
+                    "잘했다, 용사여...",
+                    "Dobra robota, czempionie...",
+                    "Muito bem, combatente...",
+                    "Отличная работа...",
+                    "ทำได้ดีมาก แชมเปี้ยน...",
+                    "干得漂亮，勇士……",
+                    "做得好，勇士…"
+                ],
+                "m_locId": 2949675
+            },
+            "m_longConclusion": {
+                "m_locValues": [
+                    "I am loath to toast the deviousness of others, but you have delivered quite admirably. From one villain to another, though, you should stick around. Maiev believes she has uncovered my plot and I intend to deliver her a denouement VERY much not to her liking!\n\n<i>- Vanessa VanCleef</i>",
+                    "Es liegt mir zwar fern, die Verschlagenheit anderer zu loben, aber Ihr habt Euch wirklich bewährt. Nur so unter uns Schurken: Ihr solltet bleiben. Maiev glaubt zwar, sie hätte meinen Plan durchschaut, doch ich freue mich schon darauf, ihr ein Ende zu bereiten, das ihr ganz und gar nicht gefallen wird.\n\n<i>– Vanessa van Cleef</i>",
+                    "Me repugna brindar por la perversidad de otros, pero has cumplido de manera admirable. Como villana que yo también soy, te pido que te quedes. Maiev cree que ha descubierto mi plan, ¡pero tengo pensado regalarle un desenlace que no le va a gustar NADA!\n\n<i>-Vanessa VanCleef</i>",
+                    "No soporto la idea de celebrar por los engaños de otros, pero lo has hecho muy bien. Ahora, entre villanos, deberías quedarte cerca. Maiev cree que ha descubierto mi propósito, ¡pero planeo darle un desenlace que no será PARA NADA de su agrado!\n\n<i>- Vanessa VanCleef</i>",
+                    "Je n’aime guère faire l’éloge de la fourberie, mais vous avez accompli votre mission de manière tout à fait admirable. Cela dit, si je puis me permettre, vous devriez rester encore un peu dans les parages. Maiev pense avoir déjoué mon complot, mais je lui réserve encore une surprise qui ne va pas DU TOUT lui plaire !\n\n<i>– Vanessa VanCleef</i>",
+                    "Non amo celebrare la malvagità altrui, ma devo farti i complimenti per le tue imprese notevoli. Ti do un consiglio da super cattiva, rimani nei paraggi. Maiev crede di aver smascherato il mio piano, ma ho intenzione di riservarle un epilogo decisamente sgradito!\n\n<i>- Vanessa VanCleef</i>",
+                    "他人の悪賢さを称えるのは気が進まないけど、今回はなかなか見事だったわ。悪党同士だから言っておくけど、しばらく残ってたらいいよ。マイエヴはあたしの計画を暴いたと思ってるみたいだけど、あいつが決して望まない結末をプレゼントしてやるつもりだから！\n\n<i>- ヴァネッサ・ヴァンクリーフ</i>",
+                    "남의 교활함을 칭찬하긴 싫지만, 너는 상당히 경탄스러운 성과를 내 주었다. 하지만 악당 대 악당으로 말하는데, 너는 남아 있어야 한다. 마이에브는 나의 계획을 간파했다 생각하지만, 내가 곧 불러올 대단원은 마이에브의 마음에 들지 않을 것이다!\n\n<i>- 바네사 밴클리프</i>",
+                    "Zwykle niechętnie doceniam cudzą przebiegłość, ale tobie udało się odnieść nielichy sukces. Powiem ci coś, jak złoczyńca złoczyńcy: nie znikaj stąd jeszcze. Maiev sądzi, że przejrzała moją intrygę, lecz zamierzam zafundować jej takie zwieńczenie tej historii, że Z PEWNOŚCIĄ nie będzie zadowolona!\n\n<i>– Vanessa VanCleef</i>",
+                    "Odeio ter que elogiar a ardilosidade alheia, mas a sua atuação foi impecável. No entanto, como somos colegas de vilania, peço que fique por aqui um pouco mais. Maiev acha que descobriu o meu plano, mas não vai gostar NEM UM POUCO da reviravolta que vou proporcionar a ela!\n\n<i>- Vanessa VanCleef</i>",
+                    "Не люблю хвалить других за коварство, но твои успехи заслуживают уважения. И как твоя коллега по злодействам, рекомендую пока никуда не уходить. Майев думает, что она раскрыла мои планы, но я подготовила кое-что, что ей ОЧЕНЬ не понравится!\n\n<i>Ванесса ван Клиф</i>",
+                    "ข้าไม่ค่อยอยากจะฉลองความร้ายกาจของคนอื่นมากนัก\nแต่เจ้าทำผลงานได้น่าชื่นชม_แต่ขอแนะนำในฐานะ\nสหายวายร้ายว่าเจ้าควรอยู่ต่ออีกสักนิด_ไมเอฟคิดว่า\nนางเปิดเผยแผนการของข้าได้แล้ว_และข้าก็ตั้งใจ\nจะมอบบทสรุปที่นางต้องไม่ชอบใจแน่ๆ!\n<i>- วาเนสซา แวนคลีฟ</i>",
+                    "看别人使坏我一般不捧，但你这一手的确了得。说起来，都是道上混的，劝你别急着撤。玛维自以为看穿了我的计划，那我就将计就计，让她再也笑不出来！\n\n<i>——梵妮莎·范克里夫</i>",
+                    "雖然我討厭稱讚他人的陰險狡詐，但你的表現確實令人讚賞。不過，作為反派同僚，我建議你留下來。瑪翼夫以為她已經看穿了我的陰謀，而我打算親自上演一場她絕對不會喜歡的大結局！\n\n<i>- 凡妮莎‧范克里夫</i>"
+                ],
+                "m_locId": 2949676
+            }
+        },
+        {
+            "m_ID": 0,
+            "m_specialEventId": 73,
+            "m_eventRewardTrackId": 173,
+            "m_choiceConfirmationText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_shortConclusion": {
+                "m_locValues": [
+                    "Not on my Watch!",
+                    "Nicht, solange ich hier bin!",
+                    "¡No si lo impido!",
+                    "¡No durante mi guardia!",
+                    "Pas sous ma surveillance !",
+                    "Non finché ci sono io!",
+                    "そうはさせない！",
+                    "내가 지켜보는 한 어림없다!",
+                    "Nie na mojej warcie!",
+                    "Não no meu turno!",
+                    "Не в мою смену!",
+                    "อย่าคิดว่าข้าไม่เห็น!",
+                    "有我在，休想得逞！",
+                    "休想得逞！"
+                ],
+                "m_locId": 2950009
+            },
+            "m_longConclusion": {
+                "m_locValues": [
+                    "The current security breach has not yet been resolved.\nThese prisoners are more cunning and dangerous than previous assessments indicated.\nI order all exits to be sealed at once and every room of the prison searched thoroughly.\nThere will be no escape from this place while it's under my jurisdiction.\n\n- Maiev Shadowsong",
+                    "Die aktuelle Sicherheitsverletzung wurde noch nicht aufgeklärt.\nDiese Gefangenen sind gerissener und gefährlicher, als bisherige Bewertungen vermuten ließen.\nIch befehle, alle Ausgänge sofort zu versiegeln und jeden Raum des Gefängnisses gründlich zu durchsuchen.\nEs gibt kein Entkommen von diesem Ort, solange ich für ihn verantwortlich bin.\n\n– Maiev Schattensang",
+                    "La incidencia de seguridad sigue sin estar resuelta.\nEstos presos son más astutos y peligrosos de lo que indicaban las evaluaciones previas.\nQue todas las salidas queden cerradas y que se inspeccione cada sala de la prisión concienzudamente, ¡es una orden!\nNadie podrá escapar de este lugar mientras siga bajo mi jurisdicción.\n\n-Maiev Cantosombrío",
+                    "Aún no se ha resuelto la actual violación de seguridad.\nEstos prisioneros son más astutos y peligrosos de lo que se ha informado en evaluaciones previas.\nOrdeno que se cierren todas las salidas de inmediato y se registren minuciosamente todas las habitaciones de la prisión.\nNadie se escapará de este lugar mientras esté en mi jurisdicción.\n\n- Maiev Cantosombrío",
+                    "La sécurité de l’établissement est toujours compromise.\nCes détenus sont plus rusés et dangereux que ne le laissaient supposer les précédents rapports.\nJ’ordonne que toutes les issues soient verrouillées et que chaque cellule soit fouillée minutieusement.\nPersonne ne s’échappera de cet endroit tant qu’il sera sous ma responsabilité.\n\n– Maiev Chantelombre",
+                    "La falla nella sicurezza attuale non è stata ancora risolta.\nQuesti prigionieri sono più astuti e pericolosi di quanto emerso dalle valutazioni precedenti.\nOrdino che tutte le uscite vengano immediatamente sbarrate e che ogni cella venga perquisita accuratamente.\nNon ci sarà alcuna possibilità di fuga da questo luogo finché sarà sotto la mia giurisdizione.\n\n- Maiev Cantombroso",
+                    "今回のセキュリティー侵害問題はまだ解決していない。\n囚人たちは以前の査定で判断されていたよりも悪賢く、危険になってきている。\nただちに全ての出口を封鎖し、監獄内の全ての部屋を念入りに調べること。\n私の管轄下にあるかぎり、ここからは決して誰も脱走させない。\n\n――マイエヴ・シャドウソング",
+                    "보안상의 문제는 아직 해결되지 않았다.\n이 죄수들은 앞서 진단했던 바보다 더 교활하고 위험하다.\n출구를 즉시 모두 봉쇄하고, 감방을 하나하나 철저히 수색할 것을 명한다.\n내가 감독하는 한, 이곳에서 탈출하는 것은 용납하지 않는다.\n\n- 마이에브 섀도송",
+                    "Wciąż zmagamy się z niedawnym naruszeniem bezpieczeństwa.\nWięźniowie są dużo sprytniejsi i bardziej niebezpieczni, niż wykazała poprzednia ocena.\nNakazuję natychmiastowe odcięcie wszystkich wyjść i dokładne przeszukanie wszystkich cel.\nPóki ja czuwam nad tym miejscem, nikt się stąd nie wymknie!\n\n– Maiev Pieśń Cienia",
+                    "A atual falha de segurança ainda não foi contida.\nEsses prisioneiros são mais astutos e perigosos do que nossas avaliações indicavam.\nOrdeno que todas as saídas sejam imediatamente seladas e que cada cela da prisão seja vasculhada minuciosamente.\nNão haverá fuga deste lugar durante a minha jurisdição.\n\n- Maiev Cantonegro",
+                    "Проблема с нарушением протокола безопасности до сих пор не решена.\nЭти заключенные оказались хитрее и опаснее, чем мы предполагали ранее.\nПриказываю немедленно запечатать все выходы и тщательно обыскать каждое помещение в тюрьме.\nПока я здесь главная, отсюда никто не сбежит.\n\nМайев Песнь Теней",
+                    "ช่องโหว่ความปลอดภัยยังไม่ได้รับการแก้ไข_นักโทษพวกนี้\nแยบยลและอันตรายกว่าที่เคยประเมินไว้_ข้าขอสั่งปิดตาย\nทางออกทั้งหมด_และค้นห้องขังทุกห้องอย่างละเอียด\nตราบใดที่ข้ายังเป็นผู้คุม ข้าจะไม่ปล่อยให้ใครหลบหนีจาก\nที่นี่ไปได้\n- ไมเอฟ ชาโดว์ซอง",
+                    "安全漏洞尚未解决。\n这些囚犯比预想中的更狡猾，更危险。\n传我命令，立即封锁所有出口，仔细搜查每一间牢房。\n只要有我在，谁都别想逃出去。\n\n——玛维·影歌",
+                    "目前的安全漏洞尚未解決。\n這些囚犯比先前評估得更加狡猾且危險。\n我要求立即封鎖所有出口，並徹底搜查監獄的每個房間。\n在我的管轄範圍內，絕不容許任何人從此地逃離。\n\n- 瑪翼夫‧影歌"
+                ],
+                "m_locId": 2950010
+            }
+        },
+        {
+            "m_ID": 0,
             "m_specialEventId": 8,
             "m_eventRewardTrackId": 55,
             "m_choiceConfirmationText": {
