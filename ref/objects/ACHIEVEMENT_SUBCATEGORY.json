@@ -711,6 +711,31 @@
             "m_sortOrder": 85
         },
         {
+            "m_ID": 331,
+            "m_achievementCategoryId": 2,
+            "m_name": {
+                "m_locValues": [
+                    "Violet Hold",
+                    "Violette Festung",
+                    "Bastión Violeta",
+                    "Bastión Violeta",
+                    "Fort Pourpre",
+                    "Fortezza Violacea",
+                    "ヴァイオレット監獄",
+                    "보랏빛 요새",
+                    "Purpurowa Twierdza",
+                    "Castelo Violeta",
+                    "Аметистовая крепость",
+                    "Violet Hold",
+                    "紫罗兰监狱",
+                    "紫羅蘭堡"
+                ],
+                "m_locId": 2947033
+            },
+            "m_icon": "JAIL",
+            "m_sortOrder": 84
+        },
+        {
             "m_ID": 6,
             "m_achievementCategoryId": 3,
             "m_name": {
@@ -740,20 +765,20 @@
             "m_achievementCategoryId": 3,
             "m_name": {
                 "m_locValues": [
-                    "Classic (Retired)",
-                    "Klassisch (beendet)",
-                    "Clásicos (retirados)",
-                    "Clásico (retirado)",
-                    "Classique (obsolète)",
-                    "Classiche (non più disponibili)",
-                    "クラシック（終了）",
-                    "클래식 (종료)",
-                    "Klasyczne (wycofane)",
-                    "Clássico (Inativo)",
-                    "Классический формат (удаленный режим)",
-                    "คลาสสิค (ทำไม่ได้แล้ว)",
-                    "经典（已停运）",
-                    "經典(已退役)"
+                    "Classic",
+                    "Klassisch",
+                    "Clásico",
+                    "Clásico",
+                    "Classique",
+                    "Classica",
+                    "クラシック",
+                    "오리지널",
+                    "Klasyczne",
+                    "Clássico",
+                    "Классический набор",
+                    "คลาสสิค",
+                    "经典",
+                    "經典"
                 ],
                 "m_locId": 2730763
             },
@@ -1684,6 +1709,31 @@
             },
             "m_icon": "CATA",
             "m_sortOrder": 84
+        },
+        {
+            "m_ID": 332,
+            "m_achievementCategoryId": 3,
+            "m_name": {
+                "m_locValues": [
+                    "Violet Hold",
+                    "Violette Festung",
+                    "Bastión Violeta",
+                    "Bastión Violeta",
+                    "Fort Pourpre",
+                    "Fortezza Violacea",
+                    "ヴァイオレット監獄",
+                    "보랏빛 요새",
+                    "Purpurowa Twierdza",
+                    "Castelo Violeta",
+                    "Аметистовая крепость",
+                    "Violet Hold",
+                    "紫罗兰监狱",
+                    "紫羅蘭堡"
+                ],
+                "m_locId": 2947034
+            },
+            "m_icon": "JAIL",
+            "m_sortOrder": 83
         },
         {
             "m_ID": 23,

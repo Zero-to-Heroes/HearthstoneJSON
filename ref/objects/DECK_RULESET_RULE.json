@@ -521,40 +521,6 @@
             "m_showInvalidCards": 1
         },
         {
-            "m_ID": 4103,
-            "m_deckRulesetId": 1,
-            "m_appliesToSubsetId": 0,
-            "m_appliesToIsNot": 0,
-            "m_ruleType": 28,
-            "m_ruleIsNot": 0,
-            "m_minValue": 0,
-            "m_maxValue": 1,
-            "m_tagId": 0,
-            "m_tagMinValue": 0,
-            "m_tagMaxValue": 0,
-            "m_stringValue": "",
-            "m_errorString": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_showInvalidCards": 1
-        },
-        {
             "m_ID": 13,
             "m_deckRulesetId": 2,
             "m_appliesToSubsetId": 0,
@@ -1065,8 +1031,76 @@
             "m_showInvalidCards": 1
         },
         {
-            "m_ID": 4104,
-            "m_deckRulesetId": 2,
+            "m_ID": 4649,
+            "m_deckRulesetId": 3,
+            "m_appliesToSubsetId": 0,
+            "m_appliesToIsNot": 0,
+            "m_ruleType": 30,
+            "m_ruleIsNot": 0,
+            "m_minValue": 0,
+            "m_maxValue": 1,
+            "m_tagId": 997,
+            "m_tagMinValue": 0,
+            "m_tagMaxValue": 0,
+            "m_stringValue": "",
+            "m_errorString": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_showInvalidCards": 0
+        },
+        {
+            "m_ID": 4650,
+            "m_deckRulesetId": 3,
+            "m_appliesToSubsetId": 0,
+            "m_appliesToIsNot": 0,
+            "m_ruleType": 31,
+            "m_ruleIsNot": 0,
+            "m_minValue": 0,
+            "m_maxValue": 1,
+            "m_tagId": 997,
+            "m_tagMinValue": 0,
+            "m_tagMaxValue": 0,
+            "m_stringValue": "",
+            "m_errorString": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_showInvalidCards": 0
+        },
+        {
+            "m_ID": 5044,
+            "m_deckRulesetId": 3,
             "m_appliesToSubsetId": 0,
             "m_appliesToIsNot": 0,
             "m_ruleType": 28,
@@ -1405,40 +1439,6 @@
             "m_showInvalidCards": 1
         },
         {
-            "m_ID": 4287,
-            "m_deckRulesetId": 335,
-            "m_appliesToSubsetId": 0,
-            "m_appliesToIsNot": 0,
-            "m_ruleType": 28,
-            "m_ruleIsNot": 0,
-            "m_minValue": 0,
-            "m_maxValue": 1,
-            "m_tagId": 0,
-            "m_tagMinValue": 0,
-            "m_tagMaxValue": 0,
-            "m_stringValue": "",
-            "m_errorString": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_showInvalidCards": 1
-        },
-        {
             "m_ID": 4451,
             "m_deckRulesetId": 335,
             "m_appliesToSubsetId": 0,
@@ -1573,40 +1573,6 @@
                 "m_locId": 0
             },
             "m_showInvalidCards": 0
-        },
-        {
-            "m_ID": 4298,
-            "m_deckRulesetId": 440,
-            "m_appliesToSubsetId": 0,
-            "m_appliesToIsNot": 0,
-            "m_ruleType": 28,
-            "m_ruleIsNot": 0,
-            "m_minValue": 0,
-            "m_maxValue": 1,
-            "m_tagId": 0,
-            "m_tagMinValue": 0,
-            "m_tagMaxValue": 0,
-            "m_stringValue": "",
-            "m_errorString": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_showInvalidCards": 1
         },
         {
             "m_ID": 4467,
@@ -2187,40 +2153,6 @@
             "m_showInvalidCards": 1
         },
         {
-            "m_ID": 4308,
-            "m_deckRulesetId": 468,
-            "m_appliesToSubsetId": 0,
-            "m_appliesToIsNot": 0,
-            "m_ruleType": 28,
-            "m_ruleIsNot": 0,
-            "m_minValue": 0,
-            "m_maxValue": 1,
-            "m_tagId": 0,
-            "m_tagMinValue": 0,
-            "m_tagMaxValue": 0,
-            "m_stringValue": "",
-            "m_errorString": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_showInvalidCards": 1
-        },
-        {
             "m_ID": 4697,
             "m_deckRulesetId": 468,
             "m_appliesToSubsetId": 0,
@@ -2606,40 +2538,6 @@
             "m_tagId": 2936,
             "m_tagMinValue": 1,
             "m_tagMaxValue": 1,
-            "m_stringValue": "",
-            "m_errorString": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_showInvalidCards": 1
-        },
-        {
-            "m_ID": 4312,
-            "m_deckRulesetId": 475,
-            "m_appliesToSubsetId": 0,
-            "m_appliesToIsNot": 0,
-            "m_ruleType": 28,
-            "m_ruleIsNot": 0,
-            "m_minValue": 0,
-            "m_maxValue": 1,
-            "m_tagId": 0,
-            "m_tagMinValue": 0,
-            "m_tagMaxValue": 0,
             "m_stringValue": "",
             "m_errorString": {
                 "m_locValues": [
@@ -3103,40 +3001,6 @@
                 "m_locId": 0
             },
             "m_showInvalidCards": 0
-        },
-        {
-            "m_ID": 4315,
-            "m_deckRulesetId": 482,
-            "m_appliesToSubsetId": 0,
-            "m_appliesToIsNot": 0,
-            "m_ruleType": 28,
-            "m_ruleIsNot": 0,
-            "m_minValue": 0,
-            "m_maxValue": 1,
-            "m_tagId": 0,
-            "m_tagMinValue": 0,
-            "m_tagMaxValue": 0,
-            "m_stringValue": "",
-            "m_errorString": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_showInvalidCards": 1
         },
         {
             "m_ID": 4443,
@@ -3751,40 +3615,6 @@
             "m_showInvalidCards": 0
         },
         {
-            "m_ID": 4323,
-            "m_deckRulesetId": 523,
-            "m_appliesToSubsetId": 0,
-            "m_appliesToIsNot": 0,
-            "m_ruleType": 28,
-            "m_ruleIsNot": 0,
-            "m_minValue": 0,
-            "m_maxValue": 1,
-            "m_tagId": 0,
-            "m_tagMinValue": 0,
-            "m_tagMaxValue": 0,
-            "m_stringValue": "",
-            "m_errorString": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_showInvalidCards": 1
-        },
-        {
             "m_ID": 4675,
             "m_deckRulesetId": 523,
             "m_appliesToSubsetId": 0,
@@ -4259,40 +4089,6 @@
                 "m_locId": 0
             },
             "m_showInvalidCards": 0
-        },
-        {
-            "m_ID": 4324,
-            "m_deckRulesetId": 524,
-            "m_appliesToSubsetId": 0,
-            "m_appliesToIsNot": 0,
-            "m_ruleType": 28,
-            "m_ruleIsNot": 0,
-            "m_minValue": 0,
-            "m_maxValue": 1,
-            "m_tagId": 0,
-            "m_tagMinValue": 0,
-            "m_tagMaxValue": 0,
-            "m_stringValue": "",
-            "m_errorString": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_showInvalidCards": 1
         },
         {
             "m_ID": 4683,
@@ -4839,40 +4635,6 @@
             "m_showInvalidCards": 0
         },
         {
-            "m_ID": 4325,
-            "m_deckRulesetId": 525,
-            "m_appliesToSubsetId": 0,
-            "m_appliesToIsNot": 0,
-            "m_ruleType": 28,
-            "m_ruleIsNot": 0,
-            "m_minValue": 0,
-            "m_maxValue": 1,
-            "m_tagId": 0,
-            "m_tagMinValue": 0,
-            "m_tagMaxValue": 0,
-            "m_stringValue": "",
-            "m_errorString": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_showInvalidCards": 1
-        },
-        {
             "m_ID": 4687,
             "m_deckRulesetId": 525,
             "m_appliesToSubsetId": 0,
@@ -5415,40 +5177,6 @@
                 "m_locId": 0
             },
             "m_showInvalidCards": 0
-        },
-        {
-            "m_ID": 4327,
-            "m_deckRulesetId": 527,
-            "m_appliesToSubsetId": 0,
-            "m_appliesToIsNot": 0,
-            "m_ruleType": 28,
-            "m_ruleIsNot": 0,
-            "m_minValue": 0,
-            "m_maxValue": 1,
-            "m_tagId": 0,
-            "m_tagMinValue": 0,
-            "m_tagMaxValue": 0,
-            "m_stringValue": "",
-            "m_errorString": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_showInvalidCards": 1
         },
         {
             "m_ID": 4676,
@@ -6063,40 +5791,6 @@
             "m_showInvalidCards": 0
         },
         {
-            "m_ID": 4328,
-            "m_deckRulesetId": 528,
-            "m_appliesToSubsetId": 0,
-            "m_appliesToIsNot": 0,
-            "m_ruleType": 28,
-            "m_ruleIsNot": 0,
-            "m_minValue": 0,
-            "m_maxValue": 1,
-            "m_tagId": 0,
-            "m_tagMinValue": 0,
-            "m_tagMaxValue": 0,
-            "m_stringValue": "",
-            "m_errorString": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_showInvalidCards": 1
-        },
-        {
             "m_ID": 4663,
             "m_deckRulesetId": 528,
             "m_appliesToSubsetId": 0,
@@ -6584,40 +6278,6 @@
             "m_tagId": 2936,
             "m_tagMinValue": 1,
             "m_tagMaxValue": 1,
-            "m_stringValue": "",
-            "m_errorString": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_showInvalidCards": 1
-        },
-        {
-            "m_ID": 4329,
-            "m_deckRulesetId": 530,
-            "m_appliesToSubsetId": 0,
-            "m_appliesToIsNot": 0,
-            "m_ruleType": 28,
-            "m_ruleIsNot": 0,
-            "m_minValue": 0,
-            "m_maxValue": 1,
-            "m_tagId": 0,
-            "m_tagMinValue": 0,
-            "m_tagMaxValue": 0,
             "m_stringValue": "",
             "m_errorString": {
                 "m_locValues": [
@@ -7149,40 +6809,6 @@
                 "m_locId": 0
             },
             "m_showInvalidCards": 0
-        },
-        {
-            "m_ID": 4330,
-            "m_deckRulesetId": 535,
-            "m_appliesToSubsetId": 0,
-            "m_appliesToIsNot": 0,
-            "m_ruleType": 28,
-            "m_ruleIsNot": 0,
-            "m_minValue": 0,
-            "m_maxValue": 1,
-            "m_tagId": 0,
-            "m_tagMinValue": 0,
-            "m_tagMaxValue": 0,
-            "m_stringValue": "",
-            "m_errorString": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_showInvalidCards": 1
         },
         {
             "m_ID": 4664,
@@ -7729,40 +7355,6 @@
             "m_showInvalidCards": 0
         },
         {
-            "m_ID": 4157,
-            "m_deckRulesetId": 538,
-            "m_appliesToSubsetId": 0,
-            "m_appliesToIsNot": 0,
-            "m_ruleType": 28,
-            "m_ruleIsNot": 0,
-            "m_minValue": 0,
-            "m_maxValue": 1,
-            "m_tagId": 0,
-            "m_tagMinValue": 0,
-            "m_tagMaxValue": 0,
-            "m_stringValue": "",
-            "m_errorString": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_showInvalidCards": 1
-        },
-        {
             "m_ID": 3515,
             "m_deckRulesetId": 539,
             "m_appliesToSubsetId": 0,
@@ -8271,40 +7863,6 @@
                 "m_locId": 0
             },
             "m_showInvalidCards": 0
-        },
-        {
-            "m_ID": 4156,
-            "m_deckRulesetId": 539,
-            "m_appliesToSubsetId": 0,
-            "m_appliesToIsNot": 0,
-            "m_ruleType": 28,
-            "m_ruleIsNot": 0,
-            "m_minValue": 0,
-            "m_maxValue": 1,
-            "m_tagId": 0,
-            "m_tagMinValue": 0,
-            "m_tagMaxValue": 0,
-            "m_stringValue": "",
-            "m_errorString": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_showInvalidCards": 1
         },
         {
             "m_ID": 3529,
@@ -8817,40 +8375,6 @@
             "m_showInvalidCards": 0
         },
         {
-            "m_ID": 4155,
-            "m_deckRulesetId": 540,
-            "m_appliesToSubsetId": 0,
-            "m_appliesToIsNot": 0,
-            "m_ruleType": 28,
-            "m_ruleIsNot": 0,
-            "m_minValue": 0,
-            "m_maxValue": 1,
-            "m_tagId": 0,
-            "m_tagMinValue": 0,
-            "m_tagMaxValue": 0,
-            "m_stringValue": "",
-            "m_errorString": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_showInvalidCards": 1
-        },
-        {
             "m_ID": 3543,
             "m_deckRulesetId": 541,
             "m_appliesToSubsetId": 0,
@@ -9359,40 +8883,6 @@
                 "m_locId": 0
             },
             "m_showInvalidCards": 0
-        },
-        {
-            "m_ID": 4154,
-            "m_deckRulesetId": 541,
-            "m_appliesToSubsetId": 0,
-            "m_appliesToIsNot": 0,
-            "m_ruleType": 28,
-            "m_ruleIsNot": 0,
-            "m_minValue": 0,
-            "m_maxValue": 1,
-            "m_tagId": 0,
-            "m_tagMinValue": 0,
-            "m_tagMaxValue": 0,
-            "m_stringValue": "",
-            "m_errorString": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_showInvalidCards": 1
         },
         {
             "m_ID": 3585,
@@ -9905,40 +9395,6 @@
             "m_showInvalidCards": 0
         },
         {
-            "m_ID": 4153,
-            "m_deckRulesetId": 544,
-            "m_appliesToSubsetId": 0,
-            "m_appliesToIsNot": 0,
-            "m_ruleType": 28,
-            "m_ruleIsNot": 0,
-            "m_minValue": 0,
-            "m_maxValue": 1,
-            "m_tagId": 0,
-            "m_tagMinValue": 0,
-            "m_tagMaxValue": 0,
-            "m_stringValue": "",
-            "m_errorString": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_showInvalidCards": 1
-        },
-        {
             "m_ID": 3599,
             "m_deckRulesetId": 545,
             "m_appliesToSubsetId": 0,
@@ -10447,40 +9903,6 @@
                 "m_locId": 0
             },
             "m_showInvalidCards": 0
-        },
-        {
-            "m_ID": 4152,
-            "m_deckRulesetId": 545,
-            "m_appliesToSubsetId": 0,
-            "m_appliesToIsNot": 0,
-            "m_ruleType": 28,
-            "m_ruleIsNot": 0,
-            "m_minValue": 0,
-            "m_maxValue": 1,
-            "m_tagId": 0,
-            "m_tagMinValue": 0,
-            "m_tagMaxValue": 0,
-            "m_stringValue": "",
-            "m_errorString": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_showInvalidCards": 1
         },
         {
             "m_ID": 3613,
@@ -10993,40 +10415,6 @@
             "m_showInvalidCards": 0
         },
         {
-            "m_ID": 4151,
-            "m_deckRulesetId": 546,
-            "m_appliesToSubsetId": 0,
-            "m_appliesToIsNot": 0,
-            "m_ruleType": 28,
-            "m_ruleIsNot": 0,
-            "m_minValue": 0,
-            "m_maxValue": 1,
-            "m_tagId": 0,
-            "m_tagMinValue": 0,
-            "m_tagMaxValue": 0,
-            "m_stringValue": "",
-            "m_errorString": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_showInvalidCards": 1
-        },
-        {
             "m_ID": 3627,
             "m_deckRulesetId": 547,
             "m_appliesToSubsetId": 0,
@@ -11535,40 +10923,6 @@
                 "m_locId": 0
             },
             "m_showInvalidCards": 0
-        },
-        {
-            "m_ID": 4150,
-            "m_deckRulesetId": 547,
-            "m_appliesToSubsetId": 0,
-            "m_appliesToIsNot": 0,
-            "m_ruleType": 28,
-            "m_ruleIsNot": 0,
-            "m_minValue": 0,
-            "m_maxValue": 1,
-            "m_tagId": 0,
-            "m_tagMinValue": 0,
-            "m_tagMaxValue": 0,
-            "m_stringValue": "",
-            "m_errorString": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_showInvalidCards": 1
         },
         {
             "m_ID": 3641,
@@ -12081,40 +11435,6 @@
             "m_showInvalidCards": 0
         },
         {
-            "m_ID": 4149,
-            "m_deckRulesetId": 548,
-            "m_appliesToSubsetId": 0,
-            "m_appliesToIsNot": 0,
-            "m_ruleType": 28,
-            "m_ruleIsNot": 0,
-            "m_minValue": 0,
-            "m_maxValue": 1,
-            "m_tagId": 0,
-            "m_tagMinValue": 0,
-            "m_tagMaxValue": 0,
-            "m_stringValue": "",
-            "m_errorString": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_showInvalidCards": 1
-        },
-        {
             "m_ID": 3655,
             "m_deckRulesetId": 549,
             "m_appliesToSubsetId": 0,
@@ -12623,40 +11943,6 @@
                 "m_locId": 0
             },
             "m_showInvalidCards": 0
-        },
-        {
-            "m_ID": 4148,
-            "m_deckRulesetId": 549,
-            "m_appliesToSubsetId": 0,
-            "m_appliesToIsNot": 0,
-            "m_ruleType": 28,
-            "m_ruleIsNot": 0,
-            "m_minValue": 0,
-            "m_maxValue": 1,
-            "m_tagId": 0,
-            "m_tagMinValue": 0,
-            "m_tagMaxValue": 0,
-            "m_stringValue": "",
-            "m_errorString": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_showInvalidCards": 1
         },
         {
             "m_ID": 3669,
@@ -13169,40 +12455,6 @@
             "m_showInvalidCards": 0
         },
         {
-            "m_ID": 4147,
-            "m_deckRulesetId": 550,
-            "m_appliesToSubsetId": 0,
-            "m_appliesToIsNot": 0,
-            "m_ruleType": 28,
-            "m_ruleIsNot": 0,
-            "m_minValue": 0,
-            "m_maxValue": 1,
-            "m_tagId": 0,
-            "m_tagMinValue": 0,
-            "m_tagMaxValue": 0,
-            "m_stringValue": "",
-            "m_errorString": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_showInvalidCards": 1
-        },
-        {
             "m_ID": 3683,
             "m_deckRulesetId": 551,
             "m_appliesToSubsetId": 0,
@@ -13711,40 +12963,6 @@
                 "m_locId": 0
             },
             "m_showInvalidCards": 0
-        },
-        {
-            "m_ID": 4146,
-            "m_deckRulesetId": 551,
-            "m_appliesToSubsetId": 0,
-            "m_appliesToIsNot": 0,
-            "m_ruleType": 28,
-            "m_ruleIsNot": 0,
-            "m_minValue": 0,
-            "m_maxValue": 1,
-            "m_tagId": 0,
-            "m_tagMinValue": 0,
-            "m_tagMaxValue": 0,
-            "m_stringValue": "",
-            "m_errorString": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_showInvalidCards": 1
         },
         {
             "m_ID": 3697,
@@ -14257,40 +13475,6 @@
             "m_showInvalidCards": 0
         },
         {
-            "m_ID": 4145,
-            "m_deckRulesetId": 552,
-            "m_appliesToSubsetId": 0,
-            "m_appliesToIsNot": 0,
-            "m_ruleType": 28,
-            "m_ruleIsNot": 0,
-            "m_minValue": 0,
-            "m_maxValue": 1,
-            "m_tagId": 0,
-            "m_tagMinValue": 0,
-            "m_tagMaxValue": 0,
-            "m_stringValue": "",
-            "m_errorString": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_showInvalidCards": 1
-        },
-        {
             "m_ID": 3711,
             "m_deckRulesetId": 553,
             "m_appliesToSubsetId": 0,
@@ -14799,40 +13983,6 @@
                 "m_locId": 0
             },
             "m_showInvalidCards": 0
-        },
-        {
-            "m_ID": 4144,
-            "m_deckRulesetId": 553,
-            "m_appliesToSubsetId": 0,
-            "m_appliesToIsNot": 0,
-            "m_ruleType": 28,
-            "m_ruleIsNot": 0,
-            "m_minValue": 0,
-            "m_maxValue": 1,
-            "m_tagId": 0,
-            "m_tagMinValue": 0,
-            "m_tagMaxValue": 0,
-            "m_stringValue": "",
-            "m_errorString": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_showInvalidCards": 1
         },
         {
             "m_ID": 3725,
@@ -15345,40 +14495,6 @@
             "m_showInvalidCards": 0
         },
         {
-            "m_ID": 4143,
-            "m_deckRulesetId": 554,
-            "m_appliesToSubsetId": 0,
-            "m_appliesToIsNot": 0,
-            "m_ruleType": 28,
-            "m_ruleIsNot": 0,
-            "m_minValue": 0,
-            "m_maxValue": 1,
-            "m_tagId": 0,
-            "m_tagMinValue": 0,
-            "m_tagMaxValue": 0,
-            "m_stringValue": "",
-            "m_errorString": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_showInvalidCards": 1
-        },
-        {
             "m_ID": 3739,
             "m_deckRulesetId": 555,
             "m_appliesToSubsetId": 0,
@@ -15887,40 +15003,6 @@
                 "m_locId": 0
             },
             "m_showInvalidCards": 0
-        },
-        {
-            "m_ID": 4142,
-            "m_deckRulesetId": 555,
-            "m_appliesToSubsetId": 0,
-            "m_appliesToIsNot": 0,
-            "m_ruleType": 28,
-            "m_ruleIsNot": 0,
-            "m_minValue": 0,
-            "m_maxValue": 1,
-            "m_tagId": 0,
-            "m_tagMinValue": 0,
-            "m_tagMaxValue": 0,
-            "m_stringValue": "",
-            "m_errorString": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_showInvalidCards": 1
         },
         {
             "m_ID": 3753,
@@ -16433,40 +15515,6 @@
             "m_showInvalidCards": 0
         },
         {
-            "m_ID": 4141,
-            "m_deckRulesetId": 556,
-            "m_appliesToSubsetId": 0,
-            "m_appliesToIsNot": 0,
-            "m_ruleType": 28,
-            "m_ruleIsNot": 0,
-            "m_minValue": 0,
-            "m_maxValue": 1,
-            "m_tagId": 0,
-            "m_tagMinValue": 0,
-            "m_tagMaxValue": 0,
-            "m_stringValue": "",
-            "m_errorString": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_showInvalidCards": 1
-        },
-        {
             "m_ID": 3767,
             "m_deckRulesetId": 557,
             "m_appliesToSubsetId": 0,
@@ -16975,40 +16023,6 @@
                 "m_locId": 0
             },
             "m_showInvalidCards": 0
-        },
-        {
-            "m_ID": 4140,
-            "m_deckRulesetId": 557,
-            "m_appliesToSubsetId": 0,
-            "m_appliesToIsNot": 0,
-            "m_ruleType": 28,
-            "m_ruleIsNot": 0,
-            "m_minValue": 0,
-            "m_maxValue": 1,
-            "m_tagId": 0,
-            "m_tagMinValue": 0,
-            "m_tagMaxValue": 0,
-            "m_stringValue": "",
-            "m_errorString": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_showInvalidCards": 1
         },
         {
             "m_ID": 3781,
@@ -17521,40 +16535,6 @@
             "m_showInvalidCards": 0
         },
         {
-            "m_ID": 4139,
-            "m_deckRulesetId": 558,
-            "m_appliesToSubsetId": 0,
-            "m_appliesToIsNot": 0,
-            "m_ruleType": 28,
-            "m_ruleIsNot": 0,
-            "m_minValue": 0,
-            "m_maxValue": 1,
-            "m_tagId": 0,
-            "m_tagMinValue": 0,
-            "m_tagMaxValue": 0,
-            "m_stringValue": "",
-            "m_errorString": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_showInvalidCards": 1
-        },
-        {
             "m_ID": 3795,
             "m_deckRulesetId": 559,
             "m_appliesToSubsetId": 0,
@@ -18063,40 +17043,6 @@
                 "m_locId": 0
             },
             "m_showInvalidCards": 0
-        },
-        {
-            "m_ID": 4138,
-            "m_deckRulesetId": 559,
-            "m_appliesToSubsetId": 0,
-            "m_appliesToIsNot": 0,
-            "m_ruleType": 28,
-            "m_ruleIsNot": 0,
-            "m_minValue": 0,
-            "m_maxValue": 1,
-            "m_tagId": 0,
-            "m_tagMinValue": 0,
-            "m_tagMaxValue": 0,
-            "m_stringValue": "",
-            "m_errorString": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_showInvalidCards": 1
         },
         {
             "m_ID": 3809,
@@ -18609,40 +17555,6 @@
             "m_showInvalidCards": 0
         },
         {
-            "m_ID": 4137,
-            "m_deckRulesetId": 560,
-            "m_appliesToSubsetId": 0,
-            "m_appliesToIsNot": 0,
-            "m_ruleType": 28,
-            "m_ruleIsNot": 0,
-            "m_minValue": 0,
-            "m_maxValue": 1,
-            "m_tagId": 0,
-            "m_tagMinValue": 0,
-            "m_tagMaxValue": 0,
-            "m_stringValue": "",
-            "m_errorString": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_showInvalidCards": 1
-        },
-        {
             "m_ID": 3823,
             "m_deckRulesetId": 561,
             "m_appliesToSubsetId": 0,
@@ -19151,40 +18063,6 @@
                 "m_locId": 0
             },
             "m_showInvalidCards": 0
-        },
-        {
-            "m_ID": 4136,
-            "m_deckRulesetId": 561,
-            "m_appliesToSubsetId": 0,
-            "m_appliesToIsNot": 0,
-            "m_ruleType": 28,
-            "m_ruleIsNot": 0,
-            "m_minValue": 0,
-            "m_maxValue": 1,
-            "m_tagId": 0,
-            "m_tagMinValue": 0,
-            "m_tagMaxValue": 0,
-            "m_stringValue": "",
-            "m_errorString": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_showInvalidCards": 1
         },
         {
             "m_ID": 3837,
@@ -19697,40 +18575,6 @@
             "m_showInvalidCards": 0
         },
         {
-            "m_ID": 4135,
-            "m_deckRulesetId": 562,
-            "m_appliesToSubsetId": 0,
-            "m_appliesToIsNot": 0,
-            "m_ruleType": 28,
-            "m_ruleIsNot": 0,
-            "m_minValue": 0,
-            "m_maxValue": 1,
-            "m_tagId": 0,
-            "m_tagMinValue": 0,
-            "m_tagMaxValue": 0,
-            "m_stringValue": "",
-            "m_errorString": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_showInvalidCards": 1
-        },
-        {
             "m_ID": 3851,
             "m_deckRulesetId": 563,
             "m_appliesToSubsetId": 0,
@@ -20239,40 +19083,6 @@
                 "m_locId": 0
             },
             "m_showInvalidCards": 0
-        },
-        {
-            "m_ID": 4134,
-            "m_deckRulesetId": 563,
-            "m_appliesToSubsetId": 0,
-            "m_appliesToIsNot": 0,
-            "m_ruleType": 28,
-            "m_ruleIsNot": 0,
-            "m_minValue": 0,
-            "m_maxValue": 1,
-            "m_tagId": 0,
-            "m_tagMinValue": 0,
-            "m_tagMaxValue": 0,
-            "m_stringValue": "",
-            "m_errorString": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_showInvalidCards": 1
         },
         {
             "m_ID": 3865,
@@ -20785,40 +19595,6 @@
             "m_showInvalidCards": 0
         },
         {
-            "m_ID": 4133,
-            "m_deckRulesetId": 564,
-            "m_appliesToSubsetId": 0,
-            "m_appliesToIsNot": 0,
-            "m_ruleType": 28,
-            "m_ruleIsNot": 0,
-            "m_minValue": 0,
-            "m_maxValue": 1,
-            "m_tagId": 0,
-            "m_tagMinValue": 0,
-            "m_tagMaxValue": 0,
-            "m_stringValue": "",
-            "m_errorString": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_showInvalidCards": 1
-        },
-        {
             "m_ID": 3879,
             "m_deckRulesetId": 565,
             "m_appliesToSubsetId": 0,
@@ -21327,40 +20103,6 @@
                 "m_locId": 0
             },
             "m_showInvalidCards": 0
-        },
-        {
-            "m_ID": 4132,
-            "m_deckRulesetId": 565,
-            "m_appliesToSubsetId": 0,
-            "m_appliesToIsNot": 0,
-            "m_ruleType": 28,
-            "m_ruleIsNot": 0,
-            "m_minValue": 0,
-            "m_maxValue": 1,
-            "m_tagId": 0,
-            "m_tagMinValue": 0,
-            "m_tagMaxValue": 0,
-            "m_stringValue": "",
-            "m_errorString": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_showInvalidCards": 1
         },
         {
             "m_ID": 3893,
@@ -21873,40 +20615,6 @@
             "m_showInvalidCards": 0
         },
         {
-            "m_ID": 4131,
-            "m_deckRulesetId": 566,
-            "m_appliesToSubsetId": 0,
-            "m_appliesToIsNot": 0,
-            "m_ruleType": 28,
-            "m_ruleIsNot": 0,
-            "m_minValue": 0,
-            "m_maxValue": 1,
-            "m_tagId": 0,
-            "m_tagMinValue": 0,
-            "m_tagMaxValue": 0,
-            "m_stringValue": "",
-            "m_errorString": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_showInvalidCards": 1
-        },
-        {
             "m_ID": 3907,
             "m_deckRulesetId": 567,
             "m_appliesToSubsetId": 0,
@@ -22415,40 +21123,6 @@
                 "m_locId": 0
             },
             "m_showInvalidCards": 0
-        },
-        {
-            "m_ID": 4130,
-            "m_deckRulesetId": 567,
-            "m_appliesToSubsetId": 0,
-            "m_appliesToIsNot": 0,
-            "m_ruleType": 28,
-            "m_ruleIsNot": 0,
-            "m_minValue": 0,
-            "m_maxValue": 1,
-            "m_tagId": 0,
-            "m_tagMinValue": 0,
-            "m_tagMaxValue": 0,
-            "m_stringValue": "",
-            "m_errorString": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_showInvalidCards": 1
         },
         {
             "m_ID": 3921,
@@ -22961,40 +21635,6 @@
             "m_showInvalidCards": 0
         },
         {
-            "m_ID": 4129,
-            "m_deckRulesetId": 568,
-            "m_appliesToSubsetId": 0,
-            "m_appliesToIsNot": 0,
-            "m_ruleType": 28,
-            "m_ruleIsNot": 0,
-            "m_minValue": 0,
-            "m_maxValue": 1,
-            "m_tagId": 0,
-            "m_tagMinValue": 0,
-            "m_tagMaxValue": 0,
-            "m_stringValue": "",
-            "m_errorString": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_showInvalidCards": 1
-        },
-        {
             "m_ID": 3935,
             "m_deckRulesetId": 569,
             "m_appliesToSubsetId": 0,
@@ -23503,40 +22143,6 @@
                 "m_locId": 0
             },
             "m_showInvalidCards": 0
-        },
-        {
-            "m_ID": 4128,
-            "m_deckRulesetId": 569,
-            "m_appliesToSubsetId": 0,
-            "m_appliesToIsNot": 0,
-            "m_ruleType": 28,
-            "m_ruleIsNot": 0,
-            "m_minValue": 0,
-            "m_maxValue": 1,
-            "m_tagId": 0,
-            "m_tagMinValue": 0,
-            "m_tagMaxValue": 0,
-            "m_stringValue": "",
-            "m_errorString": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_showInvalidCards": 1
         },
         {
             "m_ID": 3949,
@@ -24049,40 +22655,6 @@
             "m_showInvalidCards": 0
         },
         {
-            "m_ID": 4127,
-            "m_deckRulesetId": 570,
-            "m_appliesToSubsetId": 0,
-            "m_appliesToIsNot": 0,
-            "m_ruleType": 28,
-            "m_ruleIsNot": 0,
-            "m_minValue": 0,
-            "m_maxValue": 1,
-            "m_tagId": 0,
-            "m_tagMinValue": 0,
-            "m_tagMaxValue": 0,
-            "m_stringValue": "",
-            "m_errorString": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_showInvalidCards": 1
-        },
-        {
             "m_ID": 4027,
             "m_deckRulesetId": 572,
             "m_appliesToSubsetId": 0,
@@ -24251,40 +22823,6 @@
                 "m_locId": 0
             },
             "m_showInvalidCards": 0
-        },
-        {
-            "m_ID": 4333,
-            "m_deckRulesetId": 572,
-            "m_appliesToSubsetId": 0,
-            "m_appliesToIsNot": 0,
-            "m_ruleType": 28,
-            "m_ruleIsNot": 0,
-            "m_minValue": 0,
-            "m_maxValue": 1,
-            "m_tagId": 0,
-            "m_tagMinValue": 0,
-            "m_tagMaxValue": 0,
-            "m_stringValue": "",
-            "m_errorString": {
-                "m_locValues": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "m_locId": 0
-            },
-            "m_showInvalidCards": 1
         },
         {
             "m_ID": 4668,

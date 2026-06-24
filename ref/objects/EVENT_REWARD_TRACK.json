@@ -4042,6 +4042,68 @@
         },
         {
             "m_ID": 0,
+            "m_specialEventId": 71,
+            "m_eventRewardTrackId": 171,
+            "m_choiceConfirmationText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_shortConclusion": {
+                "m_locValues": [
+                    "PLACEHOLDER",
+                    "PLATZHALTER",
+                    "PLACEHOLDER",
+                    "PLACEHOLDER",
+                    "TEMPORAIRE",
+                    "PLACEHOLDER",
+                    "プレースホルダー",
+                    "임시",
+                    "PLACEHOLDER",
+                    "TEMPORÁRIO",
+                    "ЗАГЛУШКА",
+                    "ข้อความตัวแทน",
+                    "占位",
+                    "佔位符"
+                ],
+                "m_locId": 2948967
+            },
+            "m_longConclusion": {
+                "m_locValues": [
+                    "PLACEHOLDER",
+                    "PLATZHALTER",
+                    "PLACEHOLDER",
+                    "PLACEHOLDER",
+                    "TEMPORAIRE",
+                    "PLACEHOLDER",
+                    "プレースホルダー",
+                    "임시",
+                    "PLACEHOLDER",
+                    "TEMPORÁRIO",
+                    "ЗАГЛУШКА",
+                    "ข้อความตัวแทน",
+                    "占位",
+                    "佔位符"
+                ],
+                "m_locId": 2948968
+            }
+        },
+        {
+            "m_ID": 0,
             "m_specialEventId": 72,
             "m_eventRewardTrackId": 172,
             "m_choiceConfirmationText": {
@@ -4162,6 +4224,254 @@
                     "目前的安全漏洞尚未解決。\n這些囚犯比先前評估得更加狡猾且危險。\n我要求立即封鎖所有出口，並徹底搜查監獄的每個房間。\n在我的管轄範圍內，絕不容許任何人從此地逃離。\n\n- 瑪翼夫‧影歌"
                 ],
                 "m_locId": 2950010
+            }
+        },
+        {
+            "m_ID": 0,
+            "m_specialEventId": 74,
+            "m_eventRewardTrackId": 174,
+            "m_choiceConfirmationText": {
+                "m_locValues": [
+                    "Go with Beatrix?",
+                    "Mit Beatrix gehen?",
+                    "¿Vas con Beatrix?",
+                    "¿Ir con Beatrix?",
+                    "Opter pour Beatrix ?",
+                    "Vai con Beatrix?",
+                    "ビアトリックスと一緒に行く？",
+                    "베아트릭스와 함께 갈까요?",
+                    "Wybierasz Beatrycze?",
+                    "Ir com Beatrix?",
+                    "Выбрать Беатрису?",
+                    "ไปกับเบียทริกซ์",
+                    "与碧阿崔克丝同行？",
+                    "要和碧翠絲一起走嗎？"
+                ],
+                "m_locId": 2951079
+            },
+            "m_shortConclusion": {
+                "m_locValues": [
+                    "Time to Improvise!",
+                    "Zeit zu improvisieren!",
+                    "¡Hora de improvisar!",
+                    "¡Hora de improvisar!",
+                    "C’est le moment d’improviser !",
+                    "È ora di improvvisare!",
+                    "臨機応変にいくよ！",
+                    "임기응변이 필요한 때다!",
+                    "Czas na improwizację!",
+                    "Hora de improvisar!",
+                    "Пора импровизировать!",
+                    "ถึงเวลาพลิกแพลง!",
+                    "见招拆招！",
+                    "是時候隨機應變了！"
+                ],
+                "m_locId": 2951426
+            },
+            "m_longConclusion": {
+                "m_locValues": [
+                    "I knew this team could make it through the Labyrinth, but the Warden\nhad one last trap at the end of it. We hoped it would lead outside,\nbut we've ended up at the cell of a voidlord, Zuramat the Obliterator.\n\nBut the joke's on the Warden if she thinks that's going to stop us.\nWe need to distract the guards, and a rampaging voidlord's very distracting.\nIt might level the place, but that's not our problem — we'll be long gone.\n\n- Vanessa",
+                    "Ich wusste, dass dieses Team es durch das Labyrinth schaffen würde, aber die Wächterin\nhatte am Ende noch eine letzte Falle parat. Wir hofften, sie würde nach draußen führen,\ndoch stattdessen sind wir in der Zelle eines Leerenfürsten gelandet: Zuramat der Vernichter.\n\nAber die Wächterin wird sich wundern, wenn sie meint, das hält uns auf.\nWir müssen die Wachen ablenken, und ein tobender Leerenfürst ist eine verdammt gute Ablenkung.\nEr könnte den Ort dem Erdboden gleichmachen, aber das ist nicht unser Problem — wir werden dann schon lange weg sein.\n\n--Vanessa",
+                    "Sabía que este equipo podría salir del laberinto, pero la celadora\nhabía preparado una última trampa en la salida. Creíamos que daba al exterior,\npero acabamos en la celda de un señor del Vacío, Zuramat el Obliterador.\n\nMás ilusa es la celadora si cree que con eso podrá detenernos.\nTenemos que distraer a los guardias, y un señor del Vacío campando a sus anchas distrae que no veas.\nA lo mejor lo reduce todo a escombros, pero ese no es nuestro problema; ya nos habremos ido hace mucho.\n\n-Vanessa",
+                    "Sabía que este equipo era capaz de salir del Laberinto, pero la celadora\ntenía una última trampa preparada al final. Creíamos que este camino nos llevaría afuera,\npero terminamos en la celda de un señor del Vacío: Zuramat el Obliterador.\n\nSin embargo, la celadora se llevará una sorpresa si cree que puede detenernos.\nTenemos que distraer a los guardias, y un señor del Vacío desenfrenado es una gran distracción.\nTal vez destruya todo el lugar, pero ese no es nuestro problema... Para ese entonces, ya nos habremos ido.\n\n- Vanessa",
+                    "Je savais que cette équipe pouvait traverser le Labyrinthe, mais la Gardienne\navait placé un dernier piège à la sortie. Nous espérions qu’il nous mènerait dehors,\nmais nous nous sommes retrouvés dans la cellule d’un seigneur du Vide, Zuramat l’Oblitérateur.\n\nCependant, la Gardienne fait erreur si elle pense que ça va nous arrêter.\nNous devons distraire l’attention des gardes, et quoi de mieux pour cela qu’un seigneur du Vide déchaîné ?\nIl peut bien raser cet endroit, ce n’est pas notre problème… Nous serons loin depuis longtemps.\n\n– Vanessa",
+                    "Sapevo che questa squadra sarebbe riuscita ad arrivare alla fine del labirinto, ma la custode\naveva in serbo un'ultima trappola. Credevamo che saremmo usciti,\ninvece siamo finiti nella cella di un Signore del Vuoto, Zuramat il Disintegratore.\n\nComunque, la custode è un'illusa, se pensa di poterci fermare.\nDobbiamo distrarre le guardie, e un Signore del Vuoto infuriato è un'ottima distrazione.\nForse questo posto verrà disintegrato, ma la cosa non ci riguarda, ce ne saremo andati da tempo.\n\n- Vanessa",
+                    "このチームなら迷宮を抜け出せると思ってたけど、看守は最後に\nもう一つ罠を用意してた。外に出られることを期待してたのに、\nたどり着いた先はヴォイドロードの覆滅魔ズラマットの監房だった。\n\nでも、それくらいであたしたちを止められると思ってるなら、大間違いよ。\n看守の気を散らさなきゃいけないけど、暴れるヴォイドロードはまさにうってつけ。\n瓦礫だけになるとしても、知ったことじゃない。その頃には、あたしたちは消えてるんだからね。\n\n- ヴァネッサ",
+                    "이 팀이라면 미궁을 빠져나올 수 있을 것은 알았지만, 감시관이\n미궁 끝에 마지막 함정을 준비해 두었다. 미궁에서 나가면 바깥일 줄 알았는데,\n공허군주인 파멸자 주라마트의 감방에 도착한 것이다.\n\n하지만 이것으로 우리를 막을 수 있을 거라 생각한다면ㅡ 거꾸로 당하는 건 감시관 쪽이야.\n우리는 경비병들을 따돌려야 하는데, 난동을 부리는 공허군주만큼 이목을 끄는 것이 어디 있겠어?\n이곳이 초토화되겠지만 그건 우리 문제가 아니지. 그때면 우린 여길 뜬 지 오래일 테니.\n\n- 바네사",
+                    "Wiedziałam, że ta ekipa poradzi sobie w Labiryncie, ale Strażniczka\nprzygotowała na koniec jeszcze jedną pułapkę. Liczyliśmy, że trafimy na zewnątrz,\na wylądowaliśmy w celi Pana Pustki, Zuramata Pustoszyciela.\n\nJednak Strażniczka grubo się myli, jeśli sądzi, że to nas powstrzyma.\nMusimy odwrócić uwagę straży, a szalejący Pan Pustki nadaje się do tego idealnie.\nMoże i zrówna to miejsce z ziemią, ale to nie nasz problem – my będziemy już daleko.\n\n– Vanessa",
+                    "Eu sabia que o nosso bando conseguiria atravessar o Labirinto, mas a Guardiã\ntinha uma última armadilha. Esperávamos que ela guardasse a saída,\nmas acabamos na cela de um Senhor do Caos, Zuramat, o Obliterador.\n\nMas vamos mostrar para a Guardiã que quem ri por último, ri melhor.\nPrecisamos desviar a atenção dos guardas, e um Senhor do Caos em fúria é uma bela distração.\nTalvez ele acabe com este lugar, mas aí não é problema nosso... já estaremos bem longe daqui.\n\nVanessa",
+                    "Я не сомневалась, что эта команда преодолеет лабиринт, но Майев\nподготовила еще одну ловушку в самом конце. Лабиринт вел не на свободу,\nа в камеру к повелителю Бездны Зурамату Уничтожителю.\n\nОднако если Майев думает, что нас это остановит, она глубоко ошибается.\nНам как раз нужно отвлечь стражей. Вырвавшийся на свободу повелитель Бездны отлично с этим справится.\nОн может тут все порушить, но это не наша проблема – к тому времени мы сбежим.\n\n- Ванесса",
+                    "ข้ารู้ว่าทีมนี้ฝ่าเขาวงกตออกมาได้แน่_แต่ว่าผู้คุมเตรียมกับดักสุดท้ายดักรอเราที่\nทางออก_แทนที่เราจะได้พบอิสรภาพข้างนอก_เรากลับไปโผล่ในคุกที่ขังวอยด์\nลอร์ดนามว่าซูรามัท_จอมทำลายล้าง_แต่นางคงซื่อเกินไปหากคิดว่าเรื่องแค่นี้จะ\nหยุดเราได้_เราต้องการดึงความสนใจพวกยาม_และการอาละวาดของวอยด์ลอร์ด\nจะดึงความสนใจได้ดีมากๆ_ถึงมันจะพังที่นี่จนพินาศ แต่ก็ไม่ใช่ปัญหาที่เราต้อง\nสนใจ_ถึงตอนนั้นเราก็หนีไปไกลแล้ว\n- วาเนสซา",
+                    "我就知道咱们能通过那个什么迷宫系统，\n可是典狱官在终点还放了最后一道陷阱。\n本以为那是个出口，结果却是虚空领主湮灭者祖拉玛特的牢房。\n\n不过典狱官要是觉得凭这个就能拦住我们，那她高兴得可太早了。\n我们本就需要牵制守卫，虚空领主正好可以帮忙。\n就算它把这里夷为平地，头疼的也不是咱们——我们早就远走高飞了。\n\n——梵妮莎",
+                    "我就知道這支隊伍一定能通過迷宮，但典獄官\n在盡頭還留了最後一個陷阱。我們本來希望這條路能通往外面，\n結果卻被帶到了虛無領主：『消滅者』舒拉邁特的牢房前。\n\n不過，如果典獄官以為這能阻止我們，那她就太天真了。\n我們需要引開守衛的注意，而一個暴走的虛無領主便是絕佳的誘餌。\n它搞不好會把這地方夷為平地，但那又不關我們的事，因為到那時候，我們早就溜之大吉了。\n\n- 凡妮莎"
+                ],
+                "m_locId": 2951427
+            }
+        },
+        {
+            "m_ID": 0,
+            "m_specialEventId": 74,
+            "m_eventRewardTrackId": 179,
+            "m_choiceConfirmationText": {
+                "m_locValues": [
+                    "Go with Godfrey?",
+                    "Mit Godfrey gehen?",
+                    "¿Vas con Godfrey?",
+                    "¿Ir con Godfrey?",
+                    "Opter pour Godfrey ?",
+                    "Vai con Godfrey?",
+                    "ゴッドフリーと一緒に行く？",
+                    "고드프리와 함께 갈까요?",
+                    "Wybierasz Godfryda?",
+                    "Ir com Godfrey?",
+                    "Выбрать Годфри?",
+                    "ไปกับก็อดฟรีย์",
+                    "与高弗雷同行？",
+                    "要和高佛雷一起走嗎？"
+                ],
+                "m_locId": 2951080
+            },
+            "m_shortConclusion": {
+                "m_locValues": [
+                    "Time to Improvise!",
+                    "Zeit zu improvisieren!",
+                    "¡Hora de improvisar!",
+                    "¡Hora de improvisar!",
+                    "C’est le moment d’improviser !",
+                    "È ora di improvvisare!",
+                    "臨機応変にいくよ！",
+                    "임기응변이 필요한 때다!",
+                    "Czas na improwizację!",
+                    "Hora de improvisar!",
+                    "Пора импровизировать!",
+                    "ถึงเวลาพลิกแพลง!",
+                    "见招拆招！",
+                    "是時候隨機應變了！"
+                ],
+                "m_locId": 2951428
+            },
+            "m_longConclusion": {
+                "m_locValues": [
+                    "I knew this team could make it through the Labyrinth, but the Warden\nhad one last trap at the end of it. We hoped it would lead outside,\nbut we've ended up at the cell of a voidlord, Zuramat the Obliterator.\n\nBut the joke's on the Warden if she thinks that's going to stop us.\nWe need to distract the guards, and a rampaging voidlord's very distracting.\nIt might level the place, but that's not our problem — we'll be long gone.\n\n- Vanessa",
+                    "Ich wusste, dass dieses Team es durch das Labyrinth schaffen würde, aber die Wächterin\nhatte am Ende noch eine letzte Falle parat. Wir hofften, sie würde nach draußen führen,\ndoch stattdessen sind wir in der Zelle eines Leerenfürsten gelandet: Zuramat der Vernichter.\n\nAber die Wächterin wird sich wundern, wenn sie meint, das hält uns auf.\nWir müssen die Wachen ablenken, und ein tobender Leerenfürst ist eine verdammt gute Ablenkung.\nEr könnte den Ort dem Erdboden gleichmachen, aber das ist nicht unser Problem — wir werden dann schon lange weg sein.\n\n--Vanessa",
+                    "Sabía que este equipo podría salir del laberinto, pero la celadora\nhabía preparado una última trampa en la salida. Creíamos que daba al exterior,\npero acabamos en la celda de un señor del Vacío, Zuramat el Obliterador.\n\nMás ilusa es la celadora si cree que con eso podrá detenernos.\nTenemos que distraer a los guardias, y un señor del Vacío campando a sus anchas distrae que no veas.\nA lo mejor lo reduce todo a escombros, pero ese no es nuestro problema; ya nos habremos ido hace mucho.\n\n-Vanessa",
+                    "Sabía que este equipo era capaz de salir del Laberinto, pero la celadora\ntenía una última trampa preparada al final. Creíamos que este camino nos llevaría afuera,\npero terminamos en la celda de un señor del Vacío: Zuramat el Obliterador.\n\nSin embargo, la celadora se llevará una sorpresa si cree que puede detenernos.\nTenemos que distraer a los guardias, y un señor del Vacío desenfrenado es una gran distracción.\nTal vez destruya todo el lugar, pero ese no es nuestro problema... Para ese entonces, ya nos habremos ido.\n\n- Vanessa",
+                    "Je savais que cette équipe pouvait traverser le Labyrinthe, mais la Gardienne\navait placé un dernier piège à la sortie. Nous espérions qu’il nous mènerait dehors,\nmais nous nous sommes retrouvés dans la cellule d’un seigneur du Vide, Zuramat l’Oblitérateur.\n\nCependant, la Gardienne fait erreur si elle pense que ça va nous arrêter.\nNous devons distraire l’attention des gardes, et quoi de mieux pour cela qu’un seigneur du Vide déchaîné ?\nIl peut bien raser cet endroit, ce n’est pas notre problème… Nous serons loin depuis longtemps.\n\n– Vanessa",
+                    "Sapevo che questa squadra sarebbe riuscita ad arrivare alla fine del labirinto, ma la custode\naveva in serbo un'ultima trappola. Credevamo che saremmo usciti,\ninvece siamo finiti nella cella di un Signore del Vuoto, Zuramat il Disintegratore.\n\nComunque, la custode è un'illusa, se pensa di poterci fermare.\nDobbiamo distrarre le guardie, e un Signore del Vuoto infuriato è un'ottima distrazione.\nForse questo posto verrà disintegrato, ma la cosa non ci riguarda, ce ne saremo andati da tempo.\n\n- Vanessa",
+                    "このチームなら迷宮を抜け出せると思ってたけど、看守は最後に\nもう一つ罠を用意してた。外に出られることを期待してたのに、\nたどり着いた先はヴォイドロードの覆滅魔ズラマットの監房だった。\n\nでも、それくらいであたしたちを止められると思ってるなら、大間違いよ。\n看守の気を散らさなきゃいけないけど、暴れるヴォイドロードはまさにうってつけ。\n瓦礫だけになるとしても、知ったことじゃない。その頃には、あたしたちは消えてるんだからね。\n\n- ヴァネッサ",
+                    "이 팀이라면 미궁을 빠져나올 수 있을 것은 알았지만, 감시관이\n미궁 끝에 마지막 함정을 준비해 두었다. 미궁에서 나가면 바깥일 줄 알았는데,\n공허군주인 파멸자 주라마트의 감방에 도착한 것이다.\n\n하지만 이것으로 우리를 막을 수 있을 거라 생각한다면ㅡ 거꾸로 당하는 건 감시관 쪽이야.\n우리는 경비병들을 따돌려야 하는데, 난동을 부리는 공허군주만큼 이목을 끄는 것이 어디 있겠어?\n이곳이 초토화되겠지만 그건 우리 문제가 아니지. 그때면 우린 여길 뜬 지 오래일 테니.\n\n- 바네사",
+                    "Wiedziałam, że ta ekipa poradzi sobie w Labiryncie, ale Strażniczka\nprzygotowała na koniec jeszcze jedną pułapkę. Liczyliśmy, że trafimy na zewnątrz,\na wylądowaliśmy w celi Pana Pustki, Zuramata Pustoszyciela.\n\nJednak Strażniczka grubo się myli, jeśli sądzi, że to nas powstrzyma.\nMusimy odwrócić uwagę straży, a szalejący Pan Pustki nadaje się do tego idealnie.\nMoże i zrówna to miejsce z ziemią, ale to nie nasz problem – my będziemy już daleko.\n\n– Vanessa",
+                    "Eu sabia que o nosso bando conseguiria atravessar o Labirinto, mas a Guardiã\ntinha uma última armadilha. Esperávamos que ela guardasse a saída,\nmas acabamos na cela de um Senhor do Caos, Zuramat, o Obliterador.\n\nMas vamos mostrar para a Guardiã que quem ri por último, ri melhor.\nPrecisamos desviar a atenção dos guardas, e um Senhor do Caos em fúria é uma bela distração.\nTalvez ele acabe com este lugar, mas aí não é problema nosso... já estaremos bem longe daqui.\n\nVanessa",
+                    "Я не сомневалась, что эта команда преодолеет лабиринт, но Майев\nподготовила еще одну ловушку в самом конце. Лабиринт вел не на свободу,\nа в камеру к повелителю Бездны Зурамату Уничтожителю.\n\nОднако если Майев думает, что нас это остановит, она глубоко ошибается.\nНам как раз нужно отвлечь стражей. Вырвавшийся на свободу повелитель Бездны отлично с этим справится.\nОн может тут все порушить, но это не наша проблема – к тому времени мы сбежим.\n\n- Ванесса",
+                    "ข้ารู้ว่าทีมนี้ฝ่าเขาวงกตออกมาได้แน่_แต่ว่าผู้คุมเตรียมกับดักสุดท้ายดักรอเราที่\nทางออก_แทนที่เราจะได้พบอิสรภาพข้างนอก_เรากลับไปโผล่ในคุกที่ขังวอยด์\nลอร์ดนามว่าซูรามัท_จอมทำลายล้าง_แต่นางคงซื่อเกินไปหากคิดว่าเรื่องแค่นี้จะ\nหยุดเราได้_เราต้องการดึงความสนใจพวกยาม_และการอาละวาดของวอยด์ลอร์ด\nจะดึงความสนใจได้ดีมากๆ_ถึงมันจะพังที่นี่จนพินาศ แต่ก็ไม่ใช่ปัญหาที่เราต้อง\nสนใจ_ถึงตอนนั้นเราก็หนีไปไกลแล้ว\n- วาเนสซา",
+                    "我就知道咱们能通过那个什么迷宫系统，\n可是典狱官在终点还放了最后一道陷阱。\n本以为那是个出口，结果却是虚空领主湮灭者祖拉玛特的牢房。\n\n不过典狱官要是觉得凭这个就能拦住我们，那她高兴得可太早了。\n我们本就需要牵制守卫，虚空领主正好可以帮忙。\n就算它把这里夷为平地，头疼的也不是咱们——我们早就远走高飞了。\n\n——梵妮莎",
+                    "我就知道這支隊伍一定能通過迷宮，但典獄官\n在盡頭還留了最後一個陷阱。我們本來希望這條路能通往外面，\n結果卻被帶到了虛無領主：『消滅者』舒拉邁特的牢房前。\n\n不過，如果典獄官以為這能阻止我們，那她就太天真了。\n我們需要引開守衛的注意，而一個暴走的虛無領主便是絕佳的誘餌。\n它搞不好會把這地方夷為平地，但那又不關我們的事，因為到那時候，我們早就溜之大吉了。\n\n- 凡妮莎"
+                ],
+                "m_locId": 2951429
+            }
+        },
+        {
+            "m_ID": 0,
+            "m_specialEventId": 74,
+            "m_eventRewardTrackId": 180,
+            "m_choiceConfirmationText": {
+                "m_locValues": [
+                    "Go with Azalina?",
+                    "Mit Azalina gehen?",
+                    "¿Vas con Azalina?",
+                    "¿Ir con Azalina?",
+                    "Opter pour Azalina ?",
+                    "Vai con Azalina?",
+                    "アザリナと一緒に行く？",
+                    "아잘리나와 함께 갈까요?",
+                    "Wybierasz Azalinę?",
+                    "Ir com Azalina?",
+                    "Выбрать Азалину?",
+                    "ไปกับอาซาลิน่า",
+                    "与阿扎莉娜同行？",
+                    "要和阿薩琳娜一起走嗎？"
+                ],
+                "m_locId": 2951081
+            },
+            "m_shortConclusion": {
+                "m_locValues": [
+                    "Time to Improvise!",
+                    "Zeit zu improvisieren!",
+                    "¡Hora de improvisar!",
+                    "¡Hora de improvisar!",
+                    "C’est le moment d’improviser !",
+                    "È ora di improvvisare!",
+                    "臨機応変にいくよ！",
+                    "임기응변이 필요한 때다!",
+                    "Czas na improwizację!",
+                    "Hora de improvisar!",
+                    "Пора импровизировать!",
+                    "ถึงเวลาพลิกแพลง!",
+                    "见招拆招！",
+                    "是時候隨機應變了！"
+                ],
+                "m_locId": 2951430
+            },
+            "m_longConclusion": {
+                "m_locValues": [
+                    "I knew this team could make it through the Labyrinth, but the Warden\nhad one last trap at the end of it. We hoped it would lead outside,\nbut we've ended up at the cell of a voidlord, Zuramat the Obliterator.\n\nBut the joke's on the Warden if she thinks that's going to stop us.\nWe need to distract the guards, and a rampaging voidlord's very distracting.\nIt might level the place, but that's not our problem — we'll be long gone.\n\n- Vanessa",
+                    "Ich wusste, dass dieses Team es durch das Labyrinth schaffen würde, aber die Wächterin\nhatte am Ende noch eine letzte Falle parat. Wir hofften, sie würde nach draußen führen,\ndoch stattdessen sind wir in der Zelle eines Leerenfürsten gelandet: Zuramat der Vernichter.\n\nAber die Wächterin wird sich wundern, wenn sie meint, das hält uns auf.\nWir müssen die Wachen ablenken, und ein tobender Leerenfürst ist eine verdammt gute Ablenkung.\nEr könnte den Ort dem Erdboden gleichmachen, aber das ist nicht unser Problem — wir werden dann schon lange weg sein.\n\n--Vanessa",
+                    "Sabía que este equipo podría salir del laberinto, pero la celadora\nhabía preparado una última trampa en la salida. Creíamos que daba al exterior,\npero acabamos en la celda de un señor del Vacío, Zuramat el Obliterador.\n\nMás ilusa es la celadora si cree que con eso podrá detenernos.\nTenemos que distraer a los guardias, y un señor del Vacío campando a sus anchas distrae que no veas.\nA lo mejor lo reduce todo a escombros, pero ese no es nuestro problema; ya nos habremos ido hace mucho.\n\n-Vanessa",
+                    "Sabía que este equipo era capaz de salir del Laberinto, pero la celadora\ntenía una última trampa preparada al final. Creíamos que este camino nos llevaría afuera,\npero terminamos en la celda de un señor del Vacío: Zuramat el Obliterador.\n\nSin embargo, la celadora se llevará una sorpresa si cree que puede detenernos.\nTenemos que distraer a los guardias, y un señor del Vacío desenfrenado es una gran distracción.\nTal vez destruya todo el lugar, pero ese no es nuestro problema... Para ese entonces, ya nos habremos ido.\n\n- Vanessa",
+                    "Je savais que cette équipe pouvait traverser le Labyrinthe, mais la Gardienne\navait placé un dernier piège à la sortie. Nous espérions qu’il nous mènerait dehors,\nmais nous nous sommes retrouvés dans la cellule d’un seigneur du Vide, Zuramat l’Oblitérateur.\n\nCependant, la Gardienne fait erreur si elle pense que ça va nous arrêter.\nNous devons distraire l’attention des gardes, et quoi de mieux pour cela qu’un seigneur du Vide déchaîné ?\nIl peut bien raser cet endroit, ce n’est pas notre problème… Nous serons loin depuis longtemps.\n\n– Vanessa",
+                    "Sapevo che questa squadra sarebbe riuscita ad arrivare alla fine del labirinto, ma la custode\naveva in serbo un'ultima trappola. Credevamo che saremmo usciti,\ninvece siamo finiti nella cella di un Signore del Vuoto, Zuramat il Disintegratore.\n\nComunque, la custode è un'illusa, se pensa di poterci fermare.\nDobbiamo distrarre le guardie, e un Signore del Vuoto infuriato è un'ottima distrazione.\nForse questo posto verrà disintegrato, ma la cosa non ci riguarda, ce ne saremo andati da tempo.\n\n- Vanessa",
+                    "このチームなら迷宮を抜け出せると思ってたけど、看守は最後に\nもう一つ罠を用意してた。外に出られることを期待してたのに、\nたどり着いた先はヴォイドロードの覆滅魔ズラマットの監房だった。\n\nでも、それくらいであたしたちを止められると思ってるなら、大間違いよ。\n看守の気を散らさなきゃいけないけど、暴れるヴォイドロードはまさにうってつけ。\n瓦礫だけになるとしても、知ったことじゃない。その頃には、あたしたちは消えてるんだからね。\n\n- ヴァネッサ",
+                    "이 팀이라면 미궁을 빠져나올 수 있을 것은 알았지만, 감시관이\n미궁 끝에 마지막 함정을 준비해 두었다. 미궁에서 나가면 바깥일 줄 알았는데,\n공허군주인 파멸자 주라마트의 감방에 도착한 것이다.\n\n하지만 이것으로 우리를 막을 수 있을 거라 생각한다면ㅡ 거꾸로 당하는 건 감시관 쪽이야.\n우리는 경비병들을 따돌려야 하는데, 난동을 부리는 공허군주만큼 이목을 끄는 것이 어디 있겠어?\n이곳이 초토화되겠지만 그건 우리 문제가 아니지. 그때면 우린 여길 뜬 지 오래일 테니.\n\n- 바네사",
+                    "Wiedziałam, że ta ekipa poradzi sobie w Labiryncie, ale Strażniczka\nprzygotowała na koniec jeszcze jedną pułapkę. Liczyliśmy, że trafimy na zewnątrz,\na wylądowaliśmy w celi Pana Pustki, Zuramata Pustoszyciela.\n\nJednak Strażniczka grubo się myli, jeśli sądzi, że to nas powstrzyma.\nMusimy odwrócić uwagę straży, a szalejący Pan Pustki nadaje się do tego idealnie.\nMoże i zrówna to miejsce z ziemią, ale to nie nasz problem – my będziemy już daleko.\n\n– Vanessa",
+                    "Eu sabia que o nosso bando conseguiria atravessar o Labirinto, mas a Guardiã\ntinha uma última armadilha. Esperávamos que ela guardasse a saída,\nmas acabamos na cela de um Senhor do Caos, Zuramat, o Obliterador.\n\nMas vamos mostrar para a Guardiã que quem ri por último, ri melhor.\nPrecisamos desviar a atenção dos guardas, e um Senhor do Caos em fúria é uma bela distração.\nTalvez ele acabe com este lugar, mas aí não é problema nosso... já estaremos bem longe daqui.\n\nVanessa",
+                    "Я не сомневалась, что эта команда преодолеет лабиринт, но Майев\nподготовила еще одну ловушку в самом конце. Лабиринт вел не на свободу,\nа в камеру к повелителю Бездны Зурамату Уничтожителю.\n\nОднако если Майев думает, что нас это остановит, она глубоко ошибается.\nНам как раз нужно отвлечь стражей. Вырвавшийся на свободу повелитель Бездны отлично с этим справится.\nОн может тут все порушить, но это не наша проблема – к тому времени мы сбежим.\n\n- Ванесса",
+                    "ข้ารู้ว่าทีมนี้ฝ่าเขาวงกตออกมาได้แน่_แต่ว่าผู้คุมเตรียมกับดักสุดท้ายดักรอเราที่\nทางออก_แทนที่เราจะได้พบอิสรภาพข้างนอก_เรากลับไปโผล่ในคุกที่ขังวอยด์\nลอร์ดนามว่าซูรามัท_จอมทำลายล้าง_แต่นางคงซื่อเกินไปหากคิดว่าเรื่องแค่นี้จะ\nหยุดเราได้_เราต้องการดึงความสนใจพวกยาม_และการอาละวาดของวอยด์ลอร์ด\nจะดึงความสนใจได้ดีมากๆ_ถึงมันจะพังที่นี่จนพินาศ แต่ก็ไม่ใช่ปัญหาที่เราต้อง\nสนใจ_ถึงตอนนั้นเราก็หนีไปไกลแล้ว\n- วาเนสซา",
+                    "我就知道咱们能通过那个什么迷宫系统，\n可是典狱官在终点还放了最后一道陷阱。\n本以为那是个出口，结果却是虚空领主湮灭者祖拉玛特的牢房。\n\n不过典狱官要是觉得凭这个就能拦住我们，那她高兴得可太早了。\n我们本就需要牵制守卫，虚空领主正好可以帮忙。\n就算它把这里夷为平地，头疼的也不是咱们——我们早就远走高飞了。\n\n——梵妮莎",
+                    "我就知道這支隊伍一定能通過迷宮，但典獄官\n在盡頭還留了最後一個陷阱。我們本來希望這條路能通往外面，\n結果卻被帶到了虛無領主：『消滅者』舒拉邁特的牢房前。\n\n不過，如果典獄官以為這能阻止我們，那她就太天真了。\n我們需要引開守衛的注意，而一個暴走的虛無領主便是絕佳的誘餌。\n它搞不好會把這地方夷為平地，但那又不關我們的事，因為到那時候，我們早就溜之大吉了。\n\n- 凡妮莎"
+                ],
+                "m_locId": 2951431
+            }
+        },
+        {
+            "m_ID": 0,
+            "m_specialEventId": 75,
+            "m_eventRewardTrackId": 176,
+            "m_choiceConfirmationText": {
+                "m_locValues": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "m_locId": 0
+            },
+            "m_shortConclusion": {
+                "m_locValues": [
+                    "Refreshed and Reinvigorated!",
+                    "Erfrischt und neu gestärkt!",
+                    "¡Renovación y revigorización!",
+                    "¡Renovación y vigor!",
+                    "Une cure de jouvence et un regain d’énergie !",
+                    "Rinfrescante e rinvigorente!",
+                    "すっきり爽快！",
+                    "원기를 회복했습니다!",
+                    "W pełni sił i wigoru!",
+                    "Restaurado e Revigorado!",
+                    "Силы восполнены!",
+                    "เต็มเปี่ยมไปด้วยกำลังวังชา!",
+                    "重焕生机！",
+                    "精神抖擻，精力充沛！"
+                ],
+                "m_locId": 2950728
+            },
+            "m_longConclusion": {
+                "m_locValues": [
+                    "<i>You eye, suspiciously, the contents of the phial, only to provoke a haughty smirk from Thal'ena,</i> \"I would not share the true power of the San'layn - only a tiny draught of our essence, distilled. Now drink up, so that Vanessa will consider our bargain fulfilled.\"\n\n<i>The draught is vile putrifaction, leaving your reeling for a moment. The disorientation passes, and you are gripped with a potent calm, ready continue! But the mysterious Thal'ena is no where now to be seen.</i>",
+                    "<i>Ihr betrachtet den Inhalt der Phiole argwöhnisch, was Thal’ena nur ein arrogantes Grinsen entlockt.</i>„Ich würde die wahre Macht der San’layn nicht mit Euch teilen – nur einen winzigen Schluck unserer Essenz, destilliert. Jetzt trinkt aus, damit Vanessa unseren Handel für abgeschlossen ansieht.“\n\n<i>Der Trank ist pure Verwesung und lässt Euch einen Moment taumeln. Diese Orientierungslosigkeit schwindet und eine mächtige Ruhe ergreift Euch, sodass Ihr bereit seid, fortzufahren! Aber die mysteriöse Thal’ena ist spurlos verschwunden.</i>",
+                    "<i>Con gran suspicacia, observas el contenido de la ampolla, suscitando una mueca altanera en el rostro de Thal'ena:</i> «Jamás compartiría el verdadero poder de los San'layn; solo un traguito de nuestra esencia, y bien destilada. Adelante, bébetelo, y así Vanessa considerará cerrado nuestro trato».\n\n<i>El trago es pura putrefacción vil, y hace que te tambalees unos instantes. Cuando se te pasa la desorientación, una poderosa calma te embarga, ¡todo listo para seguir! Pero ahora, la misteriosa Thal'ena ha desaparecido completamente.</i>",
+                    "<i>Observas el contenido de la ampolla con total desconfianza, y eso hace que Thal'ena suelte una risita arrogante:</i> \"Jamás compartiría el verdadero poder de los San'layn; es apenas una diminuta dosis de nuestra esencia que ha sido destilada. Ahora bébela para que Vanessa vea que cumplimos el trato\".\n\n<i>El jarabe es una podredumbre nauseabunda que te hace tambalear por un instante. ¡La confusión se te va, y te invade una potente calma que te da fuerzas para seguir! Sin embargo, la misteriosa Thal'ena ahora no se ve por ningún lado.</i>",
+                    "<i>Vous observez d’un œil méfiant le contenu de la fiole, ce qui ne fait que provoquer un sourire condescendant de la part de Thal’ena : </i>« Je ne vous dévoilerai pas le véritable pouvoir des San’layn, seulement une infime portion de notre essence, distillée. Maintenant, buvez, afin que Vanessa considère notre accord comme conclu. »\n\n<i>Le breuvage est répugnant et vous fait vaciller un instant. Après avoir repris vos esprits, vous ressentez une profonde sérénité, ainsi que la volonté de poursuivre. Mais la mystérieuse Thal’ena s’est volatilisée…</i>",
+                    "<i>Osservi con sospetto il contenuto della fiala, suscitando un sorrisetto sprezzante da parte di Thal'ena:</i> \"Non scoprirai il vero potere dei San'layn. Questo è solo un goccio della nostra essenza, distillata. Ora bevi, così Vanessa riterrà il nostro patto concluso\".\n\n<i>Il liquido ha un sapore putrido e disgustoso, che ti fa barcollare per un attimo. Quando ti riprendi, una grande calma ti pervade e ti spinge a continuare! Ma la misteriosa Thal'ena ormai è sparita.</i>",
+                    "<i>ビンの中身を訝しむように眺めていると、サルエナが鼻を鳴らすように笑った。</i>「サンレインの力を全て与えるわけがないでしょ。そこには精髄を薄めたものがほんの少し入っているだけ。さあ飲んで。ヴァネッサに取引が完了したと思わせないと」\n\n<i>薬品を飲み干すと、あまりの不味さにめまいを感じる。視界の歪みが治まると、今度は不思議な平静さを感じる。このまま次の段階に進もう！周りを見渡すが、サルエナはいつの間にか姿を消していた。</i>",
+                    "<i>당신은 약병의 내용물을 의심스럽다는 듯이 살펴보다가, 탈레나의 거만한 비웃음을 삽니다.</i> \"산레인의 진짜 힘을 나누어 줄 순 없지. 그것은 우리의 정수를 극소량 증류한 것이다. 이제 쭉 들이켜라. 바네사가 우리의 계약이 이행되었다고 생각하도록.\"\n\n<i>액체는 고약하게 부패해 있어, 이것을 마신 당신은 잠시 비틀거립니다. 현기증이 사라지자 당신은 갑자기 차분해집니다. 이제 계속 진행할 준비가 됐습니다! 하지만 수수께끼의 탈레나라는 인물은 어디에도 보이지 않는군요.</i>",
+                    "<i>Przyglądasz się podejrzliwie zawartości fiolki, co Thal'ena kwituje tylko pogardliwym uśmiechem.</i> „Nie podzieliłabym się z nikim prawdziwą mocą San'layn. To ledwie odrobina naszej esencji, czysty destylat. Wypij, aby Vanessa uznała naszą umowę za wypełnioną”.\n\n<i>Wywar jest odrażający. Sprawia, że przez moment świat wiruje ci przed oczami. Ale oszołomienie wkrótce mija, ustępując miejsca niezwykłemu spokojowi. Jesteś w gotowości! Po tajemniczej Thal'enie nie ma już jednak śladu.</i>",
+                    "<i>Você observa o conteúdo do frasco com desconfiança, o que traz um sorriso arrogante ao rosto de Thal'ena.</i> \"Eu não compartilharia o verdadeiro poder dos San'layn, apenas uma pequena dose de nossa essência, destilada. Agora beba, assim Vanessa aceitará que nosso acordo foi concluído.\"\n\n<i>A dose é uma putrefação vil, deixando você atordoado por um instante. A desorientação passa, e você é dominado por uma calma poderosa, pronto para continuar! Mas a misteriosa Thal'ena já sumiu de vista.</i>",
+                    "<i>Вы с недоверием рассматриваете содержимое флакона, что вызывает у Тал'ены высокомерную усмешку.</i> «Я не собираюсь делиться истинной силой сан'лейн — в этом настое лишь крупица нашей сущности. Мы с Ванессой договорились, что ты получишь эту силу, так что пей».\n\n<i>Тошнотворный вкус настоя ненадолго вызывает у вас головокружение. Но когда оно проходит, вас охватывает невероятное спокойствие и готовность идти дальше! Однако загадочной Тал'ены уже и след простыл.</i>",
+                    "\"<i>ธาลีน่าเห็นคุณมองของเหลวในหลอดแก้วด้วยสายตาที่เปี่ยมด้วย[b]ความเคลือบแคลงใจจนทำให้เธอยิ้มเยาะออกมา_</i>\"\"ข้าจะไม่มีวัน[b]แบ่งปันพลังที่แท้จริงของซันเลย์นให้ใครหรอกนะ_หลอดนั้นก็แค่สาร[b]สกัดเข้มข้นเจือจางไม่กี่หยด_ดื่มซะสิ_วาเนสซาจะได้ถือว่าเราหายกัน\"\"\n<i>น้ำยานั้นรสชาติสยองเกินบรรยาย_ทำให้คุณเกือบหมดสติไปชั่วครู่ แต่อาการเหล่านั้นก็หายไป_และคุณก็รู้สึกได้ถึงพละกำลังและความสงบ[b]จนพร้อมเดินหน้าต่อ!_ทว่าธาลีน่าผู้ลึกลับผู้นั้นได้หายตัวไปเสียแล้ว</i>\"",
+                    "<i>你犹疑的目光穿过瓶中的药剂，只迎回萨安娜一声轻蔑的笑。</i>“我才不会把萨莱因真正的力量交给你呢。这只是从我们的精华之中提炼出的，一小滴。喝吧，这样梵妮莎才能明白，我们的交易完成了。”\n\n<i>药剂腐败难咽，你只觉得一阵天旋地转。然而晕眩过后，你又感到异常平静，可以继续前行！可是那个神秘的萨安娜，已然消失不见。</i>",
+                    "<i>你疑惑地盯著瓶子裡的內容物，卻只換來了薩蕾娜一聲傲慢的冷笑：</i>「我可不會分享煞婪真正的力量，這只是一小瓶我們的精煉精華。好了，喝下它，這樣凡妮莎才會認為我們的交易完成了。」\n\n<i>這種藥簡直是腐臭異常，讓你一時間感到一陣暈眩。當頭暈感退去後，一陣強大的鎮靜感掌控了你的全身，讓你準備好繼續前行！然而，那位神秘的薩蕾娜早已消失得無影無蹤。</i>"
+                ],
+                "m_locId": 2950729
             }
         },
         {

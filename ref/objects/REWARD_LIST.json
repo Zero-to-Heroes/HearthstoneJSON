@@ -54810,7 +54810,7 @@
                     "1 комплект «Побега из Аметистовой крепости»",
                     "1x ซองการ์ด Escape from Violet Hold",
                     "1包逃离紫罗兰监狱卡牌包",
-                    "1x 《逃離紫羅蘭堡》卡牌包"
+                    "1x 《紫羅蘭堡大逃亡》卡牌包"
                 ],
                 "m_locId": 2949632
             },
@@ -54864,7 +54864,7 @@
                     "1 золотой комплект «Побега из Аметистовой крепости»",
                     "1x ซองการ์ด Escape from Violet Hold สีทอง",
                     "1包逃离紫罗兰监狱金色包",
-                    "1x 《逃離紫羅蘭堡》黃金卡牌包"
+                    "1x 《紫羅蘭堡大逃亡》黃金卡牌包"
                 ],
                 "m_locId": 2949634
             },
@@ -54945,7 +54945,7 @@
                     "2 золотые карты «Геомант-проходчик», 1 золотой комплект карт «КАТАКЛИЗМ», 1 комплект карт «Побега из Аметистовой крепости»",
                     "2x จีโอแมนเซอร์ขุดอุโมงค์สีทอง, 1x ซองการ์ด CATACLYSM สีทอง, 1x ซองการ์ด Escape from Violet Hold",
                     "2张金色坑道地卜师，1包大地的裂变金色包和1包逃离紫罗兰监狱卡牌包",
-                    "2x 坑道地卜師金卡、1x 《浩劫與重生》黃金卡牌包、1x 《逃離紫羅蘭堡》卡牌包"
+                    "2x 坑道地卜師金卡、1x 《浩劫與重生》黃金卡牌包、1x 《紫羅蘭堡大逃亡》卡牌包"
                 ],
                 "m_locId": 2949967
             },
@@ -55037,6 +55037,60 @@
             "m_locked": 0
         },
         {
+            "m_ID": 3398,
+            "m_description": {
+                "m_locValues": [
+                    "Maiev, Hand of Vengeance Mythic Skin",
+                    "Mythischer Skin: Maiev, Hand der Rache",
+                    "Aspecto mítico Maiev Mano de la Venganza",
+                    "Diseño mítico Maiev, Mano de la venganza",
+                    "Modèle mythique Maiev, Main de la vengeance",
+                    "Modello Mitico Maiev, Mano della Vendetta",
+                    "ミシックスキン「復讐の手マイエヴ」",
+                    "복수의 대리인 마이에브 신화 스킨",
+                    "Mityczna skórka Maiev, Dawczyni Zemsty",
+                    "Visual Mítico Maiev, Punho da Vingança",
+                    "Эпохальный облик «Майев Карающая Длань»",
+                    "สกินไมเอฟ หัตถ์อาฆาตแค้นระดับมิทธิค",
+                    "神话皮肤复仇之手玛维",
+                    "『復仇之手』瑪翼夫傳奇造型"
+                ],
+                "m_locId": 2950031
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3399,
+            "m_description": {
+                "m_locValues": [
+                    "Diamond Tras'tath, Soul Parasite",
+                    "Diamant-Seelenparasit Tras’tath",
+                    "Tras'tath Parásito del Alma de diamante",
+                    "Tras'tath, Parásito de almas diamante",
+                    "Carte diamant Tras’tath, parasite de l’âme",
+                    "Tras'tath, Parassita dell'Anima Diamante",
+                    "ダイヤモンド「魂寄生体トラスタス」",
+                    "다이아몬드 영혼 기생체 트라스타스",
+                    "Diamentowa karta Tras'tath, Pasożyt Duszy",
+                    "Tras'tath, Parasita de Almas Diamante",
+                    "Алмазная карта «Трас'тат, паразит душ»",
+                    "ทราสทัธ ปรสิตวิญญาณขอบเพชร",
+                    "钻石特莱斯塔斯，寄生之魂",
+                    "鑽石『靈魂寄生者』崔斯塔斯"
+                ],
+                "m_locId": 2950032
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
             "m_ID": 34,
             "m_description": {
                 "m_locValues": [
@@ -55091,6 +55145,222 @@
             "m_locked": 0
         },
         {
+            "m_ID": 3400,
+            "m_description": {
+                "m_locValues": [
+                    "Signature Irida Sinseeker",
+                    "Markante Karte Irida Sündensucher",
+                    "Irida Buscapecados distintiva",
+                    "Irida Buscapecados insignia",
+                    "Carte signature Irida Cherche-vice",
+                    "Irida Cercapeccati Pregiata",
+                    "シグネチャー「悪の追求者イリダ」",
+                    "간판 이리다 신시커",
+                    "Specjalna karta Irida, Tropicielka Grzechu",
+                    "Irida Caçadora de Pecados Exclusivo",
+                    "Особая карта «Ирида Искатель Греха»",
+                    "อิริดา ซินซีคเกอร์ซิกเนเจอร์",
+                    "异画伊莉达·寻罪",
+                    "珍藏伊莉妲‧尋罪者"
+                ],
+                "m_locId": 2950033
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3401,
+            "m_description": {
+                "m_locValues": [
+                    "Aya Blackpaw Hero Set",
+                    "Heldenpaket: Aya Schwarzpfote",
+                    "Conjunto de héroe de Aya Zarpa Negra",
+                    "Kit de heroína de Aya Patanegra",
+                    "Ensemble héroïque Aya Patte Noire",
+                    "Set eroe Aya Zampa Nera",
+                    "ヒーローセット「アヤ・ブラックポー」",
+                    "아이야 블랙포우 영웅 세트",
+                    "Zestaw bohaterski Ayi Czarnego Pazura",
+                    "Conjunto de Herói Aya Patanegra",
+                    "Набор героя «Айя Черная Лапа»",
+                    "ชุดฮีโร่อาย่า แบล็คพอว์",
+                    "备选英雄艾雅·黑掌",
+                    "阿雅‧黑掌英雄禮包"
+                ],
+                "m_locId": 2950034
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3402,
+            "m_description": {
+                "m_locValues": [
+                    "2x Signature Hellraiser",
+                    "2x markante Karte Höllenstürmer",
+                    "2x Desatainfiernos distintiva",
+                    "2 Agitador insignia",
+                    "Carte signature Démon zélé ×2",
+                    "2 Plasmainferi Pregiate",
+                    "シグネチャー「暴れ者」x2",
+                    "간판 난동꾼 2장",
+                    "2 x specjalna karta Zpiekławzywacz",
+                    "2x Infernalista Exclusivos",
+                    "2 особые карты «Призыватель ада»",
+                    "2x จอมลุยนรกแตกซิกเนเจอร์",
+                    "2张异画魂狱破坏者",
+                    "2x 珍藏地獄喚起者"
+                ],
+                "m_locId": 2950035
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3403,
+            "m_description": {
+                "m_locValues": [
+                    "Unchained Omen Hero Skin",
+                    "Heldenskin: Entfesseltes Omen",
+                    "Aspecto de héroe Augurio desencadenado",
+                    "Diseño de héroe Augurio Desencadenado",
+                    "Modèle héroïque Présage déchaîné",
+                    "Modello eroe Bifido Liberato",
+                    "ヒーロースキン「拘束解かれしオーメン」",
+                    "사슬에서 풀려난 오멘 영웅 스킨",
+                    "Skórka bohatera Omen Uwolniony",
+                    "Visual de herói Agouro Liberto",
+                    "Облик героя «Омен Освобожденный»",
+                    "สกินฮีโร่โอเมนพ้นพันธนาการ",
+                    "英雄皮肤冲破束缚的年兽",
+                    "脫困的年獸英雄造型"
+                ],
+                "m_locId": 2950036
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3404,
+            "m_description": {
+                "m_locValues": [
+                    "2x Signature Void Blast",
+                    "2x markante Karte Leerenschlag",
+                    "2x Disparo del Vacío distintiva",
+                    "2 Explosión del Vacío insignia",
+                    "Carte signature Trait de Vide ×2",
+                    "2 Detonazione del Vuoto Pregiate",
+                    "シグネチャー「虚無の一撃」x2",
+                    "간판 공허의 폭발 2장",
+                    "2 x specjalna karta Uderzenie pustki",
+                    "2x Impacto do Caos Exclusivos",
+                    "2 особые карты «Взрыв Бездны»",
+                    "2x ระเบิดสุญญะซิกเนเจอร์",
+                    "2张异画虚空冲击",
+                    "2x 珍藏虛無衝擊"
+                ],
+                "m_locId": 2950037
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3405,
+            "m_description": {
+                "m_locValues": [
+                    "Maiev Card Back",
+                    "Kartenrücken Maiev",
+                    "Dorso de carta de Maiev",
+                    "Dorso de carta de Maiev",
+                    "Dos de carte Maiev",
+                    "Dorso Maiev",
+                    "カード裏面デザイン「マイエヴ」",
+                    "마이에브 카드 뒷면",
+                    "Rewers Maiev",
+                    "Verso de card Maiev",
+                    "Рубашка «Майев»",
+                    "หลังการ์ดไมเอฟ",
+                    "玛维卡背图案",
+                    "瑪翼夫卡背"
+                ],
+                "m_locId": 2950038
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3406,
+            "m_description": {
+                "m_locValues": [
+                    "Golden Escape from Violet Hold Card Pack",
+                    "Goldene Kartenpackung: Flucht aus der Violetten Festung",
+                    "Sobre dorado de Fuga del Bastión Violeta",
+                    "Paquete de cartas dorado de Escape del Bastión Violeta",
+                    "Paquet de cartes dorées d’Évasion du fort Pourpre",
+                    "Busta Fuga dalla Fortezza Violacea Dorata",
+                    "「ヴァイオレット監獄脱出計画！」ゴールデンカードパック",
+                    "황금 보랏빛 요새 탈출 작전 카드 팩",
+                    "Złoty pakiet kart Ucieczki z Purpurowej Twierdzy",
+                    "Pacote de Cards Dourado de Fuga do Castelo Violeta",
+                    "Золотой комплект карт дополнения «Побег из Аметистовой крепости»",
+                    "ซองการ์ด Escape from Violet Hold สีทอง",
+                    "逃离紫罗兰监狱金色包",
+                    "《紫羅蘭堡大逃亡》黃金卡牌包"
+                ],
+                "m_locId": 2950039
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3407,
+            "m_description": {
+                "m_locValues": [
+                    "2x Signature Dark Bribe",
+                    "2 x markante Karte Dunkle Bestechung",
+                    "2x Soborno siniestro distintiva",
+                    "2 Soborno oscuro insignia",
+                    "Carte signature Sombre pot-de-vin ×2",
+                    "2 Mazzetta Oscura Pregiate",
+                    "シグネチャー「邪な賄賂」x2",
+                    "간판 검은 뇌물 2장",
+                    "2 x specjalna karta Mroczna łapówka",
+                    "2x Suborno Sombrio Exclusivos",
+                    "2 особые карты «Темная взятка»",
+                    "2x สินบนพลังมืดซิกเนเจอร์",
+                    "2张异画黑暗贿赂",
+                    "2x 珍藏黑暗賄賂"
+                ],
+                "m_locId": 2950040
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
             "m_ID": 3408,
             "m_description": {
                 "m_locValues": [
@@ -55101,7 +55371,7 @@
                     "Carte Intendante escroc ×2, paquet de cartes de CATACLYSME ×1",
                     "2 Furfante dello Spaccio, 1 busta di CATACLISMA",
                     "「売店の悪人」x2、「終焉のアゼロス」カードパックx1",
-                    "사절 크룩 2장, 대격변 카드 팩 1개",
+                    "보급상 크룩 2장, 대격변 카드 팩 1개",
                     "2 x Szachrajska intendentka, 1 x pakiet kart KATAKLIZMU",
                     "2x Comissária Vigarista, 1x Pacote de Cards de CATACLISMO",
                     "2 карты «Тюремная торговка», 1 комплект «КАТАКЛИЗМ»",
@@ -55134,7 +55404,7 @@
                     "2 карты «Смертельная взятка», 1 комплект «Побега из Аметистовой крепости»",
                     "2x สินบนมรณะ, 1x ซองการ์ด\nEscape from Violet Hold",
                     "2张致命贿赂，1包逃离紫罗兰监狱卡牌包",
-                    "2x 致命賄賂、1x 《逃離紫羅蘭堡》卡牌包"
+                    "2x 致命賄賂、1x 《紫羅蘭堡大逃亡》卡牌包"
                 ],
                 "m_locId": 2950137
             },
@@ -55182,7 +55452,7 @@
                     "Carte dorée Intendante escroc ×2, admission pour la taverne ×2",
                     "2 Furfante dello Spaccio Dorate, 2 Biglietti Locanda",
                     "ゴールデン「売店の悪人」x2、酒場チケットx2",
-                    "황금 사절 크룩 2장, 선술집 입장권 2장",
+                    "황금 보급상 크룩 2장, 선술집 입장권 2장",
                     "2 x złota Szachrajska intendentka, 2 x bilet do Karczmy",
                     "2x Comissária Vigarista Dourado, 2x Ingresso da Taverna",
                     "2 золотые карты «Тюремная торговка», 2 пропуска в таверну",
@@ -55215,9 +55485,171 @@
                     "Облик героя «Даларанский страж Майев», 2 золотые карты «Смертельная взятка»,\n2 комплекта «Побега из Аметистовой крепости»",
                     "สกินฮีโร่ไมเอฟผู้คุมแห่งดาลารัน, 2x สินบนมรณะสีทอง, 2x ซองการ์ด Escape from Violet Hold",
                     "英雄皮肤达拉然典狱官玛维，2张金色致命贿赂，2包逃离紫罗兰监狱卡牌包",
-                    "達拉然典獄官瑪翼夫英雄造型、2x 致命賄賂金卡\n2x 《逃離紫羅蘭堡》卡牌包"
+                    "達拉然典獄官瑪翼夫英雄造型、2x 致命賄賂金卡\n2x 《紫羅蘭堡大逃亡》卡牌包"
                 ],
                 "m_locId": 2950139
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3414,
+            "m_description": {
+                "m_locValues": [
+                    "Random Legendary Escape from Violet Hold Card",
+                    "Zufällige legendäre Karte aus Flucht aus der Violetten Festung",
+                    "Carta legendaria aleatoria de Fuga del Bastión Violeta",
+                    "Carta legendaria aleatoria de Escape del Bastión Violeta",
+                    "Carte légendaire aléatoire d’Évasion du fort Pourpre",
+                    "Carta Leggendaria casuale Fuga dalla Fortezza Violacea",
+                    "「ヴァイオレット監獄脱出計画！」のランダムなレジェンドカード",
+                    "확률형 전설 보랏빛 요새 탈출 작전 카드",
+                    "Losowa karta legendarna z Ucieczki z Purpurowej Twierdzy",
+                    "Card Lendário de Fuga do Castelo Violeta aleatório",
+                    "Случайная легендарная карта из дополнения «Побег из Аметистовой крепости»",
+                    "การ์ดระดับตำนานแบบสุ่มจาก Escape from Violet Hold",
+                    "逃离紫罗兰监狱随机传说卡牌",
+                    "隨機《紫羅蘭堡大逃亡》傳說卡牌"
+                ],
+                "m_locId": 2950382
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3415,
+            "m_description": {
+                "m_locValues": [
+                    "Escape from Violet Hold Card Pack",
+                    "Kartenpackung: Flucht aus der Violetten Festung",
+                    "Sobre de Fuga del Bastión Violeta",
+                    "Paquete de cartas de Escape del Bastión Violeta",
+                    "Paquet de cartes d’Évasion du fort Pourpre",
+                    "Busta Fuga dalla Fortezza Violacea",
+                    "「ヴァイオレット監獄脱出計画！」カードパック",
+                    "보랏빛 요새 탈출 작전 카드 팩",
+                    "Pakiet kart Ucieczki z Purpurowej Twierdzy",
+                    "Pacote de Cards de Fuga do Castelo Violeta",
+                    "Комплект карт дополнения «Побег из Аметистовой крепости»",
+                    "ซองการ์ด Escape from Violet Hold",
+                    "逃离紫罗兰监狱卡牌包",
+                    "《紫羅蘭堡大逃亡》卡牌包"
+                ],
+                "m_locId": 2950383
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3416,
+            "m_description": {
+                "m_locValues": [
+                    "2x Reckless Detective (Golden Uncraftable Common)",
+                    "2x goldene gewöhnliche Karte Tollkühner Detektiv (nicht herstellbar)",
+                    "2x Detective imprudente (común dorada, no se puede crear)",
+                    "2 Detective temerario (dorada común no creable)",
+                    "Carte commune dorée Détective téméraire ×2 (impossible à créer)",
+                    "2 Investigatore Incauto (Comuni vincolate Dorate)",
+                    "「無謀な探偵」x2（ゴールデン作成不能コモン）",
+                    "무모한 탐정 2장 (황금 제작 불가 일반 카드)",
+                    "2 x Nieostrożny detektyw (złota zwykła niewytwarzalna)",
+                    "2x Detetive Imprudente (Dourado Incriável Comum)",
+                    "2 золотые карты «Безрассудный детектив» (нельзя создать, обычная карта)",
+                    "2x นักสืบชะล่าใจ (ระดับทั่วไปสีทอง สร้างไม่ได้)",
+                    "2张鲁莽的侦探（无法制作的金色普通卡牌）",
+                    "2x 魯莽偵探(無法合成的普通金卡)"
+                ],
+                "m_locId": 2950384
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3417,
+            "m_description": {
+                "m_locValues": [
+                    "2x Solitary Prisoner (Golden Uncraftable Common)",
+                    "2x goldene gewöhnliche Karte Einzelhäftling (nicht herstellbar)",
+                    "2x Preso en aislamiento (común dorada, no se puede crear)",
+                    "2 Prisionero solitario (dorada común no creable)",
+                    "Carte commune dorée Prisonnière seule ×2 (impossible à créer)",
+                    "2 Prigioniera Solitaria (Comuni vincolate Dorate)",
+                    "「独房の囚人」x2（ゴールデン作成不能コモン）",
+                    "독방 수감자 2장 (황금 제작 불가 일반 카드)",
+                    "2 x Odizolowany skazaniec (złota zwykła niewytwarzalna)",
+                    "2x Prisioneiro Solitário (Dourado Incriável Comum)",
+                    "2 золотые карты «Одиночный заключенный» (нельзя создать, обычная карта)",
+                    "2x นักโทษขังเดี่ยว (ระดับทั่วไปสีทอง สร้างไม่ได้)",
+                    "2张单监囚犯（无法制作的金色普通卡牌）",
+                    "2x 孤寂囚犯(無法合成的普通金卡)"
+                ],
+                "m_locId": 2950385
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3418,
+            "m_description": {
+                "m_locValues": [
+                    "2x P1CK-P0K3T (Golden Uncraftable Common)",
+                    "2x goldene gewöhnliche Karte T4SCH3N-D13B (nicht herstellbar)",
+                    "2x R0B0T B1RL4LL4V3S (común dorada, no se puede crear)",
+                    "2 C4RT3R1ST4 (dorada común no creable)",
+                    "Carte commune dorée P1CKP0CK3T ×2 (impossible à créer)",
+                    "2 SC1PP0 (Comuni vincolate Dorate)",
+                    "「スリロボ」x2（ゴールデン作成不能コモン）",
+                    "소ㅁH大丨기 2장 (황금 제작 불가 일반 카드)",
+                    "2 x KR4DZI0-B0T (złota zwykła niewytwarzalna)",
+                    "2x L4R4P10 (Dourado Incriável Comum)",
+                    "2 золотые карты «К4-РМ4-ННИК» (нельзя создать, обычная карта)",
+                    "2x P1CK-P0K3T (ระดับทั่วไปสีทอง สร้างไม่ได้)",
+                    "2张P1CK-P0K3T扒窃机（无法制作的金色普通卡牌）",
+                    "2x P1CK-P0K3T(無法合成的普通金卡)"
+                ],
+                "m_locId": 2950386
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3419,
+            "m_description": {
+                "m_locValues": [
+                    "Random Latest Expansion Epic Card",
+                    "Zufällige epische Karte der neuesten Erweiterung",
+                    "Carta épica aleatoria de la última expansión",
+                    "Carta épica aleatoria de la expansión más reciente",
+                    "Carte épique aléatoire de l’extension la plus récente",
+                    "Carta Epica casuale della nuova espansione",
+                    "最新拡張版のランダムなエピックカード",
+                    "확률형 최신 확장팩 특급 카드",
+                    "Losowa epicka karta z najnowszego rozszerzenia",
+                    "Card Épico aleatório da expansão mais recente",
+                    "Случайная эпическая карта из последнего дополнения",
+                    "การ์ดระดับสุดยอดแบบสุ่มจากส่วนเสริมล่าสุด",
+                    "最新扩展包的随机史诗卡牌",
+                    "隨機最新資料片史詩卡牌"
+                ],
+                "m_locId": 2950387
             },
             "m_chooseOne": 0,
             "m_random": 0,
@@ -55253,6 +55685,276 @@
             "m_locked": 0
         },
         {
+            "m_ID": 3420,
+            "m_description": {
+                "m_locValues": [
+                    "1x Disguised Executioner (Golden Uncraftable Rare)",
+                    "1x goldene seltene Karte Verkleideter Henker (nicht herstellbar)",
+                    "1x Verdugo disfrazado (poco común dorada, no se puede crear)",
+                    "1 Verduga disfrazada (dorada rara no creable)",
+                    "Carte rare dorée Exécutrice déguisée ×1 (impossible à créer)",
+                    "1 Boia Camuffata (Rara vincolata Dorata)",
+                    "「偽処刑人」x1（ゴールデン作成不能レア）",
+                    "변장한 집행자 1장 (황금 제작 불가 희귀 카드)",
+                    "1 x Przebrana oprawczyni (złota rzadka niewytwarzalna)",
+                    "1x Carrasca Disfarçada (Dourado Incriável Raro)",
+                    "Золотая карта «Замаскированный палач» (нельзя создать, редкая карта)",
+                    "1x เพชฌฆาตปลอมตัว (ระดับหายากสีทอง สร้างไม่ได้)",
+                    "1张伪装的行刑者（无法制作的金色稀有卡牌）",
+                    "1x 偽裝的劊子手(無法合成的精良金卡)"
+                ],
+                "m_locId": 2950388
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3421,
+            "m_description": {
+                "m_locValues": [
+                    "Violet Hold Card Back",
+                    "Kartenrücken Violette Festung",
+                    "Dorso de carta del Bastión Violeta",
+                    "Dorso de carta del Bastión Violeta",
+                    "Dos de carte Fort Pourpre",
+                    "Dorso Fortezza Violacea",
+                    "カード裏面デザイン「ヴァイオレット監獄」",
+                    "보랏빛 요새 카드 뒷면",
+                    "Rewers Purpurowa Twierdza",
+                    "Verso de card Castelo Violeta",
+                    "Комплект карт «Аметистовой крепости»",
+                    "หลังการ์ดไวโอเล็ตโฮลด์",
+                    "紫罗兰监狱卡背图案",
+                    "紫羅蘭堡卡背"
+                ],
+                "m_locId": 2950389
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3422,
+            "m_description": {
+                "m_locValues": [
+                    "1x Warden Maiev (Uncraftable Legendary)",
+                    "1x legendäre Karte Wächterin Maiev (nicht herstellbar)",
+                    "1x Maiev celadora (legendaria, no se puede crear)",
+                    "1 Celadora Maiev (legendaria no creable)",
+                    "Carte légendaire Maiev la Gardienne ×1 (impossible à créer)",
+                    "1 Maiev Custode (Leggendaria vincolata)",
+                    "「看守のマイエヴ」x1（作成不能レジェンド）",
+                    "감시관 마이에브 1장 (제작 불가 전설 카드)",
+                    "1 x Strażniczka Maiev (legendarna niewytwarzalna)",
+                    "1x Guardiã Maiev (Incriável Lendário)",
+                    "Карта «Страж Майев» (нельзя создать, легендарная карта)",
+                    "1x วอร์เดนไมเอฟ (ระดับตำนาน สร้างไม่ได้)",
+                    "1张典狱官玛维（无法制作的传说卡牌）",
+                    "1x 典獄官瑪翼夫(無法合成的傳說卡牌)"
+                ],
+                "m_locId": 2950390
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3423,
+            "m_description": {
+                "m_locValues": [
+                    "1x Alarm-o-Matic (Golden Uncraftable Rare)",
+                    "1x goldene seltene Karte Alarm-o-Mat (nicht herstellbar)",
+                    "1x Alarmomático (poco común dorada, no se puede crear)",
+                    "1 Alarmomática (dorada rara no creable)",
+                    "Carte rare dorée Robot d’alarme automatique ×1 (impossible à créer)",
+                    "1 Allarm-Tron (Rara vincolata Dorata)",
+                    "「ケイホー・マティック」x1（ゴールデン作成不能レア）",
+                    "경보로봇 1장 (황금 제작 불가 희귀 카드)",
+                    "1 x Alarm-o-bot (złota rzadka niewytwarzalna)",
+                    "1x Alarmomático (Dourado Incriável Raro)",
+                    "Золотая карта «Тревоготрон» (нельзя создать, редкая карта)",
+                    "1x อลาร์ม-โอ-เมติก (ระดับหายากสีทอง สร้างไม่ได้)",
+                    "1张狂乱报警机（无法制作的金色稀有卡牌）",
+                    "1x 警報自走機(無法合成的精良金卡)"
+                ],
+                "m_locId": 2950391
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3424,
+            "m_description": {
+                "m_locValues": [
+                    "1x Escape Artist (Golden Uncraftable Rare)",
+                    "1x goldene seltene Karte Fluchtkünstler (nicht herstellbar)",
+                    "1x Artista de las fugas (poco común dorada, no se puede crear)",
+                    "1 Artista del escape (dorada rara no creable)",
+                    "Carte rare dorée Spécialiste de l’évasion ×1 (impossible à créer)",
+                    "1 Artista della Fuga (Rara vincolata Dorata)",
+                    "「脱獄名人」x1（ゴールデン作成不能レア）",
+                    "탈출의 명수 1장 (황금 제작 불가 희귀 카드)",
+                    "1 x Mistrzyni ucieczek (złota rzadka niewytwarzalna)",
+                    "1x Artista da Fuga (Dourado Incriável Raro)",
+                    "Золотая карта «Мастер побега» (нельзя создать, редкая карта)",
+                    "1x ศิลปินหลบหนี (ระดับหายากสีทอง สร้างไม่ได้)",
+                    "1张逃命专家（无法制作的金色稀有卡牌）",
+                    "1x 逃脫專家(無法合成的精良金卡)"
+                ],
+                "m_locId": 2950392
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3425,
+            "m_description": {
+                "m_locValues": [
+                    "Random Latest Expansion Legendary Card",
+                    "Zufällige legendäre Karte der neuesten Erweiterung",
+                    "Carta legendaria aleatoria de la última expansión",
+                    "Carta legendaria aleatoria de la expansión más reciente",
+                    "Carte légendaire aléatoire de l’extension la plus récente",
+                    "Carta Leggendaria casuale dell'ultima espansione",
+                    "最新拡張版のランダムなレジェンドカード",
+                    "확률형 최신 확장팩 전설 카드",
+                    "Losowa karta legendarna z najnowszego rozszerzenia",
+                    "Card Lendário aleatório da expansão mais recente",
+                    "Случайная легендарная карта из последнего дополнения",
+                    "การ์ดระดับตำนานแบบสุ่มจากส่วนเสริมล่าสุด",
+                    "最新扩展包的随机传说卡牌",
+                    "隨機最新資料片傳說卡牌"
+                ],
+                "m_locId": 2950393
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3426,
+            "m_description": {
+                "m_locValues": [
+                    "1x Rat Burglar (Golden Uncraftable Epic)",
+                    "1x goldene epische Karte Ratteneinbrecher (nicht herstellbar)",
+                    "1x Rata ratera (épica dorada, no se puede crear)",
+                    "1 Rata ladrona (dorada épica no creable)",
+                    "Carte épique dorée Rat cambrioleur ×1 (impossible à créer)",
+                    "1 Talpa d'Appartamento (Epica vincolata Dorata)",
+                    "「ネズミ泥棒」x1（ゴールデン作成不能エピック）",
+                    "쥐 강도 1장 (황금 제작 불가 특급 카드)",
+                    "1 x Szczurzy kradziej (złota epicka niewytwarzalna)",
+                    "1x Rato Ladrão (Dourado Incriável Épico)",
+                    "Золотая карта «Крыс-домушник» (нельзя создать, эпическая карта)",
+                    "1x คนย่องเบา (ระดับสุดยอดสีทอง สร้างไม่ได้)",
+                    "1张蟊贼脏鼠（无法制作的金色史诗卡牌）",
+                    "1x 髒鼠大盜(無法合成的史詩金卡)"
+                ],
+                "m_locId": 2950394
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3427,
+            "m_description": {
+                "m_locValues": [
+                    "10% XP Boost",
+                    "10% EP-Schub",
+                    "Aumento de PE del 10%",
+                    "Potenciador de EXP de 10%",
+                    "10 % de points d’EXP supplémentaires",
+                    "Bonus 10% ai PE",
+                    "XPブースト10%",
+                    "10% 경험치 부스트",
+                    "Premia 10% do PD",
+                    "10% de Impulso de EXP",
+                    "+10% к опыту",
+                    "บูสต์ XP 10%",
+                    "10%经验值加成",
+                    "10%經驗值加成"
+                ],
+                "m_locId": 2950395
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3428,
+            "m_description": {
+                "m_locValues": [
+                    "15% XP Boost",
+                    "15% EP-Schub",
+                    "Aumento de PE del 15%",
+                    "Potenciador de EXP de 15%",
+                    "15 % de points d’EXP supplémentaires",
+                    "Bonus 15% ai PE",
+                    "XPブースト15%",
+                    "15% 경험치 부스트",
+                    "Premia 15% do PD",
+                    "15% de Impulso de EXP",
+                    "+15% к опыту",
+                    "บูสต์ XP 15%",
+                    "15%经验值加成",
+                    "15%經驗值加成"
+                ],
+                "m_locId": 2950396
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3429,
+            "m_description": {
+                "m_locValues": [
+                    "R4T-C4TCH3R",
+                    "R4TT3N-F4NG3R",
+                    "PR3ND3RR4T4S",
+                    "C4Z4RR4T4S",
+                    "D3R4T1S3UR",
+                    "TR4PP0L4",
+                    "ネズミ捕獲機",
+                    "쥐잡이",
+                    "M3G4ODSZCZURZ4CZ",
+                    "P3G4-R4T0",
+                    "КР1С-0-Л0В",
+                    "R4T-C4TCH3R",
+                    "R4T-C4TCH3R捕鼠机",
+                    "R4T-C4TCH3R"
+                ],
+                "m_locId": 2950397
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
             "m_ID": 343,
             "m_description": {
                 "m_locValues": [
@@ -55272,6 +55974,276 @@
                     "傭兵代幣"
                 ],
                 "m_locId": 2805183
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3430,
+            "m_description": {
+                "m_locValues": [
+                    "Millhouse Manastorm Card Back",
+                    "Kartenrücken Millhaus Manasturm",
+                    "Dorso de carta de Molino Tormenta de Maná",
+                    "Dorso de carta de Molino Tormenta de Maná",
+                    "Dos de carte Milhouse Tempête-de-Mana",
+                    "Dorso Millhouse Manalampo",
+                    "カード裏面デザイン「ミルハウス・マナストーム」",
+                    "밀하우스 마나스톰 카드 뒷면",
+                    "Rewers Mełko Gromiłło",
+                    "Verso de card Millhouse Manavento",
+                    "Рубашка для карт «Миллхаус Манашторм»",
+                    "หลังการ์ดมิลเฮาส์ มานาสตอร์ม",
+                    "米尔豪斯卡背图案",
+                    "米歐浩斯‧曼納斯頓卡背"
+                ],
+                "m_locId": 2950398
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3431,
+            "m_description": {
+                "m_locValues": [
+                    "Hearthstone Hero Skin - Imprisoned Lana'thel",
+                    "Hearthstone: Heldenskin – Gefangene Lana’thel",
+                    "Aspecto de héroe de Hearthstone - Lana'thel encarcelada",
+                    "Diseño de heroína de Hearthstone: Lana'thel Encarcelada",
+                    "Modèle héroïque de Hearthstone : Lana’thel, prisonnière",
+                    "Modello eroe di Hearthstone - Lana'thel Imprigionata",
+                    "王道用ヒーロースキン - 封印されしラナセル",
+                    "하스스톤 영웅 스킨 - 감금된 라나텔",
+                    "Skórka bohatera – Lana'thel Uwięziona",
+                    "Visual de herói de Hearthstone - Lana'thel Aprisionada",
+                    "Облик героя Hearthstone «Заключенная Лана'тель»",
+                    "สกินฮีโร่ Hearthstone - ลานาเธลถูกจองจำ",
+                    "传统对战英雄皮肤 - 被禁锢的兰娜瑟尔",
+                    "爐石戰記英雄造型：被囚禁的菈娜薩爾"
+                ],
+                "m_locId": 2950399
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3432,
+            "m_description": {
+                "m_locValues": [
+                    "Getaway Hogdriver (Golden Uncraftable Epic)",
+                    "Goldene epische Karte Eberfluchtfahrer (nicht herstellbar)",
+                    "Puerco a la fuga (épica dorada, no se puede crear)",
+                    "Conductor de fuga (dorada épica no creable)",
+                    "Carte épique dorée Conducteur en cavale (impossible à créer)",
+                    "Verro in Fuga (Epica vincolata Dorata)",
+                    "「キルボア逃走車」（ゴールデン作成不能エピック）",
+                    "탈출 전문 돼지운전사 (황금 제작 불가 특급 카드)",
+                    "Pędziwieprz (złota epicka niewytwarzalna)",
+                    "Javaleiro de Fuga (Dourado Incriável Épico)",
+                    "Золотая карта «Свиноводила для побега» (нельзя создать, эпическая карта)",
+                    "ควิลบอร์พาหนี (ระดับสุดยอดสีทอง สร้างไม่ได้)",
+                    "跑路狂猪（无法制作的金色史诗卡牌）",
+                    "逃亡野豬司機(無法合成的史詩金卡)"
+                ],
+                "m_locId": 2950400
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3433,
+            "m_description": {
+                "m_locValues": [
+                    "Hearthstone Hero Skin - Prison Break Mukla",
+                    "Hearthstone: Heldenskin – Ausbrecher Mukla",
+                    "Aspecto de héroe de Hearthstone - Mukla fugitivo",
+                    "Diseño de héroe de Hearthstone: Mukla Fugitivo",
+                    "Modèle héroïque de Hearthstone : Mukla, roi de l’évasion",
+                    "Modello eroe di Hearthstone - Mukla Evaso",
+                    "王道用ヒーロースキン - 脱獄ムクラ",
+                    "하스스톤 영웅 스킨 - 탈옥 무클라",
+                    "Skórka bohatera – Mukla, Zbieg",
+                    "Visual de herói de Hearthstone - Mukla em Fuga",
+                    "Облик героя Hearthstone «Беглый Мукла»",
+                    "สกินฮีโร่ Hearthstone - มุคล่าแหกคุก",
+                    "传统对战英雄皮肤 - 越狱的穆克拉",
+                    "爐石戰記英雄造型：越獄穆克拉"
+                ],
+                "m_locId": 2950401
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3434,
+            "m_description": {
+                "m_locValues": [
+                    "2x Signature Soothsayer",
+                    "2x markante Karte Wahrsager",
+                    "2x Pitoniso distintiva",
+                    "2 Veritas insignia",
+                    "Carte signature Devin ×2",
+                    "2 Indovino Pregiate",
+                    "シグネチャー「予言者」x2",
+                    "간판 예언자 2장",
+                    "2 x specjalna karta Szeptun",
+                    "2x Adivinho Exclusivos",
+                    "2 особые карты «Гадалка»",
+                    "2x ผู้ทำนายซิกเนเจอร์",
+                    "2张异画预言师",
+                    "2x 珍藏預卜者"
+                ],
+                "m_locId": 2950402
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3435,
+            "m_description": {
+                "m_locValues": [
+                    "Hearthstone Hero Skin - Mastermind Vanessa",
+                    "Hearthstone: Heldenskin – Strippenzieherin Vanessa",
+                    "Aspecto de héroe de Hearthstone - Vanessa genial",
+                    "Diseño de heroína de Hearthstone: Vanessa Mente maestra",
+                    "Modèle héroïque de Hearthstone : Vanessa la tête pensante",
+                    "Modello eroe di Hearthstone - Vanessa Geniale",
+                    "王道用ヒーロースキン - 黒幕ヴァネッサ",
+                    "하스스톤 영웅 스킨 - 주모자 바네사",
+                    "Skórka bohatera – Vanessa, Mózg Operacji",
+                    "Visual de herói de Hearthstone - Vanessa Maquinadora",
+                    "Облик героя Hearthstone «Преступный гений Ванесса»",
+                    "สกินฮีโร่ Hearthstone - วาเนสซาจอมบงการ",
+                    "传统对战英雄皮肤 - 主谋梵妮莎",
+                    "爐石戰記英雄造型：越獄主謀凡妮莎"
+                ],
+                "m_locId": 2950403
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3436,
+            "m_description": {
+                "m_locValues": [
+                    "Hearthstone Hero Skin - Model Prisoner Faelin",
+                    "Hearthstone: Heldenskin – Musterinsasse Faelin",
+                    "Aspecto de héroe de Hearthstone - Faelin preso ejemplar",
+                    "Diseño de héroe de Hearthstone: Faelin Prisionero modelo",
+                    "Modèle héroïque de Hearthstone : Faelin, prisonnier modèle",
+                    "Modello eroe di Hearthstone - Faelin Prigioniero Modello",
+                    "王道用ヒーロースキン - 模範囚フェイリン",
+                    "하스스톤 영웅 스킨 - 모범수 페이린",
+                    "Skórka bohatera – Faelin, Gitny Więzień",
+                    "Visual de herói de Hearthstone - Faelin Presidiário Modelo",
+                    "Облик героя Hearthstone «Образцовый зэк Фаэлин»",
+                    "สกินฮีโร่ Hearthstone - นักโทษตัวอย่างเฟลิน",
+                    "传统对战英雄皮肤 - 标兵囚犯费林",
+                    "爐石戰記英雄造型：模範囚犯費林"
+                ],
+                "m_locId": 2950404
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3437,
+            "m_description": {
+                "m_locValues": [
+                    "Hearthstone Hero Skin - Millhouse Manastorm",
+                    "Hearthstone: Heldenskin – Millhaus Manasturm",
+                    "Aspecto de héroe de Hearthstone - Molino Tormenta de Maná",
+                    "Diseño de héroe de Hearthstone: Molino Tormenta de Maná",
+                    "Modèle héroïque de Hearthstone : Milhouse Tempête-de-Mana",
+                    "Modello eroe di Hearthstone - Millhouse Manalampo",
+                    "王道用ヒーロースキン - ミルハウス・マナストーム",
+                    "하스스톤 영웅 스킨 - 밀하우스 마나스톰",
+                    "Skórka bohatera – Mełko Gromiłło",
+                    "Visual de herói de Hearthstone - Millhouse Manavento",
+                    "Облик героя Hearthstone «Миллхаус Манашторм»",
+                    "สกินฮีโร่ Hearthstone - มิลเฮาส์ มานาสตอร์ม",
+                    "传统对战英雄皮肤 - 米尔豪斯·法力风暴",
+                    "爐石戰記英雄造型：米歐浩斯‧曼納斯頓"
+                ],
+                "m_locId": 2950405
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3438,
+            "m_description": {
+                "m_locValues": [
+                    "Hearthstone Hero Skin - Henchman Boulderfist",
+                    "Hearthstone: Heldenskin – Felsfaust der Scherge",
+                    "Aspecto de héroe de Hearthstone - Secuaz Puño de Roca",
+                    "Diseño de héroe de Hearthstone: Secuaz Puño de Roca",
+                    "Modèle héroïque de Hearthstone : Rochepoing l’ogre de main",
+                    "Modello eroe di Hearthstone - Scagnozzo Rocciadura",
+                    "王道用ヒーロースキン - 取り巻きボルダーフィスト",
+                    "하스스톤 영웅 스킨 - 심복 돌주먹",
+                    "Skórka bohatera – Zbir Głazograbów",
+                    "Visual de herói de Hearthstone - Capanga Punho de Pedra",
+                    "Облик героя Hearthstone «Подручный Тяжелый Кулак»",
+                    "สกินฮีโร่ Hearthstone - โบลเดอร์ฟิสท์ลิ่วล้อ",
+                    "传统对战英雄皮肤 - 匪帮恶党石拳",
+                    "爐石戰記英雄造型：幹部石拳"
+                ],
+                "m_locId": 2950406
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3439,
+            "m_description": {
+                "m_locValues": [
+                    "Hearthstone Hero Skin - Info Broker Lazul",
+                    "Hearthstone: Heldenskin – Informationshändlerin Lazul",
+                    "Aspecto de héroe de Hearthstone - Lazul corredora de información",
+                    "Diseño de heroína de Hearthstone: Lazul Traficante de información",
+                    "Modèle héroïque de Hearthstone : Lazul, courtière en données",
+                    "Modello eroe di Hearthstone - Lazul Informatrice",
+                    "王道用ヒーロースキン - 情報仲介人ラズール",
+                    "하스스톤 영웅 스킨 - 정보 중개상 라줄",
+                    "Skórka bohatera – Lazul, Kupcząca Plotkami",
+                    "Visual de herói de Hearthstone - Lazul, Negociante de Informações",
+                    "Облик героя Hearthstone «Торговка информацией Лазул»",
+                    "สกินฮีโร่ Hearthstone - ลาซูลแม่ค้าข้อมูล",
+                    "传统对战英雄皮肤 - 情报掮客拉祖尔",
+                    "爐石戰記英雄造型：情報仲介人拉祖爾"
+                ],
+                "m_locId": 2950407
             },
             "m_chooseOne": 0,
             "m_random": 0,
@@ -55307,6 +56279,276 @@
             "m_locked": 0
         },
         {
+            "m_ID": 3440,
+            "m_description": {
+                "m_locValues": [
+                    "2x Signature Black Market Auctioneer",
+                    "2x markante Karte Schwarzmarktauktionator",
+                    "2x Subastador del mercado negro distintiva",
+                    "2 Subastador del Mercado Negro insignia",
+                    "Carte signature Commissaire-priseur clandestin ×2",
+                    "2 Banditore del Mercato Nero Pregiate",
+                    "シグネチャー「闇市の競売人」x2",
+                    "간판 암시장 경매인 2장",
+                    "2 x specjalna karta Licytator z Czarnego Rynku",
+                    "2x Leiloeiro do Mercado Ilegal Exclusivos",
+                    "2 особые карты «Аукционист черного рынка»",
+                    "2x โฆษกประมูลตลาดมืดซิกเนเจอร์",
+                    "2张异画黑市拍卖师",
+                    "2x 珍藏黑市拍賣師"
+                ],
+                "m_locId": 2950408
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3441,
+            "m_description": {
+                "m_locValues": [
+                    "Hearthstone Hero Skin - Escapee Zail",
+                    "Hearthstone: Heldenskin – Flüchtling Zail",
+                    "Aspecto de héroe de Hearthstone - Zail fugado",
+                    "Diseño de héroe de Hearthstone: Zail En fuga",
+                    "Modèle héroïque de Hearthstone : Zaïl en cavale",
+                    "Modello eroe di Hearthstone - Zail Fuggitivo",
+                    "王道用ヒーロースキン - 脱走者ゼイル",
+                    "하스스톤 영웅 스킨 - 도망자 제일",
+                    "Skórka bohatera – Zail, Uciekinier",
+                    "Visual de herói de Hearthstone - Zail Fugitivo",
+                    "Облик героя Hearthstone «Сбежавший Заиль»",
+                    "สกินฮีโร่ Hearthstone - เซลผู้หลบหนี",
+                    "传统对战英雄皮肤 - 越狱的扎尔",
+                    "爐石戰記英雄造型：逃脫者札爾"
+                ],
+                "m_locId": 2950409
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3442,
+            "m_description": {
+                "m_locValues": [
+                    "Dalaran Coin",
+                    "Dalaranmünze",
+                    "Moneda de Dalaran",
+                    "Moneda de Dalaran",
+                    "Pièce de Dalaran",
+                    "Moneta di Dalaran",
+                    "ダララン・コイン",
+                    "달라란 동전",
+                    "Moneta z Dalaranu",
+                    "Moeda de Dalaran",
+                    "Даларанская монетка",
+                    "เหรียญดาลารัน",
+                    "达拉然幸运币",
+                    "達拉然幸運幣"
+                ],
+                "m_locId": 2950410
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3443,
+            "m_description": {
+                "m_locValues": [
+                    "Chosen Hero Skin",
+                    "Heldenskin Eurer Wahl",
+                    "Aspecto de héroe elegido",
+                    "Diseño de héroe a elección",
+                    "Modèle héroïque choisi",
+                    "Modello eroe scelto",
+                    "選んだヒーロースキン",
+                    "선택한 영웅 스킨",
+                    "Wybrana skórka dla bohatera",
+                    "Visual de herói escolhido",
+                    "Выбранный облик героя",
+                    "สกินฮีโร่ที่เลือก",
+                    "选择的英雄皮肤",
+                    "選擇的英雄造型"
+                ],
+                "m_locId": 2950411
+            },
+            "m_chooseOne": 1,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3444,
+            "m_description": {
+                "m_locValues": [
+                    "3x Hearthstone Hero Skins - Jailbird Inzah (Shaman), Sir Alarm-O (Paladin), Dalaran Aegwynn (Mage)",
+                    "3x Hearthstone-Heldenskins – Knastvogel Inzah (Schamane), Sir Alarm-O (Paladin), Aegwynn von Dalaran (Magier)",
+                    "3x aspecto de héroe de Hearthstone - Inzah presidiario (chamán), Sir Plastalarma (paladín) y Aegwynn de Dalaran (mago)",
+                    "3 diseños de héroe de Hearthstone: Inzah Presidiario (Chamán), Sir Alarm-A (Paladín), Aegwynn de Dalaran (Mago)",
+                    "Modèle héroïque de Hearthstone ×3 : Inzah récidiviste (chaman), Messire Alarm-O (paladin), Aegwynn de Dalaran (mage)",
+                    "3 modelli eroe di Hearthstone - Inzah Galeotto (Sciamano), Ser Allarmion (Paladino), Aegwynn di Dalaran (Mago)",
+                    "王道用ヒーロースキンx3 - 囚人インザー（シャーマン）、サー・ケイホー（パラディン）、ダララン・エイグウィン（メイジ）",
+                    "하스스톤 영웅 스킨 3종 - 감옥새 인자(주술사), 경보로봇 경(성기사), 달라란 에이그윈(마법사)",
+                    "3 x skórka bohatera – Inzah, Więzienny Ptaszek (szaman), Sir Alarm-ON (paladyn), Egwina z Dalaranu (mag)",
+                    "3x Visuais de herói de Hearthstone - Inzah Presidiário (Xamã), Dom Alarmo (Paladino), Aegwynn de Dalaran (Mago)",
+                    "3 облика героя Hearthstone — «Второход Инза» (шаман), «Сэр Тревого» (паладин), «Эгвин из Даларана» (маг)",
+                    "3x สกินฮีโร่ Hearthstone - อินซาห์นกในกรง (ชาแมน), เซอร์ อลาร์ม-โอ (พาลาดิน), เอกวินน์แห่งดาลารัน (เมจ)",
+                    "3款传统对战英雄皮肤 - 囚徒因扎（萨满祭司），报报爵士（圣骑士），达拉然的艾格文（法师）",
+                    "3x 爐石戰記英雄造型：囚犯因札(薩滿)、警報爵士(聖騎士)、達拉然艾格文(法師)"
+                ],
+                "m_locId": 2950412
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3445,
+            "m_description": {
+                "m_locValues": [
+                    "2x Signature Defias Smuggler",
+                    "2x markante Karte Schmuggler der Defias",
+                    "2x Contrabandista Defias distintiva",
+                    "2 Contrabandista Defias insignia",
+                    "Carte signature Passeuse défias ×2",
+                    "2 Esfiltratrice Defias Pregiate",
+                    "シグネチャー「デファイアスの密輸人」x2",
+                    "간판 데피아즈단 밀반입꾼 2장",
+                    "2 x specjalna karta Przemytniczka z Nieskornych",
+                    "2x Contrabandista Défias Exclusivos",
+                    "2 особые карты «Контрабандист Братства»",
+                    "2x ดีไฟอัสนักลักลอบซิกเนเจอร์",
+                    "2张异画迪菲亚私运者",
+                    "2x 珍藏迪菲亞走私者"
+                ],
+                "m_locId": 2950413
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3446,
+            "m_description": {
+                "m_locValues": [
+                    "20% XP Boost",
+                    "20% EP-Schub",
+                    "Aumento de PE del 20%",
+                    "Potenciador de EXP de 20%",
+                    "20 % de points d’EXP supplémentaires",
+                    "Bonus 20% ai PE",
+                    "XPブースト20%",
+                    "20% 경험치 부스트",
+                    "Premia 20% do PD",
+                    "20% de Impulso de EXP",
+                    "+20% к опыту",
+                    "บูสต์ XP 20%",
+                    "20%经验值加成",
+                    "20%經驗值加成"
+                ],
+                "m_locId": 2950414
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3447,
+            "m_description": {
+                "m_locValues": [
+                    "Standard Card Pack",
+                    "Standardkartenpackung",
+                    "Sobre de cartas estándar",
+                    "Paquete de cartas estándar",
+                    "Paquet de cartes standard",
+                    "Busta di carte Standard",
+                    "スタンダードカードパック",
+                    "정규 카드 팩",
+                    "Pakiet kart standardowych",
+                    "Pacote de cards Padrão",
+                    "Стандартный комплект карт",
+                    "ซองการ์ดมาตรฐาน",
+                    "标准卡牌包",
+                    "標準規則卡牌包"
+                ],
+                "m_locId": 2950415
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3448,
+            "m_description": {
+                "m_locValues": [
+                    "Vanessa the Ringleader (Golden Uncraftable Legendary)",
+                    "Legendäre Karte Anführerin Vanessa (nicht herstellbar)",
+                    "Vanessa la Gerifalte (legendaria dorada, no se puede crear)",
+                    "Vanessa, la Líder (dorada legendaria no creable)",
+                    "Carte légendaire dorée Vanessa la meneuse (impossible à créer)",
+                    "Vanessa la Capa (Leggendaria vincolata Dorata)",
+                    "「首謀者ヴァネッサ」（ゴールデン作成不能レジェンド）",
+                    "두목 바네사 (황금 제작 불가 전설 카드)",
+                    "Przywódczyni Vanessa (złota legendarna niewytwarzalna)",
+                    "Vanessa, a Cabecilha (Dourado Incriável Lendário)",
+                    "Золотая карта «Главарь Ванесса» (нельзя создать, легендарная карта)",
+                    "วาเนสซาหัวหน้าโจร (ระดับตำนานสีทอง สร้างไม่ได้)",
+                    "大头目梵妮莎（无法制作的金色传说卡牌）",
+                    "頭目凡妮莎(無法合成的傳說金卡)"
+                ],
+                "m_locId": 2950416
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3449,
+            "m_description": {
+                "m_locValues": [
+                    "Warden Maiev (Golden Uncraftable Legendary)",
+                    "Goldene legendäre Karte Wächterin Maiev (nicht herstellbar)",
+                    "Maiev celadora (legendaria dorada, no se puede crear)",
+                    "Celadora Maiev (dorada legendaria no creable)",
+                    "Carte légendaire dorée Maiev la Gardienne (impossible à créer)",
+                    "Maiev Custode (Leggendaria vincolata Dorata)",
+                    "「看守のマイエヴ」（ゴールデン作成不能レジェンド）",
+                    "감시관 마이에브 (황금 제작 불가 전설 카드)",
+                    "Strażniczka Maiev (złota legendarna niewytwarzalna)",
+                    "Guardiã Maiev (Dourado Incriável Lendário)",
+                    "Золотая карта «Страж Майев» (нельзя создать, легендарная карта)",
+                    "วอร์เดนไมเอฟ (ระดับตำนานสีทอง สร้างไม่ได้)",
+                    "典狱官玛维（无法制作的金色传说卡牌）",
+                    "典獄官瑪翼夫(無法合成的傳說金卡)"
+                ],
+                "m_locId": 2950417
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
             "m_ID": 345,
             "m_description": {
                 "m_locValues": [
@@ -55326,6 +56568,1140 @@
                     "傭兵代幣"
                 ],
                 "m_locId": 2805185
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3450,
+            "m_description": {
+                "m_locValues": [
+                    "Standard Golden Card Pack",
+                    "Goldene Standardkartenpackung",
+                    "Sobre estándar dorado",
+                    "Paquete de cartas dorado estándar",
+                    "Paquet de cartes standard dorées",
+                    "Busta Standard Dorata",
+                    "ゴールデンスタンダードカードパック",
+                    "정규 황금 카드 팩",
+                    "Złoty pakiet kart standardowych",
+                    "Pacote de cards Dourado Padrão",
+                    "Золотой стандартный комплект карт",
+                    "ซองการ์ดมาตรฐานสีทอง",
+                    "金色标准卡牌包",
+                    "標準規則黃金卡牌包"
+                ],
+                "m_locId": 2950418
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3451,
+            "m_description": {
+                "m_locValues": [
+                    "Standard Golden Card Pack",
+                    "Goldene Standardkartenpackung",
+                    "Sobre estándar dorado",
+                    "Paquete de cartas dorado estándar",
+                    "Paquet de cartes standard dorées",
+                    "Busta Standard Dorata",
+                    "ゴールデンスタンダードカードパック",
+                    "정규 황금 카드 팩",
+                    "Złoty pakiet kart standardowych",
+                    "Pacote de cards Dourado Padrão",
+                    "Золотой стандартный комплект карт",
+                    "ซองการ์ดมาตรฐานสีทอง",
+                    "金色标准卡牌包",
+                    "標準規則黃金卡牌包"
+                ],
+                "m_locId": 2950419
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3452,
+            "m_description": {
+                "m_locValues": [
+                    "Dalaran Coin",
+                    "Dalaranmünze",
+                    "Moneda de Dalaran",
+                    "Moneda de Dalaran",
+                    "Pièce de Dalaran",
+                    "Moneta di Dalaran",
+                    "ダララン・コイン",
+                    "달라란 동전",
+                    "Moneta z Dalaranu",
+                    "Moeda de Dalaran",
+                    "Даларанская монетка",
+                    "เหรียญดาลารัน",
+                    "达拉然幸运币",
+                    "達拉然幸運幣"
+                ],
+                "m_locId": 2950427
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3453,
+            "m_description": {
+                "m_locValues": [
+                    "1x Escape from Violet Hold Pack",
+                    "1x Packung aus Flucht aus der Violetten Festung",
+                    "1x sobre de Fuga del Bastión Violeta",
+                    "1 paquete de Escape del Bastión Violeta",
+                    "Paquet d’Évasion du fort Pourpre ×1",
+                    "1 busta di Fuga dalla Fortezza Violacea",
+                    "「ヴァイオレット監獄脱出計画！」パックx1",
+                    "보랏빛 요새 탈출 작전 팩 1개",
+                    "1 x pakiet Ucieczki z Purpurowej Twierdzy",
+                    "1x Pacote de Fuga do Castelo Violeta",
+                    "1 комплект карт дополнения «Побег из Аметистовой крепости»",
+                    "1x ซองการ์ด Escape from Violet Hold",
+                    "1包逃离紫罗兰监狱卡牌包",
+                    "1x 《紫羅蘭堡大逃亡》卡牌包"
+                ],
+                "m_locId": 2950436
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3454,
+            "m_description": {
+                "m_locValues": [
+                    "1x Escape from Violet Hold Pack, 1x Catch-Up Pack",
+                    "1x Packung aus Flucht aus der Violetten Festung, 1x Aufholpackung",
+                    "1x sobre de Fuga del Bastión Violeta, 1x sobre para ponerse al día",
+                    "1 paquete de Escape del Bastión Violeta, 1 paquete de abastecimiento",
+                    "Paquet d’Évasion du fort Pourpre ×1, paquet de rattrapage ×1",
+                    "1 busta di Fuga dalla Fortezza Violacea, 1 busta di recupero",
+                    "「ヴァイオレット監獄脱出計画！」パックx1、キャッチアップパックx1",
+                    "보랏빛 요새 탈출 작전 팩 1개, 발돋움 팩 1개",
+                    "1 x pakiet Ucieczki z Purpurowej Twierdzy, 1 x pakiet posiłkowy",
+                    "1x Pacote de Fuga do Castelo Violeta, 1x Pacote de Atualização",
+                    "1 комплект карт дополнения «Побег из Аметистовой крепости», 1 комплект для догоняющих",
+                    "1x ซองการ์ด Escape from Violet Hold, 1x ซองแคตช์อัพ",
+                    "1包逃离紫罗兰监狱卡牌包，1包追赶包",
+                    "1x 《紫羅蘭堡大逃亡》卡牌包、1x 追趕進度包"
+                ],
+                "m_locId": 2950437
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3455,
+            "m_description": {
+                "m_locValues": [
+                    "1x Escape from Violet Hold Golden Pack, 1x Escape from Violet Hold Pack",
+                    "1x goldene Kartenpackung aus Flucht aus der Violetten Festung, 1x Packung aus Flucht aus der Violetten Festung",
+                    "1x sobre dorado de Fuga del Bastión Violeta, 1x sobre de Fuga del Bastión Violeta",
+                    "1 paquete dorado de Escape del Bastión Violeta, 1 paquete de Escape del Bastión Violeta",
+                    "Paquet de cartes dorées d’Évasion du fort Pourpre ×1, paquet de cartes d’Évasion du fort Pourpre ×1",
+                    "1 busta Dorata di Fuga dalla Fortezza Violacea, 1 busta di Fuga dalla Fortezza Violacea",
+                    "「ヴァイオレット監獄脱出計画！」ゴールデンパックx1、「ヴァイオレット監獄脱出計画！」パックx1",
+                    "보랏빛 요새 탈출 작전 황금 팩 1개, 보랏빛 요새 탈출 작전 팩 1개",
+                    "1 x złoty pakiet Ucieczki z Purpurowej Twierdzy, 1 x pakiet Ucieczki z Purpurowej Twierdzy",
+                    "1x Pacote Dourado de Fuga do Castelo Violeta, 1x Pacote de Fuga do Castelo Violeta",
+                    "1 золотой комплект карт дополнения «Побег из Аметистовой крепости», 1 комплект карт дополнения «Побег из Аметистовой крепости»",
+                    "1x ซองการ์ด Escape from Violet Hold สีทอง, 1x ซองการ์ด Escape from Violet Hold",
+                    "1包逃离紫罗兰监狱金色包，1包逃离紫罗兰监狱卡牌包",
+                    "1x 《紫羅蘭堡大逃亡》黃金卡牌包、1x 《紫羅蘭堡大逃亡》卡牌包"
+                ],
+                "m_locId": 2950438
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3456,
+            "m_description": {
+                "m_locValues": [
+                    "2x Tavern Ticket, 1x Escape from Violet Hold Pack",
+                    "2x Gasthauszugang, 1x Packung aus Flucht aus der Violetten Festung",
+                    "2x entrada de taberna, 1x sobre de Fuga del Bastión Violeta",
+                    "2 boletos de la Taberna, 1 paquete de Escape del Bastión Violeta",
+                    "Admission pour la taverne ×2, paquet de cartes d’Évasion du fort Pourpre ×1",
+                    "2 Biglietti Locanda, 1 busta di Fuga dalla Fortezza Violacea",
+                    "酒場チケットx2、「ヴァイオレット監獄脱出計画！」パックx1",
+                    "선술집 입장권 2장, 보랏빛 요새 탈출 작전 팩 1개",
+                    "2 x bilet do Karczmy, 1 x pakiet Ucieczki z Purpurowej Twierdzy",
+                    "2x Ingresso da Taverna, 1x Pacote de Fuga do Castelo Violeta",
+                    "2 пропуска в таверну, 1 комплект карт дополнения «Побег из Аметистовой крепости»",
+                    "2x บัตรโรงเตี๊ยม, 1x ซองการ์ด Escape from Violet Hold",
+                    "2张旅店通票，1包逃离紫罗兰监狱卡牌包",
+                    "2x 旅店門票、1x 《紫羅蘭堡大逃亡》卡牌包"
+                ],
+                "m_locId": 2950471
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3457,
+            "m_description": {
+                "m_locValues": [
+                    "Jailbreak Brawler Card Back, 2x Tavern Ticket",
+                    "Kartenrücken: Kartenchaot des Gefängnisausbruchs, 2x Gasthauszugang",
+                    "Dorso de carta de Camorrista de la evasión, 2x entrada de taberna",
+                    "Dorso de carta Gresca de la fuga, 2 boletos de la Taberna",
+                    "Dos de carte Bras de fer en prison, admission pour la taverne ×2",
+                    "Dorso Attaccabrighe dell'Evasione, 2 Biglietti Locanda",
+                    "カード裏面デザイン「脱獄の喧嘩屋」、酒場チケットx2",
+                    "탈옥 난투꾼 카드 뒷면, 선술집 입장권 2장",
+                    "Rewers Awanturnik z ucieczki, 2 x bilet do Karczmy",
+                    "Verso de card Brigão Foragido, 2x Ingressos da Taverna",
+                    "Рубашка «Боец-беглец», 2 пропуска в таверну",
+                    "หลังการ์ดนักสู้แหกคุก, 2x บัตรโรงเตี๊ยม",
+                    "越狱乱斗卡背图案，2张旅店通票",
+                    "越獄鬥士卡背、2x 旅店門票"
+                ],
+                "m_locId": 2950472
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3458,
+            "m_description": {
+                "m_locValues": [
+                    "2x Signature Spiderling",
+                    "2x markante Karte Spinnling",
+                    "2x Arañita distintiva",
+                    "2 Arañuelo insignia",
+                    "Carte signature Jeune araignée ×2",
+                    "2 Ragnetto Pregiate",
+                    "シグネチャー「子蜘蛛」x2",
+                    "간판 새끼거미 2장",
+                    "2 x specjalna karta Pajęczak",
+                    "2x Aranita Exclusivos",
+                    "2 особые карты «Паучок»",
+                    "2x ลูกแมงมุมซิกเนเจอร์",
+                    "2张异画小蜘蛛",
+                    "2x 珍藏小蜘蛛"
+                ],
+                "m_locId": 2950533
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3459,
+            "m_description": {
+                "m_locValues": [
+                    "1x Golden Escape from Violet Hold Pack",
+                    "1x goldene Packung aus Flucht aus der Violetten Festung",
+                    "1x sobre dorado de Fuga del Bastión Violeta",
+                    "1 paquete dorado de Escape del Bastión Violeta",
+                    "Paquet de cartes dorées d’Évasion du fort Pourpre ×1",
+                    "1 busta Dorata di Fuga dalla Fortezza Violacea",
+                    "「ヴァイオレット監獄脱出計画！」ゴールデンパックx1",
+                    "황금 보랏빛 요새 탈출 작전 팩 1개",
+                    "1 x złoty pakiet Ucieczki z Purpurowej Twierdzy",
+                    "1x Pacote Dourado de Fuga do Castelo Violeta",
+                    "1 золотой комплект карт дополнения «Побег из Аметистовой крепости»",
+                    "1x ซองการ์ด Escape from Violet Hold สีทอง",
+                    "1包逃离紫罗兰监狱金色包",
+                    "1x 《紫羅蘭堡大逃亡》黃金卡牌包"
+                ],
+                "m_locId": 2950534
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3460,
+            "m_description": {
+                "m_locValues": [
+                    "2x Signature Lethal Recipe",
+                    "2x markante Karte Tödliches Rezept",
+                    "2x Receta letal distintiva",
+                    "2 Receta letal insignia",
+                    "Carte signature Recette mortelle ×2",
+                    "2 Ricetta Letale Pregiate",
+                    "シグネチャー「必殺レシピ」x2",
+                    "간판 치명적인 조제법 2장",
+                    "2 x specjalna karta Śmiercionośna receptura",
+                    "2x Receita Letal Exclusivos",
+                    "2 особые карты «Смертельный рецепт»",
+                    "2x สูตรพรากชีวิตซิกเนเจอร์",
+                    "2张异画致命配方",
+                    "2x 珍藏致命食譜"
+                ],
+                "m_locId": 2950535
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3461,
+            "m_description": {
+                "m_locValues": [
+                    "2x Random Golden Epic Cards",
+                    "2x zufällige goldene epische Karten",
+                    "2x carta épica dorada aleatoria",
+                    "2 cartas épicas doradas aleatorias",
+                    "Cartes épiques dorées aléatoires ×2",
+                    "2 carte Epiche Dorate casuali",
+                    "ランダムなゴールデンエピックカードx2",
+                    "확률형 황금 특급 카드 2장",
+                    "2 x losowa złota karta epicka",
+                    "2x Cards Épicos Dourados aleatórios",
+                    "2 случайные золотые эпические карты",
+                    "2x การ์ดระดับสุดยอดสีทองแบบสุ่ม",
+                    "2张随机金色史诗卡牌",
+                    "2x 隨機史詩金卡"
+                ],
+                "m_locId": 2950536
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3462,
+            "m_description": {
+                "m_locValues": [
+                    "Judge Jailer Hero Skin",
+                    "Heldenskin: Der Kerkerrichter",
+                    "Aspecto de héroe Juez Carcelero",
+                    "Diseño de héroe Carcelero Juez",
+                    "Modèle héroïque Le Geôlier, grand juge",
+                    "Modello eroe Carceriere Giudice",
+                    "ヒーロースキン「判事獄吏王」",
+                    "판사 간수 영웅 스킨",
+                    "Skórka bohatera Sędzia Więzienny",
+                    "Visual de herói Carcereiro Juiz",
+                    "Облик героя «Тюремщик-судья»",
+                    "สกินฮีโร่เจลเลอร์ผู้พิพากษา",
+                    "英雄皮肤裁决官典狱长",
+                    "判官閻獄之主英雄造型"
+                ],
+                "m_locId": 2950537
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3463,
+            "m_description": {
+                "m_locValues": [
+                    "2x Signature Spider Rider",
+                    "2x markante Karte Spinnenreiterin",
+                    "2x Jinete de araña distintiva",
+                    "2 Jinete de araña insignia",
+                    "Carte signature Chevaucheuse d’araignée ×2",
+                    "2 Cavalcaracnide Pregiate",
+                    "シグネチャー「スパイダーライダー」x2",
+                    "간판 거미 기수 2장",
+                    "2 x specjalna karta Ujeżdżaczka pająków",
+                    "2x Cavalga-aranha Exclusivos",
+                    "2 особые карты «Наездник на пауке»",
+                    "2x นักขี่แมงมุมซิกเนเจอร์",
+                    "2张异画蜘蛛骑手",
+                    "2x 珍藏蜘蛛騎士"
+                ],
+                "m_locId": 2950538
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3464,
+            "m_description": {
+                "m_locValues": [
+                    "Irida Sinseeker Hero Set",
+                    "Heldenpaket Irida Sündensucher",
+                    "Conjunto de héroe de Irida Buscapecados",
+                    "Kit de heroína de Irida Buscapecados",
+                    "Ensemble héroïque Irida Cherche-vice",
+                    "Set eroe Irida Cercapeccati",
+                    "ヒーローセット「悪の追求者イリダ」",
+                    "이리다 신시커 영웅 세트",
+                    "Zestaw bohaterski Iridy, Tropicielki Grzechu",
+                    "Conjunto de Herói de Irida Caçadora de Pecados",
+                    "Набор героя «Ирида Искатель Греха»",
+                    "ชุดฮีโร่อิริดา ซินซีคเกอร์",
+                    "备选英雄伊莉达·寻罪",
+                    "伊莉妲‧尋罪者英雄禮包"
+                ],
+                "m_locId": 2950539
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3465,
+            "m_description": {
+                "m_locValues": [
+                    "Signature Staff of Trickery",
+                    "Markante Karte Stab des Betrugs",
+                    "Bastón de artimañas distintiva",
+                    "Bastón de artimañas insignia",
+                    "Carte signature Bâton de supercherie",
+                    "Bastone dell'Astuzia Pregiata",
+                    "シグネチャー「詐術の杖」",
+                    "간판 계략의 지팡이",
+                    "Specjalna karta Kostur knowań",
+                    "Cajado dos Ardis Exclusivo",
+                    "Особая карта «Посох коварства»",
+                    "ไม้เท้ากลอุบายซิกเนเจอร์",
+                    "异画诡计法杖",
+                    "珍藏詭詐法杖"
+                ],
+                "m_locId": 2950540
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3466,
+            "m_description": {
+                "m_locValues": [
+                    "Signature Chef Neth'rek",
+                    "Markante Karte Köchin Neth’rek",
+                    "Chef Neth'rek distintiva",
+                    "Chef Neth'rek insignia",
+                    "Carte signature Cheffe Neth’rek",
+                    "Chef Neth'rek Pregiata",
+                    "シグネチャー「シェフ・ネスレック」",
+                    "간판 요리사 네스렉",
+                    "Specjalna karta Kuchta Neth'rek",
+                    "Chef Neth'rek Exclusivo",
+                    "Особая карта «Повар Нез'рек»",
+                    "เชฟเนธเรคซิกเนเจอร์",
+                    "异画主厨奈瑟雷克",
+                    "珍藏奈絲芮克大廚"
+                ],
+                "m_locId": 2950541
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3467,
+            "m_description": {
+                "m_locValues": [
+                    "Q'onzu Cosmetic Pet",
+                    "Kosmetisches Haustier: Q’onzu",
+                    "Mascota cosmética Q'onzu",
+                    "Mascota estética Q'onzu",
+                    "Familier ornemental Q’onzu",
+                    "Mascotte cosmetica Q'onzu",
+                    "ペット「クオンズ」",
+                    "칸주 외형 애완동물",
+                    "Ozdobny pupil Q'onzu",
+                    "Mascote cosmética Q'onzu",
+                    "Декоративный питомец «К'онзу»",
+                    "สัตว์เลี้ยงตกแต่งคอนซู",
+                    "宠物亢祖",
+                    "寇祖造型寵物"
+                ],
+                "m_locId": 2950542
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3468,
+            "m_description": {
+                "m_locValues": [
+                    "2x Signature Hijacked Securitybot",
+                    "2x markante Karte Gekaperter Sicherheitsbot",
+                    "2x Robot de seguridad manipulado distintiva",
+                    "2 Guardiabot alterado insignia",
+                    "Carte signature Bot de sécurité piraté ×2",
+                    "2 Sicurobot Sabotato Pregiate",
+                    "シグネチャー「乗っ取られた警備ロボ」x2",
+                    "간판 탈취당한 경비로봇 2장",
+                    "2 x specjalna karta Przechwycony ochronobot",
+                    "2x Robô de Segurança Sequestrado Exclusivos",
+                    "2 особые карты «Похищенный охранобот»",
+                    "2x หุ่นเฝ้ายามถูกเจาะระบบซิกเนเจอร์",
+                    "2张异画被破解的安保机器人",
+                    "2x 珍藏被劫持的警衛機器人"
+                ],
+                "m_locId": 2950580
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3469,
+            "m_description": {
+                "m_locValues": [
+                    "2x Signature The Unseen Atlas",
+                    "2x markante Karte Der ungesehene Atlas",
+                    "2x Atlas Invisible distintiva",
+                    "2 Atlas invisible insignia",
+                    "Carte signature Atlas invisible ×2",
+                    "2 Atlante Celato Pregiate",
+                    "シグネチャー「未知のアトラス」x2",
+                    "간판 보이지 않는 아틀라스 2장",
+                    "2 x specjalna karta Atlas nieświata",
+                    "2x O Atlas Oculto Exclusivos",
+                    "2 особые карты «Незримый атлас»",
+                    "2x แอตลาสลับตาซิกเนเจอร์",
+                    "2张异画秘密监控",
+                    "2x 珍藏無形監控中樞"
+                ],
+                "m_locId": 2950581
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3470,
+            "m_description": {
+                "m_locValues": [
+                    "2x Signature Mind Sweeper",
+                    "2x markante Karte Geistlöscher",
+                    "2x Lavamentes distintiva",
+                    "2 Barrementes insignia",
+                    "Carte signature Altère-esprit ×2",
+                    "2 Assorbimente Pregiate",
+                    "シグネチャー「精神の掃除屋」x2",
+                    "간판 정신 삭제자 2장",
+                    "2 x specjalna karta Rozpruwacz umysłów",
+                    "2x Perscrutador Mental Exclusivos",
+                    "2 особые карты «Чистильщик разума»",
+                    "2x จอมกวาดจิตซิกเนเจอร์",
+                    "2张异画心灵扫荡者",
+                    "2x 珍藏心靈掃蕩者"
+                ],
+                "m_locId": 2950582
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3471,
+            "m_description": {
+                "m_locValues": [
+                    "2x Signature Enthralled Shade",
+                    "2x markante Karte Versklavter Schemen",
+                    "2x Sombra cautivada distintiva",
+                    "2 Sombra cautivada insignia",
+                    "Carte signature Ombre ensorcelée ×2",
+                    "2 Ombra Stregata Pregiate",
+                    "シグネチャー「釘付けになったシェード」x2",
+                    "간판 속박된 망령 2장",
+                    "2 x specjalna karta Zniewolony cień",
+                    "2x Sombra Subjugada Exclusivo",
+                    "2 особые карты «Порабощенная тень»",
+                    "2x เงามืดถูกสะกดซิกเนเจอร์",
+                    "2张异画被奴役的影魔",
+                    "2x 珍藏奴役魔影"
+                ],
+                "m_locId": 2950583
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3472,
+            "m_description": {
+                "m_locValues": [
+                    "2x Signature Low Security Wing",
+                    "2x markante Karte Niedersicherheitstrakt",
+                    "2x Sector de baja seguridad distintiva",
+                    "2 Ala de baja seguridad insignia",
+                    "Carte signature Jeune Aile de basse sécurité ×2",
+                    "2 Ala di Minima Sicurezza Pregiate",
+                    "シグネチャー「軽警備棟」x2",
+                    "간판 보안 미비 구역 2장",
+                    "2 x specjalna karta Skrzydło o złagodzonym rygorze",
+                    "2x Ala de Segurança Mínima Exclusivo",
+                    "2 особые карты «Небезопасная секция»",
+                    "2x เขตความมั่นคงต่ำซิกเนเจอร์",
+                    "2张异画安保盲区",
+                    "2x 珍藏低警戒區"
+                ],
+                "m_locId": 2950584
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3473,
+            "m_description": {
+                "m_locValues": [
+                    "2x Signature Spire of Solitude",
+                    "2x markante Karte Turm der Einsamkeit",
+                    "2x Aguja de la Soledad distintiva",
+                    "2 Espira de soledad insignia",
+                    "Carte signature Flèche de la Solitude ×2",
+                    "2 Torre della Solitudine Pregiate",
+                    "シグネチャー「隔離の渦」x2",
+                    "간판 고독의 봉우리 2장",
+                    "2 x specjalna karta Iglica Samotności",
+                    "2x Pináculo da Solidão Exclusivo",
+                    "2 особые карты «Шпиль Уединения»",
+                    "2x หอคอยแห่งความสันโดษซิกเนเจอร์",
+                    "2张异画孤守晶塔",
+                    "2x 珍藏孤寂尖塔"
+                ],
+                "m_locId": 2950585
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3474,
+            "m_description": {
+                "m_locValues": [
+                    "3x Signature Legendary Cards",
+                    "3x markante legendäre Karten",
+                    "3x carta legendaria distintiva",
+                    "3 cartas legendarias insignia",
+                    "Carte légendaire signature ×3",
+                    "3 carta Leggendarie Pregiate",
+                    "シグネチャーレジェンドカードx3",
+                    "간판 전설 카드 3장",
+                    "3 x specjalna karta legendarna",
+                    "3x cards Lendários Exclusivos",
+                    "3 особые легендарные карты",
+                    "3x การ์ดซิกเนเจอร์ระดับตำนาน",
+                    "3张异画传说卡牌",
+                    "3x 珍藏傳說卡牌"
+                ],
+                "m_locId": 2950586
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3475,
+            "m_description": {
+                "m_locValues": [
+                    "Maieve Mythic Skin  Rogue & Maieve Mythic Skin Priest",
+                    "Mythischer Maiev-Skin Schurke & Mythischer Maiev-Skin Priester",
+                    "Aspecto mítico Maiev para pícaro y para sacerdote",
+                    "Diseño mítico de Maiev para Pícaro y diseño mítico de Maiev para Sacerdote",
+                    "Modèle mythique de Maiev pour voleur et modèle mythique de Maiev pour prêtre",
+                    "Modello Mitico di Maiev per Ladro e Modello Mitico di Maiev per Sacerdote",
+                    "ローグ用ミシックスキン「マイエヴ」＆プリースト用ミシックスキン「マイエヴ」",
+                    "마이에브 신화 스킨 도적 및 마이에브 신화 스킨 사제",
+                    "Mityczna skórka Maiev dla łotra i mityczna skórka Maiev dla kapłana",
+                    "Visual Mítico Maiev para Ladino e Visual Mítico Maiev para Sacerdote",
+                    "Эпохальный облик разбойника «Майев» и эпохальный облик жреца «Майев»",
+                    "สกินไมเอฟระดับมิทธิคสำหรับโร้ก และสกินไมเอฟระดับมิทธิคสำหรับพรีสต์",
+                    "潜行者神话皮肤玛维以及牧师神话皮肤玛维",
+                    "瑪翼夫盜賊傳奇造型與瑪翼夫牧師傳奇造型"
+                ],
+                "m_locId": 2950701
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3476,
+            "m_description": {
+                "m_locValues": [
+                    "2x Signature Judgment",
+                    "2x markante Karte Richturteil",
+                    "2x Sentencia distintiva",
+                    "2 Sentencia insignia",
+                    "Carte signature Jugement ×2",
+                    "2 Giudizio Pregiate",
+                    "シグネチャー「断罪」x2",
+                    "간판 심판 2장",
+                    "2 x specjalna karta Osąd",
+                    "2x Julgamento Exclusivo",
+                    "2 особые карты «Правосудие»",
+                    "2x พิพากษาซิกเนเจอร์",
+                    "2张异画审判",
+                    "2x 珍藏審判"
+                ],
+                "m_locId": 2951278
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3477,
+            "m_description": {
+                "m_locValues": [
+                    "2x Signature Breakout Architect",
+                    "2x markante Karte Ausbrucharchitektin",
+                    "2x Arquitecta de la evasión distintiva",
+                    "2 Artífice de la fuga insignia",
+                    "Carte signature Stratège de l’évasion ×2",
+                    "2 Artefice dell'Evasione Pregiate",
+                    "シグネチャー「脱獄立案者」x2",
+                    "간판 탈옥 설계사 2장",
+                    "2 x specjalna karta Mózg ucieczki",
+                    "2x Arquiteta da Fuga Exclusivos",
+                    "2 особые карты «Архитектор побега»",
+                    "2x สถาปนิกแหกคุกซิกเนเจอร์",
+                    "2张异画越狱构造师",
+                    "2x 珍藏劫獄建築師"
+                ],
+                "m_locId": 2951279
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3482,
+            "m_description": {
+                "m_locValues": [
+                    "Prison Doctor Thal'ena Hero Skin",
+                    "Heldenskin: Gefängnisdoktorin Thal’ena",
+                    "Aspecto de héroe Doctora de prisión Thal'ena",
+                    "Diseño de heroína Thal'ena Médica de prisión",
+                    "Modèle héroïque Thal’ena, soigneuse de la prison",
+                    "Modello eroe Dottoressa della Prigione Thal'ena",
+                    "ヒーロースキン「監獄ドクター・サルエナ」",
+                    "교도소 의사 탈레나 영웅 스킨",
+                    "Skórka bohatera Thal'ena, Lekarka Więzienna",
+                    "Visual de herói Doutora da Prisão Thal'ena",
+                    "Облик героя «Тюремный врач Тал'ена»",
+                    "สกินฮีโร่แพทย์เรือนจำธาลีน่า",
+                    "英雄皮肤监狱医师萨安娜",
+                    "獄醫薩蕾娜英雄造型"
+                ],
+                "m_locId": 2951356
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3483,
+            "m_description": {
+                "m_locValues": [
+                    "1x CATACLYSM Card Pack, 1x Across the Timeways Card Pack,\n1x The Lost City of Un'goro Card Pack",
+                    "1x Kartenpackung aus KATAKLYSMUS, 1x Kartenpackung: Reise durch die Zeitwege,\n1x Kartenpackung: Die Verlorene Stadt Un'Goro",
+                    "1x sobre de EL CATACLISMO, 1x sobre de Los Portales del Tiempo,\n1x sobre de La Ciudad Perdida de Un'Goro",
+                    "1 paquete de cartas de CATACLISMO, 1 paquete de cartas de A través de los Portales del Tiempo,\n1 paquete de cartas de La Ciudad Perdida de Un'Goro",
+                    "Paquet de CATACLYSME ×1, paquet de Par-delà les voies temporelles ×1,\npaquet de La cité perdue d’Un’Goro ×1",
+                    "1 busta di CATACLISMA, 1 busta di Oltre i Flussi Temporali,\n1 busta di La Città Perduta di Un'Goro",
+                    "「終焉のアゼロス」カードパックx1、「タイムウェイの旅人たち」カードパックx1、\n「ウンゴロ最後の秘境」カードパックx1",
+                    "대격변 카드 팩 1개, 시간의 길 너머로 카드 팩 1개,\n운고로의 잃어버린 도시 카드 팩 1개",
+                    "1 x pakiet kart KATAKLIZMU, 1 x pakiet kart Poprzez linie czasu,\n1 x pakiet kart Zaginionego miasta Un'Goro",
+                    "1x Pacote de cards de CATACLISMO, 1x Pacote de cards de Através dos Percursos Temporais,\n1x Pacote de cards de Cidade Perdida de Un'Goro",
+                    "1 комплект «КАТАКЛИЗМ», 1 комплект «Сквозь потоки времени»,\n1 комплект «Затерянного города Ун'Горо»",
+                    "1x ซองการ์ด CATACLYSM, 1x ซองการ์ด Across the Timeways, 1x ซองการ์ด The Lost City of Un'Goro",
+                    "1包大地的裂变卡牌包，1包穿越时间流卡牌包，1包安戈洛龟途卡牌包",
+                    "1x 《浩劫與重生》卡牌包、1x 《時光特攻隊》卡牌包、\n1x 《安戈洛迷城》卡牌包"
+                ],
+                "m_locId": 2951412
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3484,
+            "m_description": {
+                "m_locValues": [
+                    "1x Escape from Violet Hold Card Pack, 1x CATACLYSM Card Pack, 1x Across the Timeways Card Pack",
+                    "1x Kartenpackung: Flucht aus der Violetten Festung, 1x Kartenpackung aus KATAKLYSMUS, 1x Kartenpackung: Reise durch die Zeitwege",
+                    "1x sobre de Fuga del Bastión Violeta, 1x sobre de EL CATACLISMO, 1x sobre de Los Portales del Tiempo",
+                    "1 paquete de cartas de Escape del Bastión Violeta, 1 paquete de cartas de CATACLISMO, 1 paquete de cartas de A través de los Portales del Tiempo",
+                    "Paquet d’Évasion du fort Pourpre ×1, paquet de CATACLYSME ×1, paquet de Par-delà les voies temporelles ×1",
+                    "1 busta di Fuga dalla Fortezza Violacea, 1 busta di CATACLISMA, 1 busta di Oltre i Flussi Temporali",
+                    "「ヴァイオレット監獄脱出計画！」カードパックx1、「終焉のアゼロス」カードパックx1、「タイムウェイの旅人たち」カードパックx1",
+                    "보랏빛 요새 탈출 작전 카드 팩 1개, 대격변 카드 팩 1개, 시간의 길 너머로 카드 팩 1개",
+                    "1 x pakiet kart Ucieczki z Purpurowej Twierdzy, 1 x pakiet kart KATAKLIZMU, 1 x pakiet kart Poprzez linie czasu",
+                    "1x Pacote de cards de Fuga do Castelo Violeta, 1x Pacote de cards de CATACLISMO, 1x Pacote de cards de Através dos Percursos Temporais",
+                    "1 комплект «Побега из Аметистовой крепости», 1 комплект «КАТАКЛИЗМ», 1 комплект «Сквозь потоки времени»",
+                    "1x ซองการ์ด Escape from Violet Hold, 1x ซองการ์ด CATACLYSM, 1x ซองการ์ด Across the Timeways",
+                    "1包逃离紫罗兰监狱卡牌包，1包大地的裂变卡牌包，1包穿越时间流卡牌包",
+                    "1x 《紫羅蘭堡大逃亡》卡牌包、1x 《浩劫與重生》卡牌包、\n1x 《時光特攻隊》卡牌包"
+                ],
+                "m_locId": 2951413
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3485,
+            "m_description": {
+                "m_locValues": [
+                    "2x Escape from Violet Hold Card Pack, 1x Across the Timeways Card Pack, 1x Standard Card Pack",
+                    "2x Kartenpackung: Flucht aus der Violetten Festung, 1x Kartenpackung: Reise durch die Zeitwege, 1x Standard-Kartenpackung",
+                    "2x sobre de Fuga del Bastión Violeta, 1x sobre de Los Portales del Tiempo, 1x sobre estándar",
+                    "2 paquetes de cartas de Escape del Bastión Violeta, 1 paquete de cartas de A través de los Portales del Tiempo, 1 paquete de cartas estándar",
+                    "Paquet d’Évasion du fort Pourpre x2, paquet de Par-delà les voies temporelles ×1, paquet de cartes standard x1",
+                    "2 buste di Fuga dalla Fortezza Violacea, 1 busta di Oltre i Flussi Temporali, 1 busta Standard",
+                    "「ヴァイオレット監獄脱出計画！」カードパックx2、「タイムウェイの旅人たち」カードパックx1、スタンダードカードパックx1",
+                    "보랏빛 요새 탈출 작전 카드 팩 2개, 시간의 길 너머로 카드 팩 1개, 정규 카드 팩 1개",
+                    "2 x pakiet kart Ucieczki z Purpurowej Twierdzy, 1 x pakiet kart Poprzez linie czasu, 1 x pakiet kart standardowych",
+                    "2x Pacotes de Cards de Fuga do Castelo Violeta, 1x Pacote de Cards de Através dos Percursos Temporais, 1x Pacote de Cards Padrão",
+                    "2 комплекта «Побега из Аметистовой крепости», 1 комплект «Сквозь потоки времени», 1 стандартный комплект",
+                    "2x ซองการ์ด Escape from Violet Hold, 1x ซองการ์ด Across the Timeways, 1x ซองการ์ดมาตรฐาน",
+                    "2包逃离紫罗兰监狱卡牌包，1包穿越时间流卡牌包，1包标准卡牌包",
+                    "2x 《紫羅蘭堡大逃亡》卡牌包、1x 《時光特攻隊》卡牌包、\n1x 標準規則卡牌包"
+                ],
+                "m_locId": 2951414
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3486,
+            "m_description": {
+                "m_locValues": [
+                    "Runebound Beatrix Hero Skin,\n3x Escape from Violet Hold Pack, 1x Catch Up Pack",
+                    "Heldenskin Runegebundene Beatrix-,\n3x Kartenpackung: Flucht aus der Violetten Festung, 1x Aufholpackung",
+                    "Aspecto de héroe Beatrix Vinculada por Runas,\n3x sobre de Fuga del Bastión Violeta, 1x sobre para ponerse al día",
+                    "Diseño de heroína de Beatrix Vínculo rúnico,\n3 paquetes de Escape del Bastión Violeta, 1 paquete de abastecimiento",
+                    "Modèle héroïque Beatrix runeliée,\npaquet d’Évasion du fort Pourpre ×3, paquet de rattrapage ×1",
+                    "Modello eroe Beatrix Vincolata alle Rune,\n3 buste di Fuga dalla Fortezza Violacea, busta di recupero",
+                    "ヒーロースキン「ルーンに縛られしビアトリックス」、\n「ヴァイオレット監獄脱出計画！」パックx3、キャッチアップパックx1",
+                    "룬결속 베아트릭스 영웅 스킨,\n보랏빛 요새 탈출 작전 팩 3개, 발돋움 팩 1개",
+                    "Skórka bohatera Beatrycze, Opętana Runami,\n3 x pakiet Ucieczki z Purpurowej Twierdzy, 1 x pakiet posiłkowy",
+                    "Visual de Herói Beatrix Gravada em Runas,\n3x Pacotes de Fuga do Castelo Violeta, 1x Pacote de Atualização",
+                    "Облик героя «Беатриса Рунная»,\n3 комплекта «Побега из Аметистовой крепости», 1 комплект для догоняющих",
+                    "สกินฮีโร่เบียทริกซ์ผนึกรูน, 3x ซองการ์ด Escape from Violet Hold, 1x ซองแคตช์อัพ",
+                    "英雄皮肤符文之缚碧阿崔克丝，3包逃离紫罗兰监狱卡牌包，1包追赶包",
+                    "符文束縛碧翠絲英雄造型、\n3x 《紫羅蘭堡大逃亡》卡牌包、1x 追趕進度包"
+                ],
+                "m_locId": 2951415
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3487,
+            "m_description": {
+                "m_locValues": [
+                    "1x CATACLYSM Card Pack, 1x Across the Timeways Card Pack,\n1x The Lost City of Un'goro Card Pack",
+                    "1x Kartenpackung aus KATAKLYSMUS, 1x Kartenpackung: Reise durch die Zeitwege,\n1x Kartenpackung: Die Verlorene Stadt Un'Goro",
+                    "1x sobre de EL CATACLISMO, 1x sobre de Los Portales del Tiempo,\n1x sobre de La Ciudad Perdida de Un'Goro",
+                    "1 paquete de cartas de CATACLISMO, 1 paquete de cartas de A través de los Portales del Tiempo,\n1 paquete de cartas de La Ciudad Perdida de Un'Goro",
+                    "Paquet de CATACLYSME ×1, paquet de Par-delà les voies temporelles ×1,\npaquet de La cité perdue d’Un’Goro ×1",
+                    "1 busta di CATACLISMA, 1 busta di Oltre i Flussi Temporali,\n1 busta di La Città Perduta di Un'Goro",
+                    "「終焉のアゼロス」カードパックx1、「タイムウェイの旅人たち」カードパックx1、\n「ウンゴロ最後の秘境」カードパックx1",
+                    "대격변 카드 팩 1개, 시간의 길 너머로 카드 팩 1개,\n운고로의 잃어버린 도시 카드 팩 1개",
+                    "1 x pakiet kart KATAKLIZMU, 1 x pakiet kart Poprzez linie czasu,\n1 x pakiet kart Zaginionego miasta Un'Goro",
+                    "1x Pacote de cards de CATACLISMO, 1x Pacote de cards de Através dos Percursos Temporais,\n1x Pacote de cards de Cidade Perdida de Un'Goro",
+                    "1 комплект «КАТАКЛИЗМ», 1 комплект «Сквозь потоки времени»,\n1 комплект «Затерянного города Ун'Горо»",
+                    "1x ซองการ์ด CATACLYSM, 1x ซองการ์ด Across the Timeways, 1x ซองการ์ด The Lost City of Un'Goro",
+                    "1包大地的裂变卡牌包，1包穿越时间流卡牌包，1包安戈洛龟途卡牌包",
+                    "1x 《浩劫與重生》卡牌包、1x 《時光特攻隊》卡牌包、\n1x 《安戈洛迷城》卡牌包"
+                ],
+                "m_locId": 2951416
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3488,
+            "m_description": {
+                "m_locValues": [
+                    "1x Escape from Violet Hold Card Pack, 1x CATACLYSM Card Pack, 1x Across the Timeways Card Pack",
+                    "1x Kartenpackung: Flucht aus der Violetten Festung, 1x Kartenpackung aus KATAKLYSMUS, 1x Kartenpackung: Reise durch die Zeitwege",
+                    "1x sobre de Fuga del Bastión Violeta, 1x sobre de EL CATACLISMO, 1x sobre de Los Portales del Tiempo",
+                    "1 paquete de cartas de Escape del Bastión Violeta, 1 paquete de cartas de CATACLISMO, 1 paquete de cartas de A través de los Portales del Tiempo",
+                    "Paquet d’Évasion du fort Pourpre ×1, paquet de CATACLYSME ×1, paquet de Par-delà les voies temporelles ×1",
+                    "1 busta di Fuga dalla Fortezza Violacea, 1 busta di CATACLISMA, 1 busta di Oltre i Flussi Temporali",
+                    "「ヴァイオレット監獄脱出計画！」カードパックx1、「終焉のアゼロス」カードパックx1、「タイムウェイの旅人たち」カードパックx1",
+                    "보랏빛 요새 탈출 작전 카드 팩 1개, 대격변 카드 팩 1개, 시간의 길 너머로 카드 팩 1개",
+                    "1 x pakiet kart Ucieczki z Purpurowej Twierdzy, 1 x pakiet kart KATAKLIZMU, 1 x pakiet kart Poprzez linie czasu",
+                    "1x Pacote de cards de Fuga do Castelo Violeta, 1x Pacote de cards de CATACLISMO, 1x Pacote de cards de Através dos Percursos Temporais",
+                    "1 комплект «Побега из Аметистовой крепости», 1 комплект «КАТАКЛИЗМ», 1 комплект «Сквозь потоки времени»",
+                    "1x ซองการ์ด Escape from Violet Hold, 1x ซองการ์ด CATACLYSM, 1x ซองการ์ด Across the Timeways",
+                    "1包逃离紫罗兰监狱卡牌包，1包大地的裂变卡牌包，1包穿越时间流卡牌包",
+                    "1x 《紫羅蘭堡大逃亡》卡牌包、1x 《浩劫與重生》卡牌包、\n1x 《時光特攻隊》卡牌包"
+                ],
+                "m_locId": 2951417
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3489,
+            "m_description": {
+                "m_locValues": [
+                    "2x Escape from Violet Hold Card Pack, 1x Across the Timeways Card Pack, 1x Standard Card Pack",
+                    "2x Kartenpackung: Flucht aus der Violetten Festung, 1x Kartenpackung: Reise durch die Zeitwege, 1x Standard-Kartenpackung",
+                    "2x sobre de Fuga del Bastión Violeta, 1x sobre de Los Portales del Tiempo, 1x sobre estándar",
+                    "2 paquetes de cartas de Escape del Bastión Violeta, 1 paquete de cartas de A través de los Portales del Tiempo, 1 paquete de cartas estándar",
+                    "Paquet d’Évasion du fort Pourpre x2, paquet de Par-delà les voies temporelles ×1, paquet de cartes standard x1",
+                    "2 buste di Fuga dalla Fortezza Violacea, 1 busta di Oltre i Flussi Temporali, 1 busta Standard",
+                    "「ヴァイオレット監獄脱出計画！」カードパックx2、「タイムウェイの旅人たち」カードパックx1、スタンダードカードパックx1",
+                    "보랏빛 요새 탈출 작전 카드 팩 2개, 시간의 길 너머로 카드 팩 1개, 정규 카드 팩 1개",
+                    "2 x pakiet kart Ucieczki z Purpurowej Twierdzy, 1 x pakiet kart Poprzez linie czasu, 1 x pakiet kart standardowych",
+                    "2x Pacotes de Cards de Fuga do Castelo Violeta, 1x Pacote de Cards de Através dos Percursos Temporais, 1x Pacote de Cards Padrão",
+                    "2 комплекта «Побега из Аметистовой крепости», 1 комплект «Сквозь потоки времени», 1 стандартный комплект",
+                    "2x ซองการ์ด Escape from Violet Hold, 1x ซองการ์ด Across the Timeways, 1x ซองการ์ดมาตรฐาน",
+                    "2包逃离紫罗兰监狱卡牌包，1包穿越时间流卡牌包，1包标准卡牌包",
+                    "2x 《紫羅蘭堡大逃亡》卡牌包、1x 《時光特攻隊》卡牌包、\n1x 標準規則卡牌包"
+                ],
+                "m_locId": 2951418
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3490,
+            "m_description": {
+                "m_locValues": [
+                    "Gaolbreaker Godfrey Hero Skin,\n3x Escape from Violet Hold Pack, 1x Catch Up Pack",
+                    "Heldenskin Ausbrecher Godfrey-,\n3x Kartenpackung: Flucht aus der Violetten Festung, 1x Aufholpackung",
+                    "Aspecto de héroe Godfrey Fugado del Presidio,\n3x sobre de Fuga del Bastión Violeta, 1x sobre para ponerse al día",
+                    "Diseño de héroe de Godfrey Rompeceldas,\n3 paquetes de Escape del Bastión Violeta, 1 paquete de abastecimiento",
+                    "Modèle héroïque Godfrey le fugitif,\npaquet d’Évasion du fort Pourpre ×3, paquet de rattrapage ×1",
+                    "Modello eroe Godfrey in Fuga,\n3 buste di Fuga dalla Fortezza Violacea, 1 busta di recupero",
+                    "ヒーロースキン「脱獄人ゴッドフリー」、\n「ヴァイオレット監獄脱出計画！」パックx3、キャッチアップパックx1",
+                    "탈옥범 고드프리 영웅 스킨,\n보랏빛 요새 탈출 작전 팩 3개, 발돋움 팩 1개",
+                    "Skórka bohatera Godfryd, Ciurmie Obcy,\n3 x pakiet Ucieczki z Purpurowej Twierdzy, 1 x pakiet posiłkowy",
+                    "Visual de Herói Godfrey Quebra-cadeia,\n3x Pacotes de Fuga do Castelo Violeta, 1x Pacote de Atualização",
+                    "Облик героя «Экс-каторжник Годфри»,\n3 комплекта «Побега из Аметистовой крепости», 1 комплект для догоняющих",
+                    "สกินฮีโร่ก็อดฟรีย์ผู้ทลายคุก, 3x ซองการ์ด Escape from Violet Hold, 1x ซองแคตช์อัพ",
+                    "英雄皮肤越狱者高弗雷，3包逃离紫罗兰监狱卡牌包，1包追赶包",
+                    "破獄者高佛雷英雄造型、\n3x 《紫羅蘭堡大逃亡》卡牌包、1x 追趕進度包"
+                ],
+                "m_locId": 2951419
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3491,
+            "m_description": {
+                "m_locValues": [
+                    "1x CATACLYSM Card Pack, 1x Across the Timeways Card Pack,\n1x The Lost City of Un'goro Card Pack",
+                    "1x Kartenpackung aus KATAKLYSMUS, 1x Kartenpackung: Reise durch die Zeitwege,\n1x Kartenpackung: Die Verlorene Stadt Un'Goro",
+                    "1x sobre de EL CATACLISMO, 1x sobre de Los Portales del Tiempo,\n1x sobre de La Ciudad Perdida de Un'Goro",
+                    "1 paquete de cartas de CATACLISMO, 1 paquete de cartas de A través de los Portales del Tiempo,\n1 paquete de cartas de La Ciudad Perdida de Un'Goro",
+                    "Paquet de CATACLYSME ×1, paquet de Par-delà les voies temporelles ×1,\npaquet de La cité perdue d’Un’Goro ×1",
+                    "1 busta di CATACLISMA, 1 busta di Oltre i Flussi Temporali,\n1 busta di La Città Perduta di Un'Goro",
+                    "「終焉のアゼロス」カードパックx1、「タイムウェイの旅人たち」カードパックx1、\n「ウンゴロ最後の秘境」カードパックx1",
+                    "대격변 카드 팩 1개, 시간의 길 너머로 카드 팩 1개,\n운고로의 잃어버린 도시 카드 팩 1개",
+                    "1 x pakiet kart KATAKLIZMU, 1 x pakiet kart Poprzez linie czasu,\n1 x pakiet kart Zaginionego miasta Un'Goro",
+                    "1x Pacote de cards de CATACLISMO, 1x Pacote de cards de Através dos Percursos Temporais,\n1x Pacote de cards de Cidade Perdida de Un'Goro",
+                    "1 комплект «КАТАКЛИЗМ», 1 комплект «Сквозь потоки времени»,\n1 комплект «Затерянного города Ун'Горо»",
+                    "1x ซองการ์ด CATACLYSM, 1x ซองการ์ด Across the Timeways, 1x ซองการ์ด The Lost City of Un'Goro",
+                    "1包大地的裂变卡牌包，1包穿越时间流卡牌包，1包安戈洛龟途卡牌包",
+                    "1x 《浩劫與重生》卡牌包、1x 《時光特攻隊》卡牌包、\n1x 《安戈洛迷城》卡牌包"
+                ],
+                "m_locId": 2951420
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3492,
+            "m_description": {
+                "m_locValues": [
+                    "1x Escape from Violet Hold Card Pack, 1x CATACLYSM Card Pack, 1x Across the Timeways Card Pack",
+                    "1x Kartenpackung: Flucht aus der Violetten Festung, 1x Kartenpackung aus KATAKLYSMUS, 1x Kartenpackung: Reise durch die Zeitwege",
+                    "1x sobre de Fuga del Bastión Violeta, 1x sobre de EL CATACLISMO, 1x sobre de Los Portales del Tiempo",
+                    "1 paquete de cartas de Escape del Bastión Violeta, 1 paquete de cartas de CATACLISMO, 1 paquete de cartas de A través de los Portales del Tiempo",
+                    "Paquet d’Évasion du fort Pourpre ×1, paquet de CATACLYSME ×1, paquet de Par-delà les voies temporelles ×1",
+                    "1 busta di Fuga dalla Fortezza Violacea, 1 busta di CATACLISMA, 1 busta di Oltre i Flussi Temporali",
+                    "「ヴァイオレット監獄脱出計画！」カードパックx1、「終焉のアゼロス」カードパックx1、「タイムウェイの旅人たち」カードパックx1",
+                    "보랏빛 요새 탈출 작전 카드 팩 1개, 대격변 카드 팩 1개, 시간의 길 너머로 카드 팩 1개",
+                    "1 x pakiet kart Ucieczki z Purpurowej Twierdzy, 1 x pakiet kart KATAKLIZMU, 1 x pakiet kart Poprzez linie czasu",
+                    "1x Pacote de cards de Fuga do Castelo Violeta, 1x Pacote de cards de CATACLISMO, 1x Pacote de cards de Através dos Percursos Temporais",
+                    "1 комплект «Побега из Аметистовой крепости», 1 комплект «КАТАКЛИЗМ», 1 комплект «Сквозь потоки времени»",
+                    "1x ซองการ์ด Escape from Violet Hold, 1x ซองการ์ด CATACLYSM, 1x ซองการ์ด Across the Timeways",
+                    "1包逃离紫罗兰监狱卡牌包，1包大地的裂变卡牌包，1包穿越时间流卡牌包",
+                    "1x 《紫羅蘭堡大逃亡》卡牌包、1x 《浩劫與重生》卡牌包、\n1x 《時光特攻隊》卡牌包"
+                ],
+                "m_locId": 2951421
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3493,
+            "m_description": {
+                "m_locValues": [
+                    "2x Escape from Violet Hold Card Pack, 1x Across the Timeways Card Pack, 1x Standard Card Pack",
+                    "2x Kartenpackung: Flucht aus der Violetten Festung, 1x Kartenpackung: Reise durch die Zeitwege, 1x Standard-Kartenpackung",
+                    "2x sobre de Fuga del Bastión Violeta, 1x sobre de Los Portales del Tiempo, 1x sobre estándar",
+                    "2 paquetes de cartas de Escape del Bastión Violeta, 1 paquete de cartas de A través de los Portales del Tiempo, 1 paquete de cartas estándar",
+                    "Paquet d’Évasion du fort Pourpre x2, paquet de Par-delà les voies temporelles ×1, paquet de cartes standard x1",
+                    "2 buste di Fuga dalla Fortezza Violacea, 1 busta di Oltre i Flussi Temporali, 1 busta Standard",
+                    "「ヴァイオレット監獄脱出計画！」カードパックx2、「タイムウェイの旅人たち」カードパックx1、スタンダードカードパックx1",
+                    "보랏빛 요새 탈출 작전 카드 팩 2개, 시간의 길 너머로 카드 팩 1개, 정규 카드 팩 1개",
+                    "2 x pakiet kart Ucieczki z Purpurowej Twierdzy, 1 x pakiet kart Poprzez linie czasu, 1 x pakiet kart standardowych",
+                    "2x Pacotes de Cards de Fuga do Castelo Violeta, 1x Pacote de Cards de Através dos Percursos Temporais, 1x Pacote de Cards Padrão",
+                    "2 комплекта «Побега из Аметистовой крепости», 1 комплект «Сквозь потоки времени», 1 стандартный комплект",
+                    "2x ซองการ์ด Escape from Violet Hold, 1x ซองการ์ด Across the Timeways, 1x ซองการ์ดมาตรฐาน",
+                    "2包逃离紫罗兰监狱卡牌包，1包穿越时间流卡牌包，1包标准卡牌包",
+                    "2x 《紫羅蘭堡大逃亡》卡牌包、1x 《時光特攻隊》卡牌包、\n1x 標準規則卡牌包"
+                ],
+                "m_locId": 2951422
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3494,
+            "m_description": {
+                "m_locValues": [
+                    "Unfettered Azalina Hero Skin,\n3x Escape from Violet Hold Pack, 1x Catch Up Pack",
+                    "Heldenskin Entfesselte Azalina-,\n3x Kartenpackung: Flucht aus der Violetten Festung, 1x Aufholpackung",
+                    "Aspecto de héroe Azalina sin ataduras,\n3x sobre de Fuga del Bastión Violeta, 1x sobre para ponerse al día",
+                    "Diseño de heroína de Azalina Liberada,\n3 paquetes de Escape del Bastión Violeta, 1 paquete de abastecimiento",
+                    "Modèle héroïque Azalina sans entrave,\npaquet d’Évasion du fort Pourpre ×3, paquet de rattrapage ×1",
+                    "Modello eroe Azalina Libera dalle Catene,\n3 buste di Fuga dalla Fortezza Violacea, 1 busta di recupero",
+                    "ヒーロースキン「束縛を解かれしアザリナ」、\n「ヴァイオレット監獄脱出計画！」パックx3、キャッチアップパックx1",
+                    "해방된 아잘리나 영웅 스킨,\n보랏빛 요새 탈출 작전 팩 3개, 발돋움 팩 1개",
+                    "Skórka bohatera Azalina Nieskrępowana,\n3 x pakiet Ucieczki z Purpurowej Twierdzy, 1 x pakiet posiłkowy",
+                    "Visual de Herói Azalina Liberta,\n3x Pacotes de Fuga do Castelo Violeta, 1x Pacote de Atualização",
+                    "Облик героя «Азалина Неудержимая»,\n3 комплекта «Побега из Аметистовой крепости», 1 комплект для догоняющих",
+                    "สกินฮีโร่อาซาลินาไร้พันธะ, 3x ซองการ์ด Escape from Violet Hold, 1x ซองแคตช์อัพ",
+                    "英雄皮肤获释的阿扎莉娜，3包逃离紫罗兰监狱卡牌包，1包追赶包",
+                    "無縛的阿薩琳娜英雄造型、\n3x 《紫羅蘭堡大逃亡》卡牌包、1x 追趕進度包"
+                ],
+                "m_locId": 2951423
+            },
+            "m_chooseOne": 0,
+            "m_random": 0,
+            "m_fallbackRewardListId": 0,
+            "m_exitRewardListId": 0,
+            "m_locked": 0
+        },
+        {
+            "m_ID": 3495,
+            "m_description": {
+                "m_locValues": [
+                    "Eternal Scarab Card Back",
+                    "Kartenrücken Ewiger Skarabäus",
+                    "Dorso de carta de Escarabajo eterno",
+                    "Dorso de carta de Escarabajo eterno",
+                    "Dos de carte Scarabée éternel",
+                    "Dorso Scarabeo Eterno",
+                    "カード裏面デザイン「永遠のスカラベ」",
+                    "영원한 딱정벌레 카드 뒷면",
+                    "Rewers Wieczny skarabeusz",
+                    "Verso de card Escaravelho Eterno",
+                    "Рубашка «Вечный скарабей»",
+                    "หลังการ์ดสคารับนิรันดร์",
+                    "永恒甲虫卡背图案",
+                    "永恆甲蟲卡背"
+                ],
+                "m_locId": 2951613
             },
             "m_chooseOne": 0,
             "m_random": 0,
